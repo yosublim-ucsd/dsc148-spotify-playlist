@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,253 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,274 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,20 +35,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 25 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 |
 | 26 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
 | 27 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
-| 28 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 |
-| 29 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
+| 28 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
+| 29 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 |
 | 30 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 31 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
 | 32 | [I Was Born To Love You](https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 4:11 |
 | 33 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 |
-| 34 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 |
-| 35 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 34 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 35 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 |
 | 36 | [The Weary Kind](https://open.spotify.com/track/5uqQQtXsY2HJLbPVPwcz6C) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 4:18 |
 | 37 | [Letter to Madeline](https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 4:29 |
 | 38 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
 | 39 | [Sanctuary](https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 4:26 |
-| 40 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
-| 41 | [Crosses](https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:42 |
+| 40 | [Crosses](https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:42 |
+| 41 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 42 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 |
 | 43 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 44 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 85 | [Hard Times](https://open.spotify.com/track/3FJ46AfhOr2TyfhVTlK1sj) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [The Harrow & The Harvest](https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0) | 4:52 |
 | 86 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
 | 87 | [Just One of the Guys](https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:51 |
-| 88 | [Amazing Eyes](https://open.spotify.com/track/3UGJdpJrWDp07V37Q5PNas) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Come Back As Rain](https://open.spotify.com/album/0VTbqFF2pxCJopfms6um73) | 3:46 |
-| 89 | [Violent Shiver](https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 2:46 |
+| 88 | [Violent Shiver](https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 2:46 |
+| 89 | [Amazing Eyes](https://open.spotify.com/track/3UGJdpJrWDp07V37Q5PNas) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Come Back As Rain](https://open.spotify.com/album/0VTbqFF2pxCJopfms6um73) | 3:46 |
 | 90 | [Snowden's Jig \(Genuine Negro Jig\)](https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:52 |
 | 91 | [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 |
 | 92 | [Kansas City](https://open.spotify.com/track/4p4YWRwlMj6XFcHkOrAbG7) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 4:04 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 96 | [Wreck You](https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 3:18 |
 | 97 | [The Traveling Kind](https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Traveling Kind](https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch) | 3:40 |
 | 98 | [Dust](https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Dust](https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy) | 5:02 |
-| 99 | [Canyon](https://open.spotify.com/track/2SzIui6zoL8iXbKn6nU7sr) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 2:55 |
-| 100 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
+| 99 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
+| 100 | [Canyon](https://open.spotify.com/track/2SzIui6zoL8iXbKn6nU7sr) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 2:55 |
 
 Snapshot ID: `Zs8vZQAAAABWQYuebx2uTsOc2hdh57fv`

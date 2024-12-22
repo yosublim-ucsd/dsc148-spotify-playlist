@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
+    },
+    {
+      "album": {
         "name": "Z",
         "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
       },
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 147146,
       "name": "Dreamin",
       "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
@@ -5910,7 +5928,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 213253,
       "name": "Lotus Flower Bomb (feat. Miguel)",
       "url": "https://open.spotify.com/track/3MAgQuClHcAV8E9CbeBS6f"
@@ -8698,7 +8716,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 194733,
       "name": "R e a l W o m a n",
       "url": "https://open.spotify.com/track/7FzUJj4UzBlswK4EmF6BDK"

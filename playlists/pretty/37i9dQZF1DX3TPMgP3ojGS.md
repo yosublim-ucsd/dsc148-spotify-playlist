@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,891 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,009 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 25 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 |
 | 26 | [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 |
 | 27 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
-| 28 | [A Safe Space](https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [A Safe Space](https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU) | 2:28 |
-| 29 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
+| 28 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
+| 29 | [A Safe Space](https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1) | [Aramis Morel](https://open.spotify.com/artist/0ggD5NH7vsGHwcBWHnyVq4) | [A Safe Space](https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU) | 2:28 |
 | 30 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 |
 | 31 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 |
 | 32 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 40 | [The swan](https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [The swan](https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu) | 2:37 |
 | 41 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 42 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 |
-| 43 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 |
-| 44 | [Under a tree](https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Under a tree](https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn) | 2:18 |
+| 43 | [Under a tree](https://open.spotify.com/track/6yhkANlWR9KWT75aAqXmGm) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Under a tree](https://open.spotify.com/album/7qojOtV6iN19aRMSb5RNTn) | 2:18 |
+| 44 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 |
 | 45 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 |
 | 46 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
 | 47 | [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 54 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 |
 | 55 | [Peace flow](https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Peace flow](https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm) | 2:17 |
 | 56 | [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 |
-| 57 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
-| 58 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
+| 57 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
+| 58 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
 | 59 | [Evening Star](https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Evening Star](https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65) | 2:08 |
 | 60 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
 | 61 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 68 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 |
 | 69 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
 | 70 | [Dancing Dreams](https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Dancing Dreams](https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO) | 2:18 |
-| 71 | [Window Seat](https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Window Seat](https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF) | 2:25 |
-| 72 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 |
+| 71 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 |
+| 72 | [Window Seat](https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Window Seat](https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF) | 2:25 |
 | 73 | [Chanson d’été](https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Chanson d’été](https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp) | 2:43 |
 | 74 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
 | 75 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 |

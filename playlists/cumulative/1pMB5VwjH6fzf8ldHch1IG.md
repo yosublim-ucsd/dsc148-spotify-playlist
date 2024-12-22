@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.
 
-815 songs - 1 day 18 hr 46 min
+816 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 | 2024-10-17 | 2024-11-16 |
 | [2Face \- Venom: The Last Dance](https://open.spotify.com/track/1qJvV0jip3tPLI2Fpx8grp) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [2Face \- Venom: The Last Dance](https://open.spotify.com/album/4d0tA1IeACbekcUSqVGwsT) | 2:52 | 2024-10-25 | 2024-11-23 |
 | [2wice Again](https://open.spotify.com/track/1ozcu6sqh1hoecOs3SVKSd) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [2wice Again](https://open.spotify.com/album/4XrzFeZsbRgxNW1ziiSn7N) | 2:10 | 2024-02-16 | 2024-03-02 |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-21 |  |
 | [333](https://open.spotify.com/track/48UYr1dGBqyANIVzBXXh4V) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [333](https://open.spotify.com/album/1mFziNotvt1U68FVrobihQ) | 3:44 | 2024-11-29 |  |
 | [4 foot 2](https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [4 foot 2](https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz) | 2:34 | 2024-07-02 | 2024-07-20 |
 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2023-12-08 | 2024-02-03 |
@@ -551,7 +552,7 @@
 | [Over You](https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Over You](https://open.spotify.com/album/0Y8njREiJhHegRMwHHrNth) | 2:29 | 2024-01-26 | 2024-03-09 |
 | [Owe To You \- A COLORS SHOW](https://open.spotify.com/track/3CkJ5kQNtNlgiQMhIqWufA) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Owe To You \- A COLORS SHOW](https://open.spotify.com/album/06IwA9kDQ5U0VrKJ7xn372) | 3:54 | 2024-10-04 | 2024-10-26 |
 | [PANIC ATTACK](https://open.spotify.com/track/4WMuO95Swpnr2cShFGxmgI) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [PANIC ATTACK](https://open.spotify.com/album/6S0ICRskr52yiEGuLKounG) | 2:27 | 2023-11-03 | 2023-11-25 |
-| [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-25 |  |
+| [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-25 | 2024-12-22 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-04 | 2024-11-02 |
 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 | 2024-04-01 | 2024-04-20 |
 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 | 2024-10-03 | 2024-10-26 |

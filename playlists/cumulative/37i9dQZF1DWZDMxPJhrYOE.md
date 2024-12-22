@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-307 songs - 15 hr 47 min
+308 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-07-01 | 2024-08-01 |
 | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB) | 3:20 | 2024-07-01 | 2024-07-13 |
 | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY) | 2:23 | 2024-07-18 | 2024-11-08 |
+| [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-19 |  |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-16 | 2024-11-08 |
 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 | 2024-11-07 | 2024-11-09 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-01 | 2024-09-13 |
@@ -303,7 +304,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-07-01 | 2024-08-01 |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-22 |  |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-07-31 | 2024-08-21 |
-| [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 | 2024-10-03 |  |
+| [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 | 2024-10-03 | 2024-12-22 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-07-01 | 2024-08-01 |
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-03 |  |
 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-10-17 | 2024-10-25 |

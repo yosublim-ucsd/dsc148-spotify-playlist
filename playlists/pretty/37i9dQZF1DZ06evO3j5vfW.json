@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71829,
+  "num_followers": 71834,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAC/HJDv+y51Q4XW3U8iJa87",
+  "snapshot_id": "Z2SzgAAAAABti7xcRN2T66yPLmzl2IlW",
   "tracks": [
     {
       "added_at": null,
@@ -55,30 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here We Go Again",
-        "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "GESES",
-          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
-        }
-      ],
-      "duration_ms": 167194,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Do I Go",
         "url": "https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q"
       },
@@ -103,6 +79,30 @@
       "duration_ms": 138461,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "GESES",
+          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
+        }
+      ],
+      "duration_ms": 167194,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 238636,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To The Floor (Nicky Romero Edit)",
         "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 142857,
       "name": "To The Floor (Nicky Romero Edit)",
       "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 238636,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0"
     },
     {
       "added_at": null,
@@ -1063,6 +1063,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here We Go (Hey Boy, Hey Girl)",
+        "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Here We Go (Hey Boy, Hey Girl)",
+      "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 221428,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here We Go (Hey Boy, Hey Girl)",
-        "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Here We Go (Hey Boy, Hey Girl)",
-      "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
     },
     {
       "added_at": null,

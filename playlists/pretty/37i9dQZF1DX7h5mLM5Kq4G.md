@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 
 > The songs we've been partying to in 2023\. Cover:  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,864 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,860 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 | 37 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
 | 38 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
 | 39 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 |
-| 40 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
-| 41 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 |
+| 40 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 |
+| 41 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 42 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 43 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 44 | [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 |

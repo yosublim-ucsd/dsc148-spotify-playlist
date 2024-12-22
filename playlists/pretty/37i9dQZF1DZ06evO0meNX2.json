@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 34044,
+  "num_followers": 34078,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAAOAw6UiJZ7pvWOBVByz0ob",
+  "snapshot_id": "Z2SzgAAAAACqWKyuOk2lAmbi/pmnn/jJ",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Ahora Resulta",
+        "url": "https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "duration_ms": 213907,
+      "name": "Y Ahora Resulta",
+      "url": "https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C.H.S.M",
         "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 138533,
       "name": "C.H.S.M",
       "url": "https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Ahora Resulta",
-        "url": "https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
-        }
-      ],
-      "duration_ms": 213907,
-      "name": "Y Ahora Resulta",
-      "url": "https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Despreciado",
+        "url": "https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 210951,
+      "name": "Despreciado",
+      "url": "https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tierno",
         "url": "https://open.spotify.com/album/4nWpgMsz8BblhTRxZSIohi"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 138954,
       "name": "Tierno",
       "url": "https://open.spotify.com/track/4q3WSd89URSGHjMEuZRnCY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Despreciado",
-        "url": "https://open.spotify.com/album/5ZjHn5hjOioGuelFeIL2CA"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 210951,
-      "name": "Despreciado",
-      "url": "https://open.spotify.com/track/2pWINS7Wmp5wWyDjkKq2zo"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 
 > Pop gems to help you concentrate and stay focused.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,640 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,617 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 | 24 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
 | 25 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 26 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 |
-| 27 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
-| 28 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 27 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 28 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
 | 29 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 |
 | 30 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 31 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 | 38 | [Back To You](https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:30 |
 | 39 | [September Song](https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:40 |
 | 40 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
-| 41 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:25 |
-| 42 | [Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Happy Now](https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb) | 3:27 |
+| 41 | [Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Happy Now](https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb) | 3:27 |
+| 42 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:25 |
 | 43 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 |
 | 44 | [Movement](https://open.spotify.com/track/0SFq19lgG4qbQAZaNZ3xhO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 3:57 |
 | 45 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoyxGghlqv5.md) - [plain]
 | 54 | [Walk Me Home](https://open.spotify.com/track/6jfEZdUJ2Yla6h7gTJgKuo) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 2:57 |
 | 55 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 |
 | 56 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
-| 57 | [a thousand years](https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:45 |
-| 58 | [Outnumbered](https://open.spotify.com/track/6UjZ2Yx2g2a52XxiA8ONxZ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Outnumbered](https://open.spotify.com/album/4BQVnx1yJrDa1tcky9D9N6) | 4:05 |
+| 57 | [Outnumbered](https://open.spotify.com/track/6UjZ2Yx2g2a52XxiA8ONxZ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Outnumbered](https://open.spotify.com/album/4BQVnx1yJrDa1tcky9D9N6) | 4:05 |
+| 58 | [a thousand years](https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:45 |
 | 59 | [One Call Away](https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:14 |
 | 60 | [Saturday Nights](https://open.spotify.com/track/7vGGAJBkHKxKtOnGjQduDV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B) | 3:29 |
 

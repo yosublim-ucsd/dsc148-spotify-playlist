@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 153099,
       "name": "A Nonsense Christmas",
       "url": "https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q"
@@ -6862,7 +6862,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -9404,7 +9404,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -11190,7 +11190,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -13942,7 +13942,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -14450,7 +14450,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -17828,7 +17828,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -20342,7 +20342,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 155586,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM"
@@ -23437,6 +23437,28 @@
     },
     {
       "album": {
+        "name": "+-=\u00f7\u00d7 (Tour Collection)",
+        "url": "https://open.spotify.com/album/3mJm77zryIt06nbQV7DjuY"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/0hz5PNF2wejwUKCMpesQWt"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
       },
@@ -23931,6 +23953,24 @@
     },
     {
       "album": {
+        "name": "Under The Mistletoe",
+        "url": "https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
+    },
+    {
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -23942,7 +23982,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -26654,7 +26694,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 169680,
       "name": "N\u0101rnija",
       "url": "https://open.spotify.com/track/6tbEF9YpayX9uqAA5ezx1j"
@@ -31406,7 +31446,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -33774,7 +33814,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -35486,7 +35526,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 158205,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
@@ -35926,7 +35966,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -39160,7 +39200,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 213322,
       "name": "Tu Quizas",
       "url": "https://open.spotify.com/track/7hr8WWP56K2HDpAYRNU4Xo"
@@ -41778,7 +41818,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

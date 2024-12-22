@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,985 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,004 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 31 | [I'll Cut You Down](https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 5:01 |
 | 32 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
 | 33 | [God Is In The Radio](https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 6:04 |
-| 34 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
-| 35 | [Elk.Blood.Heart](https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Our Mother Electricity](https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg) | 5:52 |
+| 34 | [Elk.Blood.Heart](https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Our Mother Electricity](https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg) | 5:52 |
+| 35 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
 | 36 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
 | 37 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
 | 38 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 |
 | 39 | [Late Night](https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:29 |
 | 40 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
 | 41 | [Death's Door](https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 7:15 |
-| 42 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
-| 43 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
+| 42 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
+| 43 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
 | 44 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
 | 45 | [Noses in Roses, Forever](https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 5:33 |
 | 46 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 52 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
 | 53 | [Cabin Fever](https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Cabin Fever](https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s) | 5:17 |
 | 54 | [To the Center](https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [To the Center](https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ) | 6:31 |
-| 55 | [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 |
-| 56 | [Drowning on Empty](https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg) | [Geezer](https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er) | [Groovy](https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1) | 4:17 |
+| 55 | [Drowning on Empty](https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg) | [Geezer](https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er) | [Groovy](https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1) | 4:17 |
+| 56 | [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 |
 | 57 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 |
 | 58 | [Bright Lights](https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [6](https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4) | 3:53 |
 | 59 | [Lust Queen](https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:12 |

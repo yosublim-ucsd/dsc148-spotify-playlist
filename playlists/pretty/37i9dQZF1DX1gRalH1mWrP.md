@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 
 > All the hits you'll need to make your summer sizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,725,366 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,725,305 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 42 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 43 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
 | 44 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 |
-| 45 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
-| 46 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
+| 45 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
+| 46 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
 | 47 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 |
 | 48 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 49 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 69 | [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 |
 | 70 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 | 71 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 |
-| 72 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 |
-| 73 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
+| 72 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
+| 73 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 |
 | 74 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 |
 | 75 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 |
 

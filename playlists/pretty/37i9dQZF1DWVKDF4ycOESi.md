@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Night Skinny in cover + tutte le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,797 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,795 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 34 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
 | 35 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 |
 | 36 | [Something](https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Something](https://open.spotify.com/album/04zTk2sCLc9oFdZCrz1rWl) | 3:06 |
-| 37 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 37 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 38 | [Lacrime Di Felicità](https://open.spotify.com/track/0gs8cOPvRWqx0h0kHkIFY6) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso), [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Lacrime Di Felicità](https://open.spotify.com/album/50hDZVOiKEXrZ3zOg6xN1a) | 3:30 |
 | 39 | [Ti Vedo](https://open.spotify.com/track/7i5EjQJTryH6bPq0jJjQE0) | [Sierra](https://open.spotify.com/artist/5LxvWvFRXBDQBVI9LwwmVp) | [Ti Vedo](https://open.spotify.com/album/0JbPSyuWsaJKZcliJaBFz0) | 2:40 |
 | 40 | [COCAINA NERA](https://open.spotify.com/track/0ImelN0NRIsjaXZjUjKR0g) | [Ski & Wok](https://open.spotify.com/artist/0r1S7BCoaU5uGAgAWptbl9), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [COCAINA NERA](https://open.spotify.com/album/1hNK3knF1r9dRWp2lN2HYD) | 2:17 |

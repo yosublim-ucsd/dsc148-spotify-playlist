@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > 🔊canzoni rap da pomparti fino all'alba! 🔊Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,234 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,238 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 23 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
 | 24 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 |
 | 25 | [Fino All'Alba](https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [FERITE](https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl) | 2:37 |
-| 26 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 |
-| 27 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
+| 26 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
+| 27 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 |
 | 28 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 |
 | 29 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
 | 30 | [3SOME \(feat\. VillaBanks\)](https://open.spotify.com/track/4wxkiwrHy5KhV5Ob1T8RHB) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [3SOME \(feat\. VillaBanks\)](https://open.spotify.com/album/1YIIGgWV5CCDfAC7FaHy0u) | 2:02 |

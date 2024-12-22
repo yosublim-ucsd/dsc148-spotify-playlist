@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,643 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,654 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 58 | [Child](https://open.spotify.com/track/67r0i04P2mbsjog2G7ovLv) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Child](https://open.spotify.com/album/6ptDIlzQych7XzDsuIZBQM) | 3:26 |
 | 59 | [Change Your Mind](https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Change Your Mind](https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY) | 2:53 |
 | 60 | [Pretty Boys](https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Thanks For Nothing, See You Never](https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc) | 2:20 |
-| 61 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 |
-| 62 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
+| 61 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
+| 62 | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Dance Before We Walk \(From “The Idea of You”\)](https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK) | 2:37 |
 | 63 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
 | 64 | [Small Steps](https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Small Steps](https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce) | 2:46 |
 | 65 | [I swear to god](https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [I swear to god](https://open.spotify.com/album/6EuH1cHAX0T1JKWX0DtWnY) | 2:35 |

@@ -1,6 +1,6 @@
 {
   "description": "bien inventadas \ud83d\udc85\ud83c\udffc\u2728",
-  "num_followers": 13795,
+  "num_followers": 13794,
   "original_name": "manicure",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "Nuevas Metas",
         "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2023-01-25 22:18:25",

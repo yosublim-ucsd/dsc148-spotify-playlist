@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: No Te Va Gustar
 
-350 songs - 1 day 2 hr 27 min
+351 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [No Voy En Tren \- Live](https://open.spotify.com/track/7upvgbzPZxsjsZyyaRRhbA) | [Charly García & The Prostitution](https://open.spotify.com/artist/4Y2lfQWx1xZIiA8ckQjyta) | [La Vanguardia Es Así \(Live\)](https://open.spotify.com/album/6squHvecpkgdtu5ugJ36dZ) | 2:45 | 2022-04-01 | 2022-07-25 |
 | [No Voy En Tren \- Live At The Roxy](https://open.spotify.com/track/369835rx5WNLBZ4tDdaG52) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán Live At The Roxy](https://open.spotify.com/album/1ACoUEUChNALtgDkdK7gTc) | 3:14 | 2022-06-10 | 2022-07-13 |
 | [Nunca Quise \- En Vivo Luna Park](https://open.spotify.com/track/101iy0A0T20E8D8Gi1HLiR) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra \(15 Aniversario \- Remasterizado\)](https://open.spotify.com/album/6lwEfjAV0TPNUQxrnoDbF1) | 4:39 | 2022-04-01 | 2022-07-27 |
+| [O No? \- En Vivo](https://open.spotify.com/track/5sncjhKWpdlgwQDJtWTvDA) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Luna en Obras \(En Vivo\)](https://open.spotify.com/album/66DKPufdxOw4bYcshbAjl4) | 2:43 | 2024-12-20 |  |
 | [Obsesionario En La Mayor \(feat\. Abel Pintos\) \- En Vivo En River Plate](https://open.spotify.com/track/2HcOKRBxqtfn4ooy4O7b8i) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Obsesionario En La Mayor \(feat\. Abel Pintos\) \[En Vivo En River Plate\]](https://open.spotify.com/album/0Osnyn6jIth0tYOeMCuHoT) | 5:29 | 2024-06-07 |  |
 | [Ojos Rojos \- En vivo](https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Ojos Rojos \(En Vivo\)](https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO) | 3:20 | 2023-08-31 |  |
 | [Once \- En Vivo](https://open.spotify.com/track/18IcFu22fTHg9ozQ7cmfkz) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Once \(En Vivo\)](https://open.spotify.com/album/50CiSjlh8UQmAlViVVy2E8) | 4:29 | 2022-04-01 | 2022-07-19 |
@@ -246,7 +247,7 @@
 | [Pantalla Del Mundo Nuevo](https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M) | [Riff](https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG) | [Pantalla Del Mundo Nuevo \(En Vivo En B.A.Rock\)](https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56) | 6:50 | 2023-11-23 | 2024-08-16 |
 | [Par Mil \- En Vivo](https://open.spotify.com/track/5uKSOIW61UtM1VD8nzsIqe) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Tilcara: El Recital](https://open.spotify.com/album/6SdhYfsSNFXe0cNgMEdkgR) | 4:12 | 2022-09-09 | 2023-07-09 |
 | [Para las Almas Sensibles \- En Vivo](https://open.spotify.com/track/53rOvzrY1XciuQh0mPQLMU) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Una Noche en el Ópera \(En Vivo\)](https://open.spotify.com/album/3UABaqEy05y9oRktWZNoB7) | 4:05 | 2022-04-01 | 2022-07-17 |
-| [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 | 2023-09-21 |  |
+| [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 | 2023-09-21 | 2024-12-22 |
 | [Paraíso en Retro \- En Vivo](https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 3:28 | 2022-04-01 | 2024-09-18 |
 | [Pasajero en Extinción \- Remasterizado 2020](https://open.spotify.com/track/0uSEEENxLs5IJw6ysujZUJ) | [Cabezones](https://open.spotify.com/artist/7FGAi3mSjLMsq6p8SErsTA) | [20 Años](https://open.spotify.com/album/1kPk2P5D6QHM4pTRAyzk13) | 4:09 | 2022-04-01 | 2022-07-29 |
 | [Pasos al Costado \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:45 | 2022-04-01 |  |

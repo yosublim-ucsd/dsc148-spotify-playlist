@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Afra
 
-183 songs - 9 hr 6 min
+185 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [Bi Şey Eksik](https://open.spotify.com/track/1TBMYatA8sUE0ne6Xm4FRZ) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bi Şey Eksik](https://open.spotify.com/album/7dAOHPimH2lfyxbOUmJ1V2) | 3:11 | 2024-06-27 | 2024-08-02 |
 | [Bi' Farkın Var](https://open.spotify.com/track/7yV4NuGTMAwTJyymp7vdrL) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Bi' Farkın Var](https://open.spotify.com/album/3vgV50xyw8ldVEPJEXbZqA) | 2:32 | 2024-10-10 | 2024-10-18 |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-06-27 |  |
+| [Bir Gün Ölürsem](https://open.spotify.com/track/5dotbwu3G11fvSwpwltLGy) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Gün Ölürsem](https://open.spotify.com/album/0IESWsxuJ693yBZ3ZRf075) | 2:36 | 2024-12-19 |  |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-27 |  |
-| [Bitter](https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bitter](https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB) | 2:12 | 2024-06-27 |  |
+| [Bitter](https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bitter](https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB) | 2:12 | 2024-06-27 | 2024-12-22 |
 | [Bizden Olmaz](https://open.spotify.com/track/0xdFiVaZwbkJlar6bHjCAF) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Bizden Olmaz](https://open.spotify.com/album/65Jp9aA1HSGAzttr8Xayj6) | 2:17 | 2024-09-05 | 2024-10-14 |
 | [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2024-06-27 | 2024-11-29 |
 | [Bu Delikanlıyı Unutamazsın \(feat\. Yıldız Tilbe\)](https://open.spotify.com/track/3X9TAWJhrQtpQHqDoCLv76) | [Rober Hatemo](https://open.spotify.com/artist/3aYxHPDvu8SETLVJBEUqld), [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Bu Delikanlıyı Unutamazsın \(feat\. Yıldız Tilbe\)](https://open.spotify.com/album/7BgY2YD3RX33jCY6LYqWD4) | 3:05 | 2024-12-19 |  |
@@ -66,7 +67,7 @@
 | [Dedi Doktorum](https://open.spotify.com/track/7GV3ugDCiKfqBp7aV7MYvW) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Dedi Doktorum](https://open.spotify.com/album/7s6rCp5g4x9ZaeGmqgyexR) | 3:25 | 2024-06-27 | 2024-07-12 |
 | [Defoluyorum](https://open.spotify.com/track/7EDxgVcaD1RaIygbWlW6or) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Defoluyorum](https://open.spotify.com/album/5dRa7IoW7J5AOlF91Jd1ob) | 2:43 | 2024-08-22 | 2024-09-17 |
 | [Defterli](https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Defterli](https://open.spotify.com/album/0ukCUTo9LZNu6avurHhlRz) | 3:56 | 2024-06-27 | 2024-11-01 |
-| [Deli Gibi Seviyorum](https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Deli Gibi Seviyorum](https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r) | 2:12 | 2024-10-24 |  |
+| [Deli Gibi Seviyorum](https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Deli Gibi Seviyorum](https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r) | 2:12 | 2024-10-24 | 2024-12-22 |
 | [Deli Yangınım](https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Deli Yangınım](https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm) | 3:45 | 2024-12-19 |  |
 | [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 | 2024-08-05 |
 | [Denizler Derya](https://open.spotify.com/track/0QfeYJR33agZbEk1IKaaKk) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Denizler Derya](https://open.spotify.com/album/2GkdmyUO37FrB3ia4XAbVX) | 4:10 | 2024-08-08 | 2024-08-23 |
@@ -92,6 +93,7 @@
 | [Haybeden](https://open.spotify.com/track/0FHOupsqeuju8lxk8Y0zRZ) | [Gökçe Kırgız Taner](https://open.spotify.com/artist/4ByD5ORLo9bbAzCJA8PnSd) | [Kendime](https://open.spotify.com/album/2DzutanSlouqXHHxHqQ1I0) | 3:24 | 2024-07-11 | 2024-07-24 |
 | [Heba](https://open.spotify.com/track/2h3bkUUJtSn1Q4yhNvfnbf) | [Emre Şen](https://open.spotify.com/artist/6iwyshiTx9dTCK2w6pBBqn), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Heba](https://open.spotify.com/album/7FFIUBzawvny6iMmohY7Zo) | 2:47 | 2024-10-24 | 2024-11-27 |
 | [Herhalde](https://open.spotify.com/track/6NoU0H7vKasJE29Z4jDmYA) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Herhalde](https://open.spotify.com/album/7DefHeFSXtlUoYYYNsHNWO) | 4:32 | 2024-06-27 | 2024-11-15 |
+| [HODRİ MEYDAN](https://open.spotify.com/track/7IVyGl2LapK633TQEhn6rz) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [HODRİ MEYDAN](https://open.spotify.com/album/3jwcQNmy7GNGjY3gfQ4PTZ) | 2:00 | 2024-12-19 |  |
 | [Hoşuna Gidiyo](https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hoşuna Gidiyo](https://open.spotify.com/album/78Dk6oqNWoSFBJpUfM4rtm) | 2:31 | 2024-08-22 | 2024-10-11 |
 | [Hürrem](https://open.spotify.com/track/0mQxlAQVm5jVuExsofCiPM) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Hürrem](https://open.spotify.com/album/4J5VzGkcJRoo1tGKbAL4PP) | 2:15 | 2024-07-11 | 2024-09-06 |
 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 | 2024-06-27 |  |

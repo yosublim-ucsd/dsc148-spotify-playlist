@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,609 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,643 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 43 | [HOLA PERDIDA](https://open.spotify.com/track/7JKptWv4YXmievid0HajID) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:46 |
 | 44 | [PELIGROSA](https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:14 |
 | 45 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
-| 46 | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 |
+| 46 | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/5lVqcHazonTi8KFLF9XCDr) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 |
 | 47 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 |
 | 48 | [Si Las Gatas Se Amotinan](https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Si Las Gatas Se Amotinan](https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew) | 2:44 |
 | 49 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 50 | [Ese Maldito Momento](https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:05 |
 
-Snapshot ID: `LvjbSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvovIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

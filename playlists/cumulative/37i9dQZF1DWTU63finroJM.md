@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Fazerdaze.
 
-1,777 songs - 4 day 0 hr 28 min
+1,779 songs - 4 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 | 2022-03-24 | 2022-06-27 |
 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 | 2023-09-15 | 2024-03-30 |
 | [A Good Life](https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [A Good Life](https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ) | 4:00 | 2024-03-15 | 2024-04-06 |
-| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 |  |
+| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 | 2024-12-22 |
 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 | 2022-03-24 | 2022-04-14 |
 | [a quien culpar](https://open.spotify.com/track/4nSXOnB7mY9gw8Rtd8v1SN) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2), [husa.](https://open.spotify.com/artist/4rCSPhgFKs3vWVOnpcuWBa) | [a quien culpar](https://open.spotify.com/album/3V14MXZOAbr2QGXFyEgtp8) | 4:10 | 2022-06-29 | 2023-05-09 |
 | [a Testa in giù](https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [a Testa in giù](https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J) | 2:46 | 2023-04-12 | 2023-10-21 |
@@ -120,6 +120,7 @@
 | [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-19 | 2024-08-31 |
 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 | 2022-02-10 | 2022-03-14 |
 | [Asesina](https://open.spotify.com/track/0VKzi6b1pbnfVX3oWSVvC6) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Asesina](https://open.spotify.com/album/3eqevIkNcddbHXsnnLmLzS) | 3:32 | 2022-03-24 | 2022-04-13 |
+| [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 | 2024-12-20 |  |
 | [Assaji](https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 2:10 | 2024-01-12 | 2024-04-03 |
 | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 | 2024-08-02 | 2024-09-14 |
 | [Atterrissage](https://open.spotify.com/track/6IXC9VdQ03U13URwDvDi73) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Atterrissage](https://open.spotify.com/album/7JOb07lFRC4z6NsrWd4D82) | 3:33 | 2022-03-24 | 2022-04-19 |
@@ -924,6 +925,7 @@
 | [Memories](https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Memories](https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8) | 2:33 | 2024-09-23 | 2024-10-20 |
 | [Mengikat Jiwa](https://open.spotify.com/track/3K2DV7rSdv84xN78Ec6I67) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Mengikat Jiwa](https://open.spotify.com/album/46SNhizU2l2fJ1eD549hx5) | 3:31 | 2022-03-24 | 2022-08-02 |
 | [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 | 2023-01-27 | 2023-04-13 |
+| [MERCY](https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [MERCY](https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI) | 2:38 | 2024-12-20 |  |
 | [Mereng](https://open.spotify.com/track/6JeNxkyohRHYZMLIQMULZy) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Mereng](https://open.spotify.com/album/6Q0h49CuGr0QSkVWVgoJ1k) | 3:00 | 2022-02-03 | 2022-08-02 |
 | [Message personnel](https://open.spotify.com/track/2DBpWQ3i7UTAe6v6YZJVgm) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Message personnel](https://open.spotify.com/album/6fIKuclmcc5fvUuCtHluCB) | 2:45 | 2022-03-24 | 2022-08-02 |
 | [Messy](https://open.spotify.com/track/2cFwZx2yXnzQ3pfWpEkVwd) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Messy](https://open.spotify.com/album/5R7t1Fg13ptPy4BX4hlsqO) | 2:39 | 2024-08-30 |  |
@@ -1593,7 +1595,7 @@
 | [Youth](https://open.spotify.com/track/2f220hYoclwzYQGyAvsokr) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Youth](https://open.spotify.com/album/3CDz4HcxV7b9UHgmk7lUSy) | 4:32 | 2022-02-10 | 2022-02-15 |
 | [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-27 |  |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-24 | 2024-12-01 |
-| [Zehirlendim](https://open.spotify.com/track/373fTOuW1GBxQZR3sMHxjX) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlendim](https://open.spotify.com/album/3gkdSN75dpv7SHkRvPTd52) | 2:19 | 2024-10-04 |  |
+| [Zehirlendim](https://open.spotify.com/track/373fTOuW1GBxQZR3sMHxjX) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlendim](https://open.spotify.com/album/3gkdSN75dpv7SHkRvPTd52) | 2:19 | 2024-10-04 | 2024-12-22 |
 | [Zehirlenebilir Hayatım](https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlenebilir Hayatım](https://open.spotify.com/album/56V62z7z0Y6GlessYeIpDU) | 2:43 | 2024-05-10 | 2024-08-03 |
 | [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2024-04-19 | 2024-08-31 |
 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 | 2022-03-24 | 2022-09-06 |

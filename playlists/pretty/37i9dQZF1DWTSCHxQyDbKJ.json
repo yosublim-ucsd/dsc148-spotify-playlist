@@ -1,6 +1,6 @@
 {
   "description": "Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland. Cover: SOPHIE",
-  "num_followers": 32396,
+  "num_followers": 32399,
   "original_name": "Best of GLOW UK & Ireland 2024",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ABOMINATION",
-        "url": "https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr"
-      },
-      "artists": [
-        {
-          "name": "Lynks",
-          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
-        }
-      ],
-      "duration_ms": 198549,
-      "name": "ABOMINATION",
-      "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Prism of Pleasure",
         "url": "https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 234231,
       "name": "Air Tight",
       "url": "https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ABOMINATION",
+        "url": "https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 198549,
+      "name": "ABOMINATION",
+      "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG"
-      },
-      "artists": [
-        {
-          "name": "Harry Strange",
-          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
-        }
-      ],
-      "duration_ms": 206067,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "BUMPED IN THE HEAD",
         "url": "https://open.spotify.com/album/3f9jyruZx5YCvNDa4pEGwz"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 156151,
       "name": "BUMPED IN THE HEAD",
       "url": "https://open.spotify.com/track/5U4pOZ6k7JG7osMnSs1hxa"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG"
+      },
+      "artists": [
+        {
+          "name": "Harry Strange",
+          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
+        }
+      ],
+      "duration_ms": 206067,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et"
     },
     {
       "added_at": "2024-12-04 12:15:00",

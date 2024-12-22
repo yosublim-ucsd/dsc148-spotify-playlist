@@ -4,7 +4,7 @@
 
 > pop woke up and chose chaos\. cover: LISA, ROSALÍA
 
-135 songs - 6 hr 33 min
+136 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,13 +44,14 @@
 | [Dress](https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:23 | 2022-11-15 | 2024-04-19 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-11-15 |  |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 |  |
+| [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2024-09-19 |  |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-11-15 | 2024-04-19 |
 | [F U Anthem](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 | 2022-11-15 | 2024-08-30 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-11-15 |  |
 | [FMRN](https://open.spotify.com/track/6k6egroLMoShmt63RwaK4S) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/1n9zpxunDB1ZTHdBIMgpRK) | 2:02 | 2022-11-15 | 2024-04-19 |
 | [Freak](https://open.spotify.com/track/39OzeCZoibMsoUCCCxh2Lk) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Freak](https://open.spotify.com/album/6kQXezS924N0Tqv0OmIxzn) | 3:45 | 2024-01-16 | 2024-05-25 |
 | [Fruity](https://open.spotify.com/track/3AtKq6VCAuCm3AhrRUiw1I) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 3:13 | 2022-11-15 | 2024-04-19 |
-| [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-07-23 |  |
+| [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-07-23 | 2024-12-22 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 |  |
 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 | 2022-11-15 |  |
 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2024-01-16 | 2024-07-15 |

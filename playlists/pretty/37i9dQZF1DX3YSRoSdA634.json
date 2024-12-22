@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4015225,
+  "num_followers": 4015031,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "us",
-        "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
       },
       "artists": [
         {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
-        },
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 251033,
-      "name": "i hate u, i love u (feat. olivia o'brien)",
-      "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -799,18 +795,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+        "name": "us",
+        "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
         }
       ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+      "duration_ms": 251033,
+      "name": "i hate u, i love u (feat. olivia o'brien)",
+      "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 227853,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "B'Day Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 227853,
-      "name": "Irreplaceable",
-      "url": "https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 214525,
-      "name": "Paper Houses",
-      "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 226867,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 214525,
+      "name": "Paper Houses",
+      "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 153106,
-      "name": "Body Dysmorphia.",
-      "url": "https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "If I Stay (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2cpfXsbsHVNweQ4USbO6wu"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 199960,
       "name": "Heart Like Yours",
       "url": "https://open.spotify.com/track/3JOF9NzQVkUXtCcJbEQuAb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 153106,
+      "name": "Body Dysmorphia.",
+      "url": "https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk"
     },
     {
       "added_at": "2024-05-22 11:00:00",

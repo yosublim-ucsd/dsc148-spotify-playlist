@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 447714,
+  "num_followers": 447710,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -939,30 +939,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Sensational (feat. Davido & Lojay)",
-        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 231109,
-      "name": "Sensational (feat. Davido & Lojay)",
-      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 222529,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "Sensational (feat. Davido & Lojay)",
+        "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 231109,
+      "name": "Sensational (feat. Davido & Lojay)",
+      "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 144675,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 159124,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 144675,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "duration_ms": 175098,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
-        "name": "Real Man",
-        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
-      },
-      "artists": [
-        {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
-        }
-      ],
-      "duration_ms": 175098,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -1475,26 +1475,6 @@
       "duration_ms": 184661,
       "name": "Ghazali (feat. Bryan Mg)",
       "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -1579,22 +1559,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "No Dey Form",
         "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
       },
@@ -1611,18 +1575,38 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Bailando en la Lluvia",
-        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 173748,
-      "name": "Bailando en la Lluvia",
-      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
+        "name": "Bailando en la Lluvia",
+        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 173748,
+      "name": "Bailando en la Lluvia",
+      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 210194,
-      "name": "Ololufe (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 145066,
       "name": "Baila",
       "url": "https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 210194,
+      "name": "Ololufe (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Goodbyes (Myrrh)",
-        "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "Goodbyes (Myrrh)",
-      "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -2051,18 +2031,22 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
+        "name": "Goodbyes (Myrrh)",
+        "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
       },
       "artists": [
         {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
         }
       ],
-      "duration_ms": 156080,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
+      "duration_ms": 210124,
+      "name": "Goodbyes (Myrrh)",
+      "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -2083,6 +2067,22 @@
       "duration_ms": 196033,
       "name": "Tigini - Remix",
       "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -2839,22 +2839,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "Jessy",
         "url": "https://open.spotify.com/album/7rrA3YP0m7l5kwDt89MBKz"
       },
@@ -2875,6 +2859,22 @@
       "duration_ms": 148714,
       "name": "Jessy",
       "url": "https://open.spotify.com/track/4fu6Xv1f0LK73K566EkFYQ"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2024-12-20 09:54:52",

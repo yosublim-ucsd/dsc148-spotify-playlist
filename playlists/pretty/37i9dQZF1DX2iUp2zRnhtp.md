@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > De beste nye låtene finner du her!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,232 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,240 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 42 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 43 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
 | 44 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
-| 45 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
-| 46 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 |
+| 45 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 |
+| 46 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 47 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 |
 | 48 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 |
 | 49 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 | 75 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 |
 | 76 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 | 77 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 |
-| 78 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 |
-| 79 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
+| 78 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
+| 79 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 |
 | 80 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 |
 
 Snapshot ID: `Z2SlogAAAABM9jfjHsqvlB4Dm0QOh/sc`

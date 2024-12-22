@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 6617,
+  "num_followers": 6620,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACHQnf3GcIsraM0i2ldnARy",
+  "snapshot_id": "Z2SzgAAAAADbOmQ/3PStmhqYkqT2Nw9w",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 175466,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+      "duration_ms": 192600,
+      "name": "Sad Hours",
+      "url": "https://open.spotify.com/track/2H1TMxIvORol1QFBwOQh1E"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Crazy Legs",
-      "url": "https://open.spotify.com/track/5qpE3qKGIPLg13gYxI5AGb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 159333,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Hate To See You Go - Extended",
+      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Hate To See You Go - Extended",
-      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 147600,
       "name": "Mean Old Frisco",
       "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Crazy Legs",
+      "url": "https://open.spotify.com/track/5qpE3qKGIPLg13gYxI5AGb"
     },
     {
       "added_at": null,

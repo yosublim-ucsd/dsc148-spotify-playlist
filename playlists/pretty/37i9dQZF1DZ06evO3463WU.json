@@ -1,33 +1,13 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 149589,
+  "num_followers": 149620,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAAe1k5bSKjaahOYAB7Vd5jA",
+  "snapshot_id": "Z2SzgAAAAAD4YKkt0iPinDclzED8bdPb",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Otro Yo (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/4hRV6zeXYaYhjULJyIn8qs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Charlie Zaa",
-          "url": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl"
-        }
-      ],
-      "duration_ms": 206245,
-      "name": "Mi Otro Yo - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/2Y5CY6BDY6pTTWAeIEvIeL"
-    },
     {
       "added_at": null,
       "album": {
@@ -304,9 +284,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 209374,
-      "name": "Adi\u00f3s Mi Vida",
-      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
+      "duration_ms": 182613,
+      "name": "Te Amo Y Te Lo Digo",
+      "url": "https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt"
     },
     {
       "added_at": null,
@@ -368,9 +348,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 182613,
-      "name": "Te Amo Y Te Lo Digo",
-      "url": "https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt"
+      "duration_ms": 209374,
+      "name": "Adi\u00f3s Mi Vida",
+      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
     },
     {
       "added_at": null,

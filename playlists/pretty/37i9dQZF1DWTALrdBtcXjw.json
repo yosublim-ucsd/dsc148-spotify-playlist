@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 420604,
+  "num_followers": 420605,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "Where We Belong",
         "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 371773,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Have You Met Miss Jones",
-        "url": "https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE"
-      },
-      "artists": [
-        {
-          "name": "Nordic Light Trio",
-          "url": "https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35"
-        }
-      ],
-      "duration_ms": 188797,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Changes over Time",
         "url": "https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 245698,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Have You Met Miss Jones",
+        "url": "https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE"
+      },
+      "artists": [
+        {
+          "name": "Nordic Light Trio",
+          "url": "https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35"
+        }
+      ],
+      "duration_ms": 188797,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "From Here I See",
+        "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
+      },
+      "artists": [
+        {
+          "name": "Ben Wolfe",
+          "url": "https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC"
+        }
+      ],
+      "duration_ms": 393440,
+      "name": "The Good Doctor",
+      "url": "https://open.spotify.com/track/733Qlazejy9lhIcyTBwnjT"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/04onMzCeOjirI5PIDnA6i8"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 229226,
       "name": "Everybody Gets the Blues",
       "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "From Here I See",
-        "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
-      },
-      "artists": [
-        {
-          "name": "Ben Wolfe",
-          "url": "https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC"
-        }
-      ],
-      "duration_ms": 393440,
-      "name": "The Good Doctor",
-      "url": "https://open.spotify.com/track/733Qlazejy9lhIcyTBwnjT"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Somebody Like You",
-        "url": "https://open.spotify.com/album/5mJN2sBu9QWJfwTM9YX6cR"
-      },
-      "artists": [
-        {
-          "name": "Ballroom Jazz Collective",
-          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
-        }
-      ],
-      "duration_ms": 218591,
-      "name": "The Old Country",
-      "url": "https://open.spotify.com/track/4Ttz5EWZc9f7sxdsAUnDQp"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Eclypso",
         "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 331133,
       "name": "Denzil's Best",
       "url": "https://open.spotify.com/track/6IuiRJsGQ1pCqyGwc9lBgi"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/5mJN2sBu9QWJfwTM9YX6cR"
+      },
+      "artists": [
+        {
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+        }
+      ],
+      "duration_ms": 218591,
+      "name": "The Old Country",
+      "url": "https://open.spotify.com/track/4Ttz5EWZc9f7sxdsAUnDQp"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa"
+        "name": "Phil's Mood",
+        "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
       },
       "artists": [
         {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        },
+        {
+          "name": "Space Jazz Trio",
+          "url": "https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65"
         }
       ],
-      "duration_ms": 290447,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar"
+      "duration_ms": 391240,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Phil's Mood",
-        "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/7booaaJ7iYZUR4aM91W6wa"
       },
       "artists": [
         {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        },
-        {
-          "name": "Space Jazz Trio",
-          "url": "https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65"
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
         }
       ],
-      "duration_ms": 391240,
-      "name": "Hindsight",
-      "url": "https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU"
+      "duration_ms": 290447,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/2zEFBpBou1xkD8PXirZMar"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "Ode",
+        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+        }
+      ],
+      "duration_ms": 402013,
+      "name": "Bee Blues",
+      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "September Song",
         "url": "https://open.spotify.com/album/3QUqV83KlKSJerVhvwH1VA"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 368856,
       "name": "September Song",
       "url": "https://open.spotify.com/track/6lf5rtLLUt2cNg3y6Bz39d"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Ode",
-        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
-        }
-      ],
-      "duration_ms": 402013,
-      "name": "Bee Blues",
-      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "The Invariant",
+        "url": "https://open.spotify.com/album/4V9Sypwtvx7UnABzcq6oaC"
+      },
+      "artists": [
+        {
+          "name": "Benedikt Jahnel Trio",
+          "url": "https://open.spotify.com/artist/7HcGEwGFOZo1xqYa3SJ6m3"
+        }
+      ],
+      "duration_ms": 310546,
+      "name": "The Circuit",
+      "url": "https://open.spotify.com/track/1NMNi6HbUMCe1L3XJs510w"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/4O2qrIuZgFCiU4aDaBadJY"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 331080,
       "name": "More Than You Know",
       "url": "https://open.spotify.com/track/45Hg9G6ErEpv0zXDzEs5i3"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "The Invariant",
-        "url": "https://open.spotify.com/album/4V9Sypwtvx7UnABzcq6oaC"
-      },
-      "artists": [
-        {
-          "name": "Benedikt Jahnel Trio",
-          "url": "https://open.spotify.com/artist/7HcGEwGFOZo1xqYa3SJ6m3"
-        }
-      ],
-      "duration_ms": 310546,
-      "name": "The Circuit",
-      "url": "https://open.spotify.com/track/1NMNi6HbUMCe1L3XJs510w"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Stracci",
-        "url": "https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8"
-      },
-      "artists": [
-        {
-          "name": "Michael Ragonese",
-          "url": "https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "2223",
         "url": "https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE"
       },
@@ -1839,6 +1823,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "Stracci",
+        "url": "https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8"
+      },
+      "artists": [
+        {
+          "name": "Michael Ragonese",
+          "url": "https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "The Feeling of Jazz",
         "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
       },
@@ -1851,22 +1851,6 @@
       "duration_ms": 292521,
       "name": "The Feeling of Jazz",
       "url": "https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Laura",
-        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
-      },
-      "artists": [
-        {
-          "name": "Dena DeRose",
-          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
-        }
-      ],
-      "duration_ms": 288832,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -1899,6 +1883,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
+      },
+      "artists": [
+        {
+          "name": "Dena DeRose",
+          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
+        }
+      ],
+      "duration_ms": 288832,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "Thomas Sejthen Trio",
         "url": "https://open.spotify.com/album/0ZDcQtOlZos9D0UCpNyrKa"
       },
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "Like in Love",
+        "url": "https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp"
+      },
+      "artists": [
+        {
+          "name": "Christine Jensen",
+          "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
+        }
+      ],
+      "duration_ms": 366797,
+      "name": "Like in Love",
+      "url": "https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "On the Trail",
         "url": "https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 298991,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/6KkSnMvEWLyArGwgTP6Jrp"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Like in Love",
-        "url": "https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp"
-      },
-      "artists": [
-        {
-          "name": "Christine Jensen",
-          "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
-        }
-      ],
-      "duration_ms": 366797,
-      "name": "Like in Love",
-      "url": "https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/66rWCna2T5ZxRGiFkEYWpk"
-      },
-      "artists": [
-        {
-          "name": "Saginaw Society",
-          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
-        }
-      ],
-      "duration_ms": 256252,
-      "name": "Lover Man",
-      "url": "https://open.spotify.com/track/4bbRXKb4z1S9GOD2ePqDbo"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 424132,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/66rWCna2T5ZxRGiFkEYWpk"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "duration_ms": 256252,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/4bbRXKb4z1S9GOD2ePqDbo"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/0ZmP5V1EPnCEVcyy1tV7pF"
-      },
-      "artists": [
-        {
-          "name": "Alistair Martin",
-          "url": "https://open.spotify.com/artist/2fDpiP8x5yGXehZ6WrZFig"
-        }
-      ],
-      "duration_ms": 343000,
-      "name": "Divergence",
-      "url": "https://open.spotify.com/track/4SsYc7rzyUhEbXW0OPTDJf"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Three Views Of A Secret",
         "url": "https://open.spotify.com/album/59iZJ2RyW9pzRO12nD4ah2"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 229166,
       "name": "Three Views Of A Secret",
       "url": "https://open.spotify.com/track/1AjplssYs6wbBE3NcKBsQ9"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0ZmP5V1EPnCEVcyy1tV7pF"
+      },
+      "artists": [
+        {
+          "name": "Alistair Martin",
+          "url": "https://open.spotify.com/artist/2fDpiP8x5yGXehZ6WrZFig"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "Divergence",
+      "url": "https://open.spotify.com/track/4SsYc7rzyUhEbXW0OPTDJf"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
-        "name": "The Moon and I",
-        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 335933,
-      "name": "Ill Wind",
-      "url": "https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
         "name": "Skylla",
         "url": "https://open.spotify.com/album/1pqpgB49R4Mtw8YvYFX2EZ"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 457686,
       "name": "Skylla",
       "url": "https://open.spotify.com/track/3R8AWBWbqkWTvWx9Tjd16p"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "The Moon and I",
+        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 335933,
+      "name": "Ill Wind",
+      "url": "https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2024-06-28 09:05:32",
       "album": {
+        "name": "The Moon and I",
+        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Arthur Go",
+      "url": "https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
         "name": "Bassic Instinct",
         "url": "https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 280586,
       "name": "How Deep Is the Ocean? (feat. Danny Gottlieb & Jacob Jezioro)",
       "url": "https://open.spotify.com/track/3d8vUViUV2NpB37JhxnTcH"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "The Moon and I",
-        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Arthur Go",
-      "url": "https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -2507,30 +2507,6 @@
       "duration_ms": 273578,
       "name": "Autumn Serenade",
       "url": "https://open.spotify.com/track/1PssJJCY05yMFjetc1VIEF"
-    },
-    {
-      "added_at": "2024-06-28 09:05:32",
-      "album": {
-        "name": "Letter to Evan",
-        "url": "https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM"
-      },
-      "artists": [
-        {
-          "name": "Pat Coil",
-          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
-        },
-        {
-          "name": "Danny Gottlieb",
-          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
-        },
-        {
-          "name": "Jacob Jezioro",
-          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
-        }
-      ],
-      "duration_ms": 270890,
-      "name": "Letter to Evan",
-      "url": "https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2"
     },
     {
       "added_at": "2024-06-28 09:05:32",
@@ -2615,6 +2591,30 @@
       "duration_ms": 349360,
       "name": "Walking With You",
       "url": "https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs"
+    },
+    {
+      "added_at": "2024-06-28 09:05:32",
+      "album": {
+        "name": "Letter to Evan",
+        "url": "https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM"
+      },
+      "artists": [
+        {
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
+        },
+        {
+          "name": "Danny Gottlieb",
+          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
+        },
+        {
+          "name": "Jacob Jezioro",
+          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
+        }
+      ],
+      "duration_ms": 270890,
+      "name": "Letter to Evan",
+      "url": "https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2"
     },
     {
       "added_at": "2024-06-28 09:05:32",

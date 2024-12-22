@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,927 likes - 59 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,942 likes - 59 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jeito que ela mente](https://open.spotify.com/track/21Q001YAzkZ26L2XF6hOvs) | [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI) | [Jeito que ela mente](https://open.spotify.com/album/45iJ1aFJkYsCp21doTrrWA) | 2:19 |
 | 2 | [NECTAR](https://open.spotify.com/track/0SsWDp8RTI6hNAGcukBbr8) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Francci](https://open.spotify.com/artist/0ibBJyHUgpYajGcBAm8bbF) | [Busco Romance Love Show](https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1) | 3:54 |
-| 3 | [Dembélé](https://open.spotify.com/track/6Lgqcjgo0vYFSzdR8f15Gm) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:30 |
+| 3 | [Dembélé \(feat\. Niink & Veigh\)](https://open.spotify.com/track/6Lgqcjgo0vYFSzdR8f15Gm) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:30 |
 | 4 | [ZO & ZL](https://open.spotify.com/track/6PvxJBaMNcE8MGhWBQKhRD) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [BINAN](https://open.spotify.com/artist/5gnFgEykufU2BSR8dv9QPh), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [ZO & ZL](https://open.spotify.com/album/4XtPcZLVHySHXYmGq3HxRV) | 3:01 |
 | 5 | [Pompoarismo](https://open.spotify.com/track/1X3YhGIttsGUi7coP0Led5) | [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd) | [4x4](https://open.spotify.com/album/4ZSKnDI8ZcTIpdfkbdPQrp) | 2:32 |
 | 6 | [Bem na Sua Frente](https://open.spotify.com/track/7JSGdeaWcQ4rpRcF13vNfd) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Saffi](https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k), [Ramiroquai Beats](https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:10 |

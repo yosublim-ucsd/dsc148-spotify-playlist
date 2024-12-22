@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,671 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,806 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 49 | [Call Your Girlfriend](https://open.spotify.com/track/0BfySEp4LJTvZfxxlfaaOU) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/18yDzTr0dsuw268dHopO43) | 3:47 |
 | 50 | [White Sky](https://open.spotify.com/track/6K5waU14PdvY4fatne8kyq) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:58 |
 | 51 | [Laredo](https://open.spotify.com/track/61beXNR1qPPxjyM8x3pdRk) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 3:12 |
-| 52 | [Brother Sparrow](https://open.spotify.com/track/6cWotAT4XRc5BO4aw6GjRt) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:58 |
-| 53 | [Desire Lines](https://open.spotify.com/track/34OYZJDVLJC0HS401190FN) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 6:44 |
+| 52 | [Desire Lines](https://open.spotify.com/track/34OYZJDVLJC0HS401190FN) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 6:44 |
+| 53 | [Brother Sparrow](https://open.spotify.com/track/6cWotAT4XRc5BO4aw6GjRt) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:58 |
 | 54 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
 | 55 | [We Used to Wait](https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:01 |
 | 56 | [Little Girl \(feat\. Julian Casablancas\)](https://open.spotify.com/track/0Ih55K62jZIbeTysGHJkW0) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Dark Night of The Soul](https://open.spotify.com/album/0DmKQGWmKXQ3zmjTIQQzK1) | 4:32 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 58 | [Ivy & Gold](https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 2:56 |
 | 59 | [She's Long Gone](https://open.spotify.com/track/4AaPXm5NKGEwGdOJzuPnrL) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:06 |
 | 60 | [At Home](https://open.spotify.com/track/3vpjiTrzJEt1zXer9ig6g0) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love](https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq) | 5:06 |
-| 61 | [He Would Have Laughed](https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 7:29 |
-| 62 | [Got Nuffin](https://open.spotify.com/track/0n2tnCMIlM8Z58NPdXzlQe) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Transference](https://open.spotify.com/album/5ypZiViPNDX7ahiPSWQYTW) | 3:58 |
+| 61 | [Got Nuffin](https://open.spotify.com/track/0n2tnCMIlM8Z58NPdXzlQe) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Transference](https://open.spotify.com/album/5ypZiViPNDX7ahiPSWQYTW) | 3:58 |
+| 62 | [He Would Have Laughed](https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 7:29 |
 | 63 | [BORN FREE](https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [/\\/\\ /\\ Y /\\](https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV) | 4:07 |
 | 64 | [Factory](https://open.spotify.com/track/3wNti9PJJPrP9nF2ccsQvw) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 4:35 |
 | 65 | [Giving Up the Gun](https://open.spotify.com/track/3NXjRgj22vkWCp5yzjU4af) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 4:46 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 85 | [For You](https://open.spotify.com/track/18XBLoClPIgN2Yf21zDTpI) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 5:19 |
 | 86 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
 | 87 | [Don't Let It Pass](https://open.spotify.com/track/0D5Dq5VGkZ2IBuHiStOxMr) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Fields](https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll) | 3:57 |
-| 88 | [Bloodbuzz Ohio](https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:35 |
-| 89 | [Love Is All](https://open.spotify.com/track/2VASvSAnhsxXv6V2o97D6x) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 4:14 |
-| 90 | [Round And Round](https://open.spotify.com/track/2qKTOaX1ZeMWn3aKhpxkz5) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/1dO7qBlkQXYENJaHfK7h56) | 5:08 |
+| 88 | [Round And Round](https://open.spotify.com/track/2qKTOaX1ZeMWn3aKhpxkz5) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/1dO7qBlkQXYENJaHfK7h56) | 5:08 |
+| 89 | [Bloodbuzz Ohio](https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:35 |
+| 90 | [Love Is All](https://open.spotify.com/track/2VASvSAnhsxXv6V2o97D6x) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/4FQTG2YfZFSGT9z3tPvLWa) | 4:14 |
 | 91 | [Baptism](https://open.spotify.com/track/4fQuGSR9iAmCOA36XCpKqr) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/63QBHPFzDjTfumF8VlPX8l) | 4:12 |
 | 92 | [Weekend](https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/6QOvRYGw29xOPkcraXsRH4) | 3:22 |
 | 93 | [Zebra](https://open.spotify.com/track/0ZAhJvqW67Epg4IsLIaSTR) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/4sYpTER2iT2Y7Kf4VsfUne) | 4:48 |

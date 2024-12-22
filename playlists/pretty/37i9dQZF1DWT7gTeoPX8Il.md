@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,087 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,165 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 39 | [Mengapa](https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Mengapa](https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82) | 4:23 |
 | 40 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
 | 41 | [Orang Yang Sama](https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Orang Yang Sama](https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P) | 4:28 |
-| 42 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
+| 42 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 |
 | 43 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 |
-| 44 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 |
+| 44 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
 | 45 | [Asal Kau Bahagia](https://open.spotify.com/track/79AlxPlv70kuRlsi2eZsnV) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Maju Terus Pantang Mundur \(Deluxe Version\)](https://open.spotify.com/album/1wCop93d6T0oG496Qman6b) | 4:05 |
 | 46 | [Bukan Untukku](https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bukan Untukku](https://open.spotify.com/album/2A17uTjFWawokbDDt6jzzv) | 3:52 |
 | 47 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 |

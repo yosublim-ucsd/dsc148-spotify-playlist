@@ -4,7 +4,7 @@
 
 > Certified R&B Hits\. Cover: Odeal
 
-157 songs - 8 hr 8 min
+158 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-23 |  |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-27 |  |
 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 | 2023-10-13 | 2024-11-22 |
+| [Show Me](https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Show Me](https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8) | 3:37 | 2024-12-13 |  |
 | [Skate](https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:23 | 2023-10-13 | 2023-10-28 |
 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 | 2023-10-13 | 2024-04-19 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-10-13 |  |
@@ -156,7 +157,7 @@
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-10-13 |  |
 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 | 2024-01-22 | 2024-02-10 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-23 |  |
-| [Wherever I Go](https://open.spotify.com/track/6P76Ve1pRObGGpuUTbYwsA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:01 | 2024-12-13 |  |
+| [Wherever I Go](https://open.spotify.com/track/6P76Ve1pRObGGpuUTbYwsA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:01 | 2024-12-13 | 2024-12-22 |
 | [White Tee](https://open.spotify.com/track/6zEEdQoOrlQnxHs4LnR5T9) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [White Tee / Long Walk](https://open.spotify.com/album/0aJQ1Jbp8SmMBGy7Bi47OT) | 3:19 | 2023-11-17 | 2024-02-10 |
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2023-10-13 |  |
 | [Wish You Were Here](https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:09 | 2024-04-25 | 2024-07-27 |

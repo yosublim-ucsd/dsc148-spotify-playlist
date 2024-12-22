@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,956 likes - 45 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,960 likes - 46 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 32 | [You Got The Car](https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:05 |
 | 33 | [I Still Pray](https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 4:31 |
 | 34 | [Broken Cup](https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:14 |
-| 35 | [Ain't No Little Girl](https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 4:17 |
+| 35 | [Beautiful Mess](https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:14 |
 | 36 | [Last Hard Bible](https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 2:23 |
-| 37 | [Beautiful Mess](https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:14 |
+| 37 | [Ain't No Little Girl](https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 4:17 |
 | 38 | [Silverado Girl](https://open.spotify.com/track/1MXxppXv0fwIXXKkQ9ruHG) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:50 |
 | 39 | [Wreck and Ruin](https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:28 |
 | 40 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
@@ -52,6 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 42 | [Arlo](https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:25 |
 | 43 | [Whispering Voice](https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Mojo](https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO) | 2:55 |
 | 44 | [Bluebird](https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:05 |
-| 45 | [Like A River](https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 3:56 |
+| 45 | [Someone Like Me](https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 4:09 |
+| 46 | [Like A River](https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 3:56 |
 
-Snapshot ID: `Z2NiAAAAAACSrzd2kNhxfDL8gkjYcheb`
+Snapshot ID: `Z2SzgAAAAAAqshtjsoTtuCgYpp4TzuWz`

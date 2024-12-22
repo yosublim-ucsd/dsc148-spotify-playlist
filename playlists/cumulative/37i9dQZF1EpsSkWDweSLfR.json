@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/27Cne97mFE21Ob0ScMewrV"
@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249494,
+      "name": "Block me out",
+      "url": "https://open.spotify.com/track/1w0o2PLYzpFnnyEnOoD7qX"
+    },
+    {
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -302,6 +320,24 @@
       "duration_ms": 240254,
       "name": "BODYGUARD",
       "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
+    },
+    {
+      "album": {
+        "name": "Break My Own",
+        "url": "https://open.spotify.com/album/6yyfRmvcRUtYJbZsbgigvW"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bickett",
+          "url": "https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203654,
+      "name": "Break My Own",
+      "url": "https://open.spotify.com/track/5MRhQ1vAb9JVDbzp0jmmw1"
     },
     {
       "album": {
@@ -382,6 +418,24 @@
     {
       "album": {
         "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
         "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
       },
       "artists": [
@@ -392,7 +446,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/4MgryRe2yavUKiCucotL9C"
@@ -410,7 +464,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 237567,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/5iyuwVaMliMdloOzSBxohv"
@@ -428,7 +482,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 237567,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
@@ -908,7 +962,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/2PF942PpnXkvXgLjphm8gG"
@@ -930,6 +984,24 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "album": {
@@ -1158,7 +1230,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 234652,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
@@ -1238,7 +1310,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/799KrpEbhZp0MHeiA8YK9P"
@@ -1350,6 +1422,24 @@
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/6Qq8K305vIxgvtMWI1fkQG"
+    },
+    {
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/5nDy51XGA7HbEMERxHOc48"
+      },
+      "artists": [
+        {
+          "name": "Black Taxi",
+          "url": "https://open.spotify.com/artist/2Fj3NrXksGtHlhMvjjVyOI"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233378,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/7pl30mofobKmI0a8EWzTyI"
     },
     {
       "album": {
@@ -2178,7 +2268,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
@@ -2232,7 +2322,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 198724,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/6lWp5O5XH6smTt4vzd4Mgy"
@@ -2478,6 +2568,24 @@
       "duration_ms": 191586,
       "name": "Risk",
       "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
       "album": {
@@ -2868,7 +2976,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 227741,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
@@ -3030,7 +3138,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 167748,
       "name": "two years",
       "url": "https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN"
@@ -3290,7 +3398,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 168880,
       "name": "Wish You Were Sober",
       "url": "https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk"

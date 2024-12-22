@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week: Harrison First
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,097 likes - 118 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,135 likes - 118 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 5 | [Anima \(Think of You\)](https://open.spotify.com/track/1AieXnhuF3VUadZ9fshOGv) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Anima \(Think of You\)](https://open.spotify.com/album/5ixZ3aCXcmZV14DQ5p4uzC) | 3:17 |
 | 6 | [Plug](https://open.spotify.com/track/6nOhp5gvFIV42e5BwtyqbJ) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Plug](https://open.spotify.com/album/6SXi96t0w5MuizAjz2H6qN) | 2:49 |
 | 7 | [Balloon \(feat\. Doechii\)](https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:34 |
-| 8 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 8 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 9 | [Unplanned](https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Unplanned](https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc) | 2:50 |
 | 10 | [Windows XP](https://open.spotify.com/track/3nY2nR1WRkADdHponmQhjK) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:17 |
 | 11 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 |

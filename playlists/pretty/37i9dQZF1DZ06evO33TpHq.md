@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,103 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,112 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 13 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
 | 14 | [Where I'm Standing Now \(feat\. Brandon Lake\)](https://open.spotify.com/track/3JBMyUHHYz30GCpJL99zGX) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:30 |
 | 15 | [Great Things](https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:50 |
-| 16 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 |
+| 16 | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu) | 8:26 |
 | 17 | [Psalm 23](https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:34 |
-| 18 | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu) | 8:26 |
+| 18 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 |
 | 19 | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ) | 3:55 |
 | 20 | [It's Always Been You](https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:01 |
 | 21 | [The Jesus Way](https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:43 |
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 26 | [Divine / Sailing / Time / Hymn \- Acoustic](https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 7:44 |
 | 27 | [At Your Name \(Yahweh, Yahweh\)](https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:54 |
 | 28 | [Till I Found You](https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:00 |
-| 29 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 5:23 |
+| 29 | [HOMETOWN](https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:20 |
 | 30 | [Here with Me \- Acoustic](https://open.spotify.com/track/0gunBydvSCEozLvcukTqQa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:15 |
 | 31 | [Living Hope](https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 6:22 |
 | 32 | [Song In My Soul \(feat\. Hollyn\)](https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 3:51 |
-| 33 | [HOMETOWN](https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:20 |
+| 33 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 5:23 |
 | 34 | [Heaven Song](https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 4:04 |
 | 35 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
 | 36 | [Worthy Of My Song](https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Worthy Of My Song](https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS) | 6:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 49 | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/track/6B7ptdnKOpm4I4hPXkZWQs) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:14 |
 | 50 | [RELATIONSHIP • HOMETOWN VERSION](https://open.spotify.com/track/4ygZXRhD40OUyjZiexB0mC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 3:53 |
 
-Snapshot ID: `Z2NiAAAAAADxivh8bOJypUJdOBJtVsps`
+Snapshot ID: `Z2SzgAAAAADswm6O6W0grkRMlgXI2hZy`

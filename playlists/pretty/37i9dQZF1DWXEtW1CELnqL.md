@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 
 > Laisse go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,579 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,616 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 55 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
 | 56 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
 | 57 | [SPINE](https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SPINE](https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2) | 3:00 |
-| 58 | [Underclass Hero](https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:14 |
-| 59 | [Running In Circles](https://open.spotify.com/track/4pEU0NT64oiem9lDT7nuJn) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:53 |
+| 58 | [Running In Circles](https://open.spotify.com/track/4pEU0NT64oiem9lDT7nuJn) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:53 |
+| 59 | [Underclass Hero](https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:14 |
 | 60 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 |
 | 61 | [The River](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p) | 3:15 |
 | 62 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 |
 | 63 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 64 | [Tick Tick Boom](https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black and White album](https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg) | 3:25 |
-| 65 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
-| 66 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
+| 65 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
+| 66 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
 | 67 | [...To Be Loved](https://open.spotify.com/track/5RxCC8ecpIb6W9MVrJNmSF) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA) | 3:02 |
 | 68 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 69 | [First It Giveth](https://open.spotify.com/track/0UEMTz9APWfoJHdlXDeIzm) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 3:18 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 75 | [Bubbles](https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD) | 5:01 |
 | 76 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 |
 | 77 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 |
-| 78 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 |
-| 79 | [My House](https://open.spotify.com/track/2hNxkoMR4TZ3ft4uk9zJli) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise](https://open.spotify.com/album/2POgZTMa9HwsbqB3spYCQZ) | 4:02 |
+| 78 | [My House](https://open.spotify.com/track/2hNxkoMR4TZ3ft4uk9zJli) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise](https://open.spotify.com/album/2POgZTMa9HwsbqB3spYCQZ) | 4:02 |
+| 79 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 |
 | 80 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 |
 | 81 | [Mustang](https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:14 |
 | 82 | [Diamonds And Guns](https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Transplants](https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ) | 4:01 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 90 | [Circles](https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:09 |
 | 91 | [Pure 90 \(Rapping Queen\)](https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Apelogies](https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV) | 4:36 |
 | 92 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 |
-| 93 | [Doigts de Metal](https://open.spotify.com/track/6e8KaA3jdihLZ7l5UsAGKW) | [Ultra Vomit](https://open.spotify.com/artist/4mnp6YW545j0Qb5PYS9Wmv) | [Ultra Vomit et le Pouvoir de la Puissance](https://open.spotify.com/album/34ZnLYWObt4qUCeFSKRjYQ) | 3:06 |
-| 94 | [Ohio All The Time](https://open.spotify.com/track/63Kd061yhHz1K6UEztFmJ5) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Ohio All The Time](https://open.spotify.com/album/5gS0mVQdlowwHfpf4k5hJO) | 3:04 |
+| 93 | [Ohio All The Time](https://open.spotify.com/track/63Kd061yhHz1K6UEztFmJ5) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Ohio All The Time](https://open.spotify.com/album/5gS0mVQdlowwHfpf4k5hJO) | 3:04 |
+| 94 | [Doigts de Metal](https://open.spotify.com/track/6e8KaA3jdihLZ7l5UsAGKW) | [Ultra Vomit](https://open.spotify.com/artist/4mnp6YW545j0Qb5PYS9Wmv) | [Ultra Vomit et le Pouvoir de la Puissance](https://open.spotify.com/album/34ZnLYWObt4qUCeFSKRjYQ) | 3:06 |
 | 95 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 |
 | 96 | [I Am One \- Remastered 2011](https://open.spotify.com/track/2n6r0bWrKWeo55FWk68wSd) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 4:06 |
 | 97 | [Brief Exchange \- from DC's Dark Nights: Metal Soundtrack](https://open.spotify.com/track/4qVqGc1ossRcBqmKCZppx9) | [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Brief Exchange \(from DC's Dark Nights: Metal Soundtrack\)](https://open.spotify.com/album/241DsmPg0tJwHCDkPo5WPT) | 4:48 |

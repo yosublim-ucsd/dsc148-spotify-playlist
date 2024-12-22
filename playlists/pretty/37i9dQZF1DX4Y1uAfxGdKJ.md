@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,481 likes - 159 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,507 likes - 159 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

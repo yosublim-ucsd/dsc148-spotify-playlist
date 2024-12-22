@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,241 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,264 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 47 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
 | 48 | [He Wants It All](https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 3:27 |
 | 49 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 |
-| 50 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
+| 50 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
 
 Snapshot ID: `Z2SzwwAAAAAgtyQO6pjE8jdjs0afrI4k`

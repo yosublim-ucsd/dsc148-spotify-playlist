@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,339 likes - 48 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,653 likes - 48 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 25 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 |
 | 26 | [LA DURANGO](https://open.spotify.com/track/5jVExEArvISIYu8mamVgfV) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:22 |
 | 27 | [Smith \(with Junior H & Fuerza Regida\)](https://open.spotify.com/track/5rtKCxu4xb5tFzdwwf7pj8) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Sigan Llegando Las Pacas \(Extended\)](https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq) | 3:28 |
-| 28 | [Intro](https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:00 |
+| 28 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
 | 29 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
 | 30 | [ROMPE LA DOMPE](https://open.spotify.com/track/1uF2sVVCJNWBGSQ2foMWkU) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:45 |
 | 31 | [Psicodelica](https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 4:13 |
-| 32 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
+| 32 | [Intro](https://open.spotify.com/track/1s1hRKC0zaL2O7zdLIm6md) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:00 |
 | 33 | [El F](https://open.spotify.com/track/04QX4SHRnYuMj5PffvG0dA) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 4:09 |
 | 34 | [VETE YA](https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:50 |
 | 35 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 47 | [Jueves 10](https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 4:47 |
 | 48 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 |
 
-Snapshot ID: `Z2NiAAAAAACWDsKKm+yxm7/LD863IuNT`
+Snapshot ID: `Z2SzgAAAAABzBhTvUJYee1UHXKlUJt0B`

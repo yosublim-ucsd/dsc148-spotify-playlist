@@ -4,7 +4,7 @@
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-685 songs - 1 day 14 hr 50 min
+686 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Used to the Darkness](https://open.spotify.com/track/5xlUcf5txiXDgPleHzkm8s) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let The Vultures In](https://open.spotify.com/album/4xPEjD84ueU6Oq6l2saC2d) | 4:16 | 2023-04-19 |  |
 | [Video Killed The Radio Star](https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF) | 4:13 | 2023-04-20 |  |
 | [VILLAIN](https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:19 | 2024-12-05 |  |
+| [Virtute the Cat Explains Her Departure](https://open.spotify.com/track/5bil0D8WSuxyGSDLA4LxZK) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reunion Tour](https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr) | 4:08 | 2024-12-22 |  |
 | [Virus](https://open.spotify.com/track/7e4EUPwzFTaINLXjIM6vOb) | [Andrew Stein](https://open.spotify.com/artist/6SNZFEwD1DAvWKdTzyfIvP) | [Virus](https://open.spotify.com/album/473Aq8peh9dbAEWwD6rMsu) | 2:59 | 2023-04-19 |  |
 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 | 2023-05-27 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2023-04-19 |  |

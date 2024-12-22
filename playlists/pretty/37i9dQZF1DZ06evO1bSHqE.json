@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 885566,
+  "num_followers": 885642,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACA3sT/cF3DZBul/iWeHlA3",
+  "snapshot_id": "Z2SzgAAAAACq729k0sOD+6GsIaSiPk2K",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Slumber Party",
-      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Femme Fatale (Deluxe Version)",
         "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 228826,
       "name": "Hold It Against Me",
       "url": "https://open.spotify.com/track/7Dyq1bhhjknLKEGg4k5NLr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MIND YOUR BUSINESS",
-        "url": "https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h"
-      },
-      "artists": [
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "MIND YOUR BUSINESS",
-      "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -783,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+        "name": "MIND YOUR BUSINESS",
+        "url": "https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h"
       },
       "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
         {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 216706,
-      "name": "What U See (Is What U Get)",
-      "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
+      "duration_ms": 195692,
+      "name": "MIND YOUR BUSINESS",
+      "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 219226,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4PoTu14Wi2o9l0Rb09gBCa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "What U See (Is What U Get)",
+      "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
     },
     {
       "added_at": null,

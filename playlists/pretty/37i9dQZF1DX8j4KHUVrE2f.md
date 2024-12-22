@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 
 > Take a trip down memory lane with these noughties classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,884 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,904 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 22 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 23 | [Tears Dry On Their Own](https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:06 |
 | 24 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |
-| 25 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
-| 26 | [Feel](https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:23 |
+| 25 | [Feel](https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:23 |
+| 26 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
 | 27 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 28 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
-| 29 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
-| 30 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
+| 29 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
+| 30 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
 | 31 | [Mardy Bum](https://open.spotify.com/track/2fyIS6GXMgUcSv4oejx63f) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:55 |
 | 32 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
 | 33 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 72 | [Talk](https://open.spotify.com/track/4wzt5Rrk3W98pHXAqutuJw) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 5:11 |
 | 73 | [Heartbeats](https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A) | 2:40 |
 | 74 | [Airplanes \(feat\. Hayley Williams of Paramore\)](https://open.spotify.com/track/1QnvpPFP4Q3FHbDchqWiWy) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/6f06neONZ0xqqftlgtVP74) | 3:00 |
-| 75 | [Sweet Pea](https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Supply And Demand](https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo) | 2:09 |
-| 76 | [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 |
+| 75 | [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 |
+| 76 | [Sweet Pea](https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Supply And Demand](https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo) | 2:09 |
 | 77 | [Fight For This Love](https://open.spotify.com/track/33IQnmtJYjCcrvUUMQgi80) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [3 Words](https://open.spotify.com/album/3ao7El5qj953dxb01PBhPG) | 3:43 |
 | 78 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
 | 79 | [Love Story](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:55 |

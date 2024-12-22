@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 
 > El título says it all, a whole mood!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,654 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,861 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 36 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
 | 37 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 38 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
-| 39 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 |
-| 40 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
+| 39 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
+| 40 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 |
 | 41 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 |
 | 42 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
 | 43 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
 | 44 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 |
 | 45 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
 | 46 | [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 |
-| 47 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 |
-| 48 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 |
+| 47 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 |
+| 48 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 |
 | 49 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 |
 | 50 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
 | 51 | [El Taquicardio](https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:00 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 95 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 |
 | 96 | [Quién Se Anima](https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 1:37 |
 | 97 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
-| 98 | [A Través del Vaso](https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través del Vaso](https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn) | 3:08 |
-| 99 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 |
+| 98 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 |
+| 99 | [A Través del Vaso](https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través del Vaso](https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn) | 3:08 |
 | 100 | [Suspiros \(En Vivo\)](https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros \(En Vivo\)](https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj) | 3:05 |
 
 Snapshot ID: `Zzz8cAAAAACxlgT6cqE07qH2Gr0/Qp/2`

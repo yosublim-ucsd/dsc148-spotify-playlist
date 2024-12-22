@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 
 > se for pra sofrer, que seja com trilha sonora
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,163 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,193 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 43 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 |
 | 44 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:37 |
 | 45 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
-| 46 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
-| 47 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 |
+| 46 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 |
+| 47 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 |
 | 48 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 |
 | 49 | [I Won't Give Up](https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Won't Give Up](https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P) | 4:00 |
 | 50 | [Chasing\_\(Demo\)](https://open.spotify.com/track/4f80SteKqaB6M2JytEUrwT) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Mikayla Sippel](https://open.spotify.com/artist/4XRSNOy4w4E4euNeu3aIfr) | [Chasing\_\(Demo\)](https://open.spotify.com/album/1wo8JeDRslm23n6rqpb3jk) | 3:01 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 57 | [\(Não\) Quero Me Apaixonar](https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro,](https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt) | 2:49 |
 | 58 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 |
 | 59 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 |
-| 60 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 |
+| 60 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
 
 Snapshot ID: `Z2TfXAAAAAD6ZOZlFbSFRy58c1g4ptdn`

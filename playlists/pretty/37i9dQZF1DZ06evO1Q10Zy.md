@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,781 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,786 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
 | 50 | [I Honestly Love You](https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Back With A Heart](https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90) | 4:06 |
 
-Snapshot ID: `Z2NiAAAAAAAsODqh8rMKyjvJ8YPn/5m5`
+Snapshot ID: `Z2SzgAAAAADwGRyiNnFDkEX06ARTvu/3`

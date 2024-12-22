@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 73979,
+  "num_followers": 73999,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAADTBMvBzh7dkNyn6xmIm/ek",
+  "snapshot_id": "Z2SzgAAAAACMtDRFX0qTLdU8nQVejehR",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+        "name": "Roads That Go Nowhere",
+        "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 208809,
-      "name": "Hillbilly Deluxe (with HARDY)",
-      "url": "https://open.spotify.com/track/2fdHmGsLOn6krkpCw5diIC"
+      "duration_ms": 218860,
+      "name": "Southern Rock",
+      "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
     },
     {
       "added_at": null,
@@ -455,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roads That Go Nowhere",
-        "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
       "artists": [
         {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 218860,
-      "name": "Southern Rock",
-      "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
+      "duration_ms": 208809,
+      "name": "Hillbilly Deluxe (with HARDY)",
+      "url": "https://open.spotify.com/track/2fdHmGsLOn6krkpCw5diIC"
     },
     {
       "added_at": null,
@@ -775,6 +775,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
+        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 170112,
+      "name": "Third Rock From The Sun (feat. Brooks & Dunn)",
+      "url": "https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -815,38 +847,6 @@
       "duration_ms": 203674,
       "name": "THROWBACK",
       "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
-        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 170112,
-      "name": "Third Rock From The Sun (feat. Brooks & Dunn)",
-      "url": "https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA"
     },
     {
       "added_at": null,

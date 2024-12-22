@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Luis Cort\u00e9s.",
-  "num_followers": 27712,
+  "num_followers": 27713,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
+        "name": "Lo que nunca te dije",
+        "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 160632,
+      "name": "Lo que nunca te dije",
+      "url": "https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY"
+    },
+    {
+      "added_at": "2024-12-12 23:00:18",
+      "album": {
         "name": "Vaya Liada",
         "url": "https://open.spotify.com/album/4Da9WECh3CDpuzT3ehO8JC"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 179527,
       "name": "Vaya Liada",
       "url": "https://open.spotify.com/track/2OL5S46cBDRfkz2O7SYFUF"
-    },
-    {
-      "added_at": "2024-12-12 23:00:18",
-      "album": {
-        "name": "Lo que nunca te dije",
-        "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 160632,
-      "name": "Lo que nunca te dije",
-      "url": "https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -199,26 +199,18 @@
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
-        "name": "SexySensible",
-        "url": "https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0"
+        "name": "Me da igual",
+        "url": "https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8"
       },
       "artists": [
         {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Bexnil",
-          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
         }
       ],
-      "duration_ms": 232800,
-      "name": "SexeSexy",
-      "url": "https://open.spotify.com/track/2uuMValcORiLp44OIOIoL5"
+      "duration_ms": 171871,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -243,8 +235,8 @@
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
-        "name": "arghHhh!",
-        "url": "https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH"
+        "name": "oh boi",
+        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
       },
       "artists": [
         {
@@ -252,25 +244,33 @@
           "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
         }
       ],
-      "duration_ms": 253106,
-      "name": "arghHhh!",
-      "url": "https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n"
+      "duration_ms": 160333,
+      "name": "oh boi",
+      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
     },
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
-        "name": "Me da igual",
-        "url": "https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8"
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0"
       },
       "artists": [
         {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
         }
       ],
-      "duration_ms": 171871,
-      "name": "Me da igual",
-      "url": "https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J"
+      "duration_ms": 232800,
+      "name": "SexeSexy",
+      "url": "https://open.spotify.com/track/2uuMValcORiLp44OIOIoL5"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -295,26 +295,18 @@
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
-        "name": "No m'estima +",
-        "url": "https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1"
+        "name": "Estamos a un beso",
+        "url": "https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM"
       },
       "artists": [
         {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "Julieta",
-          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
         }
       ],
-      "duration_ms": 192000,
-      "name": "No m'estima +",
-      "url": "https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc"
+      "duration_ms": 192720,
+      "name": "Estamos a un beso",
+      "url": "https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -367,8 +359,32 @@
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
-        "name": "oh boi",
-        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
+        "name": "No m'estima +",
+        "url": "https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No m'estima +",
+      "url": "https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc"
+    },
+    {
+      "added_at": "2024-12-12 23:00:18",
+      "album": {
+        "name": "arghHhh!",
+        "url": "https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH"
       },
       "artists": [
         {
@@ -376,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
         }
       ],
-      "duration_ms": 160333,
-      "name": "oh boi",
-      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+      "duration_ms": 253106,
+      "name": "arghHhh!",
+      "url": "https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -395,6 +411,54 @@
       "duration_ms": 218752,
       "name": "Otra Vida",
       "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+    },
+    {
+      "added_at": "2024-12-12 23:00:18",
+      "album": {
+        "name": "Semanas",
+        "url": "https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 176587,
+      "name": "Semanas",
+      "url": "https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8"
+    },
+    {
+      "added_at": "2024-12-12 23:00:18",
+      "album": {
+        "name": "fumas?",
+        "url": "https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 178111,
+      "name": "fumas?",
+      "url": "https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM"
+    },
+    {
+      "added_at": "2024-12-12 23:00:18",
+      "album": {
+        "name": "Aunque duela",
+        "url": "https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Aunque duela",
+      "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -423,70 +487,6 @@
     {
       "added_at": "2024-12-12 23:00:18",
       "album": {
-        "name": "Aunque duela",
-        "url": "https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Aunque duela",
-      "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
-    },
-    {
-      "added_at": "2024-12-12 23:00:18",
-      "album": {
-        "name": "Estamos a un beso",
-        "url": "https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Estamos a un beso",
-      "url": "https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH"
-    },
-    {
-      "added_at": "2024-12-12 23:00:18",
-      "album": {
-        "name": "fumas?",
-        "url": "https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 178111,
-      "name": "fumas?",
-      "url": "https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM"
-    },
-    {
-      "added_at": "2024-12-12 23:00:18",
-      "album": {
-        "name": "Semanas",
-        "url": "https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 176587,
-      "name": "Semanas",
-      "url": "https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8"
-    },
-    {
-      "added_at": "2024-12-12 23:00:18",
-      "album": {
         "name": "Mi Culpa",
         "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
       },
@@ -499,30 +499,6 @@
       "duration_ms": 207750,
       "name": "Mi Culpa",
       "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
-    },
-    {
-      "added_at": "2024-12-12 23:00:18",
-      "album": {
-        "name": "SexySensible",
-        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
-      },
-      "artists": [
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        },
-        {
-          "name": "Bexnil",
-          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
-        }
-      ],
-      "duration_ms": 154549,
-      "name": "Xarnega",
-      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -555,6 +531,30 @@
       "duration_ms": 213563,
       "name": "Mandela Place",
       "url": "https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ"
+    },
+    {
+      "added_at": "2024-12-12 23:00:18",
+      "album": {
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        }
+      ],
+      "duration_ms": 154549,
+      "name": "Xarnega",
+      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
     },
     {
       "added_at": "2024-12-12 23:00:18",

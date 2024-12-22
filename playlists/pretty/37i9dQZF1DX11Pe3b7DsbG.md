@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,967 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,972 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 24 | [Deixa A Vida Me Levar \- Ao Vivo](https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Uma Prova De Amor Ao Vivo \(Deluxe\)](https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC) | 3:14 |
 | 25 | [Gostoso Veneno](https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Gostoso Veneno](https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO) | 3:15 |
 | 26 | [Argumento](https://open.spotify.com/track/5SK175I291bHHcroTHUwQn) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Argumento](https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53) | 3:12 |
-| 27 | [Menina Você Bebeu](https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Jovelina Pérola Negra](https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf) | 3:36 |
+| 27 | [Nas Asas da Canção](https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN) | [Nelson Sargento](https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL) | [Versátil](https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM) | 4:06 |
 | 28 | [Ê Baiana](https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Nova Bis \- Clara Nunes](https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y) | 3:01 |
-| 29 | [Nas Asas da Canção](https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN) | [Nelson Sargento](https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL) | [Versátil](https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM) | 4:06 |
+| 29 | [Menina Você Bebeu](https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Jovelina Pérola Negra](https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf) | 3:36 |
 | 30 | [Estácio Eu e Você \- Ao Vivo](https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Luiz Melodia Especial MTV \(Ao Vivo\)](https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h) | 3:05 |
 | 31 | [Sambista Perfeito](https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 3:46 |
 | 32 | [Spc](https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho](https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs) | 3:23 |

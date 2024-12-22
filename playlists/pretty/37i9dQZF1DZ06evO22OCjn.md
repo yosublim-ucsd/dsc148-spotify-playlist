@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,540 likes - 52 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,641 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 34 | [Afrikan Star](https://open.spotify.com/track/57ZphidHkoCJY20u4QSIZA) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Afrikan Sauce](https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU) | 3:14 |
 | 35 | [Want It All](https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All](https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj) | 3:52 |
 | 36 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 |
-| 37 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:17 |
-| 38 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
+| 37 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
+| 38 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:17 |
 | 39 | [Coming Home](https://open.spotify.com/track/2cJq3u0BRlsGFOYqP9KidJ) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:15 |
 | 40 | [Pree Me](https://open.spotify.com/track/1h1oC8n5nh3IKxCmpUtw85) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Redemption](https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H) | 3:20 |
 | 41 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 51 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 |
 | 52 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 
-Snapshot ID: `Z2NiAAAAAABCPm6iVqHIKhDxHknp83pY`
+Snapshot ID: `Z2SzgAAAAACDYVwyk7pz6L4d8qXiVReq`

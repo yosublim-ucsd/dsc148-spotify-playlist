@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,980 likes - 80 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,988 likes - 80 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

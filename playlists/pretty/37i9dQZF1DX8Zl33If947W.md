@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,578 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,591 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 20 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
 | 21 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
 | 22 | [Ja sagen](https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Ja sagen](https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz) | 2:45 |
-| 23 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [becks](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |
-| 24 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
+| 23 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
+| 24 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [becks](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |
 | 25 | [Kein Liebeslied](https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Mit K](https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9) | 4:18 |
 | 26 | [Wenn du tanzt](https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Grande](https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW) | 3:50 |
 | 27 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 34 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |
 | 35 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
 | 36 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
-| 37 | [Übermorgen](https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Übermorgen](https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo) | 2:43 |
-| 38 | [Cello \(feat\. Clueso\) \- MTV Unplugged Radio Atmo\-Version](https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF) | [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [UDOPIUM \- Das Beste \(Special Edition\)](https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ) | 3:24 |
+| 37 | [Cello \(feat\. Clueso\) \- MTV Unplugged Radio Atmo\-Version](https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF) | [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [UDOPIUM \- Das Beste \(Special Edition\)](https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ) | 3:24 |
+| 38 | [Übermorgen](https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Übermorgen](https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo) | 2:43 |
 | 39 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
 | 40 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
 | 41 | [Weißes Kleid](https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Weißes Kleid](https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ) | 2:27 |

@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,317 songs - 10 day 1 hr 57 min
+4,318 songs - 10 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2083,6 +2083,7 @@
 | [Last Time](https://open.spotify.com/track/1CdLBMtqP3zlGkDu7hmVKs) | [Medii](https://open.spotify.com/artist/4tCRRxANqaE3qGSGLz0y3Q), [Emersxn](https://open.spotify.com/artist/7ltyovKOFS2tIunfnJCNr9), [Kiture](https://open.spotify.com/artist/3BOIvtsfXWcmOATwIO3OIS) | [Last Time](https://open.spotify.com/album/58vygHnpC3jBxuLHRX3phx) | 3:16 | 2021-01-29 | 2021-02-13 |
 | [Last Train to London](https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:30 | 2024-03-24 | 2024-08-13 |
 | [Late Night](https://open.spotify.com/track/4g5okF1U7kHn4owUn5oKxT) | [Gabriel Spaniol](https://open.spotify.com/artist/3iAplrLi5nb8MFtWTTauy2), [Nego Joe](https://open.spotify.com/artist/2vVeFw5Wf5O8OISxXUUdWQ) | [Late Night](https://open.spotify.com/album/3HSITI4ZSBoNeF0UM3wUkR) | 2:50 | 2024-03-01 | 2024-03-10 |
+| [Late Night](https://open.spotify.com/track/65rjwLmHhM2MvSFxKw4WI7) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Late Night](https://open.spotify.com/album/22dDEqMJm9CjVcGe2858Ik) | 3:24 | 2024-12-21 |  |
 | [Late Night Conversation](https://open.spotify.com/track/7bDwww9Rg8Oo68PThrhNqF) | [Keely](https://open.spotify.com/artist/6O22NnZ7zH3nosk9yfKMIx), [PeterFeelGood](https://open.spotify.com/artist/4nMh2wu3UzcEhfkp1X7VjJ) | [Late Night Conversation](https://open.spotify.com/album/5MsLaQGmEmUbaW271jlfFR) | 3:16 | 2024-12-05 | 2024-12-20 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-08-09 | 2022-08-11 |
 | [lately](https://open.spotify.com/track/0n1Y7dDi1AGv2SMAAltUSn) | [Jony Shelby](https://open.spotify.com/artist/7yJZUrIFXjKIfJ2pvR8PGE) | [lately](https://open.spotify.com/album/3iSrU2kKNVMbthldwzF3kI) | 4:27 | 2023-03-16 | 2023-04-09 |

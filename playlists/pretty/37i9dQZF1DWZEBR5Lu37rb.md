@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,125 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,187 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 40 | [Ibhanoyi](https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:09 |
 | 41 | [Nomvula](https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1) | 4:37 |
 | 42 | [If Love Is A Crime](https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:29 |
-| 43 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
-| 44 | [Mthande](https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Mr Serious](https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN) | 4:53 |
-| 45 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 |
+| 43 | [Mthande](https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Mr Serious](https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN) | 4:53 |
+| 44 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 |
+| 45 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
 | 46 | [Sbali](https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 5:00 |
 | 47 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 |
 | 48 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |

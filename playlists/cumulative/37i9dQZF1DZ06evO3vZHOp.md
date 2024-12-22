@@ -4,7 +4,7 @@
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 6 min
+78 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,11 @@
 | [5 Star](https://open.spotify.com/track/5B840Ui53HVbqRNJmuZvDF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:32 | 2024-01-19 | 2024-01-21 |
 | [6PM EN MALLORCA](https://open.spotify.com/track/24k6OwxLtnJX0UaC4j5O8W) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [6PM EN MALLORCA](https://open.spotify.com/album/0TFsABRaWVVS30lrRnD3Un) | 2:24 | 2024-01-19 | 2024-03-10 |
 | [77](https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:35 | 2024-01-19 |  |
-| [Adiós](https://open.spotify.com/track/1vjvZkoc8FZz26axllh6yD) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:41 | 2024-01-19 |  |
+| [Adiós](https://open.spotify.com/track/1vjvZkoc8FZz26axllh6yD) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:41 | 2024-01-19 | 2024-12-22 |
 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 | 2024-01-19 |  |
 | [Animal](https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Animal](https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF) | 3:37 | 2024-01-19 |  |
 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 | 2024-01-20 | 2024-02-18 |
+| [BFF](https://open.spotify.com/track/02hz9U9L9TmnTLm4iFP7ub) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Papi Arca](https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN) | 3:11 | 2024-12-22 |  |
 | [Caras Vemos](https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:36 | 2024-01-19 |  |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2024-01-19 |  |
 | [Conexión](https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Conexión](https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe) | 4:48 | 2024-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,986 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,045 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 19 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 |
 | 20 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 |
 | 21 | [Let You Down](https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:32 |
-| 22 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 |
-| 23 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 |
+| 22 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 |
+| 23 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 |
 | 24 | [The Way Life Goes \(feat\. Oh Wonder\)](https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:41 |
 | 25 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
 | 26 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 42 | [Go Flex](https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 2:59 |
 | 43 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:29 |
 | 44 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 |
-| 45 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
-| 46 | [Erase Your Social](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:19 |
-| 47 | [772 Love](https://open.spotify.com/track/230wNo1dnexltKYQbsW7oD) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [772 Love](https://open.spotify.com/album/1RTMwluKhKL68BpYBdiF6x) | 3:29 |
+| 45 | [772 Love](https://open.spotify.com/track/230wNo1dnexltKYQbsW7oD) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [772 Love](https://open.spotify.com/album/1RTMwluKhKL68BpYBdiF6x) | 3:29 |
+| 46 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
+| 47 | [Erase Your Social](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:19 |
 | 48 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
 | 49 | [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 |
 | 50 | [Hollywood's Bleeding](https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:36 |

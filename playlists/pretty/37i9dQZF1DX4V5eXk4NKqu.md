@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,377 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,400 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 70 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 |
 | 71 | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4) | 3:00 |
 | 72 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
-| 73 | [Ángel](https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mostly Fresh](https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR) | 2:47 |
-| 74 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 73 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 74 | [Ángel](https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mostly Fresh](https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR) | 2:47 |
 | 75 | [Una Cosa Lleva a la Otra](https://open.spotify.com/track/5UdQff8TOnWpO7Q1UjPR7x) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [David Velasco](https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL) | [Una Cosa Lleva a la Otra](https://open.spotify.com/album/48ebpXiKqVAdQnx5fy2WsV) | 3:32 |
 
 Snapshot ID: `Z1KE0AAAAAAmXZ80LCz1VgijwPacP5Kv`

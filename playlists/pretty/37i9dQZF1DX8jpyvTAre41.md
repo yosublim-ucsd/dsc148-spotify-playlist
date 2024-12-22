@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Beach Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,131 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,123 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 11 | [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 |
 | 12 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi) | 2:26 |
 | 13 | [Gruhguhguh](https://open.spotify.com/track/5J7IPN0KEZruAfBRK28j8U) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Friend](https://open.spotify.com/album/5VGCKzvNeN8QoB45kqv8AQ) | 2:31 |
-| 14 | [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
+| 14 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 15 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 |
 | 16 | [Sin City](https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:42 |
 | 17 | [Senses](https://open.spotify.com/track/2S8gG1E9gHSzhJvPFPDaLk) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/4eOwYzp8X0ra7qvEkWuTSJ) | 3:11 |

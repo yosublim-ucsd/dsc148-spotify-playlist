@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,960 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,053 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 89 | [My Life Is In Your Hands](https://open.spotify.com/track/58b4jrSFpBMXdNFZFGPbrj) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:35 |
 | 90 | [Jesus Be a Fence Around Me \(Live\)](https://open.spotify.com/track/55XwQUPN08JYyxvULNPUk7) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Purpose By Design](https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA) | 7:30 |
 | 91 | [I Won’t Complain](https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB) | [Rev\. Paul Jones](https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT) | [I Won’t Complain](https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed) | 4:52 |
-| 92 | [Everybody Clap Your Hands](https://open.spotify.com/track/00lemnC7rWUV2tOCnPegvU) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [JT3](https://open.spotify.com/album/1hv7b36PgqioFel3FfKSDn) | 4:50 |
-| 93 | [In the Midst of It All](https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 6:57 |
+| 92 | [In the Midst of It All](https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 6:57 |
+| 93 | [Everybody Clap Your Hands](https://open.spotify.com/track/00lemnC7rWUV2tOCnPegvU) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [JT3](https://open.spotify.com/album/1hv7b36PgqioFel3FfKSDn) | 4:50 |
 | 94 | [He's An On Time God](https://open.spotify.com/track/0FeRIc9264zC1Uo9PdZVf3) | [Dottie Peoples & The Peoples Choice Chorale](https://open.spotify.com/artist/1NqEdHZu5o9r4I37uGUNHI) | [On Time God](https://open.spotify.com/album/0dxumKdj4uqdUsJCivUuTv) | 5:52 |
 | 95 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4pc1Tfi0bguzV4LgA3nSSi) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Goshen](https://open.spotify.com/album/5I7ZELo8C7inVlMqfW7U1e) | 5:44 |
 | 96 | [God Blocked It](https://open.spotify.com/track/2NFqytYqfUblGvXucjvG6F) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 5:01 |

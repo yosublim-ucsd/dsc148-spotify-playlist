@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Yonder Mountain String Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,967 likes - 92 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,005 likes - 92 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Truth Fits](https://open.spotify.com/track/71xD24JXIx9BrTJScBxOVB) | [Yonder Mountain String Band](https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO) | [The Truth Fits](https://open.spotify.com/album/34f4vmOZ8Yx1A7WpsfCcot) | 3:08 |
 | 2 | [Unearned Wisdom](https://open.spotify.com/track/6Y93qWBxWjlMHxAEbWWpDs) | [Alejandro Preschel](https://open.spotify.com/artist/3CC195URpYwajMy2YYOIIP) | [Unearned Wisdom](https://open.spotify.com/album/6ZUlHrO2WH7kxNqXc6SCt9) | 2:49 |
 | 3 | [Lonesome Blues, I'm Coming Home](https://open.spotify.com/track/2Witatbnxa6ZfPcwIlc4jn) | [Max Wareham](https://open.spotify.com/artist/30LXom98tWrl14BKI1xNUI) | [Lonesome Blues, I'm Coming Home](https://open.spotify.com/album/74lOc0V6GXhnBr7hdKbZ0k) | 2:38 |
-| 4 | [Space Samba](https://open.spotify.com/track/7Da4PFlWYdEiGjImDf28we) | [Scroggins & Rose](https://open.spotify.com/artist/4G4J8TFtqyMNuopJtHSILX), [Tristan Scroggins](https://open.spotify.com/artist/6RZxkwdzwRVC6Iqt6UaKgP), [Alisa Rose](https://open.spotify.com/artist/5kyHIue2QOzQuk7vJutkqe) | [Space Samba](https://open.spotify.com/album/2q4hSo5KJGltYlAcrdbRLT) | 4:40 |
+| 4 | [Space Samba](https://open.spotify.com/track/7Da4PFlWYdEiGjImDf28we) | [Scroggins & Rose](https://open.spotify.com/artist/4G4J8TFtqyMNuopJtHSILX), [Tristan Scroggins](https://open.spotify.com/artist/6RZxkwdzwRVC6Iqt6UaKgP), [Alisa Rose](https://open.spotify.com/artist/5kyHIue2QOzQuk7vJutkqe) | [Space Samba](https://open.spotify.com/album/2q4hSo5KJGltYlAcrdbRLT) | 5:14 |
 | 5 | [Marry Jane](https://open.spotify.com/track/1uClRHXNyVe6rW8oRhZFEK) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Marry Jane](https://open.spotify.com/album/7G0BjpkTSipUxuYUL3vwSJ) | 2:25 |
 | 6 | [Man Of Manzanita](https://open.spotify.com/track/730cnP4SGK3fofTiP1BNAz) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Mark Schatz](https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6) | [Man Of Manzanita](https://open.spotify.com/album/4EamkJirQe61Lx1XkCcal5) | 4:45 |
 | 7 | [Friend of the Devil \- Other Tunes & Arrangements](https://open.spotify.com/track/6DPQQyUHImfuoY4WhZavhN) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Friend of the Devil \(Other Tunes & Arrangements\)](https://open.spotify.com/album/1numkVe6Rh4gFB0MbwRfCz) | 3:48 |

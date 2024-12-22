@@ -4,7 +4,7 @@
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 2 min
+114 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Brillas \- En Vivo](https://open.spotify.com/track/6qUSjUbKpRiaxizCVYEKII) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 3:00 | 2024-06-09 | 2024-11-11 |
 | [Brindo](https://open.spotify.com/track/6XvKF7H5ESlpsQNDYax1sQ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:12 | 2022-07-16 | 2022-08-31 |
 | [Buen Resultado \- En Vivo](https://open.spotify.com/track/5jysxizmPqfY7Kv2OIk0fa) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Buen Resultado \(En Vivo\)](https://open.spotify.com/album/3FFVoDJ0mPNexGGbH47YWB) | 2:54 | 2024-05-19 |  |
+| [Cada Día Te Quiero Más](https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Cada Día Te Quiero Más](https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn) | 3:43 | 2024-12-22 |  |
 | [CHISQUIRRISKI](https://open.spotify.com/track/2N37sy9SY7QHAcTxsbmoPp) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [PARY](https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh) | 3:18 | 2024-09-09 |  |
 | [Como Hueso](https://open.spotify.com/track/7eoxbqx7fRSCj6zjwm6rnk) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 1:42 | 2022-07-01 | 2023-12-26 |
 | [Con La Suela Roja \- en Vivo](https://open.spotify.com/track/4t60v6e6eUhwhAAFFBoXZ1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 3:05 | 2022-06-11 | 2023-07-18 |

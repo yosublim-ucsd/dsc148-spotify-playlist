@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Eyedress
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,888 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,899 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 53 | [My Heart Goes Bum Bum Bum](https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [I Clung to You Hoping We'd Both Drown](https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah) | 2:51 |
 | 54 | [Skater Dater \(feat\. Bb trickz & Elvia\)](https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [Vampire in Beverly Hills](https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH) | 2:34 |
 | 55 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 |
-| 56 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
-| 57 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
+| 56 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
+| 57 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
 | 58 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 |
 | 59 | [Silence Kid](https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 3:00 |
 | 60 | [It's In My Head](https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [It's In My Head](https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO) | 3:01 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 72 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 |
 | 73 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 |
 | 74 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
-| 75 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 |
-| 76 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
+| 75 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
+| 76 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 |
 | 77 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
 | 78 | [Runner](https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM) | [Mind Shrine](https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM) | [Runner](https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V) | 2:42 |
 | 79 | [Didn't Want to Go](https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Didn't Want to Go](https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4) | 2:09 |

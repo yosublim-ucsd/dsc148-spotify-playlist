@@ -4,7 +4,7 @@
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 36 min
+75 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Prohibida](https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Romanticas](https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V) | 3:27 | 2024-01-29 |  |
 | [Qué Tiene De Malo](https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 2:48 | 2024-07-15 |  |
 | [Qué Tiene De Malo](https://open.spotify.com/track/4VZ0UOLwnTnQSLZJme5lyQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:48 | 2024-01-29 | 2024-07-15 |
+| [Ranchero Con Dinero](https://open.spotify.com/track/53iLzcP6V12oTgzqKEuLKO) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Ranchero Con Dinero](https://open.spotify.com/album/5tTUdhDlIv1nbKVGujEZtg) | 2:14 | 2024-12-22 |  |
 | [Ranchero Poderoso](https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:43 | 2024-01-29 |  |
 | [Ranchero Y Gallardo](https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 2:14 | 2024-01-29 |  |
 | [Rancho viejo](https://open.spotify.com/track/0dMGyiQgusmc6baZG2q4P5) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Rancho Viejo](https://open.spotify.com/album/2iOfUt8vWj7EtbbbbShV56) | 2:08 | 2024-01-29 | 2024-03-02 |

@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Richest Opp",
+        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185117,
+      "name": "Bitch Let's Do It",
+      "url": "https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny"
+    },
+    {
+      "album": {
         "name": "I Rest My Case",
         "url": "https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU"
       },

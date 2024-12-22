@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Kdv0IChEm9.md) - [plain]
 
 > 100% clássicos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,379 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,693 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Kdv0IChEm9.md) - [plain]
 | 31 | [Under Control \(feat\. Hurts\)](https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:04 |
 | 32 | [We Found Love](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:35 |
 | 33 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
-| 34 | [Dancin \(feat\. Luvli\) \- Krono Remix](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr) | [Dancin \(feat\. Luvli\) \[Krono Remix\]](https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE) | 3:18 |
-| 35 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:47 |
+| 34 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:47 |
+| 35 | [Dancin \(feat\. Luvli\) \- Krono Remix](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr) | [Dancin \(feat\. Luvli\) \[Krono Remix\]](https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE) | 3:18 |
 | 36 | [Perfect Strangers](https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:16 |
 | 37 | [Love Tonight \(David Guetta Remix Edit\)](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
 | 38 | [King](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR) | 3:35 |

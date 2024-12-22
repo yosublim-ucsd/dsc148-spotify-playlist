@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, El Frizian en portada.
 
-630 songs - 1 day 9 hr 24 min
+631 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [DIOS POR DELANTE](https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [DIOS POR DELANTE](https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu) | 3:34 | 2024-01-15 |  |
 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 | 2023-01-20 |  |
 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 | 2022-08-29 | 2022-10-01 |
+| [Dos Gotas De Agua](https://open.spotify.com/track/1pe7wAnofprofQKmeJsWDJ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:24 | 2024-12-20 |  |
 | [Déjenme Llorar](https://open.spotify.com/track/6GNWTIGfKITLl53XVAla4T) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Hay Niveles](https://open.spotify.com/album/3SOo2bCUBOjlMiSFK94iAn) | 3:14 | 2022-12-02 | 2022-12-10 |
 | [El 10 de Mayo \(En Vivo\)](https://open.spotify.com/track/3WEHES0IGtpjcVnC60V24X) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm) | [El Mes de Mayo \(En Vivo\)](https://open.spotify.com/album/2ljSb2GM16NRwiUGc2MKFj) | 2:33 | 2024-05-24 | 2024-06-29 |
 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 | 2022-04-15 | 2024-10-26 |
@@ -319,7 +320,7 @@
 | [La Leona y El Carcomido](https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Leona y El Carcomido](https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j) | 2:33 | 2024-10-25 | 2024-10-30 |
 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 | 2023-01-27 | 2024-03-23 |
 | [La Loca \(En Vivo\)](https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [La Loca \(En Vivo\)](https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq) | 4:06 | 2022-11-04 | 2024-09-22 |
-| [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 | 2023-06-30 |  |
+| [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 | 2023-06-30 | 2024-12-22 |
 | [La Miche](https://open.spotify.com/track/5qyaHfrDEredbekaDs3PZk) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [La Miche](https://open.spotify.com/album/5VAP6Y5ff8BBPflsMV77fS) | 4:09 | 2022-07-01 | 2023-01-14 |
 | [La Muchacha del Salado "la Nicholette" \- En Vivo](https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servando, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX) | 2:44 | 2022-06-03 | 2023-04-15 |
 | [La Niña Quiere Cerveza](https://open.spotify.com/track/4lQjiWlbmShfgUSGJWPKJc) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Niña Quiere Cerveza](https://open.spotify.com/album/6qlcJplPusVAeD6lkkCQ0B) | 2:39 | 2023-01-20 | 2023-01-28 |

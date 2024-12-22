@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary Blues label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,340 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,353 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 11 | [Married To The Blues](https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 7:12 |
 | 12 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
 | 13 | [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 |
-| 14 | [312 Blood](https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 3:09 |
+| 14 | [Ain't No Fun \(When The Rabbit Got The Gun\)](https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 3:07 |
 | 15 | [If You Love Me Like You Say](https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frostbite](https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV) | 4:08 |
-| 16 | [Ain't No Fun \(When The Rabbit Got The Gun\)](https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 3:07 |
+| 16 | [312 Blood](https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 3:09 |
 | 17 | [Keep On Lovin' Me Baby](https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw) | [The Paladins](https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF) | [Let's Buzz](https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz) | 4:02 |
 | 18 | [Your Love Is Like A Cancer](https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 4:36 |
 | 19 | [Third Degree \- Remastered](https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 6:35 |

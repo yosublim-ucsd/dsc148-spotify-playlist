@@ -1,6 +1,6 @@
 {
   "description": "Musica per non smettere mai di crederci \ud83c\udfc6 \ud83d\udcaa\ud83c\udfcb\ufe0f  ",
-  "num_followers": 352412,
+  "num_followers": 352431,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -455,6 +455,26 @@
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -559,26 +579,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/2ODTNZ6HLMTNiiu05e4kHO"
       },
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -659,26 +675,6 @@
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -703,18 +699,22 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "Boyz In Paris (with VINAI)",
-        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
-      },
-      "artists": [
-        {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 151589,
-      "name": "Boyz In Paris (with VINAI)",
-      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "Alibi (feat. Rudimental)",
-        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 184852,
-      "name": "Alibi (feat. Rudimental)",
-      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "SHADYXV",
-        "url": "https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 320626,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "SHADYXV",
+        "url": "https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 320626,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq"
     },
     {
       "added_at": "2024-12-13 06:01:24",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Party Up",
+      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
@@ -1819,42 +1835,6 @@
     {
       "added_at": "2024-12-13 06:01:24",
       "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Party Up",
-      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
-        "name": "SOUTH OF FRANCE (REMIX)",
-        "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 183919,
-      "name": "SOUTH OF FRANCE - REMIX",
-      "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"
-    },
-    {
-      "added_at": "2024-12-13 06:01:24",
-      "album": {
         "name": "DELINQUENTE",
         "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 274250,
       "name": "Casablanca (feat. Morad)",
       "url": "https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO"
+    },
+    {
+      "added_at": "2024-12-13 06:01:24",
+      "album": {
+        "name": "SOUTH OF FRANCE (REMIX)",
+        "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "SOUTH OF FRANCE - REMIX",
+      "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"
     },
     {
       "added_at": "2024-12-13 06:01:24",

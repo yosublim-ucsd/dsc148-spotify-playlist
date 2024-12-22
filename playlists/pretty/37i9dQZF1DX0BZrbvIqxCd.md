@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,969 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,960 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 16 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 17 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 |
 | 18 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
-| 19 | [American Idiot](https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(Deluxe\)](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 2:54 |
-| 20 | [96 Quite Bitter Beings](https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Camp Kill Yourself, Vol.1](https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw) | 3:21 |
+| 19 | [96 Quite Bitter Beings](https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Camp Kill Yourself, Vol.1](https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw) | 3:21 |
+| 20 | [American Idiot](https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(Deluxe\)](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 2:54 |
 | 21 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
 | 22 | [Never Fight A Man With A Perm](https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg) | 3:48 |
 | 23 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 27 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
 | 28 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 |
 | 29 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
-| 30 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
-| 31 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
+| 30 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
+| 31 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 32 | [I Don't Wanna Be An Asshole Anymore](https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Rented World](https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW) | 3:04 |
 | 33 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 34 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 57 | [Like That](https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:57 |
 | 58 | [Alone with You](https://open.spotify.com/track/3jLj7HQNl4LXc9vNuwcFyw) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Steady Glow](https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3) | 4:25 |
 | 59 | [Everything You Want Me to Be](https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn) | [Coldfront](https://open.spotify.com/artist/4aP6zYaS4ms7xcghP2L32y) | [Float Around](https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z) | 3:24 |
-| 60 | [Motorcycle, No Motor?](https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Swig](https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9) | 2:30 |
+| 60 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
 | 61 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
-| 62 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
+| 62 | [Motorcycle, No Motor?](https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Swig](https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9) | 2:30 |
 | 63 | [Strain Your Memory](https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 4:04 |
 | 64 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
 | 65 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 97 | [P.A.W](https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [No Strange Cats](https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp) | 2:40 |
 | 98 | [The Perfect Way to Fall Apart](https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 4:09 |
 | 99 | [Precariat](https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:29 |
-| 100 | [Nothing](https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Nothing](https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o) | 2:58 |
+| 100 | [ATM](https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Our Brand Could Be Yr Life](https://open.spotify.com/album/2bPeqXdzzjatAWeCI09gF1) | 2:40 |
 
 Snapshot ID: `ZppTxgAAAAAm51cWYEj9+bq7a83aN2TF`

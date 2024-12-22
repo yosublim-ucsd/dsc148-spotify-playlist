@@ -181,6 +181,32 @@
     },
     {
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/4Fc1PEpME8eCAvrAgCeL0T"
+      },
+      "artists": [
+        {
+          "name": "Zarastruta",
+          "url": "https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Juce Rock",
+          "url": "https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296233,
+      "name": "Bolha",
+      "url": "https://open.spotify.com/track/0BA4rJhjtBy1ZzRnXwvqB2"
+    },
+    {
+      "album": {
         "name": "MAGIC SHOW (DELUXE)",
         "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
       },
@@ -1548,7 +1574,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 238026,
       "name": "Oto Patam\u00e1",
       "url": "https://open.spotify.com/track/4GbyHGSgLam0Px0L8IftT7"

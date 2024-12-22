@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 249629,
+  "num_followers": 249761,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
+        "name": "Agachadita",
+        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
       },
       "artists": [
         {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 179506,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
+      "duration_ms": 195024,
+      "name": "Agachadita",
+      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -431,22 +435,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Agachadita",
-        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
         }
       ],
-      "duration_ms": 195024,
-      "name": "Agachadita",
-      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
+      "duration_ms": 179506,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -503,18 +503,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Que lo baile bien",
-        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
+        "name": "LOS DOS",
+        "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
       },
       "artists": [
         {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
+      "duration_ms": 214735,
+      "name": "LOS DOS",
+      "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -535,22 +539,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "LOS DOS",
-        "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
+        "name": "Que lo baile bien",
+        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
         }
       ],
-      "duration_ms": 214735,
-      "name": "LOS DOS",
-      "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
-      },
-      "artists": [
-        {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
-        }
-      ],
-      "duration_ms": 198791,
-      "name": "La Guitarra de Lolo (Huapango)",
-      "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 178186,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 198791,
+      "name": "La Guitarra de Lolo (Huapango)",
+      "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Provocame",
-        "url": "https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ"
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
       "artists": [
         {
-          "name": "Clave Suprema",
-          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 189653,
-      "name": "Provocame",
-      "url": "https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx"
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+        "name": "Provocame",
+        "url": "https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ"
       },
       "artists": [
         {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+          "name": "Clave Suprema",
+          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
         }
       ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+      "duration_ms": 189653,
+      "name": "Provocame",
+      "url": "https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Cumbia Con Clase",
-        "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tecno De Beto Y Juan",
-          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Y Es el Contacto \u00a1Raza!",
         "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 168045,
       "name": "El Agua Clara",
       "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Tan Bonita",
+        "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 191173,
       "name": "A Ver Si Capea",
       "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Tan Bonita",
-        "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "En Mi Defensa",
-        "url": "https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "En Mi Defensa",
-      "url": "https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Comenzando Nuestra Historia",
         "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 208378,
       "name": "El Mariachi",
       "url": "https://open.spotify.com/track/3WQC9J9dG9gljMpKXacCLL"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "En Mi Defensa",
+        "url": "https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "En Mi Defensa",
+      "url": "https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj"
-      },
-      "artists": [
-        {
-          "name": "Los Garcia Bros.",
-          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "El Comet",
-      "url": "https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "30 Del Recuerdo",
         "url": "https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 158760,
       "name": "Peque\u00f1a Y Fr\u00e1gil",
       "url": "https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj"
+      },
+      "artists": [
+        {
+          "name": "Los Garcia Bros.",
+          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "El Comet",
+      "url": "https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
-      },
-      "artists": [
-        {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
-        }
-      ],
-      "duration_ms": 289691,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
+      },
+      "artists": [
+        {
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+        }
+      ],
+      "duration_ms": 289691,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Serie 33",
-        "url": "https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C"
+        "name": "Lives Pa' la Raza",
+        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
       },
       "artists": [
         {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 157760,
-      "name": "Jambalaya",
-      "url": "https://open.spotify.com/track/1MDa6p9XrN9IMvKqS4PEm3"
+      "duration_ms": 134234,
+      "name": "La Flechita",
+      "url": "https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Serie 33",
+        "url": "https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Jambalaya",
+      "url": "https://open.spotify.com/track/1MDa6p9XrN9IMvKqS4PEm3"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "Grupo El Mexicano",
         "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 208689,
       "name": "La Bota",
       "url": "https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
-      },
-      "artists": [
-        {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Zapateado Encabronado - Medley",
-      "url": "https://open.spotify.com/track/74asr255RQX7n8BPa5FdzA"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Lives Pa' la Raza",
-        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 134234,
-      "name": "La Flechita",
-      "url": "https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "De Parranda Lives Vol. 5",
         "url": "https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 252883,
       "name": "Te vez Buena",
       "url": "https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
+      },
+      "artists": [
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "Zapateado Encabronado - Medley",
+      "url": "https://open.spotify.com/track/74asr255RQX7n8BPa5FdzA"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2279,18 +2279,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 218267,
-      "name": "Feliz, Feliz",
-      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+      "duration_ms": 201084,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 218267,
+      "name": "Feliz, Feliz",
+      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
       },
@@ -2355,22 +2371,6 @@
       "duration_ms": 185388,
       "name": "Ya No Me Mires Asi",
       "url": "https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2423,18 +2423,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "Lives, Vol. 1",
+        "url": "https://open.spotify.com/album/4TZDqkxobju0CAUYy3NbuT"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 207737,
-      "name": "Orgullosa Maria",
-      "url": "https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA"
+      "duration_ms": 192458,
+      "name": "Hola Que Tal",
+      "url": "https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 207737,
+      "name": "Orgullosa Maria",
+      "url": "https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "Desqu\u00edtate Conmigo",
         "url": "https://open.spotify.com/album/7wNje8mmxGfKSEom6IkrLH"
       },
@@ -2467,22 +2483,6 @@
       "duration_ms": 210910,
       "name": "Jinetes en el Cielo",
       "url": "https://open.spotify.com/track/4kX33clweUkkNYVEQVHi9w"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Lives, Vol. 1",
-        "url": "https://open.spotify.com/album/4TZDqkxobju0CAUYy3NbuT"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 192458,
-      "name": "Hola Que Tal",
-      "url": "https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl"
     },
     {
       "added_at": "2024-11-28 22:59:11",

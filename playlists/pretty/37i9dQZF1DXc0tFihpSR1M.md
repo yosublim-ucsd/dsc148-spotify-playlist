@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 
 > Det beste av ny pop akkurat nå! 🍭
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,221 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,213 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 32 | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww) | 3:09 |
 | 33 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 34 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 |
-| 35 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
-| 36 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
+| 35 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
+| 36 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
 | 37 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 38 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 39 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 43 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 |
 | 44 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
 | 45 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
-| 46 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
-| 47 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
+| 46 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
+| 47 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
 | 48 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 49 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 |
 | 50 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 |

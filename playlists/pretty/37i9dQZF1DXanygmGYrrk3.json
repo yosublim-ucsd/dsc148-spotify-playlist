@@ -1,6 +1,6 @@
 {
   "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Joss Favela y Luis R Conriquez",
-  "num_followers": 328719,
+  "num_followers": 328831,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "Tal Vez Fui Yo",
-        "url": "https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 150365,
-      "name": "Tal Vez Fui Yo",
-      "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 180750,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
+        "name": "Tal Vez Fui Yo",
+        "url": "https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 150365,
+      "name": "Tal Vez Fui Yo",
+      "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
         "name": "El Mayor de los Ranas",
         "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 172059,
       "name": "El Mayor de los Ranas",
       "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "Sin Pagar Renta",
-        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 202443,
-      "name": "Sin Pagar Renta",
-      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 202443,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "Amistad y Pesos",
-        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 338901,
-      "name": "Mi \u00daltima Caravana",
-      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
+        "name": "Amistad y Pesos",
+        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 338901,
+      "name": "Mi \u00daltima Caravana",
+      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -2075,38 +2075,6 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "\u00a1Que Te Pasa!",
-        "url": "https://open.spotify.com/album/0foM1ZTpWCkcv8fkm52cUB"
-      },
-      "artists": [
-        {
-          "name": "grupo linea sierre\u00f1a",
-          "url": "https://open.spotify.com/artist/5Ar9OdmLFyuloqjh25NIri"
-        }
-      ],
-      "duration_ms": 129127,
-      "name": "\u00a1Que Te Pasa!",
-      "url": "https://open.spotify.com/track/1mq4xn6qZbuIqJ1es363iH"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 97240,
-      "name": "Qui\u00e9n Se Anima",
-      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -2131,6 +2099,38 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 97240,
+      "name": "Qui\u00e9n Se Anima",
+      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
+        "name": "\u00a1Que Te Pasa!",
+        "url": "https://open.spotify.com/album/0foM1ZTpWCkcv8fkm52cUB"
+      },
+      "artists": [
+        {
+          "name": "grupo linea sierre\u00f1a",
+          "url": "https://open.spotify.com/artist/5Ar9OdmLFyuloqjh25NIri"
+        }
+      ],
+      "duration_ms": 129127,
+      "name": "\u00a1Que Te Pasa!",
+      "url": "https://open.spotify.com/track/1mq4xn6qZbuIqJ1es363iH"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
         "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
       },
@@ -2143,26 +2143,6 @@
       "duration_ms": 185179,
       "name": "Levantando Polvadera",
       "url": "https://open.spotify.com/track/4rQyZTWAh23M9fndTO0TWG"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
-        "name": "PA'L CORA EP. 01",
-        "url": "https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "Un Besito M\u00e1s",
-      "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -2203,6 +2183,26 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
+        "name": "PA'L CORA EP. 01",
+        "url": "https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "Un Besito M\u00e1s",
+      "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -2223,6 +2223,42 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
+        "name": "En Las Buenas Y En Las Malas",
+        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Con Ese Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "duration_ms": 180047,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
         "name": "3 Doritos Despues (En Vivo)",
         "url": "https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF"
       },
@@ -2239,22 +2275,6 @@
       "duration_ms": 218453,
       "name": "3 Doritos Despues (En Vivo)",
       "url": "https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
-        "name": "En Las Buenas Y En Las Malas",
-        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Con Ese Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -2327,26 +2347,6 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        }
-      ],
-      "duration_ms": 180047,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
         "name": "Lunetas",
         "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
       },
@@ -2407,22 +2407,22 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+        "name": "El Prostipirugolfo",
+        "url": "https://open.spotify.com/album/73Pms7dFxAOsqEx8t1IxoW"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Los Titanes De Durango",
+          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
         }
       ],
-      "duration_ms": 280093,
-      "name": "Somos Los Que Somos - En Vivo",
-      "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
+      "duration_ms": 157259,
+      "name": "El Prostipirugolfo",
+      "url": "https://open.spotify.com/track/5PjCEIQEt2fwWj50xxrGTh"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -2443,22 +2443,22 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "El Prostipirugolfo",
-        "url": "https://open.spotify.com/album/73Pms7dFxAOsqEx8t1IxoW"
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         },
         {
-          "name": "Los Titanes De Durango",
-          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 157259,
-      "name": "El Prostipirugolfo",
-      "url": "https://open.spotify.com/track/5PjCEIQEt2fwWj50xxrGTh"
+      "duration_ms": 280093,
+      "name": "Somos Los Que Somos - En Vivo",
+      "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "\u00c1ndale Pues Terco",
-        "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "\u00c1ndale Pues Terco",
-      "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
         "name": "LOS DOS",
         "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
       },
@@ -2627,6 +2611,22 @@
       "duration_ms": 214735,
       "name": "LOS DOS",
       "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
+        "name": "\u00c1ndale Pues Terco",
+        "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "\u00c1ndale Pues Terco",
+      "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -3071,22 +3071,6 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "Beso - Spotify Singles",
-        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 143231,
-      "name": "Beso - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
         "name": "Si Me Duele Que Duela",
         "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
       },
@@ -3099,6 +3083,22 @@
       "duration_ms": 171367,
       "name": "Si Me Duele Que Duela",
       "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
+        "name": "Beso - Spotify Singles",
+        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 143231,
+      "name": "Beso - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
     },
     {
       "added_at": "2024-12-13 22:14:10",
@@ -3271,26 +3271,6 @@
     {
       "added_at": "2024-12-13 22:14:10",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 239637,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
-    },
-    {
-      "added_at": "2024-12-13 22:14:10",
-      "album": {
         "name": "De Ellas",
         "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
       },
@@ -3307,6 +3287,26 @@
       "duration_ms": 237787,
       "name": "De Ellas",
       "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
+    },
+    {
+      "added_at": "2024-12-13 22:14:10",
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
       "added_at": "2024-12-13 22:14:10",

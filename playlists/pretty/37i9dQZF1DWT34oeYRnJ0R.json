@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Paloma Mami",
-  "num_followers": 666548,
+  "num_followers": 666566,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "AGORA",
-        "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 153564,
-      "name": "AGORA",
-      "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "AGORA",
+        "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 153564,
+      "name": "AGORA",
+      "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "FDSR",
+        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "FDSR",
+      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Lo Que Tiene",
         "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 259200,
       "name": "Lo Que Tiene",
       "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "FDSR",
-        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "FDSR",
-      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 192517,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "YKWGTS",
         "url": "https://open.spotify.com/album/19eKTFbnC5aiE3FPSu1ISn"
       },
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 192517,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Labios Mordidos (with KAROL G)",
         "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Tarde o temprano",
-      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "CALOR",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 200769,
       "name": "CALOR",
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "A POCA LUZ",
-        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "A POCA LUZ",
-      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1619,22 +1599,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/2UCtRZWKRk0Uwhi5FWdPcV"
+        "name": "A POCA LUZ",
+        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         },
         {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         }
       ],
-      "duration_ms": 200631,
-      "name": "Constelaci\u00f3n",
-      "url": "https://open.spotify.com/track/4hphx3cA8mjPJR99B6XtBD"
+      "duration_ms": 194181,
+      "name": "A POCA LUZ",
+      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1651,6 +1631,26 @@
       "duration_ms": 286760,
       "name": "JPN",
       "url": "https://open.spotify.com/track/7a66e0TSXh1fKpSCLDQvUa"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/2UCtRZWKRk0Uwhi5FWdPcV"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "duration_ms": 200631,
+      "name": "Constelaci\u00f3n",
+      "url": "https://open.spotify.com/track/4hphx3cA8mjPJR99B6XtBD"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "SAKURA",
-        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 138677,
-      "name": "COMO SUENAN LAS ESTRELLAS",
-      "url": "https://open.spotify.com/track/29MAYnmNwruONslO4E1iZD"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 194941,
       "name": "Sigo Enamorau'",
       "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 138677,
+      "name": "COMO SUENAN LAS ESTRELLAS",
+      "url": "https://open.spotify.com/track/29MAYnmNwruONslO4E1iZD"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1931,22 +1931,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "ESE VATO",
-        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
+        "name": "Vive La Vida (Remix)",
+        "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
       },
       "artists": [
         {
-          "name": "DOMELIPA",
-          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 228916,
-      "name": "ESE VATO",
-      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
+      "duration_ms": 237754,
+      "name": "Vive La Vida - Remix",
+      "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
     }
   ],
   "unique_name": "Vibras",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260 likes - 56 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 56 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 23 | [Pillow](https://open.spotify.com/track/5xwtVHKuo5IxdlXQzqL6gQ) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Pillow](https://open.spotify.com/album/0zb47cMO6JyLvOcwj3m0B7) | 3:03 |
 | 24 | [All About](https://open.spotify.com/track/7fGJlTEISWp6IPxEAH0wVP) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All About](https://open.spotify.com/album/3nxJ6K2jlR1eYh1Gc4VsZ2) | 3:10 |
 | 25 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 |
-| 26 | [a little bit bored \[Feat\. ruuth\]](https://open.spotify.com/track/3BPDK5eBtT6BMYEXs5QzUV) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [a little bit bored \(feat\. ruuth\)](https://open.spotify.com/album/0VkZUsWOnskXe0wS5Toi2X) | 2:59 |
-| 27 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 |
-| 28 | [Now You're a Home \(feat\. Ruuth\)](https://open.spotify.com/track/5mKekqQb3G8OK23LVzqJHB) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB) | [Finding Home](https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222) | 3:42 |
-| 29 | [Pokémon](https://open.spotify.com/track/7n5DdRu1zLuw4yamf4dGZ7) | [Die Antwoord](https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM) | [Pokémon](https://open.spotify.com/album/1ffliwfQKRLMoOnmn5VWKw) | 4:26 |
+| 26 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 |
+| 27 | [a little bit bored \[Feat\. ruuth\]](https://open.spotify.com/track/3BPDK5eBtT6BMYEXs5QzUV) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [a little bit bored \(feat\. ruuth\)](https://open.spotify.com/album/0VkZUsWOnskXe0wS5Toi2X) | 2:59 |
+| 28 | [Pokémon](https://open.spotify.com/track/7n5DdRu1zLuw4yamf4dGZ7) | [Die Antwoord](https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM) | [Pokémon](https://open.spotify.com/album/1ffliwfQKRLMoOnmn5VWKw) | 4:26 |
+| 29 | [Now You're a Home \(feat\. Ruuth\)](https://open.spotify.com/track/5mKekqQb3G8OK23LVzqJHB) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB) | [Finding Home](https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222) | 3:42 |
 | 30 | [Fragile](https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw) | [S$DD](https://open.spotify.com/artist/1WekWbvgbqnfThxOixlYHw), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4), [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [Fragile](https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu) | 4:09 |
 | 31 | [Feeling](https://open.spotify.com/track/6FAlvEVVjghOb5WjWRuknl) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Timofey](https://open.spotify.com/artist/6MteslgsqpOUtewd6Pw1Uq) | [Feeling](https://open.spotify.com/album/68YUOdsBc9jRCAidJjSmM5) | 2:48 |
 | 32 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/31OchL4Z3abIvoywvCaXmI) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/3EkoUqxtpRbsaywozm9Wg5) | 2:39 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 55 | [Lean In \- Interlude](https://open.spotify.com/track/3oMmlRcDyZjCedCuKqJGjC) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:44 |
 | 56 | [Gasoline \- Intro](https://open.spotify.com/track/6T0jiuBv0IMS9ON1MxNIhv) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:15 |
 
-Snapshot ID: `AbkrdAAAAADIeobz3+DJjZbn03jmyQkk`
+Snapshot ID: `Abkw9gAAAABAjrnYaTaYRcU5Vh5Beb1K`

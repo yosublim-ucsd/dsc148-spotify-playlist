@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,276 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,331 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 26 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 |
 | 27 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 |
 | 28 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
-| 29 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
+| 29 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
 | 30 | [Wszystko](https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 4:06 |
-| 31 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
+| 31 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 32 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
 | 33 | [Mleczna droga](https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 4:08 |
 | 34 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
-| 35 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
-| 36 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
+| 35 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
+| 36 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
 | 37 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
 | 38 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 |
 | 39 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 43 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 |
 | 44 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
 | 45 | [Próba](https://open.spotify.com/track/5spcXc9GLGoxb2VHhyF2zT) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ), [Archie](https://open.spotify.com/artist/7MfeMkE24VwoEnNKR2RA8u) | [Dobrostan](https://open.spotify.com/album/7ceGAAkYLx3kIppeHjuibV) | 3:05 |
-| 46 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 |
-| 47 | [Arachnophobia](https://open.spotify.com/track/5vm7AyTfxTPmQBfpRNOI5b) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 4:29 |
-| 48 | [Poznajmy się](https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL) | [Kacper Andrzejewski](https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N) | [Poznajmy się](https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt) | 2:38 |
+| 46 | [Poznajmy się](https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL) | [Kacper Andrzejewski](https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N) | [Poznajmy się](https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt) | 2:38 |
+| 47 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 |
+| 48 | [Arachnophobia](https://open.spotify.com/track/5vm7AyTfxTPmQBfpRNOI5b) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 4:29 |
 | 49 | [Nikt nie płacze wiecznie](https://open.spotify.com/track/5SrRtY9fw22UrKHZ0hTSgz) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Nikt nie płacze wiecznie](https://open.spotify.com/album/5eLbMIH3MFO7HJqRZg9XXr) | 2:43 |
 | 50 | [Kalka](https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:14 |
 | 51 | [Limbo](https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 3:35 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 56 | [Na Siłę](https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [W Domu EP](https://open.spotify.com/album/3A9JbJcyw7ZLklN2BHkRCJ) | 3:54 |
 | 57 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 |
 | 58 | [powiedz](https://open.spotify.com/track/6i1eHxmWVmgg0hU2m90wIn) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:16 |
-| 59 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 |
-| 60 | [Zaspy](https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Zaspy](https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl) | 3:10 |
+| 59 | [Zaspy](https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Zaspy](https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl) | 3:10 |
+| 60 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 |
 
 Snapshot ID: `Z2SlpQAAAAB0gxDSeQyUPmal26VsyObW`

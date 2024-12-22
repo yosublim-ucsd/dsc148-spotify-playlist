@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,494 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,572 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 88 | [Blind Faith](https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie \(Expanded Edition\)](https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB) | 3:32 |
 | 89 | [Don't Walk Away](https://open.spotify.com/track/0g0WdBxrrOxOrowa9PDF9j) | [Danger Danger](https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ) | [Danger Danger](https://open.spotify.com/album/3fkdfqYl5Ky1jbpEWqDe5U) | 4:55 |
 | 90 | [The Deeper the Love](https://open.spotify.com/track/2lESR3q3ZdMYKHYsdfK4rz) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake's Greatest Hits](https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ) | 4:22 |
-| 91 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
-| 92 | [One In A Million](https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:05 |
+| 91 | [One In A Million](https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:05 |
+| 92 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
 | 93 | [Broken Heart](https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Fight To Survive](https://open.spotify.com/album/3KUCeF1n3PSIfhOZ9tUdlC) | 3:31 |
 | 94 | [When I'm Gone](https://open.spotify.com/track/66jTfbDdDYnV6fvb85WU25) | [McAuley Schenker Group](https://open.spotify.com/artist/3LbJq0qQ5XCk2ocAPfRxJz) | [MSG](https://open.spotify.com/album/4l2Iw0TA4oIqP8yWrfiM27) | 4:49 |
 | 95 | [Possession](https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 5:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 97 | [Forever Free](https://open.spotify.com/track/2q8D48dCoOJHo4hSm6n1T1) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [The Headless Children](https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq) | 5:08 |
 | 98 | [Love Kills \- Remastered 2003](https://open.spotify.com/track/23DpTSrlyQCkjG8qChwWX6) | [Vinnie Vincent Invasion](https://open.spotify.com/artist/3ZUP9QmHAppM2vfpknkvIF) | [All Systems Go \(Remastered 2003\)](https://open.spotify.com/album/2hC1EgtvHDbtb3XhIsvTFH) | 4:38 |
 | 99 | [Here for You](https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 4:37 |
-| 100 | [When I Find Love](https://open.spotify.com/track/5jFJ4uD1C5IKc1zmLmp0TO) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [Hungry](https://open.spotify.com/album/6ehiAquVebqoHhN4VXTEQ1) | 4:17 |
+| 100 | [Don't Close Your Eyes](https://open.spotify.com/track/0r0yw4tbNQSauuWXw0dFwM) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Don't Close Your Eyes](https://open.spotify.com/album/4fSPG8KKZbarAMWvPB5JqA) | 4:12 |
 
 Snapshot ID: `Znt7fgAAAACE1tWCc5IX6NRdybKXEMZX`

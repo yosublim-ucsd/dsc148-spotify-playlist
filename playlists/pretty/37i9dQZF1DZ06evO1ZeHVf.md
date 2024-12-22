@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,067 likes - 48 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,097 likes - 48 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 24 | [Just To Be Close To You \- Live](https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 3:32 |
 | 25 | [Oh The Blood Of Jesus](https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 1:23 |
 | 26 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 |
-| 27 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 |
-| 28 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Gaither Homecoming Classics Vol.1](https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT) | 1:58 |
+| 27 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Gaither Homecoming Classics Vol.1](https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT) | 1:58 |
+| 28 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 |
 | 29 | [His Strength Is Perfect](https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:36 |
 | 30 | [More Than This](https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 8:19 |
 | 31 | [Come Fill My Heart](https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:48 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 47 | [We Welcome You \(Holy Father\)](https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:57 |
 | 48 | [I Don't Know Why \- Live](https://open.spotify.com/track/2l8cNakFazSIBJC49ztGpR) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [A Billy Graham Music Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8) | 1:05 |
 
-Snapshot ID: `Z2NiAAAAAADaddQlgn3acLOHDYvraXyD`
+Snapshot ID: `Z2SzgAAAAABN4fkJztALLY5BQBW+7aqy`

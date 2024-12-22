@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,225 likes - 69 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,277 likes - 69 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

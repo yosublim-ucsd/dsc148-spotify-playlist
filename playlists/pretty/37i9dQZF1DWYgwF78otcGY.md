@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,636 likes - 52 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,638 likes - 52 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 3 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 4 | [Stad i ljus](https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Är](https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z) | 3:08 |
 | 5 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 |
-| 6 | [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 |
-| 7 | [Fuego](https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fuego](https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8) | 3:03 |
+| 6 | [Fuego](https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fuego](https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8) | 3:03 |
+| 7 | [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 |
 | 8 | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq) | 3:06 |
 | 9 | [Move \(Ensam\) \- Spotify Singles](https://open.spotify.com/track/0uxMjXTK2DrJjAPGTJyiwh) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Move \(Ensam\) \- Spotify Singles](https://open.spotify.com/album/6xPqs77IVNVKLw0t62ktAp) | 2:27 |
 | 10 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 40 | [Amazing](https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Amazing](https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN) | 3:01 |
 | 41 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
 | 42 | [Mera mera mera](https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Mera mera mera](https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw) | 2:58 |
-| 43 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 |
-| 44 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 |
+| 43 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 |
+| 44 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 |
 | 45 | [Let Your Spirit Fly](https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf), [Pernilla Wahlgren](https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf) | [X My Heart](https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd) | 2:54 |
 | 46 | [Crazy in Love](https://open.spotify.com/track/3M1MbdMOc0MMD9oxsscdtw) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [Discography](https://open.spotify.com/album/2HkYSJxNf8FLikNbc08uFB) | 3:02 |
 | 47 | [Live Forever](https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Live Forever \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x) | 3:02 |

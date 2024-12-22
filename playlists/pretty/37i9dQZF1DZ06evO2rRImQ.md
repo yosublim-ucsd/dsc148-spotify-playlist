@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,878 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,904 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,26 +30,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 20 | [Tres Recuerdos](https://open.spotify.com/track/2dgwZntNk1YJO9SiFyydHb) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 3:17 |
 | 21 | [Ni El Dinero Ni Nada](https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:49 |
 | 22 | [No Llega El Olvido](https://open.spotify.com/track/4xKmCXrvnvrRa7XoBIwUoZ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:31 |
-| 23 | [Sin Autorización](https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 3:17 |
-| 24 | [No Te Quiero Perder](https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 3:28 |
+| 23 | [No Te Quiero Perder](https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 3:28 |
+| 24 | [Sin Autorización](https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 3:17 |
 | 25 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 |
 | 26 | [Eres Difícil](https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:30 |
 | 27 | [Experto En Fracasos \(Contando Penas\)](https://open.spotify.com/track/1eGB9VAzPMpIPCA562WrUv) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Canto Para Ti](https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK) | 2:30 |
 | 28 | [DE AMIRI](https://open.spotify.com/track/0y6utl2xogC5YI2ZLTDCMx) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [DE AMIRI](https://open.spotify.com/album/1fT0DdRF0jizHPaV0AXDiO) | 1:52 |
-| 29 | [Los Gustos Que Me Doy](https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:48 |
-| 30 | [Siempre Te Voy A Recordar](https://open.spotify.com/track/3JD6sfN3xeizYSOdb5Lsko) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Siempre Te Voy a Recordar](https://open.spotify.com/album/4DpjDJVVOVbtCtNWF3r7cJ) | 3:52 |
+| 29 | [Siempre Te Voy A Recordar](https://open.spotify.com/track/3JD6sfN3xeizYSOdb5Lsko) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Siempre Te Voy a Recordar](https://open.spotify.com/album/4DpjDJVVOVbtCtNWF3r7cJ) | 3:52 |
+| 30 | [Los Gustos Que Me Doy](https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:48 |
 | 31 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
 | 32 | [Llorar, Llorar](https://open.spotify.com/track/2PWwos1TVcbQdOGHndeDr6) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Canto Para Ti](https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK) | 3:42 |
 | 33 | [Ya Se Fue](https://open.spotify.com/track/4F20AZ3B6JMKvaPcTiy9GY) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 3:12 |
 | 34 | [Tiempo](https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:54 |
 | 35 | [No Me Prometas](https://open.spotify.com/track/4dSsX7BuYKLTZeTNaBvNU1) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [No Me Prometas](https://open.spotify.com/album/6QRykp1loczkZa2ite7dlm) | 2:26 |
 | 36 | [Olvídalo Conmigo](https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Y ¿Qué Tiene?](https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE) | 2:58 |
-| 37 | [No Volveré](https://open.spotify.com/track/3Ffy2duX1HPhTWpkALZ7br) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Pobre Ranchero](https://open.spotify.com/album/5KHJE3RQfHG15N3RQWayRF) | 2:44 |
-| 38 | [Esta Va Por Ti](https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:20 |
+| 37 | [Esta Va Por Ti](https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:20 |
+| 38 | [No Volveré](https://open.spotify.com/track/3Ffy2duX1HPhTWpkALZ7br) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Pobre Ranchero](https://open.spotify.com/album/5KHJE3RQfHG15N3RQWayRF) | 2:44 |
 | 39 | [S Cool...ito](https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [S Cool...ito](https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1) | 2:28 |
 | 40 | [Una Noche Cualquiera](https://open.spotify.com/track/2szSSBPaBH6skMDz6IQxUW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:30 |
-| 41 | [La Baraja](https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [La Baraja](https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR) | 2:55 |
-| 42 | [Ya No Tiene Caso](https://open.spotify.com/track/4NSisaKfhQhg14T4T088oW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 3:07 |
+| 41 | [Ya No Tiene Caso](https://open.spotify.com/track/4NSisaKfhQhg14T4T088oW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 3:07 |
+| 42 | [La Baraja](https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [La Baraja](https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR) | 2:55 |
 | 43 | [Yo Quiero Chupar](https://open.spotify.com/track/0NiQtVu6jYIqQjCKVlqjX5) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Superlameando](https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y) | 3:40 |
 | 44 | [Al Ver Que Te Vas](https://open.spotify.com/track/4JSZYFKUFdGSvsru6tuQOU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 3:05 |
 | 45 | [Vivir La Vida](https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 2:57 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 50 | [Extráñame](https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:50 |
 | 51 | [Vive La Casa](https://open.spotify.com/track/7jc8tEOZ8MT16uRkLEhUaw) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Fernando Corona](https://open.spotify.com/artist/29YNHs1rF7R6Wtl0pY0sZm) | [Vive La Casa](https://open.spotify.com/album/0GVDraF9ZbeIKLf5tfC1dr) | 3:09 |
 
-Snapshot ID: `Z2NiAAAAAAB5KBlNnv5PGRWs53bkMGc0`
+Snapshot ID: `Z2SzgAAAAAB2u29FEwKPedkZGL3DTMba`

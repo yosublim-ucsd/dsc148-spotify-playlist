@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 233274,
+  "num_followers": 233294,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAAx08VDtFu9osg0X785b10X",
+  "snapshot_id": "Z2SzgAAAAABuixqMyWoyr8tyOQkt8mP/",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Estrella Gemela - Remastered 2021",
+      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 251413,
       "name": "Pi\u00f9 che puoi (feat. Cher)",
       "url": "https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Estrella Gemela - Remastered 2021",
-      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 239253,
-      "name": "Adesso tu",
-      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alas Y Raices",
         "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 238640,
       "name": "Dimelo a Mi",
       "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 239253,
+      "name": "Adesso tu",
+      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "Perfetto",
+      "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy",
         "url": "https://open.spotify.com/album/5jitZ7zAFk0VeyGL74pS6e"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 211693,
       "name": "Soy",
       "url": "https://open.spotify.com/track/2NH2GnXvdwVFfO0jL3yEG1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfetto",
-        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "Perfetto",
-      "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Battito Infinito",
-        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Ama",
-      "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfetto",
         "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 228080,
       "name": "Sei Un Pensiero Speciale",
       "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Battito Infinito",
+        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Ama",
+      "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
     },
     {
       "added_at": null,

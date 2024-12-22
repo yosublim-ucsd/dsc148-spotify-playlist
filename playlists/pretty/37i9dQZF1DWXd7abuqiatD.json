@@ -1,6 +1,6 @@
 {
   "description": "Driving to work? or on a road trip? Find your sing-along moments here.",
-  "num_followers": 301926,
+  "num_followers": 301988,
   "original_name": "Driving Anthems",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered 2009",
-      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -627,6 +611,38 @@
       "duration_ms": 271240,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -647,18 +663,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 391376,
-      "name": "Hotel California - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Scar Tissue",
-      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -803,6 +787,22 @@
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Last Resort",
-      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Metallica",
         "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 331266,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1195,34 +1195,18 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -1271,6 +1239,38 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2024-03-22 00:03:25",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-22 00:03:25",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2024-03-22 00:03:25",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 235493,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
+    },
+    {
+      "added_at": "2024-03-22 00:03:25",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2024-03-22 00:03:25",

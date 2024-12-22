@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-257 songs - 11 hr 12 min
+258 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Roser](https://open.spotify.com/track/0Bf8Kte0qL9GXQszfqbRLM) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Roser](https://open.spotify.com/album/1PX57v6vo13dlBDyJnPzUf) | 2:39 | 2023-11-16 | 2024-01-12 |
 | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/track/4bONrMmoqGMrrDzrPERrqv) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/album/10yyOXjdgOq66TXdVF3Z03) | 2:36 | 2024-01-11 | 2024-02-24 |
 | [Rädda mig](https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Rädda mig](https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu) | 2:23 | 2023-09-21 |  |
-| [RÄTT & FEL](https://open.spotify.com/track/179XVuqKFmRH2uYHe1JAcI) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [RÄTT & FEL](https://open.spotify.com/album/3JwpRGw1884mK1G1Cw4lYE) | 2:19 | 2024-08-15 |  |
+| [RÄTT & FEL](https://open.spotify.com/track/179XVuqKFmRH2uYHe1JAcI) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [RÄTT & FEL](https://open.spotify.com/album/3JwpRGw1884mK1G1Cw4lYE) | 2:19 | 2024-08-15 | 2024-12-22 |
 | [Røde Rubin](https://open.spotify.com/track/0Pdi9usvND947TMv869DmN) | [Plaza](https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ) | [Røde Rubin](https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI) | 2:36 | 2024-06-06 |  |
 | [SAHBI](https://open.spotify.com/track/7daGugofgBVQN2TGIrlFjO) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [SAHBI](https://open.spotify.com/album/4rJgeIJrPR81atptFEp9fD) | 2:34 | 2024-07-18 |  |
 | [SAHBI \- Remix](https://open.spotify.com/track/5zUjQeVLRZqLyEGsc56VTG) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [SAHBI \(Remix\)](https://open.spotify.com/album/2jNGBfhHe5C5CtHUqHEKy0) | 2:49 | 2024-11-07 |  |
@@ -250,6 +250,7 @@
 | [Utested](https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Utested](https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu) | 2:42 | 2024-06-07 |  |
 | [Vakuum](https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Vakuum](https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts) | 2:41 | 2024-07-11 | 2024-08-16 |
 | [Varig mén](https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Varig mén](https://open.spotify.com/album/1je48mRG7l23gvEMesMczK) | 2:31 | 2024-05-06 |  |
+| [Veien](https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Veien](https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1) | 3:07 | 2024-12-19 |  |
 | [Vidunderbarn](https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Vidunderbarn](https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3) | 3:07 | 2024-01-11 | 2024-09-08 |
 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-09-21 | 2024-06-01 |
 | [Ville Dyr](https://open.spotify.com/track/6bdcLY8p5bhQEzrhSPerO5) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Kris Winther](https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Ville Dyr](https://open.spotify.com/album/5cjuG3dO5EoojY1X8Oyf1K) | 2:11 | 2024-03-28 | 2024-09-25 |

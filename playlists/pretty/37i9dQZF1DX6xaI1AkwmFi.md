@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,084 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,098 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 9 | [それが恋だと言ってくれ！](https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [それが恋だと言ってくれ！](https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy) | 3:13 |
 | 10 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
 | 11 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
-| 12 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
+| 12 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 |
 | 13 | [Welcome To My Brain](https://open.spotify.com/track/5NKAY2RonzzZW9AUpAftzp) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [Welcome To My Brain](https://open.spotify.com/album/0M0AKZWq7hbWGS2LeL5bOO) | 3:18 |
 | 14 | [familie](https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [familie](https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun) | 3:42 |
 | 15 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
-| 16 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 |
+| 16 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
 | 17 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 |
 | 18 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
 | 19 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 45 | [プレゼント](https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [プレゼント](https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV) | 4:08 |
 | 46 | [二度寝](https://open.spotify.com/track/38Ypb7FJIGVovqqQO2Yu5S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [二度寝](https://open.spotify.com/album/1A68DtaRuQEtOfIHkB8C2p) | 3:27 |
 | 47 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
-| 48 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 |
-| 49 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
+| 48 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
+| 49 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 |
 | 50 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
 
 Snapshot ID: `Z2H/KAAAAADY1QYVilm2jFCs10knZpQz`

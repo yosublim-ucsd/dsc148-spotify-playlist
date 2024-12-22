@@ -1,33 +1,13 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 6554,
+  "num_followers": 6583,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACFoW79dBGHJI2Fs4nxasWy",
+  "snapshot_id": "Z2SzgAAAAABbNcdL5jLN9hqY1emhdwrQ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 459766,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
-    },
     {
       "added_at": null,
       "album": {
@@ -108,13 +88,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Michelle Yeoh",
-          "url": "https://open.spotify.com/artist/5IaJcuBeBkVqhGAzxMciwu"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 336858,
-      "name": "The Wizard And I",
-      "url": "https://open.spotify.com/track/4mxj6SQ7BxfQ90CBTbxcwH"
+      "duration_ms": 459766,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
     },
     {
       "added_at": null,
@@ -180,29 +160,17 @@
       },
       "artists": [
         {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Ethan Slater",
-          "url": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
-        },
-        {
-          "name": "Marissa Bode",
-          "url": "https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Michelle Yeoh",
+          "url": "https://open.spotify.com/artist/5IaJcuBeBkVqhGAzxMciwu"
         }
       ],
-      "duration_ms": 587364,
-      "name": "Dancing Through Life",
-      "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
+      "duration_ms": 336858,
+      "name": "The Wizard And I",
+      "url": "https://open.spotify.com/track/4mxj6SQ7BxfQ90CBTbxcwH"
     },
     {
       "added_at": null,
@@ -272,13 +240,29 @@
       },
       "artists": [
         {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Ethan Slater",
+          "url": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
+        },
+        {
+          "name": "Marissa Bode",
+          "url": "https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1"
+        },
+        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 237043,
-      "name": "I\u2019m Not That Girl",
-      "url": "https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX"
+      "duration_ms": 587364,
+      "name": "Dancing Through Life",
+      "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
     },
     {
       "added_at": null,
@@ -346,33 +330,17 @@
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Michael McCorry Rose",
-          "url": "https://open.spotify.com/artist/26el8XoLgjuWJJBXCVdHjX"
         }
       ],
-      "duration_ms": 392668,
-      "name": "One Short Day",
-      "url": "https://open.spotify.com/track/4jNerIJa2IOeL5gVDvMNLW"
+      "duration_ms": 237043,
+      "name": "I\u2019m Not That Girl",
+      "url": "https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
       "artists": [
         {
@@ -380,9 +348,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -428,23 +396,35 @@
       },
       "artists": [
         {
-          "name": "Peter Dinklage",
-          "url": "https://open.spotify.com/artist/0pHTIdyC4DAsoMhpSufQaz"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Michael McCorry Rose",
+          "url": "https://open.spotify.com/artist/26el8XoLgjuWJJBXCVdHjX"
         }
       ],
-      "duration_ms": 108300,
-      "name": "Something Bad",
-      "url": "https://open.spotify.com/track/5E2ASK5znLzoizBy4njhM4"
+      "duration_ms": 392668,
+      "name": "One Short Day",
+      "url": "https://open.spotify.com/track/4jNerIJa2IOeL5gVDvMNLW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
       },
       "artists": [
         {
@@ -452,9 +432,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -659,22 +639,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspirational",
-        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
+        "name": "Forbidden",
+        "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
       },
       "artists": [
         {
-          "name": "Alison Jiear",
-          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 360527,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
+      "duration_ms": 232800,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc"
     },
     {
       "added_at": null,
@@ -699,26 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forbidden",
-        "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
+        "name": "Inspirational",
+        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
       },
       "artists": [
         {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        },
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+          "name": "Alison Jiear",
+          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc"
+      "duration_ms": 360527,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
     },
     {
       "added_at": null,

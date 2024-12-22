@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "album": {
         "name": "4TO 23",
         "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
       },
@@ -669,7 +687,7 @@
     },
     {
       "album": {
-        "name": "All of Me",
+        "name": "All Of Me",
         "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
       },
       "artists": [
@@ -682,7 +700,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165038,
-      "name": "All of Me",
+      "name": "All Of Me",
       "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
     },
     {

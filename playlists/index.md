@@ -4305,7 +4305,7 @@
 - [PRINCESS CONNECT！Re:Dive プリンセスコネクト！Re:Dive](/playlists/pretty/37i9dQZF1DX8lJMXhaDN8v.md)
 - [PSYCHO\-PASS サイコパス](/playlists/pretty/37i9dQZF1DXaUfOmgBZyBo.md)
 - [PUBG: BATTLEGROUNDS  Thank you, 5urvivors](/playlists/pretty/37i9dQZF1DWYRYaqBHPt12.md)
-- [PURO SUCO DO BRASIL](/playlists/pretty/37i9dQZF1DWUSHGSJhLype.md)
+- [PURO SUCO DO VERÃO](/playlists/pretty/37i9dQZF1DWUSHGSJhLype.md)
 - [PVNCHLNRS](/playlists/pretty/37i9dQZF1DX1X23oiQRTB5.md)
 - [Pa Planchar](/playlists/pretty/37i9dQZF1DXcxx3b1DguTJ.md)
 - [Pa' Mi San Juditas x Eme MalaFe](/playlists/pretty/37i9dQZF1DWVf7lNeiy8sU.md)

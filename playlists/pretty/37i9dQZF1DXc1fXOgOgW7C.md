@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,403 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,428 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 42 | [Aventura \(feat\. Marcela Morelo\)](https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:29 |
 | 43 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 44 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
-| 45 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 |
-| 46 | [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 |
+| 45 | [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 |
+| 46 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 |
 | 47 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
 | 48 | [La Magia Está en Tu Piel](https://open.spotify.com/track/1lr3CWBoYPYOmgktzn0gWo) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Modo Despegar](https://open.spotify.com/album/4nbt4s7V6jF5uIn8p5ZcPj) | 5:18 |
-| 49 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 |
-| 50 | [La Pregunta](https://open.spotify.com/track/4PxOR5geaJtZFe4Q3I115t) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 4:58 |
+| 49 | [La Pregunta](https://open.spotify.com/track/4PxOR5geaJtZFe4Q3I115t) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 4:58 |
+| 50 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 |
 | 51 | [El Redentor Secreto](https://open.spotify.com/track/2Lg3x1cTqZPtigNbpY75z9) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [La Luna Hueca](https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl) | 3:20 |
 | 52 | [Y la Banda Sigue](https://open.spotify.com/track/1fHYfXMXkhrWd9dzIOharS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [Y la Banda Sigue](https://open.spotify.com/album/2025IlqtTWDI90ejSXEulm) | 3:30 |
 | 53 | [Jugo](https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 3:57 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 61 | [Aunque No Quiero](https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 3:35 |
 | 62 | [Cosas para Decirte](https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 5:40 |
 | 63 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
-| 64 | [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 |
-| 65 | [Perdida En El Fuego](https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 4:33 |
+| 64 | [Perdida En El Fuego](https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 4:33 |
+| 65 | [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 |
 | 66 | [El Sueño del Jinete](https://open.spotify.com/track/4q6ZHerrtO7gcF67KFX0BF) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [La Luna Hueca](https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl) | 2:58 |
 | 67 | [Ves](https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Érase](https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy) | 3:15 |
 | 68 | [Alas Rotas](https://open.spotify.com/track/2oSSdWH52JwRKbGgkZkk83) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Antenas](https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz) | 4:33 |

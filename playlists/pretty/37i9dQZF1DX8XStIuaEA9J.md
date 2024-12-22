@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 詩羽 × CENT
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,373 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,379 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 57 | [ラブトキシン](https://open.spotify.com/track/1PqW2TPT4hmuBDt8lhUOhA) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ラブトキシン](https://open.spotify.com/album/5LF10uPo7yZCDaSbU7X1G3) | 3:28 |
 | 58 | [100](https://open.spotify.com/track/3FtCvVQkdoBvCEVnC1tHk4) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [100](https://open.spotify.com/album/1HEiG0oqNKVF2bYmXZU20q) | 3:07 |
 | 59 | [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 |
-| 60 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
+| 60 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
 | 61 | [青春GAMEOVER](https://open.spotify.com/track/45fmkUltyqayDm2fWXW07y) | [oops cool](https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE) | [青春GAMEOVER](https://open.spotify.com/album/4qjnOXAZ2WjcibMuv8Htvy) | 3:37 |
 | 62 | [Mouiiyo](https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Mouiiyo](https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV) | 2:57 |
 | 63 | [浮気したらあかんで](https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [浮気したらあかんで](https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34) | 3:13 |

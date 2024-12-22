@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-194 songs - 13 hr 20 min
+195 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All About Tonight \- Live](https://open.spotify.com/track/2bqx5ywTyyiZMLdNG1tpJD) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:39 | 2021-07-22 | 2024-04-19 |
 | [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7) | 3:57 | 2024-09-26 |  |
 | [American Honey \- Live](https://open.spotify.com/track/1du44Cc6iz8uXBKvvu8N77) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:43 | 2021-07-22 | 2024-05-05 |
+| [American Nights \- Live From Foxborough](https://open.spotify.com/track/6VWLGOifAAVLZnODPilzea) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [24 \(Live\)](https://open.spotify.com/album/45X4bjgXE86wQamRz6ihLE) | 3:59 | 2024-12-20 |  |
 | [Any Man Of Mine \- Live](https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:30 | 2021-07-22 |  |
 | [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4sL9qCuNP0eIvOsOO20aPF) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 7:51 | 2023-11-10 | 2024-04-19 |
 | [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4tjyZXvKsvKrAPxqQTbeSl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Baba O'Riley \(Live at Fenway Park, Boston, MA, 08.20.2016\)](https://open.spotify.com/album/2X3TXhcSi7Op3v3Co7q8xY) | 7:51 | 2023-10-27 | 2024-05-05 |
@@ -182,7 +183,7 @@
 | [Waymore’s Blues \- Live at The Fillmore New York at Irving Plaza/ 2010](https://open.spotify.com/track/2mmtL4ZNo77BwzorkT8yjx) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets In The Gun \(Deluxe Package\)](https://open.spotify.com/album/4HMst6ZXsJmSnI1bz3LGzw) | 6:07 | 2021-07-22 | 2024-05-05 |
 | [Weakness \(feat\. Tris Munsick & Sam Munsick\) \- Live](https://open.spotify.com/track/3Qrgsm4w3DLoSb4u30mpsb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Tris Munsick](https://open.spotify.com/artist/6VhJr0L2PbnyAfz5WtLT7R), [Sam Munsick](https://open.spotify.com/artist/65kwDghVUSLY1qzOfOp5no) | [Wyoming’s Sons \(Live from Cheyenne\)](https://open.spotify.com/album/6DFVfxEm38Lrq7kS6jzyYI) | 5:12 | 2022-12-02 | 2024-09-03 |
 | [Welcome to Hard Times \- Live from the Ryman](https://open.spotify.com/track/4QxGtOtabeAuy4WJ6OqG5V) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Live from the Ryman](https://open.spotify.com/album/46kzMpUsEmPdoEDtUWLjDM) | 2:50 | 2023-09-29 |  |
-| [What He Didn’t Do \- Live From Music City](https://open.spotify.com/track/79ZBn845qsMjNPFKtuKEsF) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn’t Do \(Live From Music City\)](https://open.spotify.com/album/7EteFl8IcVmdYKUz6gCAlT) | 3:14 | 2023-02-03 |  |
+| [What He Didn’t Do \- Live From Music City](https://open.spotify.com/track/79ZBn845qsMjNPFKtuKEsF) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn’t Do \(Live From Music City\)](https://open.spotify.com/album/7EteFl8IcVmdYKUz6gCAlT) | 3:14 | 2023-02-03 | 2024-12-22 |
 | [What Hurts the Most \- Live / 2011](https://open.spotify.com/track/4hlgImGb2SeTELFkZuhJsu) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:35 | 2021-07-22 | 2024-05-05 |
 | [What's Your Name \- Live](https://open.spotify.com/track/3k5aZuYJfbfcVK9aj8xJOS) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [One More For The Fans \(Live\)](https://open.spotify.com/album/2ozyyppkepXcWyxvdNbDmi) | 3:44 | 2021-07-22 | 2024-05-05 |
 | [When The Sun Goes Down \- Duet With Uncle Kracker \(Live\)](https://open.spotify.com/track/7pQK5p4esbVIzuXI5dATaw) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 5:03 | 2021-07-22 |  |

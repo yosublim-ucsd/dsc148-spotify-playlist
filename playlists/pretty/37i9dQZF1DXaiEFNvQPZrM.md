@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,669 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,743 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 6 | [Time On My Hands](https://open.spotify.com/track/5T8ON5PmKZmIBRP3EECkXG) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Time On My Hands](https://open.spotify.com/album/3BIrRXUZQjsIvb6qQbVLnZ) | 3:59 |
 | 7 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 |
 | 8 | [Strangers](https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Strangers](https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq) | 3:31 |
-| 9 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
+| 9 | [Doublewide](https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Wait Til I Get My Money Up](https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl) | 2:38 |
 | 10 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 |
 | 11 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 |
-| 12 | [Doublewide](https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Wait Til I Get My Money Up](https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl) | 2:38 |
+| 12 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
 | 13 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
 | 14 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
 | 15 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:29 |

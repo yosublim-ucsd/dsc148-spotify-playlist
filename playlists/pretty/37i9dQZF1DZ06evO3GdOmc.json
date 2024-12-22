@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 39229,
+  "num_followers": 39247,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAADy75mZ1kMXXEl+2qvJ8YOF",
+  "snapshot_id": "Z2SzgAAAAADhEJjvlEfvCRGx3bAi4gc0",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To The Well",
-        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 271280,
-      "name": "Already There",
-      "url": "https://open.spotify.com/track/1d0uIYuNGbAfgNX0Bm1wKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 281426,
       "name": "Broken Together",
       "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "Already There",
+      "url": "https://open.spotify.com/track/1d0uIYuNGbAfgNX0Bm1wKm"
     },
     {
       "added_at": null,

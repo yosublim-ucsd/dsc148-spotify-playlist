@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-473 songs - 1 day 7 hr 2 min
+474 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [想和你一起](https://open.spotify.com/track/5fktrJ3Sds9nmhyVva2irU) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [如果你也愛我就好了](https://open.spotify.com/album/5s3lkz5pkdwPir6BwFqFDb) | 3:53 | 2022-06-02 | 2022-07-29 |
 | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/track/3m51Vc66fUIorBDsck4LwC) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/album/79uriKWKqmAdmFaSed84rV) | 3:52 | 2022-06-23 | 2022-07-12 |
 | [想回家的時候](https://open.spotify.com/track/3qBCr8BDyEqEZjSDNGW5op) | [Dadado Huang](https://open.spotify.com/artist/3C8yUWotyLh2Kjkood3xYN) | [一切平常](https://open.spotify.com/album/33TkgPZWkWleCmNCchXHVQ) | 4:06 | 2024-02-08 | 2024-03-10 |
-| [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 |  |
+| [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 | 2024-12-22 |
 | [想把空白的日子留给你](https://open.spotify.com/track/4Mw26chMpfO6JvbFgFpKUF) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [想把空白的日子留给你](https://open.spotify.com/album/0yMMA9HWHFVFGkkOs8nxSI) | 4:19 | 2022-06-02 | 2022-07-29 |
 | [想著你的感覺](https://open.spotify.com/track/1o4ShGYKCjvKKLh66UvY2U) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [思念之城 \- 梁文福作品集](https://open.spotify.com/album/3BNMOFL5VJGt7edmnxTyCc) | 4:22 | 2024-10-03 | 2024-10-11 |
 | [想見就能相見 \- Live 版](https://open.spotify.com/track/46hRFXILthnANbKUrbGWtb) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [想見就能相見 \(Live 版\)](https://open.spotify.com/album/7tKrxlXdVdep0w6dHibgMO) | 5:04 | 2023-02-16 | 2023-03-03 |
@@ -450,6 +450,7 @@
 | [還想聽你的故事](https://open.spotify.com/track/6v7jfR8YsuYAR4fQcKByJC) | [謝春花](https://open.spotify.com/artist/0gYt4XG9A0hyZW7rt745ZY), [王碧浪](https://open.spotify.com/artist/43DKOeJ3ywoF37STeX6FcX) | [算雲煙](https://open.spotify.com/album/7bvPsVkvRgL8Amo3g9QAIT) | 4:43 | 2022-06-02 | 2022-07-24 |
 | [還是選擇你](https://open.spotify.com/track/4NIL3PP8rLfjFrHIftHC04) | [菱兒](https://open.spotify.com/artist/169HvpV2Zu4EZR1J3QcEJ9), [有為 Santi](https://open.spotify.com/artist/2rCvQjX4inIuik7bIiGLs4) | [還是選擇你](https://open.spotify.com/album/7FV5SvHU5xl0qQFe3PxxOW) | 5:04 | 2023-01-05 | 2023-01-20 |
 | [那 就是我们吗](https://open.spotify.com/track/0L3FcHK6fmWfV6pu6bE6te) | [Jason Zhang](https://open.spotify.com/artist/75udD9hen8NeHTe92rUNLa) | [外南街1982](https://open.spotify.com/album/5YwEslhuCquUrP6TtSHue4) | 3:29 | 2023-02-09 | 2023-02-24 |
+| [那時有你](https://open.spotify.com/track/4HqboFElGvFjJKb7C3AZ9D) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [那時有你](https://open.spotify.com/album/1GpsjR2f2tPIoONzuoGfPP) | 5:48 | 2024-12-21 |  |
 | [都挺好的 \(feat.張震嶽\)](https://open.spotify.com/track/5FO9eEyRRtJu972fstMsfS) | [江靜 Jiang Jing](https://open.spotify.com/artist/0NzcQo5gooNhYRtnx4YTQ7), [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [都挺好的 \(feat.張震嶽\)](https://open.spotify.com/album/2iHjpA5Ih5extOciUm6Fpq) | 3:16 | 2022-06-10 | 2022-07-22 |
 | [釀月光](https://open.spotify.com/track/31tSRRvp34rsk7NBhwImCq) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [釀月光](https://open.spotify.com/album/4c4y64aLqXcbql0vDvg0YI) | 4:26 | 2022-06-10 | 2022-07-10 |
 | [銀色的移動城堡](https://open.spotify.com/track/6zHOmCEdlmKLwtbhI51P6W) | [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [銀色的移動城堡](https://open.spotify.com/album/6VLssXYYz9HFg073o4gOOV) | 3:48 | 2024-08-15 | 2024-09-07 |

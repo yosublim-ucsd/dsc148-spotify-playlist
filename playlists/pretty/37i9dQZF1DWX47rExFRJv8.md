@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,019 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,050 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 40 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
 | 41 | [Créeme](https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Créeme](https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG) | 3:32 |
 | 42 | [Ibiza](https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:20 |
-| 43 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 |
-| 44 | [X \(feat\. Maluma & Ozuna\) \- Remix](https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [X \(feat\. Maluma & Ozuna\) \[Remix\]](https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM) | 3:55 |
+| 43 | [X \(feat\. Maluma & Ozuna\) \- Remix](https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [X \(feat\. Maluma & Ozuna\) \[Remix\]](https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM) | 3:55 |
+| 44 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 |
 | 45 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
 | 46 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 47 | [El Préstamo](https://open.spotify.com/track/2XVilv6s9GETnw9PG4T9Mz) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Khalid &  Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,831 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,873 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 14 | [Ohene](https://open.spotify.com/track/6IpiQrPyZbFL2T1IO6SLB1) | [Serious Klein](https://open.spotify.com/artist/118HlFjDgUCku033j3YD81) | [Ohene](https://open.spotify.com/album/2N60XjOoQFUpBFM6EuyyPB) | 2:50 |
 | 15 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
 | 16 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Loud Urban Choir](https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC) | [Bloody Samaritan \(with Kelly Rowland\) \[Remix\]](https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX) | 3:09 |
-| 17 | [Eyes Dried Over](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
+| 17 | [Eyes Dried Over \(feat\. Tom Walker\)](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
 | 18 | [Sade](https://open.spotify.com/track/0h09jdyYa1ncmUTcAHiZU1) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Sade](https://open.spotify.com/album/0xgY5KFARllShxhQ719GiD) | 3:43 |
 | 19 | [Butta My Bread \- Remix](https://open.spotify.com/track/0iIdlQ3Ba3xvJKsQCVnD9c) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread \(Remix\)](https://open.spotify.com/album/4qjPuetqk9jcCRbfPwjjQW) | 4:02 |
 | 20 | [Deadly \(feat\. Victony\)](https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Deadly \(feat\. Victony\)](https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL) | 3:01 |

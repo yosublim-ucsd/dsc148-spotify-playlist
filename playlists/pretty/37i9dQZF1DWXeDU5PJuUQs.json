@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 188427,
+  "num_followers": 188806,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 164071,
+      "name": "Una Calle Nos Separa - En Vivo",
+      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
         "name": "Session #14 Los Charros",
         "url": "https://open.spotify.com/album/6OocCESiVHo7bc1fX1RNWb"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 100710,
       "name": "Pero no puedo",
       "url": "https://open.spotify.com/track/6S0wOHLCXlWmYeF1jjuHqZ"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 164071,
-      "name": "Una Calle Nos Separa - En Vivo",
-      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -723,18 +723,22 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "Festival (En Vivo)",
-        "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
+        "name": "Y Tu Te Vas / P\u00eddeme",
+        "url": "https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ"
       },
       "artists": [
         {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "Pablito HC",
+          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
         }
       ],
-      "duration_ms": 628309,
-      "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
-      "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
+      "duration_ms": 350687,
+      "name": "Y Tu Te Vas / P\u00eddeme",
+      "url": "https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -803,22 +807,34 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "Y Tu Te Vas / P\u00eddeme",
-        "url": "https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ"
+        "name": "Festival (En Vivo)",
+        "url": "https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx"
       },
       "artists": [
         {
-          "name": "Sound De Barrio",
-          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
-        },
-        {
-          "name": "Pablito HC",
-          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 350687,
-      "name": "Y Tu Te Vas / P\u00eddeme",
-      "url": "https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt"
+      "duration_ms": 628309,
+      "name": "Me Enamore / A tus pies / Te falta sufrir - En Vivo",
+      "url": "https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
+      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -839,22 +855,6 @@
       "duration_ms": 226562,
       "name": "No Voy a Llorar",
       "url": "https://open.spotify.com/track/3OLRoqUQItumGBBbtKgHvP"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
-      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "Artistas invitados, Pt. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 95108,
-      "name": "Vete - En Vivo",
-      "url": "https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
         "name": "20 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 196200,
       "name": "Tu Falta de Querer - En Vivo",
       "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
+        "name": "Artistas invitados, Pt. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        },
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 95108,
+      "name": "Vete - En Vivo",
+      "url": "https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+    },
+    {
+      "added_at": "2024-12-20 12:15:28",
+      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
       },
       "artists": [
         {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2024-12-20 12:15:28",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+        "name": "Nunca M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+      "duration_ms": 184618,
+      "name": "Nunca M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
     },
     {
       "added_at": "2024-12-20 12:15:28",
@@ -1131,22 +1147,6 @@
       "duration_ms": 330339,
       "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
       "url": "https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY"
-    },
-    {
-      "added_at": "2024-12-20 12:15:28",
-      "album": {
-        "name": "Nunca M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 184618,
-      "name": "Nunca M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
     },
     {
       "added_at": "2024-12-20 12:15:28",

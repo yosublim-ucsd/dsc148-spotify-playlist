@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Am Sorry! I Changed",
+        "url": "https://open.spotify.com/album/5jf3R8tAa812N4tVQVuMco"
+      },
+      "artists": [
+        {
+          "name": "Paul Payne837",
+          "url": "https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Am Sorry! I Changed",
+      "url": "https://open.spotify.com/track/26pCyVs2y3mkYWgo2KJZSC"
+    },
+    {
+      "album": {
         "name": "AM to PM",
         "url": "https://open.spotify.com/album/37EXOX3UQFDw1xNlFo9ohO"
       },
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 135576,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
@@ -6756,7 +6774,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 164000,
       "name": "Fortified",
       "url": "https://open.spotify.com/track/3QQI0IgPr82JQr9xRAuRE9"
@@ -7486,7 +7504,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 181762,
       "name": "Got It All, Pt. 2",
       "url": "https://open.spotify.com/track/5HYLl003AuGEdGXJSi2DvQ"
@@ -12252,7 +12270,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 140198,
       "name": "Merry Go (feat. Oladapo)",
       "url": "https://open.spotify.com/track/6stUq4olb8y0AXl83jlDa2"
@@ -15595,6 +15613,32 @@
     },
     {
       "album": {
+        "name": "Philo 2.0",
+        "url": "https://open.spotify.com/album/0HVd5GDgZFMVDrqjAF9e2x"
+      },
+      "artists": [
+        {
+          "name": "Musta4a",
+          "url": "https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9"
+        },
+        {
+          "name": "Adam Srae",
+          "url": "https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE"
+        },
+        {
+          "name": "S\u00f6ulaar",
+          "url": "https://open.spotify.com/artist/2K0zy7QsRrnSsBiTf5SHzz"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153586,
+      "name": "Philo 2.0",
+      "url": "https://open.spotify.com/track/7FlTn3qoziLKbd8dyDlkBp"
+    },
+    {
+      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV"
       },
@@ -16464,6 +16508,24 @@
       "duration_ms": 171262,
       "name": "Ready - Acoustic",
       "url": "https://open.spotify.com/track/1mZtvB2gxTbA4oeXbYkenh"
+    },
+    {
+      "album": {
+        "name": "Real / Not Your Type",
+        "url": "https://open.spotify.com/album/6LbE49EaLhap39A267FPtP"
+      },
+      "artists": [
+        {
+          "name": "Thandi Marie",
+          "url": "https://open.spotify.com/artist/2Q85aPuDzcZP8QSSH9tykf"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124794,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1SSNPCkF6rf9hfYWed08Ak"
     },
     {
       "album": {
@@ -17562,6 +17624,28 @@
       "duration_ms": 161531,
       "name": "Scary",
       "url": "https://open.spotify.com/track/2zlCpQNLCXi3Vtg0ViPoCu"
+    },
+    {
+      "album": {
+        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117707,
+      "name": "Scenez",
+      "url": "https://open.spotify.com/track/7lhdnFvmWRpE9ggxqc5pWZ"
     },
     {
       "album": {

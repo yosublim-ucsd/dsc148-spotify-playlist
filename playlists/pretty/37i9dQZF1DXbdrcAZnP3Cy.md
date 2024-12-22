@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,766 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,841 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 22 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 23 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
 | 24 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
-| 25 | [Me Vale](https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:31 |
-| 26 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 |
+| 25 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 |
+| 26 | [Me Vale](https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:31 |
 | 27 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
 | 28 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 29 | [La Chona](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Para Tucancillos y Tucancillas](https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb) | 3:19 |

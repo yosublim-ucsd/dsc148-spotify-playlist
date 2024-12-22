@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,315 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,796 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 11 | [Noches Amargas](https://open.spotify.com/track/3RdIoywt4oDQgMf3L5rsDc) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [¿Quién?](https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy) | 2:47 |
 | 12 | [Afuera Está Lloviendo](https://open.spotify.com/track/3z6s6qPDYCpW44Zfpy4HWS) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:59 |
 | 13 | [El Amor De Su Vida](https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:39 |
-| 14 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 |
+| 14 | [Y Me Da Vergüenza](https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:02 |
 | 15 | [Corazón Malo](https://open.spotify.com/track/4ta6IEXPLgo20X6HzicCee) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [¿Quién?](https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy) | 2:08 |
-| 16 | [Y Me Da Vergüenza](https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:02 |
+| 16 | [Y Tú \- Ranchera](https://open.spotify.com/track/5Pljff877u2k9o9lwoFUoL) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:51 |
 | 17 | [Ya No](https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:34 |
 | 18 | [Ni Diablo Ni Santo](https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:35 |
 | 19 | [Aquí Algo Cambió](https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 49 | [Tú Me Cambiaste](https://open.spotify.com/track/4Gl6nmZqSU6F9w7uqQB2FU) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:35 |
 | 50 | [Demente](https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:34 |
 
-Snapshot ID: `Z2NiAAAAAAAFTodQCrZoRHlXxoi00C7d`
+Snapshot ID: `Z2SzgAAAAAB86KNNp/EvfBY7j5vbtMQS`

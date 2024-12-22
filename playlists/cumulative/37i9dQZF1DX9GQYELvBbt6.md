@@ -4,7 +4,7 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-149 songs - 9 hr 50 min
+150 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Demo,](https://open.spotify.com/track/7J1qFnDjU5SNRDxpnLlpbD) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [Love°C](https://open.spotify.com/album/1mWPLHs2ERurOEB25DLBxk) | 2:59 | 2023-12-12 | 2024-04-19 |
 | [Dramaturgy](https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:58 | 2023-11-21 | 2024-04-19 |
 | [Endless](https://open.spotify.com/track/4qTY7rQSQ4M6JP3TfoMbG6) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Endless](https://open.spotify.com/album/3IVlzFO79ROq2pCINRfr2s) | 4:01 | 2024-10-23 | 2024-12-04 |
+| [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 | 2024-12-19 |  |
 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 | 2023-11-21 | 2024-04-19 |
 | [Haikei](https://open.spotify.com/track/2gGndsagLCcAwzk3tV1lV8) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Haikei](https://open.spotify.com/album/7IYVvXAdFDlxMkWLHSDtLR) | 3:30 | 2023-11-21 | 2024-03-17 |
 | [Haikei](https://open.spotify.com/track/0oj8WIDCfJ5lxJoGC2EKVx) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Throw](https://open.spotify.com/album/1OvpWrhUgMO2moBeKeVd1q) | 3:31 | 2024-03-05 | 2024-04-19 |
@@ -76,7 +77,7 @@
 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 | 2023-11-21 | 2023-11-29 |
 | [おはよう ただいま おやすみ](https://open.spotify.com/track/0NDh2sw7wTzxuj5ttGbBg7) | [アイラヴミー](https://open.spotify.com/artist/5E1E14jPqjgoqcE8wxiqxN) | [おはよう ただいま おやすみ](https://open.spotify.com/album/2mAd1FoQewULeod0o4DR6V) | 4:16 | 2024-12-03 | 2024-12-20 |
 | [かぜ薫る](https://open.spotify.com/track/0W0beAnzs1zMt82GfSBKHJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [かぜ薫る](https://open.spotify.com/album/1yuEpahsy5IPJIPjeCRucE) | 3:39 | 2024-07-31 | 2024-09-12 |
-| [この世界に国が無かったら](https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この世界に国が無かったら](https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut) | 4:19 | 2024-12-03 |  |
+| [この世界に国が無かったら](https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この世界に国が無かったら](https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut) | 4:19 | 2024-12-03 | 2024-12-22 |
 | [この寒い夜だけ](https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この寒い夜だけ](https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld) | 2:58 | 2024-01-16 | 2024-09-12 |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-11-21 |  |
 | [でも、](https://open.spotify.com/track/1eiflYv62PGfglEC0Dc9rH) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [愛℃](https://open.spotify.com/album/5d9Z5IN5TO2Z8PI5i6VfGS) | 2:59 | 2023-12-12 | 2024-09-12 |
@@ -148,7 +149,7 @@
 | [神様の運命論](https://open.spotify.com/track/0wgTyizl02IVoz88j2zOs4) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2), [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k) | [神様の運命論](https://open.spotify.com/album/1Weuos0rHJFN3IcTcRTkDg) | 4:27 | 2024-02-13 | 2024-09-12 |
 | [秘密の](https://open.spotify.com/track/21HHx5khXbKGckVI2gEH6h) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [秘密の](https://open.spotify.com/album/2PVW5hX4UvLXzhqOMCB8Wk) | 4:28 | 2024-01-23 | 2024-09-12 |
 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 | 2024-09-11 | 2024-09-30 |
-| [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 | 2024-11-06 |  |
+| [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 | 2024-11-06 |  |
 | [華奢な心](https://open.spotify.com/track/4I2zu5SjESe8F8AyZLtOVC) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [華奢な心](https://open.spotify.com/album/2MCrgO6b1EiTlkNY76i4Mw) | 4:21 | 2023-11-28 | 2024-01-10 |
 | [萌](https://open.spotify.com/track/7fiWo0v1vbyPC1l7o7Ve4m) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 4:28 | 2024-03-05 | 2024-04-19 |
 | [萌](https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [萌 \- Single](https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI) | 4:29 | 2024-01-10 |  |

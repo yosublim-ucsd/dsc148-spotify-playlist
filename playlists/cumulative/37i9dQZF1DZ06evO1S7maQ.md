@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-115 songs - 8 hr 17 min
+116 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Mary's Place](https://open.spotify.com/track/0g0MBBxtDRy8Igs0AzSZR4) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 5:58 | 2023-07-13 | 2023-07-29 |
 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 | 2022-01-11 |  |
 | [Nebraska](https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:29 | 2022-01-11 | 2024-11-16 |
-| [Night](https://open.spotify.com/track/305AMS2fhp16LoYxKiYsXF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:00 | 2024-05-21 |  |
+| [Night](https://open.spotify.com/track/305AMS2fhp16LoYxKiYsXF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:00 | 2024-05-21 | 2024-12-22 |
 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 | 2022-11-26 |  |
 | [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 | 2022-10-16 | 2022-11-27 |
 | [No Surrender](https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:00 | 2023-05-08 | 2024-10-20 |
@@ -83,6 +83,7 @@
 | [Prove It All Night \- Live at Madison Square Garden, New York, NY \- 09/22/79](https://open.spotify.com/track/0GmzNYfOaekGOARHoPTqxO) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band \- The Legendary 1979 No Nukes Concerts](https://open.spotify.com/album/00V1MSXp0ral9K394aItww) | 5:58 | 2022-01-11 | 2022-04-02 |
 | [Racing in the Street](https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 6:52 | 2022-01-11 | 2024-11-29 |
 | [Radio Nowhere](https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 3:19 | 2022-01-11 |  |
+| [Rainy Night in SoHo \- Live at Croke Park, Dublin, Ireland \- 5/19/2024](https://open.spotify.com/track/64a3Adt7uk4sV07DioafsZ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs Under Cover Vol\. 3](https://open.spotify.com/album/2ToxcbU9tQxs51Z9PjJDgZ) | 4:47 | 2024-12-22 |  |
 | [Rosalita \(Come Out Tonight\)](https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Wild, the Innocent & The E Street Shuffle](https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608) | 7:00 | 2022-01-11 |  |
 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:47 | 2022-01-11 |  |
 | [Sandpaper \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:36 | 2024-07-06 |  |
@@ -110,7 +111,7 @@
 | [Tougher Than the Rest](https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:33 | 2022-01-11 |  |
 | [Trapped \- Live at Meadowlands Arena, E\. Rutherford, NJ \- August 1984](https://open.spotify.com/track/5xYCSEP2FWHMkVun6GIyDk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Essential Bruce Springsteen \(Bonus Tracks\)](https://open.spotify.com/album/0ckFRgB1okAecdcOhdkrZL) | 5:08 | 2022-01-11 | 2022-10-17 |
 | [Tumbling Dice \- Live](https://open.spotify.com/track/4mn5riACKGOZbADntB95wE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [GRRR Live!](https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2) | 4:53 | 2023-02-18 | 2023-04-02 |
-| [Tunnel of Love](https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 5:09 | 2022-01-11 | 2024-05-02 |
+| [Tunnel of Love](https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 5:09 | 2022-01-11 |  |
 | [Turn Back the Hands of Time](https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 3:07 | 2022-11-29 | 2024-03-19 |
 | [Two Hearts](https://open.spotify.com/track/50JK0hBaHMWYo20S7AvKbB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 2:42 | 2024-06-23 | 2024-06-24 |
 | [Waitin' On A Sunny Day](https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:16 | 2022-01-11 |  |

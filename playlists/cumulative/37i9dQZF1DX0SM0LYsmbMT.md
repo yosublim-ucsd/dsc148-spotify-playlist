@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,312 songs - 6 day 20 hr 21 min
+4,313 songs - 6 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1627,6 +1627,7 @@
 | [Hook Up \- Instrumental](https://open.spotify.com/track/45vkCCNZVFqxk2RThqpe1Y) | [Kuchenmann](https://open.spotify.com/artist/3t68oahCiTB0Dat0rhHVLW), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Hook Up](https://open.spotify.com/album/2pynidpCBkQFaH3XVwykzm) | 2:27 | 2020-06-05 | 2020-08-07 |
 | [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 | 2023-12-21 | 2024-02-16 |
 | [Hope](https://open.spotify.com/track/0jXpKI2b7ZL8wCwY3IP5qA) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL) | [Hope](https://open.spotify.com/album/79ev9Q1ACQmC7c1nlcR6TI) | 2:17 | 2021-07-31 | 2021-08-27 |
+| [Hopeful](https://open.spotify.com/track/4p5yTJaQge6qsL2kuwsKih) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Hopeful](https://open.spotify.com/album/4xRrsYTwW8TrOgNfpdNarf) | 2:09 | 2024-12-16 |  |
 | [Hopeful](https://open.spotify.com/track/1QiMh9bqgpv4ePfcld40Hn) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Hopeful](https://open.spotify.com/album/3uZO3qHEya4d4hp4aqnB9S) | 2:28 | 2021-04-02 | 2021-05-14 |
 | [hopeless romantic](https://open.spotify.com/track/59uNjjTMOpJ2aDGvI520dP) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [hopeless romantic](https://open.spotify.com/album/06Zui1ZYc4WtMEjhfkQxN5) | 1:23 | 2021-08-20 | 2021-12-03 |
 | [Hot Spa](https://open.spotify.com/track/4GE53NTapO0DqQ5dORqqKZ) | [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [DEOVI](https://open.spotify.com/artist/1lzJWPoLRR3k9dUX2dWuTM), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Casciana Terme](https://open.spotify.com/album/3Ld1mNmDBIgHdNtEWUclIZ) | 2:01 | 2024-09-16 |  |
@@ -4092,7 +4093,7 @@
 | [Waking Dreams](https://open.spotify.com/track/14gE9N9Hx3WyLL1U3CnizM) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Bensnburner](https://open.spotify.com/artist/1NhHx2cTyDwW8b9MgxOML7) | [Waking Dreams](https://open.spotify.com/album/3a9iJ3hHLqeSWvKbkn37vI) | 2:12 | 2019-12-20 | 2020-03-31 |
 | [Waking Up Again](https://open.spotify.com/track/6b7VubCKz1rLmkOLbWCqcy) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Waking Up Again](https://open.spotify.com/album/3gAYDduzqC0AUpC0XjTTYM) | 1:32 | 2024-01-11 | 2024-01-16 |
 | [Walk](https://open.spotify.com/track/74yU4BuONMdJCrBcwdxjiM) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Walk](https://open.spotify.com/album/21aHAp2IsAKvOexYShK9ai) | 2:02 | 2022-02-17 | 2023-10-20 |
-| [Walk Man](https://open.spotify.com/track/3dkkAQxhrqSax0K5LKB7Xs) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Walk Man](https://open.spotify.com/album/0207ZP0EfLixTqVx53YCik) | 2:41 | 2023-09-14 |  |
+| [Walk Man](https://open.spotify.com/track/3dkkAQxhrqSax0K5LKB7Xs) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Walk Man](https://open.spotify.com/album/0207ZP0EfLixTqVx53YCik) | 2:41 | 2023-09-14 | 2024-12-22 |
 | [Walk The Dog](https://open.spotify.com/track/4AowHOaycPNDRId7N4Npf9) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Walk The Dog](https://open.spotify.com/album/306HMpP6yrynuST9JxQVoj) | 2:19 | 2023-02-09 | 2023-03-10 |
 | [Walkin](https://open.spotify.com/track/3DfHxuztYjU0mXwLQ6zJN4) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Loek Van Den Berg](https://open.spotify.com/artist/21dqlA0IWVccmvO9bwctGr) | [Fantasy](https://open.spotify.com/album/00tGmgLVaUJnG6Br4W8LaZ) | 2:04 | 2022-05-12 | 2022-07-29 |
 | [Walking Day](https://open.spotify.com/track/09K0MNS7E83Umpf3YQnvKc) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Walking Day](https://open.spotify.com/album/0yZiVSXPXxTcPgqwbqLKxP) | 2:34 | 2023-10-26 | 2023-11-03 |

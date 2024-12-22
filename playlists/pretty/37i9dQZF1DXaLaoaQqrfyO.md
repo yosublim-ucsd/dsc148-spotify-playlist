@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,198 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,232 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 51 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
 | 52 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
 | 53 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
-| 54 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
-| 55 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
+| 54 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
+| 55 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
 | 56 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
 | 57 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
 | 58 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 72 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
 | 73 | [Guru](https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL) | 3:24 |
 | 74 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
-| 75 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
-| 76 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
+| 75 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
+| 76 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
 | 77 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 78 | [Peaches](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:45 |
 | 79 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 96 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 |
 | 97 | [Let’s Go](https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Lightning](https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH) | 3:30 |
 | 98 | [Strong](https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 4:25 |
-| 99 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 |
-| 100 | [Tired of Talking](https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Treasure \- EP](https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5) | 3:17 |
+| 99 | [Tired of Talking](https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Treasure \- EP](https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5) | 3:17 |
+| 100 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 |
 
 Snapshot ID: `Zgw5ygAAAADfvqJDsAfJlrlPHleYyrZ1`

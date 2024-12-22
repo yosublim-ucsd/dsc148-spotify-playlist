@@ -5886,7 +5886,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -7290,7 +7290,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -16481,6 +16481,24 @@
     },
     {
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/1n2PzWSzPQEoKDjkkmTqQW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cordero",
+          "url": "https://open.spotify.com/artist/0bJrHz3y2U1QcTdC0zyMPf"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235228,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5kinrqBfyHmc6jjWO01Gpo"
+    },
+    {
+      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -18372,7 +18390,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 184960,
       "name": "Fantastic (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu"
@@ -19826,6 +19844,28 @@
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
+    },
+    {
+      "album": {
+        "name": "FUNK INFERNAL",
+        "url": "https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W"
+      },
+      "artists": [
+        {
+          "name": "DYGO",
+          "url": "https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7"
+        },
+        {
+          "name": "Mxng0",
+          "url": "https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "FUNK INFERNAL",
+      "url": "https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y"
     },
     {
       "album": {
@@ -41351,6 +41391,24 @@
     },
     {
       "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "album": {
         "name": "Push Ups",
         "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
       },
@@ -41506,7 +41564,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -53164,7 +53222,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 289131,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
@@ -53373,6 +53431,24 @@
     },
     {
       "album": {
+        "name": "Ultra Complicado",
+        "url": "https://open.spotify.com/album/1ioUP0MO23iAvJGlY3qLhw"
+      },
+      "artists": [
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176298,
+      "name": "Ultra Complicado",
+      "url": "https://open.spotify.com/track/1kcn16i5Tmp8udmHcahvi7"
+    },
+    {
+      "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/1EZrakgyIe1FqpiSmdHrTB"
       },
@@ -53388,7 +53464,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 176312,
       "name": "Ultra Complicado",
       "url": "https://open.spotify.com/track/1AQEsS3qcGze9lnFy3EDVn"

@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1579219,
+  "num_followers": 1579418,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,22 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 203211,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -559,22 +563,18 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+      "duration_ms": 203211,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -647,18 +647,26 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV"
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
         }
       ],
-      "duration_ms": 720000,
-      "name": "Re_Jaded",
-      "url": "https://open.spotify.com/track/5HDn8fl53QzZxejNpx1q9w"
+      "duration_ms": 207992,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -683,26 +691,18 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         }
       ],
-      "duration_ms": 207992,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
+      "duration_ms": 720000,
+      "name": "Re_Jaded",
+      "url": "https://open.spotify.com/track/5HDn8fl53QzZxejNpx1q9w"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Quezacotl",
-        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Quezacotl",
-      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Something To Hold On To (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
       },
@@ -859,54 +843,6 @@
       "duration_ms": 175748,
       "name": "Something To Hold On To (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "Resonate (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 241846,
-      "name": "Resonate (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "Shake & Pop (John Summit Remix)",
-        "url": "https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Walter Phillips",
-          "url": "https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 217694,
-      "name": "Shake & Pop - John Summit Remix",
-      "url": "https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -939,6 +875,46 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
+        "name": "Quezacotl",
+        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 435000,
+      "name": "Quezacotl",
+      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Resonate (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 241846,
+      "name": "Resonate (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 178849,
       "name": "Blur",
       "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Shake & Pop (John Summit Remix)",
+        "url": "https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Walter Phillips",
+          "url": "https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 217694,
+      "name": "Shake & Pop - John Summit Remix",
+      "url": "https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -995,22 +995,22 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Caught in a Moment",
-        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
         },
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 255285,
-      "name": "Caught in a Moment",
-      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
+      "duration_ms": 195483,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1035,22 +1035,22 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "U&ME",
-        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
+        "name": "Caught in a Moment",
+        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 195483,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
+      "duration_ms": 255285,
+      "name": "Caught in a Moment",
+      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Hyperreal (Middle of the Night)",
-        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        },
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Hyperreal (Middle of the Night)",
-      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
       },
@@ -1295,6 +1275,26 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
         "name": "Friend Of Mine",
         "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "I\u2019ll Be There",
-        "url": "https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "I\u2019ll Be There",
-      "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 169275,
       "name": "Embers",
       "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "I\u2019ll Be There",
+        "url": "https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "I\u2019ll Be There",
+      "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat"
-      },
-      "artists": [
-        {
-          "name": "19Clouds",
-          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 202992,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "duration_ms": 167691,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Fractures",
-        "url": "https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Fractures",
-      "url": "https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 204000,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Fractures",
+        "url": "https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Fractures",
+      "url": "https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
+        "name": "One New Change",
+        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "One New Change",
+      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
         "name": "Remission",
         "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 246048,
       "name": "Remission",
       "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "One New Change",
-        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "One New Change",
-      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "The Remixes",
-        "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 216795,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
@@ -1855,18 +1835,22 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Aria EP",
-        "url": "https://open.spotify.com/album/6hfyUUB4kyoLd3HrfKEit6"
+        "name": "The Remixes",
+        "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 275028,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/7LaBuSH1fG5mTv737ANEwH"
+      "duration_ms": 216795,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1883,6 +1867,22 @@
       "duration_ms": 230243,
       "name": "Heart Made Of Glass",
       "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Aria EP",
+        "url": "https://open.spotify.com/album/6hfyUUB4kyoLd3HrfKEit6"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 275028,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/7LaBuSH1fG5mTv737ANEwH"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Hypercycle",
-        "url": "https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 346611,
-      "name": "Hypercycle",
-      "url": "https://open.spotify.com/track/7poR9gH3B2NzE38yeMZ1Nl"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "All That I Lost",
         "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
       },
@@ -1943,18 +1927,42 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Electric Feeling",
-        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
+        "name": "Hypercycle",
+        "url": "https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw"
       },
       "artists": [
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         }
       ],
-      "duration_ms": 186239,
-      "name": "Electric Feeling",
-      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+      "duration_ms": 346611,
+      "name": "Hypercycle",
+      "url": "https://open.spotify.com/track/7poR9gH3B2NzE38yeMZ1Nl"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Cami Bear",
+          "url": "https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG"
+        }
+      ],
+      "duration_ms": 190199,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO"
     }
   ],
   "unique_name": "Night Rider",

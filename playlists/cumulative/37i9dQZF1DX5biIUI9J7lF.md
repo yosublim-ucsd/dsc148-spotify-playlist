@@ -4,7 +4,7 @@
 
 > Opted out of strife
 
-185 songs - 9 hr 20 min
+186 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cash](https://open.spotify.com/track/1vBfCnOdppaPUdYe22PFFX) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/0w9eny2YNRw2bU9x1t4nM5) | 3:07 | 2023-09-09 | 2024-01-24 |
 | [Caution](https://open.spotify.com/track/4g1TUIuoKWYYnJD0a8hrzb) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Caution / Turn Around](https://open.spotify.com/album/6ieHdWLpsg8RMJT4du72IB) | 2:35 | 2022-07-27 | 2024-08-02 |
 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2022-07-27 | 2024-06-15 |
+| [Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:55 | 2024-12-21 |  |
 | [Chop Life \- Remix](https://open.spotify.com/track/2Xy2VaKdByJ1zMyGTy0T0L) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN) | [Chop Life \(Remix\)](https://open.spotify.com/album/5EldLnHAzHgBxsqv6S6XDd) | 3:02 | 2022-07-27 | 2023-03-18 |
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2022-07-27 | 2024-05-03 |
 | [Countdown](https://open.spotify.com/track/5c12s5qzsC9tu9IwyMIUgi) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Countdown](https://open.spotify.com/album/7LInTNKbSTA1j8wCk2hT48) | 2:20 | 2024-03-15 |  |

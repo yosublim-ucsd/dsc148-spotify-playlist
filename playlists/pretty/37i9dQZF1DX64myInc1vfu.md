@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Daniel, Me Estás Matando
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,800 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,829 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 60 | [La Flor de la Canela](https://open.spotify.com/track/1vspchhWBQ8zOagLElf3O6) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Bajo el Mismo Cielo](https://open.spotify.com/album/3q6NKY1RkOtCY184qlBmMK) | 3:27 |
 | 61 | [Déjame Conocerte](https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Déjame Conocerte](https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP) | 4:39 |
 | 62 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
-| 63 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
-| 64 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
+| 63 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
+| 64 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
 | 65 | [Por Ti](https://open.spotify.com/track/2tqdD7XgrlswALoGNA2vMu) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Por ti](https://open.spotify.com/album/0AmRFAG5G4Gv9QIQb3RqqY) | 3:07 |
 
 Snapshot ID: `Z2T56gAAAACwOWf3SA650t4qfgQvBF+x`

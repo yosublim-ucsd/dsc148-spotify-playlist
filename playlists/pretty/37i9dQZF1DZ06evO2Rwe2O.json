@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12048,
+  "num_followers": 12052,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACPAP7RWKjsHvrJo4j9yKb1",
+  "snapshot_id": "Z2SzgAAAAADDvRVKS0cOnqdI/sUmSKuu",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get the Truth",
-        "url": "https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "Word of God Speak",
-      "url": "https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 265600,
       "name": "You're Worthy Of My Praise",
       "url": "https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get the Truth",
+        "url": "https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 215706,
       "name": "Friend Like You",
       "url": "https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD"
     },
     {
       "added_at": null,

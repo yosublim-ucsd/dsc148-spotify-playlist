@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ya huele a sopita! Buen provecho. ",
-  "num_followers": 149884,
+  "num_followers": 149904,
   "original_name": "M\u00fasica de Fonda",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -767,22 +767,18 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda",
-        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 152923,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+      "duration_ms": 212186,
+      "name": "Que Dar\u00eda",
+      "url": "https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -803,18 +799,22 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 212186,
-      "name": "Que Dar\u00eda",
-      "url": "https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY"
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Ma\u00f1ana Voy A Conquistarla",
-      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 145560,
+      "name": "Ma\u00f1ana Voy A Conquistarla",
+      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
-    },
-    {
-      "added_at": "2024-07-11 01:23:27",
-      "album": {
         "name": "Te Volver\u00eda A Elegir",
         "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 180400,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+    },
+    {
+      "added_at": "2024-07-11 01:23:27",
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1683,18 +1683,22 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+        "name": "Amor Clandestino",
+        "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+      "duration_ms": 227696,
+      "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
+      "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
     },
     {
       "added_at": "2024-07-11 01:23:27",
@@ -1715,22 +1719,18 @@
     {
       "added_at": "2024-07-11 01:23:27",
       "album": {
-        "name": "Amor Clandestino",
-        "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 227696,
-      "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
-      "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2024-07-11 01:23:27",

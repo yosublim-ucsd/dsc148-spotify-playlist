@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,428 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,480 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 22 | [I'll Never Smile Again](https://open.spotify.com/track/3q5sp47cS6OAebFsystUB7) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:54 |
 | 23 | [Blue, Blue Day](https://open.spotify.com/track/4xWohADqZ5oFXcFOiC10l4) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [Oh Lonesome Me](https://open.spotify.com/album/3eF77ZXB0LzpodTAgPIK8a) | 1:53 |
 | 24 | [Broken Hearted Melody](https://open.spotify.com/track/5X4lsUAYrT5m0IyL6Xm8T5) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:23 |
-| 25 | [I'm Sorry I Made You Cry](https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:27 |
+| 25 | [Blue Velvet](https://open.spotify.com/track/5sMVujBLwXJH9AjToNoSbH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [60 Years: The Artistry of Tony Bennett](https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb) | 3:01 |
 | 26 | [Don't Leave Me Now](https://open.spotify.com/track/2Fc0uxBiHg5qIVyORYKrTV) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 1:59 |
-| 27 | [Blue Velvet](https://open.spotify.com/track/5sMVujBLwXJH9AjToNoSbH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [60 Years: The Artistry of Tony Bennett](https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb) | 3:01 |
+| 27 | [I'm Sorry I Made You Cry](https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:27 |
 | 28 | [Don't Let the Sun Catch You Cryin'](https://open.spotify.com/track/3pEwXiu1AVstyAluolJnW7) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:45 |
 | 29 | [Crying My Heart Out for You](https://open.spotify.com/track/1AkvPKQtV0IaHbMlw0cF8p) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:13 |
 | 30 | [I Couldn't Sleep A Wink Last Night \- 1999 Remastered](https://open.spotify.com/track/4Hbk7bsJPmM0CkVOElCBdB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Close To You And More \(Remastered\)](https://open.spotify.com/album/0ntYrgH2CUtgdpuEsqKzEn) | 3:25 |

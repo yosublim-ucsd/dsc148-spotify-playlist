@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19642,
+  "num_followers": 19645,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACrX0BugJdbLFlxqAxAv6vX",
+  "snapshot_id": "Z2SzgAAAAAD1hl3xaNvuMqQfi8BoBg9g",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 115586,
-      "name": "Suffocating",
-      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
+      "duration_ms": 210409,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
       "duration_ms": 209523,
       "name": "WWYD",
       "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 141586,
+      "name": "Unlimited Budget",
+      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
     },
     {
       "added_at": null,
@@ -644,25 +660,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 210409,
-      "name": "Stressed",
-      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 141586,
-      "name": "Unlimited Budget",
-      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
+      "duration_ms": 114385,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
       "duration_ms": 207405,
       "name": "The Most",
       "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 115586,
+      "name": "Suffocating",
+      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
     },
     {
       "added_at": null,
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+        "name": "Got Yo Wingz",
+        "url": "https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa"
       },
       "artists": [
         {
@@ -712,29 +728,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 114385,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Quicktrip",
-          "url": "https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Wyb Quan",
-      "url": "https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ"
+      "duration_ms": 155000,
+      "name": "Got Yo Wingz",
+      "url": "https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got Yo Wingz",
-        "url": "https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa"
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Quicktrip",
+          "url": "https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Got Yo Wingz",
-      "url": "https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ"
+      "duration_ms": 202000,
+      "name": "Wyb Quan",
+      "url": "https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
       "duration_ms": 237733,
       "name": "Differences",
       "url": "https://open.spotify.com/track/7sqH8Bncc1UFyhgPwVPnIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Even Score",
-      "url": "https://open.spotify.com/track/3mmnnExzhdnzfMXwoydHfY"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 171773,
       "name": "Daily Bread",
       "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Even Score",
+      "url": "https://open.spotify.com/track/3mmnnExzhdnzfMXwoydHfY"
     },
     {
       "added_at": null,

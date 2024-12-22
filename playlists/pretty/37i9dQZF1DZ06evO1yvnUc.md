@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 
 > This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,250 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,421 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1yvnUc.md) - [plain]
 | 49 | [You've Been Missed](https://open.spotify.com/track/21w7eTmB3r5LFSyvCUQRO4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 4:00 |
 | 50 | [SAVAGE ANTHEM](https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 6:16 |
 
-Snapshot ID: `Z2NiAAAAAAB4BBLjl5we0MsNd74Dqdei`
+Snapshot ID: `Z2SzgAAAAABYZh3r9aVnhh0AiqcNq5xU`

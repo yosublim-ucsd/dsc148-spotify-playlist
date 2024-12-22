@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 508202,
+  "num_followers": 508659,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "La fauve",
-        "url": "https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS"
-      },
-      "artists": [
-        {
-          "name": "Daphn\u00e9",
-          "url": "https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "O\u00f9 est la fantaisie ?",
-      "url": "https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Cajueiro",
         "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 201807,
       "name": "Paris",
       "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "La fauve",
+        "url": "https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS"
+      },
+      "artists": [
+        {
+          "name": "Daphn\u00e9",
+          "url": "https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "O\u00f9 est la fantaisie ?",
+      "url": "https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
-      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Le Temps D'un Jazz",
         "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 233653,
       "name": "Le Temps D'Un Jazz",
       "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
+      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Balade \u00e0\u00a0Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
-        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
-      },
-      "artists": [
-        {
-          "name": "Marie Lafor\u00eat",
-          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
-        }
-      ],
-      "duration_ms": 139548,
-      "name": "Saint-tropez blues",
-      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Dans la peau",
         "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 132280,
       "name": "Brigitte dit vrai",
       "url": "https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Balade \u00e0\u00a0Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
+        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
+      },
+      "artists": [
+        {
+          "name": "Marie Lafor\u00eat",
+          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+        }
+      ],
+      "duration_ms": 139548,
+      "name": "Saint-tropez blues",
+      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
     },
     {
       "added_at": "2024-06-03 11:39:48",

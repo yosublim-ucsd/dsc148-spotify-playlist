@@ -1,6 +1,6 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 1265200,
+  "num_followers": 1265976,
   "original_name": "Summer Dance Hits 2024",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
+        "name": "The Door (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 210476,
+      "name": "The Door - CYRIL Remix",
+      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
+    },
+    {
+      "added_at": "2024-11-21 21:02:16",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
-    },
-    {
-      "added_at": "2024-11-21 21:02:16",
-      "album": {
-        "name": "The Door (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 210476,
-      "name": "The Door - CYRIL Remix",
-      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -795,22 +795,22 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
         }
       ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -839,22 +839,22 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": "2024-11-21 21:02:16",
-      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2024-11-21 21:02:16",
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+    },
+    {
+      "added_at": "2024-11-21 21:02:16",
+      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1459,26 +1479,6 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 160314,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
-    },
-    {
-      "added_at": "2024-11-21 21:02:16",
-      "album": {
         "name": "Sunshine (My Girl)",
         "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
       },
@@ -1491,6 +1491,26 @@
       "duration_ms": 131250,
       "name": "Sunshine (My Girl)",
       "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
+    },
+    {
+      "added_at": "2024-11-21 21:02:16",
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -1523,22 +1543,18 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
-        "name": "Buscando Money",
-        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Buscando Money",
-      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2024-11-21 21:02:16",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
       },
@@ -1595,6 +1595,26 @@
       "duration_ms": 147692,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
+    },
+    {
+      "added_at": "2024-11-21 21:02:16",
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -1619,26 +1639,6 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
-    },
-    {
-      "added_at": "2024-11-21 21:02:16",
-      "album": {
-        "name": "Beggin'",
-        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 183397,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
-    },
-    {
-      "added_at": "2024-11-21 21:02:16",
-      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "added_at": "2024-11-21 21:02:16",
+      "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
+    },
+    {
+      "added_at": "2024-11-21 21:02:16",
+      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2024-11-21 21:02:16",
-      "album": {
-        "name": "A Little Closer",
-        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "A Little Closer",
-      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     },
     {
       "added_at": "2024-11-21 21:02:16",
@@ -2423,6 +2423,26 @@
     {
       "added_at": "2024-11-21 21:02:16",
       "album": {
+        "name": "My Heart Goes (La Di Da)",
+        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "My Heart Goes (La Di Da)",
+      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+    },
+    {
+      "added_at": "2024-11-21 21:02:16",
+      "album": {
         "name": "Under The Sun (with Alok)",
         "url": "https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I"
       },
@@ -2443,26 +2463,6 @@
       "duration_ms": 165743,
       "name": "Under The Sun (with Alok)",
       "url": "https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y"
-    },
-    {
-      "added_at": "2024-11-21 21:02:16",
-      "album": {
-        "name": "My Heart Goes (La Di Da)",
-        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "My Heart Goes (La Di Da)",
-      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
     },
     {
       "added_at": "2024-11-21 21:02:16",

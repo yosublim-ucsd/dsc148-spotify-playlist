@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,202 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,659 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 20 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 |
 | 21 | [Lettre A P](https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Attraction](https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS) | 3:42 |
 | 22 | [Chanson triste](https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:28 |
-| 23 | [Où est la fantaisie ?](https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW) | [Daphné](https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q) | [La fauve](https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS) | 3:47 |
-| 24 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
+| 23 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
+| 24 | [Où est la fantaisie ?](https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW) | [Daphné](https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q) | [La fauve](https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS) | 3:47 |
 | 25 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 |
-| 26 | [La chanson d'Orphée \(Manha Do Carnaval\)](https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:06 |
-| 27 | [Le Temps D'Un Jazz](https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z) | [DANIEL ROURE](https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO) | [Le Temps D'un Jazz](https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9) | 3:53 |
+| 26 | [Le Temps D'Un Jazz](https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z) | [DANIEL ROURE](https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO) | [Le Temps D'un Jazz](https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9) | 3:53 |
+| 27 | [La chanson d'Orphée \(Manha Do Carnaval\)](https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:06 |
 | 28 | [Juste quelqu'un de bien](https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Deux](https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt) | 4:07 |
 | 29 | [Tout Doucement](https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:23 |
 | 30 | [Comme s'il en pleuvait](https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 3:42 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 63 | [En septembre sous la pluie](https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7) | [Leo Marjane](https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH) | [La Chapelle Au Clair De Lune](https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj) | 3:07 |
 | 64 | [Plus je t'embrasse](https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:17 |
 | 65 | [J'ai 18 Ans](https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Les Souvenirs Sous Ma Frange](https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau) | 3:05 |
-| 66 | [Saint\-tropez blues](https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Balade à Saint\-Germain, vol 6\. Rue Saint Benoit: Nouvelle Vague](https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS) | 2:19 |
-| 67 | [Brigitte dit vrai](https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Dans la peau](https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG) | 2:12 |
+| 66 | [Brigitte dit vrai](https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Dans la peau](https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG) | 2:12 |
+| 67 | [Saint\-tropez blues](https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Balade à Saint\-Germain, vol 6\. Rue Saint Benoit: Nouvelle Vague](https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS) | 2:19 |
 | 68 | [Les jeux sont faits](https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5) | [A Fraction Of You](https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS) | 3:37 |
 | 69 | [Quand on s'balade](https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [10 chansons pour l'été](https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9) | 2:49 |
 | 70 | [Ces petits riens](https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Gainsbourg percussions](https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1) | 2:05 |

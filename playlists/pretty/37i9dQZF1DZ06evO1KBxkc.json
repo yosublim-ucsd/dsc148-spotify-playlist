@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 200651,
+  "num_followers": 200656,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACO6s87hBAmr7GhliRZnq1l",
+  "snapshot_id": "Z2SzgAAAAAAc2A5+ICrazNFABaKOHNCm",
   "tracks": [
     {
       "added_at": null,
@@ -1019,18 +1019,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
       "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Say A'",
-      "url": "https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI"
+      "duration_ms": 185806,
+      "name": "Tip Toe (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ"
     },
     {
       "added_at": null,

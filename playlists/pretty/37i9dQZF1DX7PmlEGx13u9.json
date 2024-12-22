@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B Hits. Cover: Odeal",
-  "num_followers": 58576,
+  "num_followers": 58603,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
-    },
-    {
-      "added_at": "2024-12-13 00:00:34",
-      "album": {
         "name": "Sensational (feat. Davido & Lojay)",
         "url": "https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+    },
+    {
+      "added_at": "2024-12-13 00:00:34",
+      "album": {
         "name": "Fly Girl (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-12-13 00:00:34",
       "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 181063,
-      "name": "Wherever I Go",
-      "url": "https://open.spotify.com/track/6P76Ve1pRObGGpuUTbYwsA"
+      "duration_ms": 217417,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY"
     }
   ],
   "unique_name": "Certi: R&B",

@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-240 songs - 15 hr 30 min
+241 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bum Bum Tam Tam](https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Bum Bum Tam Tam](https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0) | 2:50 | 2022-03-29 | 2023-12-07 |
 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-02-20 | 2024-05-09 |
 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-02-20 | 2024-04-19 |
+| [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-20 |  |
 | [Calabria \(feat\. Fallen Roses, Lujavo & Lunis\)](https://open.spotify.com/track/3M89zvwwb1jtDUDKYNsdiA) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [Calabria \(feat\. Fallen Roses, Lujavo & Lunis\)](https://open.spotify.com/album/29lm3KjzCeCV07CHGT8R7n) | 2:08 | 2022-03-29 | 2023-03-18 |
 | [Calling Out Your Name \- Radio Edit](https://open.spotify.com/track/4Zd0Bqfka9K3m3Mv1eibaP) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Mikhaela Faye](https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7) | [Calling Out Your Name](https://open.spotify.com/album/0HQWHfjbMZHuQGFCY2amgX) | 3:30 | 2022-05-06 | 2022-07-29 |
 | [Camachile](https://open.spotify.com/track/5nHi6OpSFmq2Pp2kTqozaB) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Camachile](https://open.spotify.com/album/6pC5vdTP485vAu5IxOj6WB) | 9:12 | 2022-04-24 | 2022-07-29 |
@@ -93,7 +94,7 @@
 | [Huwa](https://open.spotify.com/track/3n8f72Abjl4dDzL56JdktV) | [Dzhef](https://open.spotify.com/artist/6ULoCtOuU8QQ2sS6r88Mg9) | [Huwa](https://open.spotify.com/album/4nTvcJCQfzSiZdqrlPdS9P) | 7:03 | 2022-05-06 | 2022-07-29 |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-07-19 |  |
 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 | 2022-07-26 | 2023-03-18 |
-| [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-07-21 |  |
+| [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-07-21 | 2024-12-22 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2022-07-26 | 2022-08-11 |
 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-08-20 | 2023-12-07 |
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-06-27 | 2022-07-29 |

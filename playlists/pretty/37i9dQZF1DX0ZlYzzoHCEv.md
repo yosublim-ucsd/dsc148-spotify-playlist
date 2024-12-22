@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 
 > musica per quando non sai insomma come
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,380 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,385 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 22 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 23 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
 | 24 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 |
-| 25 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
-| 26 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 |
-| 27 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 |
-| 28 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
+| 25 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 |
+| 26 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
+| 27 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
+| 28 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 |
 | 29 | [Bubble Gum](https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bubble Gum](https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2) | 2:55 |
 | 30 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 31 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 40 | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Play with Fire \(feat\. Yacht Money\)](https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD) | 3:00 |
 | 41 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 42 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 |
-| 43 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
-| 44 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 43 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 44 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 45 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
 | 46 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 |
 | 47 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 2:21 |

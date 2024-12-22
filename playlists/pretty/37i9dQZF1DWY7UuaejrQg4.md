@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,293 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,298 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 6 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
 | 7 | [Sesame Syrup](https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB) | 5:03 |
 | 8 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 |
-| 9 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 |
-| 10 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 |
+| 9 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 |
+| 10 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 |
 | 11 | [Hello?](https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:15 |
 | 12 | [sex money feelings die](https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 2:19 |
 | 13 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 |
 | 14 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 |
 | 15 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 |
-| 16 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
+| 16 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 |
 | 17 | [Crush](https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB) | 4:26 |
-| 18 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 |
+| 18 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
 | 19 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
 | 20 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 |
 | 21 | [Just A Stranger \(feat\. Steve Lacy\)](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:57 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 39 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 |
 | 40 | [Hunger](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:34 |
 | 41 | [Sincerity Is Scary](https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:45 |
-| 42 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 |
-| 43 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
+| 42 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
+| 43 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 |
 | 44 | [Heavy, California](https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:04 |
 | 45 | [Generation Why](https://open.spotify.com/track/79e2GU4RLPjAqnijfvsXYr) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:39 |
 | 46 | [Star Treatment](https://open.spotify.com/track/0b93tWwuoAC0nXe1CfR30I) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 5:54 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 93 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 |
 | 94 | [Shelter](https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Shelter](https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU) | 3:59 |
 | 95 | [Swimming Pool Summer](https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:33 |
-| 96 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 |
+| 96 | [summer depression](https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r) | 2:31 |
 | 97 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
 | 98 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 |
 | 99 | [Cheetah Tongue](https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:39 |

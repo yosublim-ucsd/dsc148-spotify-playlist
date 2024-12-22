@@ -1,6 +1,6 @@
 {
   "description": "the best new metalcore - where brutality and technicality collide. Cover: LANDMVRKS",
-  "num_followers": 937534,
+  "num_followers": 937596,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
+        "name": "In Place of your Halo",
+        "url": "https://open.spotify.com/album/79oAGmxTtCVqbUCLgXnhb3"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "In Place of your Halo",
+      "url": "https://open.spotify.com/track/5T0D6nxXifuwTeYSUVpiH3"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
         "name": "Darker Still",
         "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 268269,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
-        "name": "In Place of your Halo",
-        "url": "https://open.spotify.com/album/79oAGmxTtCVqbUCLgXnhb3"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "In Place of your Halo",
-      "url": "https://open.spotify.com/track/5T0D6nxXifuwTeYSUVpiH3"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "Hatred",
         "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "they\u2019re all around us",
-        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 204540,
-      "name": "they\u2019re all around us",
-      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -811,6 +795,22 @@
       "duration_ms": 190200,
       "name": "Barely Breathing (feat. Against The Current)",
       "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "they\u2019re all around us",
+        "url": "https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 204540,
+      "name": "they\u2019re all around us",
+      "url": "https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
+        "name": "Hands of Sin",
+        "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Hands of Sin",
+      "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
         "name": "DRAG ME UNDER",
         "url": "https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 211000,
       "name": "DRAG ME UNDER",
       "url": "https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
-        "name": "Hands of Sin",
-        "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Hands of Sin",
-      "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 221340,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "EXCESSIVE GUILT",
         "url": "https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 114480,
       "name": "bitter friend",
       "url": "https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
+        "name": "Apathy / 31.10",
+        "url": "https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 211230,
+      "name": "Apathy",
+      "url": "https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/49Hb35oZZR3g58Nyovo8lC"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 167867,
       "name": "Infection",
       "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
-        "name": "Apathy / 31.10",
-        "url": "https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 211230,
-      "name": "Apathy",
-      "url": "https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
+        "name": "HYPERVIOLENCE",
+        "url": "https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Tabula Rasa",
+      "url": "https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
         "name": "Villain Arc",
         "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "HYPERVIOLENCE",
-        "url": "https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX"
+        "name": "What I'll Leave Behind",
+        "url": "https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b"
       },
       "artists": [
         {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+          "name": "Void Of Vision",
+          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Tabula Rasa",
-      "url": "https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y"
+      "duration_ms": 165500,
+      "name": "Blood For Blood",
+      "url": "https://open.spotify.com/track/6Eswy1mOFIbBOsFrmDoxVE"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1387,22 +1403,6 @@
       "duration_ms": 283097,
       "name": "The Medicine",
       "url": "https://open.spotify.com/track/3hGaEXlWUmiHEHFut99e5Z"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
-        "name": "What I'll Leave Behind",
-        "url": "https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b"
-      },
-      "artists": [
-        {
-          "name": "Void Of Vision",
-          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Blood For Blood",
-      "url": "https://open.spotify.com/track/6Eswy1mOFIbBOsFrmDoxVE"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "Invisible Rain",
-        "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
-      },
-      "artists": [
-        {
-          "name": "Stick To Your Guns",
-          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
-        }
-      ],
-      "duration_ms": 159280,
-      "name": "Invisible Rain",
-      "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "Lore",
         "url": "https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB"
       },
@@ -1531,6 +1515,38 @@
       "duration_ms": 164916,
       "name": "No Answer",
       "url": "https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "Invisible Rain",
+        "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "duration_ms": 159280,
+      "name": "Invisible Rain",
+      "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX"
-      },
-      "artists": [
-        {
-          "name": "Take The Name",
-          "url": "https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf"
-        }
-      ],
-      "duration_ms": 217285,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "One Hitter",
         "url": "https://open.spotify.com/album/5W14RabL39050S6KS1WRSk"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 210947,
       "name": "One Hitter",
       "url": "https://open.spotify.com/track/3QLaqDs4iUMVcsshtf2aZC"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX"
+      },
+      "artists": [
+        {
+          "name": "Take The Name",
+          "url": "https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf"
+        }
+      ],
+      "duration_ms": 217285,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1655,6 +1671,22 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
+        "name": "Salt and Ash",
+        "url": "https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m"
+      },
+      "artists": [
+        {
+          "name": "God Complex",
+          "url": "https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Salt and Ash",
+      "url": "https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/2xNcN7hzWIHZliCDIa4lHx"
       },
@@ -1687,38 +1719,6 @@
       "duration_ms": 209631,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/1TK3lggm7HZ00nQp01uUTu"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
-        "name": "Salt and Ash",
-        "url": "https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m"
-      },
-      "artists": [
-        {
-          "name": "God Complex",
-          "url": "https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Salt and Ash",
-      "url": "https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 260820,
-      "name": "Continuum",
-      "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
     }
   ],
   "unique_name": "The Core",

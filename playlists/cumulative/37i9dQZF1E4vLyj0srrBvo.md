@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Coco & Clair Clair, Cocteau Twins and more
+> With Pastel Ghost, Cults, Mareux and more
 
 1,787 songs - 4 day 13 hr 54 min
 
@@ -905,7 +905,7 @@
 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 | 2020-11-27 | 2024-03-17 |
 | [Lemon Glow](https://open.spotify.com/track/7pD6katrwWH7H3Xt8cIZS9) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:04 | 2020-10-22 | 2020-10-27 |
 | [LENG](https://open.spotify.com/track/4wpWZDW50CVGxQUgMmwmGZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:20 | 2022-06-22 | 2022-06-23 |
-| [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2023-06-04 |  |
+| [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2023-06-04 | 2024-12-22 |
 | [Letting Go](https://open.spotify.com/track/6hOGq1cnFnjGvef7YhjxcT) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Deep In the Iris](https://open.spotify.com/album/6iQmNq4zWPre5e2JJ24EPV) | 4:21 | 2022-04-18 | 2022-06-24 |
 | [Let’s Do It Baby](https://open.spotify.com/track/1w1Iq5xAIFDLcxN0yhwC0H) | [Cowboy](https://open.spotify.com/artist/3uLNUc7gXsoJEHcV8tt9Va) | [Let’s Do It Baby](https://open.spotify.com/album/4iq2W5tuE3fpL5eDroa7aB) | 2:53 | 2022-04-23 | 2022-05-08 |
 | [Levitation](https://open.spotify.com/track/1oCUj7YvKxxSKRDAU3pePN) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt) | 5:54 | 2020-10-18 | 2020-10-23 |
@@ -972,7 +972,7 @@
 | [Love Me Wrong](https://open.spotify.com/track/6XmLlAoo6JgsIP7xhMoGTz) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:12 | 2021-02-03 | 2021-08-12 |
 | [Love Will Survive](https://open.spotify.com/track/4Z0FMcJOMGZHP3VlebB0NV) | [Martina Kaiser](https://open.spotify.com/artist/3bxNRkVOheBpQuMXfiETDX) | [Love Will Survive](https://open.spotify.com/album/4RSqbub4dvvNOOa6Y6V4Td) | 3:40 | 2022-04-04 | 2022-04-05 |
 | [Love/Paranoia](https://open.spotify.com/track/5h9hkYIBWTZYFRmF6Iz1gt) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:05 | 2024-02-23 | 2024-02-29 |
-| [Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:19 | 2023-12-25 |  |
+| [Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:19 | 2023-12-25 | 2024-12-22 |
 | [Lovers Rock](https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH) | 3:33 | 2020-12-21 | 2021-05-08 |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2024-01-05 | 2024-07-11 |
 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 | 2020-12-01 | 2021-05-06 |
@@ -1374,7 +1374,7 @@
 | [Shadowside](https://open.spotify.com/track/2RYzm2lelugDMf0UcxR36i) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Shadowside](https://open.spotify.com/album/6JmuwDDaO5SeKypwskj2ua) | 5:08 | 2022-10-29 | 2022-10-30 |
 | [She Bangs Like a Fairy on Acid](https://open.spotify.com/track/3awA5h5b7xwPxCIlUK1p4c) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Dysania](https://open.spotify.com/album/4pOYgdkvLhLSydbYbJOeD2) | 2:55 | 2023-05-04 | 2024-03-05 |
 | [She Bangs Like a Fairy on Acid](https://open.spotify.com/track/4e2Jje6I9Y5hJVCg7QPnIv) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [She Bangs Like a Fairy on Acid](https://open.spotify.com/album/1ZihE7uvcauy0odKAIJCY4) | 2:55 | 2023-03-08 | 2023-03-25 |
-| [She's My Collar \(feat\. Kali Uchis\)](https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:29 | 2024-04-19 | 2024-12-20 |
+| [She's My Collar \(feat\. Kali Uchis\)](https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:29 | 2024-04-19 |  |
 | [Sheesh \(feat\. Grimes\)](https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:33 | 2022-09-26 |  |
 | [Shine a Light](https://open.spotify.com/track/57aTmoNXPe7axyq3107Szm) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:14 | 2022-10-08 | 2022-10-12 |
 | [shines](https://open.spotify.com/track/5mfAiLCfK41fHfW4vlYw73) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4), [Black Dresses](https://open.spotify.com/artist/7FFwJQ58hAy7PMo4lUBW96) | [shines](https://open.spotify.com/album/3QaR7sFT3kj04Prl5j0erl) | 3:38 | 2023-08-20 | 2023-08-28 |
@@ -1509,7 +1509,7 @@
 | [Sugarboy](https://open.spotify.com/track/35TIanClNm1DxcyREpNC7g) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:01 | 2022-04-13 | 2023-07-22 |
 | [Sulk](https://open.spotify.com/track/1CuNAntYhT2j6LNJoIEfF4) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [TRST](https://open.spotify.com/album/5QYWYA7xLfaWdK0WKrreRK) | 6:17 | 2022-03-09 | 2024-04-19 |
 | [summer never ended the damage was all mine](https://open.spotify.com/track/2VIOT3sjJWBBLJCpGJGZXM) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv), [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP) | [sommaren är min och jag kommer tillbaka](https://open.spotify.com/album/4y2yzF6NBdpmx4Z173yY8W) | 4:21 | 2022-03-17 | 2022-04-10 |
-| [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 | 2023-12-21 | 2024-12-19 |
+| [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 | 2023-12-21 |  |
 | [Super Duper Party People](https://open.spotify.com/track/7ktS8xxspFseXxQecbg5Ll) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:49 | 2020-12-09 | 2022-09-12 |
 | [Super Stars](https://open.spotify.com/track/4chSRXrdadYm2ujaCyP3Cf) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:05 | 2021-10-28 | 2022-03-09 |
 | [Supersoaker](https://open.spotify.com/track/0Sbxha3C1QZNRBmzVyQawE) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/0NjpedEWmXVlxHhLl7nTor) | 3:04 | 2021-10-07 | 2021-10-30 |

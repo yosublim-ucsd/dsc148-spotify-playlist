@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,852 likes - 81 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,878 likes - 81 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
 | 2 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 |
 | 3 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 |
-| 4 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 4 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 5 | [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 |
 | 6 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 |
 | 7 | [Us vs Them](https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Us vs Them](https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE) | 2:03 |

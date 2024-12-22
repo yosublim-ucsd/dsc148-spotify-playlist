@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,422 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,436 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 43 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
 | 44 | [Bem Bom](https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Goela Abaixo](https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo) | 3:50 |
 | 45 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
-| 46 | [Carinhoso](https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Carinhoso](https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0) | 1:46 |
-| 47 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
+| 46 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
+| 47 | [Carinhoso](https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Carinhoso](https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0) | 1:46 |
 | 48 | [A Donzela Se Casou](https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z), [Tom Veloso](https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu) | [Mundo Paralelo](https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw) | 3:11 |
 | 49 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
 | 50 | [Nossa música](https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Nossa música](https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj) | 3:59 |

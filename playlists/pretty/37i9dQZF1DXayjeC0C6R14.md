@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,149 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,163 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 5 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 |
 | 6 | [El Tiempo Que Paso Contigo](https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [El Tiempo Que Paso Contigo](https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A) | 3:10 |
 | 7 | [Los Románticos](https://open.spotify.com/track/1uOHO0hINCKvrFalAsI48P) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Los Románticos](https://open.spotify.com/album/4OGtmgVguWMBP1DvbnwEF8) | 4:18 |
-| 8 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
+| 8 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
 | 9 | [Simplemente Amigos](https://open.spotify.com/track/7HrQmPYZUh5dgJIbLCgdmV) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Lena Campos](https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz), [Moy Yos](https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6) | [Simplemente Amigos](https://open.spotify.com/album/4N3ug5drrpnF4lGZ50vaAh) | 3:12 |
-| 10 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
+| 10 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
 | 11 | [Loca](https://open.spotify.com/track/27yZs70h867i9omMP1ddFs) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Loca](https://open.spotify.com/album/4MNaCQTABABfWrom6DF30H) | 3:33 |
 | 12 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
 | 13 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,717 likes - 79 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,696 likes - 79 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 8 | [HANG MY BOOTS \(feat\. King Promise\)](https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [HANG MY BOOTS](https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj) | 3:07 |
 | 9 | [Alpha Omega](https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K) | [Alpha Omega](https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3) | 2:27 |
 | 10 | [10:54](https://open.spotify.com/track/6MwzGwKtxt9OrQOn704hHG) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [10:54](https://open.spotify.com/album/1RrigyX1OH8vxGDKBQ9VaP) | 1:49 |
-| 11 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 11 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 12 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 |
 | 13 | [Nala's Song \- Krept Solo](https://open.spotify.com/track/6bL9wuzmtVvzPIdHULLFv2) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Nala's Song \(Krept Solo\)](https://open.spotify.com/album/4ItWooknDKdXkfIcrsO6I4) | 4:13 |
 | 14 | [Peggy](https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Peggy](https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR) | 2:39 |

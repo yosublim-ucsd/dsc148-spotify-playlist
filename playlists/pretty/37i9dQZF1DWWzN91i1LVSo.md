@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 145 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,17 +67,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 57 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |
 | 58 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 59 | [Nervous](https://open.spotify.com/track/1bpAGufvAgqEIob4V1k7mP) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill \(Deluxe\)](https://open.spotify.com/album/5R6OQpNKov9PdX3dxbpxtp) | 3:36 |
-| 60 | [Hot Mess](https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z) | 2:54 |
-| 61 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 |
+| 60 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 |
+| 61 | [Hot Mess](https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Hot Mess](https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z) | 2:54 |
 | 62 | [Still as the Night](https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Still as the Night](https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa) | 3:17 |
 | 63 | [Last Time](https://open.spotify.com/track/63msGdgRl82cT88247E2kz) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:13 |
 | 64 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
 | 65 | [Pull](https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Pull](https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv) | 3:16 |
 | 66 | [Elijah \- Acoustic Version](https://open.spotify.com/track/6FnCRa4EVBmzHaLxKKGsCb) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Temple \(Unplugged\)](https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW) | 4:39 |
-| 67 | [Open Your Heart](https://open.spotify.com/track/6TRJINYsux28IglskjOSRy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Your Heart](https://open.spotify.com/album/6XRsffXJqRWhRjTrymXmw2) | 3:44 |
-| 68 | [As a Child](https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [As a Child](https://open.spotify.com/album/49PschqwWD3K9b8vrWzuAb) | 3:10 |
-| 69 | [Beyond \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Spotify Singles](https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX) | 4:04 |
-| 70 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
+| 67 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
+| 68 | [Open Your Heart](https://open.spotify.com/track/6TRJINYsux28IglskjOSRy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Your Heart](https://open.spotify.com/album/6XRsffXJqRWhRjTrymXmw2) | 3:44 |
+| 69 | [As a Child](https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [As a Child](https://open.spotify.com/album/49PschqwWD3K9b8vrWzuAb) | 3:10 |
+| 70 | [Beyond \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Spotify Singles](https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX) | 4:04 |
 | 71 | [Fool For Waiting](https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Fool For Waiting](https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl) | 4:03 |
 | 72 | [Gold](https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Gold](https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd) | 3:31 |
 | 73 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv) | 2:34 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 90 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
 | 91 | [You Look Like You Can't Swim](https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [You Look Like You Can't Swim](https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n) | 2:48 |
 | 92 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 |
-| 93 | [The Bad Guy](https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [In Another Lifetime](https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO) | 3:16 |
-| 94 | [Madwoman](https://open.spotify.com/track/4m9W0S0DHx4uGnsgDc5xgl) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Madwoman](https://open.spotify.com/album/7hU37tFSRf8fYm9QABCXK4) | 3:17 |
+| 93 | [Madwoman](https://open.spotify.com/track/4m9W0S0DHx4uGnsgDc5xgl) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Madwoman](https://open.spotify.com/album/7hU37tFSRf8fYm9QABCXK4) | 3:17 |
+| 94 | [The Bad Guy](https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [In Another Lifetime](https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO) | 3:16 |
 | 95 | [Funeral \(feat\. James Bay\)](https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Funeral \(feat\. James Bay\)](https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr) | 2:34 |
 | 96 | [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 |
 | 97 | [Louise](https://open.spotify.com/track/0fdYaOG3Dp8t6fhW5Cel84) | [Big Brutus](https://open.spotify.com/artist/4RmuiXslqkcgFa0oZ1epVi) | [The Odd Willow](https://open.spotify.com/album/6beLTdJjPsKEWYVQJGHXB6) | 4:04 |
 | 98 | [id pick up flowers](https://open.spotify.com/track/09WQVlwnpbyw2krszInbkN) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [id pick up flowers](https://open.spotify.com/album/0cSvl50AIv3lXZc2pJb2pe) | 3:47 |
-| 99 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
-| 100 | [forever friend](https://open.spotify.com/track/2zuY0M2PM6VCrJaQWBwkzm) | [Palmer](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [forever friend](https://open.spotify.com/album/1rS9qKqnMhytpjPHoiRMux) | 3:11 |
+| 99 | [forever friend](https://open.spotify.com/track/2zuY0M2PM6VCrJaQWBwkzm) | [Palmer](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [forever friend](https://open.spotify.com/album/1rS9qKqnMhytpjPHoiRMux) | 3:11 |
+| 100 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 
 Snapshot ID: `Z2BvKQAAAAAEB+pFkGg1MCacTW+O7oHz`

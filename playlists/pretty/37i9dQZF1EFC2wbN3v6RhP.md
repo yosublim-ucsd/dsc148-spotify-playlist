@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Pk7rcCDQIzm46M7Z50xDh">Taylor Swift</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,175 likes - 199 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,166 likes - 199 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 86 | [peace](https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:54 |
 | 87 | [long story short](https://open.spotify.com/track/0vVMlbdYx2080Oa9FndPZr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:35 |
 | 88 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 |
-| 89 | [So High School](https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:48 |
-| 90 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 |
-| 91 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
+| 89 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
+| 90 | [So High School](https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:48 |
+| 91 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 |
 | 92 | [loml](https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:37 |
 | 93 | [cowboy like me](https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:35 |
 | 94 | [happiness](https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 5:15 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 198 | [Beautiful Ghosts \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/2evEoQAhIMaa9PfjTT5skG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 4:21 |
 | 199 | [Beautiful Ghosts \(Victoria’s Song\) \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/1EBBNQDbxG6jfdiGTeWPdT) | [Francesca Hayward](https://open.spotify.com/artist/73jlloXDUzlTRHOcO9JhIg) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 2:50 |
 
-Snapshot ID: `AbkragAAAADpJG3flNFA+CJPtLK4tmmk`
+Snapshot ID: `Abkw9gAAAAC7Qmm5dFLcu1ZoyfEV1Vzn`

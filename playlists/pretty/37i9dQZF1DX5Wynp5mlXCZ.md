@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Jerry Heil
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,588 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,591 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 51 | [Ліфт](https://open.spotify.com/track/7yk4zXXeXGtRrZKvWSOWhT) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg), [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [Ліфт](https://open.spotify.com/album/3VlwiDK6GKqvukwECg6qoG) | 3:34 |
 | 52 | [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 |
 | 53 | [Життя](https://open.spotify.com/track/5FM6srcTfyye1n53lGeZil) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Життя](https://open.spotify.com/album/1CzeqMvPbHCoyIuIJ1fbCG) | 2:28 |
-| 54 | [Тону](https://open.spotify.com/track/1X9e8ay2sRpWC3pxRJefMd) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Тону](https://open.spotify.com/album/4rlPesNYp4JQhDnGFqgh0g) | 2:35 |
+| 54 | [Шо ти там?](https://open.spotify.com/track/4PtcjhZHpYA8df8mVMZwFO) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Врубай](https://open.spotify.com/album/1PB9YeUJ2rhQ9ScEnveczZ) | 2:24 |
 | 55 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 |
 | 56 | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/track/0OO0cxW5gSaL1EggeW1Bj0) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/album/0ZAHrT36fotzrEuhClUXhG) | 2:58 |
-| 57 | [Шо ти там?](https://open.spotify.com/track/4PtcjhZHpYA8df8mVMZwFO) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Врубай](https://open.spotify.com/album/1PB9YeUJ2rhQ9ScEnveczZ) | 2:24 |
+| 57 | [Тону](https://open.spotify.com/track/1X9e8ay2sRpWC3pxRJefMd) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Тону](https://open.spotify.com/album/4rlPesNYp4JQhDnGFqgh0g) | 2:35 |
 | 58 | [ДІВ ЧИНА](https://open.spotify.com/track/3Q37PGTFNTLcg52GSgnvNi) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0), [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [ДІВ ЧИНА](https://open.spotify.com/album/1SttK8SE9WKqZiX2IrUMfX) | 2:38 |
 | 59 | [Накоїли](https://open.spotify.com/track/33fH0ZjfdKjqn2htjrxhmM) | [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Накоїли](https://open.spotify.com/album/24HlefjKeKXhqEDXXlHMdu) | 2:31 |
 | 60 | [Руда вода](https://open.spotify.com/track/3LOxBkDFWUUxk0EP8BgRQe) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Руда вода](https://open.spotify.com/album/3GIuVfp98SSJkPGFbHD4dk) | 2:17 |
-| 61 | [Золото](https://open.spotify.com/track/7hfy7FKJ4YukP5QHWa8rPG) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Золото](https://open.spotify.com/album/2Sj5shmODB688jVan9pQMq) | 2:45 |
-| 62 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
+| 61 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
+| 62 | [Золото](https://open.spotify.com/track/7hfy7FKJ4YukP5QHWa8rPG) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Золото](https://open.spotify.com/album/2Sj5shmODB688jVan9pQMq) | 2:45 |
 | 63 | [ТРИ ПОЛОСИ](https://open.spotify.com/track/1coHgc8pIpmMRGGLXB3JXf) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [ТРИ ПОЛОСИ](https://open.spotify.com/album/29xxdkhdz8sFgmfanvlYvv) | 2:38 |
 | 64 | [ШІ](https://open.spotify.com/track/0bBg8IU53bQwAkEdd7gWO4) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [ШІ](https://open.spotify.com/album/4DTse4GsSMsafSyX1EHjZj) | 2:51 |
 | 65 | [Що ти наробила](https://open.spotify.com/track/09wwxRJurrzTPZDoomn6bB) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Лірика](https://open.spotify.com/album/3HuR9wpNnz0Xu17RXm5OuD) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Good Morning Everyone
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,545 likes - 94 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,557 likes - 94 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 9 | [Mengejar Cita](https://open.spotify.com/track/2MEnJLahLc4WLhtc0rlmxo) | [Fajar Sadboy](https://open.spotify.com/artist/24l1ZWsEGThOEp6ATWyHvI), [Dorrein Latuputty](https://open.spotify.com/artist/1y2slwpNoGCqQHfcLevjO1) | [Mengejar Cita](https://open.spotify.com/album/3vsKRYnRJ9Q29atzQhtxsr) | 4:07 |
 | 10 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 |
 | 11 | [Tergariskan](https://open.spotify.com/track/5ojHPGLl3ZjE6ikmUqoeHA) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Tergariskan](https://open.spotify.com/album/6Hed4MpnhCfLIJ6uDMOskA) | 4:10 |
-| 12 | [Mewek feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek feat\. Helmi Utta](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 |
+| 12 | [Mewek \- feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek \(feat\. Helmi Utta\)](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 |
 | 13 | [Semanis Kamu](https://open.spotify.com/track/4SNNAmLcjcIye5fcdS6jtZ) | [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor) | [Semanis Kamu](https://open.spotify.com/album/20O3B2PNqNOQAMhCnHx5gb) | 3:36 |
 | 14 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
 | 15 | [Boleh Merindu](https://open.spotify.com/track/2IbXGJUnPbT7trKSAy6LNC) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Boleh Merindu](https://open.spotify.com/album/16tWz380soVodMC5yN9la7) | 4:08 |

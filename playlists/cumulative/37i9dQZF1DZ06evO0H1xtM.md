@@ -4,7 +4,7 @@
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 28 min
+107 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amplificando](https://open.spotify.com/track/4jbJAwMMiVzADF1br5apIk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 3:39 | 2024-06-06 | 2024-06-30 |
 | [Anda Bien el Nene](https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Anda Bien el Nene](https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU) | 2:57 | 2024-02-08 |  |
 | [Andar Conmigo](https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Andar Conmigo](https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI) | 3:24 | 2024-03-02 | 2024-08-17 |
+| [Aquí No Acaba El Brillo](https://open.spotify.com/track/2k62RkN51wO1kb38EKbuQi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Robertito Salas](https://open.spotify.com/artist/65Z2GMIKoRjQcXpedrtpcs) | [Aquí No Acaba El Brillo](https://open.spotify.com/album/7BY3LYKRbW2ZVRFPGsCu8G) | 3:25 | 2024-12-22 |  |
 | [Arriba Mi Culiacán](https://open.spotify.com/track/1BNcijTdTP1qEqOSZN0Irj) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 4:29 | 2024-06-10 | 2024-09-12 |
 | [Así Nací](https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:47 | 2024-04-19 |  |
 | [Así Nací](https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:47 | 2023-08-08 | 2024-04-16 |

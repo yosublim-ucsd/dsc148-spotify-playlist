@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-223 songs - 13 hr 43 min
+224 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 | 2024-05-31 |  |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-26 |  |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-26 |  |
-| [Figure Numatic](https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Figure Numatic](https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt) | 6:10 | 2024-05-31 |  |
+| [Figure Numatic](https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Figure Numatic](https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt) | 6:10 | 2024-05-31 | 2024-12-22 |
 | [Fill My Little World](https://open.spotify.com/track/1JOxCh2Aa08z8cNJQJhWBJ) | [The Feeling](https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db) | [Twelve Stops And Home \(Deluxe\)](https://open.spotify.com/album/5Ai60Vctzaepu3zjS0NDaE) | 4:07 | 2024-05-31 |  |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2024-05-31 |  |
 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 | 2024-05-31 |  |
@@ -90,6 +90,7 @@
 | [Foundations](https://open.spotify.com/track/6lUk96KJPMHWdhEy6rmwxt) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/11SwLZF0LlX2GUAgN4rJ1b) | 4:05 | 2024-05-31 |  |
 | [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 | 2024-05-31 |  |
 | [Free Yourself](https://open.spotify.com/track/7axM6HbfUTu3dXEIWOYcH1) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:54 | 2024-05-31 |  |
+| [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-05-31 |  |
 | [Gideon's Charge \(feat\. KINGH\) \- Edit](https://open.spotify.com/track/7t0WZ9eqHbwicqu3XcCD5x) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [KINGH](https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo) | [Gideon’s Charge \(feat\. KINGH\)](https://open.spotify.com/album/1LV4kdReSJjYz4GrPJ6B4s) | 2:41 | 2024-05-31 | 2024-10-02 |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2024-05-31 |  |
 | [Good to Me](https://open.spotify.com/track/0kELHMzyLThrJN1ZJetQDB) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [After Dark](https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y) | 3:01 | 2024-05-31 |  |

@@ -987,6 +987,36 @@
     },
     {
       "album": {
+        "name": "Lights Out (feat. John Mackk & Lil Bean)",
+        "url": "https://open.spotify.com/album/0qACXOpD4MmGz6448C0CaI"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125392,
+      "name": "Lights Out (feat. John Mackk & Lil Bean)",
+      "url": "https://open.spotify.com/track/6tlgzzsJ7Yzz5xrTRjtJG1"
+    },
+    {
+      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -1352,7 +1382,7 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         },
         {
-          "name": "Ymtk",
+          "name": "YMTK",
           "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
         }
       ],

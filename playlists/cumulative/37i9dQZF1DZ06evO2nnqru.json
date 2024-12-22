@@ -313,6 +313,28 @@
     },
     {
       "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L"
+    },
+    {
+      "album": {
         "name": "PARY",
         "url": "https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh"
       },

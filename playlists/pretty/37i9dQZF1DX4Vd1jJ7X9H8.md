@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,711 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,746 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 5 | [Driving On The Wrong Side Of The Road](https://open.spotify.com/track/4FIlqMK5BlM1srbvDdOdXk) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Driving On The Wrong Side Of The Road](https://open.spotify.com/album/2sgGbhWdRKjFzSGmvhRBVG) | 3:11 |
 | 6 | [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 |
 | 7 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
-| 8 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
+| 8 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 |
 | 9 | [Favourite Girl](https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Favourite Girl](https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR) | 2:39 |
 | 10 | [Naked](https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Naked](https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT) | 3:30 |
 | 11 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 12 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 |
-| 13 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 |
+| 13 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
 | 14 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 |
 | 15 | [Uncle ACE](https://open.spotify.com/track/0Cn4UhpHhgf88eWaS9nn5u) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:16 |
 | 16 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 39 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 |
 | 40 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 |
 | 41 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
-| 42 | [Wallflower](https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm) | 2:57 |
-| 43 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 |
+| 42 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 |
+| 43 | [Wallflower](https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Wallflower](https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm) | 2:57 |
 | 44 | [Summer 2000 Baby](https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Summer 2000 Baby / Take a Trip](https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4) | 4:02 |
 | 45 | [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 |
 | 46 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 |

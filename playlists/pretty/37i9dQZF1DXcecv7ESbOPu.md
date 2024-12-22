@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,649 likes - 71 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,659 likes - 71 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 18 | [Över Dig](https://open.spotify.com/track/7z7JxcAWU8Qcl7isuWojg0) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Över Dig](https://open.spotify.com/album/4YHllMfSKktPGgEVUCMjfr) | 2:02 |
 | 19 | [set me FREE](https://open.spotify.com/track/3hZD6wxuZ1ecDzEz6pE1Cq) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57) | [WAS ALL IN](https://open.spotify.com/album/4hp2OmoDBerjnlNmaUKv4m) | 2:34 |
 | 20 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
-| 21 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 21 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 22 | [Mr New Year](https://open.spotify.com/track/18zvwZGunHGvAhRSlXsdpw) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [Mr New Year](https://open.spotify.com/album/7fx6ad2ViOHNwWVGjmgIYD) | 3:09 |
 | 23 | [A Life Where We Work Out \- First Dance Cut](https://open.spotify.com/track/7rM5uYCVn2FplWp2FGoI81) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Flatland Forever\(more\)](https://open.spotify.com/album/64uXGDfQWY9evJEyqjbJfJ) | 3:05 |
 | 24 | [Simple Life](https://open.spotify.com/track/2sP4wd3XQZn76Zu8HlYIhP) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Whispering Pines \(Deluxe\)](https://open.spotify.com/album/2Xg8v9OpCnafxUcH42tFaf) | 2:28 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 66 | [All Night](https://open.spotify.com/track/2s1j8dNXvWy9o0ZD5xqCZR) | [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki), [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [All Night](https://open.spotify.com/album/1fijZWphdRkKyfyPMDin9E) | 3:13 |
 | 67 | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw) | 3:36 |
 | 68 | [FLY](https://open.spotify.com/track/3PIpDjERPi4oA7v1zupEG5) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi), [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [FLY](https://open.spotify.com/album/4xJZUFauLJGWWDwbCoEnOt) | 2:15 |
-| 69 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 69 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 70 | [86](https://open.spotify.com/track/0o17k9O8q4LPsH2mKPY8IN) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Reclamation of I](https://open.spotify.com/album/1lLhbY9YaNZzxVSJm5ygjf) | 4:11 |
 | 71 | [Under My Skin](https://open.spotify.com/track/1ugPmPKeOc6YHXQi67qLTa) | [Falconshield](https://open.spotify.com/artist/1E7ix1oyCsdQgMw6Q3w7xT), [Sharm](https://open.spotify.com/artist/1wRg4gzKanLRgNeMIB1zAR) | [Under My Skin](https://open.spotify.com/album/3gId1B4oJSoMpKIzPSxfuj) | 4:32 |
 

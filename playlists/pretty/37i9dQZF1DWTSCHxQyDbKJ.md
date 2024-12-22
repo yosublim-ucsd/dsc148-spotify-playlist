@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,396 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,399 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 38 | [You Lucky One](https://open.spotify.com/track/5sTcB227je1ByKWTEBj2me) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 4:54 |
 | 39 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
 | 40 | [Healing Out of Spite](https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX) | 3:48 |
-| 41 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 |
-| 42 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 |
+| 41 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 |
+| 42 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 |
 | 43 | [number one lover](https://open.spotify.com/track/4tbNJjyuDVltnO1HbQntoi) | [sim0ne](https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV) | [number one lover](https://open.spotify.com/album/0rUAqxN1cw4cmkbqZXTd4m) | 2:23 |
 | 44 | [I Want What I Don't Need](https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey) | 3:35 |
 | 45 | [STRAP!](https://open.spotify.com/track/1ADao6bcWmASlYzOBOb05x) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Gelatinous Man](https://open.spotify.com/album/5tgtsCwTYoffBARqhQtjzy) | 1:59 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 54 | [Strut](https://open.spotify.com/track/0H8kYnzffchuaqo8rqOIzS) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:18 |
 | 55 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
 | 56 | [Control](https://open.spotify.com/track/73LsTcoLtLDwmqZCOuUoET) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Control](https://open.spotify.com/album/1gS8hhaRWmdJ6MV8vVhoKn) | 2:15 |
-| 57 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |
-| 58 | [BUMPED IN THE HEAD](https://open.spotify.com/track/5U4pOZ6k7JG7osMnSs1hxa) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [BUMPED IN THE HEAD](https://open.spotify.com/album/3f9jyruZx5YCvNDa4pEGwz) | 2:36 |
+| 57 | [BUMPED IN THE HEAD](https://open.spotify.com/track/5U4pOZ6k7JG7osMnSs1hxa) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [BUMPED IN THE HEAD](https://open.spotify.com/album/3f9jyruZx5YCvNDa4pEGwz) | 2:36 |
+| 58 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |
 | 59 | [Trouble](https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:39 |
 | 60 | [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 |
 | 61 | [Meditations](https://open.spotify.com/track/5WCE4PyJgYWgn1Jq8JHtNs) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Meditations](https://open.spotify.com/album/3ZeOrfh7qU6PgCIg5FvYd1) | 5:57 |

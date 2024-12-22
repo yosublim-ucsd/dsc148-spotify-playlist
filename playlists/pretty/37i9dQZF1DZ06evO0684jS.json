@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 873643,
+  "num_followers": 873702,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAA771PLyuT3pBmUfT6KSAM9",
+  "snapshot_id": "Z2SzgAAAAAD5+HHvB56cFPx7zZpD10fZ",
   "tracks": [
     {
       "added_at": null,
@@ -1035,6 +1035,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pinkprint (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 220466,
       "name": "Truffle Butter",
       "url": "https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,664 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,617 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 25 | [Same Damn Life](https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 3:19 |
 | 26 | [Hypnotize](https://open.spotify.com/track/16gpk3oHK8Ela7QbRNGjJd) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/1UeOoLhpWzpuM5cWQsbCXg) | 3:09 |
 | 27 | [Into The Fire](https://open.spotify.com/track/1DOJAC971RZsoIdyM5sB53) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 3:57 |
-| 28 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
-| 29 | [Bottoms Up](https://open.spotify.com/track/0FnugIN4Slm0weQqL8OXEM) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:37 |
+| 28 | [Bottoms Up](https://open.spotify.com/track/0FnugIN4Slm0weQqL8OXEM) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:37 |
+| 29 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 30 | [Heaven Knows](https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going to Hell](https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf) | 3:44 |
 | 31 | [The Feel Good Drag](https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:27 |
 | 32 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 52 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 |
 | 53 | [Alarm](https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Alarm](https://open.spotify.com/album/4C1YUIIGfDYulvbNzHNWXJ) | 2:28 |
 | 54 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
-| 55 | [Sugar](https://open.spotify.com/track/71H2SB2sNLUuGvZ8iV02cT) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Sugar](https://open.spotify.com/album/5C7ycA5j67dfbzOGcIWXWl) | 3:29 |
-| 56 | [Love Bites \(So Do I\)](https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Hello, It's Mz\. Hyde](https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE) | 3:12 |
+| 55 | [Love Bites \(So Do I\)](https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Hello, It's Mz\. Hyde](https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE) | 3:12 |
+| 56 | [Sugar](https://open.spotify.com/track/71H2SB2sNLUuGvZ8iV02cT) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Sugar](https://open.spotify.com/album/5C7ycA5j67dfbzOGcIWXWl) | 3:29 |
 | 57 | [Get out of My Head](https://open.spotify.com/track/3RZXQB6zCmH4isPCM5nY4n) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:10 |
 | 58 | [Echoes](https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Echoes](https://open.spotify.com/album/1enn06oSOlRXnLCXeOIkSi) | 3:41 |
 | 59 | [Sharkbait](https://open.spotify.com/track/2XybqMpL67EfQErfR00HID) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Mishaps Of My Mid Twenties](https://open.spotify.com/album/5Rjyhc3YdFNM3qv6wikP8E) | 3:31 |

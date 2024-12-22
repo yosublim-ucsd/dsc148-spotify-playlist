@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,763 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,809 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 10 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
 | 11 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
 | 12 | [Always](https://open.spotify.com/track/2TQaMcc3BEAF5Srn7FCipl) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [All In The Name Of Love](https://open.spotify.com/album/5gK0fkRx9h3OP8opU2sFpr) | 4:48 |
-| 13 | [Kiss and Say Goodbye](https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 4:26 |
-| 14 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 |
+| 13 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 |
+| 14 | [Kiss and Say Goodbye](https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 4:26 |
 | 15 | [Lovin' You](https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel](https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9) | 3:43 |
 | 16 | [Footsteps in the Dark, Pts\. 1 & 2](https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:06 |
 | 17 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:00 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 23 | [Superwoman](https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz) | [Karyn White](https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F) | [Karyn White](https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F) | 5:47 |
 | 24 | [I Want to Be Your Man \- Remastered Version](https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [Unlimited!](https://open.spotify.com/album/65aE9zdkm5FkDhrXozvAux) | 4:11 |
 | 25 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 |
-| 26 | [One Hundred Ways](https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:19 |
-| 27 | [You Are My Lady](https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf) | [Freddie Jackson](https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3) | [Rock Me Tonight](https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV) | 4:44 |
+| 26 | [You Are My Lady](https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf) | [Freddie Jackson](https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3) | [Rock Me Tonight](https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV) | 4:44 |
+| 27 | [One Hundred Ways](https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:19 |
 | 28 | [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 |
 | 29 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin \(Expanded Edition\)](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
 | 30 | [All This Love](https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 5:52 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 53 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
 | 54 | [Devotion](https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 4:50 |
 | 55 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |
-| 56 | [Your Song](https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Glow](https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL) | 5:38 |
-| 57 | [Tonight Is the Night \- Live](https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [Betty Wright Live](https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu) | 8:18 |
+| 56 | [Tonight Is the Night \- Live](https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [Betty Wright Live](https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu) | 8:18 |
+| 57 | [Your Song](https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Glow](https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL) | 5:38 |
 | 58 | [Come Back To Me](https://open.spotify.com/track/5EBWCGlCn65HM8Hglrc5V1) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/7jtBAkD6DL5yn7komrFTxE) | 5:32 |
 | 59 | [\(At Your Best\) You Are Love](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 5:23 |
 | 60 | [Silky Soul](https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Silky Soul](https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC) | 6:45 |

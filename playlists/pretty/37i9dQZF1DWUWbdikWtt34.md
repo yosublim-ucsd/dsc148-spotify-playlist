@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Maulana Ardiansyah, Alyssa Dezek
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,324 likes - 89 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,370 likes - 89 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 71 | [Khianatiku](https://open.spotify.com/track/2TtWxUm8XnwMmKFEdw8FZN) | [Andre Mastijan](https://open.spotify.com/artist/4CaULC2hulDukMworEU70V) | [Khianatiku](https://open.spotify.com/album/2IuAi1TB6o7IVql5MKNAHI) | 4:18 |
 | 72 | [Bahagia Pada Waktunya](https://open.spotify.com/track/4VdPv2wNafmltiIUQ2Ozju) | [Aldo Jm](https://open.spotify.com/artist/5xSJF52xAPQzfWiueorurd), [Rara Salsabila](https://open.spotify.com/artist/1GBLYFM6sriYtTwtd4s4Ls) | [Bahagia Pada Waktunya](https://open.spotify.com/album/5CAgKCqYH22qUh3q1G7ITV) | 5:49 |
 | 73 | [Cincin Kepalsuan](https://open.spotify.com/track/7h16Oq3zKrQmY0NurK5DlT) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Cincin Kepalsuan](https://open.spotify.com/album/15FkTQrMpQpIsNtWsOlZH7) | 6:56 |
-| 74 | [Madu Merah \- Cover](https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q), [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z) | [Madu Merah \(Cover\)](https://open.spotify.com/album/49Kxl3GeB7k29szPUzxWvo) | 4:18 |
+| 74 | [Madu Merah \- Cover](https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Madu Merah \(Cover\)](https://open.spotify.com/album/49Kxl3GeB7k29szPUzxWvo) | 4:18 |
 | 75 | [Satu Kamu](https://open.spotify.com/track/2E79MZzmwGOJRhfE73DyIo) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Satu Kamu](https://open.spotify.com/album/0PUJsQZYGFlDliTLrQrZ2A) | 4:32 |
 | 76 | [Cinta Sejati](https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cinta Sejati](https://open.spotify.com/album/0oc1EyhEHfUj79vJgxVDZu) | 3:43 |
 | 77 | [Perjalanan Cinta](https://open.spotify.com/track/7mAj5C8G5OGxbtrEuxTL4i) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp), [Sule](https://open.spotify.com/artist/7dFuuEw7vtremmH04grgC6) | [Perjalanan Cinta](https://open.spotify.com/album/0dRuc3F24fnfzP9AW5d4qp) | 4:08 |

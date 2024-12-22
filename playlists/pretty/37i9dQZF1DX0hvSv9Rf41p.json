@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Marshmello & Space Laces",
-  "num_followers": 980482,
+  "num_followers": 980511,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1237,26 +1237,6 @@
       "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Sploinky Dub",
-        "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Grech",
-          "url": "https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sploinky Dub",
-      "url": "https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Jungle",
@@ -1277,6 +1257,26 @@
       "url": "https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Sploinky Dub",
+        "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Grech",
+          "url": "https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sploinky Dub",
+      "url": "https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "SEE YOU DROP",
@@ -1291,30 +1291,6 @@
       "duration_ms": 157600,
       "name": "SEE YOU DROP",
       "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/6E8VDqNluihErYla4aeKZX"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "TRICKSTAR",
-          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 133024,
-      "name": "Bad Boys",
-      "url": "https://open.spotify.com/track/3fAB50Ai1HwM0ibAAL0iyr"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1341,24 +1317,44 @@
       "url": "https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd"
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/6E8VDqNluihErYla4aeKZX"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 189428,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
+      "duration_ms": 133024,
+      "name": "Bad Boys",
+      "url": "https://open.spotify.com/track/3fAB50Ai1HwM0ibAAL0iyr"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1383,42 +1379,6 @@
       "duration_ms": 205241,
       "name": "I'll Wait For You",
       "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Brain Tickler",
-        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
-      },
-      "artists": [
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        }
-      ],
-      "duration_ms": 144134,
-      "name": "Brain Tickler",
-      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
-    },
-    {
-      "added_at": "2024-11-01 05:42:18",
-      "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 188689,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1457,24 +1417,24 @@
       "url": "https://open.spotify.com/track/3VxkYtmVCInFfhkbsaMg0B"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-11-01 05:42:18",
       "album": {
-        "name": "Ganja Tape",
-        "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe"
       },
       "artists": [
         {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
         }
       ],
-      "duration_ms": 254488,
-      "name": "Ganja Tape",
-      "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
+      "duration_ms": 188689,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1495,6 +1455,46 @@
       "duration_ms": 167001,
       "name": "King",
       "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 189428,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Ganja Tape",
+        "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "Ganja Tape",
+      "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1543,30 +1543,6 @@
       "duration_ms": 183428,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/2wVGikrHyivMCxdXTc5fsx"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Power (feat. Grabbitz)",
-        "url": "https://open.spotify.com/album/4lz9CHmUBuClQWL9cI8uOw"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Power (feat. Grabbitz)",
-      "url": "https://open.spotify.com/track/3OPcGN44zYI7eg1OwHrSD0"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1641,6 +1617,26 @@
       "url": "https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Foul Tarnished",
@@ -1661,44 +1657,28 @@
       "url": "https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Burnin",
-        "url": "https://open.spotify.com/album/7y7JKNbnce6TEJpSRFUW30"
+        "name": "Power (feat. Grabbitz)",
+        "url": "https://open.spotify.com/album/4lz9CHmUBuClQWL9cI8uOw"
       },
       "artists": [
         {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         },
         {
-          "name": "Boogie T",
-          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
-        }
-      ],
-      "duration_ms": 255655,
-      "name": "Burnin",
-      "url": "https://open.spotify.com/track/31MOGp9qJCW3NK4RHMizrF"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
         },
         {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 178285,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
+      "duration_ms": 176000,
+      "name": "Power (feat. Grabbitz)",
+      "url": "https://open.spotify.com/track/3OPcGN44zYI7eg1OwHrSD0"
     },
     {
       "added_at": "2024-07-05 04:16:33",
@@ -1753,6 +1733,62 @@
       "url": "https://open.spotify.com/track/6sKog4OAuRZfYmQRrLYExz"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Burnin",
+        "url": "https://open.spotify.com/album/7y7JKNbnce6TEJpSRFUW30"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "duration_ms": 255655,
+      "name": "Burnin",
+      "url": "https://open.spotify.com/track/31MOGp9qJCW3NK4RHMizrF"
+    },
+    {
+      "added_at": "2024-02-23 05:00:30",
+      "album": {
+        "name": "Conquer",
+        "url": "https://open.spotify.com/album/5Xm75RRp45CHs7F7kvrPoa"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "duration_ms": 181621,
+      "name": "Conquer",
+      "url": "https://open.spotify.com/track/38xfZGIHjdZnSfMuJu7R1Z"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Escapism Vol. 1",
+        "url": "https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Black Ice (feat. Phantogram)",
@@ -1777,26 +1813,6 @@
       "url": "https://open.spotify.com/track/0i3NZpE5KwC70tf0GSKekx"
     },
     {
-      "added_at": "2024-02-23 05:00:30",
-      "album": {
-        "name": "Conquer",
-        "url": "https://open.spotify.com/album/5Xm75RRp45CHs7F7kvrPoa"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 181621,
-      "name": "Conquer",
-      "url": "https://open.spotify.com/track/38xfZGIHjdZnSfMuJu7R1Z"
-    },
-    {
       "added_at": "2024-10-18 04:15:34",
       "album": {
         "name": "KGM(irl)*",
@@ -1815,22 +1831,6 @@
       "duration_ms": 160000,
       "name": "STARsound (pt2)",
       "url": "https://open.spotify.com/track/5dsOyRsaC8y7tQ9IXtuXca"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Escapism Vol. 1",
-        "url": "https://open.spotify.com/album/1Fx4mMhHAx9ZeLs3xGOIwY"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "Ignition",
-      "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1921,6 +1921,42 @@
       "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
     },
     {
+      "added_at": "2024-02-12 18:48:17",
+      "album": {
+        "name": "Rainbow Funk",
+        "url": "https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Rainbow Funk",
+      "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "i promise",
+        "url": "https://open.spotify.com/album/2OVEvHiQnDI3vBFhy0XAxd"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 204193,
+      "name": "i promise",
+      "url": "https://open.spotify.com/track/2TGTJGfiCiIjP3OBjTrGaO"
+    },
+    {
       "added_at": "2024-10-18 04:15:34",
       "album": {
         "name": "NOVUS",
@@ -1957,26 +1993,6 @@
       "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
     },
     {
-      "added_at": "2024-02-12 18:48:17",
-      "album": {
-        "name": "Rainbow Funk",
-        "url": "https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1"
-      },
-      "artists": [
-        {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Rainbow Funk",
-      "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Like That (Tape B Remix)",
@@ -1999,22 +2015,6 @@
       "duration_ms": 216000,
       "name": "Like That - Tape B Remix",
       "url": "https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "i promise",
-        "url": "https://open.spotify.com/album/2OVEvHiQnDI3vBFhy0XAxd"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 204193,
-      "name": "i promise",
-      "url": "https://open.spotify.com/track/2TGTJGfiCiIjP3OBjTrGaO"
     },
     {
       "added_at": "2024-03-29 04:00:00",

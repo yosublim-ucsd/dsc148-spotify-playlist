@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Songs to keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,324,810 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,324,725 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 14 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
 | 15 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 |
 | 16 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:49 |
-| 17 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 |
-| 18 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
+| 17 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
+| 18 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 |
 | 19 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
 | 20 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 21 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:37 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 67 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 |
 | 68 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |
 | 69 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 |
-| 70 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 |
-| 71 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
+| 70 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
+| 71 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 |
 | 72 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 |
 | 73 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 74 | [Lonesome](https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:07 |

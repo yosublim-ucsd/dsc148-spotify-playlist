@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 334276,
+  "num_followers": 334331,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,22 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -507,22 +511,18 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 223443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
         "name": "Ultra Love feat. Ella Rosa",
         "url": "https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 171066,
       "name": "Ultra Love feat. Ella Rosa",
       "url": "https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
-        "name": "Chloe Qisha",
-        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 164175,
-      "name": "Scary Movie",
-      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
+        "name": "Poznajmy si\u0119",
+        "url": "https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt"
+      },
+      "artists": [
+        {
+          "name": "Kacper Andrzejewski",
+          "url": "https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Poznajmy si\u0119",
+      "url": "https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
         "name": "Ta\u0144ce na Modlinie",
         "url": "https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 269746,
       "name": "Arachnophobia",
       "url": "https://open.spotify.com/track/5vm7AyTfxTPmQBfpRNOI5b"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
-        "name": "Poznajmy si\u0119",
-        "url": "https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt"
-      },
-      "artists": [
-        {
-          "name": "Kacper Andrzejewski",
-          "url": "https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Poznajmy si\u0119",
-      "url": "https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
+        "name": "Zaspy",
+        "url": "https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl"
+      },
+      "artists": [
+        {
+          "name": "Sonbird",
+          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
+        }
+      ],
+      "duration_ms": 190633,
+      "name": "Zaspy",
+      "url": "https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
         "name": "Ta\u0144cz\u0119 do Ciebie",
         "url": "https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 175000,
       "name": "Ta\u0144cz\u0119 do Ciebie",
       "url": "https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
-        "name": "Zaspy",
-        "url": "https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl"
-      },
-      "artists": [
-        {
-          "name": "Sonbird",
-          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
-        }
-      ],
-      "duration_ms": 190633,
-      "name": "Zaspy",
-      "url": "https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl"
     }
   ],
   "unique_name": "Zimowy chill",

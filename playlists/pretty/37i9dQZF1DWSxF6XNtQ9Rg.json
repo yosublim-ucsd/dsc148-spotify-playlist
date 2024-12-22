@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 220551,
+  "num_followers": 220600,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 179863,
       "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
       "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1167,22 +1167,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4nJJuilxSgfHHaaC7dwDfp"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 171375,
-      "name": "Stamm Fort (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
+      "duration_ms": 210106,
+      "name": "Cupido (feat. Quavo)",
+      "url": "https://open.spotify.com/track/0dLToDou8YHYJpQltj3Ijy"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1207,22 +1207,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/4nJJuilxSgfHHaaC7dwDfp"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 210106,
-      "name": "Cupido (feat. Quavo)",
-      "url": "https://open.spotify.com/track/0dLToDou8YHYJpQltj3Ijy"
+      "duration_ms": 171375,
+      "name": "Stamm Fort (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 181668,
       "name": "Arai (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Ninna Nanna",
+      "url": "https://open.spotify.com/track/1bJn4Hfj4xa58Jse9bQrN1"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "Raptus 3",
         "url": "https://open.spotify.com/album/04gdaRtg56whGgaaPnUsr4"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 166133,
       "name": "Gli occhi della tigre",
       "url": "https://open.spotify.com/track/5pL8J6weoydzXglhsoJ6Vw"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Ninna Nanna",
-      "url": "https://open.spotify.com/track/1bJn4Hfj4xa58Jse9bQrN1"
     },
     {
       "added_at": "2024-11-28 13:31:00",
@@ -1747,6 +1747,54 @@
     {
       "added_at": "2024-11-28 13:31:00",
       "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
+        "name": "Bottiglie Priv\u00e8",
+        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 189867,
+      "name": "Bottiglie Priv\u00e8",
+      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
+    },
+    {
+      "added_at": "2024-11-28 13:31:00",
+      "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s"
       },
@@ -1771,54 +1819,6 @@
       "duration_ms": 208853,
       "name": "BUONANOTTE \u2748 (con NOYZ NARCOS, FRANCO126 & SIDE BABY)",
       "url": "https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
-    },
-    {
-      "added_at": "2024-11-28 13:31:00",
-      "album": {
-        "name": "Bottiglie Priv\u00e8",
-        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "Bottiglie Priv\u00e8",
-      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
     },
     {
       "added_at": "2024-11-28 13:31:00",

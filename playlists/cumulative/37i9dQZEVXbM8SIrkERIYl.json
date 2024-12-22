@@ -4364,7 +4364,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -4686,7 +4686,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -8358,7 +8358,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -8376,7 +8376,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -12092,7 +12092,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -12842,7 +12842,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -12868,7 +12868,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -12904,7 +12904,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -12922,7 +12922,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 151933,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -14542,7 +14542,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -20572,7 +20572,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 201733,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3R1Xa7LkesYpNI3v6fslKi"
@@ -20590,7 +20590,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -20914,6 +20914,24 @@
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
+    },
+    {
+      "album": {
+        "name": "Run Rudolph Run - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155846,
+      "name": "Run Rudolph Run - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
     },
     {
       "album": {
@@ -21650,7 +21668,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -22488,7 +22506,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -26164,7 +26182,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -26218,7 +26236,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -26770,7 +26788,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -26788,7 +26806,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -28626,7 +28644,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

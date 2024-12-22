@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 51864,
+  "num_followers": 51869,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,30 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
+        "name": "Schumann: The Symphonies",
+        "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 709466,
+      "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
+      "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
+    },
+    {
+      "added_at": "2024-10-15 15:27:46",
+      "album": {
         "name": "Besser ohne Worte",
         "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
       },
@@ -475,30 +499,6 @@
       "duration_ms": 887000,
       "name": "Overture Manfred, Op. 115",
       "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
-    },
-    {
-      "added_at": "2024-10-15 15:27:46",
-      "album": {
-        "name": "Schumann: The Symphonies",
-        "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 709466,
-      "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
-      "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
     },
     {
       "added_at": "2024-10-15 15:27:46",
@@ -803,6 +803,26 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
+        "name": "Schumann - Jan\u00e1\u010dek - Berg",
+        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
+      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
+    },
+    {
+      "added_at": "2024-10-15 15:27:46",
+      "album": {
         "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
         "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 427653,
       "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
       "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
-    },
-    {
-      "added_at": "2024-10-15 15:27:46",
-      "album": {
-        "name": "Schumann - Jan\u00e1\u010dek - Berg",
-        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
-      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
     },
     {
       "added_at": "2024-10-15 15:27:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwt8nLYPq15.md) - [plain]
 
 > summer heat 🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,244 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,245 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwt8nLYPq15.md) - [plain]
 | 36 | [Fell In Love](https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fell In Love](https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8) | 2:01 |
 | 37 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 |
 | 38 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 |
-| 39 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
-| 40 | [Get it Right \(feat\. Asake\)](https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:19 |
+| 39 | [Get it Right \(feat\. Asake\)](https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:19 |
+| 40 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
 | 41 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 42 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 43 | [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 |

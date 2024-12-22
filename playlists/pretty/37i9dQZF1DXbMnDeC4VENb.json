@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 181002,
+  "num_followers": 181051,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
+        "name": "Vayas Donde Vayas",
+        "url": "https://open.spotify.com/album/2IL8QuOn2j2hdAbx0W7jEf"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Vayas Donde Vayas",
+      "url": "https://open.spotify.com/track/5uVKEewXVjW1vn30Gaul3i"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
         "name": "Si T\u00fa Te Vas",
         "url": "https://open.spotify.com/album/7cWtDxlsNhuIg4JLYJDVjV"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 209292,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
-        "name": "Vayas Donde Vayas",
-        "url": "https://open.spotify.com/album/2IL8QuOn2j2hdAbx0W7jEf"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Vayas Donde Vayas",
-      "url": "https://open.spotify.com/track/5uVKEewXVjW1vn30Gaul3i"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Nunca Vemos Nada",
-        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Sexo de Despedida",
-      "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Sirena",
         "url": "https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 231007,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Nunca Vemos Nada",
+        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Sexo de Despedida",
+      "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -947,30 +947,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Oye Cantinero",
-        "url": "https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 196111,
-      "name": "Oye Cantinero",
-      "url": "https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "No estes triste",
         "url": "https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 198750,
       "name": "No Est\u00e9s Triste",
       "url": "https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Oye Cantinero",
+        "url": "https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 196111,
+      "name": "Oye Cantinero",
+      "url": "https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1499,22 +1499,18 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "S\u00f3lo Si Es Contigo",
-        "url": "https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon"
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
         }
       ],
-      "duration_ms": 239926,
-      "name": "S\u00f3lo Si Es Contigo",
-      "url": "https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y"
+      "duration_ms": 146000,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/00ONvNtwpto32WcJ7xY31s"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1535,6 +1531,26 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
+        "name": "S\u00f3lo Si Es Contigo",
+        "url": "https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 239926,
+      "name": "S\u00f3lo Si Es Contigo",
+      "url": "https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
         "name": "Leche Bronca",
         "url": "https://open.spotify.com/album/5Jlh73cu1QTaSYJSrqAKeo"
       },
@@ -1551,26 +1567,6 @@
       "duration_ms": 248951,
       "name": "El Hilo Rojo",
       "url": "https://open.spotify.com/track/7BiRQIc2CjUQ2HvER8y7fx"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
-        "name": "Portarnos Mal",
-        "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Portarnos Mal",
-      "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1619,18 +1615,22 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Easy To Hate",
-        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+        "name": "Portarnos Mal",
+        "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
       },
       "artists": [
         {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 146000,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/00ONvNtwpto32WcJ7xY31s"
+      "duration_ms": 198260,
+      "name": "Portarnos Mal",
+      "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "No Entiendo Nada",
-        "url": "https://open.spotify.com/album/6XKhizrjzKaHlcf0D8y6zK"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 223071,
-      "name": "No Entiendo Nada",
-      "url": "https://open.spotify.com/track/2lb6LhrHb94bG5KRMoASOv"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Bajo Sustancias",
         "url": "https://open.spotify.com/album/4IZ4KvcJiBt9M1OddPlG8d"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 210000,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/3FLNLo5rf6vh20FoHDeLyg"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "No Entiendo Nada",
+        "url": "https://open.spotify.com/album/6XKhizrjzKaHlcf0D8y6zK"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 223071,
+      "name": "No Entiendo Nada",
+      "url": "https://open.spotify.com/track/2lb6LhrHb94bG5KRMoASOv"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -1963,22 +1963,22 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "T\u00e9 Con Miel",
-        "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
+        "name": "Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/1uwybis0C2LleyWdZDc2KA"
       },
       "artists": [
         {
-          "name": "Aerstame",
-          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
         },
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
         }
       ],
-      "duration_ms": 213940,
-      "name": "T\u00e9 Con Miel",
-      "url": "https://open.spotify.com/track/6s0hTXicqoUdVHSndFNtBx"
+      "duration_ms": 197168,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/2hlfF82K7N4Faivl5spUYR"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -2003,22 +2003,22 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Da",
-        "url": "https://open.spotify.com/album/1uwybis0C2LleyWdZDc2KA"
+        "name": "T\u00e9 Con Miel",
+        "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
       },
       "artists": [
         {
-          "name": "Stilo",
-          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+          "name": "Aerstame",
+          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
         },
         {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 197168,
-      "name": "Qu\u00e9 M\u00e1s Da",
-      "url": "https://open.spotify.com/track/2hlfF82K7N4Faivl5spUYR"
+      "duration_ms": 213940,
+      "name": "T\u00e9 Con Miel",
+      "url": "https://open.spotify.com/track/6s0hTXicqoUdVHSndFNtBx"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "PA QUE CONMIGO",
-        "url": "https://open.spotify.com/album/5DMDB1y2gSxBWyXGPn38vy"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 176559,
-      "name": "PA QUE CONMIGO",
-      "url": "https://open.spotify.com/track/6EQ2lpYqcWp0lpbgLmQGFS"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Ajena",
         "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 160000,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "PA QUE CONMIGO",
+        "url": "https://open.spotify.com/album/5DMDB1y2gSxBWyXGPn38vy"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 176559,
+      "name": "PA QUE CONMIGO",
+      "url": "https://open.spotify.com/track/6EQ2lpYqcWp0lpbgLmQGFS"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -2423,22 +2423,18 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Mientras Dorm\u00edas",
-        "url": "https://open.spotify.com/album/2x4O1oHgHW91hFrLZQQmHh"
+        "name": "Siempre Ser\u00e1s para M\u00ed",
+        "url": "https://open.spotify.com/album/7lhKv3VoTgd8cOpkJOkUwe"
       },
       "artists": [
         {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
         }
       ],
-      "duration_ms": 135034,
-      "name": "Mientras Dorm\u00edas",
-      "url": "https://open.spotify.com/track/1UJ80JhXQbfoSLaCRn3hyX"
+      "duration_ms": 213995,
+      "name": "Siempre Ser\u00e1s para M\u00ed",
+      "url": "https://open.spotify.com/track/6mwsIP2GDaEz4DoOkSVfJY"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -2463,18 +2459,22 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Siempre Ser\u00e1s para M\u00ed",
-        "url": "https://open.spotify.com/album/7lhKv3VoTgd8cOpkJOkUwe"
+        "name": "Mientras Dorm\u00edas",
+        "url": "https://open.spotify.com/album/2x4O1oHgHW91hFrLZQQmHh"
       },
       "artists": [
         {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
         }
       ],
-      "duration_ms": 213995,
-      "name": "Siempre Ser\u00e1s para M\u00ed",
-      "url": "https://open.spotify.com/track/6mwsIP2GDaEz4DoOkSVfJY"
+      "duration_ms": 135034,
+      "name": "Mientras Dorm\u00edas",
+      "url": "https://open.spotify.com/track/1UJ80JhXQbfoSLaCRn3hyX"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -2959,6 +2959,26 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
+        "name": "T\u00fa, Mija",
+        "url": "https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "T\u00fa, Mija",
+      "url": "https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
         "name": "Flakita",
         "url": "https://open.spotify.com/album/4S4cvQx7xl3BqA39CrsuJN"
       },
@@ -2979,26 +2999,6 @@
       "duration_ms": 171050,
       "name": "Flakita",
       "url": "https://open.spotify.com/track/75GPUVRzfOBic0OXkuO313"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
-        "name": "T\u00fa, Mija",
-        "url": "https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "T\u00fa, Mija",
-      "url": "https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS"
     },
     {
       "added_at": "2024-12-13 06:00:10",
@@ -4111,22 +4111,6 @@
     {
       "added_at": "2024-12-13 06:00:10",
       "album": {
-        "name": "Me Da Lo Mismo",
-        "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Me Da Lo Mismo",
-      "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
-    },
-    {
-      "added_at": "2024-12-13 06:00:10",
-      "album": {
         "name": "Querida",
         "url": "https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S"
       },
@@ -4143,6 +4127,22 @@
       "duration_ms": 188500,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf"
+    },
+    {
+      "added_at": "2024-12-13 06:00:10",
+      "album": {
+        "name": "Me Da Lo Mismo",
+        "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Me Da Lo Mismo",
+      "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
     },
     {
       "added_at": "2024-12-13 06:00:10",

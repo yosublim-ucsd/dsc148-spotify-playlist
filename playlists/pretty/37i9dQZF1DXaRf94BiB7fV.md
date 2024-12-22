@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Ashwin Adwani \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,217 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,239 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 16 | [Jahaan](https://open.spotify.com/track/0lDbiE4PfsGJX61XUtSX6p) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Rhythm V](https://open.spotify.com/artist/3y9truNExJUI46Q17RJvyD), [Ro](https://open.spotify.com/artist/7vGhIQpt8BEDMmvc54Rbks) | [Jahaan](https://open.spotify.com/album/3tQL7BDhLcoqcijUqdLndX) | 3:12 |
 | 17 | [Jogiya](https://open.spotify.com/track/4JG9xQh4gppzjB9aArwj89) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Jogiya](https://open.spotify.com/album/7qHIUjr8i06msD20NVimEM) | 5:02 |
 | 18 | [Chaahat Ka Maara](https://open.spotify.com/track/3sS0DwsB8Vc58KOmGuzGM3) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Chaahat Ka Maara](https://open.spotify.com/album/7HvKn1CXqHiJFrTosZHk2G) | 2:38 |
-| 19 | [Sorry](https://open.spotify.com/track/0wj0UQuHJ8K3hxoTsAavnk) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV) | [Sorry](https://open.spotify.com/album/56gT7wKR7wzbq7w3l5gU7F) | 3:17 |
+| 19 | [Sorry](https://open.spotify.com/track/0wj0UQuHJ8K3hxoTsAavnk) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Vasudev Gandharv](https://open.spotify.com/artist/5EJJwjrNBar5Kon6mKu9Ke) | [Sorry](https://open.spotify.com/album/56gT7wKR7wzbq7w3l5gU7F) | 3:17 |
 | 20 | [Laayee Mohabbat](https://open.spotify.com/track/1j0WqABtu73oIgtqzGIiP4) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA), [Qulid](https://open.spotify.com/artist/2CV0KIicosK2RGWjpil0Wp) | [Laayee Mohabbat](https://open.spotify.com/album/334JZbhqXvJUdSDzXph9DN) | 3:07 |
 | 21 | [Haseen Zindagi](https://open.spotify.com/track/7vWT59Kp5xZ0pgxUKxjsoO) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haseen Zindagi](https://open.spotify.com/album/0n6oRcX1YiK2jiSw4mm78c) | 2:39 |
 | 22 | [More Sajan](https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [More Sajan](https://open.spotify.com/album/11rRmLH3wgpHbHrYK17PVN) | 2:04 |

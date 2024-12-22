@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Vienna Vienna
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,249 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,195 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
 | 2 | [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 |
 | 3 | [Sex Drugs Whatever](https://open.spotify.com/track/0CsYbDQXRAVZ6kHn4rDakN) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Wonderland](https://open.spotify.com/album/48NcXzz8dPbKReTUjTNQHv) | 3:18 |
-| 4 | [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
+| 4 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 5 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 |
 | 6 | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/track/5gGHRgEQ2wfgjKRyPaOG2P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/album/3GAHv86Yo9P3KCPmxYP8IO) | 3:20 |
 | 7 | [Pitch Black](https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Pitch Black](https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS) | 4:25 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 25 | [Sports Day](https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Eazy Peazy](https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV) | 2:30 |
 | 26 | [Me](https://open.spotify.com/track/2g1N53haeJ7YuSHVilxUnG) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Soft](https://open.spotify.com/album/632m6v8Y3OStcJabOmAEYR) | 2:42 |
 | 27 | [BLOODSUCKA \(feat\. Debbie Gough\)](https://open.spotify.com/track/2qoc9gvHSFGx8c4hLBQxPy) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W), [Debbie Gough](https://open.spotify.com/artist/4OvDgVw2NEVzt79bIDxsjF) | [ANATOMY](https://open.spotify.com/album/0GyTlhdr6mF1jllBgzDxbb) | 2:47 |
-| 28 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 28 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 29 | [DIRTBAG](https://open.spotify.com/track/50E0Pl2yc4rycFqTH1cGRD) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [DON'T WORRY, I'LL BE FINE](https://open.spotify.com/album/09natI8LumZF8kRgCuUSRe) | 2:10 |
 | 30 | [filthy/RIGHTEOUS \(feat\. Kenta Koie of Crossfaith\)](https://open.spotify.com/track/2pxsyhvXrWCvjXBYCOilQ4) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [filthy/RIGHTEOUS \(feat\. Kenta Koie of Crossfaith\)](https://open.spotify.com/album/22OGFESsnG4chRM0pPEwLE) | 3:56 |
 | 31 | [Love](https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Love](https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3) | 3:40 |

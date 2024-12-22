@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > blue jeans, white shirt\. Cover: Clairo covering Lana Del Rey's Brooklyn Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,551 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,557 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 40 | [Team](https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:13 |
 | 41 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 |
 | 42 | [Knee Socks](https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:17 |
-| 43 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
-| 44 | [Mr\. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:54 |
+| 43 | [Mr\. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:54 |
+| 44 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 45 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 |
 | 46 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 47 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 57 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
 | 58 | [Come a Little Closer](https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:49 |
 | 59 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
-| 60 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |
+| 60 | [The Heart Wants What It Wants](https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [The Heart Wants What It Wants](https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI) | 3:47 |
 | 61 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 |
-| 62 | [The Heart Wants What It Wants](https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [The Heart Wants What It Wants](https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI) | 3:47 |
+| 62 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |
 | 63 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
 | 64 | [Forrest Gump](https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:14 |
 | 65 | [Robbers](https://open.spotify.com/track/73jVPicY2G9YHmzgjk69ae) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 4:14 |

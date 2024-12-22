@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 329005,
+  "num_followers": 328984,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -319,30 +319,6 @@
     {
       "added_at": "2024-12-13 16:48:27",
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
-    },
-    {
-      "added_at": "2024-12-13 16:48:27",
-      "album": {
         "name": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
         "url": "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 243490,
       "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
+    },
+    {
+      "added_at": "2024-12-13 16:48:27",
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2024-12-13 16:48:27",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-12-13 16:48:27",
       "album": {
-        "name": "Collision Course (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Points of Authority / 99 Problems / One Step Closer",
-      "url": "https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX"
-    },
-    {
-      "added_at": "2024-12-13 16:48:27",
-      "album": {
         "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
         "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 213307,
       "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
       "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
+    },
+    {
+      "added_at": "2024-12-13 16:48:27",
+      "album": {
+        "name": "Collision Course (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Points of Authority / 99 Problems / One Step Closer",
+      "url": "https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX"
     },
     {
       "added_at": "2024-12-13 16:48:27",

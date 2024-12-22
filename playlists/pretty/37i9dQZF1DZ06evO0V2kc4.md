@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,230 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,244 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 20 | [There But For Fortune](https://open.spotify.com/track/7qY7QChY4O2D3QhwgvNx8R) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:16 |
 | 21 | [Jesse](https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:28 |
 | 22 | [De Colores](https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:29 |
-| 23 | [Plaisir D' Amour](https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. Ii](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:10 |
+| 23 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 |
 | 24 | [Last Night I Had The Strangest Dream](https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:29 |
-| 25 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 |
+| 25 | [Plaisir D' Amour](https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. Ii](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:10 |
 | 26 | [Diamonds & Rust](https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Paradise](https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x) | 3:35 |
 | 27 | [The Boxer](https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 7:25 |
 | 28 | [Joe Hill \- Live](https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:01 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 40 | [No Woman No Cry \- Live](https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 3:45 |
 | 41 | [Daddy, You Been On My Mind](https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 2:19 |
 | 42 | [Llego Con Tres Heridas](https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:14 |
-| 43 | [Hello In There \(with Joan Baez\) \- Live](https://open.spotify.com/track/7HxC5nnl4qbP0Ql3LCY26K) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:29 |
-| 44 | [Boots Of Spanish Leather](https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:33 |
-| 45 | [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 |
-| 46 | [Forever Young \- Single Version](https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete A&M Recordings](https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L) | 3:52 |
-| 47 | [East Virginia](https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:43 |
-| 48 | [It Ain't Me, Babe \- Live at Philharmonic Hall, New York, NY \- October 1964](https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Bootleg Volume 6: Bob Dylan Live 1964 \- Concert At Philharmonic Hall](https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY) | 3:51 |
+| 43 | [Boots Of Spanish Leather](https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:33 |
+| 44 | [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 |
+| 45 | [Hello In There \(with Joan Baez\) \- Live](https://open.spotify.com/track/7HxC5nnl4qbP0Ql3LCY26K) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:29 |
+| 46 | [It Ain't Me, Babe \- Live at Philharmonic Hall, New York, NY \- October 1964](https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Bootleg Volume 6: Bob Dylan Live 1964 \- Concert At Philharmonic Hall](https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY) | 3:51 |
+| 47 | [Forever Young \- Single Version](https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete A&M Recordings](https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L) | 3:52 |
+| 48 | [East Virginia](https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:43 |
 | 49 | [Blackbird](https://open.spotify.com/track/7KMwYTrekbo33VOKcXvx7y) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 3:24 |
 | 50 | [Blessed Are](https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:06 |
 
-Snapshot ID: `Z2NiAAAAAACFriVOsbHLIQbL52Rde2Ng`
+Snapshot ID: `Z2SzgAAAAADLeDCH61rwq3+qbPtLGPj1`

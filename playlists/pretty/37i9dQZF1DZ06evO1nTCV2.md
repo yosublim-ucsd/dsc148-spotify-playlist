@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,855 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,858 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,38 +17,38 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 7 | [Come Pick Me Up](https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:18 |
 | 8 | [Lucky Now](https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6) | 2:52 |
 | 9 | [Shiver And Shake](https://open.spotify.com/track/6TbOgR6jpuqkjAmgs4hdFL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:05 |
-| 10 | [Desire](https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:40 |
+| 10 | [The Door](https://open.spotify.com/track/6E8vlT2jMTzwwnpndOgDmO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 3:31 |
 | 11 | [My Winding Wheel](https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:12 |
-| 12 | [The Door](https://open.spotify.com/track/6E8vlT2jMTzwwnpndOgDmO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 3:31 |
+| 12 | [Desire](https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:40 |
 | 13 | [Two](https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:38 |
-| 14 | [Dear Chicago](https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:12 |
+| 14 | [Call Me Back](https://open.spotify.com/track/4MsteXmAxiVv6qqK4udNmL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 4:08 |
 | 15 | [Oh My Sweet Carolina](https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 4:56 |
-| 16 | [Call Me Back](https://open.spotify.com/track/4MsteXmAxiVv6qqK4udNmL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 4:08 |
+| 16 | [Dear Chicago](https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:12 |
 | 17 | [La Cienega Just Smiled](https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 5:01 |
-| 18 | [Blank Space](https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:21 |
+| 18 | [Tomorrowland](https://open.spotify.com/track/0HIIFIxmsvhwUz5pmJFL6v) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:37 |
 | 19 | [Damn Sam \(I Love a Woman That Rains\)](https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 2:08 |
-| 20 | [Tomorrowland](https://open.spotify.com/track/0HIIFIxmsvhwUz5pmJFL6v) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:37 |
+| 20 | [Blank Space](https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:21 |
 | 21 | [New York, New York](https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:46 |
-| 22 | [Shake It Off](https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:06 |
+| 22 | [For The Sun](https://open.spotify.com/track/2bpEmw2NIgls7IrCIEayrv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:24 |
 | 23 | [Memory Lane](https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:49 |
-| 24 | [For The Sun](https://open.spotify.com/track/2bpEmw2NIgls7IrCIEayrv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:24 |
+| 24 | [Shake It Off](https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:06 |
 | 25 | [Answering Bell](https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:05 |
-| 26 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
-| 27 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 |
-| 28 | [Just You Wait](https://open.spotify.com/track/0GKW4XdDgCMPXj5iHsUATW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:39 |
+| 26 | [Starfire](https://open.spotify.com/track/2TpNrJWGjdjLK13IzcXQ67) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:50 |
+| 27 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
+| 28 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 |
 | 29 | [Do You Still Love Me?](https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:59 |
 | 30 | [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS) | 3:00 |
-| 31 | [All You Had To Do Was Stay](https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:30 |
-| 32 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
+| 31 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
+| 32 | [All You Had To Do Was Stay](https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:30 |
 | 33 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 |
 | 34 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 |
-| 35 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
-| 36 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
-| 37 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
+| 35 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
+| 36 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
+| 37 | [Nuclear](https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:24 |
 | 38 | [This House Is Not For Sale](https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:53 |
 | 39 | [Fuck The Rain](https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y) | 3:33 |
 | 40 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
-| 41 | [Nuclear](https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:24 |
+| 41 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
 | 42 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 |
 | 43 | [I'm Sorry And I Love You](https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek) | 3:34 |
 | 44 | [Out of the Woods](https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 6:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 49 | [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 |
 | 50 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 |
 
-Snapshot ID: `Z2NiAAAAAAAHUlsQYg59Q8Yuy+rvxLK3`
+Snapshot ID: `Z2SzgAAAAAChNKknOChRuvYonwL7ZM6S`

@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12501,
+  "num_followers": 12502,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -285,70 +285,6 @@
       "url": "https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Big Sun",
-        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
-      },
-      "artists": [
-        {
-          "name": "Chassol",
-          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Birds, Pt. I",
-      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Portico Quartet",
-        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 334040,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 351120,
-      "name": "Black City Skyline",
-      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
-    },
-    {
-      "added_at": "2024-08-19 20:55:28",
-      "album": {
-        "name": "Continuum 1",
-        "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 433750,
-      "name": "Continuum 1",
-      "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
-    },
-    {
       "added_at": "2024-08-29 04:26:03",
       "album": {
         "name": "Soft Power",
@@ -367,6 +303,70 @@
       "duration_ms": 358826,
       "name": "Soft Power",
       "url": "https://open.spotify.com/track/3PPBJ6mj7Tzze05XGCCW07"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Big Sun",
+        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
+      },
+      "artists": [
+        {
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Birds, Pt. I",
+      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Portico Quartet",
+        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 334040,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
+    },
+    {
+      "added_at": "2024-08-19 20:55:28",
+      "album": {
+        "name": "Continuum 1",
+        "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 433750,
+      "name": "Continuum 1",
+      "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
     },
     {
       "added_at": "2024-08-29 04:26:03",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
-    },
-    {
       "added_at": "2024-10-24 00:41:11",
       "album": {
         "name": "Reassemblage",
@@ -467,6 +451,22 @@
       "duration_ms": 220800,
       "name": "Terrazzo",
       "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -549,6 +549,22 @@
       "url": "https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
       "added_at": "2023-12-12 19:48:08",
       "album": {
         "name": "Cape Cod Cottage",
@@ -567,38 +583,6 @@
       "duration_ms": 148556,
       "name": "Discovery at the Beach",
       "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
-    },
-    {
-      "added_at": "2024-06-27 20:04:51",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 466420,
-      "name": "that love",
-      "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
     },
     {
       "added_at": "2024-01-05 03:52:17",
@@ -631,6 +615,22 @@
       "duration_ms": 159158,
       "name": "The Pillow Sisters",
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
+    },
+    {
+      "added_at": "2024-06-27 20:04:51",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 466420,
+      "name": "that love",
+      "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -753,38 +753,6 @@
       "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
     },
     {
-      "added_at": "2024-04-12 00:43:48",
-      "album": {
-        "name": "Modern Chamber Music",
-        "url": "https://open.spotify.com/album/2Exl05xJe1sljXUxT1s7Wl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Dury",
-          "url": "https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj"
-        }
-      ],
-      "duration_ms": 104406,
-      "name": "Pulse Of Life",
-      "url": "https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido"
-    },
-    {
-      "added_at": "2024-05-23 23:19:14",
-      "album": {
-        "name": "Mid Spiral: Order",
-        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 415372,
-      "name": "Playgroup",
-      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
-    },
-    {
       "added_at": "2022-04-06 04:00:43",
       "album": {
         "name": "Lenz Pianoday 2022",
@@ -803,6 +771,38 @@
       "duration_ms": 139885,
       "name": "Lenz Pianoday 2022",
       "url": "https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL"
+    },
+    {
+      "added_at": "2024-05-23 23:19:14",
+      "album": {
+        "name": "Mid Spiral: Order",
+        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 415372,
+      "name": "Playgroup",
+      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
+    },
+    {
+      "added_at": "2024-04-12 00:43:48",
+      "album": {
+        "name": "Modern Chamber Music",
+        "url": "https://open.spotify.com/album/2Exl05xJe1sljXUxT1s7Wl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Dury",
+          "url": "https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj"
+        }
+      ],
+      "duration_ms": 104406,
+      "name": "Pulse Of Life",
+      "url": "https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido"
     },
     {
       "added_at": "2022-09-03 03:50:05",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Ugly Orange",
-        "url": "https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho"
-      },
-      "artists": [
-        {
-          "name": "yes/and",
-          "url": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"
-        }
-      ],
-      "duration_ms": 259724,
-      "name": "Ugly Orange",
-      "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
-    },
-    {
       "added_at": "2022-03-03 00:47:36",
       "album": {
         "name": "El Momento",
@@ -1145,6 +1129,22 @@
       "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Ugly Orange",
+        "url": "https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho"
+      },
+      "artists": [
+        {
+          "name": "yes/and",
+          "url": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"
+        }
+      ],
+      "duration_ms": 259724,
+      "name": "Ugly Orange",
+      "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
+    },
+    {
       "added_at": "2024-04-12 00:45:23",
       "album": {
         "name": "Le jour et la nuit du r\u00e9el",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
     },
     {
-      "added_at": "2024-04-12 00:43:48",
-      "album": {
-        "name": "Sharko III",
-        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
-      },
-      "artists": [
-        {
-          "name": "Sharko",
-          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
-        }
-      ],
-      "duration_ms": 76013,
-      "name": "Stuck T",
-      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Pyramid",
@@ -1191,6 +1175,22 @@
       "duration_ms": 488904,
       "name": "Spiral Era",
       "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
+    },
+    {
+      "added_at": "2024-04-12 00:43:48",
+      "album": {
+        "name": "Sharko III",
+        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
+      },
+      "artists": [
+        {
+          "name": "Sharko",
+          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
+        }
+      ],
+      "duration_ms": 76013,
+      "name": "Stuck T",
+      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1313,20 +1313,28 @@
       "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
     },
     {
-      "added_at": "2024-04-12 00:43:48",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Redivider",
-        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
+        "name": "Beside April",
+        "url": "https://open.spotify.com/album/3jGdsI7EtNflxCUUre7QXP"
       },
       "artists": [
         {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
         }
       ],
-      "duration_ms": 67213,
-      "name": "If You Could See Your Life In Reverse Pt.3",
-      "url": "https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2"
+      "duration_ms": 313587,
+      "name": "Beside April",
+      "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
     }
   ],
   "unique_name": "transience",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 
 > Música para acompañar esas rondas interminables de mate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,050 likes - 90 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,159 likes - 90 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 77 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
 | 78 | [Deseos de Cosas Imposibles \(with Abel Pintos\) \- Directo Primera Fila](https://open.spotify.com/track/42rtLutZjrQGmzxZhN5YFA) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Primera Fila](https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh) | 3:57 |
 | 79 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
-| 80 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
-| 81 | [Llenos De Magia](https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 3:52 |
-| 82 | [TOCO Y ME VOY](https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [TOCO Y ME VOY](https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj) | 3:46 |
+| 80 | [TOCO Y ME VOY](https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [TOCO Y ME VOY](https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj) | 3:46 |
+| 81 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
+| 82 | [Llenos De Magia](https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 3:52 |
 | 83 | [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 |
 | 84 | [MORFEO](https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MORFEO](https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3) | 3:53 |
 | 85 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
 | 86 | [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 |
 | 87 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
-| 88 | [Superstar](https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 3:02 |
-| 89 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
-| 90 | [Tu Locura](https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Canciones Elegidas 93\-04](https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq) | 2:29 |
+| 88 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
+| 89 | [Superstar](https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 3:02 |
+| 90 | [Para No Verme Más](https://open.spotify.com/track/270ieNCOt945nOdUQubFI5) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [El Impulso](https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4) | 4:05 |
 
 Snapshot ID: `ZywDPAAAAAADdOuf+Tzp1iGXQ19RLGUK`

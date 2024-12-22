@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,378,466 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,378,728 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 8 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 9 | [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 |
 | 10 | [Slide](https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 3:32 |
-| 11 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 |
+| 11 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 |
 | 12 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
-| 13 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 |
-| 14 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 |
+| 13 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 |
+| 14 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 |
 | 15 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 16 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
 | 17 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 68 | [You Oughta Know](https://open.spotify.com/track/1pYeG5Tc46NR2SmHFV6ZP8) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/5NKwlPY53QWP0SEsJM3qwY) | 4:42 |
 | 69 | [Bitter Sweet Symphony](https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:58 |
 | 70 | [What It's Like](https://open.spotify.com/track/7pMVB2oz4Q4SlfTvvevNro) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings The Blues](https://open.spotify.com/album/2Wbxdj9ABLszNA9xuGGQft) | 5:03 |
-| 71 | [Nothing Compares 2 U](https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy) | 4:40 |
-| 72 | [Don't Speak](https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 4:23 |
+| 71 | [Don't Speak](https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 4:23 |
+| 72 | [Nothing Compares 2 U](https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy) | 4:40 |
 | 73 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
 | 74 | [Zombie \- Acoustic Version](https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:01 |
 | 75 | [High And Dry](https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 4:17 |

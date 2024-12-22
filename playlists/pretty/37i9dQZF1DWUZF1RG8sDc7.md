@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,830 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,940 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 52 | [Dilo](https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o), [Herold Rivera](https://open.spotify.com/artist/4SeZ9gXLtR9Jcols3Blk1R), [Conexión Carito](https://open.spotify.com/artist/6Sj4mpcuLT9GZK2MQdqEIN) | [Destellos de Amor](https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r) | 4:15 |
 | 53 | [Vivo por Ti](https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Son los Gigantes](https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu) | 4:39 |
 | 54 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
-| 55 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/0xkSIbrN1wLCjRHSZjpNHv) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE) | 4:58 |
-| 56 | [A Pesar de Todo](https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ) | [La Combinación Vallenata](https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO) | 4:32 |
+| 55 | [A Pesar de Todo](https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ) | [La Combinación Vallenata](https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO) | 4:32 |
+| 56 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/0xkSIbrN1wLCjRHSZjpNHv) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE) | 4:58 |
 | 57 | [A Besitos](https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:27 |
 | 58 | [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:55 |
 | 59 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
-| 60 | [Me Vas A Extrañar](https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE) | 4:47 |
+| 60 | [Quiero Volar](https://open.spotify.com/track/7CiRpT0IWsiYUoasP6ZiUt) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jr\. Santiago](https://open.spotify.com/artist/4VN2AdbQ4MoBdtix3JbA21), [Julián Rojas](https://open.spotify.com/artist/3TXxyYKiTBCD2kpenWIUCu) | [La Combinación Vallenata Elite, Vol\. 5](https://open.spotify.com/album/79rVP1bPDpu4JtPhBZ0VBY) | 4:57 |
 
 Snapshot ID: `ZgTL0AAAAADNo3/zOubNWtG7VkuAAqq8`

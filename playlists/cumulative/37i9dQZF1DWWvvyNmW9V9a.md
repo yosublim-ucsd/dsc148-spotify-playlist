@@ -4,7 +4,7 @@
 
 > nice catch, cheer!
 
-1,899 songs - 4 day 3 hr 14 min
+1,900 songs - 4 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Backstabber](https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:06 | 2022-02-18 | 2022-07-30 |
 | [Backwards \(feat\. Knox\)](https://open.spotify.com/track/6GgVR79vDpKNuHmULz7loA) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Backwards \(feat\. Knox\)](https://open.spotify.com/album/2WjAg7qrEs39TCmltinppH) | 3:10 | 2023-06-30 | 2023-07-22 |
 | [bad 4 u](https://open.spotify.com/track/2wYbz8CZCl2px8fruLPvqC) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [bad 4 u](https://open.spotify.com/album/3tDTXI67RJXUKso222o3VN) | 2:26 | 2024-06-21 | 2024-07-19 |
+| [Bad At Love](https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe Plus\)](https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx) | 3:01 | 2024-12-21 |  |
 | [Bad Blood \(Taylor's Version\)](https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:31 | 2024-07-12 | 2024-07-19 |
 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 | 2023-11-10 | 2024-01-20 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 | 2022-09-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > ¡Nos vemos el 16, 17 y 18 de Febrero en Las Estacas para celebrar juntos! Compra tus entradas <a href="https://bahidora.com//"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,286 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,288 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 9 | [COLMILLO](https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 4:25 |
 | 10 | [FF4](https://open.spotify.com/track/39nSL4qbk0rsGNSVJb5TWK) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flamagra](https://open.spotify.com/album/6tC2ERExm7n7JEDkHOEFs5) | 1:11 |
 | 11 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 |
-| 12 | [REPROGRAMAR](https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:34 |
+| 12 | [REPROGRAMAR](https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:34 |
 | 13 | [Johannesburg](https://open.spotify.com/track/7n2kFvSGMN51HVITbVgyu9) | [Africa Express](https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm), [Sibot](https://open.spotify.com/artist/2wNRj72waNbqPsa3RvJ6yQ), [Radio 123](https://open.spotify.com/artist/1DDCmucJZQp4pXZpCFoTMw), [Morena Leraba](https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO), [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [EGOLI](https://open.spotify.com/album/6XOtavVWhCDQTn6o10QeUB) | 3:55 |
 | 14 | [Black Gold](https://open.spotify.com/track/1TVEhev5VxW1tdP1TVEvdT) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 1:35 |
 | 15 | [Agua Congas](https://open.spotify.com/track/1wJSK0ZBvpaLTe6Y60WaFa) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/0kOvMwR9FHGcheXSVTWhwF) | 7:12 |

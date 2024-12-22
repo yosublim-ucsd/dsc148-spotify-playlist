@@ -421,6 +421,32 @@
     },
     {
       "album": {
+        "name": "Project Z",
+        "url": "https://open.spotify.com/album/477j0umdJe3x4fgst9dp17"
+      },
+      "artists": [
+        {
+          "name": "Zdot",
+          "url": "https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN"
+        },
+        {
+          "name": "Kal Lavelle",
+          "url": "https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR"
+        },
+        {
+          "name": "Fem Fel",
+          "url": "https://open.spotify.com/artist/61NJMGxlvjOHmWCuJn13sc"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208358,
+      "name": "Time Is Now",
+      "url": "https://open.spotify.com/track/3Qvo8jqssKxu0f5EyP3IJF"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/6frJVs66js2iZrJB7DKz1V"
       },

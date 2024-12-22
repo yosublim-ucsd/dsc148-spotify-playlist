@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,824 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,827 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 22 | [Ayeyi](https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd), [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [I Am Noble](https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF) | 4:04 |
 | 23 | [Okamafo Jesus](https://open.spotify.com/track/6HHgiMp6laU0gW41fBgJzS) | [Amy Newman](https://open.spotify.com/artist/4wfnvecs6YukRABU5mTyQS) | [Ma Metsi Biara](https://open.spotify.com/album/3i0IMncESDwizxHybc50rp) | 5:36 |
 | 24 | [Hold On](https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW) | [Bernice Offei](https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex) | [Hold On](https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn) | 7:38 |
-| 25 | [Okura Yen Mu](https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Mahunu Awurade](https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS) | 5:59 |
-| 26 | [Adehye Mogya](https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV) | [Anita Afriyie](https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5) | [My Testimony 2015 \- 2017](https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y) | 5:25 |
+| 25 | [Adehye Mogya](https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV) | [Anita Afriyie](https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5) | [My Testimony 2015 \- 2017](https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y) | 5:25 |
+| 26 | [Okura Yen Mu](https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Mahunu Awurade](https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS) | 5:59 |
 | 27 | [Obi Nyanime](https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5) | [Patience Nyarko](https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI) | [Obi Nyanime](https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ) | 6:14 |
 | 28 | [Wo Ntaban](https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Aseda](https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ) | 7:07 |
 | 29 | [Aseda Nwom](https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:01 |

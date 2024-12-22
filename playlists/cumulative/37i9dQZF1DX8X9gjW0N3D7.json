@@ -510,19 +510,19 @@
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        },
-        {
           "name": "Aliocha Schneider",
           "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172000,
-      "name": "Ensemble",
+      "name": "Ensemble (feat. Charlotte Cardin)",
       "url": "https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw"
     },
     {

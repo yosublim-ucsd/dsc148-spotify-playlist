@@ -1,6 +1,6 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Bibio on cover.",
-  "num_followers": 200323,
+  "num_followers": 200355,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "Something Ephemeral",
+        "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        },
+        {
+          "name": "Moshimoss",
+          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "When the Earth Yelled Back at Me",
+      "url": "https://open.spotify.com/track/0zUJd5WA41CfvYmcADOo88"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "A Model of Reality Reworks",
         "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 171500,
       "name": "A Model Of Reality - Jan Steiner Granular Classics Remix",
       "url": "https://open.spotify.com/track/5PyP6a6vHgsxfcvz5ocNz2"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Something Ephemeral",
-        "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        },
-        {
-          "name": "Moshimoss",
-          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "When the Earth Yelled Back at Me",
-      "url": "https://open.spotify.com/track/0zUJd5WA41CfvYmcADOo88"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -667,46 +667,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Lifeglow",
-        "url": "https://open.spotify.com/album/0Vi8OowBlaTJrzk7gTLJ3d"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 142090,
-      "name": "departure",
-      "url": "https://open.spotify.com/track/3h3uBXxBqwc2fEb3K77IZh"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Movement VII",
-        "url": "https://open.spotify.com/album/0ujk8QGeteu9u4Ntm5JbYp"
-      },
-      "artists": [
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 197777,
-      "name": "Movement VII",
-      "url": "https://open.spotify.com/track/1KnHu2HptVLiKUPn90842Z"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "everybody's gone home (+ slowed version)",
         "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
       },
@@ -731,22 +691,42 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
-        "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
+        "name": "Movement VII",
+        "url": "https://open.spotify.com/album/0ujk8QGeteu9u4Ntm5JbYp"
       },
       "artists": [
         {
-          "name": "Chill Advisor",
-          "url": "https://open.spotify.com/artist/2POmRsS3AGB7NAbw5QBqHj"
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
         },
         {
-          "name": "Zazenkai",
-          "url": "https://open.spotify.com/artist/53SJovBw6wYRNkrqfccLLh"
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Introducing - Zazenkai Escape Ambient Re-Work",
-      "url": "https://open.spotify.com/track/3U4UtwEsN53RimSfhaIHhL"
+      "duration_ms": 197777,
+      "name": "Movement VII",
+      "url": "https://open.spotify.com/track/1KnHu2HptVLiKUPn90842Z"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Lifeglow",
+        "url": "https://open.spotify.com/album/0Vi8OowBlaTJrzk7gTLJ3d"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 142090,
+      "name": "departure",
+      "url": "https://open.spotify.com/track/3h3uBXxBqwc2fEb3K77IZh"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -763,6 +743,26 @@
       "duration_ms": 197335,
       "name": "LUN",
       "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
+        "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
+      },
+      "artists": [
+        {
+          "name": "Chill Advisor",
+          "url": "https://open.spotify.com/artist/2POmRsS3AGB7NAbw5QBqHj"
+        },
+        {
+          "name": "Zazenkai",
+          "url": "https://open.spotify.com/artist/53SJovBw6wYRNkrqfccLLh"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Introducing - Zazenkai Escape Ambient Re-Work",
+      "url": "https://open.spotify.com/track/3U4UtwEsN53RimSfhaIHhL"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/1Ey5eicbpQzd3nVP8kBYzu"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        }
-      ],
-      "duration_ms": 172001,
-      "name": "Floweret",
-      "url": "https://open.spotify.com/track/55EKqJvyHOnTVNUKFM6RIv"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Receiving (Jon Hopkins Piano Version)",
         "url": "https://open.spotify.com/album/2mKJJ94vYGsYgPNDietDiU"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 383118,
       "name": "Receiving (Jon Hopkins Piano Version)",
       "url": "https://open.spotify.com/track/1qVqPwp9kym1MJxhkC3E8a"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/1Ey5eicbpQzd3nVP8kBYzu"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        }
+      ],
+      "duration_ms": 172001,
+      "name": "Floweret",
+      "url": "https://open.spotify.com/track/55EKqJvyHOnTVNUKFM6RIv"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Westwind",
-        "url": "https://open.spotify.com/album/54QBiA3s2a0taeJvZo0h8j"
-      },
-      "artists": [
-        {
-          "name": "The Field Tapes",
-          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
-        },
-        {
-          "name": "illi mel",
-          "url": "https://open.spotify.com/artist/2cpa8rq1DM4WGuFdNHWUnP"
-        }
-      ],
-      "duration_ms": 142012,
-      "name": "Westwind",
-      "url": "https://open.spotify.com/track/0mEgHC8L8LkgnX9PADMq5z"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Movement VI",
         "url": "https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 208000,
       "name": "Movement VI",
       "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Westwind",
+        "url": "https://open.spotify.com/album/54QBiA3s2a0taeJvZo0h8j"
+      },
+      "artists": [
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "illi mel",
+          "url": "https://open.spotify.com/artist/2cpa8rq1DM4WGuFdNHWUnP"
+        }
+      ],
+      "duration_ms": 142012,
+      "name": "Westwind",
+      "url": "https://open.spotify.com/track/0mEgHC8L8LkgnX9PADMq5z"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Night Horns (edit)",
-        "url": "https://open.spotify.com/album/1HJUMFF5Araxoy91yZkh03"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 503313,
-      "name": "Night Horns (edit)",
-      "url": "https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "!",
-        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+        "name": "Night Horns (edit)",
+        "url": "https://open.spotify.com/album/1HJUMFF5Araxoy91yZkh03"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+      "duration_ms": 503313,
+      "name": "Night Horns (edit)",
+      "url": "https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 173500,
       "name": "When The Sun Comes Out",
       "url": "https://open.spotify.com/track/19fWeHgp9MBX16WMmh3Ayh"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Spirit Loop",
-        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Spirit Loop",
-      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Point Of Entry",
         "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
+        "name": "Spirit Loop",
+        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 118133,
-      "name": "Morning Tides",
-      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
+      "duration_ms": 245500,
+      "name": "Spirit Loop",
+      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Axis Of Light",
-        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
       },
       "artists": [
         {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 217960,
-      "name": "Drip In The Cave",
-      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
+      "duration_ms": 118133,
+      "name": "Morning Tides",
+      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1439,22 +1423,18 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Dear (Haruhisa Tanaka Remix)",
-        "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
       },
       "artists": [
         {
-          "name": "I.P.U",
-          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
-        },
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
         }
       ],
-      "duration_ms": 130280,
-      "name": "Dear - Haruhisa Tanaka Remix",
-      "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1471,6 +1451,26 @@
       "duration_ms": 155472,
       "name": "Winter Cop",
       "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Dear (Haruhisa Tanaka Remix)",
+        "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
+      },
+      "artists": [
+        {
+          "name": "I.P.U",
+          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
+        },
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 130280,
+      "name": "Dear - Haruhisa Tanaka Remix",
+      "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
     },
     {
       "added_at": "2024-11-29 04:00:00",

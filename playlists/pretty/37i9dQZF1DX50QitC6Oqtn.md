@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,479,053 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,479,120 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 48 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 |
 | 49 | [Break My Heart](https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Break My Heart](https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs) | 3:41 |
 | 50 | [Ruin My Life](https://open.spotify.com/track/5tAa8Uaqr4VvA3693mbIhU) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Ruin My Life](https://open.spotify.com/album/2BM5FQCILC33Va2jOZ11Mu) | 3:10 |
-| 51 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 |
-| 52 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
+| 51 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
+| 52 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 |
 | 53 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/1ip2IGDWMrUmlaepEbWlL8) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9) | 4:10 |
 | 54 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 | 55 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 85 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 |
 | 86 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 |
 | 87 | [All These Years](https://open.spotify.com/track/4XLu3tTSZiPFVC9mmuR6Zp) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:44 |
-| 88 | [17](https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:02 |
-| 89 | [Don't Leave Me Now](https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Cup Of Beats](https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF) | 3:15 |
+| 88 | [Don't Leave Me Now](https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Cup Of Beats](https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF) | 3:15 |
+| 89 | [17](https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:02 |
 | 90 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
 | 91 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 |
 | 92 | [I Want It All](https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [I Want It All](https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi) | 3:07 |

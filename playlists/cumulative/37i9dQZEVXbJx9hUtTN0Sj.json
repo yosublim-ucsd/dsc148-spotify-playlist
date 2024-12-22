@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 75697,
       "name": "ACIDO",
       "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 130546,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
@@ -3442,6 +3442,24 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
+    },
+    {
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134097,
+      "name": "CATFISH",
+      "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
     },
     {
       "album": {
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 579293,
       "name": "Dance With The Devil",
       "url": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM"
@@ -11094,7 +11112,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 125437,
       "name": "Langzaufen",
       "url": "https://open.spotify.com/track/30t6FC2BeqkUQDbrKXx0uT"
@@ -11588,7 +11606,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -17536,7 +17554,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 140975,
       "name": "SIKTIR GIT",
       "url": "https://open.spotify.com/track/1QWk4bSN9a8sY4T3wdPdij"
@@ -21516,6 +21534,24 @@
       "duration_ms": 185066,
       "name": "We Will Rave",
       "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"
+    },
+    {
+      "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 
 > 유저별 맞춤으로 추천되는 힙한 노래들을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,747 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,939 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 24 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 |
 | 25 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:36 |
 | 26 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
-| 27 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
+| 27 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
 | 28 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
 | 29 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 |
 | 30 | [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 1:54 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 33 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 34 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 |
 | 35 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
-| 36 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
+| 36 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
 | 37 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
 | 38 | [Young Metro](https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:25 |
 | 39 | [all of me](https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:18 |

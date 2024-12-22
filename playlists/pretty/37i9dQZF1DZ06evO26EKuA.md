@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,484 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,584 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 43 | [Que Vivan Las Mujeres](https://open.spotify.com/track/42Ja72gm1M9ddPKoIVotVI) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 2:32 |
 | 44 | [La Tambora Va A Sonar](https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [La Mejor Colección De Corridos](https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ) | 2:37 |
 | 45 | [Ya Viene Amaneciendo](https://open.spotify.com/track/5AVJgFRGY7zv55T2XcuJcH) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 2:17 |
-| 46 | [Y No Me Lo Das](https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:04 |
+| 46 | [El Sauce Y La Palma \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/40vKoQ20GrIVle81a35iR4) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:07 |
 | 47 | [La Banda Borracha](https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 4:10 |
-| 48 | [El Sauce Y La Palma \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/40vKoQ20GrIVle81a35iR4) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:07 |
+| 48 | [Y No Me Lo Das](https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:04 |
 | 49 | [Hola Y Adios](https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 3:27 |
 | 50 | [Si Me Ven](https://open.spotify.com/track/68TZFbe7BSQaNYSqpXbt7G) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:44 |
 
-Snapshot ID: `Z2NiAAAAAAAMywvAfrb8V5WApQW2YQBx`
+Snapshot ID: `Z2SzgAAAAABeILtavPOojqtfNQ/8kCJk`

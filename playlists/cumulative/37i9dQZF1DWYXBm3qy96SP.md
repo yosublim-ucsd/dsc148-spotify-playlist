@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Imagine Dragons
 
-1,483 songs - 3 day 13 hr 15 min
+1,484 songs - 3 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Bright Light](https://open.spotify.com/track/7wXJBljsXeoWnq4ziW6sfB) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [DARKFIGHTER](https://open.spotify.com/album/5drsoG7zv1wwOSnKBnW2EZ) | 4:33 | 2023-06-01 | 2023-06-09 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-09 | 2024-08-30 |
 | [Broke Zodiac](https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 2:45 | 2023-09-28 | 2023-10-06 |
-| [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-05 |  |
+| [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-05 | 2024-12-22 |
 | [BROKEN GAMES \- Remix](https://open.spotify.com/track/55QWScNHZIgJ6qXJc4ICGh) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [BROKEN GAMES \(Remix\)](https://open.spotify.com/album/4vmmbgywov4RSGDKbzr86D) | 3:15 | 2023-12-21 | 2024-01-12 |
 | [Broken Headphones](https://open.spotify.com/track/5eLvCWoVsiRkLGen6HMC4A) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Broken Headphones](https://open.spotify.com/album/6Z0NqW8Ww6x6nEeCCHqpd0) | 3:17 | 2024-12-19 |  |
 | [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-02-29 | 2024-05-18 |
@@ -849,6 +849,7 @@
 | [Move On](https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Move On](https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3) | 2:41 | 2023-10-05 | 2023-10-13 |
 | [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 | 2023-10-19 | 2023-10-27 |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2024-06-28 |  |
+| [Mr\. Please](https://open.spotify.com/track/2CmbRvQvLiNoYb7MCNwnUb) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [The Human Animal](https://open.spotify.com/album/25o0yLGRjV45PhksQjxvAD) | 2:33 | 2024-12-19 |  |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-28 | 2023-10-06 |
 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/1LKSGgWMCZBWm4Sd1Foixw) | 3:21 | 2024-01-18 | 2024-02-02 |
 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-01 | 2024-05-03 |

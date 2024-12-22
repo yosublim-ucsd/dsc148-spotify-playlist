@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con El Bogueto y Yeri Mua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,394,981 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,395,328 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 40 | [Mami Tú](https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Mami Tú](https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa) | 2:43 |
 | 41 | [XQ ERES ASÍ](https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [XQ ERES ASÍ](https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM) | 3:32 |
 | 42 | [2AM](https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [2AM](https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB) | 3:16 |
-| 43 | [PELEAMOS](https://open.spotify.com/track/0oYGloL7eVBTt1at9I8tcM) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Vainy](https://open.spotify.com/artist/41mes6x3rlUZzgRAyB8jYG) | [PELEAMOS](https://open.spotify.com/album/5ctQyFcrrMN7cPaRMB78MI) | 2:41 |
+| 43 | [PELEAMOS](https://open.spotify.com/track/0oYGloL7eVBTt1at9I8tcM) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [VAINY](https://open.spotify.com/artist/41mes6x3rlUZzgRAyB8jYG) | [PELEAMOS](https://open.spotify.com/album/5ctQyFcrrMN7cPaRMB78MI) | 2:41 |
 | 44 | [Epica](https://open.spotify.com/track/61zBrSzch8LvD0oeOhC2LN) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 3:00 |
 | 45 | [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:45 |
 | 46 | [PELIGROSA](https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:14 |

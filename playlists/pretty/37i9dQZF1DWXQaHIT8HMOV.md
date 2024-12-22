@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Bebe Cool
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,086 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,095 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 16 | [Anjagala](https://open.spotify.com/track/46t5oaXuW4qRcNgUJwbyEh) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Anjagala](https://open.spotify.com/album/1MEpCwO1utY47Doyv5pdxR) | 3:30 |
 | 17 | [DON'T RUSH](https://open.spotify.com/track/6Vqfc1yfFRCNWXSq3FArkz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [DON'T RUSH](https://open.spotify.com/album/6AllUgGxvhDssR3aJVfhMp) | 3:12 |
 | 18 | [Ntandaalo](https://open.spotify.com/track/2hbfTESOOJgWpVLVv9smGh) | [Green Daddy](https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU) | [Ntandaalo](https://open.spotify.com/album/1he50vQDRRKHl4pnHHfiF2) | 2:28 |
-| 19 | [Zonto](https://open.spotify.com/track/2sE11WlM7FqWxMunI6qFyz) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea), [Dejeay LL](https://open.spotify.com/artist/0Mb4Yhhn75GluQJyd1I6bZ) | [Zonto](https://open.spotify.com/album/6m7ZgmWVJG4fHv7RwdKjih) | 3:02 |
+| 19 | [Zonto](https://open.spotify.com/track/2sE11WlM7FqWxMunI6qFyz) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea), [Deejay LL](https://open.spotify.com/artist/3atlFtpYb4W0UMNdJn4J3w) | [Zonto](https://open.spotify.com/album/6m7ZgmWVJG4fHv7RwdKjih) | 3:02 |
 | 20 | [Ababadewo](https://open.spotify.com/track/2Msw3vEreAbPWR0evMGURw) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Ababadewo](https://open.spotify.com/album/3v5WwO7asCc1HDGj6XYske) | 4:00 |
 | 21 | [Mademoiselle](https://open.spotify.com/track/7m5dhRTG7iw0rdbiBUpgWy) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [With the Gs](https://open.spotify.com/album/2iImAl76wIIxKAmg5oR0Pg) | 2:10 |
 | 22 | [Ndibyange](https://open.spotify.com/track/5T5drObETBplasLya0qCOZ) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0), [King Toppa](https://open.spotify.com/artist/0R70tgeUv5WB6GWxAUawO3) | [Ndibyange](https://open.spotify.com/album/0ZIqLyzQhVCAYjHAk3RPVe) | 3:03 |

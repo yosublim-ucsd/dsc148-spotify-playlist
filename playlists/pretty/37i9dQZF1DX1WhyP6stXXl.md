@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: philine
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,208 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,302 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 4 | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/6Aa9YyvEYFUaMRFc9obYjP) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/7gSBUvyOmm3Ek89IwPEZyX) | 2:01 |
 | 5 | [Hurts Like This](https://open.spotify.com/track/5qzsXiaMMfWff2lVfNOnSM) | [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Hurts Like This](https://open.spotify.com/album/3hMvWnb5nvcojCsr9fIL4D) | 3:08 |
 | 6 | [Need You Now](https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [December](https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW) | 2:28 |
-| 7 | [Eyes Dried Over](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
+| 7 | [Eyes Dried Over \(feat\. Tom Walker\)](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
 | 8 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 |
 | 9 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 |
 | 10 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |

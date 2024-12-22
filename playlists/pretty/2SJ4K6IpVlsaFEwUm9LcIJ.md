@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,478 likes - 53 songs - 3 hr 30 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,486 likes - 53 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 52 | [Goodbye](https://open.spotify.com/track/4wbDALtjwuwBxtMgjuumoi) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Blind](https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J) | 4:44 |
 | 53 | [Música da Lagoa](https://open.spotify.com/track/55Cp1NZP8tDRDgKF2RTEew) | [Hermeto Pascoal](https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s), [Itiberê Zwarg](https://open.spotify.com/artist/5QSnCnq2IL4W4fWHfcJbSv), [Jovino Santos Neto](https://open.spotify.com/artist/5GMCyLTNLBsGbQ5bQBeULq), [Carlos Malta](https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM), [Marcio Bahia](https://open.spotify.com/artist/17bZjpj6dplqUsNH8TItKq) | [Música da Lagoa](https://open.spotify.com/album/51Ga06OSvsIAOy4yadDQuF) | 4:17 |
 
-Snapshot ID: `AAALkWNQBX1Pn2w+jfNQHqSgTDqYJ+cI`
+Snapshot ID: `AAALk4yvfrPjX1LU1stSO0ObOuB0e7e3`

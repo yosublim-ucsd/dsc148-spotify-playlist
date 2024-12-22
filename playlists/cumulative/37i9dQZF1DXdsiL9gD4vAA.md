@@ -4,10 +4,11 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-181 songs - 16 hr 15 min
+183 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aaghaz\-E\-Ishq](https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo) | [Satyajeet Jena](https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7), [Mrityunjay Pandey](https://open.spotify.com/artist/3oWgKfqTjiy5zDRX5dL5ps) | [Aaghaz\-E\-Ishq](https://open.spotify.com/album/4uq2U5N93OI2poB5vN4urI) | 4:21 | 2024-12-21 |  |
 | [Aaina](https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Aaina](https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4) | 3:12 | 2023-04-05 |  |
 | [Aaine Ko Chehra](https://open.spotify.com/track/4UNzg3kZLNUXIB686UK9jJ) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Aaine Ko Chehra](https://open.spotify.com/album/0mvWrFlhDITB3R8JM3KIF7) | 6:23 | 2024-06-07 |  |
 | [Aaj Jaane Ki Zid Na Karo](https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY) | [Ghazal Lounge](https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW) | 6:40 | 2024-02-07 |  |
@@ -153,6 +154,7 @@
 | [Rasm \-E\- Ulfat Sikha Gaya Koi](https://open.spotify.com/track/6IGwyk06551osZprqKSJPk) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 3:53 | 2021-12-01 | 2023-03-03 |
 | [Ravi](https://open.spotify.com/track/0sT56zcByY6pW1EQcNDCla) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Ravi](https://open.spotify.com/album/3rI0HlLjnNxqywLJsu7VTr) | 3:49 | 2023-03-20 |  |
 | [Rehna Chai Da](https://open.spotify.com/track/1fXEiq31msWJIXLd2227HD) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 4:49 | 2021-12-01 | 2023-04-06 |
+| [Rooh](https://open.spotify.com/track/7zCpzTtENhE68RFR6IqMEK) | [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Qafilah](https://open.spotify.com/artist/0Vla5cpeRPCjHktZzvsnOd) | [Rooh](https://open.spotify.com/album/7p6PpWdahXJb6XQaR8ly2e) | 5:17 | 2024-12-21 |  |
 | [Rooh Dekhi Hai Kabhi](https://open.spotify.com/track/1cQz7rs68trlKqWp7YeeYY) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 1:41 | 2023-09-14 | 2024-04-19 |
 | [Rooh Dekhi Hai Kabhi](https://open.spotify.com/track/6iav7ommATFG8HxvhF4pf6) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.1](https://open.spotify.com/album/5EaGDGV9pZhrduNvpxLUoy) | 1:41 | 2024-04-18 |  |
 | [Saiyaan Hatto Jaao](https://open.spotify.com/track/647uP7tkpOUIdaDNz0YX1Q) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Barnali Chattopadhyay](https://open.spotify.com/artist/0PuNZqpWjKq5qMLueUM2UF), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 5:13 | 2024-05-16 |  |

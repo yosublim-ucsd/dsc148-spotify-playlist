@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 
 > A llorar a la llorería.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,105 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,086 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9235ICuUcIM.md) - [plain]
 | 47 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 |
 | 48 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
 | 49 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
-| 50 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
+| 50 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
 
 Snapshot ID: `Z1KElAAAAABqd2GL1yUvXjkzA0yLJo8p`

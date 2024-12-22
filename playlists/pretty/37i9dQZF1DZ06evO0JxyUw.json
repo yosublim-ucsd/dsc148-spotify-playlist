@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 268965,
+  "num_followers": 268987,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAADwJkzv8NVHqNpVVvx/Mjum",
+  "snapshot_id": "Z2SzgAAAAACV3GLrvYgaK4W8iayQ+m6n",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 217996,
-      "name": "Reflection (2020)",
-      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
+      "duration_ms": 304013,
+      "name": "The Voice Within",
+      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 304013,
-      "name": "The Voice Within",
-      "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
+      "duration_ms": 217996,
+      "name": "Reflection (2020)",
+      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
     },
     {
       "added_at": null,
@@ -955,22 +955,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Particles",
-        "url": "https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB"
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
       },
       "artists": [
         {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 262820,
-      "name": "Fall On Me",
-      "url": "https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ"
+      "duration_ms": 246146,
+      "name": "Tell Me (feat. Christina Aguilera)",
+      "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta de las canciones pop para toda la familia curadas por Gru y los Minions! ",
-  "num_followers": 244717,
+  "num_followers": 244736,
   "original_name": "Pop para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-11-29 09:58:30",
       "album": {
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2024-11-29 09:58:30",
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2024-11-29 09:58:30",
-      "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "added_at": "2024-11-29 09:58:30",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-11-29 09:58:30",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2024-11-29 09:58:30",
+      "album": {
         "name": "CONTIGO (with Ti\u00ebsto)",
         "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
-    },
-    {
-      "added_at": "2024-11-29 09:58:30",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2024-11-29 09:58:30",

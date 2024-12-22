@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,979 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,989 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 45 | [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 |
 | 46 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
 | 47 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
-| 48 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
-| 49 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 |
-| 50 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 |
-| 51 | [Leave](https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:11 |
+| 48 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 |
+| 49 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
+| 50 | [Leave](https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:11 |
+| 51 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 |
 | 52 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 |
 | 53 | [MY RIDE](https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50) | [JASMINE](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [MY RIDE](https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2) | 3:06 |
 | 54 | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 56 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
 | 57 | [At Night \(feat\. Kuzi\)](https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 2:23 |
 | 58 | [Easily\(feat.MELOH\)](https://open.spotify.com/track/5tB6uXVvuviruwye8meGGj) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:08 |
-| 59 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 |
-| 60 | [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 |
+| 59 | [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 |
+| 60 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 |
 
 Snapshot ID: `Z0mN5wAAAABMK9N6iPGCYX8dl55Pn8kv`

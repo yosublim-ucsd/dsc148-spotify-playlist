@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 
 > Best Anime Songs in 2024! 2024年にプレイリスト「Anime Now」で聴かれた楽曲を総まとめ。cover: SPYAIR
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,453 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,575 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 | 37 | [次回予告](https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [次回予告](https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3) | 3:08 |
 | 38 | [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 |
 | 39 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
-| 40 | [Eureka](https://open.spotify.com/track/5N0J0YLHluyIMdrYf8TfE4) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Eureka](https://open.spotify.com/album/5HfCLJOXg3OJJbr6Lz9C67) | 3:45 |
+| 40 | [Eureka](https://open.spotify.com/track/5N0J0YLHluyIMdrYf8TfE4) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Eureka](https://open.spotify.com/album/5HfCLJOXg3OJJbr6Lz9C67) | 3:45 |
 | 41 | [スイートメモリー](https://open.spotify.com/track/3PBXpwx24lmuLMW6ZUQDdI) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Under Blue](https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd) | 3:18 |
 | 42 | [相思相愛](https://open.spotify.com/track/2fx4KQ5OqhQm4aNJBwrC6A) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [残心残暑](https://open.spotify.com/album/7jP1J26XhTXiLzVAIcDc0D) | 4:22 |
 | 43 | [「僕は...」](https://open.spotify.com/track/7K9Go4rPZqNWdYzy5wDNhE) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [朝露は木漏れ日に溶けて](https://open.spotify.com/album/3LfOHhwP8Uh3t9rcdcb2Tr) | 3:59 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-54 songs - 2 hr 47 min
+55 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [99%](https://open.spotify.com/track/0oUJB1ASvUvvO6xDjOvC85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:10 | 2024-05-01 |  |
 | [Alone In My Room \(Gone\)](https://open.spotify.com/track/1Hoa0Hp9tTnSGaqo0r3rXh) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:35 | 2024-05-01 |  |
 | [Back to Basics \(feat\. GRACEY\)](https://open.spotify.com/track/43Rr38uDHvtmtvfAwGwHjj) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:32 | 2024-05-01 |  |
+| [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 | 2024-12-21 |  |
 | [BETTER OFF](https://open.spotify.com/track/0yEMSYJf0OPyZuhkGs1DBa) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:48 | 2024-05-01 |  |
 | [By Your Side](https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:21 | 2024-05-01 |  |
 | [Can't Be Friends](https://open.spotify.com/track/3HjBenHdbppyR8Y3vVUe85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 2:47 | 2024-05-01 |  |

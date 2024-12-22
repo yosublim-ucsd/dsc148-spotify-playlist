@@ -4,7 +4,7 @@
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Half Moon Run
 
-359 songs - 22 hr 31 min
+360 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Hope](https://open.spotify.com/track/4uuqWwUFXj805VMI3fm4F6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Hope](https://open.spotify.com/album/3EOlCorYhw7KTFrTBNlyTi) | 3:04 | 2022-04-15 | 2022-07-29 |
 | [Hot Tears](https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 4:07 | 2022-04-15 | 2024-06-10 |
 | [Hotel Bar](https://open.spotify.com/track/3pXv6E1m7E64EDX5s8FUMn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [I Love You\. It's a Fever Dream.](https://open.spotify.com/album/21iUYmZgiaPv5xvfTYKqRs) | 4:29 | 2022-04-15 | 2022-06-01 |
-| [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2024-01-08 |  |
+| [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2024-01-08 | 2024-12-22 |
 | [Houston TX](https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2IsJvOVAVDq7aHN8sRhGni) | 5:16 | 2022-04-15 | 2022-07-29 |
 | [How Lucky](https://open.spotify.com/track/22YbmBNDcL1jACZIPuItR8) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/236ibaAindQ2qdAElNPTxL) | 3:23 | 2022-05-12 | 2022-07-29 |
 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 | 2022-07-27 | 2024-04-19 |
@@ -201,6 +201,7 @@
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2022-04-15 | 2024-07-12 |
 | [Long Time](https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:16 | 2022-07-27 | 2023-04-01 |
 | [Long Time](https://open.spotify.com/track/3seGRR8Uusj0vClRSbVCjI) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better When We're Falling Apart](https://open.spotify.com/album/0f2Ym8hI7QskvmmkJLSLTy) | 3:16 | 2022-04-15 | 2022-07-29 |
+| [Long Way Home](https://open.spotify.com/track/53CsKDkNAfwu2voe2zrpEF) | [Myriam Gendron](https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU) | [Mayday](https://open.spotify.com/album/68WcI67Cm1Ag9R6zNdqEBE) | 4:02 | 2024-12-20 |  |
 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2024-05-10 | 2024-12-21 |
 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 | 2023-03-31 | 2024-04-19 |
 | [Lost In The Light](https://open.spotify.com/track/0boz2COxgC376hg1Drao5V) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/78JxIticjNz5ZB3iNYEP6g) | 3:56 | 2024-04-12 |  |

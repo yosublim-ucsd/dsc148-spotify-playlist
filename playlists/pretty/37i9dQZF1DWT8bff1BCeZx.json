@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 19189,
+  "num_followers": 19194,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -729,26 +729,6 @@
       "url": "https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW"
     },
     {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "Malaika x Fridayy",
-        "url": "https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 248490,
-      "name": "Malaika x Fridayy",
-      "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
-    },
-    {
       "added_at": "2024-05-10 00:01:00",
       "album": {
         "name": "Oba Alasepe",
@@ -767,6 +747,26 @@
       "duration_ms": 271448,
       "name": "Oba Alasepe",
       "url": "https://open.spotify.com/track/5vv4lLVRcJOouMTJ2IKdBz"
+    },
+    {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "Malaika x Fridayy",
+        "url": "https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 248490,
+      "name": "Malaika x Fridayy",
+      "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -825,6 +825,26 @@
       "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
     },
     {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Grace Story",
+        "url": "https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        },
+        {
+          "name": "Ellie Scotte",
+          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+        }
+      ],
+      "duration_ms": 423093,
+      "name": "Grace Story",
+      "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Mo",
@@ -861,26 +881,6 @@
       "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
-      },
-      "artists": [
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        }
-      ],
-      "duration_ms": 162223,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
-    },
-    {
       "added_at": "2024-10-04 00:01:00",
       "album": {
         "name": "Dans Tes Mains",
@@ -901,24 +901,24 @@
       "url": "https://open.spotify.com/track/6p4ZhDKOj6TFSOI6xlzYgf"
     },
     {
-      "added_at": "2024-09-20 00:01:00",
+      "added_at": "2024-05-03 00:01:00",
       "album": {
-        "name": "Grace Story",
-        "url": "https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
       },
       "artists": [
         {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
         },
         {
-          "name": "Ellie Scotte",
-          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
         }
       ],
-      "duration_ms": 423093,
-      "name": "Grace Story",
-      "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
+      "duration_ms": 162223,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
     },
     {
       "added_at": "2024-01-26 00:01:00",

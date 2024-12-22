@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Fred Again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,786 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,784 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 9 | [Balloon \(feat\. Doechii\)](https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:34 |
 | 10 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
 | 11 | [RUFF RIDE](https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [RUFF RIDE](https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2) | 2:36 |
-| 12 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 12 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 13 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
 | 14 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 |
 | 15 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |

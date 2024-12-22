@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Hottest in the City",
+        "url": "https://open.spotify.com/album/7nP87PXdPv4oPYKWRc5x1z"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183001,
+      "name": "Hottest in the City",
+      "url": "https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4"
+    },
+    {
+      "album": {
         "name": "HUMBLE ME",
         "url": "https://open.spotify.com/album/6K0i2TgBy7x4agrBXIrnrF"
       },

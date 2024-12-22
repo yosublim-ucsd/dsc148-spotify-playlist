@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,696 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,770 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 33 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
 | 34 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
 | 35 | [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 |
-| 36 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
-| 37 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
+| 36 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
+| 37 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 38 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
 | 39 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
 | 40 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 |
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 66 | [White Roses](https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [White Roses](https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk) | 3:26 |
 | 67 | [Mountains](https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 4:09 |
 | 68 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
-| 69 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
-| 70 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
-| 71 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
-| 72 | [to be held](https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [to be held](https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI) | 3:54 |
+| 69 | [to be held](https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [to be held](https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI) | 3:54 |
+| 70 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 71 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 72 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 73 | [Is There a Place I Can Go](https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Junkyard Jazz](https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP) | 4:38 |
 | 74 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
-| 75 | [Ayayai](https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 2:50 |
-| 76 | [Twinkle](https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:14 |
+| 75 | [Twinkle](https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:14 |
+| 76 | [Ayayai](https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 2:50 |
 | 77 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
 | 78 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
 | 79 | [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 |

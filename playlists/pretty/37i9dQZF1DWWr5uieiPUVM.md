@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > e luanna é lá mulher de francesinha, tá tonto?!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,717 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,804 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

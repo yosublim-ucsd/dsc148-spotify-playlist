@@ -1,6 +1,6 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 647027,
+  "num_followers": 647011,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Best Song Ever",
-      "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Best Song Ever",
+      "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 181573,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Rover (feat. DTG)",
-        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "DTG",
-          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "Rover (feat. DTG)",
-      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Gecko (Overdrive) [Radio Edit]",
         "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 165440,
       "name": "Gecko (Overdrive) - Radio Edit",
       "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Rover (feat. DTG)",
+        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "DTG",
+          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "Rover (feat. DTG)",
+      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Proudly Present... A Guide to Love, Loss & Desperation",
-        "url": "https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "Let's Dance to Joy Division",
-      "url": "https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "No More Idols",
         "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 233666,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Proudly Present... A Guide to Love, Loss & Desperation",
+        "url": "https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "Let's Dance to Joy Division",
+      "url": "https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h"
     }
   ],
   "unique_name": "Monday Motivation",

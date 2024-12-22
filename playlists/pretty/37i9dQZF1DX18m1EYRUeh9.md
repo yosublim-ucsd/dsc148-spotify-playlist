@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: O & The Mo
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,916 likes - 110 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,049 likes - 110 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

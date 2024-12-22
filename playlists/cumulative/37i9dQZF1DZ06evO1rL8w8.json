@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Ranchero Con Dinero",
+        "url": "https://open.spotify.com/album/5tTUdhDlIv1nbKVGujEZtg"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134208,
+      "name": "Ranchero Con Dinero",
+      "url": "https://open.spotify.com/track/53iLzcP6V12oTgzqKEuLKO"
+    },
+    {
+      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },

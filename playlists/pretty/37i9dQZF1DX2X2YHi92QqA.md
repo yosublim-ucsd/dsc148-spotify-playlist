@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Тепла музика в прохолодні дні ☕ ❄️🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,093 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,104 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 25 | [Christmas time is here](https://open.spotify.com/track/1bH4NqbJeiTIOPA2dWd6Qd) | [Lucas Bird](https://open.spotify.com/artist/6keyi1tIl9CeJf5M3ZHXT8) | [Christmas time is here](https://open.spotify.com/album/6QZFwvCfG8FWbIRRK3BjR5) | 1:59 |
 | 26 | [Відлюбилося](https://open.spotify.com/track/34b1BsvwGHVsZ63g7MaKHF) | [Averin](https://open.spotify.com/artist/5yDenXpJFxaiNa57V8Tvtx), [CHURSANOV](https://open.spotify.com/artist/5UqC0WSLyRoS6xGD8NA55e) | [Відлюбилося](https://open.spotify.com/album/7Drh1GDYNdKQKjahIjDwPw) | 2:33 |
 | 27 | [Цілуй](https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Цілуй](https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa) | 2:35 |
-| 28 | [Додому](https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U) | [Настя Балог](https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Додому](https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q) | 2:47 |
-| 29 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 |
+| 28 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 |
+| 29 | [Додому](https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U) | [Настя Балог](https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Додому](https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q) | 2:47 |
 | 30 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
 | 31 | [КАЖАНИ](https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [КАЖАНИ](https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG) | 3:05 |
 | 32 | [Тебе \- собі](https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Тебе \- собі](https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r) | 2:02 |
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 38 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
 | 39 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 |
 | 40 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
-| 41 | [Backslide](https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Backslide](https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX) | 3:11 |
-| 42 | [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 |
+| 41 | [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 |
+| 42 | [Backslide](https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Backslide](https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX) | 3:11 |
 | 43 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 |
-| 44 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 |
-| 45 | [Сюди](https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Сюди](https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP) | 3:00 |
+| 44 | [Сюди](https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Сюди](https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP) | 3:00 |
+| 45 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 |
 | 46 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
 | 47 | [я не знаю що зі мною](https://open.spotify.com/track/1mWzQhtZarlT4yqT6RVNot) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI), [NIKKITA](https://open.spotify.com/artist/6bg58Qmn99pP0ZG8JRR9OU) | [я не знаю що зі мною](https://open.spotify.com/album/3v0WU7u2CLiZYStmmiUQNE) | 3:17 |
 | 48 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 50 | [любов сильніша](https://open.spotify.com/track/6Uy69JIwmQY6kjTdL9jRah) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu), [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [любов сильніша](https://open.spotify.com/album/0uR8Wr5Oowkn5V8WbjDJ4p) | 2:55 |
 | 51 | [Карнізи](https://open.spotify.com/track/00h9eif2nfiEA1ykBFLvBZ) | [DOVI](https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Карнізи](https://open.spotify.com/album/39oe0p8Azz1pwo1UoP6qTR) | 2:35 |
 | 52 | [Циклон](https://open.spotify.com/track/1c1T8pmwyN93ZRW4RTBHY3) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Циклон](https://open.spotify.com/album/1EqpEl0CnUmiZb9hsf28d0) | 2:38 |
-| 53 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
-| 54 | [Босі](https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [Босі](https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU) | 2:24 |
+| 53 | [Босі](https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [Босі](https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU) | 2:24 |
+| 54 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
 | 55 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
 | 56 | [вальс під вибухи](https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [вальс під вибухи](https://open.spotify.com/album/2uxoj7vfms9GUFolkl3FFw) | 3:30 |
 | 57 | [Останні дні літа](https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL) | [Spiv Brativ](https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b) | [Останні дні літа](https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam) | 3:30 |
 | 58 | [Непомітний](https://open.spotify.com/track/3YfFBDpG4XkkUas9XlD2Ik) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Непомітний](https://open.spotify.com/album/6nnDtmtXqVhjvYr6njnsI9) | 2:33 |
-| 59 | [Убер](https://open.spotify.com/track/65zc8JAIiF5vfdccKfE5Y1) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD), [Igor Kirilenko](https://open.spotify.com/artist/25WK0IMTJSqIG7h1ONNkHu) | [Убер](https://open.spotify.com/album/4fRPSBWsuFEIyZVvMO0xVT) | 2:00 |
-| 60 | [Очі дівочі](https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy) | [ALISA](https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc) | [Очі дівочі](https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm) | 2:34 |
+| 59 | [Очі дівочі](https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy) | [ALISA](https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc) | [Очі дівочі](https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm) | 2:34 |
+| 60 | [Убер](https://open.spotify.com/track/65zc8JAIiF5vfdccKfE5Y1) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD), [Igor Kirilenko](https://open.spotify.com/artist/25WK0IMTJSqIG7h1ONNkHu) | [Убер](https://open.spotify.com/album/4fRPSBWsuFEIyZVvMO0xVT) | 2:00 |
 
 Snapshot ID: `Z2WaNwAAAABkJLWeiIcVvCIywCl8BcdP`

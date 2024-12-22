@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,937 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,948 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 4 | [Going Nowhere Slowly](https://open.spotify.com/track/7Li81J4JSt763RhK94qajP) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 3:33 |
 | 5 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |
 | 6 | [lon3ly](https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:44 |
-| 7 | [Eyes Dried Over](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
+| 7 | [Eyes Dried Over \(feat\. Tom Walker\)](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
 | 8 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
 | 9 | [Forgiveness](https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9) | 3:20 |
 | 10 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,084 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,090 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 21 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 22 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
 | 23 | [All I Wanted](https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 3:45 |
-| 24 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
-| 25 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 |
+| 24 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 |
+| 25 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
 | 26 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
 | 27 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 28 | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD) | 3:46 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 68 | [Breakdown](https://open.spotify.com/track/65bq75zQo5Eh1tnaV1kLNc) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [Underdog Alma Mater](https://open.spotify.com/album/1DXQ0idwKePZH7T1yU57gS) | 3:37 |
 | 69 | [Last Resort](https://open.spotify.com/track/5eek2X5459T1HoYJk2CKXv) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/3VdXq4YQIt3ugs05SjFmsD) | 3:19 |
 | 70 | [Somebody Told Me](https://open.spotify.com/track/7HGTkn2aX7MNdKs7nV2xBt) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:17 |
-| 71 | [Ohio Is for Lovers](https://open.spotify.com/track/6QfnvcOKsdN4Q6exUWVuzn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black and White \- Re\-Issue](https://open.spotify.com/album/1FPDKmotHS1ESWAgjUEqh2) | 4:04 |
+| 71 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 |
 | 72 | [Arizona](https://open.spotify.com/track/54jGdUgkPfGNVPVj0wlS3v) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:36 |
-| 73 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 |
+| 73 | [Ohio Is for Lovers](https://open.spotify.com/track/6QfnvcOKsdN4Q6exUWVuzn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black and White \- Re\-Issue](https://open.spotify.com/album/1FPDKmotHS1ESWAgjUEqh2) | 4:04 |
 | 74 | [February Air](https://open.spotify.com/track/2qE8wtbuZInZ1mMHl8m3Vv) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [LIGHTS EP](https://open.spotify.com/album/5XFXJzxheXIL7bCMxM5axD) | 3:48 |
 | 75 | [Death Of A Strawberry](https://open.spotify.com/track/0ZcQUwVyXgpUepJsvgOYgk) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Instant Gratification](https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e) | 4:10 |
 | 76 | [Dear Maria, Count Me In](https://open.spotify.com/track/0J69x3mqm7U6tBPKsjpsWR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/7GcuimRczCCOblhJr0NgzD) | 3:02 |

@@ -4,10 +4,11 @@
 
 > catch a vibe 🌹
 
-130 songs - 7 hr 1 min
+132 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-20 |  |
 | [5am in Paris](https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [5am in Paris](https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG) | 2:15 | 2024-04-11 |  |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-23 |  |
 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 | 2024-07-12 | 2024-09-03 |
@@ -24,13 +25,14 @@
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-07 |  |
 | [Chameleon](https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Change & Remain](https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln) | 2:55 | 2024-09-02 |  |
 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 | 2024-07-12 | 2024-09-03 |
+| [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 | 2024-12-20 |  |
 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 | 2024-03-28 | 2024-09-03 |
 | [Ciao](https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Ciao](https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE) | 3:45 | 2024-03-28 | 2024-09-19 |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-07-23 |  |
 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 | 2024-04-04 |  |
 | [crush](https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [crush](https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP) | 3:19 | 2024-03-28 | 2024-10-11 |
 | [Daydreaming](https://open.spotify.com/track/1YZmYp9jZ4Veq6lZpiuV69) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 3:01 | 2024-12-19 |  |
-| [Double Standards \(feat\. Sampha\)](https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i) | 5:01 | 2024-03-28 |  |
+| [Double Standards \(feat\. Sampha\)](https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i) | 5:01 | 2024-03-28 | 2024-12-22 |
 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 | 2024-09-02 |  |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-09-02 |  |
 | [Fake Can't Stay \- ft.JAE5](https://open.spotify.com/track/409pX3u1zVMQr5GG8LUmJ3) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Beyond Rea5onable Doubt](https://open.spotify.com/album/2zrRASXuB791xdPFFGWtTV) | 3:23 | 2024-11-07 | 2024-12-15 |
@@ -63,7 +65,7 @@
 | [Lavender](https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [A Man After God's Own Heart](https://open.spotify.com/album/7rTc2mMKVKpXG7DJVVdtCz) | 3:04 | 2024-12-19 |  |
 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 | 2024-03-28 | 2024-11-08 |
 | [Leo](https://open.spotify.com/track/4VwPMpZ4svZluuiZj9vNSM) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Leo](https://open.spotify.com/album/0gzJMcdE0Ghdvw4EMnaAfL) | 4:05 | 2024-04-18 | 2024-08-24 |
-| [Lil Mama Theme Song](https://open.spotify.com/track/0ZvdsKZ4pfXzqJDIX5z9NQ) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Lil Mama Theme Song](https://open.spotify.com/album/78oeiLjGLP80U0YbrQrLCe) | 3:18 | 2024-11-22 |  |
+| [Lil Mama Theme Song](https://open.spotify.com/track/0ZvdsKZ4pfXzqJDIX5z9NQ) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Lil Mama Theme Song](https://open.spotify.com/album/78oeiLjGLP80U0YbrQrLCe) | 3:18 | 2024-11-22 | 2024-12-22 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-12-19 |  |
 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 | 2024-03-28 | 2024-10-13 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-05 |  |

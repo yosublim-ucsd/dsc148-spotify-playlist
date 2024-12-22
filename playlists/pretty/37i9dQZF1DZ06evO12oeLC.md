@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,439 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,444 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 35 | [Rodéo](https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY) | 3:03 |
 | 36 | [Summer Love](https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:00 |
 | 37 | [101 REGRETS](https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:21 |
-| 38 | [It’s A Man’s Man’s Man’s World](https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [It's A Man's Man's Man's World](https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu) | 3:19 |
-| 39 | [+ Mélange](https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:03 |
+| 38 | [+ Mélange](https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:03 |
+| 39 | [It’s A Man’s Man’s Man’s World](https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [It's A Man's Man's Man's World](https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu) | 3:19 |
 | 40 | [L’orage](https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:17 |
 | 41 | [Diego](https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD) | 2:47 |
 | 42 | [Rouge](https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [BRUTAAL](https://open.spotify.com/track/2h423mxiCIELj4DuQ2pre9) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUTAAL](https://open.spotify.com/album/065M2qcX0n60mgNjggtDFw) | 4:06 |
 | 50 | [Le plus beau des astres](https://open.spotify.com/track/3R0Fyc3glEJFQK8Aymu5Ge) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:05 |
 
-Snapshot ID: `Z2NiAAAAAABbYM/2cVr5pNm3CMwT9D7t`
+Snapshot ID: `Z2SzgAAAAAAMhA98D0WODIzMxk7I51PL`

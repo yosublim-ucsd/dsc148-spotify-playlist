@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,097 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,109 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 48 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 |
 | 49 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 |
 | 50 | [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 |
-| 51 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 |
-| 52 | [Sway \- Remix](https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [Rex Atirai](https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW) | [Sway \(Remix\)](https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH) | 3:56 |
-| 53 | [Find My Way](https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Find My Way](https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe) | 3:42 |
-| 54 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 |
-| 55 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 |
+| 51 | [Sway \- Remix](https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [Rex Atirai](https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW) | [Sway \(Remix\)](https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH) | 3:56 |
+| 52 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 |
+| 53 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 |
+| 54 | [Find My Way](https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Find My Way](https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe) | 3:42 |
+| 55 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 |
 | 56 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 |
 | 57 | [Say Something](https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Say Something](https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp) | 2:45 |
 | 58 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |

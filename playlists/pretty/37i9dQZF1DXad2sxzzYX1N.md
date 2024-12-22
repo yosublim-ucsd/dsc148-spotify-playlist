@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 
 > The indie viral hits you can't escape\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,326 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,720 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 41 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
 | 42 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
 | 43 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 44 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 |
-| 45 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 |
-| 46 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
-| 47 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 44 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 |
+| 45 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 |
+| 46 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 47 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
 | 48 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 |
 | 49 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
-| 50 | [Better in the Dark](https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:35 |
+| 50 | [did i tell u that i miss u](https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [did i tell u that i miss u](https://open.spotify.com/album/5mw5lqpHiII2dtNFjWfKTd) | 1:55 |
 
 Snapshot ID: `Z2HOsQAAAADe3Io/HFTfC0810zNRHRmV`

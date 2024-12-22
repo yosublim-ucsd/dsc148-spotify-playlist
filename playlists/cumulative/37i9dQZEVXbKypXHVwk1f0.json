@@ -373,6 +373,32 @@
     },
     {
       "album": {
+        "name": "20 Veces",
+        "url": "https://open.spotify.com/album/7eXpNrySRqlvayXivlCz70"
+      },
+      "artists": [
+        {
+          "name": "Flamen Beretta",
+          "url": "https://open.spotify.com/artist/3D9fZmAGeaCJjnRFFD9jlE"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291063,
+      "name": "20 Veces",
+      "url": "https://open.spotify.com/track/44yf1tgi5vg8lR2EULi1gs"
+    },
+    {
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -8552,7 +8578,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -8588,7 +8614,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -12758,7 +12784,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -28478,7 +28504,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Vibrador",
       "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
@@ -28696,7 +28722,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"

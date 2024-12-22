@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4047,
+  "num_followers": 4048,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACUyix+J2ksxMOoae3k47y/",
+  "snapshot_id": "Z2SzgAAAAADHH9f1t57AC0uE7AgvClKx",
   "tracks": [
     {
       "added_at": null,
@@ -1403,34 +1403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA"
+        "name": "No meu Flat",
+        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
       },
       "artists": [
-        {
-          "name": "Belle Kaffer",
-          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
-        },
-        {
-          "name": "Casluh",
-          "url": "https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3"
-        },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
         }
       ],
-      "duration_ms": 497624,
-      "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
+      "duration_ms": 242285,
+      "name": "No meu Flat",
+      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
     }
   ],
   "unique_name": "This Is Hyperanhas",

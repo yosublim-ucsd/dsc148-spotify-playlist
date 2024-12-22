@@ -1,13 +1,29 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.",
-  "num_followers": 45200,
+  "num_followers": 45199,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABIfqd0+pDSWQnfKqma27g2jpAz+2Y+",
+  "snapshot_id": "AABIgeexn4rWhBDnwL7IlJEOUiF1VnVX",
   "tracks": [
+    {
+      "added_at": "2024-12-21 15:14:06",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
     {
       "added_at": "2024-12-20 15:35:21",
       "album": {
@@ -1019,22 +1035,6 @@
       "duration_ms": 183919,
       "name": "SOUTH OF FRANCE - REMIX",
       "url": "https://open.spotify.com/track/5BjYmIIW8NIwItLPGjqKqP"
-    },
-    {
-      "added_at": "2024-12-20 15:35:21",
-      "album": {
-        "name": "The Great Impersonator",
-        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 216006,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
     }
   ],
   "unique_name": "Trending Now",

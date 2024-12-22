@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2024! \ud83c\udf1e",
-  "num_followers": 112671,
+  "num_followers": 112668,
   "original_name": "Ver\u00e3o 2024 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "NO CH\u00c3O NOVINHA",
+        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "NO CH\u00c3O NOVINHA",
+      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "Ela Voltou de Perna Bamba",
         "url": "https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 199384,
       "name": "Ela Voltou de Perna Bamba",
       "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "NO CH\u00c3O NOVINHA",
-        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "NO CH\u00c3O NOVINHA",
-      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "Afro Tropical",
+        "url": "https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n"
+      },
+      "artists": [
+        {
+          "name": "IVANN",
+          "url": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
+        }
+      ],
+      "duration_ms": 151708,
+      "name": "Afro Tropical",
+      "url": "https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "Rosa (feat. CONAN OSIRIS)",
         "url": "https://open.spotify.com/album/210jbUrguMRYKHil7qrPLE"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 172162,
       "name": "Rosa (feat. CONAN OSIRIS)",
       "url": "https://open.spotify.com/track/0w224dseDmkVEslHsZfkG3"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Afro Tropical",
-        "url": "https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n"
-      },
-      "artists": [
-        {
-          "name": "IVANN",
-          "url": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
-        }
-      ],
-      "duration_ms": 151708,
-      "name": "Afro Tropical",
-      "url": "https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ"
     },
     {
       "added_at": "2024-08-22 23:00:00",

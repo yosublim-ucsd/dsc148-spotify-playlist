@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,253 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,260 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 13 | [Ese Beso](https://open.spotify.com/track/07hnXmPXyMeBHh3nT4PeQ0) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 4:09 |
 | 14 | [Entiende Que Ya](https://open.spotify.com/track/7kyNkviFUetu9nSrn1wtZr) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 2:46 |
 | 15 | [Sin Ti \(feat\. Edith Márquez\)](https://open.spotify.com/track/7dAa9LiVslrY0BNp1Yb4Hy) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:02 |
-| 16 | [Un Viejo Amor \(feat\. Edith Márquez\)](https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Tributo a](https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR) | 2:41 |
+| 16 | [Completamente Blindada](https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:41 |
 | 17 | [Si Me Tenías](https://open.spotify.com/track/6vKrT4AyGYxpuXD3ZDZMf6) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:53 |
-| 18 | [Completamente Blindada](https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:41 |
+| 18 | [Un Viejo Amor \(feat\. Edith Márquez\)](https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Tributo a](https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR) | 2:41 |
 | 19 | [Entre ella y yo](https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 3:59 |
 | 20 | [Por hablarle de ti](https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:40 |
 | 21 | [Procuro Olvidarte](https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 50 | [Hazme Olvidarlo](https://open.spotify.com/track/0A3VGRslEA7QHh45NRXasw) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Edith Márquez\. Sólo Éxitos](https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw) | 3:59 |
 | 51 | [Vas A Llorar](https://open.spotify.com/track/65YAbcxJjJ2nHGCgS4Cyw8) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Singles](https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL) | 3:19 |
 
-Snapshot ID: `Z2NiAAAAAADT3qqnZFbP3Wsjh6tT2tAr`
+Snapshot ID: `Z2SzgAAAAAAz3E9NBVl8D26C7U0ofEpC`

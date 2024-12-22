@@ -849,6 +849,28 @@
     },
     {
       "album": {
+        "name": "Drive You Home",
+        "url": "https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216163,
+      "name": "Drive You Home",
+      "url": "https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85"
+    },
+    {
+      "album": {
         "name": "NICE GIRLS FINISH LAST: CUIDADO",
         "url": "https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7"
       },
@@ -1156,6 +1178,24 @@
       "duration_ms": 231658,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/7wElwiMmscxXgwUYt9Kxci"
+    },
+    {
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142706,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/3Ma3fShNScqVDXImAZo7zH"
     },
     {
       "album": {

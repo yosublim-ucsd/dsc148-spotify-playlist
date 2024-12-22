@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🖤 meget fancy fredag, <a href="spotify:artist:0PCCGZ0wGLizHt2KZ7hhA2">Artemas</a> 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,834 likes - 59 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,827 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 7 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 |
 | 8 | [Somethin' Stupid](https://open.spotify.com/track/0rgP63NBfy6DZgmbna6cT8) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C), [Oilly Wallace](https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F) | [Somethin' Stupid](https://open.spotify.com/album/6jycv1pDnBLplDsOyCtKkv) | 3:12 |
 | 9 | [Dancing in love](https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Dancing in love](https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx) | 2:36 |
-| 10 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 10 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 11 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
 | 12 | [Plug](https://open.spotify.com/track/6nOhp5gvFIV42e5BwtyqbJ) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Plug](https://open.spotify.com/album/6SXi96t0w5MuizAjz2H6qN) | 2:49 |
 | 13 | [PIECES](https://open.spotify.com/track/4DL0QeF9pZFlKN6X9hx5l6) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [PIECES](https://open.spotify.com/album/7q0tw1YCaIVCnnBfxMh4LR) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,031 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,985 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 95 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 |
 | 96 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
 | 97 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
-| 98 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 |
-| 99 | [God I Hope This Year Is Better Than The Last](https://open.spotify.com/track/0xRO7EKgYKVB8zKIoiXMDD) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Maybe This Christmas Vol 5: Songs for the Yule Log](https://open.spotify.com/album/7IZ6efRavLKAXtZ1s882T5) | 3:56 |
-| 100 | [Juvenescence](https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 3:50 |
+| 98 | [If The Creek Don’t Rise](https://open.spotify.com/track/1nJubUVBBLj2bU9KnpvwvM) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/6dXyHp7v65Wn7b2QKitcV2) | 3:24 |
+| 99 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 |
+| 100 | [God I Hope This Year Is Better Than The Last](https://open.spotify.com/track/0xRO7EKgYKVB8zKIoiXMDD) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Maybe This Christmas Vol 5: Songs for the Yule Log](https://open.spotify.com/album/7IZ6efRavLKAXtZ1s882T5) | 3:56 |
 
 Snapshot ID: `ZsimzgAAAABqpgXY9pjYgBzWKhpq7OUI`

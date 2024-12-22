@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 375467,
+  "num_followers": 375514,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+        "name": "Airbag",
+        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
       },
       "artists": [
         {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+      "duration_ms": 234146,
+      "name": "Solo aqu\u00ed",
+      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Airbag",
-        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Solo aqu\u00ed",
-      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Amor de verano",
+      "url": "https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 187066,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Amor de verano",
-      "url": "https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 254546,
-      "name": "Basta de Llamarme As\u00ed",
-      "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Operacion Damas Gratis",
         "url": "https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 219693,
       "name": "Quieren bajarme",
       "url": "https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 254546,
+      "name": "Basta de Llamarme As\u00ed",
+      "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Incompleto - 20 Rocanroles 20",
-        "url": "https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 247973,
-      "name": "Imposible",
-      "url": "https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 172251,
       "name": "Ser\u00e1 - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Incompleto - 20 Rocanroles 20",
+        "url": "https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 247973,
+      "name": "Imposible",
+      "url": "https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj"
     },
     {
       "added_at": "2024-06-12 23:26:13",

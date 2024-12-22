@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,291 likes - 68 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,300 likes - 68 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 9 | [Dancing in love](https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Dancing in love](https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx) | 2:36 |
 | 10 | [Plug](https://open.spotify.com/track/6nOhp5gvFIV42e5BwtyqbJ) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Plug](https://open.spotify.com/album/6SXi96t0w5MuizAjz2H6qN) | 2:49 |
 | 11 | [Stranger \- Främling](https://open.spotify.com/track/243FerCOZsAHKGa7nMR0W4) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Stranger \(Främling\)](https://open.spotify.com/album/0lDM38Qyjopsv3lOpZkEvS) | 3:10 |
-| 12 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 12 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 13 | [Dance Moves Should Be Bigger](https://open.spotify.com/track/2tFG0JlJMvDoNAfPwKCWpP) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Dance Moves Should Be Bigger](https://open.spotify.com/album/1O2ZY8EgNj8RNfrXoXwCeF) | 2:43 |
 | 14 | [Drive With Our Eyes Closed](https://open.spotify.com/track/2I5J70Cmzlwn0OAzPrbARg) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Drive With Our Eyes Closed](https://open.spotify.com/album/3RVbhUDDUTsjzQ6zILkLca) | 3:55 |
 | 15 | [Forever Young \(feat\. Alphaville & Ava Max\) \- Don Diablo Remix](https://open.spotify.com/track/29fQGTIrpgS4T1RwAmS8GJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young \(feat\. Alphaville & Ava Max\) \[Don Diablo Remix\]](https://open.spotify.com/album/3BrJG4NX4t8VS4DlM0Ete1) | 3:27 |

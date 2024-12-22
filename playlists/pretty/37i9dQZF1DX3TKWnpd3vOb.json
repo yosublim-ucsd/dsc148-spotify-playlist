@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: El C\u00f3modo Silencio De Los Que Hablan Poco.",
-  "num_followers": 191558,
+  "num_followers": 191563,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Punk Para Gatitos",
-        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
-      },
-      "artists": [
-        {
-          "name": "VerDor",
-          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Mech\u00f3n",
-      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "Te van a olvidar",
         "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 241651,
       "name": "Te van a olvidar",
       "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Punk Para Gatitos",
+        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
+      },
+      "artists": [
+        {
+          "name": "VerDor",
+          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mech\u00f3n",
+      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
+        "name": "Revuelta",
+        "url": "https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "D\u00e9jate Caer - 2024",
+      "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
         "name": "T\u00f3tem",
         "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 237830,
       "name": "Solo de Ti",
       "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
-        "name": "Revuelta",
-        "url": "https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "D\u00e9jate Caer - 2024",
-      "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Mirar La Luz",
-        "url": "https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV"
-      },
-      "artists": [
-        {
-          "name": "Electrodomesticos",
-          "url": "https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn"
-        }
-      ],
-      "duration_ms": 270049,
-      "name": "El Viento Escap\u00f3",
-      "url": "https://open.spotify.com/track/6hz4y1GdHiiud66cAML3Hs"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "PORTAL",
         "url": "https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 293252,
       "name": "Fiesta En El Barrio",
       "url": "https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Mirar La Luz",
+        "url": "https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV"
+      },
+      "artists": [
+        {
+          "name": "Electrodomesticos",
+          "url": "https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn"
+        }
+      ],
+      "duration_ms": 270049,
+      "name": "El Viento Escap\u00f3",
+      "url": "https://open.spotify.com/track/6hz4y1GdHiiud66cAML3Hs"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "P\u00e1lida Forma Nocturna",
-        "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
+        "name": "Lo Que Dicen",
+        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
       },
       "artists": [
         {
-          "name": "Pablo Ilabaca",
-          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
+          "name": "Los Necesarios",
+          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
         }
       ],
-      "duration_ms": 224235,
-      "name": "P\u00e1lida Forma Nocturna",
-      "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
+      "duration_ms": 243566,
+      "name": "Lo Que Dicen",
+      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Lo Que Dicen",
-        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
+        "name": "P\u00e1lida Forma Nocturna",
+        "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
       "artists": [
         {
-          "name": "Los Necesarios",
-          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+          "name": "Pablo Ilabaca",
+          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
         }
       ],
-      "duration_ms": 243566,
-      "name": "Lo Que Dicen",
-      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
+      "duration_ms": 224235,
+      "name": "P\u00e1lida Forma Nocturna",
+      "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Blue Dalom",
-        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Let Me Fly",
-      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "No Me Esperes M\u00e1s",
         "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 191658,
       "name": "No Me Esperes M\u00e1s",
       "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Blue Dalom",
+        "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Let Me Fly",
+      "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
         "name": "Hay fuego en Los Andes",
         "url": "https://open.spotify.com/album/2x2LrD0ZlpRe20urxdPiFV"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 246820,
       "name": "Hay fuego en Los Andes",
       "url": "https://open.spotify.com/track/23BhXyp9D4asVSn5DhvbHG"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
-        "name": "Yod",
-        "url": "https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj"
-      },
-      "artists": [
-        {
-          "name": "Hausi Kuta",
-          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
-        }
-      ],
-      "duration_ms": 221233,
-      "name": "Yod",
-      "url": "https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI"
     }
   ],
   "unique_name": "Rock Chileno",

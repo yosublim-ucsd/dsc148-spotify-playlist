@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 55283,
+  "num_followers": 55300,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAAv0DyuCO66jk+dWZbTBCSA",
+  "snapshot_id": "Z2SzgAAAAACFB/fYdeRjWr970LgngpsV",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Tree",
-        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 133226,
-      "name": "Been Smoking Too Long",
-      "url": "https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R"
+      "duration_ms": 157813,
+      "name": "Rider On The Wheel",
+      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made To Love Magic",
-        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 157813,
-      "name": "Rider On The Wheel",
-      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
+      "duration_ms": 133226,
+      "name": "Been Smoking Too Long",
+      "url": "https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R"
     },
     {
       "added_at": null,

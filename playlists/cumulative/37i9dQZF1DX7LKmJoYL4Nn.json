@@ -5,13 +5,31 @@
   "tracks": [
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba 2wink",
+        "url": "https://open.spotify.com/album/2EhHCiaRN1bz3tfVfZpIs1"
+      },
+      "artists": [
+        {
+          "name": "2wink/\u8475 \u3072\u306a\u305f&\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262186,
+      "name": "2winkle Star Beat\u2606",
+      "url": "https://open.spotify.com/track/1qsgpaBWncYmYDWweS3VVf"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
         "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
       },
       "artists": [
         {
-          "name": "Alkaloid",
-          "url": "https://open.spotify.com/artist/3Fiv97iEcVXiSzNReGHDBN"
+          "name": "ALKALOID",
+          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
         }
       ],
       "date_added": "2024-06-25",
@@ -376,7 +394,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 208413,
       "name": "Distorted Heart",
       "url": "https://open.spotify.com/track/4gREpK3gyGqCYJArf9yAoc"
@@ -524,6 +542,24 @@
       "duration_ms": 182880,
       "name": "FORBIDDEN RAIN",
       "url": "https://open.spotify.com/track/6wFtFERTwXYu9vGFkeys44"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
+        "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
+      },
+      "artists": [
+        {
+          "name": "UNDEAD/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u7fbd\u98a8\u85ab(CV.\u7d30\u8c9d\u572d)\u3001\u5927\u795e\u6643\u7259(CV.\u5c0f\u91ce\u53cb\u6a39)\u3001\u4e59\u72e9\u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce\u6e09)",
+          "url": "https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289253,
+      "name": "Gate of the Abyss",
+      "url": "https://open.spotify.com/track/5Dmq5J2N2vhNj6bRggGYbq"
     },
     {
       "album": {
@@ -1174,7 +1210,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 197533,
       "name": "Resurrection of Soul",
       "url": "https://open.spotify.com/track/0oRhF03OXQWZD0P2Ak2kp6"
@@ -1240,8 +1276,8 @@
       },
       "artists": [
         {
-          "name": "Alkaloid",
-          "url": "https://open.spotify.com/artist/3Fiv97iEcVXiSzNReGHDBN"
+          "name": "ALKALOID",
+          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
         },
         {
           "name": "Crazy:B",
@@ -1286,7 +1322,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 291933,
       "name": "Seven Days \u201cPrismagic\u201d",
       "url": "https://open.spotify.com/track/7p2wVWflIspoYuOhGrctcS"
@@ -1370,8 +1406,8 @@
       },
       "artists": [
         {
-          "name": "Alkaloid",
-          "url": "https://open.spotify.com/artist/3Fiv97iEcVXiSzNReGHDBN"
+          "name": "ALKALOID",
+          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
         }
       ],
       "date_added": "2024-07-12",
@@ -1448,7 +1484,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 272306,
       "name": "TRICK with TREAT!!(with UNDEAD)",
       "url": "https://open.spotify.com/track/2V8SHwxBkbhPDGjCFEIggf"

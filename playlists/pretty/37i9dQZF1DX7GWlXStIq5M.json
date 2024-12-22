@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hodari",
-  "num_followers": 372667,
+  "num_followers": 372656,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
+        "name": "Esquinas",
+        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 165487,
+      "name": "Se eu usasse sapato",
+      "url": "https://open.spotify.com/track/7hozXxltZOrcXNzZ8EvtPB"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
         "name": "Joga Pra Lua",
         "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 125108,
       "name": "Joga Pra Lua",
       "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
-        "name": "Esquinas",
-        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 165487,
-      "name": "Se eu usasse sapato",
-      "url": "https://open.spotify.com/track/7hozXxltZOrcXNzZ8EvtPB"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -379,6 +379,26 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
+        "name": "Amor Blindado",
+        "url": "https://open.spotify.com/album/3GLGVjoaqz6JE1HoIZIPPs"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 192969,
+      "name": "Amor Blindado",
+      "url": "https://open.spotify.com/track/4ppc4QcyrXPisRHliNZz9x"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 122169,
       "name": "Low Profile",
       "url": "https://open.spotify.com/track/731N7wLv4OBUNbMzEXvI4y"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
-        "name": "Amor Blindado",
-        "url": "https://open.spotify.com/album/3GLGVjoaqz6JE1HoIZIPPs"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 192969,
-      "name": "Amor Blindado",
-      "url": "https://open.spotify.com/track/4ppc4QcyrXPisRHliNZz9x"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 205111,
-      "name": "Dano Sarrada",
-      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
         "name": "Curva da Ladeira",
         "url": "https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 180000,
       "name": "Curva da Ladeira",
       "url": "https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 169845,
+      "name": "(N\u00e3o) Quero Me Apaixonar",
+      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
-        "name": "No Escuro,",
-        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 169845,
-      "name": "(N\u00e3o) Quero Me Apaixonar",
-      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
+      "duration_ms": 205111,
+      "name": "Dano Sarrada",
+      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
+        "name": "F.O.D.A.",
+        "url": "https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 179954,
+      "name": "F.O.D.A.",
+      "url": "https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
         "name": "Vinho",
         "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 183211,
       "name": "\u00faltimo rom\u00e2ntico",
       "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
-        "name": "F.O.D.A.",
-        "url": "https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 179954,
-      "name": "F.O.D.A.",
-      "url": "https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
+        "name": "P\u2605RN STAR",
+        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "PornStar",
+      "url": "https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
         "name": "ANJO",
         "url": "https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 167619,
       "name": "P\u00f3s Love",
       "url": "https://open.spotify.com/track/29irNwrelJMk8wublGdvXg"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
-        "name": "P\u2605RN STAR",
-        "url": "https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "PornStar",
-      "url": "https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -1235,6 +1235,22 @@
       "duration_ms": 238656,
       "name": "Senhorita XX",
       "url": "https://open.spotify.com/track/6vQJTFZI2ZEuWxfkY1f9aH"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
+        "name": "Used To Feel",
+        "url": "https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193630,
+      "name": "Are You Listening",
+      "url": "https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -1311,26 +1327,6 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
-        "name": "ANJO",
-        "url": "https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        }
-      ],
-      "duration_ms": 122068,
-      "name": "SAFADIN GOXTOZIN",
-      "url": "https://open.spotify.com/track/41cwufPxmSrMMQthgNf9Xf"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
         "name": "Aditivada",
         "url": "https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU"
       },
@@ -1351,6 +1347,26 @@
       "duration_ms": 149385,
       "name": "Aditivada",
       "url": "https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
+        "name": "ANJO",
+        "url": "https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+        }
+      ],
+      "duration_ms": 122068,
+      "name": "SAFADIN GOXTOZIN",
+      "url": "https://open.spotify.com/track/41cwufPxmSrMMQthgNf9Xf"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -1415,30 +1431,6 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
-        "name": "Nem Me Convidou",
-        "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Bi\u00e9",
-          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
-        }
-      ],
-      "duration_ms": 127433,
-      "name": "Nem Me Convidou",
-      "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
         "name": "Bora pra praia",
         "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
       },
@@ -1459,6 +1451,30 @@
       "duration_ms": 228349,
       "name": "Bora pra praia",
       "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
+        "name": "Nem Me Convidou",
+        "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        }
+      ],
+      "duration_ms": 127433,
+      "name": "Nem Me Convidou",
+      "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
-        "name": "TEORIA DO CAOS",
-        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "A GENTE SE FERRA JUNTO",
-      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
         "name": "Maresia",
         "url": "https://open.spotify.com/album/3mzRiSYaX1VOIznQOwf79J"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 135306,
       "name": "Maresia",
       "url": "https://open.spotify.com/track/64qtQNzG1jnbQ1f4oYw2z4"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
+        "name": "TEORIA DO CAOS",
+        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "A GENTE SE FERRA JUNTO",
+      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
     },
     {
       "added_at": "2024-12-20 17:46:37",
@@ -1651,6 +1667,26 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/3jrQ89guzyabS1ms7U8xXy"
+      },
+      "artists": [
+        {
+          "name": "MARCELA",
+          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
+        },
+        {
+          "name": "Zi",
+          "url": "https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup"
+        }
+      ],
+      "duration_ms": 148037,
+      "name": "Mensagem",
+      "url": "https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab"
+    },
+    {
+      "added_at": "2024-12-20 17:46:37",
+      "album": {
         "name": "Encontros",
         "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
       },
@@ -1671,22 +1707,6 @@
     {
       "added_at": "2024-12-20 17:46:37",
       "album": {
-        "name": "Used To Feel",
-        "url": "https://open.spotify.com/album/7uPQNejeznCSzwtylfHdL3"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193630,
-      "name": "Are You Listening",
-      "url": "https://open.spotify.com/track/5ziTNrncDLiz67ZHmAV8Qr"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
         "name": "Campo De Morango",
         "url": "https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 76248,
       "name": "Campo De Morango",
       "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
-    },
-    {
-      "added_at": "2024-12-20 17:46:37",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/3jrQ89guzyabS1ms7U8xXy"
-      },
-      "artists": [
-        {
-          "name": "MARCELA",
-          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
-        },
-        {
-          "name": "Zi",
-          "url": "https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup"
-        }
-      ],
-      "duration_ms": 148037,
-      "name": "Mensagem",
-      "url": "https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab"
     },
     {
       "added_at": "2024-12-20 17:46:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,595 likes - 46 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,636 likes - 46 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 22 | [NEVER LAST](https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:21 |
 | 23 | [Poppin](https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m) | 2:53 |
 | 24 | [When You Down \(with Polo G feat\. Lil Durk\)](https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 3:13 |
-| 25 | [Never Again \(feat\. Lil Tecca\)](https://open.spotify.com/track/4r2RvehxpkkOYkMUyUXpkx) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 3:09 |
+| 25 | [Somebody](https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:54 |
 | 26 | [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 |
-| 27 | [Somebody](https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:54 |
+| 27 | [Never Again \(feat\. Lil Tecca\)](https://open.spotify.com/track/4r2RvehxpkkOYkMUyUXpkx) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 3:09 |
 | 28 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
 | 29 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
 | 30 | [Gist](https://open.spotify.com/track/6dkffLWo31KnXmwCLsgA2K) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:10 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 45 | [Dolly \(with Lil Uzi Vert\)](https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:59 |
 | 46 | [CHOPPA SHOOT THE LOUDEST \(with Chief Keef, feat.Trippie Redd\)](https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 4:01 |
 
-Snapshot ID: `Z2NiAAAAAADwXTG0kBW6myb2p+czM7H5`
+Snapshot ID: `Z2SzgAAAAAD0B61vpKW7MQTp8pgLoGRW`

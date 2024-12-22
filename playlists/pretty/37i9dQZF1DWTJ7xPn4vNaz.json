@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Cover: ABBA",
-  "num_followers": 5683237,
+  "num_followers": 5683637,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Stealers Wheel",
         "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 208946,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "You're The One That I Want - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -935,26 +955,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "You're The One That I Want - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Staying Alive (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 92866,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
       "artists": [
         {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 159346,
       "name": "Breakfast In America - 2010 Remastered",
       "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -1223,22 +1223,6 @@
       "duration_ms": 371413,
       "name": "Heroes - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
-      },
-      "artists": [
-        {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
+      },
+      "artists": [
+        {
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
         "name": "Inseparable",
         "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "We Are The Champions - Remastered 2011",
-      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Baby I'm-a Want You",
         "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 187000,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 434720,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "The Original Soundtrack",
         "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 366640,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "It Never Rains In Southern California",
-        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
-      },
-      "artists": [
-        {
-          "name": "Albert Hammond",
-          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "It Never Rains in Southern California",
-      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "It Never Rains In Southern California",
+        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "It Never Rains in Southern California",
+      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "Spirits Having Flown",
-        "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "Spirits Having Flown",
+        "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Not Fragile",
         "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 234866,
       "name": "You Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2024-10-02 16:19:35",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-10-02 16:19:35",
       "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
-    },
-    {
-      "added_at": "2024-10-02 16:19:35",
-      "album": {
         "name": "Hunky Dory (2015 Remaster)",
         "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 235986,
       "name": "Life on Mars? - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+    },
+    {
+      "added_at": "2024-10-02 16:19:35",
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
     },
     {
       "added_at": "2024-10-02 16:19:35",

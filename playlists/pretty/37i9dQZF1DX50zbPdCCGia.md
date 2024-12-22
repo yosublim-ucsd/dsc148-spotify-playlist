@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Jimmy Buffett
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,240 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,325 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 5 | [Son Of A Son Of A Sailor](https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Son Of A Son Of A Sailor](https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK) | 3:26 |
 | 6 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 7 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
-| 8 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
-| 9 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 |
+| 8 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 |
+| 9 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
 | 10 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
 | 11 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 |
 | 12 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 50 | [Loves Me Like a Rock](https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:33 |
 | 51 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
 | 52 | [Him](https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:06 |
-| 53 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 |
-| 54 | [Never Be the Same](https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:09 |
+| 53 | [Never Be the Same](https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:09 |
+| 54 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 |
 | 55 | [Till It Shines](https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:54 |
 | 56 | [Vienna](https://open.spotify.com/track/7gREIuHognJFspylIDJ94p) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) | 3:34 |
 | 57 | [Bitter with the Sweet](https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/thealiyajanell/">Aliya Janell Brinson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,902 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,926 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 8 | [So Anxious](https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 4:36 |
 | 9 | [Hit Different](https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hit Different](https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db) | 3:22 |
 | 10 | [nasty](https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:20 |
-| 11 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 |
-| 12 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
+| 11 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
+| 12 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 |
 | 13 | [I'm Real \(feat\. Ja Rule\) \- Murder Remix](https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 4:22 |
 | 14 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 15 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 24 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 |
 | 25 | [Good Form](https://open.spotify.com/track/19Fcrc0nJiwMKom00gS9SW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:19 |
 | 26 | [Soldier \(feat\. T.I\. & Lil' Wayne\)](https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 5:25 |
-| 27 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 |
-| 28 | [Only U \- No Intro](https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Concrete Rose](https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD) | 3:06 |
+| 27 | [Only U \- No Intro](https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Concrete Rose](https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD) | 3:06 |
+| 28 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 |
 | 29 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
 | 30 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
 | 31 | [City Girls](https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 3:50 |

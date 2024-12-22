@@ -2,9 +2,9 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\.  Cover: Justin Bieber
+> The Weeknd celebrates 25 Billion Club songs!
 
-885 songs - 2 day 5 hr 32 min
+886 songs - 2 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Popular \(with Playboi Carti & Madonna\) \- From The Idol Vol\. 1 \(Music from the HBO Original Series\)](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 | 2024-12-10 |  |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2022-07-06 |  |
 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 | 2023-06-26 |  |
+| [Pray For Me \(with Kendrick Lamar\)](https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:31 | 2024-12-21 |  |
 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 | 2023-12-01 |  |
 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 | 2023-11-06 |  |
 | [Promises \(with Sam Smith\)](https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Promises \(with Sam Smith\)](https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1) | 3:33 | 2024-01-02 |  |

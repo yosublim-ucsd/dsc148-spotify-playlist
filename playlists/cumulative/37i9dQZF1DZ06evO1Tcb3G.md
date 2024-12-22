@@ -4,7 +4,7 @@
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-94 songs - 6 hr 34 min
+95 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Blood with Gang Of Youths \(Live from Stockholm\)](https://open.spotify.com/track/3sBdNkdyTEzSzWVQjg1vmd) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Delta Tour EP](https://open.spotify.com/album/3zXzpwfIW0jHqhb5YHg55u) | 5:27 | 2022-10-25 | 2022-10-31 |
 | [Broad\-Shouldered Beasts](https://open.spotify.com/track/2Klr258jO2APdeexDcvTRD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 4:20 | 2023-10-01 | 2023-12-14 |
 | [Broken Crown](https://open.spotify.com/track/3Yf3ptIrpI9ZcWgyBoMbSR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn) | 4:16 | 2024-11-04 |  |
-| [Cold Arms](https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 2:49 | 2022-12-21 | 2024-10-25 |
+| [Cold Arms](https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 2:49 | 2022-12-21 |  |
 | [Delta](https://open.spotify.com/track/3Rtlsb4YUeAz1733sFt8eJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 6:16 | 2022-09-16 | 2024-09-20 |
 | [Delta \- Live At The O2](https://open.spotify.com/track/7cECVaGMuVAO4MKEk7dJ95) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Gentlemen of the Road](https://open.spotify.com/album/6JR7iNiAhaqDfgNGQwkdCE) | 6:09 | 2024-09-20 | 2024-11-07 |
 | [Ditmas](https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 3:38 | 2022-09-16 |  |
@@ -79,9 +79,10 @@
 | [The Cave](https://open.spotify.com/track/1JlssWnwFUiEzuSqw4H1V1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 3:37 | 2024-11-06 |  |
 | [The Cave](https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 3:37 | 2022-09-16 | 2022-10-27 |
 | [The Wild](https://open.spotify.com/track/12vSf3woc2toFvHxwjLI5v) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 5:31 | 2022-09-16 | 2022-10-13 |
+| [The Wolf](https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV) | 3:41 | 2024-12-22 |  |
 | [The Wolf](https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:41 | 2022-09-17 | 2022-10-15 |
 | [The Wolf](https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 | 2022-12-21 | 2024-10-25 |
-| [The Wolf](https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 3:41 | 2022-09-16 |  |
+| [The Wolf](https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 3:41 | 2022-09-16 | 2024-12-22 |
 | [There Will Be Time](https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Johannesburg](https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066) | 4:27 | 2022-09-16 |  |
 | [Timshel](https://open.spotify.com/track/4c3zZWPPYkvjSV07Cv95oJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 2:53 | 2022-10-19 | 2022-10-28 |
 | [Timshel](https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 2:53 | 2024-11-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX22oVtkSWNvx.md) - [plain]
 
 > A smooth nostalgia trip through the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,696 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,750 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX22oVtkSWNvx.md) - [plain]
 | 15 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 16 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 |
 | 17 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
-| 18 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
-| 19 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
+| 18 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
+| 19 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 20 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |
 | 21 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 22 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX22oVtkSWNvx.md) - [plain]
 | 28 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
 | 29 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 |
 | 30 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 31 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
-| 32 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Arthur \- The Album \[Original Soundtrack\]](https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB) | 3:54 |
+| 31 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Arthur \- The Album \[Original Soundtrack\]](https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB) | 3:54 |
+| 32 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
 | 33 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 |
 | 34 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
 | 35 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 
 > ¡De vuelta a los 2000s con los mejores éxitos! Paulina Rubio & David Bisbal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,847 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,969 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 20 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 |
 | 21 | [Tú No Eres Para Mi](https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Dos](https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo) | 3:25 |
 | 22 | [Pasarela](https://open.spotify.com/track/1MfqPCs3Y722VK6zkWZ98Z) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Broke & Famous](https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve) | 3:47 |
-| 23 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
-| 24 | [Mi Primer Millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
+| 23 | [Mi Primer Millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
+| 24 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 25 | [Las Avispas](https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Para Ti](https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO) | 3:17 |
 | 26 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 27 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 |

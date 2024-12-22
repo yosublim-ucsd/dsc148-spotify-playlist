@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,467 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,514 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 20 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
 | 21 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
 | 22 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
-| 23 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
+| 23 | [Solo aquí](https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag](https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ) | 3:54 |
 | 24 | [Todo Sigue Igual](https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 3:34 |
-| 25 | [Solo aquí](https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag](https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ) | 3:54 |
+| 25 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 26 | [Cactus](https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:54 |
 | 27 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 |
 | 28 | [Los Caminos de la Vida](https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Los Rayos](https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF) | 3:59 |
 | 29 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
 | 30 | [Homero](https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:23 |
 | 31 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 |
-| 32 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
-| 33 | [El Viejo](https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De Bichos Y Flores](https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI) | 3:07 |
-| 34 | [Amor de verano](https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Blanco y Negro](https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw) | 3:17 |
+| 32 | [Amor de verano](https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Blanco y Negro](https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw) | 3:17 |
+| 33 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
+| 34 | [El Viejo](https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De Bichos Y Flores](https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI) | 3:07 |
 | 35 | [Pideme la Luna](https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 2:49 |
 | 36 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 |
 | 37 | [El Revelde](https://open.spotify.com/track/24o76WATbnSIhV26hHgUHn) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 3:44 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 67 | [No Se Llama Amor](https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:07 |
 | 68 | [Rubí](https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:45 |
 | 69 | [La Marca de la Gorra](https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1) | 3:40 |
-| 70 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
-| 71 | [Quieren bajarme](https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:39 |
+| 70 | [Quieren bajarme](https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:39 |
+| 71 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
 | 72 | [Influencia](https://open.spotify.com/track/7B8W8kfQwcVubGo2EGosID) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Influencia](https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu) | 5:30 |
 | 73 | [Que No Me Pierda](https://open.spotify.com/track/1hddbV736FaAFxMho50n75) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 5:05 |
 | 74 | [Llegamos Los Pibes Chorros](https://open.spotify.com/track/7sp3ANvVq6FH67nXb6q1yA) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 3:49 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 92 | [Mabel](https://open.spotify.com/track/5Pcqvln7Yo4XPYRzuaVWja) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 3:54 |
 | 93 | [Culpable](https://open.spotify.com/track/4PmAcbJ6HFOYDXrbEEeOHd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:58 |
 | 94 | [Revoloteando](https://open.spotify.com/track/0Vuh6a1lDHMLYG4NBOnsHi) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Hormigas](https://open.spotify.com/album/1sIA6YTTCHQ50lQTBregzD) | 3:56 |
-| 95 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
-| 96 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
+| 95 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
+| 96 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
 | 97 | [Volver a Mí](https://open.spotify.com/track/5vWgQ5tRPZ7enuuqBDDniZ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 3:01 |
 | 98 | [Una Tregua](https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Hija del Rigor](https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO) | 3:30 |
 | 99 | [Entero O A Pedazos](https://open.spotify.com/track/2jiSAy0MSiODKpQupYLnTY) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 4:29 |

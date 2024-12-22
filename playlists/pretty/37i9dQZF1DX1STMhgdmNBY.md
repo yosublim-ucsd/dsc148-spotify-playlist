@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,090 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,172 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 50 | [I Don't Know What You've Got](https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:49 |
 | 51 | [I Must Be In A Good Place Now](https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [I Must Be In A Good Place Now](https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot) | 3:07 |
 | 52 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
-| 53 | [Three O'Clock Blues](https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Essential Blue Archive: Take a Swing with Me](https://open.spotify.com/album/7tsw1IjRv2bjN1qam1ojwu) | 3:00 |
-| 54 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 |
+| 53 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 |
+| 54 | [Three O'Clock Blues](https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Essential Blue Archive: Take a Swing with Me](https://open.spotify.com/album/7tsw1IjRv2bjN1qam1ojwu) | 3:00 |
 | 55 | [She Caught the Katy and Left Me a Mule to Ride](https://open.spotify.com/track/4RZ5Bc5m9rNL6PRNOfbd6V) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC) | 3:28 |
 | 56 | [I Got a Mind to Give up Living](https://open.spotify.com/track/0WpiGyQFNJbtfxlSvBiQl2) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Complete Albums 1965\-1980](https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg) | 4:58 |
 | 57 | [It's Mighty Hard](https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [No Foolin'!](https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6) | 6:30 |

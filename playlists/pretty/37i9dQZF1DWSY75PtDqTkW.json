@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 104586,
+  "num_followers": 104631,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
@@ -207,18 +191,34 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
       "artists": [
         {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Buffalo Springfield",
+        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Buffalo Springfield",
-        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
       },
       "artists": [
         {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
         }
       ],
-      "duration_ms": 153693,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Bigger Than Both Of Us",
-        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 142786,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Bigger Than Both Of Us",
+        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 142786,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 228000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 187866,
       "name": "Imagine - Remastered 2010",
       "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -595,6 +611,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -611,38 +643,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Jolene (Expanded Edition)",
         "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 130173,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
         }
       ],
-      "duration_ms": 285333,
-      "name": "I Guess That's Why They Call It The Blues",
-      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
       "artists": [
         {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+      "duration_ms": 285333,
+      "name": "I Guess That's Why They Call It The Blues",
+      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -2035,18 +2051,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 324733,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2063,22 +2079,6 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 324733,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "So (Remastered)",
+        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 313533,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Baggariddim",
         "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 189093,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "So (Remastered)",
-        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Collection (Standard Edition)",
         "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 228573,
       "name": "Ironic",
       "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Selah Sue",
-        "url": "https://open.spotify.com/album/5IFhqIbgT3EiMY1foX0sIZ"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Raggamuffin",
-      "url": "https://open.spotify.com/track/7gQn565GPnnoKUcKQ2FSxB"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
@@ -2855,6 +2839,22 @@
       "duration_ms": 197133,
       "name": "Shut Your Eyes",
       "url": "https://open.spotify.com/track/36gFBZrhG5t6ow3NctrGXg"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Selah Sue",
+        "url": "https://open.spotify.com/album/5IFhqIbgT3EiMY1foX0sIZ"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/7gQn565GPnnoKUcKQ2FSxB"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3383,22 +3383,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Unplugged (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
       },
@@ -3423,6 +3407,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Brothers In Arms",
         "url": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs"
       },
@@ -3435,6 +3435,38 @@
       "duration_ms": 249960,
       "name": "Walk Of Life",
       "url": "https://open.spotify.com/track/3Ud6fFep5ZlXzRWw6Sm8no"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3471,38 +3503,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Wanted on Voyage",
         "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
       },
@@ -3519,22 +3519,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Out Of Time (U.S. Version)",
-        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Extreme II - Pornograffitti",
         "url": "https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz"
       },
@@ -3547,6 +3531,22 @@
       "duration_ms": 334040,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3615,22 +3615,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tango In The Night",
-        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Teaser And The Firecat",
         "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
@@ -3643,6 +3627,22 @@
       "duration_ms": 200000,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tango In The Night",
+        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3675,6 +3675,22 @@
       "duration_ms": 288333,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Playlist: 90s Pop",
+        "url": "https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3715,22 +3731,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/1vmioa1hsabaxkYnYKROT1"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 345840,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Joshua Tree (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
       },
@@ -3747,18 +3747,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Playlist: 90s Pop",
-        "url": "https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ"
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/1vmioa1hsabaxkYnYKROT1"
       },
       "artists": [
         {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
         }
       ],
-      "duration_ms": 204386,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn"
+      "duration_ms": 345840,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3795,22 +3795,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Fickle Heart (Plus Two Bonus Cuts)",
         "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
       },
@@ -3823,6 +3807,22 @@
       "duration_ms": 240746,
       "name": "Driver's Seat",
       "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3863,22 +3863,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/5cnNuunPepqlcT0VoFdLOh"
       },
@@ -3895,6 +3879,22 @@
       "duration_ms": 260586,
       "name": "One",
       "url": "https://open.spotify.com/track/0Y8o2jU3ATJsIuatAhTG5Y"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE"
     },
     {
       "added_at": "2024-11-13 17:10:11",

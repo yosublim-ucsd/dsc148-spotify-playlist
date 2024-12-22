@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,143 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,151 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 54 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
 | 55 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
 | 56 | [You've Got a Friend](https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 5:08 |
-| 57 | [My Eyes Adored You](https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Closeup](https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX) | 3:32 |
-| 58 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
+| 57 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
+| 58 | [My Eyes Adored You](https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Closeup](https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX) | 3:32 |
 | 59 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
 | 60 | [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 |
 | 61 | [Magic](https://open.spotify.com/track/500h8jAdr7LvzzXlm1qxtK) | [Pilot](https://open.spotify.com/artist/6PwcexHTG0qJWQQwp05Bpm) | [From The Album Of The Same Name](https://open.spotify.com/album/2ECNvuuHKvd8x0Qy2737Rw) | 3:06 |

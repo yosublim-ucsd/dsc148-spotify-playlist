@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1243157,
+  "num_followers": 1243477,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 116626,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Runaround Sue",
         "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 171600,
       "name": "Runaround Sue",
       "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Higher And Higher",
         "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 179120,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Nothing But The Best (2008 Remastered)",
         "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 147520,
       "name": "Fly Me To The Moon - 2008 Remastered",
       "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 153205,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Platters Golden Hits",
         "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 145533,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "At Home",
-        "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
       "artists": [
         {
-          "name": "Shocking Blue",
-          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
+      "duration_ms": 140000,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1159,6 +1143,22 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "At Home",
+        "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
+      },
+      "artists": [
+        {
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Animal Tracks",
         "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 149360,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+        "name": "Most of the Animals",
+        "url": "https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA"
       },
       "artists": [
         {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
         }
       ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+      "duration_ms": 269906,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Most of the Animals",
-        "url": "https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA"
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
       },
       "artists": [
         {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
         }
       ],
-      "duration_ms": 269906,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK"
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Wicked Pickett",
         "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 187760,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Never To Be Forgotten - The Mustang Years",
-        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
-      },
-      "artists": [
-        {
-          "name": "The Bobby Fuller Four",
-          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "I Fought the Law - Single Version",
-      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 179426,
       "name": "Dance to the Music",
       "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Never To Be Forgotten - The Mustang Years",
+        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
+      },
+      "artists": [
+        {
+          "name": "The Bobby Fuller Four",
+          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "I Fought the Law - Single Version",
+      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
-      },
-      "artists": [
-        {
-          "name": "B.J. Thomas",
-          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Hooked On A Feeling",
-      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Tommy James and The Shondells: Anthology",
         "url": "https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 209800,
       "name": "Crimson & Clover",
       "url": "https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
+      },
+      "artists": [
+        {
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Tears on My Pillow",
-      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 138080,
       "name": "Memories Are Made Of This",
       "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Tears on My Pillow",
+      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
     },
     {
       "added_at": "2024-07-12 06:11:58",

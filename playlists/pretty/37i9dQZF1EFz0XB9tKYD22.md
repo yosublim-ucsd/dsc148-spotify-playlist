@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 322 songs - 19 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 322 songs - 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 82 | [End of the World](https://open.spotify.com/track/60myXm48xMbtq52nQRgEWc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:28 |
 | 83 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 |
 | 84 | [WildHorse](https://open.spotify.com/track/3jA2ZjqyX7JuQ0Z8IwVxEw) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:20 |
-| 85 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
-| 86 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 |
+| 85 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 |
+| 86 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
 | 87 | [Denim & Rhinestones](https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:48 |
 | 88 | [You Can't Bring Me Down](https://open.spotify.com/track/1Ov9aXTcZomQ8wUmgns3Ul) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 4:46 |
 | 89 | [Blessed](https://open.spotify.com/track/5gTuRkjPru8nt2wH2xToG4) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Greatest Hits](https://open.spotify.com/album/6oYPDF3t8SJ8zjWva4CRAL) | 4:36 |
@@ -192,8 +192,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 182 | [Greener Grass](https://open.spotify.com/track/5bd2oqoLOlJoPUGPaiQmIp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 4:04 |
 | 183 | [Like Patsy Would](https://open.spotify.com/track/0VPpa3mKfvg3B73xAGYfT2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Sima Cunningham](https://open.spotify.com/artist/7hCrrpVmgtWF6Y3MZed12l), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Lori](https://open.spotify.com/album/3IVEzHYoqjSQUbRodx4HOh) | 2:54 |
 | 184 | [I Know A Girl](https://open.spotify.com/track/5NDTTkIxKkg4WrhoMGqFCV) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 3:15 |
-| 185 | [Somebody New](https://open.spotify.com/track/4wtMEyWDxoxxiQtWywyYNT) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:11 |
-| 186 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
+| 185 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
+| 186 | [Somebody New](https://open.spotify.com/track/4wtMEyWDxoxxiQtWywyYNT) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:11 |
 | 187 | [Good Life](https://open.spotify.com/track/1N23c0ajye7u6jf8ABNLbY) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 3:35 |
 | 188 | [How To Break A Heart \(feat\. Lori McKenna & Hillary Lindsey\)](https://open.spotify.com/track/5x8C7QQpU81bS62LtFOeGv) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Lori McKenna](https://open.spotify.com/artist/1hjMVz40rkkOoGSnl3yweD), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:24 |
 | 189 | [Back in the Game](https://open.spotify.com/track/0uoPXey96C6nj5e9wdY5wr) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH) | 3:05 |
@@ -331,4 +331,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 321 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 322 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbkrYAAAAADA0r2cuviGTbYkNs4lNu3+`
+Snapshot ID: `AbkxMgAAAAAvlaO/az9FrJII/BV8aJcS`

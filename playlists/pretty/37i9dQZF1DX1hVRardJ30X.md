@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Yan Block, Fuerza Regida & Grupo Frontera, Neton Vega, Arcángel and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,803 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,849 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 30 | [Uueeeee](https://open.spotify.com/track/2rbveA82byggveMkKICvy2) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Beto](https://open.spotify.com/artist/4Wbl3vLb9qXJdyE6mWAExA), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Uueeeee](https://open.spotify.com/album/144ipzW4clREg2EDAzrPHm) | 2:35 |
 | 31 | [VEN DEVORAME OTRA VEZ](https://open.spotify.com/track/0cdKJgwwt2HeVJkiTX8wpl) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Aguinaldo](https://open.spotify.com/album/1NIulGAguTLJxREWCVe3QH) | 6:06 |
 | 32 | [No Te Canses](https://open.spotify.com/track/7pW265YdL4QnqcOn4zXmey) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [No Te Canses](https://open.spotify.com/album/2KjVW5GOPuF0CDDNv4WKsK) | 2:16 |
-| 33 | [MONEY GVNG \#FREESTYLE](https://open.spotify.com/track/5ASV0cgY2LZaMJpKbOVgOr) | [Fito la R](https://open.spotify.com/artist/33l3ylTVUcPmVQazgfhU92), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [MONEY GVNG \#FREESTYLE](https://open.spotify.com/album/5UhPeVdUeKW6QOcabqBgKG) | 1:48 |
+| 33 | [MONEY GVNG \#FREESTYLE](https://open.spotify.com/track/5ASV0cgY2LZaMJpKbOVgOr) | [Fito la R](https://open.spotify.com/artist/33l3ylTVUcPmVQazgfhU92), [Foreign Teck](https://open.spotify.com/artist/5Ynd2yijR0qdZaOTUWMjXv) | [MONEY GVNG \#FREESTYLE](https://open.spotify.com/album/5UhPeVdUeKW6QOcabqBgKG) | 1:48 |
 | 34 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Cada Día Te Quiero Más](https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn) | 3:43 |
 | 35 | [Ladrón](https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ladrón](https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW) | 2:39 |
 | 36 | [24](https://open.spotify.com/track/2ZJtRsJjRgzTAat3bStWx5) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [24](https://open.spotify.com/album/4N7weuortyMp5OTwwfbWvK) | 2:35 |

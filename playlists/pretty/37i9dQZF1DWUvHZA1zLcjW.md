@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,739 likes - 122 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,767 likes - 122 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

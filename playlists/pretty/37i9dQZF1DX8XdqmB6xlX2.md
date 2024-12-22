@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XdqmB6xlX2.md) - [plain]
 
 > El hogar de tu nueva canción favorita\. Foto: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,455 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,464 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

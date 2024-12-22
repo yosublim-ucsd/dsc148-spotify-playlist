@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 776 likes - 253 songs - 13 hr 32 min
+[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 777 likes - 253 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

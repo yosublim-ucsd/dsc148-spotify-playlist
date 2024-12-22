@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Nautilus
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,680 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,706 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 29 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
 | 30 | [Waterfilm](https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Waterfilm](https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs) | 4:17 |
 | 31 | [This city is too jazzy to be in love](https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [cure jazz](https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf) | 3:30 |
-| 32 | [Straying In Alpacas](https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Straying In Alpacas](https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N) | 5:58 |
-| 33 | [Emotional](https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi) | [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [LINK](https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA) | 3:02 |
-| 34 | [Stompin at the M](https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [大津惇](https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ) | [Wind Loop Case 1](https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b) | 3:43 |
+| 32 | [Emotional](https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi) | [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [LINK](https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA) | 3:02 |
+| 33 | [Stompin at the M](https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [大津惇](https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ) | [Wind Loop Case 1](https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b) | 3:43 |
+| 34 | [Straying In Alpacas](https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Straying In Alpacas](https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N) | 5:58 |
 | 35 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
 | 36 | [Deep Inside](https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Deep Inside](https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR) | 4:00 |
 | 37 | [Sunrise](https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Panorama](https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86) | 3:38 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 45 | [KIMOCHIS](https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 3:41 |
 | 46 | [Kowree Sambazzi](https://open.spotify.com/track/39WZQw0C5qQ9SEw2OGyMIT) | [Kyoto Jazz Massive](https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv), [Vanessa Freeman](https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c), [Bembe Segue](https://open.spotify.com/artist/2ox6AU0eHDMkXfbcvmOQA4) | [KJM COVERS Kyoto Jazz Massive 30th Anniversary Compilation](https://open.spotify.com/album/64tGM8VnNcS2EMWLdmtSbI) | 6:06 |
 | 47 | [Beyond the Redemption](https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [A STORY ABOUT YOU](https://open.spotify.com/album/6YB2R3p6K2X6Slkiq1w4t2) | 4:52 |
-| 48 | [Kobune](https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO) | [Taka Nawashiro](https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c) | [Lifescape](https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL) | 5:07 |
+| 48 | [S.Y.P.T\. \(Show Your PentaTonic\)](https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [TAPES of ACES \- Side A](https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC) | 6:49 |
 | 49 | [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 |
-| 50 | [S.Y.P.T\. \(Show Your PentaTonic\)](https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [TAPES of ACES \- Side A](https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC) | 6:49 |
+| 50 | [Kobune](https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO) | [Taka Nawashiro](https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c) | [Lifescape](https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL) | 5:07 |
 
 Snapshot ID: `Z2GR9wAAAAAOoXuG8UgStIxpBtMe2idS`

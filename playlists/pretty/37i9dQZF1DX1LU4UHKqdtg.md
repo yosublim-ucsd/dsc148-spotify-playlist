@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: MARK
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,121 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,181 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

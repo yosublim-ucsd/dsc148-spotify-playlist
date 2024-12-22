@@ -1,6 +1,6 @@
 {
   "description": "\u00a1\u00danete al party con estos hits! Baila y canta hasta el amanecer",
-  "num_followers": 1977453,
+  "num_followers": 1977539,
   "original_name": "Fiesta! Fiesta Navide\u00f1a! ",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,42 @@
     {
       "added_at": "2024-12-18 20:03:23",
       "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+    },
+    {
+      "added_at": "2024-12-18 20:03:23",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2024-12-18 20:03:23",
+      "album": {
         "name": "Vaquero (Remix)",
         "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
       },
@@ -567,42 +603,6 @@
       "duration_ms": 300000,
       "name": "Vaquero - Remix",
       "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
-    },
-    {
-      "added_at": "2024-12-18 20:03:23",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 258298,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
-    },
-    {
-      "added_at": "2024-12-18 20:03:23",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
     },
     {
       "added_at": "2024-12-18 20:03:23",
@@ -803,22 +803,18 @@
     {
       "added_at": "2024-12-18 20:03:23",
       "album": {
-        "name": "CONTIGO (with Ti\u00ebsto)",
-        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 192786,
-      "name": "CONTIGO (with Ti\u00ebsto)",
-      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2024-12-18 20:03:23",
@@ -843,18 +839,22 @@
     {
       "added_at": "2024-12-18 20:03:23",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
     },
     {
       "added_at": "2024-12-18 20:03:23",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-12-18 20:03:23",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2024-12-18 20:03:23",
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 209361,
       "name": "TOMMY & PAMELA",
       "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
-    },
-    {
-      "added_at": "2024-12-18 20:03:23",
-      "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2024-12-18 20:03:23",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2024-12-18 20:03:23",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": "2024-12-18 20:03:23",
-      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "added_at": "2024-12-18 20:03:23",
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": "2024-12-18 20:03:23",

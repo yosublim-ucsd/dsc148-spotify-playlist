@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,744 likes - 50 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,749 likes - 50 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 40 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
 | 41 | [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO) | [Leo Fonseca](https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [O Que Tua Glória Fez Comigo \(Ao Vivo\)](https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w) | 8:58 |
 | 42 | [Glória & Honra](https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:25 |
-| 43 | [Só Existe Um Lugar \- Ao Vivo](https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Só Existe Um Lugar \(Ao Vivo\)](https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN) | 7:07 |
-| 44 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 |
+| 43 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 |
+| 44 | [Só Existe Um Lugar \- Ao Vivo](https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Só Existe Um Lugar \(Ao Vivo\)](https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN) | 7:07 |
 | 45 | [Não Mais Escravos](https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Não Mais Escravos](https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB) | 6:47 |
 | 46 | [Me Esvaziar](https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nívea Soares 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA) | 6:57 |
 | 47 | [Os Que Esperam \- Ao Vivo](https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Enche Este Lugar \- Ao Vivo em Curitiba](https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 14:57 |
 | 50 | [Hosana \- Ao Vivo](https://open.spotify.com/track/3UMeu4qzpJC0XW8s1hW1Yd) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/38lZbkJnTd1c4aZePzOX2V) | 5:48 |
 
-Snapshot ID: `Z2NiAAAAAAAKZ+imXfwmM6SJUGRX9NLY`
+Snapshot ID: `Z2SzgAAAAAAtH9tnuTkOPsXvPKPTen0F`

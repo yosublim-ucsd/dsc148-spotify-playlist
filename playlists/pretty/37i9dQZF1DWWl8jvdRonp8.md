@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,060 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,274 likes - 125 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 84 | [Mi Najayita](https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 3:09 |
 | 85 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Homenaje A Mi Madre](https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE) | 5:00 |
 | 86 | [Presiento Que Voy A LLorar](https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:13 |
-| 87 | [Homenaje A Los Bukis](https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Homenaje A Los Bukis](https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K) | 10:19 |
-| 88 | [Necesito una Compañera](https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Necesito una Compañera](https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l) | 3:06 |
+| 87 | [Necesito una Compañera](https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Necesito una Compañera](https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l) | 3:06 |
+| 88 | [Homenaje A Los Bukis](https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Homenaje A Los Bukis](https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K) | 10:19 |
 | 89 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:03 |
 | 90 | [Poquito A Poco](https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 2:54 |
 | 91 | [Como fui a enamorarme de ti](https://open.spotify.com/track/6ZtlLTjNCmFK8rO14BL1vh) | [Banda Llano Verde](https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54) | [Como fui a enamorarme de ti](https://open.spotify.com/album/5gTPhW1jEwW02Ngtc0yhLx) | 3:54 |

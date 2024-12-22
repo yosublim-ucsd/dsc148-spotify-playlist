@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,474 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,492 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 8 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 |
 | 9 | [Sen Dönene Kadar](https://open.spotify.com/track/6XcQYyB6zqaQxplBPKLhi5) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/4qWQUkpliWcfiiLulxM1Xx) | 3:09 |
 | 10 | [Cuma](https://open.spotify.com/track/4v1eCQCl3d5w8a6Czv4qTv) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAFTASONU](https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa) | 2:10 |
-| 11 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 |
+| 11 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 |
 | 12 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 |
 | 13 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
-| 14 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 |
+| 14 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 |
 | 15 | [Sağlam Kalça](https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk) | 2:14 |
 | 16 | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8) | 3:18 |
 | 17 | [ıslak kum](https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [ıslak kum](https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh) | 3:06 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 45 | [madem](https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [madem](https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU) | 2:22 |
 | 46 | [Kimse bilmiyor](https://open.spotify.com/track/3Hkia1c1vf930mO4SZ3ZnA) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz) | [Kimse bilmiyor](https://open.spotify.com/album/36w2dxLUwvWx0XwnHVePyK) | 2:54 |
 | 47 | [RARRii](https://open.spotify.com/track/7qGw1hPWBrbJwMdWzWjMXn) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [RARRii](https://open.spotify.com/album/23Au28uqhjjeDOfqDWMgnT) | 2:47 |
-| 48 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
-| 49 | [FİLM ŞERİDİ](https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [FİLM ŞERİDİ](https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8) | 2:16 |
+| 48 | [FİLM ŞERİDİ](https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [FİLM ŞERİDİ](https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8) | 2:16 |
+| 49 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
 | 50 | [Seviyo Sevmiyo](https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2) | [Umut Timur](https://open.spotify.com/artist/650blPhpj24aloFTk941L3), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Seviyo Sevmiyo](https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi) | 2:52 |
 
 Snapshot ID: `Zv+hSgAAAACZf7ufiJxpvo04edxePUkR`

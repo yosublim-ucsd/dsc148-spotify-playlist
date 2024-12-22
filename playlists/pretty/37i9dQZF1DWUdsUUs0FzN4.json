@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 18919,
+  "num_followers": 18922,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -11,22 +11,18 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -55,18 +51,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Podemos Repetirlo",
-        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Podemos Repetirlo",
-      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Mu\u00e9vete",
         "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 211542,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Podemos Repetirlo",
+        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Podemos Repetirlo",
+      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "\u00d1ero Session 5",
+        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "duration_ms": 147633,
+      "name": "\u00d1ero Session 5",
+      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "CARNET",
         "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
       },
@@ -1039,30 +1063,6 @@
       "duration_ms": 183320,
       "name": "Me Dice Daddy",
       "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "\u00d1ero Session 5",
-        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        }
-      ],
-      "duration_ms": 147633,
-      "name": "\u00d1ero Session 5",
-      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1543,6 +1543,30 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Que Le Den",
+        "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
+      },
+      "artists": [
+        {
+          "name": "DJ Yelkrab",
+          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
+        },
+        {
+          "name": "Rey Pirin",
+          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        }
+      ],
+      "duration_ms": 193469,
+      "name": "Que Le Den",
+      "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "No Puedo Controlarme",
         "url": "https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4"
       },
@@ -1575,30 +1599,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Que Le Den",
-        "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
-      },
-      "artists": [
-        {
-          "name": "DJ Yelkrab",
-          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
-        },
-        {
-          "name": "Rey Pirin",
-          "url": "https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9"
-        },
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        }
-      ],
-      "duration_ms": 193469,
-      "name": "Que Le Den",
-      "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "En 4",
         "url": "https://open.spotify.com/album/4jRue9Ub0QsHVjbEJiwgSt"
       },
@@ -1611,30 +1611,6 @@
       "duration_ms": 141843,
       "name": "En 4",
       "url": "https://open.spotify.com/track/5eBVwJIJQY5amfYluJ8FF0"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Jordan Flight",
-        "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 159923,
-      "name": "Jordan Flight",
-      "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1667,6 +1643,30 @@
       "duration_ms": 159937,
       "name": "RAYBEN CAP 7: BELLAKACOQUETTE (feat. Profeta Yao Yao & Cachirula)",
       "url": "https://open.spotify.com/track/2PliTxLuOKE7RykFqDeDGb"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Jordan Flight",
+        "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 159923,
+      "name": "Jordan Flight",
+      "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2039,54 +2039,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "A la Bim Bom Bam",
-        "url": "https://open.spotify.com/album/1Aygxok69t1HTET2a1PlDF"
-      },
-      "artists": [
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Las Gemelas del Free",
-          "url": "https://open.spotify.com/artist/2K0a9Kxn7RcczBjYCDS3FT"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
-        },
-        {
-          "name": "Angel Fire",
-          "url": "https://open.spotify.com/artist/58hiIOFB45irfWAocqyK2K"
-        }
-      ],
-      "duration_ms": 128307,
-      "name": "A la Bim Bom Bam",
-      "url": "https://open.spotify.com/track/18QXmS1VzNzcDPrkiNrkY5"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Bellaqueo",
-        "url": "https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Sir Speedy",
-          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
-        }
-      ],
-      "duration_ms": 134638,
-      "name": "Bellaqueo",
-      "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Rkt Rmx (Remix)",
         "url": "https://open.spotify.com/album/3MsjfOvBMfvjhvItOCOicd"
       },
@@ -2111,6 +2063,54 @@
       "duration_ms": 172800,
       "name": "Rkt Rmx - Remix",
       "url": "https://open.spotify.com/track/2DhVtVuoTPaDJu2c3Jn1fW"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Bellaqueo",
+        "url": "https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Sir Speedy",
+          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
+        }
+      ],
+      "duration_ms": 134638,
+      "name": "Bellaqueo",
+      "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "A la Bim Bom Bam",
+        "url": "https://open.spotify.com/album/1Aygxok69t1HTET2a1PlDF"
+      },
+      "artists": [
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Las Gemelas del Free",
+          "url": "https://open.spotify.com/artist/2K0a9Kxn7RcczBjYCDS3FT"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        },
+        {
+          "name": "Angel Fire",
+          "url": "https://open.spotify.com/artist/58hiIOFB45irfWAocqyK2K"
+        }
+      ],
+      "duration_ms": 128307,
+      "name": "A la Bim Bom Bam",
+      "url": "https://open.spotify.com/track/18QXmS1VzNzcDPrkiNrkY5"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2155,6 +2155,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Combiaton",
+        "url": "https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Casper Mx",
+          "url": "https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn"
+        }
+      ],
+      "duration_ms": 139218,
+      "name": "Combiaton",
+      "url": "https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Chakaleo",
         "url": "https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz"
       },
@@ -2179,26 +2199,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
-      },
-      "artists": [
-        {
-          "name": "Dj Bekman",
-          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
-        },
-        {
-          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
-          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
-        }
-      ],
-      "duration_ms": 216032,
-      "name": "Rompe La Discoteca",
-      "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "SUELTA SOLTERA",
         "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
       },
@@ -2215,6 +2215,26 @@
       "duration_ms": 152727,
       "name": "SUELTA SOLTERA",
       "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Rompe La Discoteca",
+        "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
+      },
+      "artists": [
+        {
+          "name": "Dj Bekman",
+          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
+        },
+        {
+          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
+          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
+        }
+      ],
+      "duration_ms": 216032,
+      "name": "Rompe La Discoteca",
+      "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2243,26 +2263,6 @@
       "duration_ms": 220000,
       "name": "3 x 3 (feat. Lexy Walter)",
       "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Perreo Chakalon",
-        "url": "https://open.spotify.com/album/6yiD7DcSWqTeh4s7M9cMo1"
-      },
-      "artists": [
-        {
-          "name": "DJ ETER",
-          "url": "https://open.spotify.com/artist/74d5JvA21aJKseU1ISn9CW"
-        },
-        {
-          "name": "Alexito Mix",
-          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
-        }
-      ],
-      "duration_ms": 136162,
-      "name": "Perreo Chakalon",
-      "url": "https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr"
     }
   ],
   "unique_name": "CHAKAL\u00d3N ",

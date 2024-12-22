@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 775213,
+  "num_followers": 775698,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACUqnbqg/7fQ0pt+A/yfmXc",
+  "snapshot_id": "Z2SzgAAAAACDxy8W3qH1v1ozhx/8S107",
   "tracks": [
     {
       "added_at": null,
@@ -78,11 +78,15 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
       "added_at": null,
@@ -154,15 +158,11 @@
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
     },
     {
       "added_at": null,

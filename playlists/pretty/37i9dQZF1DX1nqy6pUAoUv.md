@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,322 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,328 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 38 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
 | 39 | [Too Late Babe](https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:49 |
 | 40 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 |
-| 41 | [Wildflowers in the Graveyard](https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Wildflowers in the Graveyard](https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS) | 3:00 |
-| 42 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 |
+| 41 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 |
+| 42 | [Wildflowers in the Graveyard](https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK) | [Amber Rubarth](https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva) | [Wildflowers in the Graveyard](https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS) | 3:00 |
 | 43 | [Believe](https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Witness](https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY) | 3:54 |
 | 44 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 45 | [Learnin' to Drown](https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 4:53 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 71 | [The Bird & The Rifle](https://open.spotify.com/track/0CKWuLBs7x02MUc3F7FwtW) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:24 |
 | 72 | [Far Away the Hills Are Green](https://open.spotify.com/track/2FnuWrjoAnmYGCHooXhLjV) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Laura Quirke](https://open.spotify.com/artist/4h3AcEZW420n041l42tmFH) | [Far Away the Hills Are Green](https://open.spotify.com/album/1EBr9TXIaSHXICZEOzYMbp) | 4:00 |
 | 73 | [High and Low \(Acoustic\)](https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Fall \(Deluxe\)](https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu) | 2:47 |
-| 74 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 |
-| 75 | [Queen Jane Approximately](https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y) | [Emma Swift](https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R) | [Blonde On The Tracks \(Deluxe Edition\)](https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i) | 4:36 |
+| 74 | [Queen Jane Approximately](https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y) | [Emma Swift](https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R) | [Blonde On The Tracks \(Deluxe Edition\)](https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i) | 4:36 |
+| 75 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 |
 | 76 | [Green Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:38 |
 | 77 | [Hustlin' \[Feat\. Jerry Douglas & Chris Eldridge\]](https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:39 |
 | 78 | [Miracle of Love](https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Miracle of Love](https://open.spotify.com/album/5TdiHAoc87RInbeJFwACQx) | 4:28 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 95 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
 | 96 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
 | 97 | [Walk Into a Storm](https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk Into a Storm](https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp) | 5:06 |
-| 98 | [In the Kingdom of Dreams](https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD) | [Ian Felice](https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv) | [In the Kingdom of Dreams](https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7) | 3:56 |
-| 99 | [Lorraine](https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Lorraine](https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA) | 4:33 |
+| 98 | [Lorraine](https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Lorraine](https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA) | 4:33 |
+| 99 | [In the Kingdom of Dreams](https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD) | [Ian Felice](https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv) | [In the Kingdom of Dreams](https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7) | 3:56 |
 | 100 | [Pacific Northwest Bound](https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN) | [Mike McKenna Jr.](https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0) | [Pacific Northwest Bound](https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ) | 2:53 |
 
 Snapshot ID: `ZzbVUAAAAACmG3SgEe4Q2ECDWp6ZUWED`

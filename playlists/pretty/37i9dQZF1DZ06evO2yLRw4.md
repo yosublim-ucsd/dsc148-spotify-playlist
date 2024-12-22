@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,797 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,800 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 6 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/71dvxqSL0JT3J4Uv2WdPJx) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gnEi23PFBwHXT9rMqTsN5) | 2:34 |
 | 7 | [Kill Your Heroes](https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:58 |
 | 8 | [Woman Woman](https://open.spotify.com/track/7oaBv3Bx1ySw1QOY0yUxzQ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 |
-| 9 | [Jump Sit Stand March](https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Emily Armstrong](https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:51 |
+| 9 | [Barbarian](https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:03 |
 | 10 | [Thiskidsnotalright](https://open.spotify.com/track/0dGPGavyiPtOdAGGi11pt3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 2:41 |
 | 11 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
 | 12 | [Run](https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:01 |
-| 13 | [Barbarian](https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:03 |
+| 13 | [Jump Sit Stand March](https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Emily Armstrong](https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:51 |
 | 14 | [Candy Pop](https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 2:42 |
 | 15 | [Burn It Down](https://open.spotify.com/track/4apfsISItA7UeoSZsw5DsB) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:45 |
 | 16 | [Hollow Moon \(Bad Wolf\)](https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 50 | [Alone Again \(Naturally\)\[feat\. Midland\]](https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 3:31 |
 | 51 | [Some Kind of Joke](https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 4:52 |
 
-Snapshot ID: `Z2NiAAAAAAB8Se6HpGN05ecwDhzWuw84`
+Snapshot ID: `Z2SzgAAAAABx9b7Ceguj+YSvCbaFoVHN`

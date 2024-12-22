@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,931 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,057 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 32 | [Evermore](https://open.spotify.com/track/05o0VN6ld61e3843bPgTyg) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D) | [Bloom](https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid) | 3:25 |
 | 33 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 |
 | 34 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/7f1uY6RHAj9voSkbPyMlFm) | 1:58 |
-| 35 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
-| 36 | [FORMIDABLE](https://open.spotify.com/track/5CIu7QMbF0cdalpFsZbkDT) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [FORMIDABLE](https://open.spotify.com/album/0SMGp4F2NJH7sX2s4wv6HY) | 2:30 |
+| 35 | [FORMIDABLE](https://open.spotify.com/track/5CIu7QMbF0cdalpFsZbkDT) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [FORMIDABLE](https://open.spotify.com/album/0SMGp4F2NJH7sX2s4wv6HY) | 2:30 |
+| 36 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
 | 37 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 |
 | 38 | [VER KAÇ](https://open.spotify.com/track/4PrHQoEWfiqbwYfvpki3xf) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [VER KAÇ](https://open.spotify.com/album/3JDWZAU8nvhdxeeCmsioDS) | 2:25 |
 | 39 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 95 | [samba de rua](https://open.spotify.com/track/2KAA9pNM75emBljtHSzwYr) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [samba de rua](https://open.spotify.com/album/09yJxhmXzfP1BVwgOOJdmr) | 2:34 |
 | 96 | [On Job](https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP) | [WAY2LATE](https://open.spotify.com/artist/3hIp8uy0RH7L4N3EQ9Nz8a), [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [On Job](https://open.spotify.com/album/1EHQ7OMBWdPpDDme9JpnXJ) | 2:01 |
 | 97 | [Hey Hey Hey](https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ) | [Hey Hey Hey](https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e) | 2:53 |
-| 98 | [Roses Ether](https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Roses Ether](https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q) | 2:58 |
-| 99 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
+| 98 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
+| 99 | [Roses Ether](https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Roses Ether](https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q) | 2:58 |
 | 100 | [Juanita](https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Juanita](https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9) | 3:46 |
 | 101 | [JARAHA](https://open.spotify.com/track/6tZKAwKAHLlmqBRgbGcygk) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Brô MC's](https://open.spotify.com/artist/5nwwplsLg8wQ93qamvX4Pq) | [THE FUTURE IS ANCESTRAL](https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3) | 2:21 |
 | 102 | [BABE](https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BABE](https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn) | 2:27 |

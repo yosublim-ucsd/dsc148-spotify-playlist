@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-272 songs - 18 hr 48 min
+273 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Loverboy \(Remix\)](https://open.spotify.com/track/4igqjAFcH35y4XybHzJ3aD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Twenty II](https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:30 | 2024-01-29 |  |
 | [Loverboy \- Firecracker \- Original Version, 2001](https://open.spotify.com/track/0g7ri4rS3G1Bu76aBvWMtE) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:14 | 2024-02-27 |  |
 | [Lullaby](https://open.spotify.com/track/2MUV7GGJ5aqNKIsxWLBvqM) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:55 | 2024-01-29 |  |
+| [Made For Me \(with Mariah Carey\)](https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7) | 3:09 | 2024-12-21 |  |
 | [Make It Happen](https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 5:07 | 2024-01-29 |  |
 | [Make It Happen \- Dub Version](https://open.spotify.com/track/3sZZtxhmOk9ofIHAvw6RcP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Make It Happen EP](https://open.spotify.com/album/4eEYKyd209YmQGjOlfhGMA) | 7:27 | 2024-01-29 |  |
 | [Make It Happen \- Extended Version](https://open.spotify.com/track/5aWo5orXncK7RRj4ay4NLN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Make It Happen EP](https://open.spotify.com/album/4eEYKyd209YmQGjOlfhGMA) | 6:19 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,952 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,444 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 47 | [Christmas is Here \(feat\. Late Night Alumni\)](https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 2:47 |
 | 48 | [Christmas Bounce](https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Christmas Bounce](https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw) | 2:53 |
 | 49 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 |
-| 50 | [Last Christmas](https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Last Christmas](https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk) | 3:03 |
-| 51 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
+| 50 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
+| 51 | [Last Christmas](https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Last Christmas](https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk) | 3:03 |
 | 52 | [Christmas Days](https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Christmas Days](https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo) | 3:16 |
 | 53 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
 | 54 | [Santa Tell Me](https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Stephanie Schulte](https://open.spotify.com/artist/0lFLwxM5lPGtJVmCkjYTQ3) | [Santa Tell Me](https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4) | 2:37 |

@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Senza\_Cri
 
-582 songs - 1 day 3 hr 0 min
+583 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Berlino](https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Berlino](https://open.spotify.com/album/2Q2W3fSrwseo3WGxgzKEYV) | 3:13 | 2024-05-09 | 2024-05-24 |
 | [Bianco luna](https://open.spotify.com/track/2e50IuXTFJQNupiDZSD8Ge) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Universale](https://open.spotify.com/album/7jg6xJn7nWX7ewwruRG8sj) | 3:31 | 2023-06-01 | 2023-06-16 |
 | [BLACKOUT](https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:06 | 2023-09-14 | 2023-10-20 |
+| [BOGOTÀ](https://open.spotify.com/track/0pamvlplMuoJYYdWjx40F8) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa) | [BOGOTÀ](https://open.spotify.com/album/3iisQ3Y79XKrLu3Osh36g4) | 2:50 | 2024-12-21 |  |
 | [Bonjour Adieu](https://open.spotify.com/track/0ZUMp2xPOsuWUbzapU8uef) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Bonjour Adieu](https://open.spotify.com/album/5SWDp3JOGK60WK6aYe4qz7) | 3:22 | 2024-06-06 | 2024-07-12 |
 | [BONSAI \(feat\. Fasma\)](https://open.spotify.com/track/7fCQMAv6ZjAbvofRdSFrbV) | [Wayne](https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY), [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk) | [UNA NOTTE A MILANO](https://open.spotify.com/album/7udLQVcyNzgeA5wHfENxcM) | 2:22 | 2024-09-05 | 2024-10-18 |
 | [BOOSTER](https://open.spotify.com/track/62UEDjQEgBx7GDKDiSoz3i) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 | 2024-10-17 |  |

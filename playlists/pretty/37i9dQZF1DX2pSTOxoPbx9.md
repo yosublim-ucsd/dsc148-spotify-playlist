@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,719 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,824 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 62 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
 | 63 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 |
 | 64 | [Hymnal](https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:26 |
-| 65 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
-| 66 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
+| 65 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
+| 66 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
 | 67 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 68 | [White Flag](https://open.spotify.com/track/28U855g6cGv2O3s5KzUcdr) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:03 |
 | 69 | [I'm Tired, You're Lonely](https://open.spotify.com/track/3eOowx1zDomY1YC1UDKDKn) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [I'm Tired, You're Lonely](https://open.spotify.com/album/2AaWRj37SqGDYUpUrol8lm) | 3:25 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 76 | [Hush \- Theme From Turn](https://open.spotify.com/track/6gt6hUfAeCcdDJcmlsD06p) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Hush \(Theme From Turn\)](https://open.spotify.com/album/7Ktx3fXFQf0zvz3Hbd1DNl) | 3:17 |
 | 77 | [O Love Is Teasin'](https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Tomorrow Is My Turn](https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg) | 4:32 |
 | 78 | [Speaking With Trees](https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Speaking With Trees](https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB) | 3:55 |
-| 79 | [The Groundskeeper](https://open.spotify.com/track/36CxmmDpZdUJqIyo5NTyfw) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 6:23 |
+| 79 | [I'll Be Gone](https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I'll Be Gone](https://open.spotify.com/album/206wJfi6TA85sHEFRy7UNv) | 2:24 |
 | 80 | [Come What May](https://open.spotify.com/track/3e9z2r0A75uBRuZG0czhvg) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:01 |
-| 81 | [I'll Be Gone](https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I'll Be Gone](https://open.spotify.com/album/206wJfi6TA85sHEFRy7UNv) | 2:24 |
+| 81 | [The Groundskeeper](https://open.spotify.com/track/36CxmmDpZdUJqIyo5NTyfw) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 6:23 |
 | 82 | [Fire Line](https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Fire Line](https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4) | 4:34 |
 | 83 | [Washed Away](https://open.spotify.com/track/00p6D4NaakmWGNR3EUtxtS) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [Washed Away](https://open.spotify.com/album/5W4I4AE67xrN2SlOxSkVWT) | 3:56 |
 | 84 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 93 | [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 |
 | 94 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
 | 95 | [Strange World](https://open.spotify.com/track/4qFh1e9S1WjklXE1TKAPU7) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Strange World](https://open.spotify.com/album/1XbUCqvbc6RVvnk8as2U6H) | 3:58 |
-| 96 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
-| 97 | [Stakes](https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz) | 5:11 |
-| 98 | [Houston TX](https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2IsJvOVAVDq7aHN8sRhGni) | 5:16 |
+| 96 | [Houston TX](https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2IsJvOVAVDq7aHN8sRhGni) | 5:16 |
+| 97 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
+| 98 | [Stakes](https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz) | 5:11 |
 | 99 | [My Love Took Me Down To The River To Silence Me](https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 5:00 |
 | 100 | [Dark](https://open.spotify.com/track/4wP7eUgKyufHkps0BuqcTc) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/3JEkU3iACus81448Un3ew4) | 5:07 |
 

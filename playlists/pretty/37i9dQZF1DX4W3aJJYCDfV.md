@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Burna Boy \(pictured\), Artemas, Nao and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,172 likes - 64 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,204 likes - 64 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 |
 | 2 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 |
-| 3 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 3 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 4 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
 | 5 | [Elektro](https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Elektro](https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll) | 2:25 |
 | 6 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 17 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 |
 | 18 | [Hello, Anxiety](https://open.spotify.com/track/4vsijqIw4L3Nu0skOLeew2) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc), [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Hello, Anxiety](https://open.spotify.com/album/3NyyHz86QDi0kvzEVbaCKN) | 3:05 |
 | 19 | [Cash Cobain x Fumez The Engineer \- Plugged In](https://open.spotify.com/track/2sJVvtTApYkcxzBrUepxZv) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Cash Cobain x Fumez The Engineer \- Plugged In](https://open.spotify.com/album/5aZG2yBmyq60pWnzlgjGPW) | 2:20 |
-| 20 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 20 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 21 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 |
 | 22 | [Cloud 9](https://open.spotify.com/track/2PunFfwQmub6lKMmLe0H3w) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7) | [Underrated](https://open.spotify.com/album/6SznjJElCCQwtgjIC4AuLx) | 3:08 |
 | 23 | [Motive](https://open.spotify.com/track/6gVyW7RykPzf2a7Hj2ROsY) | [Pat](https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL), [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN), [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV) | [Motive](https://open.spotify.com/album/1aVlrTu2bif0XE8qwRowbD) | 2:59 |

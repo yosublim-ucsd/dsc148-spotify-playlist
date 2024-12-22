@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 250514,
       "name": "Agradecida",
       "url": "https://open.spotify.com/track/3RpgEC753NQF0SjbIBsx12"
@@ -21486,7 +21486,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 292373,
       "name": "Live The Tale",
       "url": "https://open.spotify.com/track/6pXI4ION5W0dEH28GniiD9"
@@ -22352,7 +22352,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 342500,
       "name": "Lovers and Strangers",
       "url": "https://open.spotify.com/track/57xBvgh1LKFkzcQtlSFvMt"
@@ -24525,6 +24525,28 @@
     },
     {
       "album": {
+        "name": "Jamnapaari (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7baTlfJtlvZGlpNq4IjXmZ"
+      },
+      "artists": [
+        {
+          "name": "Xyro",
+          "url": "https://open.spotify.com/artist/7jywk3r81OA5bX5Lv0ONp4"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129289,
+      "name": "Naya Maal",
+      "url": "https://open.spotify.com/track/1t7chQjHm7jFoVGxHNk6AP"
+    },
+    {
+      "album": {
         "name": "\u6771\u4eac\u30d7\u30e9\u30b6 Tokyo Plaza",
         "url": "https://open.spotify.com/album/3rqjvjnuLwXA6MhLaXf9Ck"
       },
@@ -26136,7 +26158,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 328332,
       "name": "One Assassination Under God",
       "url": "https://open.spotify.com/track/7ve3QsU7QcPdl8DnsyywGv"
@@ -27090,6 +27112,32 @@
       "duration_ms": 162000,
       "name": "Parasite - acoustic",
       "url": "https://open.spotify.com/track/5kjBjlkznLYkBja3QCSV2n"
+    },
+    {
+      "album": {
+        "name": "PROFE",
+        "url": "https://open.spotify.com/album/1meRwsCIUwhOUI1RrYdymw"
+      },
+      "artists": [
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "didgo",
+          "url": "https://open.spotify.com/artist/1f6DEHCnkjWvmLBeMIyfe5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119192,
+      "name": "Pareciera",
+      "url": "https://open.spotify.com/track/7nmTxkvOlpU537aJoLAJex"
     },
     {
       "album": {
@@ -28691,6 +28739,28 @@
     },
     {
       "album": {
+        "name": "Los Bunkers (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290752,
+      "name": "Quiero Dormir Cansado - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
+    },
+    {
+      "album": {
         "name": "Quiero Dormir Cansado (MTV Unplugged)",
         "url": "https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr"
       },
@@ -28706,7 +28776,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 290752,
       "name": "Quiero Dormir Cansado - MTV Unplugged",
       "url": "https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u"
@@ -28888,7 +28958,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 161494,
       "name": "R&'BLESS",
       "url": "https://open.spotify.com/track/09lzTYJ4Eh4A8O2nG8NCVV"
@@ -30068,7 +30138,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 177022,
       "name": "Rollin' At Twilight",
       "url": "https://open.spotify.com/track/0FqyUb2hys84hcHcTwmU67"
@@ -31750,7 +31820,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 257760,
       "name": "Shape Of My Heart",
       "url": "https://open.spotify.com/track/3NPIKVySb6S4vkNDcvpmKw"
@@ -38956,7 +39026,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 302666,
       "name": "Touched by the Hand of God - Salvation Version",
       "url": "https://open.spotify.com/track/3uTjrgMlLSnW1QgkfZO4Qt"
@@ -43050,7 +43120,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 395502,
       "name": "You're A Fool",
       "url": "https://open.spotify.com/track/7MbRAjFl6eppqqv63LxRMM"

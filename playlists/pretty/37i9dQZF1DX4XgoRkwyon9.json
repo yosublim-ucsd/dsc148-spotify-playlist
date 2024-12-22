@@ -1,6 +1,6 @@
 {
   "description": "Las rolitas m\u00e1s virales del 2024. En portada: Pedro El Mapache",
-  "num_followers": 74346,
+  "num_followers": 74442,
   "original_name": "Lo Mejor de Hits de Internet 2024",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "fantasmas",
         "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3?",
-        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+        "name": "The Dichotomy",
+        "url": "https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 174546,
-      "name": "\u00bfC\u00f3mo Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2mEMKgLqH3VZaSYO7iYCzp"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -559,22 +575,6 @@
       "duration_ms": 199200,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "The Dichotomy",
-        "url": "https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/2mEMKgLqH3VZaSYO7iYCzp"
     },
     {
       "added_at": "2024-12-04 12:15:00",

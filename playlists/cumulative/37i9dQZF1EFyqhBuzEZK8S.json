@@ -2089,6 +2089,28 @@
     },
     {
       "album": {
+        "name": "Happy - :D (Remixes)",
+        "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Heart on the Window (with WENDY)",
+      "url": "https://open.spotify.com/track/0gzXQHsv4zYHQ1pvlyYZZa"
+    },
+    {
+      "album": {
         "name": "Blue Neighbourhood (Deluxe)",
         "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
       },

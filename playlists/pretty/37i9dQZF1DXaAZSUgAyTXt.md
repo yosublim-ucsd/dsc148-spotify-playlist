@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAZSUgAyTXt.md) - [plain]
 
 > when life gives you lemons ¯\\\_\(ツ\)\_/¯
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,418 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,413 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAZSUgAyTXt.md) - [plain]
 | 33 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
 | 34 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 35 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
-| 36 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 37 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 |
+| 36 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 |
+| 37 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 38 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 |
 | 39 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
 | 40 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAZSUgAyTXt.md) - [plain]
 | 47 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 |
 | 48 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 49 | [Strawberry Sunscreen](https://open.spotify.com/track/6Xve7pWqzW6CQV8mlXzpBe) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Valleyheart](https://open.spotify.com/album/1RYBqAoMBjelC8bI6UJX2O) | 2:09 |
-| 50 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 |
+| 50 | [Nosebleed Seats](https://open.spotify.com/track/3zREOGri6ic2vk6Dt2NJWk) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM) | 2:41 |
 
 Snapshot ID: `ZwhOYAAAAAAe94erUlzrr0ugqvdjRDRz`

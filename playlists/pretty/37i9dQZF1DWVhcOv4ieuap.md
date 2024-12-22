@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,043 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,061 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 62 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 |
 | 63 | [Bailarina](https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:05 |
 | 64 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
-| 65 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 |
-| 66 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 |
+| 65 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 |
+| 66 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 |
 | 67 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 |
 | 68 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 |
 | 69 | [Tortura](https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:10 |

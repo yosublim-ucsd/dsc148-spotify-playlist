@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. 2024年にプレイリスト「Gacha Pop」で聴かれた楽曲を総まとめ。 cover: Cover: Kenshi Yonezu
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,385 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,567 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 13 | [Kawaikutegomen \(feat\. capi\)](https://open.spotify.com/track/4Mo0vn7a03pJ19uESUrH5a) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [Capi](https://open.spotify.com/artist/1CnxV1xCQR5pmAR6IHIIyR) | [Kokuhakujikkouiinkai \-FLYING SONGS\- Koishiteru](https://open.spotify.com/album/6RriT3rElmDYDODZjcKBcq) | 3:39 |
 | 14 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 |
 | 15 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 |
-| 16 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
+| 16 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
 | 17 | [Kyoufuu All Back](https://open.spotify.com/track/3rO7YwtuTzCGssxvDS4xK2) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:17 |
 | 18 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
 | 19 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 33 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 34 | [シカ色デイズ](https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD) | [鹿乃子のこ \(CV.潘めぐみ\)](https://open.spotify.com/artist/7Du39NxqFzjL8LmvlPJEAN), [虎視虎子 \(CV.藤田 咲\)](https://open.spotify.com/artist/6QiTCAQ2JAt94Q7YF9dQNd), [虎視餡子 \(CV.田辺留依\)](https://open.spotify.com/artist/7M7GeLY7h8g2URiwv93XsT), [馬車芽めめ \(CV.和泉風花\)](https://open.spotify.com/artist/73326vNByOtmvaXTJryL19) | [シカ色デイズ](https://open.spotify.com/album/2Hcqkag1iqVc1wAuoIC4gG) | 3:21 |
 | 35 | [Medicine](https://open.spotify.com/track/6oQd9KEbRMERESY1pftFyn) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [Medicine](https://open.spotify.com/album/3drg6tbDTAYqmpjejScu3f) | 2:00 |
-| 36 | [星寂夜](https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛ニ咲花](https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6) | 3:10 |
+| 36 | [星寂夜](https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛ニ咲花](https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6) | 3:10 |
 | 37 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 38 | [フィナーレ。](https://open.spotify.com/track/5qIlqZyWVeQeQ7weYYvrKv) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/2CDzWjtellhxylZYYOmMPN) | 4:04 |
 | 39 | [Baby you](https://open.spotify.com/track/5uTuOaPjAWptuzi0tpbze7) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [messy bag](https://open.spotify.com/album/7DqgqX97YgOFzw2MT0XAjO) | 2:44 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 65 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 |
 | 66 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
 | 67 | [満ちてゆく](https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [満ちてゆく](https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W) | 5:10 |
-| 68 | [Eureka](https://open.spotify.com/track/5N0J0YLHluyIMdrYf8TfE4) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Eureka](https://open.spotify.com/album/5HfCLJOXg3OJJbr6Lz9C67) | 3:45 |
+| 68 | [Eureka](https://open.spotify.com/track/5N0J0YLHluyIMdrYf8TfE4) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Eureka](https://open.spotify.com/album/5HfCLJOXg3OJJbr6Lz9C67) | 3:45 |
 | 69 | [感情御中](https://open.spotify.com/track/5f3Dg1YIy5yTlFa7H4MyCO) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [感情御中](https://open.spotify.com/album/68Xdvlu4LxXq1iNbxAnwh9) | 2:55 |
 | 70 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
 | 71 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 |

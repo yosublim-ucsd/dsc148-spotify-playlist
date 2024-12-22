@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-486 songs - 1 day 4 hr 30 min
+487 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ain't No Love That Blind](https://open.spotify.com/track/6wFM1C1cPnigEHCx7BcJqK) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Ain't No Love That Blind](https://open.spotify.com/album/1pU7k2yt0vZky5mwNuJviF) | 2:39 | 2024-05-10 | 2024-06-23 |
 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 | 2024-04-11 |  |
 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/164VgxTozx99XCinCB9ITR) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Djesse Vol\. 3](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) | 4:05 | 2023-01-10 | 2023-06-17 |
-| [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-12 |  |
+| [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-12 | 2024-12-22 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2022-02-14 | 2022-12-28 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/7nDYw1nNAW4dAqgmW2W3tq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Almost \(Sweet Music\)](https://open.spotify.com/album/2k7vcF0Yr1drY0YsJQAACa) | 3:37 | 2022-02-14 | 2022-07-29 |
 | [alone](https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [alone](https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW) | 2:52 | 2024-03-08 | 2024-11-09 |
@@ -66,7 +66,7 @@
 | [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-21 |  |
 | [Blueberry Hill](https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 3:20 | 2023-01-10 | 2024-03-09 |
 | [Born Again](https://open.spotify.com/track/0VplRMpbDsG7SHAVJWSAxT) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Born Again](https://open.spotify.com/album/3ebH8jRLi2eOdykaPfiUfZ) | 2:21 | 2022-02-14 | 2022-07-29 |
-| [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-05-17 |  |
+| [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-05-17 | 2024-12-22 |
 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 | 2024-07-19 | 2024-09-14 |
 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 | 2022-02-14 | 2022-12-28 |
 | [BRB](https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Isolation Tapes](https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI) | 3:30 | 2023-01-10 | 2023-03-18 |
@@ -201,6 +201,7 @@
 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 | 2024-04-11 | 2024-12-21 |
 | [hurt people](https://open.spotify.com/track/49bYOKCM7bc4rgtxh0hxLg) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [hurt people](https://open.spotify.com/album/69ZEIS1kDJhmKemxug7aP8) | 2:23 | 2024-03-22 | 2024-06-01 |
 | [I Believe In Miracles](https://open.spotify.com/track/2yXjbTKV40XLX2oCbyWz9k) | [Mark Capanni](https://open.spotify.com/artist/4BeNR2T3ZlSEdeVQTYlhG4) | [The Soul Of Capitol Records: Rare & Well\-Done](https://open.spotify.com/album/5gMhwg6vHZ8Smi0FoKyOUb) | 3:02 | 2022-12-28 | 2023-01-11 |
+| [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 | 2024-12-20 |  |
 | [I Can't Get Along Without You](https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ) | 6:40 | 2022-12-28 | 2023-01-11 |
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 | 2022-02-14 | 2023-03-25 |
 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 | 2023-01-10 | 2023-03-18 |
@@ -354,7 +355,7 @@
 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2023-01-10 | 2023-06-17 |
 | [Rotterdam \(Or Anywhere\)](https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l) | [The Beautiful South](https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90) | [Blue Is The Colour](https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2) | 3:35 | 2022-02-14 | 2022-12-28 |
 | [Rush Of Blood](https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Rush Of Blood](https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ) | 3:22 | 2024-08-16 | 2024-11-22 |
-| [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 | 2024-02-23 | 2024-12-21 |
+| [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 | 2024-02-23 |  |
 | [Same Road](https://open.spotify.com/track/5Hbmizr0ss3edCuh5d6eNT) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Same Road](https://open.spotify.com/album/6yMBwaR4mmcVy9PJ1PwidD) | 3:45 | 2024-04-11 | 2024-05-12 |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-12 |  |
 | [Scream \(Funk My Life Up\)](https://open.spotify.com/track/2W58wKH0UciMzGl7Ot19DY) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/0DnxCSZdeApVBVfcWsm3IJ) | 3:09 | 2024-04-11 | 2024-10-26 |

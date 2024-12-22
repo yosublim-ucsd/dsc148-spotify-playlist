@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: ML Buch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,637,218 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,637,606 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 41 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 42 | [all over u](https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [don't text me back](https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c) | 3:21 |
 | 43 | [Aquamarine / Arcamarine](https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Aquamarine / Arcamarine](https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN) | 3:14 |
-| 44 | [Punish](https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Punish](https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm) | 6:47 |
-| 45 | [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 |
+| 44 | [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 |
+| 45 | [Punish](https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Punish](https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm) | 6:47 |
 | 46 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 |
 | 47 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 48 | [may you never forget me](https://open.spotify.com/track/2sV11xuq4U8KlGWKCtGNpx) | [Temachii](https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ) | [flora maniia](https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk) | 3:35 |

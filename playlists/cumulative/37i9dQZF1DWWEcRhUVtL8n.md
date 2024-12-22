@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Laundry Day
 
-2,016 songs - 4 day 10 hr 39 min
+2,017 songs - 4 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-04-07 | 2024-05-07 |
 | [desire](https://open.spotify.com/track/59IZjbjihzu5wbWKQa3tKS) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [desire](https://open.spotify.com/album/0ILal2Iymn3PsxiQoDpo1C) | 2:31 | 2024-08-14 |  |
 | [Devil Laugh](https://open.spotify.com/track/3EsEyGSbW9y53RmozHYysM) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Counterparts](https://open.spotify.com/album/2qMPs3Ait3arKNnj3MSwxX) | 3:23 | 2021-08-13 | 2022-04-09 |
+| [Diamond Boy \(DTM\)](https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:37 | 2024-12-20 |  |
 | [Did I Make You Up?](https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Did I Make You Up?](https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc) | 2:29 | 2022-10-18 | 2023-04-01 |
 | [Didn't Make It](https://open.spotify.com/track/293vQBzppoLGqWgSwOzmxC) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Didn't Make It](https://open.spotify.com/album/4bswjAv070Cs95SI60avQV) | 3:51 | 2020-10-13\* | 2021-06-01 |
 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 | 2020-10-13\* | 2021-10-16 |
@@ -1912,7 +1913,7 @@
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2021-03-14 | 2021-10-16 |
 | [Watching You Disappear](https://open.spotify.com/track/5QcZdMoxsvfXkK0TnlF0hn) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Watching You Disappear](https://open.spotify.com/album/00GvccCzssnxgeitqcLY2H) | 3:15 | 2020-10-13\* | 2020-11-20 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2023-09-29 | 2023-12-09 |
-| [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 |  |
+| [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 | 2024-12-22 |
 | [Waves](https://open.spotify.com/track/6dH6NIftdswHruAjD80ZHB) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Waves](https://open.spotify.com/album/03GjkxYFYALwT61skyiFjW) | 2:13 | 2020-10-13\* | 2021-06-03 |
 | [Way Way Back](https://open.spotify.com/track/2hX7tp2n5rcObTtuhjo6cM) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun \(deluxe\)](https://open.spotify.com/album/6fhydReXt41QBLPRiompN5) | 3:57 | 2022-02-25 | 2022-07-29 |
 | [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-07-21 | 2024-03-30 |

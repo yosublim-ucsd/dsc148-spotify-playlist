@@ -4,7 +4,7 @@
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 11 min
+99 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,8 +98,9 @@
 | [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 | 2023-02-12 |  |
 | [The Pure and the Damned](https://open.spotify.com/track/4x79863wyp2dhJOiZYKPZN) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/4VlxoACFXldjZzS0gERQ65) | 4:29 | 2022-11-04 | 2023-01-18 |
 | [This Is A Film \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 4:13 | 2022-11-04 |  |
+| [Tiny Girls](https://open.spotify.com/track/5Jwn7FaCOEvJmiWQACIKZ1) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 3:00 | 2024-12-22 |  |
 | [Tonight](https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 3:39 | 2022-11-04 |  |
-| [TP&TD](https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Daniel Lopatin](https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH) | [Oneohtrix Point Never \- Collaborations](https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI) | 3:02 | 2024-09-22 |  |
+| [TP&TD](https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Daniel Lopatin](https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH) | [Oneohtrix Point Never \- Collaborations](https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI) | 3:02 | 2024-09-22 | 2024-12-22 |
 | [TV Screen \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/5Ioy9ZoOzXYXIcaX3Ent6m) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 5:18 | 2022-11-04 | 2023-11-11 |
 | [We're All Gonna Die](https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Slash](https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3) | 4:31 | 2022-11-04 | 2022-11-18 |
 | [Why Can't We Live Together](https://open.spotify.com/track/4ehjDSjvxRMWlB4aExCJQV) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Breathe](https://open.spotify.com/album/1VmQzWa2H4IRjpVReN8LDY) | 7:44 | 2022-11-04 | 2023-02-16 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 82253,
+  "num_followers": 82260,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAADT3qqnZFbP3Wsjh6tT2tAr",
+  "snapshot_id": "Z2SzgAAAAAAz3E9NBVl8D26C7U0ofEpC",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tributo a",
-        "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
       },
       "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Un Viejo Amor (feat. Edith M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e"
+      "duration_ms": 221440,
+      "name": "Completamente Blindada",
+      "url": "https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+        "name": "Tributo a",
+        "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
       },
       "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        },
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Completamente Blindada",
-      "url": "https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN"
+      "duration_ms": 161960,
+      "name": "Un Viejo Amor (feat. Edith M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e"
     },
     {
       "added_at": null,

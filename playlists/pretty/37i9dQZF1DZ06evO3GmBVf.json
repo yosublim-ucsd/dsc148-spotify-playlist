@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 189456,
+  "num_followers": 189522,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACCm4IQT7ZA8in4CYcmFUGN",
+  "snapshot_id": "Z2SzgAAAAABDtm8boM/OmysW/ys01rUr",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solita",
-        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Solita",
-      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Bais\u00f3n (feat. Toser One)",
         "url": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 219791,
       "name": "El Bais\u00f3n (feat. Toser One)",
       "url": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flaco Pesado",
         "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 157074,
       "name": "Flaco Pesado",
       "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
     },
     {
       "added_at": null,
@@ -867,26 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Click Clack",
-        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
+        "name": "Avion de Papel",
+        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
       },
       "artists": [
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
           "name": "Lefty Sm",
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Chain Trackz",
-          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
         }
       ],
-      "duration_ms": 178461,
-      "name": "Click Clack",
-      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
+      "duration_ms": 194899,
+      "name": "Quien Te Viera",
+      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
     },
     {
       "added_at": null,
@@ -927,18 +919,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avion de Papel",
-        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
+        "name": "Click Clack",
+        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
       },
       "artists": [
         {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
           "name": "Lefty Sm",
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Chain Trackz",
+          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
         }
       ],
-      "duration_ms": 194899,
-      "name": "Quien Te Viera",
-      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+      "duration_ms": 178461,
+      "name": "Click Clack",
+      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Made in Morocco, 100% hits marocains.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,626 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,733 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 12 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 |
 | 13 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
 | 14 | [Bla Bla](https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Bla Bla](https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs) | 3:01 |
-| 15 | [TILL WE MEET AGAIN](https://open.spotify.com/track/3IcTApVclbIMFnxxeDVxag) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [LINA](https://open.spotify.com/artist/6FvY6bTnFL5cVQ1tuY7m9z) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6U2c7rMdwV93aZe7T22rPP) | 4:51 |
+| 15 | [Mélancolique.](https://open.spotify.com/track/5CWZc1mtT7r33th3nwyMJh) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Mélancolique.](https://open.spotify.com/album/6C5Q1wAG3PrMqfk2iZYLY0) | 3:17 |
 | 16 | [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 |
 | 17 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 |
 | 18 | [MAHBOULA](https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAHBOULA](https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL) | 2:49 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 27 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
 | 28 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 |
 | 29 | [Machi Bedala](https://open.spotify.com/track/5Xi5ArUrhw7xYz4ZtGGiRv) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Machi Bedala](https://open.spotify.com/album/7oxjlOyaQWurxc93M6YH60) | 3:44 |
-| 30 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 |
-| 31 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 |
-| 32 | [Ghdaydi](https://open.spotify.com/track/1ltkoXySdo28bXpFfowp9F) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Ghdaydi](https://open.spotify.com/album/2D4R9VGzp7sbJKuyNo4n16) | 3:15 |
+| 30 | [Flouka](https://open.spotify.com/track/6qJsZS6HgNROEQ8CMYzaeV) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Flouka](https://open.spotify.com/album/7qBXcxkVVtw24cLXDiinIn) | 3:14 |
+| 31 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 |
+| 32 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 |
 | 33 | [Ma Jolie](https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:24 |
 | 34 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 |
 | 35 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 39 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 |
 | 40 | [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 |
 
-Snapshot ID: `Z1tq/AAAAADY95BD3fSDKAtTxbFHaARN`
+Snapshot ID: `Z2cdRgAAAADOjXkmdxq4niIwxc4V6g5f`

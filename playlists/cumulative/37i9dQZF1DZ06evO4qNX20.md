@@ -4,7 +4,7 @@
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 56 min
+55 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Juan Machado](https://open.spotify.com/track/2XqIjncebcypXl3RdDUjy9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:48 | 2024-06-01 | 2024-07-17 |
 | [Julián Del Real](https://open.spotify.com/track/2DLUM884fJVwsb5uaZ4QBe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 2:40 | 2024-01-29 |  |
 | [La Ametralladora](https://open.spotify.com/track/27YCBynZy6VINFpa09QlCi) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Mano A Mano Norteno](https://open.spotify.com/album/16MrsMDG0RKyQIeFJ1H6WM) | 2:34 | 2024-01-29 | 2024-04-06 |
+| [La Ametralladora](https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 2:36 | 2024-12-22 |  |
 | [La Ametralladora](https://open.spotify.com/track/6HU6CPW530Rx4mQJShfviL) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Mejores Duetos del Año](https://open.spotify.com/album/7terMn7qIuU20lfQidPPQY) | 2:36 | 2024-04-08 | 2024-11-05 |
 | [La Loba Del Mal](https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [La Flor Del Campo: El Pávido Návido](https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw) | 2:36 | 2024-01-29 |  |
 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/3hPONUfgInu27vGEezmcWR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:11 | 2024-01-29 |  |
@@ -50,7 +51,7 @@
 | [Nieves De Enero](https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:33 | 2024-01-29 |  |
 | [Nieves De Enero \(A Dueto Con Chalino Sánchez\)](https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [30 Éxitos Con El Inolvidable](https://open.spotify.com/album/6AJUpJae80XvlVI2Mrrlsb) | 3:33 | 2024-01-29 |  |
 | [Nocturno A Rosario](https://open.spotify.com/track/2ovPbQJ88pynqbYNyoTBLh) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:33 | 2024-01-29 |  |
-| [Pilares de Cristal](https://open.spotify.com/track/5MCLSA55onhNKIOd0R4hzT) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El 21 Black Jack](https://open.spotify.com/album/1q7gvn0iLFjNP1liFvZtcC) | 2:26 | 2024-01-29 |  |
+| [Pilares de Cristal](https://open.spotify.com/track/5MCLSA55onhNKIOd0R4hzT) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El 21 Black Jack](https://open.spotify.com/album/1q7gvn0iLFjNP1liFvZtcC) | 2:26 | 2024-01-29 | 2024-12-22 |
 | [Por Una Rencilla Vieja](https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:40 | 2024-01-29 |  |
 | [Prajedes Félix](https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 4:30 | 2024-01-29 |  |
 | [Prenda Del Alma](https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 3:16 | 2024-01-29 |  |

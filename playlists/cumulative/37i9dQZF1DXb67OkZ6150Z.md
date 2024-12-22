@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Ethel Cain
 
-468 songs - 1 day 4 hr 42 min
+469 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [agora hills \- Spotify Singles](https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [Spotify Singles](https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa) | 4:54 | 2024-06-14 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/7oIr9pjTvm9FKMEQwZvEiv) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Ain't No Sunshine](https://open.spotify.com/album/6aPAue76teQzfiZTliyHIE) | 2:31 | 2021-03-12 | 2022-06-26 |
 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 | 2022-05-20 | 2024-02-06 |
-| [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-03-12 |  |
+| [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-03-12 | 2024-12-22 |
 | [Alaska](https://open.spotify.com/track/36U3x7FsoB17GsOKAJKl7b) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Alaska](https://open.spotify.com/album/3y5VfET7NXVwdcgvluZ4vV) | 3:49 | 2021-04-19 | 2022-07-29 |
 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 | 2021-03-12 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/5BfNjlCclZMXlCv6o1PSQA) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Angel](https://open.spotify.com/album/2oNUBA3KULK55FUlzDBBxm) | 2:49 | 2022-02-25 | 2022-04-21 |
@@ -120,6 +120,7 @@
 | [Dreams](https://open.spotify.com/track/5RWbKDWHNFzmGar0rIiEev) | [JST FRNDS](https://open.spotify.com/artist/7liK6kUh6nKLH7NpvU1PLQ) | [Dreams](https://open.spotify.com/album/524NcQjDgENatNMySqXIde) | 4:21 | 2021-03-12 | 2022-06-10 |
 | [Dreams](https://open.spotify.com/track/5Ppp9IJc7xKMImEhwBTR0n) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Dreams](https://open.spotify.com/album/0SSyy4oYR6KxnQN8bPeK6r) | 4:19 | 2021-03-12 | 2022-04-21 |
 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2024-08-01 |
+| [Dreams Tonite](https://open.spotify.com/track/6kFQtqHLGKgSSUEUFBszFU) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Dreams Tonite](https://open.spotify.com/album/5QIyja8uXUCy0CgUeFbHAH) | 3:08 | 2024-12-20 |  |
 | [Drive](https://open.spotify.com/track/5YYIPLmYIkAle6s7Kf34qI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Drive](https://open.spotify.com/album/4FdoQ3s6u5POcFp9BUrWCK) | 4:32 | 2021-03-12 | 2022-07-29 |
 | [Early Morning Breeze](https://open.spotify.com/track/7xvvHuMKxAuMLFnMpENANu) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Early Morning Breeze](https://open.spotify.com/album/03jIj1uKSQjMu1hzaTTPqR) | 4:16 | 2021-03-19 | 2022-07-29 |
 | [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \(triple j Like A Version\)](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 | 2024-08-02 |  |

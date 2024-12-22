@@ -795,6 +795,36 @@
     },
     {
       "album": {
+        "name": "Wolves of Africa (Part 1/2)",
+        "url": "https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul"
+      },
+      "artists": [
+        {
+          "name": "James BKS",
+          "url": "https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV"
+        },
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210967,
+      "name": "New Breed",
+      "url": "https://open.spotify.com/track/4ReAZJugbi5xpVBI56oFxX"
+    },
+    {
+      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },

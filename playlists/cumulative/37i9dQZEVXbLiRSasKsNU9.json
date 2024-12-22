@@ -8172,7 +8172,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -22974,7 +22974,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 264920,
       "name": "G\u00f6nl\u00fcm",
       "url": "https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9"
@@ -23766,7 +23766,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -23784,7 +23784,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 216746,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/3iKpHZWqkPuzYRUAOhz0To"
@@ -28604,7 +28604,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 265817,
       "name": "Jhol",
       "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
@@ -49746,7 +49746,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
@@ -56046,7 +56046,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 211426,
       "name": "S\u00f6nen Sigaralar",
       "url": "https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93"
@@ -64294,6 +64294,28 @@
       "duration_ms": 166343,
       "name": "Wine Into Whiskey",
       "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"
+    },
+    {
+      "album": {
+        "name": "Winter Ahead (with PARK HYO SHIN)",
+        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234895,
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
       "album": {

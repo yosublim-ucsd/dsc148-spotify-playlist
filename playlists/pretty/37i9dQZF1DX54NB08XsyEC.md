@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > o bb da Anitta nasceu!!!!! /Foto: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,957 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,936 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 16 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
 | 17 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 18 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 19 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |
-| 20 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 |
+| 19 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 |
+| 20 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |
 | 21 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 |
 | 22 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
 | 23 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |

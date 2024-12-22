@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,126 songs - 11 day 6 hr 7 min
+7,127 songs - 11 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1348,7 +1348,7 @@
 | [Corner Store Snacks](https://open.spotify.com/track/7taBGYW3aZiGQb6HTtHSyq) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn) | [Corner Store Snacks](https://open.spotify.com/album/7LPhUkYAYP6hGdpqL2ebAD) | 2:17 | 2023-12-15 |  |
 | [cornern](https://open.spotify.com/track/6zw41lIJBVge6QrmDXSLSg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [cornern](https://open.spotify.com/album/4sOy24MrvRUXCrKOTdIMbw) | 1:41 | 2022-03-19 | 2022-08-19 |
 | [Cornerstone](https://open.spotify.com/track/7AhuBIZcgICxPKWHGWPvRU) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Cornerstone](https://open.spotify.com/album/63uMc211thP27HfNYHzXtP) | 2:32 | 2023-02-07 | 2023-05-04 |
-| [Corona](https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Corona](https://open.spotify.com/album/21BSTYsjKIYbF0P2tKKljp) | 1:58 | 2024-05-10 |  |
+| [Corona](https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Corona](https://open.spotify.com/album/21BSTYsjKIYbF0P2tKKljp) | 1:58 | 2024-05-10 | 2024-12-22 |
 | [Cosmic](https://open.spotify.com/track/5rc0u4BTW7VjzKshxjpxTL) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Cosmic](https://open.spotify.com/album/1p4QOCEGG1sF4w5tYkBUAR) | 2:19 | 2022-02-25 | 2022-07-29 |
 | [Cosmic](https://open.spotify.com/track/728T7WR1qCPLGvog2ak4bv) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [Cosmic](https://open.spotify.com/album/6JzHt9BdyxwocZv8BgxtW6) | 2:17 | 2023-04-05 | 2023-11-11 |
 | [Cosmic](https://open.spotify.com/track/2zCUl0TvKXb2z7TV5uCKPT) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Cosmic](https://open.spotify.com/album/4mVxF5UETtnYh3DYYfEdTt) | 2:17 | 2024-11-29 |  |
@@ -5408,6 +5408,7 @@
 | [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-05 | 2022-11-18 |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2021-07-11 | 2022-03-12 |
 | [shores](https://open.spotify.com/track/6WLWFfS4axtFwyVflguh4T) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [shores](https://open.spotify.com/album/12stHW1u0kvas8ZOx2JMRS) | 1:45 | 2024-11-29 |  |
+| [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 | 2024-12-20 |  |
 | [short run](https://open.spotify.com/track/45tQjnqMygB3NfLbkq3cIC) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Kushed Down](https://open.spotify.com/album/38EvL0BXMMcw9knOWRg0bq) | 1:30 | 2023-02-13 | 2024-03-22 |
 | [Should've Been On The EP.](https://open.spotify.com/track/7CDRfGAxSZ40lZMjwVVKQl) | [CO/\\CH](https://open.spotify.com/artist/2AJIjqxm6flalfI7hmMlTk), [Srae Lla Mi](https://open.spotify.com/artist/3QwrSguIxxR0orDdkH0bUC) | [Should've Been On The EP.](https://open.spotify.com/album/0YgSezRPNYw9fgBxpCGiBQ) | 2:07 | 2021-11-20 | 2022-05-27 |
 | [Show Me How Good It Can Get](https://open.spotify.com/track/6oXmftIjSNes0BS1s4xHHI) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Show me how good it can get](https://open.spotify.com/album/51pm8RProx32idqbwg34n0) | 2:14 | 2022-08-26 | 2023-01-07 |

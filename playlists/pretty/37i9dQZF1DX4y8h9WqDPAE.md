@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Honey Bxby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744,697 likes - 167 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,744,680 likes - 167 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 10 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 |
 | 11 | [gameboy](https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:46 |
 | 12 | [Scorsese Baby Daddy](https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:33 |
-| 13 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 13 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 14 | [POOKIE'S REQUIEM](https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [POOKIE'S REQUIEM](https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC) | 1:48 |
 | 15 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
 | 16 | [WHY \- Remix](https://open.spotify.com/track/2ins2Q1ZLqwzSFjsygUaPV) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [P90pope](https://open.spotify.com/artist/49lvi7sX6PjJVzxc7wkfsG) | [WHY \(Remix\)](https://open.spotify.com/album/5idxlo4gWfsekThzevmGYW) | 3:25 |

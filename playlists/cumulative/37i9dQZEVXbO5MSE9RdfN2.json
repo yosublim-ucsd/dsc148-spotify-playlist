@@ -8427,6 +8427,24 @@
     },
     {
       "album": {
+        "name": "Songs From The South",
+        "url": "https://open.spotify.com/album/0OkaKuQnx3pxK5t35dv54V"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267306,
+      "name": "How to Make Gravy",
+      "url": "https://open.spotify.com/track/6rEOqC9CQW7kzelaDivh65"
+    },
+    {
+      "album": {
         "name": "Songs from the South. Greatest Hits (1985-2019)",
         "url": "https://open.spotify.com/album/24gsq6af3OCjDRy6W4RWrD"
       },
@@ -8438,7 +8456,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 268911,
       "name": "How to Make Gravy",
       "url": "https://open.spotify.com/track/76wswZbVlavetSoQhvlxYj"
@@ -13702,7 +13720,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 196923,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
@@ -20760,7 +20778,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"

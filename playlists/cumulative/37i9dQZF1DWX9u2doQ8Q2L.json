@@ -11410,7 +11410,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 222753,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
@@ -13818,6 +13818,28 @@
       "duration_ms": 230498,
       "name": "Neo Tokio Stranger",
       "url": "https://open.spotify.com/track/0Zkl7Lp2XjVd3UgHYilqXb"
+    },
+    {
+      "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310133,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
     },
     {
       "album": {

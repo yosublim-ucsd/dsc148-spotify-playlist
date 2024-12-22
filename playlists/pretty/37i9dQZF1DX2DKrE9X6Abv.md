@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > this is your moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,144 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,194 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 9 | [505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 4:13 |
 | 10 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
 | 11 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
-| 12 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
-| 13 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
+| 12 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
+| 13 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 14 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
 | 15 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 |
 | 16 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 45 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 |
 | 46 | [Crush](https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB) | 4:26 |
 | 47 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 |
-| 48 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
-| 49 | [Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry up, We're Dreaming](https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG) | 5:43 |
-| 50 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 |
-| 51 | [The View Between Villages](https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:35 |
+| 48 | [Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry up, We're Dreaming](https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG) | 5:43 |
+| 49 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
+| 50 | [The View Between Villages](https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:35 |
+| 51 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 |
 | 52 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
 | 53 | [Strangers](https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:44 |
 | 54 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |

@@ -4,7 +4,7 @@
 
 > 🍂
 
-140 songs - 7 hr 6 min
+141 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Hellig](https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Hellig](https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv) | 3:39 | 2024-06-27 |  |
 | [henda i været](https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [henda i været](https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP) | 2:41 | 2024-06-27 |  |
 | [HJERTET MITT ER HELT OK](https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH), [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [HJERTET MITT ER HELT OK](https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4) | 2:24 | 2024-06-27 |  |
+| [Hollow](https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN) | [Sivert Høyem](https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG) | [Hollow](https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ) | 3:56 | 2024-12-19 |  |
 | [Hollywood Hills](https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Hollywood Hills](https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH) | 2:37 | 2024-10-24 |  |
 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 | 2024-06-27 | 2024-07-30 |
 | [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 | 2024-10-10 |  |
@@ -134,7 +135,7 @@
 | [Thunder in my heart \(music from the series\)](https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Thunder in my heart \(music from the series\)](https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B) | 2:49 | 2024-06-27 |  |
 | [Ti tusen](https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Ti tusen](https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X) | 3:00 | 2024-06-27 |  |
 | [Tilbake til start](https://open.spotify.com/track/35rznN12zBJXS0CROlBJbj) | [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Tilbake til start](https://open.spotify.com/album/2lUwGjDdXQVYeNwnrCFLRI) | 2:53 | 2024-11-28 | 2024-12-13 |
-| [tivoli](https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tivoli](https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT) | 2:37 | 2024-06-27 |  |
+| [tivoli](https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tivoli](https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT) | 2:37 | 2024-06-27 | 2024-12-22 |
 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 | 2024-10-10 |  |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-06-27 | 2024-10-14 |
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 |  |

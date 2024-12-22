@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 533429,
+  "num_followers": 533403,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
     },
     {
-      "added_at": "2024-11-09 01:23:57",
-      "album": {
-        "name": "This World's A Giant",
-        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "This World's A Giant",
-      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
-    },
-    {
       "added_at": "2024-10-03 23:15:00",
       "album": {
         "name": "Songs from the Valley",
@@ -359,6 +343,22 @@
       "duration_ms": 256519,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx"
+    },
+    {
+      "added_at": "2024-11-09 01:23:57",
+      "album": {
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "The Alcott (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 170824,
       "name": "Boys Of Faith (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Irish Goodbye",
-      "url": "https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 241502,
       "name": "Writer",
       "url": "https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Irish Goodbye",
+      "url": "https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Cairngorms",
-        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 252878,
-      "name": "Cairngorms",
-      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Heaven in the Right Light",
         "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 220955,
       "name": "Heaven in the Right Light",
       "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
       "added_at": "2024-10-03 23:15:00",

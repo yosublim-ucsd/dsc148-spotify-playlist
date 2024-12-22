@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover:  Dead Poet Society
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,961 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,987 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mayday](https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Mayday](https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3) | 3:23 |
 | 2 | [Awaken](https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Awaken](https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y) | 3:38 |
-| 3 | [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
+| 3 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 4 | [Heavy Is the Crown](https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:47 |
 | 5 | [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 |
 | 6 | [new way out](https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Negative Spaces](https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew) | 3:22 |

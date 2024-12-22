@@ -1,6 +1,6 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 10906,
+  "num_followers": 10944,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Otro Dia Mas Sin Verte",
-        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
-      },
-      "artists": [
-        {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
-        }
-      ],
-      "duration_ms": 287623,
-      "name": "Mi Novia, Mi Amante y Mujer",
-      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 226440,
       "name": "Me Arrepiento",
       "url": "https://open.spotify.com/track/2mImo5tRWlJrd7a1kl176n"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Otro Dia Mas Sin Verte",
+        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
+      },
+      "artists": [
+        {
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+        }
+      ],
+      "duration_ms": 287623,
+      "name": "Mi Novia, Mi Amante y Mujer",
+      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
+        "name": "La Fiesta Esta Buena",
+        "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 247379,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
         "name": "Me vas a Extra\u00f1ar",
         "url": "https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 302968,
       "name": "Me vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
-        "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
-        "url": "https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 342656,
-      "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
-      "url": "https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "La Fiesta Esta Buena",
-        "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
+        "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
+        "url": "https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz"
       },
       "artists": [
         {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 247379,
-      "name": "La Fotografia",
-      "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
+      "duration_ms": 342656,
+      "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
+      "url": "https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK"
     },
     {
       "added_at": "2024-09-24 21:27:06",

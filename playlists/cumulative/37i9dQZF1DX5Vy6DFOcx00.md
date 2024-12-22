@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,500 songs - 3 day 8 hr 17 min
+1,502 songs - 3 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Backstabber](https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:06 | 2021-12-29 | 2022-08-11 |
 | [Backstage Passes](https://open.spotify.com/track/6wAOzF7TnDlMG6fOSU3fwX) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Dauntless Manifesto](https://open.spotify.com/album/2g8S9vqA5k6Xb6Yvjldya3) | 2:17 | 2024-07-04 | 2024-08-15 |
 | [Backstroke](https://open.spotify.com/track/5Zbn1bJ3yxodPIRgJCp9xh) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Backstroke](https://open.spotify.com/album/6anKu2hrikzTux91WoVeuD) | 2:39 | 2022-08-26 | 2022-09-30 |
+| [Bad At Love](https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe Plus\)](https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx) | 3:01 | 2024-12-21 |  |
 | [Bad Dream](https://open.spotify.com/track/4vDGc8mD9kHbC2Yy6pF6SE) | [Stellar](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) | [Bad Dream](https://open.spotify.com/album/4mR99Q1wGLHgzGyCW4UfGT) | 2:27 | 2022-06-09 | 2022-06-17 |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2023-12-26 | 2024-03-09 |
 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2021-08-25 | 2022-04-05 |
@@ -708,7 +709,7 @@
 | [Karma \- Sped Up](https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Karma \(Sped Up\)](https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn) | 2:41 | 2022-08-01 | 2022-12-02 |
 | [Karma's A Bitch](https://open.spotify.com/track/3LwEb2gndSporUInoVxUFB) | [Brit Smith](https://open.spotify.com/artist/3c4w2ooGWx3cycO7ZcxNCF) | [Karma's A Bitch](https://open.spotify.com/album/6FnLYsxwTYRUqDq7hLiGbY) | 3:44 | 2024-04-18 | 2024-06-01 |
 | [Keep Dat Nigga](https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN) | [Keep Dat Nigga](https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng) | 2:18 | 2023-04-28 | 2023-09-06 |
-| [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-08-12 |  |
+| [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-08-12 | 2024-12-22 |
 | [Keeping Your Head Up \- \[Jonas Blue Remix\] \[Radio Edit\]](https://open.spotify.com/track/3Ksw35lo928mXJq9yjt6Dv) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Miss You \- Going Viral](https://open.spotify.com/album/1BRmGpxUjqYbF8T8iM9pEy) | 3:03 | 2022-11-21 | 2022-12-14 |
 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-06-03 | 2024-08-15 |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-14 |  |
@@ -927,7 +928,7 @@
 | [Nasty](https://open.spotify.com/track/2HotmgqM8BqsgXQQu5G5vs) | [Ayesha Erotica](https://open.spotify.com/artist/5EiwfaQxmwjCyPLZ7i6kxW) | [Resurrection: Greatest Hits](https://open.spotify.com/album/7yTl78Ux3oZJboFeuDMlb0) | 2:20 | 2022-03-11 | 2022-04-22 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-23 | 2024-09-16 |
 | [NASTY \- Extended Version](https://open.spotify.com/track/08XHGvYxioT9gMP6TPuaLR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [NASTY \(Extended Version\)](https://open.spotify.com/album/16c4zu2oKZ8JTGOWAAwz8X) | 2:56 | 2023-04-07 | 2023-06-06 |
-| [Nasty Dog](https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Chief Boot Knocka](https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP) | 4:00 | 2024-08-26 |  |
+| [Nasty Dog](https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Chief Boot Knocka](https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP) | 4:00 | 2024-08-26 | 2024-12-22 |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-12 | 2023-12-01 |
 | [Need It](https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Need It](https://open.spotify.com/album/3L3WBqghAN3LeGZa5eRIBk) | 3:15 | 2023-10-07 | 2023-11-08 |
 | [Need You](https://open.spotify.com/track/5FkBoG7xkb0pPkaO8rS5td) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Need You](https://open.spotify.com/album/7GDatS6iAApwmxAvLMEG1c) | 2:53 | 2022-02-09 | 2022-03-03 |
@@ -1433,6 +1434,7 @@
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-03-28 | 2022-04-08 |
 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 | 2023-12-11 | 2024-03-09 |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-02-29 | 2024-04-16 |
+| [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-21 |  |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-05-25 | 2022-06-14 |
 | [Wet The Bed \(feat\. Ludacris\)](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:26 | 2022-12-15 | 2023-01-18 |
 | [What Is Love](https://open.spotify.com/track/6CIff9z94pPApi2i3k2lq1) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [What Is Love](https://open.spotify.com/album/06h6eOZdXGCl2vB9XTZLHt) | 3:28 | 2022-04-10 | 2022-04-21 |

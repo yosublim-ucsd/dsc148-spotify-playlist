@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/rjbarrett/">RJ Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 30 | [9 5 \. s o u t h](https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:16 |
 | 31 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 |
 | 32 | [Best Friend](https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Best Friend](https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO) | 3:33 |
-| 33 | [Bestie](https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BETTER THAN YOU](https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3) | 1:51 |
-| 34 | [Don't Like.1](https://open.spotify.com/track/2rJvc7nSYWBKAuNUMx1Cr2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:43 |
+| 33 | [Don't Like.1](https://open.spotify.com/track/2rJvc7nSYWBKAuNUMx1Cr2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn) | 4:43 |
+| 34 | [Bestie](https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BETTER THAN YOU](https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3) | 1:51 |
 | 35 | [Okay](https://open.spotify.com/track/3jweuceENR5zzn10LhcjPH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:36 |
 | 36 | [Believe Me](https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Believe Me](https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n) | 5:37 |
 | 37 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "All the songs with more than 1 BILLION streams on Spotify.  Cover: Justin Bieber",
+  "description": "The Weeknd celebrates 25 Billion Club songs!",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -11026,6 +11026,28 @@
       "duration_ms": 205040,
       "name": "Praise The Lord (Da Shine) (feat. Skepta)",
       "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "Pray For Me (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK"
     },
     {
       "album": {

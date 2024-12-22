@@ -1,6 +1,6 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1414364,
+  "num_followers": 1414251,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 208373,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "When It's Dark Out",
-        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Me, Myself & I",
-      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -683,22 +663,6 @@
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -719,6 +683,42 @@
       "duration_ms": 201493,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "When It's Dark Out",
+        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Me, Myself & I",
+      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 252346,
       "name": "Vivir Mi Vida",
       "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "ROXANNE",
-        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "ROXANNE",
-      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "ROXANNE",
+        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "ROXANNE",
+      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
         "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
@@ -1763,22 +1763,6 @@
       "duration_ms": 214912,
       "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1815,6 +1799,22 @@
       "duration_ms": 219493,
       "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
       "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     }
   ],
   "unique_name": "Summer Hits of the 10s",

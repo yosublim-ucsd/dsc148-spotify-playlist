@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,634 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,658 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 42 | [新しい季節に](https://open.spotify.com/track/0a8N9Mf1zsfNTGFMpTZFlD) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [新しい季節に](https://open.spotify.com/album/2SzMaaGrYJUaEMsuDdDi7U) | 3:31 |
 | 43 | [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 |
 | 44 | [キミがいなくちゃっ！](https://open.spotify.com/track/3cOWBAxUo6w2kCEHLvKNlr) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/0BOnW22OXPOoZzTq4nNfoF) | 4:02 |
-| 45 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 |
+| 45 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 |
 | 46 | [SAKURAスキップ \- Cover](https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 3:48 |
-| 47 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 |
+| 47 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 |
 | 48 | [カサブタ \- Cover](https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:16 |
 | 49 | [チョコレイトの低音レシピ](https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 4:26 |
 | 50 | [青春 To Be Continued](https://open.spotify.com/track/0ffbqaw7SgaVKZ4Wzyx01o) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:16 |

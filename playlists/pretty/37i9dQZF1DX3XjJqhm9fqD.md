@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Rutshelle, John Legend and Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,253 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,305 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 91 | [JWAYE NWÈL](https://open.spotify.com/track/0JnJOtvhBY7SGCCb3fpsKE) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [JWAYE NWÈL](https://open.spotify.com/album/2Zwa7esu6EZoV1lZBTOYec) | 3:09 |
 | 92 | [PA KRIYE](https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [PA KRIYE](https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC) | 3:35 |
 | 93 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
-| 94 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 |
-| 95 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
+| 94 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
+| 95 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 |
 | 96 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
 | 97 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
-| 98 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 |
-| 99 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
+| 98 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
+| 99 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 |
 | 100 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
 
 Snapshot ID: `Z0AP0AAAAAAFiLkhnLU29Li6Yu4zhxAH`

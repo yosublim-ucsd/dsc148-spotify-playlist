@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Antonia, Oscar
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,573 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,585 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 8 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 |
 | 9 | [Bilet doar dus](https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Bilet doar dus](https://open.spotify.com/album/4nRZzLqqFM8ZQQmVdt81rp) | 2:21 |
 | 10 | [Dudadu](https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu](https://open.spotify.com/album/1R6lbA0eS3rw4wSetdUIhk) | 2:36 |
-| 11 | [Ultima dată](https://open.spotify.com/track/7B4J2a2igdWJvS2fTIhOZX) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ultima dată \(Radio Edit\)](https://open.spotify.com/album/6ButmZLaKMNNnqadJgzq4q) | 3:19 |
+| 11 | [Ultima dată](https://open.spotify.com/track/7B4J2a2igdWJvS2fTIhOZX) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ultima dată](https://open.spotify.com/album/6ButmZLaKMNNnqadJgzq4q) | 3:19 |
 | 12 | [Orice drum duce acasă](https://open.spotify.com/track/0IVutpfE8ayYpnr0XfbU6o) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Orice drum duce acasă](https://open.spotify.com/album/0CkYzw7KgsfypX4lL88IBx) | 4:11 |
 | 13 | [Screenshot](https://open.spotify.com/track/1HMgMXELMFh8AMBXpfbwsu) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Screenshot](https://open.spotify.com/album/5CBBGOdyIiARP5l8itGFsc) | 2:22 |
 | 14 | [Ultimul sărut](https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Ultimul sărut](https://open.spotify.com/album/2koLXtK6zIBjnPQI7ui7QZ) | 2:52 |

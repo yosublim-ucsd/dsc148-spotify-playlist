@@ -1,12 +1,12 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 90,
+  "num_followers": 91,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAABzn5fT9Qn8aHb6v0NfWH9e",
+  "snapshot_id": "Z2SzgAAAAAA4p4ntGicTh/nHqqrQd5z7",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mundo (Remix)",
+        "url": "https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 239530,
+      "name": "Cab\u00f4 - Remix",
+      "url": "https://open.spotify.com/track/6G0XvhgmeRjJVZxN2KAiSt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Em Nome do Vento",
         "url": "https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE"
       },
@@ -291,26 +315,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo (Remix)",
-        "url": "https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA"
+        "name": "O Rap \u00e9 PRETO! pt. 2",
+        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
         },
         {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
         },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 239530,
-      "name": "Cab\u00f4 - Remix",
-      "url": "https://open.spotify.com/track/6G0XvhgmeRjJVZxN2KAiSt"
+      "duration_ms": 247745,
+      "name": "O Rap \u00e9 PRETO! pt. 2",
+      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
     },
     {
       "added_at": null,
@@ -355,34 +383,6 @@
       "duration_ms": 417831,
       "name": "Azz Veizz (Das Minas)",
       "url": "https://open.spotify.com/track/2SLR4vTHHs0zyR6B1UUqk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Rap \u00e9 PRETO! pt. 2",
-        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
-      },
-      "artists": [
-        {
-          "name": "Nego Max",
-          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Dropallien",
-          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 247745,
-      "name": "O Rap \u00e9 PRETO! pt. 2",
-      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muita Calma",
-        "url": "https://open.spotify.com/album/5KkvAHSMPWKCNH72Pdt8TL"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
-        }
-      ],
-      "duration_ms": 210982,
-      "name": "Muita Calma",
-      "url": "https://open.spotify.com/track/7ID70qexcXsxTQpaEYTltY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mulher MC",
         "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 235966,
       "name": "Mulher MC",
       "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muita Calma",
+        "url": "https://open.spotify.com/album/5KkvAHSMPWKCNH72Pdt8TL"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
+        }
+      ],
+      "duration_ms": 210982,
+      "name": "Muita Calma",
+      "url": "https://open.spotify.com/track/7ID70qexcXsxTQpaEYTltY"
     },
     {
       "added_at": null,

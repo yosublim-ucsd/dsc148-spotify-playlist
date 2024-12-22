@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,413 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,433 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 37 | [Little Toy Guns](https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:30 |
 | 38 | [I Wanna Remember \(feat\. Carrie Underwood\)](https://open.spotify.com/track/124KRi7jkm9Skq89xIK28V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Into The Mystery](https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X) | 3:33 |
 | 39 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:18 |
-| 40 | [Because He Lives](https://open.spotify.com/track/0IssjoPK88JuZug9zYkwcC) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:47 |
+| 40 | [Just As I Am](https://open.spotify.com/track/3Bonb0dieWzWGF89p8uemU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 3:16 |
 | 41 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
 | 42 | [Cry Pretty](https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:07 |
-| 43 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
-| 44 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 |
+| 43 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 |
+| 44 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 |
 | 45 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
 | 46 | [Love Wins](https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:48 |
-| 47 | [Ever Ever After \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:29 |
-| 48 | [Crazy Angels](https://open.spotify.com/track/2Hs036vmX6ywJrGHDTKPEv) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:36 |
+| 47 | [Crazy Angels](https://open.spotify.com/track/2Hs036vmX6ywJrGHDTKPEv) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:36 |
+| 48 | [Ever Ever After \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:29 |
 | 49 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 | 50 | [Look at Me](https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:15 |
 
-Snapshot ID: `Z2NiAAAAAAA24GjTp8uotZuv65CM0O2g`
+Snapshot ID: `Z2SzgAAAAADt7EcaFmMyyZ/1kGkMlJWg`

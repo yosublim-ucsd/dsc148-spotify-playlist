@@ -1,6 +1,6 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 454640,
+  "num_followers": 454617,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-07 16:03:32",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2024-08-07 16:03:32",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 233880,
       "name": "Light On",
       "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
+    },
+    {
+      "added_at": "2024-08-07 16:03:32",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2024-08-07 16:03:32",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-08-07 16:03:32",
       "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 205986,
-      "name": "I Miss You (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58"
-    },
-    {
-      "added_at": "2024-08-07 16:03:32",
-      "album": {
         "name": "Happy Now",
         "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 207029,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa"
+    },
+    {
+      "added_at": "2024-08-07 16:03:32",
+      "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 205986,
+      "name": "I Miss You (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58"
     },
     {
       "added_at": "2024-08-07 16:03:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-07 16:03:32",
       "album": {
-        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 285120,
-      "name": "a thousand years",
-      "url": "https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN"
-    },
-    {
-      "added_at": "2024-08-07 16:03:32",
-      "album": {
         "name": "Outnumbered",
         "url": "https://open.spotify.com/album/4BQVnx1yJrDa1tcky9D9N6"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 245699,
       "name": "Outnumbered",
       "url": "https://open.spotify.com/track/6UjZ2Yx2g2a52XxiA8ONxZ"
+    },
+    {
+      "added_at": "2024-08-07 16:03:32",
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "a thousand years",
+      "url": "https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN"
     },
     {
       "added_at": "2024-08-07 16:03:32",

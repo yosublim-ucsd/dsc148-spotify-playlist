@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,514 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,609 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 23 | [M](https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56) | 3:03 |
 | 24 | [Fascination Street \- Remastered](https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:15 |
 | 25 | [Jumping Someone Else's Train](https://open.spotify.com/track/76XCLlTwCYYaqQ9aru4yLB) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:57 |
-| 26 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 |
+| 26 | [Drone:Nodrone](https://open.spotify.com/track/2rFip3zL6mqFv3XcALMqhd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 4:45 |
 | 27 | [Primary](https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 3:39 |
 | 28 | [Mint Car](https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wild Mood Swings](https://open.spotify.com/album/4VArO919KzAphNk7Kei20g) | 3:32 |
 | 29 | [Fire In Cairo](https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [Grinding Halt](https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:49 |
 | 50 | [Catch](https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 2:43 |
 
-Snapshot ID: `Z2NiAAAAAAAc//t4oC+GgrgPvh/03Pgb`
+Snapshot ID: `Z2SzgAAAAADwXjZj3Pyuv9G6vILrZg/N`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,262 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,264 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 86 | [Blame It On Me \- Acoustic](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 |
 | 87 | [beira \- PP sessions \- Ao Vivo](https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [GUPE \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K) | 3:42 |
 | 88 | [Taça De Vidro \- Acústico](https://open.spotify.com/track/2Z8UD0wNevn16bEClkD6ae) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Acústico Ana Gabriela](https://open.spotify.com/album/2iDfAGGJidhV0bKMpFpLzn) | 2:55 |
-| 89 | [Daisies \- Acoustic](https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies \(Acoustic\)](https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK) | 3:05 |
-| 90 | [Del Mar \- Acustico](https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:07 |
+| 89 | [Del Mar \- Acustico](https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:07 |
+| 90 | [Daisies \- Acoustic](https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies \(Acoustic\)](https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK) | 3:05 |
 
 Snapshot ID: `Z0CdNQAAAACKAlf58kih0Bg03ZNNW7wR`

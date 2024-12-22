@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 209841,
       "name": "Marry",
       "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
@@ -1928,10 +1928,36 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 145860,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
+    },
+    {
+      "album": {
+        "name": "Nobody: The Extended Playlist (Worldwide Remixes)",
+        "url": "https://open.spotify.com/album/1EHqy12UQ5mRrVOOQlzxtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2hQG5UZ0DZD0lCpq3rwoWx"
     },
     {
       "album": {
@@ -3126,7 +3152,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 153992,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"

@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 13176,
+  "num_followers": 13180,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,18 @@
     {
       "added_at": "2024-10-25 06:06:00",
       "album": {
-        "name": "Ote Me Mu",
-        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
       },
       "artists": [
         {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
-        },
-        {
-          "name": "MOG",
-          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 275551,
-      "name": "Ote Me Mu",
-      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
+      "duration_ms": 219168,
+      "name": "W'asem",
+      "url": "https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz"
     },
     {
       "added_at": "2024-10-25 06:06:00",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-10-25 06:06:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+        "name": "Ote Me Mu",
+        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Ohemaa Mercy",
+          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
+        },
+        {
+          "name": "MOG",
+          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
         }
       ],
-      "duration_ms": 219168,
-      "name": "W'asem",
-      "url": "https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz"
+      "duration_ms": 275551,
+      "name": "Ote Me Mu",
+      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
     },
     {
       "added_at": "2024-10-25 06:06:00",

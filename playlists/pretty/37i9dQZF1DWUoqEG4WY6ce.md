@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,913 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,096 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 29 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 | 30 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 |
 | 31 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:07 |
-| 32 | [Naive](https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 3:23 |
+| 32 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
 | 33 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
-| 34 | [Blue Orchid](https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:37 |
-| 35 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 34 | [Naive](https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 3:23 |
+| 35 | [Blue Orchid](https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:37 |
 | 36 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
 | 37 | [No You Girls](https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:43 |
 | 38 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 76 | [Oom Sha La La](https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 2:57 |
 | 77 | [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 |
 | 78 | [Golden](https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [It Still Moves](https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s) | 4:39 |
-| 79 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 |
-| 80 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
+| 79 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
+| 80 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 |
 | 81 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 |
 | 82 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
 | 83 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |

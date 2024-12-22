@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 331609,
       "name": "All Of It",
       "url": "https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S"
@@ -7922,6 +7922,36 @@
       "duration_ms": 371555,
       "name": "You're Toxic",
       "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"
+    },
+    {
+      "album": {
+        "name": "Global Awakening",
+        "url": "https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Dr. Phil Omanski",
+          "url": "https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD"
+        },
+        {
+          "name": "DJ Weirdo",
+          "url": "https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Young Birds",
+      "url": "https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU"
     },
     {
       "album": {

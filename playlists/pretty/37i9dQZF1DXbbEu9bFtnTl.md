@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > Hyperpopemocoretrap 100pre sad t odio bye 👾 evilgiane y Rojuu en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,887 likes - 101 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,902 likes - 101 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

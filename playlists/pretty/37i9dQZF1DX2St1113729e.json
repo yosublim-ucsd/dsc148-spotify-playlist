@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. tarchi",
-  "num_followers": 215643,
+  "num_followers": 215630,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -587,30 +587,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Astrozorras 2",
-        "url": "https://open.spotify.com/album/6OVzdAOxEcF9AxZDLA0wUa"
-      },
-      "artists": [
-        {
-          "name": "Slappy Av",
-          "url": "https://open.spotify.com/artist/6GWTEzK62O11ilSUbVG7Fi"
-        },
-        {
-          "name": "G.Lesson",
-          "url": "https://open.spotify.com/artist/5iZOu0IjAq1WI8RiaJMsOK"
-        },
-        {
-          "name": "Young Lesson",
-          "url": "https://open.spotify.com/artist/5B8frooErLcElqJxvUPhwa"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "Volver Con Mi Ex",
-      "url": "https://open.spotify.com/track/6x7bITUOfSa6me2QSAp17t"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "Casado Con el Trap",
         "url": "https://open.spotify.com/album/6GNXsCo7R9iT3Ni8o6DmND"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 181395,
       "name": "Casado Con el Trap",
       "url": "https://open.spotify.com/track/6fSDP66qTYZhpksJc74MS0"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "Astrozorras 2",
+        "url": "https://open.spotify.com/album/6OVzdAOxEcF9AxZDLA0wUa"
+      },
+      "artists": [
+        {
+          "name": "Slappy Av",
+          "url": "https://open.spotify.com/artist/6GWTEzK62O11ilSUbVG7Fi"
+        },
+        {
+          "name": "G.Lesson",
+          "url": "https://open.spotify.com/artist/5iZOu0IjAq1WI8RiaJMsOK"
+        },
+        {
+          "name": "Young Lesson",
+          "url": "https://open.spotify.com/artist/5B8frooErLcElqJxvUPhwa"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Volver Con Mi Ex",
+      "url": "https://open.spotify.com/track/6x7bITUOfSa6me2QSAp17t"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "ANGELES - \u20b3",
-        "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
-      },
-      "artists": [
-        {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "\u20b3ngeles",
-      "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "Un \u00c1ngel",
         "url": "https://open.spotify.com/album/6ovx98ZTYBsmHDSsk1Hjbl"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 174692,
       "name": "Un \u00c1ngel",
       "url": "https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "ANGELES - \u20b3",
+        "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
+      },
+      "artists": [
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "\u20b3ngeles",
+      "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1035,6 +1035,42 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
+      },
+      "artists": [
+        {
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+        }
+      ],
+      "duration_ms": 124478,
+      "name": "L\u00edmites",
+      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "Ying Yang",
+        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
+      },
+      "artists": [
+        {
+          "name": "grauu",
+          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Ying Yang",
+      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
         "name": "Indoor",
         "url": "https://open.spotify.com/album/3CBsnfrvPjcAx1q5sKUDHo"
       },
@@ -1071,26 +1107,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Ying Yang",
-        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
-      },
-      "artists": [
-        {
-          "name": "grauu",
-          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
-        },
-        {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Ying Yang",
-      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "Lo Que Dijiste",
         "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 208182,
       "name": "Lo Que Dijiste",
       "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
-      },
-      "artists": [
-        {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
-        }
-      ],
-      "duration_ms": 124478,
-      "name": "L\u00edmites",
-      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
+        "name": "Te Hice una Cancion! (Remix)",
+        "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
+      },
+      "artists": [
+        {
+          "name": "ANGELSWING",
+          "url": "https://open.spotify.com/artist/4l93phc6zqgSBB18O4LqsI"
+        },
+        {
+          "name": "Nico Salas",
+          "url": "https://open.spotify.com/artist/4JoeqMyMO3SFmxwYk3Iclr"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Te Hice una Cancion! - Remix",
+      "url": "https://open.spotify.com/track/3Q7YQ7Y0pWsSCQtEYcO3ZG"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
         "name": "Vivir De M\u00e1s",
         "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 217466,
       "name": "Vivir De M\u00e1s",
       "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
-        "name": "I`m Done",
-        "url": "https://open.spotify.com/album/5Q7MUJMJ7rtO0SH6p4rZYm"
-      },
-      "artists": [
-        {
-          "name": "Vidal 210",
-          "url": "https://open.spotify.com/artist/6U9snp3iSw9StKBheQ6KbK"
-        },
-        {
-          "name": "Pauet",
-          "url": "https://open.spotify.com/artist/7jEHnnafJ7S2fmZ3MESeQI"
-        }
-      ],
-      "duration_ms": 125649,
-      "name": "I`m Done",
-      "url": "https://open.spotify.com/track/4H5CXrmx3ekt32ZrIXc2vG"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
+        "name": "I`m Done",
+        "url": "https://open.spotify.com/album/5Q7MUJMJ7rtO0SH6p4rZYm"
+      },
+      "artists": [
+        {
+          "name": "Vidal 210",
+          "url": "https://open.spotify.com/artist/6U9snp3iSw9StKBheQ6KbK"
+        },
+        {
+          "name": "Pauet",
+          "url": "https://open.spotify.com/artist/7jEHnnafJ7S2fmZ3MESeQI"
+        }
+      ],
+      "duration_ms": 125649,
+      "name": "I`m Done",
+      "url": "https://open.spotify.com/track/4H5CXrmx3ekt32ZrIXc2vG"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
         "name": "NIGHTMARE",
         "url": "https://open.spotify.com/album/0OVY5ETbo57WeEGAR2mV0b"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 153750,
       "name": "NIGHTMARE",
       "url": "https://open.spotify.com/track/7noqHBzCAmHwlj0OqMvz6E"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
-        "name": "Te Hice una Cancion! (Remix)",
-        "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
-      },
-      "artists": [
-        {
-          "name": "ANGELSWING",
-          "url": "https://open.spotify.com/artist/4l93phc6zqgSBB18O4LqsI"
-        },
-        {
-          "name": "Nico Salas",
-          "url": "https://open.spotify.com/artist/4JoeqMyMO3SFmxwYk3Iclr"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Te Hice una Cancion! - Remix",
-      "url": "https://open.spotify.com/track/3Q7YQ7Y0pWsSCQtEYcO3ZG"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "ya fue",
-        "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
-      },
-      "artists": [
-        {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "ya fue",
-      "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "FOREVER YOUNG",
         "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 235384,
       "name": "Im Forever",
       "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "ya fue",
+        "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "ya fue",
+      "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
+        "name": "Diavlo",
+        "url": "https://open.spotify.com/album/0nMcBrHpOatpLxHX37jxXM"
+      },
+      "artists": [
+        {
+          "name": "Pau By Chance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        },
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Diavlo",
+      "url": "https://open.spotify.com/track/7F0p1D0tQMBTRmquBbDuDs"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
         "name": "Perra Alfa (Neukrapsio Remix)",
         "url": "https://open.spotify.com/album/3BhYJxBc3dW7OJz4IcRqvt"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 171764,
       "name": "Perra Alfa - Neukrapsio Remix",
       "url": "https://open.spotify.com/track/4PFM0ds7hIRea4bsKqEgWw"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
-        "name": "Diavlo",
-        "url": "https://open.spotify.com/album/0nMcBrHpOatpLxHX37jxXM"
-      },
-      "artists": [
-        {
-          "name": "Pau By Chance",
-          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
-        },
-        {
-          "name": "Octopvs To The Party",
-          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Diavlo",
-      "url": "https://open.spotify.com/track/7F0p1D0tQMBTRmquBbDuDs"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
+        "name": "cara de malo",
+        "url": "https://open.spotify.com/album/27ZWne6YsErPmzAeHmwV0J"
+      },
+      "artists": [
+        {
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+        }
+      ],
+      "duration_ms": 110480,
+      "name": "cara de malo",
+      "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
         "name": "RomanceRomantiKO",
         "url": "https://open.spotify.com/album/2vPtUZFF9o9wahq3mvbJk1"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 145442,
       "name": "RomanceRomantiKO",
       "url": "https://open.spotify.com/track/3N4WZ5U4RcC4MeJnuyKVgO"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
-        "name": "cara de malo",
-        "url": "https://open.spotify.com/album/27ZWne6YsErPmzAeHmwV0J"
-      },
-      "artists": [
-        {
-          "name": "fuchi",
-          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
-        }
-      ],
-      "duration_ms": 110480,
-      "name": "cara de malo",
-      "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
     },
     {
       "added_at": "2024-12-12 23:00:22",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-12-12 23:00:22",
       "album": {
-        "name": "Yerba Maligna",
-        "url": "https://open.spotify.com/album/6mV0ftAR9VD49SUHoa4qYU"
-      },
-      "artists": [
-        {
-          "name": "Hikigaeru",
-          "url": "https://open.spotify.com/artist/46HRkmALSZHqYdQtzY6uku"
-        }
-      ],
-      "duration_ms": 118578,
-      "name": "Yerba Maligna",
-      "url": "https://open.spotify.com/track/79hTKHPQRXKgioL4bODLnm"
-    },
-    {
-      "added_at": "2024-12-12 23:00:22",
-      "album": {
         "name": "FLOR",
         "url": "https://open.spotify.com/album/5yk2soT6ZFBvWZlmp4aJSZ"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 214400,
       "name": "FLOR",
       "url": "https://open.spotify.com/track/0pFMCV998z1q1LbZouGLJk"
+    },
+    {
+      "added_at": "2024-12-12 23:00:22",
+      "album": {
+        "name": "Yerba Maligna",
+        "url": "https://open.spotify.com/album/6mV0ftAR9VD49SUHoa4qYU"
+      },
+      "artists": [
+        {
+          "name": "Hikigaeru",
+          "url": "https://open.spotify.com/artist/46HRkmALSZHqYdQtzY6uku"
+        }
+      ],
+      "duration_ms": 118578,
+      "name": "Yerba Maligna",
+      "url": "https://open.spotify.com/track/79hTKHPQRXKgioL4bODLnm"
     },
     {
       "added_at": "2024-12-12 23:00:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,880 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,173 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 37 | [El Chancho Come Caviar](https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:35 |
 | 38 | [El Hospicio](https://open.spotify.com/track/4I17shszGarI3lEcneeEEK) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
 | 39 | [Mil preguntas](https://open.spotify.com/track/1sWSkjycfa70S1zcn0zWA3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Mil preguntas](https://open.spotify.com/album/7lza5ZZmSVr77GQhfiSgjs) | 3:09 |
-| 40 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
+| 40 | [Que Precio Tiene El Cielo](https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [Cómo Le Gusta A Mi Gente](https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg) | 4:13 |
 | 41 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
-| 42 | [Que Precio Tiene El Cielo](https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [Cómo Le Gusta A Mi Gente](https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg) | 4:13 |
+| 42 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
 | 43 | [Hasta el Sol de Hoy \(En Vivo\)](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
 | 44 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
-| 45 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
-| 46 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 |
+| 45 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 |
+| 46 | [Te Soñé una Vez](https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
 | 47 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
 | 48 | [Cicatrices \(Con Buenos Aires\)](https://open.spotify.com/track/6Fwqxw2tyLRzpPLu51ci3t) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Cicatrices \(Con Buenos Aires\)](https://open.spotify.com/album/2QmW2CJutIAyU1JupHb7le) | 3:00 |
 | 49 | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu) | [Los Amantes](https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U) | 6:55 |

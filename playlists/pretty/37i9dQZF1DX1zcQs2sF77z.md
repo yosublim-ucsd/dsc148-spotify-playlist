@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,225 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,402 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 2 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
 | 3 | [Cheerleader \(Felix Jaehn Remix\) \- Radio Edit](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:00 |
 | 4 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 |
-| 5 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |
-| 6 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
+| 5 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
+| 6 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |
 | 7 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 |
 | 8 | [Dirty Cash \(Money Talks\) \- Sold Out 7 Inch Mix](https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA) | [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs) | 4:03 |
 | 9 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 |

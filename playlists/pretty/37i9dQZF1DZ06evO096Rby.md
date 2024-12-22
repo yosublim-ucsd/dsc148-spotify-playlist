@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,112 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,137 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 11 | [Ciudad Peligrosa](https://open.spotify.com/track/628lv8L19zhlTKcGrSBYKJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ciudad Peligrosa](https://open.spotify.com/album/10nOJ732A7u6utFrqDJKpo) | 3:46 |
 | 12 | [Sin Miedo \- En Vivo](https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd) | 3:30 |
 | 13 | [Yo Soy El Pirata](https://open.spotify.com/track/50hNprrEeMeZ89Uh2YgzUg) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Yo Soy El Pirata](https://open.spotify.com/album/5StDUNYTjFuRdk7LG9Yta9) | 2:48 |
-| 14 | [Ajustadón](https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ajustadón](https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j) | 2:39 |
-| 15 | [Pideme la Luna](https://open.spotify.com/track/207mlKGuZM6YUFE9lyGSia) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 2:47 |
+| 14 | [Pideme la Luna](https://open.spotify.com/track/207mlKGuZM6YUFE9lyGSia) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 2:47 |
+| 15 | [Ajustadón](https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ajustadón](https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j) | 2:39 |
 | 16 | [Cokita De Vidrio](https://open.spotify.com/track/1YNAR75TjRjD1Lorvo2HhL) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Cokita De Vidrio](https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU) | 2:57 |
 | 17 | [Dicen y Dicen](https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen y Dicen](https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF) | 2:53 |
 | 18 | [A Chillar a otra parte](https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [A Chillar a otra parte](https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW) | 3:33 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 44 | [Tolin Infante](https://open.spotify.com/track/6DC6QEVWPrSzu1VWuEPg9E) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Tolin Infante](https://open.spotify.com/album/6HEx9gAGWZrM78VgZcZcEz) | 3:26 |
 | 45 | [Alto y Piel Morena](https://open.spotify.com/track/4o6ZOfHlmVUxofni1mK6IG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 3:22 |
 | 46 | [Ebrio De Amor](https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:31 |
-| 47 | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Danny Morales](https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK) | 2:30 |
-| 48 | [El Barbas \(En Vivo\)](https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Culiacan \(En Vivo\)](https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z) | 3:15 |
+| 47 | [El Barbas \(En Vivo\)](https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Culiacan \(En Vivo\)](https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z) | 3:15 |
+| 48 | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Danny Morales](https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK) | 2:30 |
 | 49 | [Golpe De Suerte](https://open.spotify.com/track/3fLlygEeJBcDW1kPxCAIVp) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 2:48 |
 | 50 | [No Me Trates De Engañar](https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 2:37 |
 | 51 | [Muchachita De Ojos Tristes \- En Vivo](https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:44 |
 
-Snapshot ID: `Z2NiAAAAAAC8cnvlL387xuVET3os1oer`
+Snapshot ID: `Z2SzgAAAAAAp6CGX6b+BMY5DEy33pAjj`

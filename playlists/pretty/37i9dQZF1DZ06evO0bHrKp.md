@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,887 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,908 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 33 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 |
 | 34 | [Thanks For Nothing](https://open.spotify.com/track/2fTom1sc4WE2jugw05Usfw) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:04 |
 | 35 | [Handle This](https://open.spotify.com/track/6qi4wZ9nexHsIVWFFgE3wW) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:37 |
-| 36 | [Crash](https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:19 |
-| 37 | [Little Know It All](https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:33 |
+| 36 | [Little Know It All](https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:33 |
+| 37 | [Crash](https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:19 |
 | 38 | [My Direction](https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:02 |
 | 39 | [Rhythms](https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 40 | [Speak Of The Devil](https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:58 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 48 | [Goddamn I'm Dead Again](https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:22 |
 | 49 | [The New Sensation](https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
 
-Snapshot ID: `Z2NiAAAAAACwfJqq0CqlEbX+dBVAQ8B9`
+Snapshot ID: `Z2SzgAAAAADesdSNOxiVuU9/igRl6SkD`

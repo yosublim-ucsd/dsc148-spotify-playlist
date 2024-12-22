@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,643 likes - 52 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,702 likes - 52 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 47 | [Bed \(feat\. Ariana Grande\)](https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:09 |
 | 48 | [Only](https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 5:12 |
 | 49 | [Fly](https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 |
-| 50 | [Truffle Butter](https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Pinkprint \(Deluxe Edition\)](https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC) | 3:40 |
-| 51 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
+| 50 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
+| 51 | [Truffle Butter](https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Pinkprint \(Deluxe Edition\)](https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC) | 3:40 |
 | 52 | [Pound The Alarm](https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 3:25 |
 
-Snapshot ID: `Z2NiAAAAAAA771PLyuT3pBmUfT6KSAM9`
+Snapshot ID: `Z2SzgAAAAAD5+HHvB56cFPx7zZpD10fZ`

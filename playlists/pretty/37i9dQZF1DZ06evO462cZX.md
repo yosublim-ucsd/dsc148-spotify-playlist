@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,408 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,414 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 50 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
 | 51 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 |
 
-Snapshot ID: `Z2NiAAAAAABZChqPQufHY/xJScTWCwtb`
+Snapshot ID: `Z2SzgAAAAABRomgiHveuTUoxc0F/W+2G`

@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Hafen",
+        "url": "https://open.spotify.com/album/6UdA5hoe93QV5HJiz7g1Zv"
+      },
+      "artists": [
+        {
+          "name": "Jonas Monar",
+          "url": "https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176444,
+      "name": "Hafen",
+      "url": "https://open.spotify.com/track/6XDBvvsqjSjVZqckA9IbrF"
+    },
+    {
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/6XepuRQQxX2qDlkIuIOnpn"
       },

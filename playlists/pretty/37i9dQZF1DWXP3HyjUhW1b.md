@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 
 > Aquí están las meras\-meras petateras de nuestro cancionero\. La Adictiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,663 likes - 125 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,672 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 44 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
 | 45 | [Que No Quede Huella](https://open.spotify.com/track/0aPRt8ARHfeQx1nbFnpTzy) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [A Todo Galope](https://open.spotify.com/album/7kYO9wfvxwhrxQRINgBDj8) | 2:56 |
 | 46 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
-| 47 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
-| 48 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
+| 47 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
+| 48 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
 | 49 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 |
 | 50 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
 | 51 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 55 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 56 | [Un Vestido de Besos](https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 2:59 |
 | 57 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 |
-| 58 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 |
-| 59 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
+| 58 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
+| 59 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 |
 | 60 | [Es Demasiado Tarde](https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Amores](https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU) | 4:10 |
 | 61 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
 | 62 | [Acábame De Matar](https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:08 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 120 | [El Muchacho Alegre](https://open.spotify.com/track/06uBDOgQwcKcrKWXHoF2zv) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 3:15 |
 | 121 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 |
 | 122 | [Cielo Rojo](https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:55 |
-| 123 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 |
-| 124 | [Yo Soy El Aventurero](https://open.spotify.com/track/3GJz7atIMjk3h6lQKTQ7yt) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Aventurero](https://open.spotify.com/album/4E0c4aLh4PYDNqj3x9UHO7) | 2:56 |
+| 123 | [Yo Soy El Aventurero](https://open.spotify.com/track/3GJz7atIMjk3h6lQKTQ7yt) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Aventurero](https://open.spotify.com/album/4E0c4aLh4PYDNqj3x9UHO7) | 2:56 |
+| 124 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 |
 | 125 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
 
 Snapshot ID: `ZwBGkQAAAAAHhxeg1MrP8s7cDhnSYdcP`

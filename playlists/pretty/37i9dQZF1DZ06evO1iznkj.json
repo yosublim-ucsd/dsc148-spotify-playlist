@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 161636,
+  "num_followers": 161729,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAADoVC8lHAguij/tWYgmallF",
+  "snapshot_id": "Z2SzgAAAAACIyNagr4wOKHkMvZ8ySuyd",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4iuYxZ3kGHQuPkLSvyrqgs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -699,26 +735,6 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JADED",
-        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4iuYxZ3kGHQuPkLSvyrqgs"
     },
     {
       "added_at": null,
@@ -811,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "Heat (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -831,26 +867,6 @@
       "duration_ms": 152333,
       "name": "Ski",
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "Heat (feat. Gunna)",
-      "url": "https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck"
     },
     {
       "added_at": null,
@@ -911,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158691,
-      "name": "Start Wit Me (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
       },
@@ -947,6 +943,26 @@
       "duration_ms": 219453,
       "name": "No Time (feat. Gunna)",
       "url": "https://open.spotify.com/track/5pHJv0bgNsT9nPoK2BjNBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 158691,
+      "name": "Start Wit Me (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu"
     },
     {
       "added_at": null,
@@ -1007,26 +1023,6 @@
       "duration_ms": 145796,
       "name": "Helluva Price",
       "url": "https://open.spotify.com/track/5bFym95c4l7Q7cVIYArOzC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "All The Money (with Gunna) [Bonus]",
-      "url": "https://open.spotify.com/track/4a1fh9vJMMoRjNrBmEWoM0"
     }
   ],
   "unique_name": "This Is Gunna",

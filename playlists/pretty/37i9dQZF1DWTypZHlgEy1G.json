@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 537050,
+  "num_followers": 537049,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
+        "name": "Forever Dalida",
+        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
       },
       "artists": [
         {
-          "name": "Michel Piccoli",
-          "url": "https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy"
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
         },
         {
-          "name": "Philippe Sarde",
-          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
-        },
-        {
-          "name": "Romy Schneider",
-          "url": "https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9"
+          "name": "Alain Delon",
+          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
         }
       ],
-      "duration_ms": 171640,
-      "name": "La chanson d'H\u00e9l\u00e8ne",
-      "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
+      "duration_ms": 243000,
+      "name": "Paroles\u2026 paroles\u2026",
+      "url": "https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -323,22 +319,26 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Forever Dalida",
-        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
+        "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
       },
       "artists": [
         {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+          "name": "Michel Piccoli",
+          "url": "https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy"
         },
         {
-          "name": "Alain Delon",
-          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
+          "name": "Philippe Sarde",
+          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
+        },
+        {
+          "name": "Romy Schneider",
+          "url": "https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Paroles\u2026 paroles\u2026",
-      "url": "https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl"
+      "duration_ms": 171640,
+      "name": "La chanson d'H\u00e9l\u00e8ne",
+      "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
     },
     {
       "added_at": "2024-07-25 13:22:22",

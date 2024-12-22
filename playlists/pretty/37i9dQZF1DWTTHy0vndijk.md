@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: HYOJUNG\(효정\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,008 likes - 57 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,989 likes - 57 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 7 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 8 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 |
 | 9 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
-| 10 | [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 |
+| 10 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
 | 11 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
 | 12 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 |
-| 13 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
+| 13 | [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 |
 | 14 | [Letter To Myself](https://open.spotify.com/track/1Uxr0oBXAZRuLkAz27TkLc) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 3:04 |
 | 15 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 |
 | 16 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 27 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 |
 | 28 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 |
 | 29 | [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 |
-| 30 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 |
-| 31 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
+| 30 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
+| 31 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 |
 | 32 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 |
 | 33 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
 | 34 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 52 | [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 |
 | 53 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
 | 54 | [Diamond](https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Diamond](https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida) | 3:03 |
-| 55 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
-| 56 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 |
+| 55 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 |
+| 56 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
 | 57 | [WaveWay](https://open.spotify.com/track/2xc4Lw2KPK98ZgUfHh3o1D) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [SAY MY NAME](https://open.spotify.com/album/2AUzmjgTKJtn4KvB35yyS7) | 2:36 |
 
 Snapshot ID: `Z2KPMwAAAAAhzkzNg87VjEUVsBPb/kN/`

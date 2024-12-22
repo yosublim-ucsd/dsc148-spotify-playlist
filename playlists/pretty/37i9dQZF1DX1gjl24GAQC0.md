@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? \(Cover: BANG&JUNG&YOO&MOON\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,967 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,920 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 33 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 |
 | 34 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 |
 | 35 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 |
-| 36 | [SAD SONG](https://open.spotify.com/track/4AwUc1mdlX4ARHkUNG0iho) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [SAD SONG](https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA) | 2:54 |
+| 36 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
 | 37 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
-| 38 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
+| 38 | [SAD SONG](https://open.spotify.com/track/4AwUc1mdlX4ARHkUNG0iho) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [SAD SONG](https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA) | 2:54 |
 | 39 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
 | 40 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
 | 41 | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 |
-| 42 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 |
-| 43 | [Last Festival](https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Single 'Last Bell'](https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My) | 3:11 |
+| 42 | [Last Festival](https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Single 'Last Bell'](https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My) | 3:11 |
+| 43 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 |
 | 44 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
 | 45 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 3:25 |
 | 46 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 |

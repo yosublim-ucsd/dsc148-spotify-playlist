@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,540 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,565 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 44 | [Yo la Amo](https://open.spotify.com/track/5lsRImOV4NbLHHRIMPQExC) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F) | 4:17 |
 | 45 | [Mi Destino Fué Quererte](https://open.spotify.com/track/2e1CmyyYO8RbQCvKy8eA1R) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 4:03 |
 | 46 | [Me Vale](https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vale](https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj) | 3:01 |
-| 47 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 |
-| 48 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 |
-| 49 | [Popurri de Caballos: El Alazán y el Rosillo / Caballo Prieto Azabache / El Moro de Cumpas](https://open.spotify.com/track/5kJrIx2ekOb70tsc6KZHqJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 4:42 |
+| 47 | [Popurri de Caballos: El Alazán y el Rosillo / Caballo Prieto Azabache / El Moro de Cumpas](https://open.spotify.com/track/5kJrIx2ekOb70tsc6KZHqJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 4:42 |
+| 48 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 |
+| 49 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 |
 | 50 | [Un Puño De Tierra](https://open.spotify.com/track/3A7APEc3HegGLMI5VSGMSc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Antonio Aguilar Hijo](https://open.spotify.com/artist/0IdKtkahT8e9Kt7xjxKfTT) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 2:50 |
 
 Snapshot ID: `ZhV5xwAAAAB12qW3jeE5KM1Yoc3YpBje`

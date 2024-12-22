@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-156 songs - 10 hr 34 min
+158 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 | 2024-12-10 |  |
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2023-12-12 |  |
 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 | 2024-12-10 |  |
-| [Frozen](https://open.spotify.com/track/4Vum4ZzIKBE1hNucaj5T3h) | [Linus](https://open.spotify.com/artist/5xkIt3pe76h4JgWeKpKm4L), [Hiromi](https://open.spotify.com/artist/61HMESIuiKbI3sUAow6K8j) | [Frozen](https://open.spotify.com/album/70yCi0GqnN1zp4rYNlL0Bv) | 4:37 | 2023-12-21 |  |
+| [Frozen](https://open.spotify.com/track/4Vum4ZzIKBE1hNucaj5T3h) | [Linus](https://open.spotify.com/artist/5xkIt3pe76h4JgWeKpKm4L), [Hiromi](https://open.spotify.com/artist/61HMESIuiKbI3sUAow6K8j) | [Frozen](https://open.spotify.com/album/70yCi0GqnN1zp4rYNlL0Bv) | 4:37 | 2023-12-21 | 2024-12-22 |
 | [FUYU](https://open.spotify.com/track/76qMVdk2nqV2JGfQSzuhQq) | [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK), [Noconoco](https://open.spotify.com/artist/7mqeh0ppveN8XEZLXo8PkS), [Saba](https://open.spotify.com/artist/3st6n375XAVbTiurmhpa1Q), [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [FUYU](https://open.spotify.com/album/3HspJUOkTe12sN4Cpvoor1) | 3:14 | 2023-12-12 | 2024-12-11 |
 | [ghost](https://open.spotify.com/track/2IAw3jr5rgI8k7DuJxis29) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 5:52 | 2023-12-12 | 2024-01-12 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2023-12-12 | 2023-12-15 |
@@ -43,7 +43,7 @@
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2023-12-12 | 2024-01-31 |
 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 | 2024-01-23 |  |
 | [illumination](https://open.spotify.com/track/0uqKMcnIFBGD2h0FAqsVf9) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [illumination](https://open.spotify.com/album/516cSsK1gUdpPRmNzh8zPe) | 3:26 | 2024-12-10 |  |
-| [Image Word \- New Recording Ver.](https://open.spotify.com/track/6TmzSGN9QZjtGFD0lHgH1i) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Image Word \(New Recording Ver.\)](https://open.spotify.com/album/5iOMMgOubOCQVhOBoXUuWj) | 4:46 | 2023-12-12 |  |
+| [Image Word \- New Recording Ver.](https://open.spotify.com/track/6TmzSGN9QZjtGFD0lHgH1i) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Image Word \(New Recording Ver.\)](https://open.spotify.com/album/5iOMMgOubOCQVhOBoXUuWj) | 4:46 | 2023-12-12 | 2024-12-22 |
 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2024-12-03 |  |
 | [Kaihyou](https://open.spotify.com/track/6apFysy7yb3sbnVdtR68yA) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Kaihyou](https://open.spotify.com/album/6UQRkpePvNR3YVmZrJ0tvp) | 2:18 | 2023-12-12 | 2024-04-19 |
 | [kani](https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [kani](https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28) | 1:49 | 2023-12-19 | 2024-12-13 |
@@ -78,7 +78,7 @@
 | [SNOW SOUND](https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SNOW SOUND / 今まで君が泣いた分取り戻そう](https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj) | 4:46 | 2024-01-30 |  |
 | [Snow White](https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Snow White](https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE) | 3:23 | 2023-12-12 |  |
 | [Snowin'](https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’](https://open.spotify.com/album/7AHmQEtHOwdKGFvcHC9PPM) | 3:25 | 2023-12-12 |  |
-| [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 | 2024-01-09 |  |
+| [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 | 2024-01-09 |  |
 | [Snowy Road](https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Snowy Road](https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8) | 4:52 | 2023-12-12 | 2024-01-24 |
 | [Solitude](https://open.spotify.com/track/5NXQt7YkV2ElktdAhL1QWk) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [Solitude](https://open.spotify.com/album/4CqXQpyqMQYffpTR0HFzp4) | 2:56 | 2023-12-12 | 2023-12-20 |
 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 |  |
@@ -91,6 +91,7 @@
 | [Tampopo](https://open.spotify.com/track/0ykZ3mzjgdnrTEzj2Q09L3) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/73wIJr5w62OjFZhctd8lfh) | 4:13 | 2023-12-12 | 2024-04-19 |
 | [The Christmas Song](https://open.spotify.com/track/7tljcwqdMTAHDVZ86vLE2m) | [ISSA](https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx) | [The Christmas Song](https://open.spotify.com/album/7xva8uQYcEF2ASVNdqtcha) | 5:27 | 2024-12-03 |  |
 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 | 2024-01-11 |  |
+| [Tomorrow](https://open.spotify.com/track/5nQ6kRjN3AwFL1DYrqHQQ5) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Tomorrow](https://open.spotify.com/album/11CTLBOXlw8eXoZ3xerLxv) | 2:41 | 2024-12-17 |  |
 | [Tomorrow!](https://open.spotify.com/track/1c6g0m9UCX9IHPLSy20MEF) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [Tomorrow!](https://open.spotify.com/album/73aLbNZmva7CV9Q2yDTmWU) | 3:17 | 2024-01-11 | 2024-12-20 |
 | [WE ARE THE BORDERS](https://open.spotify.com/track/0SEjMo9VZxyf3h9ObPxCWx) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [WINTER SONGS FOR YOU!](https://open.spotify.com/album/7EFz4zyigKAMM2JOiJvGEn) | 3:12 | 2023-12-12 | 2024-12-11 |
 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 | 2024-12-17 |  |
@@ -133,6 +134,7 @@
 | [レモネード](https://open.spotify.com/track/0MP8MbYzl75hNXhbEJpkGy) | [神野メイ](https://open.spotify.com/artist/5UuC909MPCODt9jrTh2n0J) | [レモネード](https://open.spotify.com/album/6pU1Nv7lzePomzsTNkLi1E) | 3:26 | 2024-01-16 | 2024-01-31 |
 | [ロマンスの神様](https://open.spotify.com/track/3cgfoF5qwhcPKVUaMa8QvJ) | [Kohmi Hirose](https://open.spotify.com/artist/0jMZY406RfgjK6PFKIRfAv) | [ロマンスの神様](https://open.spotify.com/album/122ZRlwkenkrIt1VAtHaDa) | 4:29 | 2023-12-12 |  |
 | [与えられる夜](https://open.spotify.com/track/4Yx2NgXfkVKdFuUENxTHJq) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [WATASHIBOSHI](https://open.spotify.com/album/3umtn8uo1dxKM7hQPsDQyx) | 3:39 | 2023-12-12 | 2024-01-31 |
+| [二人の未来 \- Winter Ver.](https://open.spotify.com/track/0KQKj7tFk4KWnZELndNubE) | [EXILE ATSUSHI](https://open.spotify.com/artist/24r8fVuKK3xtC1L7iSiM4O) | [EXILE ATSUSHI \-Winter Best\-](https://open.spotify.com/album/5WrWzWa3ddWGn4SdRplgVP) | 4:17 | 2024-12-17 |  |
 | [僕が暮らした街](https://open.spotify.com/track/3wbZ2kpWSCcnMsI986UckG) | [小林柊矢](https://open.spotify.com/artist/0DcIlk5wRoT8icLCpFOwox) | [ドラマ / 僕が暮らした街](https://open.spotify.com/album/7ajBQz8KNAwHe4j5ff4oge) | 4:51 | 2024-12-17 |  |
 | [冬がはじまるよ](https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物](https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda) | 3:50 | 2024-02-20 |  |
 | [冬がはじまるよ \- 2012 Remaster](https://open.spotify.com/track/7wNlAWoRPn53RC9w8e0sEA) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物 \(2012 Remaster\)](https://open.spotify.com/album/0xl7RrBF9tVKPUu5EHHcf3) | 3:52 | 2023-12-12 | 2024-04-19 |

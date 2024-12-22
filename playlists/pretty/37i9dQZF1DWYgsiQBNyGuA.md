@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,565 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,605 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 33 | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [All I Want Is You](https://open.spotify.com/album/6J9R7EmL3lIrfnXzZwxRB8) | 3:20 |
 | 34 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 35 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 |
-| 36 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 |
-| 37 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
+| 36 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
+| 37 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 |
 | 38 | [Next Time](https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Soul Power](https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6) | 4:30 |
 | 39 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
 | 40 | [Cornbread, Fish & Collard Greens](https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:33 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 61 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 |
 | 62 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take from Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
 | 63 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |
-| 64 | [Gold Mine](https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Gold Mine](https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1) | 2:31 |
-| 65 | [All Your Love \- Single Edit](https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI) | [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [All Your Love](https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w) | 3:34 |
+| 64 | [All Your Love \- Single Edit](https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI) | [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb), [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL) | [All Your Love](https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w) | 3:34 |
+| 65 | [Gold Mine](https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Gold Mine](https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1) | 2:31 |
 | 66 | [\(Your Love Keeps Lifting Me\) Higher and Higher](https://open.spotify.com/track/0qbg3HFwPSMmN0BlrdW5qW) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [\(Your Love Keeps Lifting Me\) Higher and Higher](https://open.spotify.com/album/3IicDehq8uY2vpCFK5hZFe) | 3:07 |
 | 67 | [Glimmer](https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju) | [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55) | [Glimmer](https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD) | 3:11 |
 | 68 | [Stop By](https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 5:54 |

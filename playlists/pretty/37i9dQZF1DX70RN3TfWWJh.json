@@ -1,6 +1,6 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4807731,
+  "num_followers": 4807638,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -439,22 +459,18 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
       "added_at": "2024-10-07 14:32:04",
@@ -475,22 +491,6 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
       "added_at": "2024-10-07 14:32:04",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "I Can Do It With a Broken Heart",
-      "url": "https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8"
-    },
-    {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
         "name": "Boss Bitch",
         "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 134239,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8"
     },
     {
       "added_at": "2024-10-07 14:32:04",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
-    },
-    {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2024-10-07 14:32:04",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-10-07 14:32:04",
       "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 204852,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5oqDgw5VGBln5dSIOPWyBq"
-    },
-    {
-      "added_at": "2024-10-07 14:32:04",
-      "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
+    {
+      "added_at": "2024-10-07 14:32:04",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 204852,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5oqDgw5VGBln5dSIOPWyBq"
     },
     {
       "added_at": "2024-10-07 14:32:04",

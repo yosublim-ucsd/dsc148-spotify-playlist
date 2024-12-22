@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUSHGSJhLype.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUSHGSJhLype) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUSHGSJhLype)
 
-### [PURO SUCO DO BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
+### [PURO SUCO DO VERÃO](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Léo Foguete
 

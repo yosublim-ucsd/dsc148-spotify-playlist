@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 84129,
+  "num_followers": 84186,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -815,26 +815,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Tus Besos",
-        "url": "https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg"
+        "name": "Tribal Evolution",
+        "url": "https://open.spotify.com/album/0jIJ8Io1ZLZHlHoNDYFm4b"
       },
       "artists": [
         {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Cuvan",
-          "url": "https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0"
-        },
-        {
-          "name": "Aneth",
-          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
+          "name": "DJ Giovanni Rios",
+          "url": "https://open.spotify.com/artist/76Did245rD3G41QKmgu3Cx"
         }
       ],
-      "duration_ms": 180009,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn"
+      "duration_ms": 158240,
+      "name": "World 2014 - Original Mix",
+      "url": "https://open.spotify.com/track/0PKkZ8g0jX0Us85KGWER9A"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -875,18 +867,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Tribal Evolution",
-        "url": "https://open.spotify.com/album/0jIJ8Io1ZLZHlHoNDYFm4b"
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg"
       },
       "artists": [
         {
-          "name": "DJ Giovanni Rios",
-          "url": "https://open.spotify.com/artist/76Did245rD3G41QKmgu3Cx"
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Cuvan",
+          "url": "https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0"
+        },
+        {
+          "name": "Aneth",
+          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
         }
       ],
-      "duration_ms": 158240,
-      "name": "World 2014 - Original Mix",
-      "url": "https://open.spotify.com/track/0PKkZ8g0jX0Us85KGWER9A"
+      "duration_ms": 180009,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn"
     },
     {
       "added_at": "2024-07-05 22:41:57",

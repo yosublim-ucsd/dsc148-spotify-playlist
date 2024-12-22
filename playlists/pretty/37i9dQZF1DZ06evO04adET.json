@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 770178,
+  "num_followers": 770529,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACLz2BOBy9vaBlDmfADhdEN",
+  "snapshot_id": "Z2SzgAAAAACKRER1qgN9H6u2garNqf9i",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kamikaze (feat. Victor Mendivil)",
         "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 248362,
       "name": "Kamikaze (feat. Victor Mendivil)",
       "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": null,

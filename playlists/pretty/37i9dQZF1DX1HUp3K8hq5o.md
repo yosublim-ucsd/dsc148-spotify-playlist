@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUp3K8hq5o.md) - [plain]
 
 > Big rock tracks from 2017\. Cover: Imagine Dragons
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,183 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,211 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUp3K8hq5o.md) - [plain]
 | 10 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
 | 11 | [Safari Song](https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:54 |
 | 12 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
-| 13 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
-| 14 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
+| 13 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
+| 14 | [Rose\-Colored Boy](https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:32 |
 | 15 | [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:10 |
 | 16 | [Revolution](https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:51 |
 | 17 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUp3K8hq5o.md) - [plain]
 | 44 | [Champion](https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:10 |
 | 45 | [Never Going Back](https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:17 |
 | 46 | [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 |
-| 47 | [The Gold](https://open.spotify.com/track/3EytfC22ikoXM921cJbejn) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 4:33 |
-| 48 | [I Only Lie When I Love You](https://open.spotify.com/track/1LbwMX3159t6QxG3u7DRWe) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 2:49 |
+| 47 | [I Only Lie When I Love You](https://open.spotify.com/track/1LbwMX3159t6QxG3u7DRWe) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 2:49 |
+| 48 | [The Gold](https://open.spotify.com/track/3EytfC22ikoXM921cJbejn) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 4:33 |
 | 49 | [Flower Power](https://open.spotify.com/track/4SE1kjgRulcwjNcc7oFFg4) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 5:12 |
 | 50 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 |
 | 51 | [Champion](https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:12 |

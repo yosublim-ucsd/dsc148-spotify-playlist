@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,188 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,186 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 7 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 |
 | 8 | [Soldier](https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia \(Deluxe\)](https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x) | 2:53 |
 | 9 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 |
-| 10 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 10 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 11 | [Oakland Pt\. 2](https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Oakland Pt\. 2](https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK) | 2:36 |
 | 12 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 |
 | 13 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 |

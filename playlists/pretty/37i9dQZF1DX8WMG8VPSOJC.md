@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,750,704 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750,758 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 45 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 46 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 | 47 | [Forever To Me](https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Forever To Me](https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK) | 2:59 |
-| 48 | [10\-90](https://open.spotify.com/track/25p3vqBNZMrDqAEaJZw2EL) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [10\-90](https://open.spotify.com/album/1VoIOXWCxq2cWeXZbze0Ej) | 3:21 |
+| 48 | [Islands in the Stream](https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 4:09 |
 | 49 | [Love You, Miss You, Mean It](https://open.spotify.com/track/2b98AhAxuK5i4YUHaQ7eQR) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Love You, Miss You, Mean It](https://open.spotify.com/album/3KhdXmuYsUQZUtd16wVJIE) | 3:21 |
-| 50 | [Islands in the Stream](https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 4:09 |
+| 50 | [10\-90](https://open.spotify.com/track/25p3vqBNZMrDqAEaJZw2EL) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [10\-90](https://open.spotify.com/album/1VoIOXWCxq2cWeXZbze0Ej) | 3:21 |
 | 51 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 |
 | 52 | [It's Your Love](https://open.spotify.com/track/503sFkc8Y2eyGnM6cu8kHm) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:47 |
 | 53 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 73 | [One Bad Habit](https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Poet’s Resumé](https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8) | 3:08 |
 | 74 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
 | 75 | [Parallel Line](https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:13 |
-| 76 | [Blessed](https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:34 |
-| 77 | [I Don't Remember Me \(Before You\)](https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Port Saint Joe](https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T) | 3:12 |
+| 76 | [I Don't Remember Me \(Before You\)](https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Port Saint Joe](https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T) | 3:12 |
+| 77 | [Blessed](https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:34 |
 | 78 | [Heartbeat](https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:29 |
 | 79 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
 | 80 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |

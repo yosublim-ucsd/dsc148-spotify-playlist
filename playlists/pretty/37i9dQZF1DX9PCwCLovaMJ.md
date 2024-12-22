@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 8 | [Moon In The Light](https://open.spotify.com/track/2hAeXkxpajzQ5EF5y6RudU) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Moon In The Light](https://open.spotify.com/album/063chsZ6TS94bZFOFQ6Qzk) | 2:19 |
 | 9 | [My Mistake](https://open.spotify.com/track/73tV41H3LM5YBMpdR02fkX) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [My Mistake](https://open.spotify.com/album/6X8iXth9vVhK1Dblubg5fP) | 2:40 |
 | 10 | [Sthlm In My <3](https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Sthlm In My <3](https://open.spotify.com/album/4GHkgOqbKjs7YqQ8qADO23) | 3:26 |
-| 11 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 |
-| 12 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
+| 11 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
+| 12 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 |
 | 13 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 14 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
 | 15 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 22 | [You're Always High](https://open.spotify.com/track/6YB79a954f6nzfYCkX8sXB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [You're Always High](https://open.spotify.com/album/6UJVvGxOSk0TbJPAaolsNQ) | 3:03 |
 | 23 | [Veins](https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Veins](https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS) | 2:40 |
 | 24 | [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 |
-| 25 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
-| 26 | [Show Me The Sky](https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM) | [Tommy Holohan](https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy), [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Show Me The Sky](https://open.spotify.com/album/2EnEIl36mvSSz0iMNtPawb) | 5:04 |
-| 27 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 |
-| 28 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 |
-| 29 | [Du flög iväg](https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Du flög iväg](https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM) | 2:35 |
-| 30 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 |
+| 25 | [Show Me The Sky](https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM) | [Tommy Holohan](https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy), [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Show Me The Sky](https://open.spotify.com/album/2EnEIl36mvSSz0iMNtPawb) | 5:04 |
+| 26 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
+| 27 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 |
+| 28 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 |
+| 29 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 |
+| 30 | [Du flög iväg](https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Du flög iväg](https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM) | 2:35 |
 | 31 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
 | 32 | [Bättre dar](https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Bättre dar](https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo) | 2:41 |
 | 33 | [Håll om mig](https://open.spotify.com/track/1LfdHoC7x7kECo4I9CGzzT) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Håll om mig](https://open.spotify.com/album/7dFZX0d5gXDqDygckfzdNj) | 2:06 |

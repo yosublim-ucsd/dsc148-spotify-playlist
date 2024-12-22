@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > the sweetest new indie pop, featuring Ziggy 2000 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,416 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,418 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,17 +58,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 48 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 |
 | 49 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 |
 | 50 | [Quiet & Perfect](https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Quiet & Perfect](https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn) | 3:38 |
-| 51 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 |
-| 52 | [Bunny](https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Bunny](https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm) | 3:29 |
+| 51 | [Bunny](https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Bunny](https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm) | 3:29 |
+| 52 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 |
 | 53 | [The End of the Contender](https://open.spotify.com/track/2LpNomwbgz7bAIDdqvX5bq) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [The End of the Contender](https://open.spotify.com/album/0wInWtAoFAQtzg9Pp4G91n) | 3:26 |
 | 54 | [Warm Body](https://open.spotify.com/track/4pIhmvniF8QKJBxE0oPQmp) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Warm Body](https://open.spotify.com/album/6zGTF7LNVhBNJGbvrcxcK5) | 4:32 |
 | 55 | [If I Was Abducted By Aliens](https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [If I Was Abducted By Aliens](https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE) | 2:46 |
 | 56 | [I Think You Should Know](https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [I Think You Should Know](https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ) | 3:37 |
-| 57 | [Stay For Good](https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Stay For Good](https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs) | 3:25 |
-| 58 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 |
+| 57 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 |
+| 58 | [Stay For Good](https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Stay For Good](https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs) | 3:25 |
 | 59 | [Found The 1](https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [HOKAGE \- THE MIXTAPE](https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR) | 2:27 |
-| 60 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 |
-| 61 | [Boys](https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Boys](https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66) | 3:12 |
+| 60 | [Boys](https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Boys](https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66) | 3:12 |
+| 61 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 |
 | 62 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 |
 | 63 | [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 |
 | 64 | [How I Wish I Was Cool](https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D) | [Bayboards](https://open.spotify.com/artist/0FpxYe2b5uTpjYK8IwMgsM) | [How I Wish I Was Cool](https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL) | 3:06 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 67 | [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 |
 | 68 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 |
 | 69 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
-| 70 | [Different Directions](https://open.spotify.com/track/1bEvoQH3OpVMohkh0Aq9Uq) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Different Directions](https://open.spotify.com/album/7nPBvPzfMqTLP4bepqnjuc) | 3:15 |
-| 71 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 |
-| 72 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |
-| 73 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
+| 70 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 |
+| 71 | [Different Directions](https://open.spotify.com/track/1bEvoQH3OpVMohkh0Aq9Uq) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Different Directions](https://open.spotify.com/album/7nPBvPzfMqTLP4bepqnjuc) | 3:15 |
+| 72 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
+| 73 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |
 | 74 | [Like Honey](https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Like Honey](https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F) | 3:28 |
 | 75 | [sprinkles](https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [sprinkles](https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs) | 4:33 |
 | 76 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
 | 77 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 |
 | 78 | [false gold \- Imogen Heap Remix](https://open.spotify.com/track/1FTDuTMJLeUkmDx7O6TUbl) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [ai.mogen](https://open.spotify.com/artist/77mYai06p9Ju6y5pyGBH4C), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [false gold \(Imogen Heap Remix\)](https://open.spotify.com/album/3HDQvr31JTdn7QMFEM7G5K) | 3:38 |
-| 79 | [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 |
-| 80 | [Living In A Dream](https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Living In A Dream](https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A) | 3:16 |
+| 79 | [Living In A Dream](https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Living In A Dream](https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A) | 3:16 |
+| 80 | [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 |
 
 Snapshot ID: `Zu1fDwAAAACBIZ2YOBV4aidoYH6b2SQL`

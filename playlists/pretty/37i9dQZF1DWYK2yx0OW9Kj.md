@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 
 > Ritmo latino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,639 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,802 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 10 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
 | 11 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 |
 | 12 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 |
-| 13 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
-| 14 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
+| 13 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
+| 14 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 | 15 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
 | 16 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 |
 | 17 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK2yx0OW9Kj.md) - [plain]
 | 61 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 |
 | 62 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
 | 63 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 |
-| 64 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 |
-| 65 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
+| 64 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
+| 65 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 |
 | 66 | [Secreto](https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Secreto](https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1) | 4:18 |
 | 67 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
 | 68 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |

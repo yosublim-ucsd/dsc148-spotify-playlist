@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > 2015 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,904 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,928 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 14 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 |
 | 15 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
 | 16 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
-| 17 | [Meet Me In The Woods](https://open.spotify.com/track/54hj06Z7sm7DaHSrGGMAZG) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:22 |
-| 18 | [Lose It](https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:49 |
+| 17 | [Lose It](https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:49 |
+| 18 | [Meet Me In The Woods](https://open.spotify.com/track/54hj06Z7sm7DaHSrGGMAZG) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:22 |
 | 19 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 |
 | 20 | [Cold Cold Cold](https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:34 |
 | 21 | [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 2:54 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 62 | [Love Me](https://open.spotify.com/track/2HklyUw3TR56nVyVJAIhw5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 3:42 |
 | 63 | [Give Me a Try](https://open.spotify.com/track/7ayoL7WrBQP3ccJqELQXFK) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug](https://open.spotify.com/album/5eMwZy5R5qZB3v3lBumnFZ) | 3:48 |
 | 64 | [Fool for Love](https://open.spotify.com/track/34pj71vgxTPZxpqXOLYL1I) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:34 |
-| 65 | [Hollow Moon \(Bad Wolf\)](https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:18 |
-| 66 | [Can't Deny My Love](https://open.spotify.com/track/52wkxz0pUQVw7LhrtJ9pWE) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [The Desired Effect](https://open.spotify.com/album/0yCqicy5tGkPiB6gUZCRy4) | 3:42 |
+| 65 | [Can't Deny My Love](https://open.spotify.com/track/52wkxz0pUQVw7LhrtJ9pWE) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [The Desired Effect](https://open.spotify.com/album/0yCqicy5tGkPiB6gUZCRy4) | 3:42 |
+| 66 | [Hollow Moon \(Bad Wolf\)](https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:18 |
 | 67 | [Walk Away](https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:51 |
 | 68 | [Tired of Talking](https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Treasure \- EP](https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5) | 3:17 |
 | 69 | [Stockholm](https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [Inanimate Objects](https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39) | 3:11 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 92 | [Spirits](https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 3:23 |
 | 93 | [T\-Shirt Weather](https://open.spotify.com/track/1uNH7kknB8MVkmh6FfDb6W) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/6lE7PexxLr5OZtAwqBkyFJ) | 3:14 |
 | 94 | [First](https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1) | 3:20 |
-| 95 | [The Only Thing](https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 4:44 |
-| 96 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
-| 97 | [Water \(feat\. Rostam\)](https://open.spotify.com/track/4WuDLbPWqwjyRvJK2jRCPS) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Need Your Light](https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL) | 4:40 |
-| 98 | [Multi\-Love](https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC) | 4:10 |
-| 99 | [Pretty Pimpin](https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv) | 4:58 |
+| 95 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
+| 96 | [Pretty Pimpin](https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv) | 4:58 |
+| 97 | [The Only Thing](https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 4:44 |
+| 98 | [Water \(feat\. Rostam\)](https://open.spotify.com/track/4WuDLbPWqwjyRvJK2jRCPS) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Need Your Light](https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL) | 4:40 |
+| 99 | [Multi\-Love](https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC) | 4:10 |
 | 100 | [California](https://open.spotify.com/track/3zxqTbepxLQesm41y2NoE4) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 3:18 |
 
 Snapshot ID: `ZfhApAAAAAAjp7PLXOFtM+FXaa8has4b`

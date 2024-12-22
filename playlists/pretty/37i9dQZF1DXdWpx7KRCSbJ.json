@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 333890,
+  "num_followers": 333897,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Coladinha em Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Coladinha em Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Quem Me Dera",
         "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Coladinha em Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Coladinha em Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn"
     },
     {
       "added_at": "2023-01-17 01:33:36",

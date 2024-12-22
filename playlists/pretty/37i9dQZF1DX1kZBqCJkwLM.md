@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,372 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,374 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 35 | [universe](https://open.spotify.com/track/6gSBiIezn6yKhCVhBUOSwB) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [universe](https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma) | 3:06 |
 | 36 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 |
 | 37 | [Good Love 2.0](https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Good Love 2.0](https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl) | 2:54 |
-| 38 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
-| 39 | [CLASSIC](https://open.spotify.com/track/4hwkUETISUnFz5WkiU1DKt) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [New Classic](https://open.spotify.com/album/3eng3l5kQyWj9SKt3Fokyv) | 3:14 |
+| 38 | [CLASSIC](https://open.spotify.com/track/4hwkUETISUnFz5WkiU1DKt) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [New Classic](https://open.spotify.com/album/3eng3l5kQyWj9SKt3Fokyv) | 3:14 |
+| 39 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 40 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 |
 | 41 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 |
 | 42 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 68 | [I SEE U](https://open.spotify.com/track/01t1knKwlmGgNQbV9qhBKB) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [I SEE U](https://open.spotify.com/album/2B7fhEyxHqxx3d98Jau60i) | 2:32 |
 | 69 | [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 |
 | 70 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 |
-| 71 | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq) | 2:19 |
-| 72 | [Replay \- Trance Mix](https://open.spotify.com/track/6p30rogHHSjLzFM3cMyDt9) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y), [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII) | [Replay \- Trance Mix](https://open.spotify.com/album/2TSTyf1PAKHLKuJIi9HFCA) | 3:26 |
+| 71 | [Replay \- Trance Mix](https://open.spotify.com/track/6p30rogHHSjLzFM3cMyDt9) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y), [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII) | [Replay \- Trance Mix](https://open.spotify.com/album/2TSTyf1PAKHLKuJIi9HFCA) | 3:26 |
+| 72 | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq) | 2:19 |
 | 73 | [fire sign fuck u](https://open.spotify.com/track/5ZzGcke5Lcf4pld0cKyOwE) | [SANJ](https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4) | [Poster Child](https://open.spotify.com/album/3a6zOO4obG0ra20SqJ5EYe) | 2:26 |
 | 74 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 |
 | 75 | [Confessions Of A Baddie](https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Confessions Of A Baddie](https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ) | 2:25 |

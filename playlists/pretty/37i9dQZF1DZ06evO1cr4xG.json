@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 80761,
+  "num_followers": 80770,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAAPwXNe9PhCb7zkFAETXg3s",
+  "snapshot_id": "Z2SzgAAAAAAGH3HrE2VhDTjfUbpzzj4f",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Through Blood and Dirt and Bone",
+      "url": "https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 331933,
       "name": "The Wretchedness Inside",
       "url": "https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Through Blood and Dirt and Bone",
-      "url": "https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT"
     },
     {
       "added_at": null,

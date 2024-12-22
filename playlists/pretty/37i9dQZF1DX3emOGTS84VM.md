@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,989 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,001 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 14 | [YOU \(feat\. Eli Derby\)](https://open.spotify.com/track/6ke6lBHa6yJFmKb708qh7g) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [YOU \(feat\. Eli Derby\)](https://open.spotify.com/album/1cw8y14qNcKACN3sjWHqF5) | 4:03 |
 | 15 | [Personal \(feat\. Normani\)](https://open.spotify.com/track/3fxkCZc1rsqVHKCRTc89Y3) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Sincere \(Deluxe\)](https://open.spotify.com/album/5MsuDSyzQYhuL1U3mzgFKw) | 2:36 |
 | 16 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 |
-| 17 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 17 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 18 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 |
 | 19 | [Platonic](https://open.spotify.com/track/5ZCcS9mK7phpB1WaS8QtEA) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [Platonic](https://open.spotify.com/album/4UWD4i0uu6i2YSB5zecCc2) | 2:43 |
 | 20 | [All You](https://open.spotify.com/track/4IM0dSMLSYjjQm2pIj1QQK) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [All You](https://open.spotify.com/album/73aiCN2KEiRbGaK6EzdiGm) | 2:42 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,743 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,822 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 2 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |
-| 3 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 |
+| 3 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 |
 | 4 | [Mayonaka no Door / Stay With Me](https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 5:12 |
 | 5 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
 | 6 | [すずめ](https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 3:58 |

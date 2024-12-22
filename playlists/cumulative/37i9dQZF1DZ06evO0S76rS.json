@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253272,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb"
+    },
+    {
+      "album": {
         "name": "Cosas Bonitas",
         "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 260632,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"

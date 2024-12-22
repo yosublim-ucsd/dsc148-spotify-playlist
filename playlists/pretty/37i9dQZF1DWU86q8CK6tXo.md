@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Our editors' top picks from EQUAL US 2024\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,302 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,315 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
 | 50 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 |
 | 51 | [That's My King](https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 4:11 |
-| 52 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
+| 52 | [Life Is](https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:08 |
 | 53 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
-| 54 | [Life Is](https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:08 |
-| 55 | [Broken Man](https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:21 |
-| 56 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
+| 54 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
+| 55 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
+| 56 | [Broken Man](https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:21 |
 | 57 | [All In My Head](https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6) | 3:21 |
 | 58 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 |
 | 59 | [Foxglove](https://open.spotify.com/track/3eUy850I2PGLixnjLUbZri) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a) | 2:40 |

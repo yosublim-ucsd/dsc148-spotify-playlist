@@ -171,6 +171,32 @@
     },
     {
       "album": {
+        "name": "20 Veces",
+        "url": "https://open.spotify.com/album/7eXpNrySRqlvayXivlCz70"
+      },
+      "artists": [
+        {
+          "name": "Flamen Beretta",
+          "url": "https://open.spotify.com/artist/3D9fZmAGeaCJjnRFFD9jlE"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291063,
+      "name": "20 Veces",
+      "url": "https://open.spotify.com/track/44yf1tgi5vg8lR2EULi1gs"
+    },
+    {
+      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -5756,7 +5782,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -6697,6 +6723,28 @@
     },
     {
       "album": {
+        "name": "Las 12",
+        "url": "https://open.spotify.com/album/1G7zheLwowbymeQaJqeFjx"
+      },
+      "artists": [
+        {
+          "name": "Mackie",
+          "url": "https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211243,
+      "name": "Las 12",
+      "url": "https://open.spotify.com/track/5k9W9yX3Px3IehmvyffAFC"
+    },
+    {
+      "album": {
         "name": "Las 12 (feat. Mackie)",
         "url": "https://open.spotify.com/album/0jvKjTTr1R4IdNFKGWTu0z"
       },
@@ -6712,7 +6760,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 211243,
       "name": "Las 12 (feat. Mackie)",
       "url": "https://open.spotify.com/track/1cjfzBSIYHFuV9I7bq7Z0X"
@@ -7230,7 +7278,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -13856,7 +13904,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Vibrador",
       "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"

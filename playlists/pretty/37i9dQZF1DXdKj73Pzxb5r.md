@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Holy City Rollers
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,577 likes - 104 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,585 likes - 104 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

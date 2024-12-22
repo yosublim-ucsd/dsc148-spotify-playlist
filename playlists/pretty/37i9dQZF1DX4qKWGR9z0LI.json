@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Sergio George, Lenny Tav\u00e1rez, Christian Alicea & Rafa Pab\u00f6n",
-  "num_followers": 1915906,
+  "num_followers": 1915883,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Tromboranga",
-        "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
-      },
-      "artists": [
-        {
-          "name": "Tromboranga",
-          "url": "https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Agua Que Va Caer",
-      "url": "https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Yo Deluxe",
         "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 208774,
       "name": "Es Un Secreto",
       "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Tromboranga",
+        "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
+      },
+      "artists": [
+        {
+          "name": "Tromboranga",
+          "url": "https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Agua Que Va Caer",
+      "url": "https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Esta Vida (Salsa Version)",
         "url": "https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 223439,
       "name": "Esta Vida (Salsa Version)",
       "url": "https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1291,38 +1291,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "La Marea",
-        "url": "https://open.spotify.com/album/0E7qvcgIee9SmGPClGCUta"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 264067,
-      "name": "La Marea",
-      "url": "https://open.spotify.com/track/2pw2oo72NkyFno3lnhrNYD"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Cosas Bonitas",
-        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 260632,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "El Swing 2.0 (feat. Luis Vazquez)",
         "url": "https://open.spotify.com/album/7AJ4avit0l9eHocnOrRN4t"
       },
@@ -1347,6 +1315,38 @@
       "duration_ms": 213084,
       "name": "El Swing 2.0 (feat. Luis Vazquez)",
       "url": "https://open.spotify.com/track/5U9lUIHIzSmXz7ScRQGWdx"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Cosas Bonitas",
+        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260632,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "La Marea",
+        "url": "https://open.spotify.com/album/0E7qvcgIee9SmGPClGCUta"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 264067,
+      "name": "La Marea",
+      "url": "https://open.spotify.com/track/2pw2oo72NkyFno3lnhrNYD"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Empezando Otra Vez",
+        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 248325,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "La Vida Es Una Fiesta",
         "url": "https://open.spotify.com/album/16a8ideBSg8vQrmhQy8xSZ"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Empezando Otra Vez",
-        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
       },
       "artists": [
         {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 248325,
-      "name": "Te Equivocaste Conmigo",
-      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1491,22 +1507,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1587,6 +1587,46 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Mira - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "No Me Lo Creo",
+        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 268175,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Salsa de Amor Vol. 3",
         "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
       },
@@ -1623,26 +1663,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "No Me Lo Creo",
-        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 268175,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Llorar Bonito",
         "url": "https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 235951,
       "name": "Llorar Bonito",
       "url": "https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Mira - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+      },
+      "artists": [
+        {
+          "name": "Huey Dunbar",
+          "url": "https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft"
+        },
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
+      "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Mi Propiedad Privada",
         "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
       },
@@ -1763,22 +1783,6 @@
       "duration_ms": 252986,
       "name": "Mi Propiedad Privada",
       "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Exitos y Mas",
-        "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 304640,
-      "name": "Juguete de Nadie",
-      "url": "https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR"
     }
   ],
   "unique_name": "Salsa Nation",

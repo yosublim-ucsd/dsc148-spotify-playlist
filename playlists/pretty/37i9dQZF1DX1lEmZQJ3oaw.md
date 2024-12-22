@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,827 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,846 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 5 | [Aunty Ji](https://open.spotify.com/track/0e5STSwtLEXKN4ygFYydJd) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:34 |
 | 6 | [Pyaar Ki Yeh Kahani](https://open.spotify.com/track/7cRyUMxmpNGbWG9xpDoPn5) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Gayatri Iyer](https://open.spotify.com/artist/6dgPKPKtpOXxPpMe8STn1N) | [Honeymoon Travels Pvt\. Ltd.](https://open.spotify.com/album/4OkX72Pbnh40SH9Rib11tD) | 5:28 |
 | 7 | [Girls Like To Swing](https://open.spotify.com/track/5JlZLXvZBEFD9u8OoJq6Yh) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Dil Dhadakne Do](https://open.spotify.com/album/0ZRVDoVuEiOxJLVTSpNFk6) | 4:03 |
-| 8 | [Udi](https://open.spotify.com/track/3B5pWnmR739mZFh4eVdFla) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Guzaarish](https://open.spotify.com/album/5aNyDyemGpcaJGMuLvUife) | 3:21 |
+| 8 | [Udi](https://open.spotify.com/track/3B5pWnmR739mZFh4eVdFla) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Guzaarish](https://open.spotify.com/album/5aNyDyemGpcaJGMuLvUife) | 3:21 |
 | 9 | [Hawa Hawai](https://open.spotify.com/track/6B0RSaHnLZidlE2w3AjQfO) | [Suman Sridhar](https://open.spotify.com/artist/6swk5jDsD7ahHLnUOioVfq) | [Shaitan](https://open.spotify.com/album/4cn69YpvoKVFW5bzEkpiOU) | 4:52 |
 | 10 | [Pari Hoon Main \(Jazz Version\)](https://open.spotify.com/track/0sUN65fY2yh7bwf8gaOT8O) | [Aman Pant](https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE), [Devashri Manohar](https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1) | [Thank You For Coming](https://open.spotify.com/album/6FGsV3DdW83SyO6SRTholT) | 1:41 |
 | 11 | [Fifi \- Jata Kahan Hai Deewane \- Mikey Mccleary Mix](https://open.spotify.com/track/7Hd216xGh0HkQFtklXMfUM) | [Suman Sridhar](https://open.spotify.com/artist/6swk5jDsD7ahHLnUOioVfq) | [Bombay Velvet \- Fifi](https://open.spotify.com/album/3gGKYgif8sRRBFGKxBzXOQ) | 3:16 |

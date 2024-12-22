@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Inhaler
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,642 likes - 125 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,941 likes - 125 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 3 | [Flea](https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:46 |
 | 4 | [For The Hell Of It](https://open.spotify.com/track/1LsilTAFvxGArcUnp0W3YW) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [For The Hell Of It](https://open.spotify.com/album/4K1nBlB4PjSHLQlO7jJuI0) | 3:10 |
 | 5 | [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 |
-| 6 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 6 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 7 | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 |
 | 8 | [My Serotonin](https://open.spotify.com/track/0KkCQEj9RMsgUfbVnOZzX8) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine](https://open.spotify.com/album/4bJrdorT0Jsg6IF3wNRF5w) | 2:34 |
 | 9 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 21 | [Attaway](https://open.spotify.com/track/3HErXAS9DiVd8C9x6CJTYd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:00 |
 | 22 | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/track/5gGHRgEQ2wfgjKRyPaOG2P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/album/3GAHv86Yo9P3KCPmxYP8IO) | 3:20 |
 | 23 | [Night Or Day](https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Night Or Day](https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ) | 3:21 |
-| 24 | [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
+| 24 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 25 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [SLEEP WHEN I'M DEAD](https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9) | 2:26 |
 | 26 | [💔 \- broken heart](https://open.spotify.com/track/47KJiVDgC1BvA1HDy6GnXz) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Just As Ï Remember](https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y) | 3:06 |
 | 27 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 |

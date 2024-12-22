@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-333 songs - 1 day 4 hr 32 min
+334 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 | 2023-07-14 |  |
 | [See You Dancing in the Dark](https://open.spotify.com/track/6oSQJmaDiQhbEqGaE9P9CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [See You Dancing in the Dark](https://open.spotify.com/album/3aYRKtuiZ0uu1W8Eo8IEhN) | 4:01 | 2023-04-27 | 2023-05-06 |
 | [Selbst](https://open.spotify.com/track/7zrGXNJu4nPoNQji9j8DcB) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Selbst](https://open.spotify.com/album/3uRBuLPxKD7vA97mlGkjB1) | 5:23 | 2021-12-23 | 2022-07-29 |
-| [Serene](https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Serene](https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC) | 4:09 | 2023-09-28 |  |
+| [Serene](https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Serene](https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC) | 4:09 | 2023-09-28 | 2024-12-22 |
 | [Serenity](https://open.spotify.com/track/2nzWf9oHcn6uXBQ4Gsq0Nc) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Serenity](https://open.spotify.com/album/7HbFStkVZ2gnHmCq6HPrCh) | 3:44 | 2023-06-30 | 2023-08-16 |
 | [Shades of You \(feat\. Henry Green\) \- Tim Engelhardt Remix](https://open.spotify.com/track/0YXbPIuXsDyRFpA7rLwz3m) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Hiraeth Remixes](https://open.spotify.com/album/5ma5FaYh586UIRYpQihkqC) | 6:37 | 2023-11-14 | 2024-09-15 |
 | [Silence](https://open.spotify.com/track/4Y3dT7vcHTluw7f5adyHGx) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Space Food](https://open.spotify.com/artist/26N57YIjcZ0h3GDamTf9qn), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Silence](https://open.spotify.com/album/3ZvKGHY6QFlrgJbDdrA15t) | 6:10 | 2022-01-21 | 2022-07-08 |
@@ -323,6 +323,7 @@
 | [Verdammt \- Radio Edit](https://open.spotify.com/track/6B8hCZtANfdTrU4y9P9R5i) | [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Verdammt](https://open.spotify.com/album/3f9JcIzhjRr3h58sJOt2qT) | 3:37 | 2022-11-17 | 2022-11-26 |
 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 | 2021-12-23 | 2022-01-15 |
 | [Wanna Know](https://open.spotify.com/track/4UVh9wuv6yubeC03Uc3GsX) | [Crouwel](https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE), [Erik Buschmann](https://open.spotify.com/artist/6ayPPyDLx13CCYtvlO9YhD) | [Wanna Know](https://open.spotify.com/album/30FEuwDd7QsFuTIonpcpg0) | 6:16 | 2021-12-23 | 2022-07-28 |
+| [Wasting Away](https://open.spotify.com/track/3pvmuDlh6Y8GRkLVYA22fH) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Wasting Away](https://open.spotify.com/album/2YRAJGtWMaiwUfiPn0gTmy) | 7:00 | 2024-08-09 |  |
 | [Waves](https://open.spotify.com/track/1hwug6dzxpgjQ6QsA2jvFr) | [Gryr](https://open.spotify.com/artist/3QNDp4bvJ5u3dPEyN3ymsf) | [Heino](https://open.spotify.com/album/3Z0NohL5kRMvuKP5HMD8Ne) | 5:04 | 2023-04-27 | 2024-08-01 |
 | [We Know](https://open.spotify.com/track/1ZELlMbQISLH9XfQkHRbtO) | [Avidus](https://open.spotify.com/artist/6v1l56EZ8Wl7gpZhfihaKQ) | [Erlking](https://open.spotify.com/album/4iyNvCmvwszqIz0XRFW41J) | 4:39 | 2023-01-13 | 2023-02-16 |
 | [We Want to Feel Love](https://open.spotify.com/track/7LWds5WApLqIiLxlshvRaK) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [We Want to Feel Love](https://open.spotify.com/album/5B9blW3s4QFiTWxxxUdhn0) | 6:30 | 2021-12-23 | 2022-07-28 |

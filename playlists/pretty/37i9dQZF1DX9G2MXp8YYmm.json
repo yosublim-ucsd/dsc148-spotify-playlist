@@ -1,6 +1,6 @@
 {
   "description": "Popun sevilen isimleri. Kapak: Afra",
-  "num_followers": 139360,
+  "num_followers": 139442,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -243,26 +243,18 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
-        "name": "An\u0131lara Dalar\u0131z",
-        "url": "https://open.spotify.com/album/4LXEyR5YIqDAhA1sB7y4QP"
+        "name": "Ben Senin Delinim",
+        "url": "https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF"
       },
       "artists": [
         {
-          "name": "Ebru Ya\u015far",
-          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
-        },
-        {
-          "name": "Burak Bulut",
-          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
-        },
-        {
-          "name": "Kurtulu\u015f Ku\u015f",
-          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
         }
       ],
-      "duration_ms": 150681,
-      "name": "An\u0131lara Dalar\u0131z",
-      "url": "https://open.spotify.com/track/0Rjq84ntnHd3olOXHPacVr"
+      "duration_ms": 223854,
+      "name": "Ben Senin Delinim",
+      "url": "https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx"
     },
     {
       "added_at": "2024-12-19 21:00:14",
@@ -299,18 +291,26 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
-        "name": "Ben Senin Delinim",
-        "url": "https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF"
+        "name": "An\u0131lara Dalar\u0131z",
+        "url": "https://open.spotify.com/album/4LXEyR5YIqDAhA1sB7y4QP"
       },
       "artists": [
         {
-          "name": "Hande Yener",
-          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+          "name": "Ebru Ya\u015far",
+          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+        },
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
         }
       ],
-      "duration_ms": 223854,
-      "name": "Ben Senin Delinim",
-      "url": "https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx"
+      "duration_ms": 150681,
+      "name": "An\u0131lara Dalar\u0131z",
+      "url": "https://open.spotify.com/track/0Rjq84ntnHd3olOXHPacVr"
     },
     {
       "added_at": "2024-12-19 21:00:14",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
+        "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
+        "url": "https://open.spotify.com/album/6n1theDrLpEfo31wnPV93I"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011f\u00e7e Kandemir",
+          "url": "https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN"
+        }
+      ],
+      "duration_ms": 177890,
+      "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
+      "url": "https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry"
+    },
+    {
+      "added_at": "2024-12-19 21:00:14",
+      "album": {
         "name": "\u015eIP",
         "url": "https://open.spotify.com/album/5OMktJw6YrtuxDDi28lCA9"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
-        "name": "Ma\u011flup",
-        "url": "https://open.spotify.com/album/19JJCx7HlJEhhW3oVwphxI"
-      },
-      "artists": [
-        {
-          "name": "\u00c7a\u011fan \u015eeng\u00fcl",
-          "url": "https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw"
-        }
-      ],
-      "duration_ms": 160970,
-      "name": "Ma\u011flup",
-      "url": "https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC"
-    },
-    {
-      "added_at": "2024-12-19 21:00:14",
-      "album": {
         "name": "Hayat Oyunu",
         "url": "https://open.spotify.com/album/615p1fQHcVD9BiDyGYmpgJ"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 228693,
       "name": "Hayat Oyunu",
       "url": "https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE"
-    },
-    {
-      "added_at": "2024-12-19 21:00:14",
-      "album": {
-        "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
-        "url": "https://open.spotify.com/album/6n1theDrLpEfo31wnPV93I"
-      },
-      "artists": [
-        {
-          "name": "Tu\u011f\u00e7e Kandemir",
-          "url": "https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN"
-        }
-      ],
-      "duration_ms": 177890,
-      "name": "A\u00e7\u0131ld\u0131 Kap\u0131lar",
-      "url": "https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry"
     },
     {
       "added_at": "2024-12-19 21:00:14",
@@ -855,18 +839,18 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
-        "name": "M\u00fcptelan\u0131m Bilgine",
-        "url": "https://open.spotify.com/album/0wnXAeVnoF5hmh3kqKq4ka"
+        "name": "Ma\u011flup",
+        "url": "https://open.spotify.com/album/19JJCx7HlJEhhW3oVwphxI"
       },
       "artists": [
         {
-          "name": "Ziynet Sali",
-          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
+          "name": "\u00c7a\u011fan \u015eeng\u00fcl",
+          "url": "https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw"
         }
       ],
-      "duration_ms": 224527,
-      "name": "M\u00fcptelan\u0131m Bilgine",
-      "url": "https://open.spotify.com/track/1jypLgDWOBOJe6BgO8FWzo"
+      "duration_ms": 160970,
+      "name": "Ma\u011flup",
+      "url": "https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC"
     },
     {
       "added_at": "2024-12-19 21:00:14",
@@ -903,6 +887,22 @@
       "duration_ms": 191094,
       "name": "Sevdam",
       "url": "https://open.spotify.com/track/1kxyTI6tIkozvTlLXaa4ER"
+    },
+    {
+      "added_at": "2024-12-19 21:00:14",
+      "album": {
+        "name": "M\u00fcptelan\u0131m Bilgine",
+        "url": "https://open.spotify.com/album/0wnXAeVnoF5hmh3kqKq4ka"
+      },
+      "artists": [
+        {
+          "name": "Ziynet Sali",
+          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
+        }
+      ],
+      "duration_ms": 224527,
+      "name": "M\u00fcptelan\u0131m Bilgine",
+      "url": "https://open.spotify.com/track/1jypLgDWOBOJe6BgO8FWzo"
     },
     {
       "added_at": "2024-12-19 21:00:14",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
-        "name": "Babil",
-        "url": "https://open.spotify.com/album/5laJzLzpppiMQo5EvwTMc7"
+        "name": "Bir G\u00fcn \u00d6l\u00fcrsem",
+        "url": "https://open.spotify.com/album/0IESWsxuJ693yBZ3ZRf075"
       },
       "artists": [
         {
-          "name": "Nil Karaibrahimgil",
-          "url": "https://open.spotify.com/artist/1PpRPZXSS5ka7m5NW2TO7q"
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
         }
       ],
-      "duration_ms": 140625,
-      "name": "Babil",
-      "url": "https://open.spotify.com/track/53DRdoRp8ihlGH2XZwqv6a"
+      "duration_ms": 156428,
+      "name": "Bir G\u00fcn \u00d6l\u00fcrsem",
+      "url": "https://open.spotify.com/track/5dotbwu3G11fvSwpwltLGy"
     },
     {
       "added_at": "2024-12-19 21:00:14",
@@ -1103,6 +1103,38 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
+        "name": "Babil",
+        "url": "https://open.spotify.com/album/5laJzLzpppiMQo5EvwTMc7"
+      },
+      "artists": [
+        {
+          "name": "Nil Karaibrahimgil",
+          "url": "https://open.spotify.com/artist/1PpRPZXSS5ka7m5NW2TO7q"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "Babil",
+      "url": "https://open.spotify.com/track/53DRdoRp8ihlGH2XZwqv6a"
+    },
+    {
+      "added_at": "2024-12-19 21:00:14",
+      "album": {
+        "name": "B\u00f6yle B\u00f6yle Azald\u0131m",
+        "url": "https://open.spotify.com/album/55ihmwZgsoegJ0mo9q59SA"
+      },
+      "artists": [
+        {
+          "name": "Kendimden Hallice",
+          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
+        }
+      ],
+      "duration_ms": 203991,
+      "name": "B\u00f6yle B\u00f6yle Azald\u0131m",
+      "url": "https://open.spotify.com/track/0IXPdXqSXZzYwnaNO057cY"
+    },
+    {
+      "added_at": "2024-12-19 21:00:14",
+      "album": {
         "name": "Yerine Sevemem",
         "url": "https://open.spotify.com/album/54PlqcEztTsO9Dm5o1FFb6"
       },
@@ -1123,18 +1155,22 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
-        "name": "B\u00f6yle B\u00f6yle Azald\u0131m",
-        "url": "https://open.spotify.com/album/55ihmwZgsoegJ0mo9q59SA"
+        "name": "Deli Yang\u0131n\u0131m",
+        "url": "https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm"
       },
       "artists": [
         {
-          "name": "Kendimden Hallice",
-          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
+          "name": "Emrah Karaduman",
+          "url": "https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk"
+        },
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
         }
       ],
-      "duration_ms": 203991,
-      "name": "B\u00f6yle B\u00f6yle Azald\u0131m",
-      "url": "https://open.spotify.com/track/0IXPdXqSXZzYwnaNO057cY"
+      "duration_ms": 225000,
+      "name": "Deli Yang\u0131n\u0131m",
+      "url": "https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa"
     },
     {
       "added_at": "2024-12-19 21:00:14",
@@ -1171,46 +1207,6 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
-        "name": "Uslanmaz",
-        "url": "https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ"
-      },
-      "artists": [
-        {
-          "name": "Samet Karde\u015fler",
-          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
-        },
-        {
-          "name": "S\u0131la \u015eahin",
-          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Uslanmaz",
-      "url": "https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG"
-    },
-    {
-      "added_at": "2024-12-19 21:00:14",
-      "album": {
-        "name": "Deli Yang\u0131n\u0131m",
-        "url": "https://open.spotify.com/album/4E0WzArTNydcJl0ehDCxTm"
-      },
-      "artists": [
-        {
-          "name": "Emrah Karaduman",
-          "url": "https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk"
-        },
-        {
-          "name": "\u0130rem Derici",
-          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Deli Yang\u0131n\u0131m",
-      "url": "https://open.spotify.com/track/2dWy6kY5UjAMxowgLylmBa"
-    },
-    {
-      "added_at": "2024-12-19 21:00:14",
-      "album": {
         "name": "DERMANIM",
         "url": "https://open.spotify.com/album/5ZlbCE0T5trgtEBO8RHgX6"
       },
@@ -1223,26 +1219,6 @@
       "duration_ms": 154765,
       "name": "DERMANIM",
       "url": "https://open.spotify.com/track/1FMbDJd4OAYIyNbvcBxIDr"
-    },
-    {
-      "added_at": "2024-12-19 21:00:14",
-      "album": {
-        "name": "Kara Konular",
-        "url": "https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX"
-      },
-      "artists": [
-        {
-          "name": "Can Bonomo",
-          "url": "https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6"
-        },
-        {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
-        }
-      ],
-      "duration_ms": 240181,
-      "name": "T\u00fckeniyor \u00d6mr\u00fcm",
-      "url": "https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF"
     },
     {
       "added_at": "2024-12-19 21:00:14",
@@ -1267,18 +1243,42 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
-        "name": "Deli Gibi Seviyorum",
-        "url": "https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r"
+        "name": "Uslanmaz",
+        "url": "https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ"
       },
       "artists": [
         {
-          "name": "Ahmet Hatipo\u011flu",
-          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+          "name": "Samet Karde\u015fler",
+          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
+        },
+        {
+          "name": "S\u0131la \u015eahin",
+          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
         }
       ],
-      "duration_ms": 132042,
-      "name": "Deli Gibi Seviyorum",
-      "url": "https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ"
+      "duration_ms": 145500,
+      "name": "Uslanmaz",
+      "url": "https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG"
+    },
+    {
+      "added_at": "2024-12-19 21:00:14",
+      "album": {
+        "name": "Kara Konular",
+        "url": "https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX"
+      },
+      "artists": [
+        {
+          "name": "Can Bonomo",
+          "url": "https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6"
+        },
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "duration_ms": 240181,
+      "name": "T\u00fckeniyor \u00d6mr\u00fcm",
+      "url": "https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF"
     },
     {
       "added_at": "2024-12-19 21:00:14",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-12-19 21:00:14",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB"
+        "name": "HODR\u0130 MEYDAN",
+        "url": "https://open.spotify.com/album/3jwcQNmy7GNGjY3gfQ4PTZ"
       },
       "artists": [
         {
-          "name": "\u0130rem Derici",
-          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+          "name": "Amo988",
+          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
         }
       ],
-      "duration_ms": 132857,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw"
+      "duration_ms": 120285,
+      "name": "HODR\u0130 MEYDAN",
+      "url": "https://open.spotify.com/track/7IVyGl2LapK633TQEhn6rz"
     }
   ],
   "unique_name": "Pop Radyo",

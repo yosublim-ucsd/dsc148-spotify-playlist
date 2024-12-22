@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 117336,
       "name": "(\u043d\u0435) \u0443\u0445\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/1jvbTfTwq3BCz0MPJA0eCo"
@@ -14576,7 +14576,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 134400,
       "name": "Sladki Snov Rapper 2",
       "url": "https://open.spotify.com/track/1lx65Q3Vfy8NsfaA5DXUcJ"
@@ -15782,6 +15782,28 @@
       "duration_ms": 155391,
       "name": "Tailor Swif",
       "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
+    },
+    {
+      "album": {
+        "name": "Take Me to the Beach (feat. Ado)",
+        "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Take Me to the Beach (feat. Ado)",
+      "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
     },
     {
       "album": {
@@ -21820,7 +21842,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 169956,
       "name": "\u0414\u043e\u0434\u043e\u043c\u0443",
       "url": "https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3"
@@ -22920,6 +22942,24 @@
       "duration_ms": 148000,
       "name": "\u0437\u0438\u043c\u0430",
       "url": "https://open.spotify.com/track/3y1fkvCTbBhNXQpR56KXYC"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0438\u043c\u0430 (\u0417 \u00ab\u041f\u043e\u0442\u044f\u0433 \u0443 31 \u0433\u0440\u0443\u0434\u043d\u044f\u00bb)",
+        "url": "https://open.spotify.com/album/09OuvRekvzbPkZPI9dBD6v"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "\u0417\u0438\u043c\u0430 - \u0417 \u00ab\u041f\u043e\u0442\u044f\u0433 \u0443 31 \u0433\u0440\u0443\u0434\u043d\u044f\u00bb",
+      "url": "https://open.spotify.com/track/58M5bYBbLxGpml3HpdsGH5"
     },
     {
       "album": {
@@ -29187,6 +29227,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u041d\u0406\u0413",
+        "url": "https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206181,
+      "name": "\u0421\u041d\u0406\u0413",
+      "url": "https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn"
+    },
+    {
+      "album": {
         "name": "\u041f\u0441\u0438\u0445\u0438 \u043f\u043e\u043f\u0430\u0434\u0430\u044e\u0442 \u0432 \u0442\u043e\u043f",
         "url": "https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1"
       },
@@ -30675,6 +30733,24 @@
     },
     {
       "album": {
+        "name": "\u0423 \u0431\u0430\u0442\u0430\u0440\u0435\u0439",
+        "url": "https://open.spotify.com/album/0QEn6GV9MeolNi9Ok2Fw9O"
+      },
+      "artists": [
+        {
+          "name": "nyan.mp3",
+          "url": "https://open.spotify.com/artist/7sEw8K65V52MWFCVVunhqb"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105200,
+      "name": "\u0423 \u0431\u0430\u0442\u0430\u0440\u0435\u0439",
+      "url": "https://open.spotify.com/track/5sGKghKnKrufLzx3fwTr0i"
+    },
+    {
+      "album": {
         "name": "\u041e\u0434\u0438\u043d \u0432 \u043a\u0430\u043d\u043e\u0435",
         "url": "https://open.spotify.com/album/1lhisylKmXpuAyPsDoHv5Y"
       },
@@ -31650,7 +31726,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 156338,
       "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa"

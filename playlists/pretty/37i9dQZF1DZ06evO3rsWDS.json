@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5421,
+  "num_followers": 5419,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAADg9tMS7Qns3NtqHEuNxlaO",
+  "snapshot_id": "Z2SzgAAAAADFiR/16u1anoBindNstJxd",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "PORQUE SOY ABEJA REINA",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Que No Sirve, Estorba",
         "url": "https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 156640,
       "name": "Lo Que No Sirve, Estorba",
       "url": "https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "PORQUE SOY ABEJA REINA",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 158160,
-      "name": "Bienvenida De Soltera",
-      "url": "https://open.spotify.com/track/3cDwKmgiVP5acuMi62z3Ig"
+      "duration_ms": 189520,
+      "name": "FUERTE",
+      "url": "https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN"
     },
     {
       "added_at": null,
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 189520,
-      "name": "FUERTE",
-      "url": "https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN"
+      "duration_ms": 158160,
+      "name": "Bienvenida De Soltera",
+      "url": "https://open.spotify.com/track/3cDwKmgiVP5acuMi62z3Ig"
     },
     {
       "added_at": null,

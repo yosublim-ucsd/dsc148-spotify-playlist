@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 48112,
+  "num_followers": 48123,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "Los Reyes Del Ritmo",
+        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
+      },
+      "artists": [
+        {
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Nadie Se Muere",
+      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "La Hora de la Verdad",
         "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 376533,
       "name": "Vivo en el limbo",
       "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "Los Reyes Del Ritmo",
-        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
-      },
-      "artists": [
-        {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Nadie Se Muere",
-      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Kaleth Morales En Guitarras",
-        "url": "https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y"
-      },
-      "artists": [
-        {
-          "name": "Kaleth Morales",
-          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Lo Mejor Para Los Dos (Todo de Cabeza) - Version Guitarra - En Vivo",
-      "url": "https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "El Hombre Merengue",
         "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "Colecci\u00f3n \u00c9xitos Pastor L\u00f3pez (Vol. 1)",
+        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 213840,
+      "name": "Golpe Con Golpe",
+      "url": "https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "Sin Medir Distancia",
         "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
       },
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Colecci\u00f3n \u00c9xitos Pastor L\u00f3pez (Vol. 1)",
-        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
+        "name": "Kaleth Morales En Guitarras",
+        "url": "https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y"
       },
       "artists": [
         {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "Kaleth Morales",
+          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
         }
       ],
-      "duration_ms": 213840,
-      "name": "Golpe Con Golpe",
-      "url": "https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y"
+      "duration_ms": 251200,
+      "name": "Lo Mejor Para Los Dos (Todo de Cabeza) - Version Guitarra - En Vivo",
+      "url": "https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "La Vamo a Tumb\u00e1",
-        "url": "https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV"
+        "name": "Historia de \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
       },
       "artists": [
         {
-          "name": "Herencia de Timbiqui",
-          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 260432,
-      "name": "La Vamo a Tumb\u00e1",
-      "url": "https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe"
+      "duration_ms": 393012,
+      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Historia de \u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
+        "name": "La Vamo a Tumb\u00e1",
+        "url": "https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Herencia de Timbiqui",
+          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
         }
       ],
-      "duration_ms": 393012,
-      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
+      "duration_ms": 260432,
+      "name": "La Vamo a Tumb\u00e1",
+      "url": "https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe"
     },
     {
       "added_at": "2024-07-12 22:59:20",

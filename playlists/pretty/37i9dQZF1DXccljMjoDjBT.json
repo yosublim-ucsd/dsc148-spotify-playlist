@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
-  "num_followers": 302386,
+  "num_followers": 302467,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Soul Searchin'",
-        "url": "https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Quinella",
         "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 294400,
       "name": "Alien",
       "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Soul Searchin'",
+        "url": "https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 279693,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "All Dressed Up",
-        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
-      },
-      "artists": [
-        {
-          "name": "David Roberts",
-          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
-        }
-      ],
-      "duration_ms": 254457,
-      "name": "Boys of Autumn",
-      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Chicago 17 (Expanded Edition)",
         "url": "https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 229426,
       "name": "You're the Inspiration - 2009 Remaster",
       "url": "https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "All Dressed Up",
+        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
+      },
+      "artists": [
+        {
+          "name": "David Roberts",
+          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
+        }
+      ],
+      "duration_ms": 254457,
+      "name": "Boys of Autumn",
+      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
     },
     {
       "added_at": "2023-03-30 14:38:10",

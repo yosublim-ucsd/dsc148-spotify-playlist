@@ -4,7 +4,7 @@
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 19 min
+110 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Creció La Cuenta](https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Creció La Cuenta](https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh) | 3:33 | 2023-08-08 | 2023-10-11 |
 | [De Lunes A Viernes](https://open.spotify.com/track/4ZLdYf8PwRSnsBeLESPio9) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [De Lunes A Viernes](https://open.spotify.com/album/6UATeZf50WEtzrp4ZMFCoc) | 2:33 | 2024-04-04 | 2024-08-02 |
 | [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 | 2023-08-08 | 2024-04-04 |
-| [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2023-08-08 |  |
+| [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2023-08-08 | 2024-12-22 |
 | [Desvelado](https://open.spotify.com/track/3YmjSVBCe6jXOUT0DQxy34) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Desvelado](https://open.spotify.com/album/3mAEZ4e27b2iFwnjY8enqt) | 3:30 | 2023-08-08 | 2024-08-03 |
 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN) | 1:53 | 2024-04-10 | 2024-12-03 |
 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 | 2023-08-08 | 2024-04-10 |
@@ -60,6 +60,7 @@
 | [Los Mire Con Talento](https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Los Mire Con Talento](https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9) | 2:43 | 2023-08-08 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2023-08-08 |  |
 | [Me Acostumbre A Lo Bueno II](https://open.spotify.com/track/0UXfmA5wYIE1uBvFzOdlCR) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Me Acostumbre A Lo Bueno II](https://open.spotify.com/album/2aPfDcYuz5bJQbVGSYgFkT) | 2:06 | 2024-10-02 |  |
+| [ME JALO](https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:32 | 2024-12-22 |  |
 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 | 2023-08-08 |  |
 | [Mentira No Es](https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mentira No Es](https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9) | 3:20 | 2023-08-08 | 2024-10-26 |
 | [Mi Porvenir](https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Porvenir](https://open.spotify.com/album/7g3gtNzXyVjmBh7tdd4Lmp) | 2:41 | 2023-08-08 | 2023-12-27 |

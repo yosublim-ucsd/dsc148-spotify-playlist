@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,385 likes - 65 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,464 likes - 65 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 51 | [Just](https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 3:54 |
 | 52 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
 | 53 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
-| 54 | [Rock ‘n’ Roll Star \- Remastered](https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 5:22 |
+| 54 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 4:49 |
 | 55 | [Sit Down](https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6) | 4:04 |
 | 56 | [Girl From Mars](https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [The Best Of Ash \(Remastered Version\)](https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib) | 3:33 |
 | 57 | [The Drugs Don't Work](https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:05 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 59 | [Babies](https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His 'N' Hers](https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5) | 4:04 |
 | 60 | [Chasing Rainbows](https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Let It Ride](https://open.spotify.com/album/7wTnoelmadLnvEXH8Je1nA) | 4:25 |
 | 61 | [Laid](https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb) | 2:36 |
-| 62 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 4:49 |
+| 62 | [Rock ‘n’ Roll Star \- Remastered](https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 5:22 |
 | 63 | [One To Another](https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK) | 4:29 |
 | 64 | [This Is How It Feels \- Radio Mix](https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb) | [Inspiral Carpets](https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP) | [This Is How It Feels](https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54) | 3:14 |
 | 65 | [Trash](https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Best Of](https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO) | 4:05 |

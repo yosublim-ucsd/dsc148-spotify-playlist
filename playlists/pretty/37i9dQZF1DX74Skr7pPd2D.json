@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 45348,
+  "num_followers": 45352,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -581,6 +581,26 @@
       "url": "https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS"
     },
     {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Sonny Side Up",
@@ -603,26 +623,6 @@
       "duration_ms": 340960,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "River: The Joni Letters (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -831,6 +831,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Guitar Forms (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "April In Paris: The Genius Of Charlie Parker #2",
         "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Guitar Forms (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 251026,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -875,22 +891,6 @@
       "duration_ms": 484293,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "High Life",
-        "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 312133,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "The Complete Verve Studio Sessions",
         "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 240013,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 312133,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1469,6 +1469,22 @@
       "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
     },
     {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Tribes Vibes And Scribes",
+        "url": "https://open.spotify.com/album/3Z75r95PxCWGB82ueJvY1A"
+      },
+      "artists": [
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        }
+      ],
+      "duration_ms": 319333,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/7KDCuqrHJ66MGogGrdFj4e"
+    },
+    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "The Complete Verve Studio Sessions",
@@ -1487,22 +1503,6 @@
       "duration_ms": 159733,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Tribes Vibes And Scribes",
-        "url": "https://open.spotify.com/album/3Z75r95PxCWGB82ueJvY1A"
-      },
-      "artists": [
-        {
-          "name": "Incognito",
-          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
-        }
-      ],
-      "duration_ms": 319333,
-      "name": "Don't You Worry 'Bout A Thing",
-      "url": "https://open.spotify.com/track/7KDCuqrHJ66MGogGrdFj4e"
     },
     {
       "added_at": "2019-10-02 08:54:10",

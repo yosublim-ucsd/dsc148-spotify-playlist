@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,662 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,716 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 47 | [Quit You](https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:49 |
 | 48 | [Every Night](https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo) | [Walker Lukens](https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4) | [Every Night](https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS) | 2:54 |
 | 49 | [Hey Mama](https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5) | [Great Caesar](https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1) | [Hey Mama](https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma) | 3:13 |
-| 50 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
-| 51 | [The Ruse](https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt) | [Buffalo Clover](https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA) | [Test Your Love](https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH) | 3:10 |
+| 50 | [The Ruse](https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt) | [Buffalo Clover](https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA) | [Test Your Love](https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH) | 3:10 |
+| 51 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
 | 52 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 53 | [For Your Consideration](https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Have a Seat](https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ) | 3:51 |
 | 54 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 79 | [Shine Your Light on Me \- Recorded at Electric Lady Studios](https://open.spotify.com/track/3r53RSkovLRgkLFeAWUzHm) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Live at Electric Lady](https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M) | 3:57 |
 | 80 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
 | 81 | [Under The Sun](https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0) | 3:49 |
-| 82 | [Sideman](https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS) | [Freddy & Francine](https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp) | [Gung Ho](https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA) | 2:48 |
+| 82 | [Lost on the Young](https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:13 |
 | 83 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 |
-| 84 | [Lost on the Young](https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:13 |
+| 84 | [Sideman](https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS) | [Freddy & Francine](https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp) | [Gung Ho](https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA) | 2:48 |
 | 85 | [Rolling Over Me](https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Rolling Over Me](https://open.spotify.com/album/63oxuPBkp987wX1y353urb) | 4:49 |
 | 86 | [Candid](https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3) | [MICKY](https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH) | [Candid](https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav) | 3:29 |
 | 87 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 |

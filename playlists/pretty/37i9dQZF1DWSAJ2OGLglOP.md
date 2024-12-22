@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲を毎週セレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,007 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,021 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 17 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
 | 18 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 |
 | 19 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 |
-| 20 | [Same Blue](https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF) | 3:57 |
+| 20 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 21 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
-| 22 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
+| 22 | [Same Blue](https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF) | 3:57 |
 | 23 | [青と夏](https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 4:30 |
 | 24 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 25 | [South of the Border \(feat\. Camila Cabello & Cardi B\)](https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,761 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,770 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 26 | [Black](https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:27 |
 | 27 | [Bleed Into Me](https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 3:48 |
 | 28 | [The Phalanx](https://open.spotify.com/track/14XbzZfy5y9U60gtjjfzdH) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 7:15 |
-| 29 | [Kirisute Gomen](https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 6:27 |
-| 30 | [The Wretchedness Inside](https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:31 |
-| 31 | [Through Blood and Dirt and Bone](https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:26 |
+| 29 | [Through Blood and Dirt and Bone](https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:26 |
+| 30 | [Kirisute Gomen](https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 6:27 |
+| 31 | [The Wretchedness Inside](https://open.spotify.com/track/6eT0nmfsRo1WzAq333RFJ1) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:31 |
 | 32 | [Watch the World Burn](https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:53 |
 | 33 | [Master of Puppets](https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy \(Special Edition\)](https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF) | 8:09 |
 | 34 | [The Shadow Of The Abattoir](https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 7:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [Torn Between Scylla and Charybdis](https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 6:49 |
 | 50 | [Forsake Not the Dream](https://open.spotify.com/track/7wZ48cSDxvoofrFS9aG4l0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:20 |
 
-Snapshot ID: `Z2NiAAAAAAAPwXNe9PhCb7zkFAETXg3s`
+Snapshot ID: `Z2SzgAAAAAAGH3HrE2VhDTjfUbpzzj4f`

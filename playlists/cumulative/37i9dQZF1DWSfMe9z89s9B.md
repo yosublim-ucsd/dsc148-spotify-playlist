@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Gabriel Jacoby
 
-1,352 songs - 2 day 23 hr 12 min
+1,353 songs - 2 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1136,6 +1136,7 @@
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2021-03-19 | 2022-08-09 |
 | [take it easy.](https://open.spotify.com/track/1PNz8GPDAkQdFU19Ienmnr) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 3:08 | 2022-11-18 | 2022-12-29 |
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2021-03-19 | 2022-04-24 |
+| [Take Me Down](https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Take Me Down](https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib) | 2:06 | 2024-12-06 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2021-03-19 | 2022-07-29 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2022-06-10 | 2022-11-05 |
 | [Take My Time](https://open.spotify.com/track/03QuhRi2HkEl6C2jYc8Obi) | [Dancody](https://open.spotify.com/artist/5nBggqz80XWqMUkMDndDnS), [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG), [THEO](https://open.spotify.com/artist/4RxsOR1W3dND7696bxwYzG) | [What We Lost](https://open.spotify.com/album/4EDIKL4peA6oDSLsZTguyq) | 3:12 | 2023-06-09 | 2023-11-20 |
@@ -1151,7 +1152,7 @@
 | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn) | 3:14 | 2023-02-24 | 2023-04-24 |
 | [Teen Heartbreak](https://open.spotify.com/track/5Qo3V9WDGb8eqCZtCgvJMw) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Teen Heartbreak](https://open.spotify.com/album/7qm9tv1Pn9EkYcfxXwIH7t) | 2:11 | 2024-06-21 | 2024-08-11 |
 | [Telescope](https://open.spotify.com/track/29oH20WCU0mVO3SwfIaaib) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Telescope](https://open.spotify.com/album/6M3hPrILsU7h2ifDR3XKGW) | 4:46 | 2024-05-03 | 2024-08-24 |
-| [Tell Her](https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Tell Her](https://open.spotify.com/album/64k5YDxZtFWPvKWMGxKYrO) | 3:51 | 2024-05-10 |  |
+| [Tell Her](https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Tell Her](https://open.spotify.com/album/64k5YDxZtFWPvKWMGxKYrO) | 3:51 | 2024-05-10 | 2024-12-22 |
 | [Tell Me](https://open.spotify.com/track/2acAftMCwuDIsKkTABFC5A) | [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [HARMINE](https://open.spotify.com/album/3m8xrGYg4snYy54VS2IHsh) | 4:45 | 2022-05-20 | 2022-07-16 |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-04-01 | 2022-04-08 |
 | [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-05-13 | 2022-10-15 |

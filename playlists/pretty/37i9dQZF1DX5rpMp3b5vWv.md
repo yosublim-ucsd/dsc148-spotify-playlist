@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 
 > Game time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,909 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,056 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 | 4 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
 | 5 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 |
 | 6 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 |
-| 7 | [Father Stretch My Hands Pt\. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:15 |
-| 8 | [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 |
+| 7 | [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 |
+| 8 | [Father Stretch My Hands Pt\. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:15 |
 | 9 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
 | 10 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
 | 11 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5rpMp3b5vWv.md) - [plain]
 | 23 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
 | 24 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:34 |
 | 25 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 |
-| 26 | [Numb / Encore](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Numb / Encore: MTV Ultimate Mash\-Ups Presents Collision Course](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) | 3:25 |
-| 27 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 |
+| 26 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 |
+| 27 | [Numb / Encore](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Numb / Encore: MTV Ultimate Mash\-Ups Presents Collision Course](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) | 3:25 |
 | 28 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 |
 | 29 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 |
 | 30 | [Freestyle](https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:42 |

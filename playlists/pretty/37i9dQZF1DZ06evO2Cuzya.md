@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 > This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,637 likes - 39 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,335 likes - 39 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
 | 2 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 3 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
-| 4 | [Risk](https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:11 |
+| 4 | [Close To You](https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:45 |
 | 5 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
 | 6 | [Cool](https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 3:49 |
 | 7 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 |
-| 8 | [Close To You](https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:45 |
+| 8 | [Risk](https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:11 |
 | 9 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 |
 | 10 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
 | 11 | [I Told You Things](https://open.spotify.com/track/5V6mK1pEu22104f22m8KkX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 3:41 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 38 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 | 39 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
 
-Snapshot ID: `Z2NiAAAAAAAxLxDl78R4aoP1nR/0Qkyq`
+Snapshot ID: `Z2SzgAAAAACUvF7Of6hWXBj6fyRp7cjP`

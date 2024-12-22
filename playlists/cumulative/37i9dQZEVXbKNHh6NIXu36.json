@@ -2229,6 +2229,28 @@
     },
     {
       "album": {
+        "name": "Allein da (Radio Edit)",
+        "url": "https://open.spotify.com/album/4dhujyi2cjuJ8ByR9Ot1Nk"
+      },
+      "artists": [
+        {
+          "name": "SAMIRA",
+          "url": "https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160833,
+      "name": "Allein da - Radio Edit",
+      "url": "https://open.spotify.com/track/1ZAY0JeV4APCcfvRkwTWEH"
+    },
+    {
+      "album": {
         "name": "ALLEIN GEGEN ALLE [INTRO]",
         "url": "https://open.spotify.com/album/5sKJwq8BEuuoT0ybAh3qMh"
       },
@@ -2464,6 +2486,48 @@
       "duration_ms": 98066,
       "name": "Alles zu seiner Zeit",
       "url": "https://open.spotify.com/track/6FTVjtAykqG2on6d1yTZuT"
+    },
+    {
+      "album": {
+        "name": "Allstars 2024",
+        "url": "https://open.spotify.com/album/03btRNxBgh8EYAMdZvBtkm"
+      },
+      "artists": [
+        {
+          "name": "187 Strassenbande",
+          "url": "https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD"
+        },
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+        },
+        {
+          "name": "Sa4",
+          "url": "https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR"
+        },
+        {
+          "name": "AchtVier",
+          "url": "https://open.spotify.com/artist/6JOYrJkaS8ZKxLoUdNNdWr"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197173,
+      "name": "Allstars 2024",
+      "url": "https://open.spotify.com/track/2oFGVKqfwlYJKGzPWFYL9K"
     },
     {
       "album": {
@@ -5158,7 +5222,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -14896,7 +14960,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -14914,7 +14978,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -18578,7 +18642,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 268960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
@@ -18596,7 +18660,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 268960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
@@ -19196,7 +19260,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0"
@@ -21640,7 +21704,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 172906,
       "name": "In der Weihnachtsb\u00e4ckerei",
       "url": "https://open.spotify.com/track/7gcKoI9KokClK9ZUjNFgZa"
@@ -22264,7 +22328,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -22282,7 +22346,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 151933,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -22600,7 +22664,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 126360,
       "name": "Jingle Bell Rock - Daryl's Version",
       "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
@@ -25146,7 +25210,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 144516,
       "name": "LID",
       "url": "https://open.spotify.com/track/5U8jvRKKzcc3XjBB2CNZaZ"
@@ -28344,7 +28408,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -34828,7 +34892,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 147169,
       "name": "PLAYBOYBUNNIES",
       "url": "https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC"
@@ -37452,7 +37516,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 135760,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw"

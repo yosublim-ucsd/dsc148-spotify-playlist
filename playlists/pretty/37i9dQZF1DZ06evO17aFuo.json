@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 293721,
+  "num_followers": 293780,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAABo6jQkqZCJu/NnNuwHnnqm",
+  "snapshot_id": "Z2SzgAAAAACDRk4+FJHVg9PHNgqjhEj4",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The System Has Failed",
-        "url": "https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 207221,
-      "name": "Back In the Day",
-      "url": "https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 213480,
       "name": "Conquer Or Die",
       "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The System Has Failed",
+        "url": "https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 207221,
+      "name": "Back In the Day",
+      "url": "https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 223400,
-      "name": "This Was My Life",
-      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
+      "duration_ms": 219800,
+      "name": "Architecture Of Aggression",
+      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warchest",
-        "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 224080,
-      "name": "Kill The King",
-      "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
+      "duration_ms": 231200,
+      "name": "The Killing Road - Remastered 2004",
+      "url": "https://open.spotify.com/track/0jKqcTDzbUv7chWlJiAuR5"
     },
     {
       "added_at": null,
@@ -516,15 +516,15 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Architecture Of Aggression",
-      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
+      "duration_ms": 223400,
+      "name": "This Was My Life",
+      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+        "name": "Warchest",
+        "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 231200,
-      "name": "The Killing Road - Remastered 2004",
-      "url": "https://open.spotify.com/track/0jKqcTDzbUv7chWlJiAuR5"
+      "duration_ms": 224080,
+      "name": "Kill The King",
+      "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Blood Of Heroes - Remastered 2004",
-      "url": "https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 302333,
       "name": "The Conjuring - Remastered",
       "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Blood Of Heroes - Remastered 2004",
+      "url": "https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Is My Business...And Business Is Good!",
-        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Rattlehead",
-      "url": "https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 305200,
       "name": "Devils Island - 2004 Remaster",
       "url": "https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Is My Business...And Business Is Good!",
+        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Rattlehead",
+      "url": "https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cryptic Writings (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 324800,
-      "name": "A Secret Place - Remastered 2004 / Remixed",
-      "url": "https://open.spotify.com/track/3b1nPEPh9OGSngRUciEv6P"
+      "duration_ms": 295333,
+      "name": "My Last Words - Remastered",
+      "url": "https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4"
     }
   ],
   "unique_name": "This Is Megadeth",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,641 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,612 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 35 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
 | 36 | [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 |
 | 37 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
-| 38 | [FRIKI](https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [FRIKI](https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL) | 3:09 |
-| 39 | [Tengo Un Plan](https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Tengo Un Plan](https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6) | 3:09 |
+| 38 | [Tengo Un Plan](https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Tengo Un Plan](https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6) | 3:09 |
+| 39 | [FRIKI](https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [FRIKI](https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL) | 3:09 |
 | 40 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 |
 | 41 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 |
 | 42 | [Guay](https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Guay](https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl) | 3:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > Let these country songs get your tailgate going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,380 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,394 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 30 | [Last Name](https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:01 |
 | 31 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 |
 | 32 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 |
-| 33 | [As Good As I Once Was](https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:47 |
+| 33 | [Neon Moon](https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 4:21 |
 | 34 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 |
 | 35 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
-| 36 | [Neon Moon](https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 4:21 |
+| 36 | [As Good As I Once Was](https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:47 |
 | 37 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
 | 38 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 39 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 57 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
 | 58 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 |
 | 59 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
-| 60 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
-| 61 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
+| 60 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
+| 61 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
 | 62 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
 | 63 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
 | 64 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |

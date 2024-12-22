@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 368780,
       "name": "Home - Vocal Mix",
       "url": "https://open.spotify.com/track/5KVlKPgHoznMmMqjRUKMHD"
@@ -5522,6 +5522,36 @@
       "duration_ms": 277006,
       "name": "Simpatico",
       "url": "https://open.spotify.com/track/2c1lZ3KdyPhDVW0wOLXyj4"
+    },
+    {
+      "album": {
+        "name": "So Long Remixes",
+        "url": "https://open.spotify.com/album/3bNvytNPMJ6JM7C5WPiuNQ"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "BB James",
+          "url": "https://open.spotify.com/artist/51OLd5mEO2LskXn31lPVDR"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496985,
+      "name": "So Long - Manoo Remix",
+      "url": "https://open.spotify.com/track/7km33Hx7tcTU2CfgIFzUiI"
     },
     {
       "album": {

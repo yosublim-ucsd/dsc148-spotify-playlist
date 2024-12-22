@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  Tay Iwar
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,323 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,316 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 8 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 9 | [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 |
 | 10 | [Free Me](https://open.spotify.com/track/6cfyRstNjsLuD5POxzX7mp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:20 |
-| 11 | [Eyes Dried Over](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
+| 11 | [Eyes Dried Over \(feat\. Tom Walker\)](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
 | 12 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 |
 | 13 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 |
 | 14 | [Forgiveness](https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9) | 3:20 |

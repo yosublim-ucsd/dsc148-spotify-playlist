@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,560 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,662 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 45 | [Déjala que vuelva](https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Déjala que vuelva](https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY) | 3:18 |
 | 46 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |
 | 47 | [Me Hace Tanto Bien \- En Vivo](https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J) | [Mo Rivas](https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz), [Carlos Law](https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD) | [Me Hace Tanto Bien \(En Vivo\)](https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh) | 3:08 |
-| 48 | [Calma \- Remix](https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Calma \(Remix\)](https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ) | 2:52 |
+| 48 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
 | 49 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
 | 50 | [Nube Viajera](https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nube Viajera](https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD) | 3:50 |
 | 51 | [Con la miel en los labios](https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Con la miel en los labios](https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi) | 3:30 |
 | 52 | [Andar Conmigo](https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Andar Conmigo](https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn) | 3:58 |
-| 53 | [Felices los 4 \- Acoustic version](https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Felices los 4 \(Acoustic Version\)](https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7) | 4:09 |
-| 54 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
+| 53 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
+| 54 | [Felices los 4 \- Acoustic version](https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Felices los 4 \(Acoustic Version\)](https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7) | 4:09 |
 | 55 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
 | 56 | [Cristina](https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Cristina](https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C) | 3:41 |
-| 57 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
+| 57 | [Calma \- Remix](https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Calma \(Remix\)](https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ) | 2:52 |
 | 58 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
 | 59 | [Y Cómo Es Él?](https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Y Cómo Es Él?](https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90) | 3:51 |
 | 60 | [Dembow \- Acoustic Version](https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy) | [Rebeca Luna](https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi) | [Acoustic Sessions](https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb) | 3:34 |

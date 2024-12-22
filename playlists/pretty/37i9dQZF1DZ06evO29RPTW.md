@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,088 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,112 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [Medication For The Melancholy](https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:26 |
 | 50 | [Thunder Kiss '65 \- JDevil Number Of The Beast Remix](https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Mondo Sex Head](https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV) | 3:49 |
 
-Snapshot ID: `Z2NiAAAAAAAGh+w2yhL1sHv/6psOJHH2`
+Snapshot ID: `Z2SzgAAAAAAs/Cm1FPJZZXflQgyj7/BJ`

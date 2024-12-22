@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,149 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,155 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 35 | [Une sorte d'église](https://open.spotify.com/track/01VtLX5ZBvxzhyjsCA3bpC) | [Olive](https://open.spotify.com/artist/6vAVYxk3IayFetuFPhSuVw), [Daran](https://open.spotify.com/artist/02PgZANyX6s8J9Gm2N8sc9) | [Une sorte d'église](https://open.spotify.com/album/2MDxIUqrennNnagIy95tBr) | 6:13 |
 | 36 | [Hollow](https://open.spotify.com/track/3pm9zDurEHGygOM3p8uF8W) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64) | [Hollow](https://open.spotify.com/album/1uhSs6sPkJrGNyWiVEOKGV) | 2:51 |
 | 37 | [On The Beach](https://open.spotify.com/track/6cIChva2UfooNftQMoAXAx) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [On The Beach](https://open.spotify.com/album/4B5P0Ks1JKtLn1wj4vhBBq) | 2:47 |
-| 38 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 38 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 39 | [Something](https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Something](https://open.spotify.com/album/04zTk2sCLc9oFdZCrz1rWl) | 3:06 |
 | 40 | [No Sleep](https://open.spotify.com/track/75sGNpidmjIEHDaILUPhjZ) | [Morandi](https://open.spotify.com/artist/1oiZoULxUJDYGOKMgVefP4), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [No Sleep](https://open.spotify.com/album/48NqxG3c6KNTtS97htLiRK) | 2:35 |
 | 41 | [Where R U Now](https://open.spotify.com/track/5KVR1pRC0uFGesdInoDPu0) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Where R U Now](https://open.spotify.com/album/60XMKb2QPYqOHXJRCOC7AL) | 3:18 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 49 | [Stay Baby](https://open.spotify.com/track/2Ho4QtGcGgxwpti7N8Zsuw) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Stay Baby](https://open.spotify.com/album/6uhWPNR9ImsvLAbMGQG0fn) | 4:19 |
 | 50 | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4) | 2:05 |
 | 51 | [URUSPU](https://open.spotify.com/track/6CRQSXig1Qg3KmMgLMd09L) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [URUSPU](https://open.spotify.com/album/49lYO8KBDp7RKsHAJ3OeTp) | 2:00 |
-| 52 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 52 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 53 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 |
 | 54 | [Five Years](https://open.spotify.com/track/6SYJz0PaK4XQA87dJE1gHz) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Five Years](https://open.spotify.com/album/5tBuk2MNQjP4i8EJ8DYitO) | 2:49 |
 | 55 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 |

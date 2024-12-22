@@ -6,42 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2KXggAAAAB/BwtfmcAgyCfWn7OMmMrd",
+  "snapshot_id": "Z2aYmAAAAADOdUllJnF4k39T8h6ukvvh",
   "tracks": [
     {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 194206,
-      "name": "You're On Your Own, Kid",
-      "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -57,7 +25,7 @@
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
@@ -73,23 +41,55 @@
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 185265,
-      "name": "Good Graces",
-      "url": "https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90"
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 194206,
+      "name": "You're On Your Own, Kid",
+      "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
       "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
@@ -109,7 +109,55 @@
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185265,
+      "name": "Good Graces",
+      "url": "https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -129,23 +177,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
         "name": "Wallsocket (Director's Cut)",
         "url": "https://open.spotify.com/album/4gfPAEkUvCJJikyRW9GoSy"
@@ -161,119 +193,7 @@
       "url": "https://open.spotify.com/track/3fvFqnPGrboTqY8gA3gtxc"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "So High School",
-      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "Wallsocket (Director's Cut)",
-        "url": "https://open.spotify.com/album/4gfPAEkUvCJJikyRW9GoSy"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Stupid (Can\u2019t run from the urge)",
-      "url": "https://open.spotify.com/track/51vRYl0OqozBFkhBzAPzKI"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 340428,
-      "name": "But Daddy I Love Him",
-      "url": "https://open.spotify.com/track/4QMgEffJQuKtjCNvqfRZ0m"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
         "name": "My Vine",
         "url": "https://open.spotify.com/album/4qBisrnVON2gyBr6ZrFnHp"
@@ -289,23 +209,23 @@
       "url": "https://open.spotify.com/track/1N6yLqYILv6h09MUcTIttf"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
-        "name": "GUTS (spilled)",
-        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 184783,
-      "name": "bad idea right?",
-      "url": "https://open.spotify.com/track/27Cne97mFE21Ob0ScMewrV"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -321,27 +241,139 @@
       "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
-        "name": "Speak Now (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
       "artists": [
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
+      "duration_ms": 228800,
+      "name": "So High School",
+      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 154126,
+      "name": "Sympathy is a knife featuring ariana grande",
+      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/5nDy51XGA7HbEMERxHOc48"
+      },
+      "artists": [
+        {
+          "name": "Black Taxi",
+          "url": "https://open.spotify.com/artist/2Fj3NrXksGtHlhMvjjVyOI"
+        }
+      ],
+      "duration_ms": 233378,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/7pl30mofobKmI0a8EWzTyI"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 340428,
+      "name": "But Daddy I Love Him",
+      "url": "https://open.spotify.com/track/4QMgEffJQuKtjCNvqfRZ0m"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 249494,
+      "name": "Block me out",
+      "url": "https://open.spotify.com/track/1w0o2PLYzpFnnyEnOoD7qX"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "Wallsocket (Director's Cut)",
+        "url": "https://open.spotify.com/album/4gfPAEkUvCJJikyRW9GoSy"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Stupid (Can\u2019t run from the urge)",
+      "url": "https://open.spotify.com/track/51vRYl0OqozBFkhBzAPzKI"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
       "album": {
         "name": "Friesenjung",
         "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
@@ -365,23 +397,59 @@
       "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/4MgryRe2yavUKiCucotL9C"
+      "duration_ms": 266466,
+      "name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
+      "album": {
+        "name": "SMILE! :D",
+        "url": "https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/5iyuwVaMliMdloOzSBxohv"
+    },
+    {
+      "added_at": "2024-12-21 10:29:44",
       "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
@@ -397,46 +465,26 @@
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "Break My Own",
+        "url": "https://open.spotify.com/album/6yyfRmvcRUtYJbZsbgigvW"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Taylor Bickett",
+          "url": "https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk"
         }
       ],
-      "duration_ms": 254365,
-      "name": "Guilty as Sin?",
-      "url": "https://open.spotify.com/track/799KrpEbhZp0MHeiA8YK9P"
+      "duration_ms": 203654,
+      "name": "Break My Own",
+      "url": "https://open.spotify.com/track/5MRhQ1vAb9JVDbzp0jmmw1"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 154126,
-      "name": "Sympathy is a knife featuring ariana grande",
-      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
       "artists": [
         {
@@ -444,73 +492,25 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 198724,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/6lWp5O5XH6smTt4vzd4Mgy"
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
     },
     {
-      "added_at": "2024-12-18 09:36:02",
+      "added_at": "2024-12-21 10:29:44",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 167748,
-      "name": "two years",
-      "url": "https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 237567,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 168880,
-      "name": "Wish You Were Sober",
-      "url": "https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk"
-    },
-    {
-      "added_at": "2024-12-18 09:36:02",
-      "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 174539,
-      "name": "Fast Times",
-      "url": "https://open.spotify.com/track/2PF942PpnXkvXgLjphm8gG"
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     }
   ],
   "unique_name": "On Repeat",

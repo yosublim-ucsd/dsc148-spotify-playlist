@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: iiso(\uc774\uc18c))",
-  "num_followers": 27297,
+  "num_followers": 27308,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -795,30 +795,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "Good Night Good Morning (GNGM) [minlee Remix]",
-        "url": "https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO"
-      },
-      "artists": [
-        {
-          "name": "minlee",
-          "url": "https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4"
-        },
-        {
-          "name": "Ellui",
-          "url": "https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7"
-        },
-        {
-          "name": "Hardy",
-          "url": "https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju"
-        }
-      ],
-      "duration_ms": 125629,
-      "name": "Good Night Good Morning (GNGM) - minlee Remix",
-      "url": "https://open.spotify.com/track/5lC6Y8j5AZw9eZOIH832dS"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "Good Night Good Morning (GNGM) [minlee Remix]",
+        "url": "https://open.spotify.com/album/6Gms2D8W5M7060RkTQchjO"
+      },
+      "artists": [
+        {
+          "name": "minlee",
+          "url": "https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4"
+        },
+        {
+          "name": "Ellui",
+          "url": "https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7"
+        },
+        {
+          "name": "Hardy",
+          "url": "https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju"
+        }
+      ],
+      "duration_ms": 125629,
+      "name": "Good Night Good Morning (GNGM) - minlee Remix",
+      "url": "https://open.spotify.com/track/5lC6Y8j5AZw9eZOIH832dS"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Slom",
-          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Bad Boy - Slom Remix",
-      "url": "https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "Re: searchlight",
         "url": "https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 310952,
       "name": "Re: searchlight",
       "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Slom",
+          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Bad Boy - Slom Remix",
+      "url": "https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "LOTTO - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+        "name": "iScreaM Vol.24 : Perfume Remixes",
+        "url": "https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "NCT DOJAEJUNG",
+          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
         }
       ],
-      "duration_ms": 245189,
-      "name": "Monster - LDN Noise Creeper Bass Remix",
-      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
+      "duration_ms": 168973,
+      "name": "Perfume - Jafunk Remix",
+      "url": "https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.24 : Perfume Remixes",
-        "url": "https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc"
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
       },
       "artists": [
         {
-          "name": "NCT DOJAEJUNG",
-          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 168973,
-      "name": "Perfume - Jafunk Remix",
-      "url": "https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9"
+      "duration_ms": 245189,
+      "name": "Monster - LDN Noise Creeper Bass Remix",
+      "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1716,13 +1716,13 @@
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         },
         {
-          "name": "BRLLNT",
-          "url": "https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt"
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
         }
       ],
-      "duration_ms": 171940,
-      "name": "Bambi - BRLLNT Remix",
-      "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
+      "duration_ms": 240004,
+      "name": "Bambi - h4rdy Remix",
+      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.5 : Criminal Remixes",
-        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Criminal - SUMIN Remix",
-      "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "Naro",
         "url": "https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU"
       },
@@ -1851,6 +1831,26 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
+        "name": "iScreaM Vol.5 : Criminal Remixes",
+        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Criminal - SUMIN Remix",
+      "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
         "name": "iScreaM Vol.8 : Bambi Remixes",
         "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
@@ -1860,13 +1860,13 @@
           "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         },
         {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+          "name": "BRLLNT",
+          "url": "https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt"
         }
       ],
-      "duration_ms": 240004,
-      "name": "Bambi - h4rdy Remix",
-      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
+      "duration_ms": 171940,
+      "name": "Bambi - BRLLNT Remix",
+      "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
     },
     {
       "added_at": "2024-12-17 03:24:41",

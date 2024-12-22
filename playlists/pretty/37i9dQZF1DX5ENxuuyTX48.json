@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Regina Song, hongjoin",
-  "num_followers": 22215,
+  "num_followers": 22227,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Somebody's Pleasure",
-        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
+        "name": "Penyangkalan",
+        "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
       },
       "artists": [
         {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
         }
       ],
-      "duration_ms": 223957,
-      "name": "Somebody's Pleasure",
-      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
+      "duration_ms": 240607,
+      "name": "Penyangkalan",
+      "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Penyangkalan",
-        "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
+        "name": "Somebody's Pleasure",
+        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
       },
       "artists": [
         {
-          "name": "For Revenge",
-          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
         }
       ],
-      "duration_ms": 240607,
-      "name": "Penyangkalan",
-      "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
+      "duration_ms": 223957,
+      "name": "Somebody's Pleasure",
+      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
     },
     {
       "added_at": "2024-10-03 17:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-10-03 17:00:00",
       "album": {
-        "name": "Sialnya, Hidup Harus Tetap Berjalan",
-        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 178976,
-      "name": "Sialnya, Hidup Harus Tetap Berjalan",
-      "url": "https://open.spotify.com/track/7Lm4S2P0MHwBktcdNILLQA"
-    },
-    {
-      "added_at": "2024-10-03 17:00:00",
-      "album": {
         "name": "Kupu - Kupu",
         "url": "https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 242090,
       "name": "Kupu - Kupu",
       "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
+    },
+    {
+      "added_at": "2024-10-03 17:00:00",
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 178976,
+      "name": "Sialnya, Hidup Harus Tetap Berjalan",
+      "url": "https://open.spotify.com/track/7Lm4S2P0MHwBktcdNILLQA"
     }
   ],
   "unique_name": "OTW ",

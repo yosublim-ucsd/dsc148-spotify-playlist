@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: Moon Sujin\(문수진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,906 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,116 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 26 | [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 |
 | 27 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 28 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
-| 29 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
-| 30 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 |
+| 29 | [Thirsty](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:13 |
+| 30 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 |
 | 31 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 32 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 3:25 |
 | 33 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 59 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 |
 | 60 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 |
 | 61 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 |
-| 62 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
-| 63 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 |
+| 62 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 |
+| 63 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
 | 64 | [Candy](https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:47 |
 | 65 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
 | 66 | [Butterflies](https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:41 |

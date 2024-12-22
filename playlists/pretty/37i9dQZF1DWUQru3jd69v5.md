@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Melons in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,159 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,154 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 64 | [PAVAROTTI](https://open.spotify.com/track/7wEg5sQaODnNKsbeuZNNGz) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [PAVAROTTI](https://open.spotify.com/album/0dtHi5W2AZyOPNlSxCMKkA) | 2:53 |
 | 65 | [CHECK](https://open.spotify.com/track/2j4nvmJzALND30MjeptguJ) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [CHECK](https://open.spotify.com/album/6bwshN1vjgRLGwiY9uvqxc) | 2:16 |
 | 66 | [CALLE](https://open.spotify.com/track/73exMIxbdIQW9ciJuYj3Rw) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Delarue](https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe) | [CALLE](https://open.spotify.com/album/1NmnCzavOcMLu44WxH5V57) | 2:12 |
-| 67 | [QUIERES \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/2yRItriPSSZ76EA3PJqB26) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [QUIERES \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/0rgv2ztq7icRIrwSo0I9X6) | 2:45 |
+| 67 | [Quieres \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/2yRItriPSSZ76EA3PJqB26) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Quieres \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/0rgv2ztq7icRIrwSo0I9X6) | 2:45 |
 | 68 | [4 dentro al bagno](https://open.spotify.com/track/45JgkxDTewnwNwTdRerjpt) | [AstroboyDarko](https://open.spotify.com/artist/3mZKcPeoxnStO3qEcf4qLc) | [4 dentro al bagno](https://open.spotify.com/album/0wirQjdASsa4CMM8J2WRdo) | 2:12 |
 | 69 | [PAPÀ \(il mostro\)](https://open.spotify.com/track/2MeU2VkQRktWge8ORnZL7c) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb) | [PAPÀ \(il mostro\)](https://open.spotify.com/album/1cg2jbTeecTBLNKf3ic1ka) | 2:59 |
 | 70 | [WESH](https://open.spotify.com/track/7JmtCRc9fS2Q6ZQ2mEWdIY) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [WESH](https://open.spotify.com/album/2wOVfkALvNzLoQz9ibFwGB) | 2:07 |

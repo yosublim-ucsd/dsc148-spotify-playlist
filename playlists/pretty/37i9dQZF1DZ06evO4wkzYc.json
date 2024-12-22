@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 144075,
+  "num_followers": 144226,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAABe0mvlJRZO4AlXqY5ITb6z",
+  "snapshot_id": "Z2SzgAAAAAAMVyKvJ0mVXbvlNl/ssbFU",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don (En Vivo)",
-        "url": "https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD"
+        "name": "La Fea",
+        "url": "https://open.spotify.com/album/7la4CbuvW3PdDFhRtALq6f"
       },
       "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 210383,
-      "name": "Don (En Vivo)",
-      "url": "https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0"
+      "duration_ms": 245035,
+      "name": "La Fea",
+      "url": "https://open.spotify.com/track/70sOEZiQQI6Ml0TFefmAle"
     },
     {
       "added_at": null,
@@ -407,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fea",
-        "url": "https://open.spotify.com/album/7la4CbuvW3PdDFhRtALq6f"
+        "name": "Don (En Vivo)",
+        "url": "https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD"
       },
       "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 245035,
-      "name": "La Fea",
-      "url": "https://open.spotify.com/track/70sOEZiQQI6Ml0TFefmAle"
+      "duration_ms": 210383,
+      "name": "Don (En Vivo)",
+      "url": "https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0"
     },
     {
       "added_at": null,

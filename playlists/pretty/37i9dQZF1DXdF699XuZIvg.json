@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 688787,
+  "num_followers": 688755,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 366136,
       "name": "Highway Star - Remastered 2012",
       "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "23 Singles",
-        "url": "https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB"
-      },
-      "artists": [
-        {
-          "name": "Beatsteaks",
-          "url": "https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Hand In Hand",
-      "url": "https://open.spotify.com/track/6gX9WJMPGIdszeHjBp2w4w"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 146596,
       "name": "Go",
       "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "23 Singles",
+        "url": "https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB"
+      },
+      "artists": [
+        {
+          "name": "Beatsteaks",
+          "url": "https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Hand In Hand",
+      "url": "https://open.spotify.com/track/6gX9WJMPGIdszeHjBp2w4w"
     },
     {
       "added_at": "2024-11-12 16:18:09",

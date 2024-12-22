@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-773 songs - 1 day 19 hr 8 min
+774 songs - 1 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [OCD](https://open.spotify.com/track/6FAdjcQl0Yi8GTu1TAM0V5) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [OCD](https://open.spotify.com/album/5uv3O6o3BvR3roR6fBxqJZ) | 3:28 | 2023-05-16 | 2023-06-07 |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-12-16 | 2022-01-06 |
 | [oh my](https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [oh my](https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb) | 3:23 | 2024-11-08 |  |
+| [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-20 |  |
 | [Old Insecurities](https://open.spotify.com/track/3JRCle6ESV3KCRNaD7ajDu) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Old Insecurities](https://open.spotify.com/album/4QPmdSjskG1dugYEu45z0F) | 3:21 | 2021-12-16 | 2021-12-30 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-23 | 2024-10-09 |
 | [ONE](https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [ONE](https://open.spotify.com/album/64HOiqlY0CKTZpEGL0YXL1) | 2:59 | 2024-05-31 | 2024-06-02 |
@@ -593,7 +594,7 @@
 | [Silly Me](https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Silly Me](https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H) | 3:19 | 2023-04-28 | 2023-09-13 |
 | [Simple](https://open.spotify.com/track/7hVK6T6lsXFeTIxTlHGhGU) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Simple](https://open.spotify.com/album/2WZI1CAeOI9Q3uBXOtiaJh) | 3:02 | 2021-12-16 | 2022-02-15 |
 | [Sing Like Madonna](https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT) | 3:33 | 2024-10-25 |  |
-| [Sinners](https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:24 | 2024-06-28 |  |
+| [Sinners](https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:24 | 2024-06-28 | 2024-12-22 |
 | [Sitting Ducks](https://open.spotify.com/track/41gTOwUNQnTlVmFmEk8r4a) | [Curtis Walsh](https://open.spotify.com/artist/1skYjCzZNmy9Zjk7mdFgeS) | [Sitting Ducks](https://open.spotify.com/album/2lSX4xnpxpJky26VCXEzHD) | 3:44 | 2022-03-08 | 2022-07-25 |
 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 | 2022-05-31 | 2023-05-27 |
 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 | 2021-12-16 | 2022-03-26 |

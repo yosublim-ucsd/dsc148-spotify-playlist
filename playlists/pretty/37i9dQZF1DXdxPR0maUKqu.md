@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,703 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,719 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 39 | [メロディー](https://open.spotify.com/track/43HSYwmlZKrktaiANsjIi1) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [国道 / メロディー](https://open.spotify.com/album/1DZkU0jOK82ZYnj8r63DfW) | 4:42 |
 | 40 | [覚悟を決めろ!](https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/0jtrUUnMiw14yT1vSyA4mV) | 3:54 |
 | 41 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 |
-| 42 | [憂、燦々](https://open.spotify.com/track/65npSVkyhQVDDqOsbOW0Aa) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [憂、燦々](https://open.spotify.com/album/7d4ruxnSzZwJNn4txVARK4) | 4:09 |
+| 42 | [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 |
 | 43 | [春愁](https://open.spotify.com/track/5SHguvOUbyPTINNjCvRo8K) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Love me, Love you](https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g) | 3:03 |
 | 44 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
 | 45 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 47 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
 | 48 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
 | 49 | [世界の秘密](https://open.spotify.com/track/0bv6tutpCuYApSXTF0AKrP) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:40 |
-| 50 | [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 |
+| 50 | [憂、燦々](https://open.spotify.com/track/65npSVkyhQVDDqOsbOW0Aa) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [憂、燦々](https://open.spotify.com/album/7d4ruxnSzZwJNn4txVARK4) | 4:09 |
 
 Snapshot ID: `ZwckiAAAAAC/fc5Cy4CFjNfeKTghfOM5`

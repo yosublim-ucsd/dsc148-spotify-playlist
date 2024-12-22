@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 
 > Floor fillers to soundtrack the happiest day of your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,979 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,031 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 8 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
 | 9 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 10 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
-| 11 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
+| 11 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 12 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
-| 13 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
+| 13 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
 | 14 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
 | 15 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 4:08 |
 | 16 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 32 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
 | 33 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
 | 34 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
-| 35 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
-| 36 | [Young Hearts Run Free](https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Young Hearts Run Free \(US Internet Release\)](https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ) | 4:08 |
-| 37 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
+| 35 | [Young Hearts Run Free](https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Young Hearts Run Free \(US Internet Release\)](https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ) | 4:08 |
+| 36 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
+| 37 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
 | 38 | [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:18 |
 | 39 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
 | 40 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 95 | [Rolling in the Deep](https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 3:48 |
 | 96 | [Livin' On A Prayer](https://open.spotify.com/track/2tyW1uBUnYMKAFEfKDKi9B) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1) | 4:10 |
 | 97 | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic) | 4:44 |
-| 98 | [I'm Coming Out](https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls) | 5:25 |
-| 99 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/0BB9eUBBaaX6GALSYNcEp7) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Youthquake](https://open.spotify.com/album/0HEKWtu7St3tKgZDKZsX90) | 3:16 |
-| 100 | [Everywhere](https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:42 |
+| 98 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/0BB9eUBBaaX6GALSYNcEp7) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Youthquake](https://open.spotify.com/album/0HEKWtu7St3tKgZDKZsX90) | 3:16 |
+| 99 | [I'm Coming Out](https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls) | 5:25 |
+| 100 | [Stayin' Alive \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:45 |
 
 Snapshot ID: `ZogNlgAAAACNJUmFh3EzPH4C170APg19`

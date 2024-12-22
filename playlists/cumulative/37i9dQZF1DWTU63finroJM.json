@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 182000,
       "name": "A LITTLE LIFE",
       "url": "https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV"
@@ -2118,6 +2118,28 @@
       "duration_ms": 212586,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/0VKzi6b1pbnfVX3oWSVvC6"
+    },
+    {
+      "album": {
+        "name": "Asla",
+        "url": "https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl"
+      },
+      "artists": [
+        {
+          "name": "Lotusx",
+          "url": "https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD"
+        },
+        {
+          "name": "TUANA",
+          "url": "https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Asla",
+      "url": "https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG"
     },
     {
       "album": {
@@ -17337,6 +17359,24 @@
     },
     {
       "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI"
+      },
+      "artists": [
+        {
+          "name": "Fordo",
+          "url": "https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158019,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd"
+    },
+    {
+      "album": {
         "name": "Mereng",
         "url": "https://open.spotify.com/album/6Q0h49CuGr0QSkVWVgoJ1k"
       },
@@ -30102,7 +30142,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 139532,
       "name": "Zehirlendim",
       "url": "https://open.spotify.com/track/373fTOuW1GBxQZR3sMHxjX"

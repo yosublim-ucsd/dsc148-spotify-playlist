@@ -2847,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "hopeless fountain kingdom (Deluxe Plus)",
+        "url": "https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181279,
+      "name": "Bad At Love",
+      "url": "https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },

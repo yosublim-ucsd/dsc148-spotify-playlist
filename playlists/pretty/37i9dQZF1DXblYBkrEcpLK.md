@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: MyGO!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,221 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,253 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 9 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 |
 | 10 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 |
 | 11 | [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 |
-| 12 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 |
+| 12 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 |
 | 13 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 14 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
 | 15 | [LOVE 2000](https://open.spotify.com/track/3SgrOFXKKNcffg5jFvU5Cf) | [八奈見杏菜（CV: 遠野ひかる）](https://open.spotify.com/artist/6qWFyHAhTQF0wLIR4f2fcs) | [LOVE 2000](https://open.spotify.com/album/79O4DwN7zgXMwB29Ci3wOI) | 4:23 |

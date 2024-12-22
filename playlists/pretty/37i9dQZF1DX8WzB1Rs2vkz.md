@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 
 > Musiquita sabrosa que te hace bailar el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,693 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,777 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 11 | [Eres Mía](https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:10 |
 | 12 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 |
 | 13 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
-| 14 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
-| 15 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
+| 14 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
+| 15 | [La Mejor Versión de Mi \- Remix](https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Mejor Versión de Mi \(Remix\)](https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d) | 3:49 |
 | 16 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
-| 17 | [La Mejor Versión de Mi \- Remix](https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Mejor Versión de Mi \(Remix\)](https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d) | 3:49 |
+| 17 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 18 | [Mi Corazoncito](https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:54 |
 | 19 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 |
 | 20 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 66 | [Te Busco](https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:09 |
 | 67 | [Loco](https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Loco](https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI) | 3:33 |
 | 68 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 |
-| 69 | [Arroyito](https://open.spotify.com/track/5gRcvozPg8roCPDrd1VBQS) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Gratitud](https://open.spotify.com/album/7enkpVoHsPr8ry7GSoZHi9) | 3:58 |
-| 70 | [Yo Quiero El Amor](https://open.spotify.com/track/3w04UT98eT7KSrBvbIP0Bc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Yo Quiero El Amor](https://open.spotify.com/album/7rTIazgkqWjpS2fiCRA1C6) | 2:25 |
+| 69 | [Yo Quiero El Amor](https://open.spotify.com/track/3w04UT98eT7KSrBvbIP0Bc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Yo Quiero El Amor](https://open.spotify.com/album/7rTIazgkqWjpS2fiCRA1C6) | 2:25 |
+| 70 | [Arroyito](https://open.spotify.com/track/5gRcvozPg8roCPDrd1VBQS) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Gratitud](https://open.spotify.com/album/7enkpVoHsPr8ry7GSoZHi9) | 3:58 |
 | 71 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 |
 | 72 | [Cuenta Conmigo](https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:48 |
 | 73 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 |

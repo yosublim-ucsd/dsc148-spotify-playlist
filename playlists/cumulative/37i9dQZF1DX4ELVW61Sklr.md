@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-183 songs - 11 hr 41 min
+184 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 | 2021-12-15 | 2023-12-09 |
 | [O Come](https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 5:08 | 2021-12-15 | 2023-11-11 |
 | [O Come](https://open.spotify.com/track/4H0wgKjZ4BF1UlwR9f9RkK) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Leanne Palmore](https://open.spotify.com/artist/0bdS6SH2MU4DeXusRn0dxc) | [A Timeless Christmas](https://open.spotify.com/album/1fTjNHtdfcWAKLVqQAL5rs) | 5:08 | 2021-12-15 | 2022-07-29 |
-| [O Come All Ye Faithful](https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:37 | 2021-12-15 |  |
+| [O Come All Ye Faithful](https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:37 | 2021-12-15 | 2024-12-22 |
 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 | 2021-12-15 |  |
 | [On My Mama \(Christmas Medley\)](https://open.spotify.com/track/6Ay0TRb8NCzqYrZRAzzWEz) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 3:43 | 2024-12-13 |  |
 | [Peppermint Tea](https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Peppermint Tea](https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW) | 3:09 | 2022-12-02 |  |
@@ -125,6 +125,7 @@
 | [Santa Baby \(with Summer Walker\)](https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:20 | 2021-12-15 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2022-11-25 |  |
 | [Santa Is Me](https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Coco By The Fireplace](https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL) | 2:41 | 2024-11-22 |  |
+| [Secret Santa](https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Secret Santa](https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk) | 2:59 | 2024-12-20 |  |
 | [Silent Night](https://open.spotify.com/track/2Zd76A2BuP2CIufE63RkdA) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Silent Night](https://open.spotify.com/album/6SP5GiU7Sl9ATWsNPr9Pwg) | 3:10 | 2022-12-02 | 2023-10-03 |
 | [Silent Night](https://open.spotify.com/track/36NhKGzYlB5kWuZ87WdOBV) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Give Love At Christmas](https://open.spotify.com/album/1EVbBd8S7bwmogZX3y6GVp) | 6:04 | 2021-12-15 |  |
 | [Silent Night](https://open.spotify.com/track/29pkrZLRrWK6TMw9egQC1y) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [First Christmas](https://open.spotify.com/album/50UK1YSUTD2zvXKLa3rsBD) | 6:05 | 2021-12-15 | 2022-11-14 |

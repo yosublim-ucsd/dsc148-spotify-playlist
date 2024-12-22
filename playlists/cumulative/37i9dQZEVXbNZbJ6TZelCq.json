@@ -2957,6 +2957,28 @@
     },
     {
       "album": {
+        "name": "OTEB",
+        "url": "https://open.spotify.com/album/6K3p4A1mvMUIDbJUUtNKwJ"
+      },
+      "artists": [
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "BAIRAM",
+      "url": "https://open.spotify.com/track/26KzGBy8vHQF40IRZ991g5"
+    },
+    {
+      "album": {
         "name": "Baklava",
         "url": "https://open.spotify.com/album/7FCxU7klbvof984RWinLZh"
       },
@@ -3092,7 +3114,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 150000,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA"
@@ -3324,6 +3346,36 @@
       "duration_ms": 204878,
       "name": "BANIICAD",
       "url": "https://open.spotify.com/track/4NwEVsIzuz05OwtIRav6ml"
+    },
+    {
+      "album": {
+        "name": "BARBIE",
+        "url": "https://open.spotify.com/album/6Sv0RxPGh8PizrVhdo7eYr"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218753,
+      "name": "BARBIE",
+      "url": "https://open.spotify.com/track/5vqk7LXP2Nlc4dn6cQlnwz"
     },
     {
       "album": {
@@ -10712,7 +10764,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 250775,
       "name": "Eu Nu Dau Inapoi",
       "url": "https://open.spotify.com/track/21BgLCEqa7UNo0PgcOZBzX"
@@ -18328,7 +18380,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -19634,7 +19686,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -19690,7 +19742,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -28268,7 +28320,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 119343,
       "name": "Sa MM Care Pleaca",
       "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
@@ -28450,7 +28502,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -37332,7 +37384,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 149000,
       "name": "X6",
       "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"

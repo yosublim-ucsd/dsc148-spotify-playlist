@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "BOGOT\u00c0",
+        "url": "https://open.spotify.com/album/3iisQ3Y79XKrLu3Osh36g4"
+      },
+      "artists": [
+        {
+          "name": "Cioffi",
+          "url": "https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "BOGOT\u00c0",
+      "url": "https://open.spotify.com/track/0pamvlplMuoJYYdWjx40F8"
+    },
+    {
+      "album": {
         "name": "Bonjour Adieu",
         "url": "https://open.spotify.com/album/5SWDp3JOGK60WK6aYe4qz7"
       },

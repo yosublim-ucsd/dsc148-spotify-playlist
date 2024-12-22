@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"> Nitefreak </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,943 likes - 61 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,957 likes - 61 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 24 | [The Thing \- MANQO Remix](https://open.spotify.com/track/5LHfDzjTDVzLSqZEZWExzP) | [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [MANQO](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ) | [The Thing \(MANQO Remix\)](https://open.spotify.com/album/6iaGxiNkzisJGD1wktLJ4X) | 5:24 |
 | 25 | [Make You Mine \(Radio Edit\)](https://open.spotify.com/track/1EZsoWbbn4nkK2GIhqbFSy) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [Make You Mine](https://open.spotify.com/album/3sIcA0y6M6xsUbN6YOCV0f) | 3:58 |
 | 26 | [Thanda Wena \(feat\. Sanele Guduza\)](https://open.spotify.com/track/2NmJ1Lbvi1brYFYeOTvvhF) | [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [Sanele Guduza](https://open.spotify.com/artist/42JVkzIhAOcVkS5JiREInT) | [Thanda Wena \(feat\. Sanele Guduza\)](https://open.spotify.com/album/0xk5UMQnCDJAeu4aBHOiDr) | 6:19 |
-| 27 | [Phula \(feat\. Sykes\)](https://open.spotify.com/track/1Ojs88KkiCrOuygdmx3ra1) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Sykes](https://open.spotify.com/artist/2JmhEj7PPMlCxACWXxqSGA) | [ARCADE TRILOGY](https://open.spotify.com/album/5Hp1CQzpljacEyOtuDXFFZ) | 5:59 |
+| 27 | [Phula \(feat\. Sykes\)](https://open.spotify.com/track/1Ojs88KkiCrOuygdmx3ra1) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Sykes](https://open.spotify.com/artist/7HZvtnE7QziKRQ6ttoQAzj) | [ARCADE TRILOGY](https://open.spotify.com/album/5Hp1CQzpljacEyOtuDXFFZ) | 5:59 |
 | 28 | [Stockholm](https://open.spotify.com/track/0WgK4eOF58SZmFRvMboxXp) | [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Stockholm](https://open.spotify.com/album/2Nvmmhm6S2H2hIAiU38Tb1) | 7:28 |
 | 29 | [Basheshe Bahleka](https://open.spotify.com/track/1VGjNRUkiOiyT45NGBzLuj) | [Balcony Mix Africa](https://open.spotify.com/artist/0g3anY9Kyx4GP1wgSrUXqp), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Senjay](https://open.spotify.com/artist/1efM4QfrpfuBitDEQg5p26), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D) | [The 3 Step Ritual](https://open.spotify.com/album/1hTVY4UR7eJCoiOrX2cb3T) | 5:57 |
 | 30 | [Kitu](https://open.spotify.com/track/6syW3rE6yMNKqVhCSCWMzM) | [Dalé Habibi](https://open.spotify.com/artist/7bqd0QpmmKrXc0ma7eGl41), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kitu](https://open.spotify.com/album/2Sod7d7BoCFDWMSlFJdqF5) | 6:37 |

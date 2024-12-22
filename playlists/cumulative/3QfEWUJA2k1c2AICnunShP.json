@@ -1341,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "Le tr\u00e9sor (Piano Version) [Radio Edit]",
+        "url": "https://open.spotify.com/album/0J3ohUG3hyunBrtWlV6aya"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Rebotier",
+          "url": "https://open.spotify.com/artist/5LDz41tmX7odOCzOzwuqGd"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162217,
+      "name": "Le tr\u00e9sor (Piano Version) - Radio Edit",
+      "url": "https://open.spotify.com/track/3qgQbFCtyYwJuXLKm85WSD"
+    },
+    {
+      "album": {
         "name": "Leidenschaft",
         "url": "https://open.spotify.com/album/2n2052C9GV0PGMeuJntssr"
       },

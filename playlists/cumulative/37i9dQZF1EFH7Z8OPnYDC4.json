@@ -326,6 +326,28 @@
     {
       "album": {
         "name": "Essential Classics, Vol. 402: Shirley Jones",
+        "url": "https://open.spotify.com/album/3uqwF0Es1uMoU045Jz8yEG"
+      },
+      "artists": [
+        {
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
+        },
+        {
+          "name": "Gordon MacRae",
+          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175599,
+      "name": "All Er Nuthin'",
+      "url": "https://open.spotify.com/track/3OqRSv97GeDgj5vxkPOCWq"
+    },
+    {
+      "album": {
+        "name": "Essential Classics, Vol. 402: Shirley Jones",
         "url": "https://open.spotify.com/album/6pL645ZdB87vyOiY3tmKPu"
       },
       "artists": [
@@ -370,7 +392,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 174266,
       "name": "All Er Nuthin' - From \"Oklahoma!\" Soundtrack",
       "url": "https://open.spotify.com/track/39samHAXkog2sCDJj86oVY"
@@ -2153,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "Pal Joey",
+        "url": "https://open.spotify.com/album/2b5r7QCdMY0v825HHAaw21"
+      },
+      "artists": [
+        {
+          "name": "Kenny Drew Trio",
+          "url": "https://open.spotify.com/artist/27DOq2qA4K0yfDES0FjTf8"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258506,
+      "name": "Happy Hunting Horn",
+      "url": "https://open.spotify.com/track/2iHkq79NGzxyXADQaK6w1c"
+    },
+    {
+      "album": {
         "name": "Pal Joey (1952 Broadway Cast)",
         "url": "https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5"
       },
@@ -2164,7 +2204,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 95640,
       "name": "Happy Hunting Horn",
       "url": "https://open.spotify.com/track/1G2NHwFQrTuu67XnHduKXI"
@@ -5572,10 +5612,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 232266,
       "name": "The Farmer And The Cowman",
       "url": "https://open.spotify.com/track/1EQIrjhnfDLBLUE8Fkeh1I"
+    },
+    {
+      "album": {
+        "name": "Essential Classics, Vol. 402: Shirley Jones",
+        "url": "https://open.spotify.com/album/3uqwF0Es1uMoU045Jz8yEG"
+      },
+      "artists": [
+        {
+          "name": "Shirley Jones",
+          "url": "https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok"
+        },
+        {
+          "name": "Gordon MacRae",
+          "url": "https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234425,
+      "name": "The Farmer and the Cowman",
+      "url": "https://open.spotify.com/track/0SpSaq4PXRJarCmJbFPlIN"
     },
     {
       "album": {

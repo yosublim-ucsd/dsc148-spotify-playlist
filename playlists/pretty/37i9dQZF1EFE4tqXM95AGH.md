@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232 likes - 173 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233 likes - 173 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 5 | [Fetish \(feat\. Gucci Mane\)](https://open.spotify.com/track/4lnAN2S1fcI0SjxEbksZVr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Fetish \(feat\. Gucci Mane\)](https://open.spotify.com/album/3x97AnoAAIBGJuqZSTtVte) | 3:06 |
 | 6 | [Hide Away](https://open.spotify.com/track/3WALaE7UdNXx8VJ4lpWCK8) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:11 |
 | 7 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 |
-| 8 | [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 |
-| 9 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 |
+| 8 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 |
+| 9 | [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 |
 | 10 | [Dance To This \(feat\. Ariana Grande\)](https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:51 |
 | 11 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/53Ji6ZvVjsBl4pIuiETfhN) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Church](https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU) | 3:25 |
 | 12 | [1999](https://open.spotify.com/track/3WGJSY8JaGliVIJyMig5aS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:09 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 82 | [Legendary](https://open.spotify.com/track/4HHwFNJgxjZjCYCxQcNoMa) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:24 |
 | 83 | [I got it bad](https://open.spotify.com/track/40gsPLTRUl4VDevJNoNeNE) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:52 |
 | 84 | [Closure](https://open.spotify.com/track/4qRWEdbVRXDeqLzH4KP6vw) | [Hayley Warner](https://open.spotify.com/artist/1xrvnT8IPYpS6iOkAq8tLt) | [Closure](https://open.spotify.com/album/11slq6pHVpFYtRQ7XyjQPc) | 4:00 |
-| 85 | [Old Habits Die Hard](https://open.spotify.com/track/4H6pQsTQaY1ozwamsS1RJt) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:41 |
-| 86 | [I Don't Need It To Be Christmas At All](https://open.spotify.com/track/1wmPiEINk0ig3Q0Cit7Anh) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/7lG5kp3WDqPlIap6aPJVLd) | 3:05 |
+| 85 | [I Don't Need It To Be Christmas At All](https://open.spotify.com/track/1wmPiEINk0ig3Q0Cit7Anh) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/7lG5kp3WDqPlIap6aPJVLd) | 3:05 |
+| 86 | [Old Habits Die Hard](https://open.spotify.com/track/4H6pQsTQaY1ozwamsS1RJt) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:41 |
 | 87 | [Love of My Life](https://open.spotify.com/track/3o6dtVImjXolMR9EVwzJOG) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:11 |
 | 88 | [Science](https://open.spotify.com/track/4E5BoPxABSbi6Tkhaz2uzi) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:55 |
 | 89 | [The Other Side](https://open.spotify.com/track/1GbrJXEPkBb492q2t5mtRC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [The Other Side \(From "Sierra Burgess Is a Loser"\)](https://open.spotify.com/album/6PMDxho9YZstxzVxOLkVaY) | 2:59 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 172 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 173 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AbkrfgAAAABcxXb9IyghG5LFLl2yoOzC`
+Snapshot ID: `AbkxHgAAAAAnZYvkqbkD7X6iRBHa5oMW`

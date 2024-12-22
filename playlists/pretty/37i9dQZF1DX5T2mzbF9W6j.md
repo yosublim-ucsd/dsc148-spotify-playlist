@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,463 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,461 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 8 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 9 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
 | 10 | [GAJA](https://open.spotify.com/track/2tTpcgfEjfOGU5kGmht6yA) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP) | [WITCH TAROHORO](https://open.spotify.com/album/5EU47I0ltSvyZLflPsTYjz) | 2:26 |
-| 11 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
-| 12 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
+| 11 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
+| 12 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
 | 13 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 14 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
 | 15 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 38 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 |
 | 39 | [Flowers In The Water](https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Flowers In The Water](https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw) | 2:22 |
 | 40 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 |
-| 41 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 |
-| 42 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 |
+| 41 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 |
+| 42 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 |
 | 43 | [Nie musisz się bać](https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Nie musisz się bać](https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM) | 2:25 |
 | 44 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 |
 | 45 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 49 | [Tam czeka mnie dom](https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Tam czeka mnie dom](https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH) | 2:17 |
 | 50 | [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 |
 | 51 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 |
-| 52 | [Lepiej niż teraz](https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Lepiej niż teraz](https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF) | 2:54 |
-| 53 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |
+| 52 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |
+| 53 | [Lepiej niż teraz](https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Lepiej niż teraz](https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF) | 2:54 |
 | 54 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
 | 55 | [Wiatr](https://open.spotify.com/track/3KWWFT878MW91P22IealNu) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Wiatr](https://open.spotify.com/album/2iZW07HMNtT7rg0DXmWpnH) | 2:48 |
 | 56 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 |

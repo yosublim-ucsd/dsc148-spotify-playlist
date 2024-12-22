@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 220356,
+  "num_followers": 220384,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAAC4TRmwFUG/WGqUGbggimh",
+  "snapshot_id": "Z2SzgAAAAADy4u8Yx/vQackQgUz7du+K",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 218040,
       "name": "Abracadabras (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/2mJYTwrs3lMTJ0Z2TXnbZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "Te solt\u00e9 la rienda",
+        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 172306,
-      "name": "Canciones de Amor",
-      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
+      "duration_ms": 207160,
+      "name": "Te solt\u00e9 la rienda",
+      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te solt\u00e9 la rienda",
-        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 207160,
-      "name": "Te solt\u00e9 la rienda",
-      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
+      "duration_ms": 172306,
+      "name": "Canciones de Amor",
+      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Tributo",
+        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Ti",
         "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 224739,
       "name": "De Ti",
       "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Tributo",
-        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV"
     },
     {
       "added_at": null,

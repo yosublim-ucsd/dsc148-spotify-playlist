@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,746 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,798 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 42 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
 | 43 | [Mistletoe](https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe](https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH) | 3:02 |
 | 44 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 |
-| 45 | [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 |
+| 45 | [Christmas Time Is Here \- Vocal](https://open.spotify.com/track/06Pfxmp9TtC2H00apclouT) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:46 |
 | 46 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:51 |
 | 47 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
 | 48 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 |
 | 49 | [Deck The Hall](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 |
 | 50 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 2:58 |
 
-Snapshot ID: `LvjbSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvovIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

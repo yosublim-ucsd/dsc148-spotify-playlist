@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 50476,
+  "num_followers": 50484,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAAJMy0qx/RrDYfVtmq5Fwbw",
+  "snapshot_id": "Z2SzgAAAAACNxW8rJBqaeUKhUE5PlZG9",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Any Day Woman - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
         "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 283160,
       "name": "Kisses Sweeter than Wine",
       "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Any Day Woman - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Finest Lovin' Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 178733,
-      "name": "Too Long at the Fair - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
+      "duration_ms": 282066,
+      "name": "Finest Lovin' Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L"
     },
     {
       "added_at": null,
@@ -679,6 +663,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Too Long at the Fair - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "All Alone With Something To Say",
+      "url": "https://open.spotify.com/track/67hnL3LuKs6JiphyY6SHgl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -695,26 +711,6 @@
       "duration_ms": 213666,
       "name": "Good Man, Good Woman",
       "url": "https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
     },
     {
       "added_at": null,
@@ -751,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig In Deep",
-        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
       "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 191520,
-      "name": "All Alone With Something To Say",
-      "url": "https://open.spotify.com/track/67hnL3LuKs6JiphyY6SHgl"
+      "duration_ms": 240666,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt And Friends",
-        "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "I Don't Want Anything To Change - Live",
-      "url": "https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
@@ -843,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bonnie Raitt And Friends",
+        "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "I Don't Want Anything To Change - Live",
+      "url": "https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay Awake (Various Interpretations Of Music From Vintage Disney Films)",
         "url": "https://open.spotify.com/album/48eR76ue3eFPCJdBppIWQ0"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Louise - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 267133,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/7Fu24Eo9nj8dNIlsA2bWDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Louise - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
     },
     {
       "added_at": null,

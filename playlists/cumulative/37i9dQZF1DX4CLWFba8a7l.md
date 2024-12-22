@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-145 songs - 8 hr 1 min
+146 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-07-11 | 2024-07-27 |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-05-31 |  |
 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-11 |  |
-| [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-11-28 |  |
+| [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-11-28 | 2024-12-22 |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2024-05-31 |  |
 | [Archaeology](https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Archaeology](https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM) | 4:12 | 2024-09-05 | 2024-10-08 |
 | [Atmosphere](https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU) | 3:02 | 2024-05-31 |  |
@@ -65,6 +65,7 @@
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2024-05-31 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-05-31 |  |
 | [Hocus Pocus](https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Hocus Pocus](https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET) | 3:13 | 2024-10-24 | 2024-12-18 |
+| [Horses](https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Horses](https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH) | 3:32 | 2024-12-05 |  |
 | [I dropped the bottle](https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [I dropped the bottle](https://open.spotify.com/album/5N6E5nysJ950xzpi0ZqbAL) | 2:41 | 2024-08-30 | 2024-11-22 |
 | [I Get High](https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J) | 4:20 | 2024-05-31 | 2024-09-11 |
 | [I Wish I Never Loved You](https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [I Wish I Never Loved You](https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA) | 3:43 | 2024-08-01 | 2024-11-05 |

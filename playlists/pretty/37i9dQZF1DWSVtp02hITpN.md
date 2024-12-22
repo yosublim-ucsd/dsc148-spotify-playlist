@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > The biggest pop tracks right now\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,019 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,999 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 51 | [Call Me Yours](https://open.spotify.com/track/4gYMxKrpuByButZYbjf03d) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Call Me Yours](https://open.spotify.com/album/09GPpMZWZmIlRbkqBwacGU) | 2:09 |
 | 52 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 |
 | 53 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
-| 54 | [Eyes Dried Over](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
+| 54 | [Eyes Dried Over \(feat\. Tom Walker\)](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
 | 55 | [Wet & Wild](https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Wet & Wild](https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH) | 3:02 |
 | 56 | [MUSTANG BABY \(FT\. ARTEMAS\)](https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 3:11 |
 | 57 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |

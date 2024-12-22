@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Cory Marks",
-  "num_followers": 611196,
+  "num_followers": 611241,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Greener (with Mitchell Tenpenny)",
-        "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
+        "name": "Pray All The Way Home",
+        "url": "https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
         }
       ],
-      "duration_ms": 175566,
-      "name": "Greener (with Mitchell Tenpenny)",
-      "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
+      "duration_ms": 144173,
+      "name": "Pray All The Way Home",
+      "url": "https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -603,22 +599,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Pray All The Way Home",
-        "url": "https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn"
-      },
-      "artists": [
-        {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
-        }
-      ],
-      "duration_ms": 144173,
-      "name": "Pray All The Way Home",
-      "url": "https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 258799,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Greener (with Mitchell Tenpenny)",
+        "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 175566,
+      "name": "Greener (with Mitchell Tenpenny)",
+      "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "This Party Sucks",
-        "url": "https://open.spotify.com/album/37Ld8z5zVCOJa4PylMH0B4"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
         {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 181570,
-      "name": "This Party Sucks",
-      "url": "https://open.spotify.com/track/62r3cMCWOd8FuAuVU1yJD4"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "This Party Sucks",
+        "url": "https://open.spotify.com/album/37Ld8z5zVCOJa4PylMH0B4"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 181570,
+      "name": "This Party Sucks",
+      "url": "https://open.spotify.com/track/62r3cMCWOd8FuAuVU1yJD4"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Nobody's Nobody",
-        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
+        "name": "Tabasco & Sweet Tea",
+        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
         }
       ],
-      "duration_ms": 169390,
-      "name": "Might As Well Be Me",
-      "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
+      "duration_ms": 280065,
+      "name": "Tabasco & Sweet Tea",
+      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Tabasco & Sweet Tea",
-        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
+        "name": "Nobody's Nobody",
+        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
       },
       "artists": [
         {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 280065,
-      "name": "Tabasco & Sweet Tea",
-      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
+      "duration_ms": 169390,
+      "name": "Might As Well Be Me",
+      "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Livin\u2019 My Life Like a Country Song",
-        "url": "https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL"
+        "name": "What I Know Now",
+        "url": "https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl"
       },
       "artists": [
         {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        },
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
         }
       ],
-      "duration_ms": 199574,
-      "name": "Livin\u2019 My Life Like a Country Song",
-      "url": "https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW"
+      "duration_ms": 173573,
+      "name": "What I Know Now",
+      "url": "https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1623,18 +1619,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "What I Know Now",
-        "url": "https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl"
+        "name": "Livin\u2019 My Life Like a Country Song",
+        "url": "https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        },
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
         }
       ],
-      "duration_ms": 173573,
-      "name": "What I Know Now",
-      "url": "https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F"
+      "duration_ms": 199574,
+      "name": "Livin\u2019 My Life Like a Country Song",
+      "url": "https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW"
     },
     {
       "added_at": "2024-12-06 05:00:00",

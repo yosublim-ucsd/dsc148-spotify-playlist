@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,931 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,221 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 21 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
 | 22 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
 | 23 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
-| 24 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
-| 25 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
+| 24 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
+| 25 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
 | 26 | [Muchachita](https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [Coleccion Original](https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh) | 3:29 |
 | 27 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
 | 28 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 |
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 30 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
 | 31 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
 | 32 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
-| 33 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
-| 34 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
+| 33 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
+| 34 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
 | 35 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 |
 | 36 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 |
 | 37 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
 | 38 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 |
 | 39 | [No Voy en Tren](https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 3:01 |
 | 40 | [Detrás de Mi Ventana](https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:39 |
-| 41 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
-| 42 | [Besos De Ceniza](https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 2:56 |
+| 41 | [Besos De Ceniza](https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 2:56 |
+| 42 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
 | 43 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 |
 | 44 | [Te Amaré](https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:31 |
 | 45 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 84 | [Rueda Mi Mente](https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG) | [Sasha](https://open.spotify.com/artist/7wioKIgol1dnOYfW3pzRso) | [Sasha](https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh) | 3:07 |
 | 85 | [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 |
 | 86 | [Mentiras](https://open.spotify.com/track/05pV7ZVVTssQgyZN98SHrV) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 3:54 |
-| 87 | [Orgullosa Nena](https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:10 |
-| 88 | [Duri Duri \(Baila Baila\)](https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39) | [Click](https://open.spotify.com/artist/0crIJAch9BFQ3Q3RA9bY8w) | [Duri Duri](https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5) | 4:54 |
+| 87 | [Duri Duri \(Baila Baila\)](https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39) | [Click](https://open.spotify.com/artist/0crIJAch9BFQ3Q3RA9bY8w) | [Duri Duri](https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5) | 4:54 |
+| 88 | [Orgullosa Nena](https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:10 |
 | 89 | [Déjame Volver Contigo](https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 4:23 |
 | 90 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
 | 91 | [Para Amarnos Más](https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Antología](https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx) | 3:28 |

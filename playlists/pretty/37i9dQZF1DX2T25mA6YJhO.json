@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os Bravos.",
-  "num_followers": 23294,
+  "num_followers": 23303,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Ponzano",
-        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
+        "name": "Creo que soy de porcelana",
+        "url": "https://open.spotify.com/album/2PikfseVD2fRDD7tVDcFv2"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
         }
       ],
-      "duration_ms": 144308,
-      "name": "Ponzano",
-      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
+      "duration_ms": 170620,
+      "name": "Marcelo Criminal",
+      "url": "https://open.spotify.com/track/5AYXkf3s0p05afVBxsPVuB"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
+        "name": "Ponzano",
+        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 144308,
+      "name": "Ponzano",
+      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
         "name": "La matanza de Texas",
         "url": "https://open.spotify.com/album/1HOwpCbsknfSwH6ZBFM6WR"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 180386,
       "name": "La matanza de Texas",
       "url": "https://open.spotify.com/track/4SgXWK4j9rKd1gVk1Ul0WY"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
-        "name": "Creo que soy de porcelana",
-        "url": "https://open.spotify.com/album/2PikfseVD2fRDD7tVDcFv2"
-      },
-      "artists": [
-        {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
-        }
-      ],
-      "duration_ms": 170620,
-      "name": "Marcelo Criminal",
-      "url": "https://open.spotify.com/track/5AYXkf3s0p05afVBxsPVuB"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Tripitir",
-        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
+        "name": "Ven a jugar",
+        "url": "https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Anabel Lee",
+          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
         }
       ],
-      "duration_ms": 160874,
-      "name": "Tripitir",
-      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
+      "duration_ms": 182000,
+      "name": "Ven a jugar",
+      "url": "https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Ven a jugar",
-        "url": "https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp"
+        "name": "Tripitir",
+        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
       },
       "artists": [
         {
-          "name": "Anabel Lee",
-          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Ven a jugar",
-      "url": "https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA"
+      "duration_ms": 160874,
+      "name": "Tripitir",
+      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Me paso por tu zona",
-        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 131272,
-      "name": "Me paso por tu zona",
-      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "L\u00ednea 11",
         "url": "https://open.spotify.com/album/2JIOtv5cONNBm8ru0JhUGA"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
+        "name": "Me paso por tu zona",
+        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 131272,
+      "name": "Me paso por tu zona",
+      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
         "name": "Loros",
         "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
@@ -931,6 +931,42 @@
       "duration_ms": 146853,
       "name": "Loros",
       "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Intemperie",
+        "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
+      },
+      "artists": [
+        {
+          "name": "Noche",
+          "url": "https://open.spotify.com/artist/6NZGyfzzigXWOI1HvNxwhR"
+        },
+        {
+          "name": "Mala Gesti\u00f3n",
+          "url": "https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Intemperie",
+      "url": "https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 150820,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -955,22 +991,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Pastillas",
-        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 150820,
-      "name": "Pastillas",
-      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "Si se muere tu perro",
         "url": "https://open.spotify.com/album/7DVoODiQPhkWYpcNhA9M37"
       },
@@ -983,6 +1003,22 @@
       "duration_ms": 234819,
       "name": "Si se muere tu perro",
       "url": "https://open.spotify.com/track/2oFveyq4ZI1qyG69qqOsVk"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Danza de la muerte",
+        "url": "https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Danza de la muerte",
+      "url": "https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1019,42 +1055,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Intemperie",
-        "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
-      },
-      "artists": [
-        {
-          "name": "Noche",
-          "url": "https://open.spotify.com/artist/6NZGyfzzigXWOI1HvNxwhR"
-        },
-        {
-          "name": "Mala Gesti\u00f3n",
-          "url": "https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Intemperie",
-      "url": "https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
-        "name": "Danza de la muerte",
-        "url": "https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Danza de la muerte",
-      "url": "https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "La gran renuncia",
         "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 196629,
       "name": "El Final",
       "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
-        "name": "ULTRASUR",
-        "url": "https://open.spotify.com/album/1lAD75rGpcUWpxti7DLLb6"
-      },
-      "artists": [
-        {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
-        }
-      ],
-      "duration_ms": 139923,
-      "name": "ULTRASUR",
-      "url": "https://open.spotify.com/track/0D8xJEP5Ajwgu5SOUGhayy"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1151,8 +1135,8 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
+        "name": "yo s\u00ed te quer\u00eda",
+        "url": "https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa"
       },
       "artists": [
         {
@@ -1160,25 +1144,25 @@
           "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
         }
       ],
-      "duration_ms": 193621,
-      "name": "ojal\u00e1",
-      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
+      "duration_ms": 152282,
+      "name": "yo s\u00ed te quer\u00eda",
+      "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
     },
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+        "name": "ULTRASUR",
+        "url": "https://open.spotify.com/album/1lAD75rGpcUWpxti7DLLb6"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
         }
       ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+      "duration_ms": 139923,
+      "name": "ULTRASUR",
+      "url": "https://open.spotify.com/track/0D8xJEP5Ajwgu5SOUGhayy"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1195,6 +1179,22 @@
       "duration_ms": 188682,
       "name": "Viaje De Estudios - Un Tributo a Lori Meyers",
       "url": "https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "yo s\u00ed te quer\u00eda",
-        "url": "https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa"
-      },
-      "artists": [
-        {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
-        }
-      ],
-      "duration_ms": 152282,
-      "name": "yo s\u00ed te quer\u00eda",
-      "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "Poetas de Cristal",
         "url": "https://open.spotify.com/album/32HNcTe1pDnv6yN13ltMsX"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 212333,
       "name": "Poetas de Cristal",
       "url": "https://open.spotify.com/track/1jOi7gDEJs0rHR6IYO60tA"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "ojal\u00e1",
+      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1291,22 +1291,6 @@
       "duration_ms": 144179,
       "name": "Romance Extremo",
       "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
-        "name": "\u00a1Que te pares!",
-        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 193754,
-      "name": "\u00a1Que te pares!",
-      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1363,22 +1347,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Piropos",
-        "url": "https://open.spotify.com/album/1bktsgFPfHw9XRiVaGsWoE"
+        "name": "\u00a1Que te pares!",
+        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
       },
       "artists": [
         {
-          "name": "Naitinain",
-          "url": "https://open.spotify.com/artist/75k1x4oYTR0db8FBm9VbCy"
-        },
-        {
-          "name": "Joder Juan",
-          "url": "https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9"
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Piropos",
-      "url": "https://open.spotify.com/track/3gIH0fYBDdpsINlYv1feqs"
+      "duration_ms": 193754,
+      "name": "\u00a1Que te pares!",
+      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
+        "name": "Piropos",
+        "url": "https://open.spotify.com/album/1bktsgFPfHw9XRiVaGsWoE"
+      },
+      "artists": [
+        {
+          "name": "Naitinain",
+          "url": "https://open.spotify.com/artist/75k1x4oYTR0db8FBm9VbCy"
+        },
+        {
+          "name": "Joder Juan",
+          "url": "https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Piropos",
+      "url": "https://open.spotify.com/track/3gIH0fYBDdpsINlYv1feqs"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
         "name": "Rob Gordon",
         "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 123309,
       "name": "Rob Gordon",
       "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "F\u00fatbol",
+        "url": "https://open.spotify.com/album/0pCijFVzEi6Ke9fOdFrRro"
+      },
+      "artists": [
+        {
+          "name": "Pagafantas",
+          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        }
+      ],
+      "duration_ms": 271750,
+      "name": "F\u00fatbol",
+      "url": "https://open.spotify.com/track/7vWEC8Wf5qHwUDEx7GM6ct"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "F\u00fatbol",
-        "url": "https://open.spotify.com/album/0pCijFVzEi6Ke9fOdFrRro"
-      },
-      "artists": [
-        {
-          "name": "Pagafantas",
-          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
-        }
-      ],
-      "duration_ms": 271750,
-      "name": "F\u00fatbol",
-      "url": "https://open.spotify.com/track/7vWEC8Wf5qHwUDEx7GM6ct"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "Ya Estoy Mayor",
         "url": "https://open.spotify.com/album/6DEnljjYwXMgCu37ejugHP"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Sangre Azul",
-        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
-      },
-      "artists": [
-        {
-          "name": "LA \u00c9LITE",
-          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
-        }
-      ],
-      "duration_ms": 144664,
-      "name": "Sangre Azul",
-      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "L\u00e1grimas y Milagros",
         "url": "https://open.spotify.com/album/40P4jN9htifGsIMHjxmPWp"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 147599,
       "name": "Arde",
       "url": "https://open.spotify.com/track/2gmRNw19tkeNn784Hlxvgp"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Sangre Azul",
+        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
+      },
+      "artists": [
+        {
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
+        }
+      ],
+      "duration_ms": 144664,
+      "name": "Sangre Azul",
+      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Parkour",
-        "url": "https://open.spotify.com/album/5oCu0OJRikvXXLaWRKE0Z8"
-      },
-      "artists": [
-        {
-          "name": "Kokoshca",
-          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Parkour",
-      "url": "https://open.spotify.com/track/1ow2OEydv1F9ljW62daTH5"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "Vacaciones Permanentes",
         "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Cada instante",
-        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
+        "name": "Parkour",
+        "url": "https://open.spotify.com/album/5oCu0OJRikvXXLaWRKE0Z8"
       },
       "artists": [
         {
-          "name": "\u00c1rtico",
-          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
+          "name": "Kokoshca",
+          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Cada instante",
-      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
+      "duration_ms": 184293,
+      "name": "Parkour",
+      "url": "https://open.spotify.com/track/1ow2OEydv1F9ljW62daTH5"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1623,6 +1607,22 @@
       "duration_ms": 181558,
       "name": "A\u00fan Quedan Sensaciones",
       "url": "https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Cada instante",
+        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rtico",
+          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Cada instante",
+      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
     },
     {
       "added_at": "2024-12-19 23:00:46",

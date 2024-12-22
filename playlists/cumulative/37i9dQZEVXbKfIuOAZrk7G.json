@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1zVydl04lKKEqHNgreRtsq"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7AFHpxmIYKRKlleCPpiCWi"
+    },
+    {
+      "album": {
         "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
         "url": "https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ"
       },
@@ -5854,7 +5872,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -34858,7 +34876,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -34888,7 +34906,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -36404,7 +36422,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 163571,
       "name": "Mera Mann",
       "url": "https://open.spotify.com/track/0teitahwTKBwzYMDR4Cmti"
@@ -44534,7 +44552,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 108791,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
@@ -44552,7 +44570,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 108798,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0CT22b8NYf47LKD5FSrJHO"
@@ -47476,7 +47494,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 144113,
       "name": "Rock",
       "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
@@ -52007,24 +52025,6 @@
     },
     {
       "album": {
-        "name": "Some Of Your Love",
-        "url": "https://open.spotify.com/album/1zVydl04lKKEqHNgreRtsq"
-      },
-      "artists": [
-        {
-          "name": "PND",
-          "url": "https://open.spotify.com/artist/2sD3FFiyiynSOBtLuFr2IR"
-        }
-      ],
-      "date_added": "2024-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164977,
-      "name": "Some Of Your Love",
-      "url": "https://open.spotify.com/track/7AFHpxmIYKRKlleCPpiCWi"
-    },
-    {
-      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -52668,7 +52668,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 155773,
       "name": "Spin The Wheel (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3r1Fg9teKc6ZkZVtjJwCtV"
@@ -52690,7 +52690,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 155773,
       "name": "Spin The Wheel - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1lXZpcWtuvG5epzCpN2dSz"
@@ -53568,7 +53568,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
@@ -61591,6 +61591,24 @@
     },
     {
       "album": {
+        "name": "Saaheem",
+        "url": "https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Viking",
+      "url": "https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM"
+    },
+    {
+      "album": {
         "name": "Violet",
         "url": "https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj"
       },
@@ -63024,6 +63042,24 @@
       "duration_ms": 145979,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8"
+    },
+    {
+      "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
       "album": {

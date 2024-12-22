@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 23102,
+  "num_followers": 23118,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Cumbiero",
-        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Ontem",
         "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Cumbiero",
+        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Sosiego",
         "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 108203,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Parque de Bugambilias",
+        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 153857,
+      "name": "Parque de Bugambilias",
+      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Bolero coqueto",
         "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 135163,
       "name": "Bolero coqueto",
       "url": "https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Parque de Bugambilias",
-        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 153857,
-      "name": "Parque de Bugambilias",
-      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "La Belleza de lo Cotidiano",
-        "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
-      },
-      "artists": [
-        {
-          "name": "B.L.U.N.T.S",
-          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
-        },
-        {
-          "name": "Lofi Soul",
-          "url": "https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "La Belleza de lo Cotidiano",
-      "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Sample Saga: Brazil",
         "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 117446,
       "name": "Devagar",
       "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "La Belleza de lo Cotidiano",
+        "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T.S",
+          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+        },
+        {
+          "name": "Lofi Soul",
+          "url": "https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "La Belleza de lo Cotidiano",
+      "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "De La Selva",
-        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
-      },
-      "artists": [
-        {
-          "name": "Alma De La Selva",
-          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
-        },
-        {
-          "name": "Juan Carlos Montiel Rangel",
-          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
-        }
-      ],
-      "duration_ms": 240981,
-      "name": "Chipek",
-      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "COMO ARRUINARTE LA VIDA",
         "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 127749,
       "name": ":(",
       "url": "https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "De La Selva",
+        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
+      },
+      "artists": [
+        {
+          "name": "Alma De La Selva",
+          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
+        },
+        {
+          "name": "Juan Carlos Montiel Rangel",
+          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
+        }
+      ],
+      "duration_ms": 240981,
+      "name": "Chipek",
+      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Ciudad de Papel",
+        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 129767,
+      "name": "Ciudad de Papel",
+      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Viendo el mundial con pap\u00e1",
         "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 129854,
       "name": "Viendo el mundial con pap\u00e1",
       "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Ciudad de Papel",
-        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 129767,
-      "name": "Ciudad de Papel",
-      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
     },
     {
       "added_at": "2024-10-04 04:00:00",

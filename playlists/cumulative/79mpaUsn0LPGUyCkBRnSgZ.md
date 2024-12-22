@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-772 songs - 2 day 4 hr 1 min
+773 songs - 2 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Old Man](https://open.spotify.com/track/15xbkn7Layn9MhRTpFSdZP) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/0E1M8jS13CQ4MibjrIqtpW) | 3:33 | 2023-12-03 | 2024-04-25 |
 | [On Glaze](https://open.spotify.com/track/1gy0GG6iGjD8EBAO3gvEft) | [Department Of Eagles](https://open.spotify.com/artist/0d2BmAcZ7p8vrtBPY48WMW) | [The Cold Nose](https://open.spotify.com/album/6Mdlj2C8YahbrF8KqHTM8d) | 1:51 | 2024-01-19 | 2024-07-12 |
 | [On The Ground](https://open.spotify.com/track/23UUCJfCR7V19EszpVctmK) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Survival Sounds](https://open.spotify.com/album/59ghXuWp5F2eqDovUHS0yB) | 3:38 | 2024-01-04 |  |
+| [On Tonight](https://open.spotify.com/track/0WmVoQjWbJ1TX8pAZ8Rq0j) | [Rosali](https://open.spotify.com/artist/2WpwNw5EKb52c1QlvnGqfs) | [Bite Down](https://open.spotify.com/album/28ZqFucRGgeTSWyVMN5DV8) | 4:17 | 2024-12-21 |  |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-10-24 |  |
 | [Oncle Jazz](https://open.spotify.com/track/204t5SErksNRHRhU52g5JF) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 0:57 | 2023-08-19 | 2023-08-28 |
 | [One More Chance \- 2018 Remaster](https://open.spotify.com/track/5GOBlnqd5yjo6Xxf4kC7t5) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually \(2018 Remaster\)](https://open.spotify.com/album/0p5QwhEke5P9mFY4CY9u4j) | 5:31 | 2023-08-04 | 2024-01-22 |

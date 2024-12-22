@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 
 > Certified R&B Hits\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,576 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,603 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmlEGx13u9.md) - [plain]
 | 43 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 44 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 | 45 | [TYRANT](https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:10 |
-| 46 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |
-| 47 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 |
-| 48 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
+| 46 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 |
+| 47 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
+| 48 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |
 | 49 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
-| 50 | [Wherever I Go](https://open.spotify.com/track/6P76Ve1pRObGGpuUTbYwsA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:01 |
+| 50 | [Show Me](https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Show Me](https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8) | 3:37 |
 
 Snapshot ID: `Z1t5IgAAAAAITZyz242YV29L44krtxWv`

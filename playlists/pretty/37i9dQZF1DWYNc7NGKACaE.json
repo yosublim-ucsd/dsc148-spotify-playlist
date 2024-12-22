@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83753,
+  "num_followers": 83781,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        }
+      ],
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
         "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 166115,
       "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
       "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Levante",
         "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 115714,
       "name": "SUV - Remix",
       "url": "https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
     },
     {
       "added_at": "2024-07-08 19:10:57",

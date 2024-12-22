@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from d4vd, SZA, Burna Boy, Katy Perry,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,253,174 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,253,797 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 10 | [Don't Walk Away \(feat\. Carey Washington\)](https://open.spotify.com/track/0nTNsWpAO0LRWdPBThONp7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [Don't Walk Away \(feat\. Carey Washington\)](https://open.spotify.com/album/3LIPpet64sZD63AFhgyh2i) | 3:22 |
 | 11 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
 | 12 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 |
-| 13 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 13 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 14 | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
 | 15 | [not/lost](https://open.spotify.com/track/5EVqaXDACZZPYPbNwZOJA8) | [Temachii](https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ) | [not/lost](https://open.spotify.com/album/7eDpQTdGkiJkWlE6XpoFPP) | 3:06 |
 | 16 | [You and Me](https://open.spotify.com/track/5HNjPChYGGIbwNVwqGR5a2) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Wasted Chances](https://open.spotify.com/album/5HkT6AnwJ40AZYAxFvgY8l) | 3:14 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 40 | [Treasure Island](https://open.spotify.com/track/2VJjZNIizvxz8LJGmwMeHy) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Treasure Island](https://open.spotify.com/album/2ZbiFvf70ycI46qfPwQ9lz) | 1:55 |
 | 41 | [new year's eve](https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [new year's eve](https://open.spotify.com/album/0Z2heez0LaB9Pn8uuV70cc) | 3:47 |
 | 42 | [Alma](https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Alma](https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0) | 2:25 |
-| 43 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 43 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 44 | [MERCY](https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [MERCY](https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI) | 2:38 |
 | 45 | [as I left the room](https://open.spotify.com/track/6JWl20NCZ7OttfpLSK8L3h) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [as I left the room](https://open.spotify.com/album/3T44mRmcd7Hc5sOXljOcPe) | 3:56 |
 | 46 | [Game Face](https://open.spotify.com/track/15M8q6hzIEmluSdpk66dJg) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Game Face](https://open.spotify.com/album/2PshZ33Ll6S8u0hG8seGf5) | 2:58 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 80 | [They Forgot](https://open.spotify.com/track/7449XmCL1nh2nV9si7GkZk) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Free Wizzop](https://open.spotify.com/album/6rinOhtUltYPUWimDuVD4b) | 1:41 |
 | 81 | [set me FREE](https://open.spotify.com/track/3hZD6wxuZ1ecDzEz6pE1Cq) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57) | [WAS ALL IN](https://open.spotify.com/album/4hp2OmoDBerjnlNmaUKv4m) | 2:34 |
 | 82 | [Viento](https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Viento EP](https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV) | 3:37 |
-| 83 | [Nobody But You](https://open.spotify.com/track/5OIuFQ5a0Io7stWqjC3M68) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Nobody But You](https://open.spotify.com/album/7iOAYckLScUHdgmCbk9B8N) | 3:47 |
+| 83 | [nobody but you](https://open.spotify.com/track/5OIuFQ5a0Io7stWqjC3M68) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [nobody but you](https://open.spotify.com/album/7iOAYckLScUHdgmCbk9B8N) | 3:47 |
 | 84 | [Black Train](https://open.spotify.com/track/5YQBWtqEm1w42SugkEKU1u) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Black Train](https://open.spotify.com/album/6KYBsUfmFBa45f0wUiXxd6) | 3:47 |
 | 85 | [learning](https://open.spotify.com/track/4C5e1xJvLrS1sGFnYReqjp) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [learning](https://open.spotify.com/album/5qZtdJShHqReYRroD3KE02) | 3:40 |
 | 86 | [goodWork](https://open.spotify.com/track/6lvebzEwTvoCF8MTL2n7nX) | [keni can fly](https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW) | [goodWork](https://open.spotify.com/album/4dvn5Bie7C35P2W27lMRDl) | 2:58 |

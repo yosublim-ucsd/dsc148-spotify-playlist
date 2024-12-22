@@ -4,7 +4,7 @@
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-87 songs - 7 hr 19 min
+88 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Como Podre Disimular](https://open.spotify.com/track/5hxXKkbhgD8g8Dvd40APFB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Romántica de Siempre](https://open.spotify.com/album/31qN90CYlcbqT0ErFJXJzi) | 5:34 | 2023-12-13 |  |
 | [Como Podre Disimular](https://open.spotify.com/track/42PDNfuSrrF5nkDrvCPIeN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Mis Favoritas](https://open.spotify.com/album/6JB01yiDfrkIeccoiVWb8G) | 5:34 | 2022-09-08 | 2023-12-14 |
 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 | 2024-05-05 |  |
-| [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 | 2022-09-08 |  |
+| [Cosas Bonitas](https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:13 | 2024-12-22 |  |
+| [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 | 2022-09-08 | 2024-12-22 |
 | [Debiera Olvidarla](https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cielo De Tambores](https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ) | 4:24 | 2022-09-08 |  |
 | [Del Puente Pa' Allá](https://open.spotify.com/track/0vWfzFRMmU2mhTw7eipl9R) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 6:00 | 2022-09-08 | 2023-12-14 |
 | [Del Puente Pa' Allá](https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 6:00 | 2023-12-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🪩🪩🪩🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,595 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,587 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 4 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 |
 | 5 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 6 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
-| 7 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
-| 8 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
+| 7 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 |
+| 8 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 | 9 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
 | 10 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
 | 11 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 43 | [Hva Vil Du](https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Hva Vil Du](https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS) | 2:01 |
 | 44 | [Sølvskje](https://open.spotify.com/track/6XuknnhHp56njzcXXnHuJg) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Sølvskje](https://open.spotify.com/album/6Wz4lDw5OdxQ34eeGrCVKW) | 2:17 |
 | 45 | [KEISEREN I NEW CLOTHES](https://open.spotify.com/track/731aUiP8SQbyOiYy9Omo6r) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [FRITT FALL](https://open.spotify.com/album/3Wv8DIn4agQqAhPrB4o48f) | 2:24 |
-| 46 | [hva om jeg slutta å bry meg](https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [hva om jeg slutta å bry meg](https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b) | 3:06 |
+| 46 | [Lever Livet](https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Lever Livet](https://open.spotify.com/album/753mxKgIv1sOihb9r6R7Zl) | 2:53 |
 | 47 | [VENNELØS](https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [BRENTE BROER](https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0) | 1:54 |
-| 48 | [Lever Livet](https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Lever Livet](https://open.spotify.com/album/753mxKgIv1sOihb9r6R7Zl) | 2:53 |
+| 48 | [hva om jeg slutta å bry meg](https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [hva om jeg slutta å bry meg](https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b) | 3:06 |
 | 49 | [NEPOBABY](https://open.spotify.com/track/2T137G2j4il2iSc2md900S) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:08 |
 | 50 | [Sjarmør \(Beepolar\)](https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Sjarmør \(Beepolar\)](https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD) | 2:43 |
 

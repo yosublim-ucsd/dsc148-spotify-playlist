@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: KISS OF LIFE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,610 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,664 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 51 | [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 |
 | 52 | [SWEAT](https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG) | 3:11 |
 | 53 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 |
-| 54 | [We Lost The Summer](https://open.spotify.com/track/1WrScpykT891CZhFThXJtj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:30 |
-| 55 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
+| 54 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
+| 55 | [We Lost The Summer](https://open.spotify.com/track/1WrScpykT891CZhFThXJtj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:30 |
 | 56 | [Not For Sale](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:01 |
 | 57 | [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 |
 | 58 | [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 76 | [A Song Written Easily](https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [IN ITS TIME](https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D) | 3:33 |
 | 77 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
 | 78 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
-| 79 | [Love or Die](https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:05 |
-| 80 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 |
+| 79 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 |
+| 80 | [Love or Die](https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:05 |
 | 81 | [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 |
 | 82 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
 | 83 | [Lips \(Feat\. GISELLE\)](https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Lips \(Feat\. GISELLE\)](https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk) | 3:02 |

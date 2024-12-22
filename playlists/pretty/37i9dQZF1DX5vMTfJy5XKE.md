@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,123 likes - 251 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,674 likes - 251 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

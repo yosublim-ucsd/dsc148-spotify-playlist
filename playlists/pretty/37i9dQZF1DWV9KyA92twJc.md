@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: אודיה
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,566 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,568 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 65 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 |
 | 66 | [מנגן ושר](https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:21 |
 | 67 | [ראיתי עולם](https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [ראיתי עולם](https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN) | 3:09 |
-| 68 | [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 |
-| 69 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 |
+| 68 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 |
+| 69 | [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 |
 | 70 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 |
 | 71 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 |
 | 72 | [ככה וככה](https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:39 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 83 | [פרובוקטיבית](https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a) | [פרובוקטיבית](https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx) | 2:34 |
 | 84 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 |
 | 85 | [נאדי באדי](https://open.spotify.com/track/5lNB8HWmxpICQXi5Pgatz1) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [היי, זה שחר](https://open.spotify.com/album/4xeRYn42ehcaZPtnYEyQEi) | 2:30 |
-| 86 | [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 |
-| 87 | [צונאמי](https://open.spotify.com/track/6W6ssWo1mqA9bLTo47Alsz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 2:47 |
+| 86 | [צונאמי](https://open.spotify.com/track/6W6ssWo1mqA9bLTo47Alsz) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 2:47 |
+| 87 | [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 |
 | 88 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 |
 | 89 | [רק אני יודע](https://open.spotify.com/track/0NdV41q6lBoO4WyCaZmIJU) | [Stephane Legar](https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk) | [רק אני יודע](https://open.spotify.com/album/1lclZGan78IHDPYl6p8iJ2) | 2:44 |
 | 90 | [משקפיים](https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [משקפיים](https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm) | 2:52 |

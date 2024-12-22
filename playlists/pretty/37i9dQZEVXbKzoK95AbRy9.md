@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,526 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,623 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 41 | [Xonei](https://open.spotify.com/track/2xTM0m9HD3gIqNSutA0LNJ) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Check\-In \(Ao Vivo\)](https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r) | 2:34 |
 | 42 | [Vida de Artista](https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Deejhay RB](https://open.spotify.com/artist/6VOn8xBJH73S7DN8VBAoaN) | [Vida de Artista](https://open.spotify.com/album/2gMhGYe4x6O1vDG9AUjIwW) | 3:16 |
 | 43 | [Banquinho \- Ao Vivo](https://open.spotify.com/track/1RkyWVwtYMAChNGZYluilS) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Banquinho \(Ao Vivo\)](https://open.spotify.com/album/3MRWTCGrSm3qOvPurcEMvl) | 2:38 |
-| 44 | [Adora a bunda, odeia o rosto](https://open.spotify.com/track/5Bp7TFENcgsdLCL8fMOSKs) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:53 |
+| 44 | [Adora a bunda, odeia o rosto \(feat\. Veigh & Niink\)](https://open.spotify.com/track/5Bp7TFENcgsdLCL8fMOSKs) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:53 |
 | 45 | [Do Jeito Que Você Mete](https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1) | [DJ L30](https://open.spotify.com/artist/5tfvAC3ptwTnVXeNJ8qkYe), [MC Thaizinha](https://open.spotify.com/artist/5O30nI9WzhHuxqFZqReBQu) | [Do Jeito Que Você Mete](https://open.spotify.com/album/3CrUjWfFQTKOJLm84bETqM) | 2:00 |
 | 46 | [Pampa](https://open.spotify.com/track/0prrifDVNELg91qIr1K4p2) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Isso é CountryBeat](https://open.spotify.com/album/0qv0bMGZ3iY4K6I4qaoRev) | 1:59 |
 | 47 | [Hoje o Dia Tá Bonito](https://open.spotify.com/track/2MHQdlPaIcD49dJXHd6MYI) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [GringoBeats808](https://open.spotify.com/artist/5H2zqAv4kVidX9S98sanYa) | [Hoje o Dia Tá Bonito](https://open.spotify.com/album/4yhFvEgprV0ERYI7KYBDL8) | 1:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI) | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy) | 4:26 |
 | 50 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA) | 2:51 |
 
-Snapshot ID: `LvjbSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvovIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

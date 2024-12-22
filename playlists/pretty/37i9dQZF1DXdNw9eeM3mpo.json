@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 471640,
+  "num_followers": 471702,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -667,38 +667,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "The Maskatonians All Stars And Friends",
-        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 299253,
-      "name": "Solo un Minuto",
-      "url": "https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Fabulosos Exitos",
-        "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Calaveras y Diablitos",
-      "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
       },
@@ -719,6 +687,38 @@
       "duration_ms": 192939,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Fabulosos Exitos",
+        "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Calaveras y Diablitos",
+      "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "The Maskatonians All Stars And Friends",
+        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 299253,
+      "name": "Solo un Minuto",
+      "url": "https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Flores para los Muertos",
+        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 248371,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Flores para los Muertos",
-        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "TEM CORAGEM",
-        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
-      },
-      "artists": [
-        {
-          "name": "Bells",
-          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
-        },
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        }
-      ],
-      "duration_ms": 244487,
-      "name": "TEM CORAGEM",
-      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1431,6 +1411,26 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "TEM CORAGEM",
+        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
+      },
+      "artists": [
+        {
+          "name": "Bells",
+          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "duration_ms": 244487,
+      "name": "TEM CORAGEM",
+      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Que Empiece Ya!",
         "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 332695,
       "name": "Amor Sin Odio",
       "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "As\u00ed No Se Puede Querer",
+        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "As\u00ed No Se Puede Querer",
+      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1483,6 +1499,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Que Se Joda el Amor",
+        "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Que Se Joda el Amor",
+      "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "El Diablo",
         "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
       },
@@ -1499,22 +1531,6 @@
       "duration_ms": 142252,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Que Se Joda el Amor",
-        "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Que Se Joda el Amor",
-      "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1571,22 +1587,6 @@
       "duration_ms": 186933,
       "name": "Gaviota",
       "url": "https://open.spotify.com/track/5o4m0JJyccg9uFbd5X9YAM"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "As\u00ed No Se Puede Querer",
-        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
-      },
-      "artists": [
-        {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "As\u00ed No Se Puede Querer",
-      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Alo con las islas mutantes?",
         "url": "https://open.spotify.com/album/5YB4gdMdAM0HbRqPhLBRwM"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 187792,
       "name": "Entre fantasmas",
       "url": "https://open.spotify.com/track/5B5uRoFjvNL5ydjgOjzgKd"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     }
   ],
   "unique_name": "Ska Latino ",

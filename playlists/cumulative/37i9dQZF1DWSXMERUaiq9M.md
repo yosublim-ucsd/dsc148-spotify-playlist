@@ -4,7 +4,7 @@
 
 > the sound of a new generation
 
-388 songs - 1 day 0 hr 20 min
+389 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All about you](https://open.spotify.com/track/1jRkIIqpKw9WGlxOExgL67) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [EntzugszKlinique](https://open.spotify.com/artist/2KfUKuzYq61DbEqQzGgHZN), [ScubaPro](https://open.spotify.com/artist/60pNbc1sAEJ8iNuArbgIFM) | [All about you](https://open.spotify.com/album/6b86qlj0FMqPaNZiwwc7Hu) | 2:34 | 2023-06-05 | 2023-06-29 |
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 | 2023-08-10 | 2024-12-14 |
 | [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 | 2024-10-17 | 2024-12-16 |
-| [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 | 2023-03-25 |  |
+| [All Of It](https://open.spotify.com/track/79grw34DPX7iCvVUfBPB9S) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [All Of It](https://open.spotify.com/album/5iHDU2XwpJwk0xiIH1Bc6Z) | 5:31 | 2023-03-25 | 2024-12-22 |
 | [All That She Wants \- Helion Remix](https://open.spotify.com/track/747OPJC1PujokY0T3rAajk) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [All That She Wants \(Helion Remix\)](https://open.spotify.com/album/1jEF60my2bWvcz5G6ebeXW) | 2:47 | 2023-06-09 | 2024-02-09 |
 | [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 | 2023-03-10 | 2024-02-23 |
 | [Alone Again](https://open.spotify.com/track/1x9SzB3cLpNsykCO5Y2BfR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Alone Again](https://open.spotify.com/album/0YzIkTjBZPqImdQLx3VqTc) | 3:46 | 2024-12-16 |  |
@@ -394,6 +394,7 @@
 | [Yosemite](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 | 2024-12-16 |  |
 | [You'll Never Be Alone Again](https://open.spotify.com/track/3qkCJ3Zw1I6c3xPjAXQz7b) | [Sixten](https://open.spotify.com/artist/270lBB4c4WBLdrzQKgrXDI) | [You'll Never Be Alone Again](https://open.spotify.com/album/4Plbxojckeqi0RZp21927l) | 4:58 | 2023-10-20 | 2023-10-27 |
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2023-03-10 | 2024-08-13 |
+| [Young Birds](https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 2:53 | 2024-12-19 |  |
 | [Yoyoyo](https://open.spotify.com/track/3mjpUhSiUbEvaPdxikuEZI) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Yoyoyo](https://open.spotify.com/album/5EZ9za0ULGWOTaLEfPj6aw) | 4:35 | 2023-06-09 | 2023-07-04 |
 | [♥one love♥](https://open.spotify.com/track/2zFcvXGPhkbOiNYZekEoYK) | [dracodraco](https://open.spotify.com/artist/3GooQnFk2ozVG59lQXIdiH), [LYFE4M](https://open.spotify.com/artist/0BShgKKWNc6kEyR5LXWnzL) | [♥one love♥](https://open.spotify.com/album/4TP5cGeoTSOWYC20fRFYtL) | 2:30 | 2023-06-09 | 2023-06-16 |
 

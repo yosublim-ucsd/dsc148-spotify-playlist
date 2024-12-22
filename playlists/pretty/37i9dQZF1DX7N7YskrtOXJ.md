@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,986 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,138 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 65 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 | 66 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 |
 | 67 | [Me Vas a Extrañar](https://open.spotify.com/track/48oS8fgEqBEZKZwKQUJlIx) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Vive El Momento](https://open.spotify.com/album/6HpMKbdPtycogKmuBHerl4) | 3:43 |
-| 68 | [Ahora Quién](https://open.spotify.com/track/6orkKcLFfNacnV5J0xnFjJ) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 4:58 |
-| 69 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
+| 68 | [Muero De Frío](https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:33 |
+| 69 | [Ahora Quién](https://open.spotify.com/track/6orkKcLFfNacnV5J0xnFjJ) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 4:58 |
 | 70 | [Melosa](https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S) | [Sonora Malecón](https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM) | [Late Que Late](https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH) | 3:06 |
 | 71 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
 | 72 | [Haciendo el Amor](https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Quiéreme](https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU) | 3:44 |
@@ -86,15 +86,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 76 | [Pero No Puedo](https://open.spotify.com/track/7kfnYfv7tO6KrCdOS7uWCd) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Aquel Hotel](https://open.spotify.com/album/1p13W7kw4tvsqak4IDbbJr) | 3:10 |
 | 77 | [Bebe Dame / Pobre Corazón](https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Bebe Dame / Pobre Corazón](https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ) | 4:28 |
 | 78 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 |
-| 79 | [Cinco Días](https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Intimo \(Live\)](https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP) | 3:00 |
+| 79 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 |
 | 80 | [Mil Amores](https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Mil Amores](https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy) | 3:01 |
-| 81 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 |
-| 82 | [Amor Sobre 4 Ruedas](https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:21 |
+| 81 | [Amor Sobre 4 Ruedas](https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:21 |
+| 82 | [Cinco Días](https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Intimo \(Live\)](https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP) | 3:00 |
 | 83 | [La Temporera](https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:46 |
 | 84 | [Borracho y Loco](https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Amor y Caos](https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX) | 3:14 |
-| 85 | [Chiquilla Bonita](https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:44 |
+| 85 | [Vamos a La Boti](https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Vamos a La Boti](https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF) | 2:33 |
 | 86 | [Ahora Que Te Vas](https://open.spotify.com/track/4A0PE9JT69DyzVkFZLTEeq) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Ahora Que Te Vas](https://open.spotify.com/album/2pajddBhVxUas3ioYXCyHL) | 3:05 |
-| 87 | [Vamos a La Boti](https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Vamos a La Boti](https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF) | 2:33 |
+| 87 | [Chiquilla Bonita](https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:44 |
 | 88 | [Conductor](https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 2:51 |
 | 89 | [Cumbia de la Güena](https://open.spotify.com/track/1CY7kMLypzLhj8vbBBmNGY) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 2:27 |
 | 90 | [Palomita / Olguita / Engañadora / Mi Gran Amor \(En Vivo\)](https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Teatro Monumental \(En Vivo\)](https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk) | 8:36 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 93 | [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 |
 | 94 | [Caliéntame la Sopa Con un Hueso](https://open.spotify.com/track/2MSuiAejQ5LxGMvDwiNOfy) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Gran Pecador](https://open.spotify.com/album/2F8FyUjk8G8twPQhNgdNt1) | 2:33 |
 | 95 | [ALGO MÁS \(No me apures, Ni me pares\)](https://open.spotify.com/track/5fttaFMyjThc0jyDjlfwxR) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [ALGO MÁS \(No me apures, Ni me pares\)](https://open.spotify.com/album/2YFAMot96ZrawSxm76d7ST) | 2:54 |
-| 96 | [Contigo](https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Intimo \(Live\)](https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP) | 3:56 |
+| 96 | [Maracuyá Con Mango](https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl) | [Rap Guachaca & Cumbia Reflexiva](https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o) | 2:34 |
 | 97 | [Tímido](https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:26 |
-| 98 | [Maracuyá Con Mango](https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl) | [Rap Guachaca & Cumbia Reflexiva](https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o) | 2:34 |
-| 99 | [Ritmo Loco](https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:10 |
+| 98 | [Ritmo Loco](https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:10 |
+| 99 | [Contigo](https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Intimo \(Live\)](https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP) | 3:56 |
 | 100 | [Una Copita Más](https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Nueva](https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T) | 4:30 |
 
 Snapshot ID: `Z1NKmgAAAAB3VePbHto70JwgMGxvFo1J`

@@ -1,13 +1,29 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173048,
+  "num_followers": 173030,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAADbTIOAceG6RlY/cuqUSIF8",
+  "snapshot_id": "Z2SzgAAAAABuycxnIgy/Md2GfagcW5YO",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/6i0atmeYVUoeI58dINmglw"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 135001,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/2qVxkSW21r1r6aXRbCA3Q6"
+    },
     {
       "added_at": null,
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Rascal Flatts
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,907 likes - 125 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,090 likes - 125 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 50 | [Love Story](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:55 |
 | 51 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 |
 | 52 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
-| 53 | [My Wish](https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:08 |
-| 54 | [Do I](https://open.spotify.com/track/7A5CReD6yWe0rrkJym34QI) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 3:59 |
+| 53 | [Do I](https://open.spotify.com/track/7A5CReD6yWe0rrkJym34QI) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 3:59 |
+| 54 | [My Wish](https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:08 |
 | 55 | [Brokenheartsville](https://open.spotify.com/track/0WB48shl2wAH4KqyQkQ8nJ) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Man With A Memory](https://open.spotify.com/album/1IgWZ4xGJQwzQbUvob3f92) | 3:50 |
 | 56 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 | 57 | [Mississippi Girl](https://open.spotify.com/track/79YeQbd1p7MsuT7wHQLRYY) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:52 |
 | 58 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
 | 59 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
-| 60 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 |
-| 61 | [I Wanna Talk About Me](https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:03 |
+| 60 | [I Wanna Talk About Me](https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:03 |
+| 61 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 |
 | 62 | [Travelin' Soldier](https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 5:43 |
 | 63 | [Austin](https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:50 |
 | 64 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 73 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
 | 74 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 75 | [Nothin' To Lose](https://open.spotify.com/track/7oiCqfE8Wjk8wf0pFTgL2H) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [Josh Gracin](https://open.spotify.com/album/1V4qP0BJJBZsY2LOkcfwE0) | 2:36 |
-| 76 | [Some Beach](https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton's Barn & Grill](https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA) | 3:24 |
+| 76 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
 | 77 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
 | 78 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
-| 79 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
+| 79 | [Some Beach](https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton's Barn & Grill](https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA) | 3:24 |
 | 80 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
 | 81 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
 | 82 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |

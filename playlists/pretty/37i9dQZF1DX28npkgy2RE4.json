@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 420522,
+  "num_followers": 420544,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Snowplow",
+        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 161776,
+      "name": "Snowplow",
+      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Snowplow",
-        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        },
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 161776,
-      "name": "Snowplow",
-      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 369116,
-      "name": "butter",
-      "url": "https://open.spotify.com/track/7sliU9EeA9R6PbQA0uPj17"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Cala",
         "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
       },
@@ -1051,6 +1035,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "In the Game",
+        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        },
+        {
+          "name": "Susan O'Neill",
+          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -1067,6 +1071,22 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 369116,
+      "name": "butter",
+      "url": "https://open.spotify.com/track/7sliU9EeA9R6PbQA0uPj17"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1099,26 +1119,6 @@
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "In the Game",
-        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        },
-        {
-          "name": "Susan O'Neill",
-          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
-        }
-      ],
-      "duration_ms": 200161,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+        "name": "Loving You Is Lonely",
+        "url": "https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ"
       },
       "artists": [
         {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+          "name": "Harmony Byrne",
+          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+      "duration_ms": 269760,
+      "name": "Loving You Is Lonely",
+      "url": "https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Loving You Is Lonely",
-        "url": "https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ"
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
       "artists": [
         {
-          "name": "Harmony Byrne",
-          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Loving You Is Lonely",
-      "url": "https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe"
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Teeth Marks",
-        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Teeth Marks",
-      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Hope Dreams",
         "url": "https://open.spotify.com/album/2Gjb3T1btQMnGtSYl6c1HD"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 282533,
       "name": "Hope Dreams",
       "url": "https://open.spotify.com/track/4UqOJtePJLOlG6enQq7NEE"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Teeth Marks",
+        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Teeth Marks",
+      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Turn Away",
-        "url": "https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Turn Away",
-      "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "deer",
         "url": "https://open.spotify.com/album/5hxy6Yf0wLnB106AqTbOC7"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 126689,
       "name": "mud",
       "url": "https://open.spotify.com/track/5irN1VPsOqBPpmyHu8Mh9X"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Turn Away",
+        "url": "https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Turn Away",
+      "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
     },
     {
       "added_at": "2024-09-13 04:00:00",

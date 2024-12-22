@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,393 likes - 80 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,474 likes - 80 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 14 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 | 15 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
 | 16 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 |
-| 17 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
-| 18 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
+| 17 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
+| 18 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
 | 19 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 20 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 21 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |

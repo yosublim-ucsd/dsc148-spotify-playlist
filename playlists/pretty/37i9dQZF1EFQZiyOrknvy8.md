@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 140 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 141 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 99 | [Like A Fool](https://open.spotify.com/track/0iSVVvnXgiAcdS8tZPjZeR) | [Joana Kesenci](https://open.spotify.com/artist/4ZaUXNaebEQrSWFq4att4m) | [Like A Fool](https://open.spotify.com/album/4cIl8a2elDYzGIN8Xeje50) | 3:32 |
 | 100 | [Immer Juli](https://open.spotify.com/track/6cnTg5INasYZIP3yXridcS) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Immer Juli](https://open.spotify.com/album/2YebsTq2mKaDhJxvGW9Son) | 2:47 |
 | 101 | [Ich liebe meine Ex noch \- LUZIs Megamix](https://open.spotify.com/track/2rc5e7rZFSEJ000oVMNGVp) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [LUZIs Megamix](https://open.spotify.com/album/2EN8ufsACQcGR77mCdL9IZ) | 2:51 |
-| 102 | [Intro](https://open.spotify.com/track/6hldgiGWnYgDHBc1HDPJQ2) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/1vhbrbKabLC7JggnGXxM5K) | 2:12 |
-| 103 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 |
+| 102 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 |
+| 103 | [Intro](https://open.spotify.com/track/6hldgiGWnYgDHBc1HDPJQ2) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/1vhbrbKabLC7JggnGXxM5K) | 2:12 |
 | 104 | [Berlin City Girl](https://open.spotify.com/track/214zEjNd21eUMoXxr3VqWj) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:11 |
 | 105 | [Ciao Bella](https://open.spotify.com/track/7GB7TgXcdE1hsm67udwrX9) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:08 |
 | 106 | [Paper Thin](https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Technicolor](https://open.spotify.com/album/0i8MMjp4O2ycsJpSLlZSTb) | 3:36 |
@@ -140,13 +140,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 130 | [Mowgli](https://open.spotify.com/track/2jvvCAGt7dxnpTHio3U5JF) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Mowgli](https://open.spotify.com/album/2pJjJ9LQmHgp0F5fXG7lHu) | 3:06 |
 | 131 | [Der schwerste Tag war gestern](https://open.spotify.com/track/5bvRtQ64PasCKylUsb3Qju) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:45 |
 | 132 | [Not About You](https://open.spotify.com/track/2qxVLzNuYZ5krJAhUQmC1E) | [Mario Novembre](https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo) | [Stay](https://open.spotify.com/album/6hLb1BSmPR9aglZsak7vHT) | 3:31 |
-| 133 | [Ich flieg zu dir](https://open.spotify.com/track/5qrwJRBdBzkLTjv9TojkO5) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:53 |
-| 134 | [Ich will es immer noch wissen](https://open.spotify.com/track/0nuY3YYcCBjHB0CG42Ao3J) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:22 |
-| 135 | [Like Loving You](https://open.spotify.com/track/61olI0SR0iDnj9zLdQJXi4) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [c.wong](https://open.spotify.com/artist/3ktcNCcaSIg4TEU9anN428) | [Like Loving You](https://open.spotify.com/album/6S5JGXzO1NBeoRLFRAPrW6) | 3:01 |
-| 136 | [Policia \- Instrumental](https://open.spotify.com/track/7zKd6qkamCLT7WMsZpQklC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:34 |
-| 137 | [Ciao Bella \- Instrumental](https://open.spotify.com/track/1eXLlliAXuNAbZ3JwzR6cv) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:06 |
-| 138 | [My Own Terms](https://open.spotify.com/track/0dzdRefABYGCjjlFzbd5IK) | [Ivy Quainoo](https://open.spotify.com/artist/7wUvXN7DpyN99eIzMa9pcn) | [My Own Terms](https://open.spotify.com/album/1Dk0Iy7NjCH6aqO0zkOJz5) | 3:34 |
-| 139 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
-| 140 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
+| 133 | [Hafen](https://open.spotify.com/track/6XDBvvsqjSjVZqckA9IbrF) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Hafen](https://open.spotify.com/album/6UdA5hoe93QV5HJiz7g1Zv) | 2:56 |
+| 134 | [Ich flieg zu dir](https://open.spotify.com/track/5qrwJRBdBzkLTjv9TojkO5) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:53 |
+| 135 | [Ich will es immer noch wissen](https://open.spotify.com/track/0nuY3YYcCBjHB0CG42Ao3J) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:22 |
+| 136 | [Like Loving You](https://open.spotify.com/track/61olI0SR0iDnj9zLdQJXi4) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [c.wong](https://open.spotify.com/artist/3ktcNCcaSIg4TEU9anN428) | [Like Loving You](https://open.spotify.com/album/6S5JGXzO1NBeoRLFRAPrW6) | 3:01 |
+| 137 | [Policia \- Instrumental](https://open.spotify.com/track/7zKd6qkamCLT7WMsZpQklC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:34 |
+| 138 | [Ciao Bella \- Instrumental](https://open.spotify.com/track/1eXLlliAXuNAbZ3JwzR6cv) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:06 |
+| 139 | [My Own Terms](https://open.spotify.com/track/0dzdRefABYGCjjlFzbd5IK) | [Ivy Quainoo](https://open.spotify.com/artist/7wUvXN7DpyN99eIzMa9pcn) | [My Own Terms](https://open.spotify.com/album/1Dk0Iy7NjCH6aqO0zkOJz5) | 3:34 |
+| 140 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
+| 141 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbkrYAAAAACcQo8lBaDIptqJWUh6IH+p`
+Snapshot ID: `AbkxFAAAAAD+r7RVrBrnGysaeKYbBgJT`

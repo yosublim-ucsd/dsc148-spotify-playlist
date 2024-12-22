@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: YoRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,726 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,735 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 2 | [Tak Peduli](https://open.spotify.com/track/5v2uOlhBgm7rMbskbiliWx) | [Princessa Alicia](https://open.spotify.com/artist/3g5gPCi9PKbRMtDrK6HZkV) | [Tak Peduli](https://open.spotify.com/album/3SxUeyEQ8KqQVRTgLRvBD9) | 4:08 |
 | 3 | [FOODOMORE Christmas \(Christmas Truce\)](https://open.spotify.com/track/2OKmGOl3mapmXx4v9MjwEf) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [Pelan Tapi Party !](https://open.spotify.com/album/3byJsyxXp52ToCoNAXjBm3) | 4:41 |
 | 4 | [\(Te\)enage Years](https://open.spotify.com/track/19PnJNaQ7sxWBdsLjITicp) | [Angie Kris](https://open.spotify.com/artist/0h4oxekpd6qHoZrj6RWmEv), [Justin Anda](https://open.spotify.com/artist/0wk3mzjBEjxFTkqA57Mx2V) | [Might Be Teen Insanity](https://open.spotify.com/album/0KavCPtgeb4V2rDwgPQdvT) | 2:58 |
-| 5 | [Mewek feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek feat\. Helmi Utta](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 |
+| 5 | [Mewek \- feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek \(feat\. Helmi Utta\)](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 |
 | 6 | [Little Plastic Dinosaur](https://open.spotify.com/track/3NZ2t6kXqmE2Z2yu9fJ6IT) | [Rick](https://open.spotify.com/artist/29u7tOYjIqfJOwxpjKFvCY) | [Little Plastic Dinosaur](https://open.spotify.com/album/2iL21rzzhfbRLMt2kPQ4qM) | 4:24 |
 | 7 | [december](https://open.spotify.com/track/47V0v5GVLd3yMDsaLIWOUc) | [Clevt](https://open.spotify.com/artist/0iiaiEEQtShxIje7zdH02Q) | [december](https://open.spotify.com/album/36VbBKxBv5I1pLKeBZbiib) | 2:56 |
 | 8 | [Setelahnya](https://open.spotify.com/track/2ptqzBoEmYEdqGslXWeTPY) | [Geura](https://open.spotify.com/artist/3IHpVA8oikoCOjTx8orBO8) | [Setelahnya](https://open.spotify.com/album/4SInc8qXbLxEphbouCiDCn) | 4:19 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 60 | [Why Won't You](https://open.spotify.com/track/0bL5feyUbAa2z4G4XAuILw) | [Divingbirds](https://open.spotify.com/artist/6KKARVzlbGoG37TyHFghpm) | [Why Won't You](https://open.spotify.com/album/18luhvRPBtEzCBvvuLts3K) | 2:34 |
 | 61 | [Caught In Distress](https://open.spotify.com/track/1wJuaDeHSCN5fqZkBR0Qwu) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Caught In Distress](https://open.spotify.com/album/1vr2ljTHi4yTfcUHdqSsqy) | 3:36 |
 | 62 | [Dia Hilang](https://open.spotify.com/track/4W7BhHaY9VSCY2eG9MTDPE) | [Rigaskara](https://open.spotify.com/artist/2cfQKHwOPRF2UyEiKLexPW) | [Dia Hilang](https://open.spotify.com/album/2kU3Nm9GcM0fmBQpu7IP4E) | 2:50 |
-| 63 | [Under Substance](https://open.spotify.com/track/2Im8lLCVDqCt0YoeBjl4SZ) | [The Canary](https://open.spotify.com/artist/4w1gA1nMo8Oii93mlK7wvK) | [Long Substance Area](https://open.spotify.com/album/44lp7hTwTOWEqDT3qk2fEG) | 3:25 |
+| 63 | [Under Substance \- Demo](https://open.spotify.com/track/2Im8lLCVDqCt0YoeBjl4SZ) | [The Canary](https://open.spotify.com/artist/4w1gA1nMo8Oii93mlK7wvK) | [Long Substance Area \(Demo\)](https://open.spotify.com/album/44lp7hTwTOWEqDT3qk2fEG) | 3:25 |
 | 64 | [Warteg](https://open.spotify.com/track/3xfwlIpdiUzHVvaY1Io6hY) | [Dellu Uyee](https://open.spotify.com/artist/6IoF4fiDMEcyPKpvXzW1LH), [Wizzow](https://open.spotify.com/artist/2AtpVBJtiIqNDKGyMJ1Kfq), [Edgar Tauhid](https://open.spotify.com/artist/6EkjjrBR7uVn5loAR4eHU7) | [Warteg](https://open.spotify.com/album/6TlLj2iajL5CzjehUcJeAY) | 3:11 |
 | 65 | [Loving You](https://open.spotify.com/track/46huTyawSCeP8sgWanrB0R) | [LEMON](https://open.spotify.com/artist/0UDpQOXtscRkCJYylmx123) | [Loving You](https://open.spotify.com/album/2r3tb6vqQir9CmyqOIS5hQ) | 3:33 |
 | 66 | [Selebrasi Cinta](https://open.spotify.com/track/64Hdf6j7SJTwJTAYYn67uS) | [ELBYTRI](https://open.spotify.com/artist/3I0UZ7B9egDV3pl6C943fX), [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J) | [Selebrasi Cinta](https://open.spotify.com/album/3gdB8ThJvmxcK3NRfPNYeR) | 3:01 |

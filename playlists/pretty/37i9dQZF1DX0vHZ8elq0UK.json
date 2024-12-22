@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 994471,
+  "num_followers": 994716,
   "original_name": "Energy Booster: Pop",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
         "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "John Ryan",
-          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Fireball (feat. John Ryan)",
-      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 196613,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Funhouse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "M!ssundaztood (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Just Like a Pill",
-      "url": "https://open.spotify.com/track/1BpV8IGf4XsRRJf4Xuui9q"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 292706,
       "name": "If We Ever Meet Again (Featuring Katy Perry)",
       "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "M!ssundaztood (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Just Like a Pill",
+      "url": "https://open.spotify.com/track/1BpV8IGf4XsRRJf4Xuui9q"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/10ZcEPnqq7VPUfGytiVTuw"
-      },
-      "artists": [
-        {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "The Tide Is High - Radio Mix",
-      "url": "https://open.spotify.com/track/1QhSB9L9M5eZQhW4RNOhXK"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 214854,
       "name": "RITMO (Bad Boys For Life)",
       "url": "https://open.spotify.com/track/5NyS3oxTlos3Agl2YtZwrC"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/10ZcEPnqq7VPUfGytiVTuw"
+      },
+      "artists": [
+        {
+          "name": "Atomic Kitten",
+          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "The Tide Is High - Radio Mix",
+      "url": "https://open.spotify.com/track/1QhSB9L9M5eZQhW4RNOhXK"
     },
     {
       "added_at": "2024-09-13 18:52:08",
@@ -2599,22 +2599,6 @@
     {
       "added_at": "2024-09-13 18:52:08",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-09-13 18:52:08",
-      "album": {
         "name": "Not My Fault (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
+    },
+    {
+      "added_at": "2024-09-13 18:52:08",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
+      },
+      "artists": [
+        {
+          "name": "Karmin",
+          "url": "https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Brokenhearted",
+      "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
     }
   ],
   "unique_name": "Energy Booster: Pop",

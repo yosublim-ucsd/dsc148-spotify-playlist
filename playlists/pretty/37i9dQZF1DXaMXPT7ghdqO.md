@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,722 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,724 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 44 | [Next Stage!!](https://open.spotify.com/track/4CTuceahOjQhaEYFtCIciE) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 4:49 |
 | 45 | [千本桜](https://open.spotify.com/track/5w25VJ2bjvDBtKoKMR9ZYH) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [千本桜](https://open.spotify.com/album/6bS7VaPu5juDVoagjPOJts) | 4:03 |
 | 46 | [ストロベリー☆プラネット！](https://open.spotify.com/track/1E2vRsKtIXRIsNQNaZF53e) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 3:45 |
-| 47 | [AquaKiss](https://open.spotify.com/track/32yFiu9Rx5LmibnyUjq8di) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:20 |
-| 48 | [和音](https://open.spotify.com/track/5KrnFLL1qjWglTNDGPUL6x) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [シャッターチャンス！](https://open.spotify.com/album/5Uuo59qqK2a1Epo6IAqbiC) | 3:05 |
+| 47 | [和音](https://open.spotify.com/track/5KrnFLL1qjWglTNDGPUL6x) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [シャッターチャンス！](https://open.spotify.com/album/5Uuo59qqK2a1Epo6IAqbiC) | 3:05 |
+| 48 | [AquaKiss](https://open.spotify.com/track/32yFiu9Rx5LmibnyUjq8di) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:20 |
 | 49 | [STRIKE the PRISON!!](https://open.spotify.com/track/3Fv1HdrHzaREMva5Lqin8T) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:11 |
 | 50 | [アモーレ・ミオ](https://open.spotify.com/track/2eKA779bIfY6nzcDfsoyBd) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 4:41 |
 | 51 | [パレードはここさ](https://open.spotify.com/track/7kxQOvJyKpJ5qxJA47ns0y) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [パレードはここさ](https://open.spotify.com/album/7sXmjRoJ0CC9Hl84kAIi3q) | 3:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 64 | [タラレバ](https://open.spotify.com/track/3isdZW51i2ywC3Ni9t9AgN) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーねくすとっ！](https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ) | 3:43 |
 | 65 | [クリスマスラブ](https://open.spotify.com/track/3J9g4S55hRXSHs4ZgmnvY7) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:30 |
 | 66 | [すとろべりーはろうぃんないと](https://open.spotify.com/track/0Sa2Hbxhfg7ONlLUMDGmrQ) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [すとろべりーはろうぃんないと](https://open.spotify.com/album/0FXndYw7yRfRpo9VImWrTR) | 3:03 |
-| 67 | [レベリング](https://open.spotify.com/track/3mAaDYQQYpws04nkfxGC8T) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:12 |
-| 68 | [でこぼこげーむぱーてぃー](https://open.spotify.com/track/6Wurqa9hoSLHlfpc8rjQNP) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 3:55 |
+| 67 | [でこぼこげーむぱーてぃー](https://open.spotify.com/track/6Wurqa9hoSLHlfpc8rjQNP) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 3:55 |
+| 68 | [レベリング](https://open.spotify.com/track/3mAaDYQQYpws04nkfxGC8T) | [さとみ](https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q), [ころん](https://open.spotify.com/artist/21zena64R6JhAeG6EvvvWQ) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 4:12 |
 | 69 | [パンピじゃないのよッ!!](https://open.spotify.com/track/1nPeAlvdtQz2JcoRC1alaE) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [アスター](https://open.spotify.com/album/4bVrKqe9KlUdqnolJb5f82) | 3:47 |
 | 70 | [犬系男子留守番中](https://open.spotify.com/track/3mHxAkv73HkKcFCxRKHKOx) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:56 |
 | 71 | [希望のチューしよっ](https://open.spotify.com/track/13itvOxVMK2kmSTc3RQKu0) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:49 |

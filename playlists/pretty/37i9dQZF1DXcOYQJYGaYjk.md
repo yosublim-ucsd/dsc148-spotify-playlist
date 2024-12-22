@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,445 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,438 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 28 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 29 | [Pet](https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:34 |
 | 30 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
-| 31 | [Riptide](https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:31 |
-| 32 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
+| 31 | [Genocidal Humanoidz](https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 2:35 |
+| 32 | [Riptide](https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:31 |
 | 33 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
 | 34 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 |
 | 35 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |

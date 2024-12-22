@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,377 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,427 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 |
 | 2 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 |
 | 3 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 |
-| 4 | [Llévate](https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Llévate](https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD) | 3:10 |
-| 5 | [El Envidioso](https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:11 |
+| 4 | [El Envidioso](https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:11 |
+| 5 | [Llévate](https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Llévate](https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD) | 3:10 |
 | 6 | [Se Me Soltó El Hocico](https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 2:55 |
 | 7 | [Yo Soy Rico](https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 2:35 |
 | 8 | [Moños Negros](https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j) | 3:23 |
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 17 | [Mis Raíces](https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:39 |
 | 18 | [El Corrido de Panchito](https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:22 |
 | 19 | [El Mensaje](https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Mensaje](https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv) | 3:13 |
-| 20 | [Somos Arrieros](https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:58 |
-| 21 | [Gracias a Ti](https://open.spotify.com/track/3xYQaGd5f4yX4ceJ2GylKz) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 3:07 |
-| 22 | [El Abuelo](https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 3:07 |
+| 20 | [El Abuelo](https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 3:07 |
+| 21 | [Somos Arrieros](https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:58 |
+| 22 | [Gracias a Ti](https://open.spotify.com/track/3xYQaGd5f4yX4ceJ2GylKz) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 3:07 |
 | 23 | [Nave 727](https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Nave 727](https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy) | 3:16 |
 | 24 | [La Parca](https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Parca](https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG) | 3:13 |
 | 25 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 47 | [Pa' Que No Me Cuenten](https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Pa' Que No Me Cuenten](https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa) | 2:07 |
 | 48 | [Gallo Jugado](https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Gallo Jugado](https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY) | 2:53 |
 | 49 | [Nomas las Mujeres Quedan \- En Vivo](https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 |
-| 50 | [Más de una Razón](https://open.spotify.com/track/252gVdTF9yJpgPi5lT4q92) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Más de una Razón](https://open.spotify.com/album/5PdSIlAXNjO9QW5v2Qt95Z) | 3:18 |
+| 50 | [El Dorado Fue Cobre](https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Dorado Fue Cobre](https://open.spotify.com/album/6QCg0x55bd55x6KzmSLUc4) | 3:20 |
 
-Snapshot ID: `Z2NiAAAAAAA8DoQB1fXVtPaUB6i91VSG`
+Snapshot ID: `Z2SzgAAAAACB4QoD54k+m1HiCkzpHFEh`

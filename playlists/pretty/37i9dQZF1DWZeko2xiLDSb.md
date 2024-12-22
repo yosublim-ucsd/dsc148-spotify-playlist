@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack those long, dark days with warm indie favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,338 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,350 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 50 | [Snowshoes](https://open.spotify.com/track/69BWKQ0qeTnPHdk4lxuLcD) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 3:24 |
 | 51 | [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 |
 | 52 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
-| 53 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 |
-| 54 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
-| 55 | [Bathroom Light](https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:08 |
+| 53 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
+| 54 | [Bathroom Light](https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:08 |
+| 55 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 |
 | 56 | [snowfall \(Sped Up\)](https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Sped Up\)](https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g) | 1:50 |
 | 57 | [Thérèse](https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [MOSS](https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl) | 3:27 |
 | 58 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 87 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
 | 88 | [Just Come Home with Me Tonight](https://open.spotify.com/track/5VekGA6wdqCOtPOyzD91xt) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 4:07 |
 | 89 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
-| 90 | [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 |
-| 91 | [Good Stuff](https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Good Stuff](https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu) | 3:03 |
+| 90 | [Good Stuff](https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Good Stuff](https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu) | 3:03 |
+| 91 | [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 |
 | 92 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 93 | [Buddy's Rendezvous](https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 4:59 |
 | 94 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |

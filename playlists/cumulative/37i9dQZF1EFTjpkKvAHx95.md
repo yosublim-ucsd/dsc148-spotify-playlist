@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-170 songs - 9 hr 10 min
+172 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dolla](https://open.spotify.com/track/3LUa59DK3bfE47WY4M6HnL) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:39 | 2024-10-01 |  |
 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 | 2023-12-30 |  |
 | [Don't Take It Personal](https://open.spotify.com/track/5rwV5yAoPLfIjCZ64jvC2A) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:47 | 2023-12-30 |  |
+| [Drive You Home](https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF) | 3:36 | 2024-12-21 |  |
 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 | 2023-12-30 |  |
 | [Early 2K \(feat\. Tank\)](https://open.spotify.com/track/5ukTyGI2xoGVVvsjlTACEL) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:46 | 2023-12-30 |  |
 | [Ease My Mind \(Come Over\)](https://open.spotify.com/track/6wXDDAl8ZgZainRC5hH6O9) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:46 | 2023-12-30 |  |
@@ -65,6 +66,7 @@
 | [Focus](https://open.spotify.com/track/797eFgfqbDNdvXXqKOl74E) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:16 | 2023-12-30 |  |
 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 | 2023-12-30 |  |
 | [For the Night](https://open.spotify.com/track/7wElwiMmscxXgwUYt9Kxci) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night \(Official Video\)](https://open.spotify.com/album/5FoYl7dDkdQruogblSO6ar) | 3:51 | 2024-01-01 | 2024-01-31 |
+| [Forbidden Fruit](https://open.spotify.com/track/3Ma3fShNScqVDXImAZo7zH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:22 | 2024-12-21 |  |
 | [Forgive Me](https://open.spotify.com/track/0qU3XhIH9xczYPUWV6OopS) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/2HIaUwS0PTUeqFFYHBBGAN) | 2:37 | 2023-12-30 |  |
 | [Gemini Slander](https://open.spotify.com/track/1dduMILdDnevJDX0I9IAhm) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:21 | 2023-12-30 |  |
 | [Good Good](https://open.spotify.com/track/3jK1QRugwuAKAKOrtac7a2) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 4:07 | 2024-02-11 |  |

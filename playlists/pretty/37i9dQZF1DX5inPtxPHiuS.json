@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87126,
+  "num_followers": 87125,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Aunque Pretendas Olvidar",
-        "url": "https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW"
-      },
-      "artists": [
-        {
-          "name": "La Banda del Bisonte",
-          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Aunque Pretendas Olvidar",
-      "url": "https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 240293,
       "name": "Desvanecer",
       "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Aunque Pretendas Olvidar",
+        "url": "https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW"
+      },
+      "artists": [
+        {
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Aunque Pretendas Olvidar",
+      "url": "https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
-      },
-      "artists": [
-        {
-          "name": "La Ramona",
-          "url": "https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW"
-        }
-      ],
-      "duration_ms": 231121,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Pnmt Corrosion",
         "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 210285,
       "name": "Nadie Es Inocente (feat. Dilson Diaz & Nicolai Fella)",
       "url": "https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
+      },
+      "artists": [
+        {
+          "name": "La Ramona",
+          "url": "https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW"
+        }
+      ],
+      "duration_ms": 231121,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -995,18 +995,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Cisne",
-        "url": "https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3"
+        "name": "Tierra",
+        "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
       },
       "artists": [
         {
-          "name": "V for Volume",
-          "url": "https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz"
+          "name": "Mad Tree",
+          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
+        },
+        {
+          "name": "Mateo Par\u00eds",
+          "url": "https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Cisne",
-      "url": "https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g"
+      "duration_ms": 183539,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
     }
   ],
   "unique_name": "Rock Colombia",

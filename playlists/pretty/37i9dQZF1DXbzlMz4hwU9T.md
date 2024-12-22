@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 
 > Seré la gata bajo la lluvia..\. 😿
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,545 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,569 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 7 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 8 | [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 |
 | 9 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 |
-| 10 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
-| 11 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
+| 10 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
+| 11 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 12 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
 | 13 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
 | 14 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 62 | [Áfrika](https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:43 |
 | 63 | [Dead](https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [The Room](https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj) | 4:46 |
 | 64 | [Tiernos](https://open.spotify.com/track/6Turi443kRpSET2JwXXLW8) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Tiernos](https://open.spotify.com/album/5I47XfGh6TwfXjMFTlu10o) | 5:07 |
-| 65 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
-| 66 | [Uncertain Smile](https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 6:51 |
+| 65 | [Uncertain Smile](https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 6:51 |
+| 66 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
 | 67 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
 | 68 | [Tenochtitlán](https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tenochtitlán](https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf) | 4:13 |
 | 69 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 93 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
 | 94 | [Llueve Otra Vez](https://open.spotify.com/track/6eMZqzdvWb7exAWU6VeJzK) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Tríptico \(Vol\. 2\)](https://open.spotify.com/album/3I2lIA10v8E2dHhOme3Xs6) | 4:11 |
 | 95 | [Cielo](https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Salvaje](https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E) | 4:23 |
-| 96 | [J'aime Tes Genoux](https://open.spotify.com/track/0tJQGhWrHSwCHO3MbfmRtV) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Amador](https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0) | 3:59 |
-| 97 | [Fishaman \(feat\. Elkin Robinson\)](https://open.spotify.com/track/3rMqitYF1U4IHqEQjWhmJP) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Fishaman \(feat\. Elkin Robinson\)](https://open.spotify.com/album/2ufI2W5j7rk3S3eCpjbZpV) | 3:37 |
-| 98 | [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 |
-| 99 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 |
+| 96 | [Fishaman \(feat\. Elkin Robinson\)](https://open.spotify.com/track/3rMqitYF1U4IHqEQjWhmJP) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Fishaman \(feat\. Elkin Robinson\)](https://open.spotify.com/album/2ufI2W5j7rk3S3eCpjbZpV) | 3:37 |
+| 97 | [J'aime Tes Genoux](https://open.spotify.com/track/0tJQGhWrHSwCHO3MbfmRtV) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Amador](https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0) | 3:59 |
+| 98 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 |
+| 99 | [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 |
 | 100 | [Canto](https://open.spotify.com/track/5MQDQ5RAkpJrFaQfFdjvt6) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [De Lo Que Nada Fue](https://open.spotify.com/album/36jJyeH1H4X8kYCQXJkE0b) | 4:09 |
 
 Snapshot ID: `ZwQmegAAAADEwCMAdq8fXOz9vUNwgPJt`

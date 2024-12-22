@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 235924,
+  "num_followers": 236075,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -483,30 +483,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH"
-      },
-      "artists": [
-        {
-          "name": "FooR",
-          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        },
-        {
-          "name": "Ashdunn",
-          "url": "https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Style",
         "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 123981,
       "name": "Style",
       "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH"
+      },
+      "artists": [
+        {
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Ashdunn",
+          "url": "https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
-      },
-      "artists": [
-        {
-          "name": "Ashton Adams",
-          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 123241,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "What About The DJ?",
         "url": "https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 280656,
       "name": "Wavelord Bizniz",
       "url": "https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
+      },
+      "artists": [
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 123241,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1179,22 +1179,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
+        "name": "Songs Of Praise",
+        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
       },
       "artists": [
         {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
         }
       ],
-      "duration_ms": 182192,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
+      "duration_ms": 176000,
+      "name": "Songs Of Praise - Radio Edit",
+      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1211,6 +1211,26 @@
       "duration_ms": 222500,
       "name": "IMMACULATE SKANK",
       "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1275,26 +1295,6 @@
       "duration_ms": 174857,
       "name": "Alla Dem Bad",
       "url": "https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Songs Of Praise",
-        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Songs Of Praise - Radio Edit",
-      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
     },
     {
       "added_at": "2024-11-29 00:00:00",

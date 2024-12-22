@@ -4,7 +4,7 @@
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 35 min
+63 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [No Se Ha Dado Cuenta](https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r) | 2:22 | 2022-09-10 |  |
 | [Oh Mi Nena](https://open.spotify.com/track/3CcvrZonEbz9TjM5R3TlM0) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:13 | 2024-01-24 | 2024-10-30 |
 | [Only Fans](https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Only Fans](https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6) | 2:41 | 2023-03-19 |  |
+| [Paloma Azul](https://open.spotify.com/track/0uIv5yEFkxtlvJvr7QUCwI) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 2:10 | 2024-12-22 |  |
 | [Playa Sola](https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:51 | 2022-06-01 |  |
 | [Ponte El Zarape](https://open.spotify.com/track/4gZTC4RXeQMYPINO9geFta) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:03 | 2022-06-01 |  |
 | [Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres](https://open.spotify.com/track/3a7BpZWSfk1QuOG7qaxXoN) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl), [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres](https://open.spotify.com/album/3HSSM7tr8DWdMJpNfj1Ajl) | 10:45 | 2023-12-13 | 2024-10-12 |

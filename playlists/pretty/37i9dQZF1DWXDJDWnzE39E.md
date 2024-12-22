@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,913 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,156 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 3 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 |
 | 4 | [Going Under](https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:34 |
 | 5 | [I Miss the Misery](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:03 |
-| 6 | [Whore](https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:05 |
-| 7 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 |
+| 6 | [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 |
+| 7 | [Whore](https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:05 |
 | 8 | [You're Not Gone, You're Just Dead!](https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [You're Not Gone, You're Just Dead!](https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc) | 2:55 |
 | 9 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 |
 | 10 | [Open Your Eyes](https://open.spotify.com/track/5oxpT46KeiEuckYnChgFFT) | [Guano Apes](https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E) | [Proud Like a God](https://open.spotify.com/album/1N5L209IqXQ6cqV2HFJU4G) | 3:07 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 41 | [Antagonist](https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 3:06 |
 | 42 | [Cry \(feat\. Grimes\)](https://open.spotify.com/track/0w1Wd17IygSVDMOZtKm4hi) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Cry \(feat\. Grimes\)](https://open.spotify.com/album/0osHesMrCdavp471L78uwu) | 2:06 |
 | 43 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 |
-| 44 | [Egregore](https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Egregore](https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt) | 3:03 |
-| 45 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
+| 44 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
+| 45 | [Egregore](https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Egregore](https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt) | 3:03 |
 | 46 | [Orphan Soul](https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [86](https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w) | 4:48 |
 | 47 | [Blood Pigs](https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:03 |
 | 48 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 57 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
 | 58 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 | 59 | [Rise, Rebel, Resist](https://open.spotify.com/track/3mMxXlSR8l73NOlPshFxLm) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Smash The Control Machine](https://open.spotify.com/album/4VeNh83UPws5QEfyfZSUZU) | 3:59 |
-| 60 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
-| 61 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
+| 60 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
+| 61 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
 | 62 | [Paralyzed \(feat\. Attack Attack!\)](https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Paralyzed](https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R) | 3:32 |
 | 63 | [Deceiver, Deceiver](https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceiver, Deceiver](https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO) | 3:51 |
 | 64 | [Play The Greatest Hits](https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:27 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 68 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
 | 69 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
 | 70 | [Paralyzed](https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Paralyzed](https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ) | 3:45 |
-| 71 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 |
-| 72 | [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 |
+| 71 | [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 |
+| 72 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 |
 | 73 | [Sunset over the Empire](https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Sunset over the Empire](https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9) | 4:03 |
 | 74 | [I Hope You Choke](https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [I Hope You Choke](https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6) | 3:27 |
 | 75 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |

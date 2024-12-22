@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Las Pelotas",
-  "num_followers": 144278,
+  "num_followers": 144400,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Me Quedo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
         "name": "Despedazado Por Mil Partes",
         "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 248400,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Me Quedo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP"
     },
     {
       "added_at": "2024-12-17 15:40:09",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
+        "name": "La Renga",
+        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 295773,
+      "name": "Cuando Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 269011,
       "name": "Fuiste lo mejor",
       "url": "https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/0lZLhOrIYSAnMeEICJnYSH"
     },
     {
       "added_at": "2024-12-17 15:40:09",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
-        "name": "La Renga",
-        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         }
       ],
-      "duration_ms": 295773,
-      "name": "Cuando Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+      "duration_ms": 289333,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/0lZLhOrIYSAnMeEICJnYSH"
     },
     {
       "added_at": "2024-12-17 15:40:09",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 254546,
-      "name": "Basta de Llamarme As\u00ed",
-      "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
         "name": "Ac\u00fastico Gran Rex",
         "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 276853,
       "name": "Pasan las Horas - En Vivo Ac\u00fastico",
       "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 254546,
+      "name": "Basta de Llamarme As\u00ed",
+      "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
     },
     {
       "added_at": "2024-12-17 15:40:09",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "A Veces Vuelvo - Acustico",
+      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "A Veces Vuelvo - Acustico",
-      "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
     },
     {
       "added_at": "2024-12-17 15:40:09",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 254882,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
         "name": "Esclavo",
         "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 158066,
       "name": "Hay Momentos",
       "url": "https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 254882,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem"
     },
     {
       "added_at": "2024-12-17 15:40:09",

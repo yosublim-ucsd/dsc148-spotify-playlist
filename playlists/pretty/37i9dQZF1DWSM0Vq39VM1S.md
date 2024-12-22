@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée 🦔
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,556 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,637 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 26 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 |
 | 27 | [My Girl](https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 2:55 |
 | 28 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
-| 29 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
-| 30 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
+| 29 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
+| 30 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 | 31 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 |
 | 32 | [Long Live the \(D\)Evil](https://open.spotify.com/track/7LSQYhyOhooiBpDva8AJaC) | [Moriarty](https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa) | [Epitaph](https://open.spotify.com/album/6Dx95qiRnig7JG4UoZtyFA) | 3:56 |
 | 33 | [Josh Tillman and the Accidental Dose](https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 5:12 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 51 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 |
 | 52 | [3WW](https://open.spotify.com/track/4LabjsmVYy7bI3F6oLIdLn) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/7mQtJGYkOBOSKmDNGLKJiV) | 5:00 |
 | 53 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
-| 54 | [A Man I Know](https://open.spotify.com/track/4Abirka1cnsMtWOMhpwKx5) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [Sometimes Awake](https://open.spotify.com/album/6IH8hFGQ2t5YKTcgNJTy4h) | 3:53 |
-| 55 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
+| 54 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
+| 55 | [A Man I Know](https://open.spotify.com/track/4Abirka1cnsMtWOMhpwKx5) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [Sometimes Awake](https://open.spotify.com/album/6IH8hFGQ2t5YKTcgNJTy4h) | 3:53 |
 | 56 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 |
 | 57 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 |
 | 58 | [amour terrible](https://open.spotify.com/track/64HVywa5meVD6bi9yslXFm) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [amour terrible](https://open.spotify.com/album/4pV5QoopU5eJlIo6tVFynX) | 3:15 |

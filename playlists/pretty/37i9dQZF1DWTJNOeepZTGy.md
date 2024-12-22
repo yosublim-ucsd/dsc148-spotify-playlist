@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,422 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,454 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 20 | [Love No Limit](https://open.spotify.com/track/7gEGhEb1VcCeC6lJWnjI9Z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:59 |
 | 21 | [If This World Were Mine \(with Luther Vandross\)](https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Instant Love \(Expanded Edition\)](https://open.spotify.com/album/61CzGFq3xVWqzpv9YwLYRG) | 5:23 |
 | 22 | [You](https://open.spotify.com/track/4RMIDsxooqjhLIkxhlWzLa) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [The Love Experience](https://open.spotify.com/album/00qCxnQQPsveeZWZaNVWo0) | 5:02 |
-| 23 | [Inside My Love \- Remastered 1993](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
+| 23 | [Stars](https://open.spotify.com/track/1tjt1ZEVVKrih3he8zKWgE) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [Surrender to Love](https://open.spotify.com/album/7jLmyshz30Q8A1MY3sEkGO) | 5:09 |
 | 24 | [Whenever Wherever Whatever \- Remastered 2021](https://open.spotify.com/track/5qUNf2ihX0M4uY1qi9GMRp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 3:45 |
-| 25 | [Stars](https://open.spotify.com/track/1tjt1ZEVVKrih3he8zKWgE) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [Surrender to Love](https://open.spotify.com/album/7jLmyshz30Q8A1MY3sEkGO) | 5:09 |
+| 25 | [Inside My Love \- Remastered 1993](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
 | 26 | [Lately](https://open.spotify.com/track/2931VBrdy0FnvNmjfyRPD9) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Lately](https://open.spotify.com/album/5OUPs3doEKFc9Mm2NGGiwD) | 4:02 |
 | 27 | [How Many Ways](https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:48 |
 | 28 | [Moody's Mood For Love \(I'm In The Mood For Love\)](https://open.spotify.com/track/5BUx7JYJdce2SP3YjYoV03) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Moody](https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M), [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18), [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 4:18 |

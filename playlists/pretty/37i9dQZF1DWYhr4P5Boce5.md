@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,899 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,907 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 39 | [Don't Deserve You](https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:11 |
 | 40 | [Angel](https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:44 |
 | 41 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 |
-| 42 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
-| 43 | [All Of Me](https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Every Falling Tear](https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h) | 4:06 |
-| 44 | [Thankful](https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Thankful](https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq) | 3:29 |
+| 42 | [Thankful](https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Thankful](https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq) | 3:29 |
+| 43 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
+| 44 | [All Of Me](https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Every Falling Tear](https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h) | 4:06 |
 | 45 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
 | 46 | [Look At Love](https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:21 |
 | 47 | [Just Too Good](https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Just Too Good](https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd) | 3:23 |
@@ -86,11 +86,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 76 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Beasley](https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
 | 77 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
 | 78 | [I Love You](https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ) | [Josh and Amberley Klinkenberg](https://open.spotify.com/artist/2cVwMMg1veINODAPNT4RIP) | [Our Love](https://open.spotify.com/album/0ntZH4kGvUW9WvCbCNTw1r) | 5:40 |
-| 79 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 |
-| 80 | [SAFE](https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [SAFE](https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq) | 3:51 |
+| 79 | [SAFE](https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [SAFE](https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq) | 3:51 |
+| 80 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 |
 | 81 | [Remind You](https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [Hymn Logic](https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH) | [For the Soul](https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd) | 3:19 |
-| 82 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
-| 83 | [The One Out The Friendzone \- Kevin Aleksander Remix](https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [The One Out The Friendzone \(Kevin Aleksander Remix\)](https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC) | 3:00 |
+| 82 | [The One Out The Friendzone \- Kevin Aleksander Remix](https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [The One Out The Friendzone \(Kevin Aleksander Remix\)](https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC) | 3:00 |
+| 83 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
 | 84 | [Wait](https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 2:31 |
 | 85 | [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 |
 | 86 | [Me + You = Pi](https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Me + You = Pi](https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p) | 2:49 |

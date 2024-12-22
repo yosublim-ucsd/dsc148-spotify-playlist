@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 118944,
+  "num_followers": 118955,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAAdTQJEv/RMr/hrhxNmjMIA",
+  "snapshot_id": "Z2SzgAAAAAASsWlkkGbvApHdkWQXqEdJ",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 225175,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 241760,
       "name": "Blood",
       "url": "https://open.spotify.com/track/2uOb4zNJahkxtCUNewkY6t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 225175,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 160013,
-      "name": "Mick Jones Nicked My Pudding",
-      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
+      "duration_ms": 231655,
+      "name": "Queen Of Suffolk County",
+      "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Meanest Of Times",
         "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 231655,
-      "name": "Queen Of Suffolk County",
-      "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles Collection Vol. 2",
-        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 158880,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
+      "duration_ms": 179066,
+      "name": "Jimmy Collins' Wake",
+      "url": "https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Jimmy Collins' Wake",
-      "url": "https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Machine Still Kills Fascists (Expanded Edition)",
         "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 169604,
       "name": "All You Fonies",
       "url": "https://open.spotify.com/track/3sU3CRgvbFesquT8W4KqPv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 158880,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest Of Times",
-        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 145346,
-      "name": "Loyal To No One",
-      "url": "https://open.spotify.com/track/1QPDnXVsateLgY8g75jasM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Machine Still Kills Fascists (Expanded Edition)",
         "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 213357,
       "name": "The Last One (feat. Evan Felker of Turnpike Troubadours)",
       "url": "https://open.spotify.com/track/1rWZj9AJHpzT93KDVfl2mK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 145346,
+      "name": "Loyal To No One",
+      "url": "https://open.spotify.com/track/1QPDnXVsateLgY8g75jasM"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

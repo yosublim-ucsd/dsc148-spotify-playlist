@@ -4,12 +4,13 @@
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 27 min
+74 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40 y MM](https://open.spotify.com/track/7DBZjgdH5YHr8CQY5DKDAc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [40 y MM](https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO) | 3:22 | 2023-10-10 | 2023-12-14 |
 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 | 2023-03-24 |  |
+| [Amado Mío](https://open.spotify.com/track/16B4vpVzBCj9muuoxPchlP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:08 | 2024-12-22 |  |
 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 | 2023-12-13 |  |
 | [Amigos Simplemente](https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 | 2023-03-24 |  |
 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 | 2023-03-24 |  |
@@ -42,7 +43,7 @@
 | [Mi Buen Amor](https://open.spotify.com/track/28UP90XhjCovLtieduYr9P) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:47 | 2023-03-24 |  |
 | [No Soy Para Ti](https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:31 | 2023-03-24 |  |
 | [NO+SAD](https://open.spotify.com/track/1hdpMoNDNKvsgosL6c7ywF) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [NO+SAD](https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam) | 2:54 | 2023-11-10 | 2023-12-14 |
-| [NO+SAD](https://open.spotify.com/track/4CbeNOtHNUfy6yaQzlOQ2B) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 2:54 | 2023-12-25 |  |
+| [NO+SAD](https://open.spotify.com/track/4CbeNOtHNUfy6yaQzlOQ2B) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 2:54 | 2023-12-25 | 2024-12-22 |
 | [Obra de Dios](https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Obra de Dios](https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a) | 3:37 | 2024-02-17 | 2024-07-08 |
 | [Paisaje Japonés](https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Paisaje Japonés](https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX) | 3:24 | 2023-03-30 | 2024-07-17 |
 | [Palabras Tristes](https://open.spotify.com/track/1UX1kt5jsniuhSpjIJTFGI) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Así Te Quiero Yo](https://open.spotify.com/album/3gpg9uMXT5gX6AJkeDH4Ok) | 3:51 | 2023-03-24 | 2024-07-24 |

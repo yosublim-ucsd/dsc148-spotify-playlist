@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 121753,
+  "num_followers": 121770,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAABy6QzQjgc7b1p6oI+8I8k9",
+  "snapshot_id": "Z2SzgAAAAAAOYhf739RlPer6Uq8iw29Y",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dean Martin TV Show",
-        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 133186,
-      "name": "The One I Love (Belongs to Somebody Else)",
-      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reprise Rarities (Vol. 5)",
         "url": "https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 90197,
       "name": "Fugue For Tinhorns",
       "url": "https://open.spotify.com/track/25AH3SYPABuo5xXNs1qiRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Dean Martin TV Show",
+        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 133186,
+      "name": "The One I Love (Belongs to Somebody Else)",
+      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(Remember Me) I'm the One That Loves You",
         "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 126906,
       "name": "The Birds and the Bees",
       "url": "https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
       "added_at": null,

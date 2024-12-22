@@ -3649,6 +3649,24 @@
     },
     {
       "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+    },
+    {
+      "album": {
         "name": "The Genuine Articulate",
         "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
@@ -4354,7 +4372,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 117562,
       "name": "Ecstasy (Freestyle)",
       "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"

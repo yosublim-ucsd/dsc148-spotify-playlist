@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,890 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,047 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 47 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 |
 | 48 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 |
 | 49 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
-| 50 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 |
-| 51 | [BODY](https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 2:03 |
+| 50 | [BODY](https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 2:03 |
+| 51 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 |
 | 52 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 |
 | 53 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
 | 54 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
 | 55 | [We Go Up](https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:03 |
 | 56 | [Pink Venom](https://open.spotify.com/track/5P3o95Jf0YBQRQ4j2XPpfC) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv) | 3:06 |
-| 57 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
-| 58 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
+| 57 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
+| 58 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
 | 59 | [POP/STARS](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [POP/STARS](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) | 3:11 |
 | 60 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
 | 61 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 |

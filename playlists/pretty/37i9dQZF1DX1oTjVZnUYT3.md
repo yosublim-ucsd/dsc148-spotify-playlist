@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,404 likes - 57 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,440 likes - 57 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 44 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
 | 45 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
 | 46 | [O Feijão de Dona Neném](https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Um dos Poetas do Samba](https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No) | 3:21 |
-| 47 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
+| 47 | [Lindo Lago Do Amor](https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Bis \(Dois CDs\)](https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq) | 4:09 |
 | 48 | [Na Cadência Do Samba](https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Vamos Pro Mundo](https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k) | 3:29 |
-| 49 | [Lindo Lago Do Amor](https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Bis \(Dois CDs\)](https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq) | 4:09 |
+| 49 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
 | 50 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
 | 51 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
 | 52 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |

@@ -1497,6 +1497,28 @@
     },
     {
       "album": {
+        "name": "S\u00e1lvame",
+        "url": "https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193153,
+      "name": "S\u00e1lvame",
+      "url": "https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1"
+    },
+    {
+      "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
       },

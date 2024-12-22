@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,406 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,423 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 28 | [Mais je t'aime](https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [Mais je t'aime](https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI) | 4:28 |
 | 29 | [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 |
 | 30 | [Je vais t'aimer](https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La vieille](https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm) | 5:27 |
-| 31 | [Comme d'habitude](https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 4:09 |
-| 32 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
+| 31 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
+| 32 | [Comme d'habitude](https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 4:09 |
 | 33 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
 | 34 | [Morgane de toi](https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(Remastered\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 6:12 |
 | 35 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
 | 36 | [10 ans de nous](https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:27 |
 | 37 | [Je sais pas](https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:33 |
-| 38 | [Je t'aime moi non plus](https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Comic Strip](https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG) | 4:28 |
-| 39 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 |
+| 38 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 |
+| 39 | [Je t'aime moi non plus](https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Comic Strip](https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG) | 4:28 |
 | 40 | [Salut les amoureux \- City of New Orleans](https://open.spotify.com/track/2cCtyPE0ZgoW9qWcI8YUvU) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe](https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt) | 4:01 |
 | 41 | [Je suis malade](https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Je Suis Malade](https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0) | 4:09 |
 | 42 | [La Vie en rose](https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 3:07 |

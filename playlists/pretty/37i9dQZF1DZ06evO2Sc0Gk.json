@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19701,
+  "num_followers": 19707,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAD8mI0T4lY1SCa5Rq2hwXsa",
+  "snapshot_id": "Z2SzgAAAAADcE858hV+eglV3hPxTXXtP",
   "tracks": [
     {
       "added_at": null,
@@ -119,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt"
+        "name": "Nobody: The Extended Playlist (Worldwide Remixes)",
+        "url": "https://open.spotify.com/album/1EHqy12UQ5mRrVOOQlzxtY"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 145860,
+      "duration_ms": 146666,
       "name": "Nobody",
-      "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
+      "url": "https://open.spotify.com/track/2hQG5UZ0DZD0lCpq3rwoWx"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 168461,
       "name": "Short Skirt",
       "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Mo-T",
-          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Property",
-      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Business",
-      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See Something",
         "url": "https://open.spotify.com/album/01W43KdTTTYrCzTQPpG52K"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 157219,
       "name": "See Something",
       "url": "https://open.spotify.com/track/0QG6TEF6PwA6HeMDiE6NJb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
     },
     {
       "added_at": null,
@@ -1095,22 +1095,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL"
+        "name": "Marry",
+        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
         },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 153992,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"
+      "duration_ms": 209841,
+      "name": "Marry",
+      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
     }
   ],
   "unique_name": "This Is Mr Eazi",

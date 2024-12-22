@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320 likes - 236 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 236 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 116 | [Cold Hearted II](https://open.spotify.com/track/75ld9n7watXCD0nHnE931J) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 5:01 |
 | 117 | [Charged Up](https://open.spotify.com/track/4pc01CAhGKx15PY23uPjHp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Charged Up](https://open.spotify.com/album/2b3q6C2zmtXRKlk0j4eX4v) | 3:09 |
 | 118 | [Kids](https://open.spotify.com/track/0iUxQW0LRXKHcnur6CGu2c) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/4BmpDhIUZ6x3cdleJkocVq) | 4:30 |
-| 119 | [M.F.T.R.](https://open.spotify.com/track/4eeFwDF1OjhZtvPwhqhcr5) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [King Push – Darkest Before Dawn: The Prelude](https://open.spotify.com/album/4OoNqHBpbgDoqtN3u1IdiC) | 4:07 |
-| 120 | [Friends With Benefits](https://open.spotify.com/track/1zqCcxtHDODySsHnM7lxox) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 5:29 |
+| 119 | [Friends With Benefits](https://open.spotify.com/track/1zqCcxtHDODySsHnM7lxox) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 5:29 |
+| 120 | [M.F.T.R.](https://open.spotify.com/track/4eeFwDF1OjhZtvPwhqhcr5) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [King Push – Darkest Before Dawn: The Prelude](https://open.spotify.com/album/4OoNqHBpbgDoqtN3u1IdiC) | 4:07 |
 | 121 | [Song For No One](https://open.spotify.com/track/2LUOkrWpTz1q5QeZY5jAHi) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 3:11 |
 | 122 | [Handsome](https://open.spotify.com/track/766N0mjf1KzAAYsA1eAJaN) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 2:32 |
 | 123 | [Rolling Papers 2](https://open.spotify.com/track/3Ulh8AlXmYztutPMN59e0s) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 4:22 |
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 188 | [Insecurities](https://open.spotify.com/track/6TptBrPCJpE40HGqdZEqyt) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 4:26 |
 | 189 | [Can You See Me](https://open.spotify.com/track/60qXxZSTxeywlOaQOcvl1H) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:31 |
 | 190 | [Awkward Groove](https://open.spotify.com/track/5AweRwX4JImp2GDZrJuRlG) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6) | [Genesis](https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW) | 2:33 |
-| 191 | [Hamburg](https://open.spotify.com/track/7A4fgIoGHXViGO8aD0TEiH) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Smith & Wesson](https://open.spotify.com/artist/6XIVSItA4ieQMxvkSRG4Rt) | [Late Nights: Europe](https://open.spotify.com/album/7fA1iHkq1YpylDaZewt65w) | 3:26 |
-| 192 | [Love You Like I Do \(feat\. RITTYBO & Jammy\)](https://open.spotify.com/track/0259HVL0Yxn7v8mbDZK2Zo) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [RITTYBO](https://open.spotify.com/artist/7jMC5T6FVLrmlTyvrjp8NJ), [Jammy](https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8) | [The Beautiful & Damned \(Deluxe Edition\)](https://open.spotify.com/album/3MH4gUVIghBW3W6Jr3aWh9) | 3:53 |
+| 191 | [Love You Like I Do \(feat\. RITTYBO & Jammy\)](https://open.spotify.com/track/0259HVL0Yxn7v8mbDZK2Zo) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [RITTYBO](https://open.spotify.com/artist/7jMC5T6FVLrmlTyvrjp8NJ), [Jammy](https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8) | [The Beautiful & Damned \(Deluxe Edition\)](https://open.spotify.com/album/3MH4gUVIghBW3W6Jr3aWh9) | 3:53 |
+| 192 | [Hamburg](https://open.spotify.com/track/7A4fgIoGHXViGO8aD0TEiH) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Smith & Wesson](https://open.spotify.com/artist/6XIVSItA4ieQMxvkSRG4Rt) | [Late Nights: Europe](https://open.spotify.com/album/7fA1iHkq1YpylDaZewt65w) | 3:26 |
 | 193 | [We Alive](https://open.spotify.com/track/4Ir1Dfv018qxVndX1zCiG3) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:03 |
 | 194 | [Always Come Back](https://open.spotify.com/track/4VrYMRno1pW8bQuAtLsfjt) | [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Starrah X Diplo](https://open.spotify.com/album/39q6pRlgy5ZqaTDj1llXR3) | 3:16 |
 | 195 | [Hi, I'm Frank Dukes](https://open.spotify.com/track/0eNA9rbzq1pLOIH8LXrXKa) | [Frank Dukes](https://open.spotify.com/artist/4uDsQAJ5Vx4L6O26kDxPvv) | [The Way of Ging](https://open.spotify.com/album/1ypBhvMLjdGtOP6t6WBg2d) | 1:43 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 235 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 236 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbkrfgAAAAA1h41biV9neCOIPTA0IdBy`
+Snapshot ID: `AbkxHgAAAAABW3rCRd7ukVqtgFJHI4rE`

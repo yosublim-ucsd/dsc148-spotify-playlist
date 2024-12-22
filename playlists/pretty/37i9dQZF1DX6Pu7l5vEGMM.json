@@ -1,6 +1,6 @@
 {
   "description": "what are we?",
-  "num_followers": 526281,
+  "num_followers": 526575,
   "original_name": "situationship",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-12-10 18:41:48",
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 265427,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
+    },
+    {
+      "added_at": "2024-12-10 18:41:48",
+      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-12-10 18:41:48",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 265427,
-      "name": "Summertime Sadness",
-      "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
-    },
-    {
-      "added_at": "2024-12-10 18:41:48",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -711,8 +711,8 @@
     {
       "added_at": "2024-12-10 18:41:48",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 245425,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
     },
     {
       "added_at": "2024-12-10 18:41:48",

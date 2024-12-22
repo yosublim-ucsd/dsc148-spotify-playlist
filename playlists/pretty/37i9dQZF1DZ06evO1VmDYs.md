@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,727 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,765 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 34 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3gEoKDn0uhb9qqLwC16tly) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 4:04 |
 | 35 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 |
 | 36 | [Dope Nose](https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:17 |
-| 37 | [Knockdown Dragout](https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:08 |
+| 37 | [Devotion](https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 3:11 |
 | 38 | [Mr\. Blue Sky](https://open.spotify.com/track/7ptKh9V0xt8CjLn0Z7ZgYd) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 4:46 |
-| 39 | [Devotion](https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 3:11 |
+| 39 | [Knockdown Dragout](https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:08 |
 | 40 | [Keep Fishin'](https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:52 |
-| 41 | [Crab](https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:34 |
+| 41 | [Memories](https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hurley \(Deluxe Edition\)](https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ) | 3:14 |
 | 42 | [Grapes Of Wrath](https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 2:50 |
-| 43 | [Memories](https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hurley \(Deluxe Edition\)](https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ) | 3:14 |
+| 43 | [Crab](https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:34 |
 | 44 | [Thank God for Girls](https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:30 |
-| 45 | [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 |
-| 46 | [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 |
-| 47 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:34 |
+| 45 | [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 |
+| 46 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:34 |
+| 47 | [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 |
 | 48 | [Do You Wanna Get High?](https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:27 |
 | 49 | [Happy Hour](https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 2:57 |
 | 50 | [Waiting On You](https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 4:11 |
 
-Snapshot ID: `Z2NiAAAAAABFvnAZ4G7LlfE+0EAN3IbE`
+Snapshot ID: `Z2SzgAAAAAAZlyPSsyt5fpfe+71NCbQ4`

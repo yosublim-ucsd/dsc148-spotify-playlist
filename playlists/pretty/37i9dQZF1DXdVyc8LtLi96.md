@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,302 likes - 233 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,285 likes - 233 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

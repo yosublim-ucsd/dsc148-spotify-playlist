@@ -4,11 +4,11 @@
 
 > This is Lil Nas X\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 26 min
+33 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 | 2023-07-28 |  |
+| [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 | 2023-07-28 | 2024-12-22 |
 | [Bring U Down](https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:11 | 2023-07-28 |  |
 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 | 2023-07-28 |  |
 | [DOLLA SIGN SLIME \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:25 | 2023-12-17 | 2024-07-21 |
@@ -18,7 +18,8 @@
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-12 | 2024-07-18 |
 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 | 2024-06-30 |  |
 | [HOLIDAY](https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu) | 2:34 | 2023-08-04 |  |
-| [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2023-08-02 |  |
+| [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2023-08-02 | 2024-12-22 |
+| [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2024-12-22 |  |
 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 | 2024-01-13 |  |
 | [Kick It](https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:21 | 2023-07-28 |  |
 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2023-07-28 |  |

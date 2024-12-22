@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 611170,
+  "num_followers": 611168,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 236000,
       "name": "Overcompensate",
       "url": "https://open.spotify.com/track/1LAlLBTGBUO0MDA8IbSysd"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -661,20 +661,20 @@
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
     },
     {
-      "added_at": "2024-10-16 20:32:30",
+      "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
+        "name": "Keep Me Fed",
+        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
       },
       "artists": [
         {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 193887,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Keep Me Fed",
-        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 192734,
-      "name": "S!CK",
-      "url": "https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
+    },
+    {
+      "added_at": "2024-10-16 20:32:30",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 193887,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 163260,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 236933,
       "name": "Typhoons",
       "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Shadow (I'm Breaking Down)",
-        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 218121,
-      "name": "Shadow (I'm Breaking Down)",
-      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Everything's Electric",
         "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Shadow (I'm Breaking Down)",
+        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 218121,
+      "name": "Shadow (I'm Breaking Down)",
+      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Love From The Other Side",
         "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 184391,
       "name": "Human (feat. Barns Courtney)",
       "url": "https://open.spotify.com/track/5jPWuLGRcVDU50pyTCEjQL"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Sex Party",
         "url": "https://open.spotify.com/album/4NgAfTr86rkILEFBkhHZky"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 167225,
       "name": "Sex Party",
       "url": "https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "You're Gonna Get It",
-        "url": "https://open.spotify.com/album/3ndOl8SScHfom5tHpdcZA7"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 169455,
-      "name": "You're Gonna Get It",
-      "url": "https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "I Just Needed You To Know",
         "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "You're Gonna Get It",
+        "url": "https://open.spotify.com/album/3ndOl8SScHfom5tHpdcZA7"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 169455,
+      "name": "You're Gonna Get It",
+      "url": "https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT"
     },
     {
       "added_at": "2024-10-10 16:12:27",

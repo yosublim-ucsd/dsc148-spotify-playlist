@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 7 hr 46 min
+152 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Give Me Your Love](https://open.spotify.com/track/7mRXzK30h0UIuTdYhArwvv) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Give Me Your Love](https://open.spotify.com/album/0DYk6a0d96DBvuZARXjoSg) | 3:21 | 2024-01-29 | 2024-04-27 |
 | [Gut soweit](https://open.spotify.com/track/6gS1Q6jG6BQ5aNvseKZjic) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:21 | 2024-01-29 |  |
 | [Hab ich dich nicht schonmal geseh'n \(Boah Ey\)](https://open.spotify.com/track/6QkjnlPK39IFDmq49J3mIz) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:47 | 2024-01-29 |  |
+| [Hafen](https://open.spotify.com/track/6XDBvvsqjSjVZqckA9IbrF) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Hafen](https://open.spotify.com/album/6UdA5hoe93QV5HJiz7g1Zv) | 2:56 | 2024-12-21 |  |
 | [Happy People \(feat\. Daði Freyr\)](https://open.spotify.com/track/261qBibFuQcBus1rjsmsED) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [2001](https://open.spotify.com/album/6XepuRQQxX2qDlkIuIOnpn) | 3:00 | 2024-01-29 |  |
 | [Heartbeat](https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Heartbeat](https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys) | 3:36 | 2024-01-29 |  |
 | [Heiser vor Glück](https://open.spotify.com/track/056wYEGkzl4j4cAil0Zpdp) | [Christina Stürmer](https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo) | [Überall zu Hause](https://open.spotify.com/album/5XNTweOYD2WWoT0IwVTLsn) | 3:34 | 2024-01-29 |  |

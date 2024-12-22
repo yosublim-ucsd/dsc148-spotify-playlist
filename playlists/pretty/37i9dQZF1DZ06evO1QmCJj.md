@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,016 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,029 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 21 | [LA PRIMAVERA](https://open.spotify.com/track/4cuPBlZB9PBKIyiZAifjU9) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:55 |
 | 22 | [Caramello](https://open.spotify.com/track/1laLs6CGimqWYgwnZelz8H) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Rivoluzione](https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x) | 3:17 |
 | 23 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 |
-| 24 | [MALA SUERTE](https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [MALA SUERTE](https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS) | 3:35 |
-| 25 | [cómo te va?](https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [cómo te va?](https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD) | 3:38 |
+| 24 | [cómo te va?](https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [cómo te va?](https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD) | 3:38 |
+| 25 | [MALA SUERTE](https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [MALA SUERTE](https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS) | 3:35 |
 | 26 | [Toy Story](https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Toy Story](https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj) | 2:59 |
 | 27 | [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 |
 | 28 | [YO TENGO UN NOVIO](https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 50 | [Nada A Nadie](https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:02 |
 | 51 | [Fuerte](https://open.spotify.com/track/3uXGLqSmVher9OpP23ao0G) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:03 |
 
-Snapshot ID: `Z2NiAAAAAAAIsw6ybN2IQXW4QlY9x2i2`
+Snapshot ID: `Z2SzgAAAAAB8XkZRrHS985krnGyhL65/`

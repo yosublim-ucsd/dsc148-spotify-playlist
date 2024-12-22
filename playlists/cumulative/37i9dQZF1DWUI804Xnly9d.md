@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-464 songs - 1 day 2 hr 4 min
+465 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Hold On](https://open.spotify.com/track/3fzr0WQGh0sJEYflCVjyXH) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Starfish](https://open.spotify.com/album/1U83oaOX9s4WfrrzF45shm) | 2:59 | 2023-11-24 | 2024-02-06 |
 | [Honge Hum Kabhi](https://open.spotify.com/track/0yPRCt5GkA3A0yt3NGygXB) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Honge Hum Kabhi](https://open.spotify.com/album/4LFuytxIeNuE2huZ8NZ4gG) | 3:43 | 2024-04-29 | 2024-06-11 |
 | [Hum \(Reprise\)](https://open.spotify.com/track/2v9Sln7HcVBqUNc0zXvtbE) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:28 | 2023-08-04 | 2024-02-10 |
-| [Hum do kabhi](https://open.spotify.com/track/1MUPtJOk8iAPcPTS2KcmU2) | [Somnathan](https://open.spotify.com/artist/3K4ygWBl8SBDTyxCNgNgom) | [Hum do kabhi](https://open.spotify.com/album/0i07X1bVxUbW11DAakvXz9) | 3:21 | 2024-12-06 |  |
+| [Hum do kabhi](https://open.spotify.com/track/1MUPtJOk8iAPcPTS2KcmU2) | [Somnathan](https://open.spotify.com/artist/3K4ygWBl8SBDTyxCNgNgom) | [Hum do kabhi](https://open.spotify.com/album/0i07X1bVxUbW11DAakvXz9) | 3:21 | 2024-12-06 | 2024-12-22 |
 | [Hum Dono](https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v) | 3:41 | 2023-11-28 | 2024-04-01 |
 | [Hum Yun Chale](https://open.spotify.com/track/37NYkKo9phEN8iWLiesBvK) | [MANN CHAUHAN](https://open.spotify.com/artist/0WyHzkinmJ49pV1UbRFNeF), [Dev S Chauhan](https://open.spotify.com/artist/62dn6lr4zmXJY8vVMFm58S) | [Hum Yun Chale](https://open.spotify.com/album/0CFjV3EBk6xQ3kAySqwh1z) | 3:46 | 2024-10-24 |  |
 | [Humnava \(Reprise\)](https://open.spotify.com/track/5soQc8BLjpCkIMScA6bqyf) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Humnava \(Reprise\)](https://open.spotify.com/album/0OnIshfjH5WOWlzcZhcwXw) | 3:42 | 2023-06-23 | 2024-02-10 |
@@ -288,6 +288,7 @@
 | [Meri Jaan](https://open.spotify.com/track/3uilAC3xBH3PclTwcOZLPG) | [Nitin Sharma](https://open.spotify.com/artist/3MJdIBBwnU6bgvdZ5Opq1b), [Swati Marwal](https://open.spotify.com/artist/5AaZWpvlOxpKkBYfBR3PDQ) | [Meri Jaan \- Single](https://open.spotify.com/album/20JpqXx3m3XsWEROa6JCfd) | 3:17 | 2023-05-17 | 2023-06-10 |
 | [Meri Jaan](https://open.spotify.com/track/0VlepsCPuzUblC3ogHFnct) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Meri Jaan](https://open.spotify.com/album/4R9zeNJdQ5HIUeacMzTC42) | 5:33 | 2023-09-21 | 2023-12-14 |
 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 | 2024-10-01 |  |
+| [Miley Ho Jabse Tum](https://open.spotify.com/track/5ntKA7jOftFX3P4DMsMSmM) | [Mohit Pathak](https://open.spotify.com/artist/7JAb5WcSjSHwqFR1Pstmuz) | [Miley Ho Jabse Tum](https://open.spotify.com/album/6x4hATQjmDmL77YB03Xkdq) | 3:33 | 2024-12-21 |  |
 | [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 | 2023-07-25 | 2024-01-05 |
 | [Milke Jana](https://open.spotify.com/track/7wAwgWLLMxigAvV6paLAUN) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/6nqK1OgKuhp2I2fMTqOlz6) | 3:10 | 2024-01-04 | 2024-01-20 |
 | [Mithi Mithi](https://open.spotify.com/track/2tcmfCESqAU2DiPikoeflT) | [SiiD Sehwag](https://open.spotify.com/artist/4t5vmmffsJQtcMDGx84Ryb) | [By My Side](https://open.spotify.com/album/3bdrwdgCQJFtWL15U3IqXQ) | 2:33 | 2024-06-21 | 2024-08-30 |

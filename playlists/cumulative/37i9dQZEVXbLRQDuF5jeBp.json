@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -18362,7 +18362,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -25402,7 +25402,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
       "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
@@ -28644,7 +28644,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
@@ -29038,7 +29038,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -47550,10 +47550,28 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/71GVQPtwzFchmtXK3SjMKa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Please Come Home for Christmas - Single Version; 2018 Remaster",
+      "url": "https://open.spotify.com/track/76oNvdjEIWRE7iLNYNyIrh"
     },
     {
       "album": {
@@ -52690,7 +52708,7 @@
       ],
       "date_added": "2019-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 206066,
       "name": "Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
       "url": "https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO"
@@ -68589,6 +68607,24 @@
     },
     {
       "album": {
+        "name": "We Wish You A Merry Christmas",
+        "url": "https://open.spotify.com/album/4seyLe1WMj53X4MJuFn5Yr"
+      },
+      "artists": [
+        {
+          "name": "The Weavers",
+          "url": "https://open.spotify.com/artist/4E5eAkpbJLO40r8fWNWm6X"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147466,
+      "name": "We Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/5nhwuGvAsR1a3ITEv8SfG6"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -70326,7 +70362,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"

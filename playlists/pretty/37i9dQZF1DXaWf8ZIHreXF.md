@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,154 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,189 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 70 | [Sun Is Shining](https://open.spotify.com/track/4b2tcjrG1qUkSdsqEFP2dB) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:14 |
 | 71 | [Ocean Drive](https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ocean Drive](https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv) | 3:26 |
 | 72 | [Save The World](https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Save The World](https://open.spotify.com/album/728voOLBbJUBgK2vooghcS) | 3:33 |
-| 73 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 |
-| 74 | [Wish You Were Mine \- Radio Edit](https://open.spotify.com/track/412luShbmlgqqgYFStIB1s) | [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Wish You Were Mine](https://open.spotify.com/album/0iAuPLI4L4n6lpv3YGMnWU) | 2:57 |
+| 73 | [Wish You Were Mine \- Radio Edit](https://open.spotify.com/track/412luShbmlgqqgYFStIB1s) | [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Wish You Were Mine](https://open.spotify.com/album/0iAuPLI4L4n6lpv3YGMnWU) | 2:57 |
+| 74 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 |
 | 75 | [I Want You To Know](https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:00 |
 | 76 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
 | 77 | [No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [No Money](https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL) | 3:09 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 94 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
 | 95 | [Party Rock Anthem](https://open.spotify.com/track/4650WGL6InVqP7YN5POqIz) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/6g2Ig47IgyqyatDpj7UpHo) | 4:22 |
 | 96 | [Came Here for Love](https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:23 |
-| 97 | [Raging \(feat\. Kodaline\)](https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:44 |
-| 98 | [Say Something \- Zac Samuel Remix](https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Say Something](https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH) | 3:33 |
+| 97 | [Say Something \- Zac Samuel Remix](https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Say Something](https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH) | 3:33 |
+| 98 | [Raging \(feat\. Kodaline\)](https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:44 |
 | 99 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
 | 100 | [Girls Like \(feat\. Zara Larsson\)](https://open.spotify.com/track/0rHVd8h0cFwgLgPFem6S60) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Girls Like \(feat\. Zara Larsson\)](https://open.spotify.com/album/0EUrNFkbVL5kokjQbzHxl3) | 3:16 |
 

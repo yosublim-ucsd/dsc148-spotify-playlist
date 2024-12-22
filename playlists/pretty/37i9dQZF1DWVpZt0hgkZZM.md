@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,437 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,481 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 24 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 |
 | 25 | [Entre Rejas](https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Rey Sabanero](https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE) | 3:51 |
 | 26 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
-| 27 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 |
-| 28 | [Senta Danada](https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Senta Danada](https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y) | 2:52 |
+| 27 | [Senta Danada](https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Senta Danada](https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y) | 2:52 |
+| 28 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 |
 | 29 | [Boquita de Caramelo](https://open.spotify.com/track/5Q9DJQU4WMNw3BX6DAXMAz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Historia Musical de Rodolfo Con los Hispanos: 40 Éxitos Inolvidables](https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y) | 3:22 |
 | 30 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 |
 | 31 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 33 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
 | 34 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
 | 35 | [La Zenaida](https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:28 |
-| 36 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
-| 37 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 |
+| 36 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 |
+| 37 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
 | 38 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
 | 39 | [Dime Qué Paso](https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:32 |
 | 40 | [Agüita e Coco \- Instrumental](https://open.spotify.com/track/0dwH1sfUCF7U6ZwaU9XoId) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Afrosound](https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q) | 4:03 |

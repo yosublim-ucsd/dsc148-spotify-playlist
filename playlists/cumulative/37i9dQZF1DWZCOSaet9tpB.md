@@ -4,7 +4,7 @@
 
 > Nigeria's hottest tracks\.  Cover: Wizkid
 
-408 songs - 19 hr 41 min
+409 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [AZAMAN](https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DHNcST4gCsrxxDCPgLbPn) | 2:28 | 2024-08-30 |  |
 | [Ba$tard, Don't Be Silly](https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:51 | 2024-06-21 | 2024-08-01 |
 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 | 2023-09-09 | 2024-05-15 |
-| [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 | 2024-08-30 |  |
+| [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 | 2024-08-30 | 2024-12-22 |
 | [Back Outside](https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 | 2024-10-07 | 2024-11-29 |
 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 | 2024-09-30 |  |
 | [Backside](https://open.spotify.com/track/4NG1th0egF9bbKOGUKvca7) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Backside](https://open.spotify.com/album/5fEsoOUMPpfLxmJTNZTYGo) | 2:23 | 2021-12-09 | 2023-03-18 |
@@ -281,6 +281,7 @@
 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 | 2023-11-03 | 2024-05-15 |
 | [Obapluto](https://open.spotify.com/track/2tQMxGMxZIsXez0oVkHg2U) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Pa Monday\-Edo](https://open.spotify.com/artist/1n6avnWlG0KCkrsU6OazAC) | [Planet Pluto](https://open.spotify.com/album/60FVQvMmSfnKLSG8ExQnw6) | 2:50 | 2023-09-26 | 2023-11-22 |
 | [Obapluto \(feat\. Pa Monday\-Edo\)](https://open.spotify.com/track/6TBpPOmLOa1mInpq3PIz6N) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Pa Monday\-Edo](https://open.spotify.com/artist/1n6avnWlG0KCkrsU6OazAC) | [Planet Pluto](https://open.spotify.com/album/0iCqV7WYwbkEDktnkZXkQ0) | 2:50 | 2023-11-17 | 2024-02-23 |
+| [Oblee \(Remix\)](https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Oblee \(Remix\)](https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC) | 2:40 | 2024-12-21 |  |
 | [Ogaranya](https://open.spotify.com/track/3XmvXK6pJRewCn6mAfmsdS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:48 | 2023-09-26 | 2024-04-26 |
 | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 | 2024-07-16 | 2024-10-15 |
 | [Ogo](https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Ogo](https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22) | 2:57 | 2024-05-14 | 2024-05-24 |

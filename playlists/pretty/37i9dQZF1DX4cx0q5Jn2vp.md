@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 
 > yiheeeeeeee
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,333 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,338 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 | 3 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 4 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
 | 5 | [Sa 'Yo Pa Rin Uuwi](https://open.spotify.com/track/1VwtA3bfxNEWjAlCSwXrA7) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Sa 'Yo Pa Rin Uuwi](https://open.spotify.com/album/05GMAbnmxdypLFhlnom1fd) | 3:40 |
-| 6 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
-| 7 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
+| 6 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
+| 7 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 8 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 |
 | 9 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 10 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 |

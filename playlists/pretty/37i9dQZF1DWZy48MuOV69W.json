@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 88970,
+  "num_followers": 89508,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
-      },
-      "artists": [
-        {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "What Are You Doing New Year's Eve",
-      "url": "https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "A Nancy Wilson Christmas",
         "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 237320,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+      },
+      "artists": [
+        {
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "What Are You Doing New Year's Eve",
+      "url": "https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx"
     },
     {
       "added_at": "2024-12-20 08:15:54",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
-      },
-      "artists": [
-        {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        },
-        {
-          "name": "Canterbury Cathedral Girls' Choir",
-          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Rest in Peace",
-      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "It's Christmas Time",
         "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
       },
@@ -611,22 +591,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "The Very Best Time Of Year",
-        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "A Song For Christmas",
-      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/6PPcQRmwhQ4Uo6n2zhPdOT"
       },
@@ -639,6 +603,42 @@
       "duration_ms": 164585,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/5yw9rlqduH5MoLCfGqTGgD"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+      },
+      "artists": [
+        {
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
+        {
+          "name": "Canterbury Cathedral Girls' Choir",
+          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "Rest in Peace",
+      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "The Very Best Time Of Year",
+        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "A Song For Christmas",
+      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
     },
     {
       "added_at": "2024-12-20 08:15:54",
@@ -671,6 +671,22 @@
       "duration_ms": 121573,
       "name": "Love Is a Christmas Rose",
       "url": "https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 158971,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
     },
     {
       "added_at": "2024-12-20 08:15:54",
@@ -739,22 +755,6 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 158971,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
         "name": "Pretty Swingin' Christmas",
         "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
+        "name": "Jazz Christmas",
+        "url": "https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
         "name": "Christmas Music",
         "url": "https://open.spotify.com/album/7HRRSRbyl9q0WS9YLxw1Tq"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
-        "name": "Jazz Christmas",
-        "url": "https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc"
+        "name": "Behold",
+        "url": "https://open.spotify.com/album/58icpaZ35NuKczovWzvZeF"
       },
       "artists": [
         {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl"
+      "duration_ms": 195253,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/2MRpLORsZ2AwJ3nylbUM7U"
     },
     {
       "added_at": "2024-12-20 08:15:54",
@@ -823,22 +839,6 @@
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
-        "name": "Behold",
-        "url": "https://open.spotify.com/album/58icpaZ35NuKczovWzvZeF"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 195253,
-      "name": "What Child Is This",
-      "url": "https://open.spotify.com/track/2MRpLORsZ2AwJ3nylbUM7U"
     },
     {
       "added_at": "2024-12-20 08:15:54",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-12-20 08:15:54",
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/23e53JCxxqZBTz5AO6SjTS"
+    },
+    {
+      "added_at": "2024-12-20 08:15:54",
+      "album": {
         "name": "Jazz Christmas",
         "url": "https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 235560,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0V8QwRbttYen0nSQ3YrbmD"
-    },
-    {
-      "added_at": "2024-12-20 08:15:54",
-      "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "The Secret Of Christmas",
-      "url": "https://open.spotify.com/track/23e53JCxxqZBTz5AO6SjTS"
     },
     {
       "added_at": "2024-12-20 08:15:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: JBEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,158 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,154 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 55 | [Red Flags](https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Red Flags](https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs) | 2:47 |
 | 56 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
 | 57 | [LTC](https://open.spotify.com/track/4fgEnPmto9LJyvJVulYi1f) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 3:01 |
-| 58 | [Because Of You](https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7), [Serena](https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX) | [Because Of You](https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO) | 2:57 |
-| 59 | [The Jam](https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0) | [Stylistic Murder](https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s), [Cam One](https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF) | [The Jam](https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F) | 2:39 |
+| 58 | [The Jam](https://open.spotify.com/track/1gE72i1tFozMD3NoTPmwS0) | [Stylistic Murder](https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s), [Cam One](https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF) | [The Jam](https://open.spotify.com/album/3ZGNOPIogRtIqtAvOXyF5F) | 2:39 |
+| 59 | [Because Of You](https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7), [Serena](https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX) | [Because Of You](https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO) | 2:57 |
 | 60 | [Driscoll](https://open.spotify.com/track/29g7KrjPzgfPqkVfAbZ94U) | [Danny Chaska](https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP), [Graver](https://open.spotify.com/artist/38wcGG4YmXZlt5mbqU2Yxf) | [Driscoll](https://open.spotify.com/album/6kqIn2SlJfoBeXw8t5jUup) | 2:31 |
 | 61 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
 | 62 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 93 | [Berlin Luv](https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [AD North](https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs) | [Berlin Luv](https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU) | 2:20 |
 | 94 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 | 95 | [Venting](https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:40 |
-| 96 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
-| 97 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 |
+| 96 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 |
+| 97 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
 | 98 | [4am](https://open.spotify.com/track/4OSCSOIUKJKvWlHbwXBDah) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/1eQig2V4KTmi0LcUBU1kD9) | 3:13 |
 | 99 | [I Thought I'd Die In Your Arms](https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Thought I'd Die In Your Arms](https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA) | 2:56 |
 | 100 | [Derby To Moston](https://open.spotify.com/track/488gyYhx0kuJzJvMEXtouL) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Derby To Moston](https://open.spotify.com/album/5UfYQjp1OF7Ddqt8L3TNJO) | 3:02 |

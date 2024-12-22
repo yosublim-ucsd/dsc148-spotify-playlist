@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,260 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,327 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 31 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 |
 | 32 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 |
 | 33 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
-| 34 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
-| 35 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 |
+| 34 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 |
+| 35 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
 | 36 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 |
-| 37 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
-| 38 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 |
+| 37 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 |
+| 38 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
 | 39 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
 | 40 | [Better Days](https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Better Days](https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX) | 2:53 |
 | 41 | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue) | 3:22 |

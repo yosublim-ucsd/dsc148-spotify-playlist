@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Sophia Vitória, Fabiana Sinfrônio
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,456 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,469 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o) | 4:17 |
 | 2 | [Redentor \- Ao Vivo](https://open.spotify.com/track/1YffYMKpricZh02Sh5nTMK) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Redentor \(Ao Vivo\)](https://open.spotify.com/album/3dkyvFAOlv1JUz30UPMDx6) | 5:49 |
-| 3 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |
-| 4 | [Santo dos Santos](https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Santo dos Santos](https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk) | 4:38 |
+| 3 | [Santo dos Santos](https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Santo dos Santos](https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk) | 4:38 |
+| 4 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |
 | 5 | [Em Teus Braços Estou Seguro \- Ao Vivo](https://open.spotify.com/track/6lnQGaMwZnAMjqoywLmI1j) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Em Teus Braços Estou Seguro \(Ao Vivo\)](https://open.spotify.com/album/5fgXwUxAWXxByc6ARIzcDk) | 5:04 |
 | 6 | [Tua Presença](https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI) | [Gabi Oliveira](https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Tua Presença](https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ) | 4:29 |
 | 7 | [Só Faz Ajudar](https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Só Faz Ajudar](https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv) | 4:27 |

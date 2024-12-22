@@ -4,7 +4,7 @@
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-141 songs - 7 hr 43 min
+142 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [L'Inverno \(Winter\) Op\. 8 No\. 4 in F minor: II\. Largo](https://open.spotify.com/track/43DdnwOjTLhjC6Xq5J0JzP) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Luka Sulic](https://open.spotify.com/artist/36a1FhGZwPM18t4IkpOkpG), [Luigi Piovano](https://open.spotify.com/artist/02FtWBdhONdXDCU86eop1n), [Archi dell'Accademia di Santa Cecilia](https://open.spotify.com/artist/2Z1E3EShJHqCXVsFF0jdnA) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/4oA9NonjesroQ0m5KNUY2N) | 1:54 | 2019-11-09 |  |
 | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/track/4fwX1pSp1mq9mRara9AekL) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/album/6dEL75aWdP45F8QR5COxHc) | 2:34 | 2023-02-23 |  |
 | [Le clair de lune](https://open.spotify.com/track/4RPNnsMlvnXuh5oSMAvC1m) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Le clair de lune](https://open.spotify.com/album/71nv1eqwlnGmb5GIaNrfPD) | 4:08 | 2021-11-13 |  |
+| [Le trésor \(Piano Version\) \- Radio Edit](https://open.spotify.com/track/3qgQbFCtyYwJuXLKm85WSD) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp), [Jérôme Rebotier](https://open.spotify.com/artist/5LDz41tmX7odOCzOzwuqGd) | [Le trésor \(Piano Version\) \[Radio Edit\]](https://open.spotify.com/album/0J3ohUG3hyunBrtWlV6aya) | 2:42 | 2024-12-21 |  |
 | [Leidenschaft \- Solo Piano Version](https://open.spotify.com/track/1RiDEJxM2CjE29j67pXyIY) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Leidenschaft](https://open.spotify.com/album/2n2052C9GV0PGMeuJntssr) | 1:24 | 2020-03-19 |  |
 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541/3](https://open.spotify.com/track/5CDCkuiTQhiXLLVILc4WCH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Liszt: Piano Works](https://open.spotify.com/album/3ZywfV6j1ZeKAi3uOcJ9f9) | 5:28 | 2022-12-01 |  |
 | [Lily of the Valley](https://open.spotify.com/track/6KnBJZ8OKkCfs11CB9uyRX) | [Eusebius](https://open.spotify.com/artist/1Ug4iFVzMNtcycejiPJeqc) | [Flowers](https://open.spotify.com/album/5RxIvqGsR2rAduArT4a8O2) | 1:30 | 2020-05-06 |  |

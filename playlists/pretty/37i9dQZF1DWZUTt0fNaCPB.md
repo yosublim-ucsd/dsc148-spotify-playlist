@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,550 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,571 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 6 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 |
 | 7 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 8 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
-| 9 | [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:19 |
-| 10 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
+| 9 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
+| 10 | [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:19 |
 | 11 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 |
 | 12 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 |
 | 13 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 |

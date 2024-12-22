@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 
 > Traigo muchas ganas de ir a un bar con temática de rock y cubetazo de $150 varos 🎸🍻🤘🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,775 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,880 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 37 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
 | 38 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 |
 | 39 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
-| 40 | [En algún lugar](https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [El Grito Del Tiempo](https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3) | 3:55 |
-| 41 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
-| 42 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
-| 43 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 |
+| 40 | [Last Nite](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:13 |
+| 41 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 |
+| 42 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
+| 43 | [En algún lugar](https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [El Grito Del Tiempo](https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3) | 3:55 |
 | 44 | [Tu Sin Mi](https://open.spotify.com/track/2cIDetbjLPkhYf4r7z86WH) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Vivi En Do](https://open.spotify.com/album/1nqhr6N5KbIaUbsTXq5WCa) | 4:05 |
 | 45 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 46 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 64 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
 | 65 | [Blue Monday](https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 7:29 |
 | 66 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 |
-| 67 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
-| 68 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
+| 67 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
+| 68 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
 | 69 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 |
 | 70 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 |
 | 71 | [Mentirosa](https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Elefante](https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U) | 4:04 |
@@ -106,14 +106,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 96 | [Gimme Tha Power](https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 4:10 |
 | 97 | [Kilómetros](https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:11 |
 | 98 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 |
-| 99 | [Runaway](https://open.spotify.com/track/2lqFwTECuP5VNUvzzotxWo) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:25 |
-| 100 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
-| 101 | [Manto Estelar](https://open.spotify.com/track/58HfaJinOwdtvIusPS04Im) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Adicion](https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq) | 4:13 |
+| 99 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
+| 100 | [Manto Estelar](https://open.spotify.com/track/58HfaJinOwdtvIusPS04Im) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Adicion](https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq) | 4:13 |
+| 101 | [Runaway](https://open.spotify.com/track/2lqFwTECuP5VNUvzzotxWo) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:25 |
 | 102 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
 | 103 | [Sognare](https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 5:13 |
 | 104 | [Overkill](https://open.spotify.com/track/3iA4foXIFpekwHyma7pRs1) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Cargo](https://open.spotify.com/album/4GDchmJ8oESRJ58cDXvnE0) | 3:49 |
-| 105 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
-| 106 | [La Carencia](https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:33 |
+| 105 | [La Carencia](https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:33 |
+| 106 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 107 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
 | 108 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
 | 109 | [El Microbito](https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Fobia](https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G) | 2:37 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 147 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
 | 148 | [Yo No Me Llamo Javier](https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 4:23 |
 | 149 | [La Rubia y el Demonio](https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:06 |
-| 150 | [La Parte de Adelante](https://open.spotify.com/track/6ccAXgG6HuweRLBXU3amQ5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Calamaro Querido!! Cantando Al Salmón Parte 1](https://open.spotify.com/album/1XLbuOuIevQOETqDpOD6cT) | 4:32 |
+| 150 | [Juegos de Amor](https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl) | [Neón](https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC) | [Rock En Español \- Lo Mejor De Neon](https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8) | 4:19 |
 
 Snapshot ID: `Zv3OWwAAAABosXiGmgkYEnrlQpGnnzNI`

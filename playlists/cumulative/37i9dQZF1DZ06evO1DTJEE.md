@@ -4,7 +4,7 @@
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 48 min
+51 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Hell Of A Way To Go](https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Hell Of A Way To Go](https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf) | 2:46 | 2024-12-21 |  |
 | [Huntin' Land \(feat\. Riley Green\)](https://open.spotify.com/track/6rQvX1oNRAS3p3tyKJpTUl) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 3:01 | 2024-12-21 |  |
 | [I Hope She's Drinkin' Tonight](https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [I Hope She’s Drinkin' Tonight / Get Back Home](https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl) | 3:08 | 2024-12-21 |  |
+| [I Let A Damn Good Woman Leave](https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:32 | 2024-12-22 |  |
 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 | 2024-12-21 |  |
 | [If I Didn’t Wear Boots](https://open.spotify.com/track/2imQgpXrOacGLfgx9nevja) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:00 | 2024-12-21 |  |
 | [If It Wasn’t For Trucks](https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp) | 3:17 | 2024-12-21 |  |
@@ -46,7 +47,7 @@
 | [Same Old Song](https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:08 | 2024-12-21 |  |
 | [She Used to Be Mine \(with Riley Green\)](https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:41 | 2024-12-21 |  |
 | [Stick to My Guns \(feat\. Riley Green\)](https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Mid\-Twenties Crisis](https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8) | 3:05 | 2024-12-21 |  |
-| [That Was Us](https://open.spotify.com/track/10Aj75ID8Rkuq62hUmEsZy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:28 | 2024-12-21 |  |
+| [That Was Us](https://open.spotify.com/track/10Aj75ID8Rkuq62hUmEsZy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:28 | 2024-12-21 | 2024-12-22 |
 | [That's A Mistake](https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 4:17 | 2024-12-21 |  |
 | [That’s What I’ve Been Told](https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:50 | 2024-12-21 |  |
 | [There Was This Girl](https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:14 | 2024-12-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,385 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,528 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 23 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 |
 | 24 | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:30 |
 | 25 | [Coma](https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 2:17 |
-| 26 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
-| 27 | [Grey Gods](https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Grey Gorilla](https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6) | 3:12 |
+| 26 | [Grey Gods](https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Grey Gorilla](https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6) | 3:12 |
+| 27 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
 | 28 | [The Light at the End of the Tunnel for $9.99 a Month](https://open.spotify.com/track/4PaI8I6lpyzCf5WPzn0VeH) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:19 |
 | 29 | [Mount Sinai](https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:25 |
 | 30 | [The Number You Have Dialed Is Not in Service](https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [Audubon](https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:14 |
 | 50 | [Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:24 |
 
-Snapshot ID: `Z2NiAAAAAABXKlBLdzfNK8X/rpqr3il2`
+Snapshot ID: `Z2SzgAAAAADC0RFRJzeRvi0l4pQMUQT7`

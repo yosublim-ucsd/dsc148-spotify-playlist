@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,510 likes - 41 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,537 likes - 41 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 22 | [Set Me Free](https://open.spotify.com/track/5zYHF3UfHJapj3JqaO7gI5) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Set Me Free](https://open.spotify.com/album/2n9QO5z16t7IbdeBxyDXL6) | 3:20 |
 | 23 | [Weather Balloons](https://open.spotify.com/track/1vEQKiq97O295UrKmVpppA) | [your best friend jippy](https://open.spotify.com/artist/2nyEmQWHkN4klNBWnNllLZ), [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4) | [Unidentified Friendly Object](https://open.spotify.com/album/7ieSqUrSWUqCNiKt8rE5Ge) | 1:58 |
 | 24 | [FLOW](https://open.spotify.com/track/1IrfhbQTbH2ikKHxAuBeab) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [FLOW](https://open.spotify.com/album/4ZVDy93t8G2t4LnwIxy6bR) | 1:49 |
-| 25 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 25 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 26 | [Stay Baby](https://open.spotify.com/track/2Ho4QtGcGgxwpti7N8Zsuw) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Stay Baby](https://open.spotify.com/album/6uhWPNR9ImsvLAbMGQG0fn) | 4:19 |
 | 27 | [Rollercoaster](https://open.spotify.com/track/39bnTxZSIoOoz2Gb7Vz0g7) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [Rollercoaster](https://open.spotify.com/album/7DVW3irv9ZATSGLUuHN8WF) | 3:34 |
 | 28 | [Hideout](https://open.spotify.com/track/75icyr7LVGywhd6HpZmV7L) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md), [Austin Marc](https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ) | [Hideout](https://open.spotify.com/album/7oLt5BtCHv2i6Cntmma4za) | 1:21 |

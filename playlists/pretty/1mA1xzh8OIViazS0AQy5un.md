@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 248 likes - 696 songs - 1 day 15 hr 31 min
+[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 248 likes - 697 songs - 1 day 15 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -704,5 +704,6 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 | 694 | [Better](https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 3:49 |
 | 695 | [VILLAIN](https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:19 |
 | 696 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 |
+| 697 | [Virtute the Cat Explains Her Departure](https://open.spotify.com/track/5bil0D8WSuxyGSDLA4LxZK) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reunion Tour](https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr) | 4:08 |
 
-Snapshot ID: `AAACylobZnB2IRKNxMqNw7A6Z9dY89kw`
+Snapshot ID: `AAACy0EkhMLy/pppRkl5y4aCyLdBRO2B`

@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "album": {
         "name": "KAUTION",
         "url": "https://open.spotify.com/album/5pCpOoJ3fVv0FkPfaIl8SW"
       },

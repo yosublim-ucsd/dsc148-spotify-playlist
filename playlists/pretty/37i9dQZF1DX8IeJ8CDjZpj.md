@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > bien inventadas 💅🏼✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,795 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,794 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 12 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
 | 13 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
 | 14 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 |
-| 15 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
-| 16 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 |
+| 15 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 |
+| 16 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
 | 17 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
 | 18 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
 | 19 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 30 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
 | 31 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 32 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
-| 33 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 |
-| 34 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
+| 33 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
+| 34 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 |
 | 35 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
 | 36 | [Mis Ojos Lloran Por Ti](https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 4:55 |
 | 37 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |

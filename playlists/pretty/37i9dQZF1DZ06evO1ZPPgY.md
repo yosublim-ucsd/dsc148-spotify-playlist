@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,301 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,328 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 16 | [Practice What You Preach](https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love Songs](https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE) | 3:59 |
 | 17 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
 | 18 | [Lady, Sweet Lady](https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 5:40 |
-| 19 | [Don't Make Me Wait Too Long](https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 3:19 |
-| 20 | [It's Only Love Doing Its Thing](https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 3:57 |
+| 19 | [It's Only Love Doing Its Thing](https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 3:57 |
+| 20 | [Don't Make Me Wait Too Long](https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 3:19 |
 | 21 | [More Than Anything, You're My Everything](https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 3:04 |
 | 22 | [I Won't Settle For Less Than The Best \(For You Baby\)](https://open.spotify.com/track/10rAFshE2jcncyB0a6f618) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Beware!](https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw) | 4:21 |
 | 23 | [It's Ecstasy When You Lay Down Next To Me](https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 6:57 |
-| 24 | [Slow Jams](https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Portrait](https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 7:30 |
+| 24 | [Love Makin' Music](https://open.spotify.com/track/07w7uThpms6ei8LrcE4son) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 4:59 |
 | 25 | [Just Not Enough](https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 4:21 |
-| 26 | [Love Makin' Music](https://open.spotify.com/track/07w7uThpms6ei8LrcE4son) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 4:59 |
+| 26 | [Slow Jams](https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Portrait](https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 7:30 |
 | 27 | [Oh What A Night For Dancing](https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 3:55 |
 | 28 | [I've Found Someone](https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:40 |
 | 29 | [I Love To Sing The Songs I Sing](https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I Love To Sing The Songs I Sing](https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [Sha La La Means I Love You](https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 7:32 |
 | 50 | [Staying Power](https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 6:10 |
 
-Snapshot ID: `Z2NiAAAAAABR8QmMkEcTbJI1yw4gU8cW`
+Snapshot ID: `Z2SzgAAAAAD3T3x1t1ikb0HDAv7qdczo`

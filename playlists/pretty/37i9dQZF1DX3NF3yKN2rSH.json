@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54142,
+  "num_followers": 54146,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "One Church",
+        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr",
+          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
+        }
+      ],
+      "duration_ms": 399400,
+      "name": "They Didn't Know",
+      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "The Cry: A Live Worship Experience",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 467186,
       "name": "Finished Work - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "One Church",
-        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
-      },
-      "artists": [
-        {
-          "name": "Kurt Carr",
-          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
-        }
-      ],
-      "duration_ms": 399400,
-      "name": "They Didn't Know",
-      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
-      },
-      "artists": [
-        {
-          "name": "Karima",
-          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
-        }
-      ],
-      "duration_ms": 317607,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 237280,
       "name": "Always Jesus",
       "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
+      },
+      "artists": [
+        {
+          "name": "Karima",
+          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
+        }
+      ],
+      "duration_ms": 317607,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "He Paid It All",
+      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Cross Music",
         "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 338354,
       "name": "He Got Up (feat. Dorinda Clark Cole with Sean Tillery & Changed)",
       "url": "https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
-      },
-      "artists": [
-        {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "He Paid It All",
-      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "He Got Up",
+        "url": "https://open.spotify.com/album/6G5FJu3cYMwyPH4cuqU4as"
+      },
+      "artists": [
+        {
+          "name": "Deacon D.A.S.",
+          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
+        },
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 229753,
+      "name": "He Got Up",
+      "url": "https://open.spotify.com/track/1Ycueu5MMATUueY3aziiFj"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "My Tribute",
         "url": "https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 300800,
       "name": "Take Me Back (feat. Kirk Franklin & Kelontae Gavin)",
       "url": "https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "He Got Up",
-        "url": "https://open.spotify.com/album/6G5FJu3cYMwyPH4cuqU4as"
-      },
-      "artists": [
-        {
-          "name": "Deacon D.A.S.",
-          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
-        },
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 229753,
-      "name": "He Got Up",
-      "url": "https://open.spotify.com/track/1Ycueu5MMATUueY3aziiFj"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 297040,
       "name": "Redeemed",
       "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2024-07-02 01:22:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,876 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,880 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 7 | [The Rains of Castamere](https://open.spotify.com/track/0CHvs1UmxA90B2apIpbWCC) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 3:44 |
 | 8 | [Pacific Rim \(feat\. Tom Morello\)](https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Pacific Rim \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gJWChOVkVRgZCK09irLOk) | 4:55 |
 | 9 | [Winter Is Here](https://open.spotify.com/track/3fYO6sRqHy1BdF8EiLGyop) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:54 |
-| 10 | [The Power of Prophecy](https://open.spotify.com/track/3EkwCXyPeH6xGs23tVnJJy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 2:36 |
+| 10 | [The North Remembers](https://open.spotify.com/track/4ASe4ZKyRZi7PTfarkYGww) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:33 |
 | 11 | [Jenny of Oldstones](https://open.spotify.com/track/2YmIcPF20FEaQd8qwTK8zm) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 2:30 |
-| 12 | [The North Remembers](https://open.spotify.com/track/4ASe4ZKyRZi7PTfarkYGww) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:33 |
+| 12 | [The Power of Prophecy](https://open.spotify.com/track/3EkwCXyPeH6xGs23tVnJJy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 2:36 |
 | 13 | [Home](https://open.spotify.com/track/0PmH79CmZR3HCvTukh4Nge) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:30 |
 | 14 | [Main Title Theme \- Westworld](https://open.spotify.com/track/2sw8teIvVMRZKKYD5p795f) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 1:41 |
 | 15 | [The Night King](https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 8:50 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 42 | [See You for What You Are](https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:09 |
 | 43 | [An Impossible Choice](https://open.spotify.com/track/793D3U2TMPyTgwWlY2cDup) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:34 |
 | 44 | [Dracarys](https://open.spotify.com/track/1eW5pYWfahrmseEKvCyoYR) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:53 |
-| 45 | [End a War Before It Begins](https://open.spotify.com/track/5dC6E3UVa4NZK6UahpXtdc) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 2:07 |
-| 46 | [Paint It, Black](https://open.spotify.com/track/6rSVuRt7xl4GsEQv4tphSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:44 |
+| 45 | [Paint It, Black](https://open.spotify.com/track/6rSVuRt7xl4GsEQv4tphSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:44 |
+| 46 | [End a War Before It Begins](https://open.spotify.com/track/5dC6E3UVa4NZK6UahpXtdc) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 2:07 |
 | 47 | [My Watch Has Ended](https://open.spotify.com/track/0SdHiRgv1yZtiPYuRnbUfu) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 2:53 |
 | 48 | [I'm Sorry for Today](https://open.spotify.com/track/44pTmffdO8i0Dl1uvsSzbf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:09 |
 | 49 | [Warcraft](https://open.spotify.com/track/3EGMNVARma3sKEkFpxHOcy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Warcraft \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CAWtwdA53h3WxCk1sdt0r) | 1:58 |
 | 50 | [Shall We Begin?](https://open.spotify.com/track/6Rlybp1JsE3GUjYp5rC0mo) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 1:24 |
 
-Snapshot ID: `Z2NiAAAAAABV4nhMtk5RhH0JOFU3P2+W`
+Snapshot ID: `Z2SzgAAAAAAiGgihLex24Mf+ZhxC5juo`

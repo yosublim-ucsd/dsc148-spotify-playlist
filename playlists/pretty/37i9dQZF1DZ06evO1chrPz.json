@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 201829,
+  "num_followers": 201839,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAABSnvmBonGE7UgD49qpTCvK",
+  "snapshot_id": "Z2SzgAAAAAAs1HZqLnVqM82RraqnnL0X",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 412048,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Will Not Be Shaken",
         "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 415079,
       "name": "Jesus We Love You",
       "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 412048,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Song (Live)",
-        "url": "https://open.spotify.com/album/2CoiZsWzzzWploRHygPDY5"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 336634,
-      "name": "Holy Song - Live",
-      "url": "https://open.spotify.com/track/5G90HfeG2QjmyVfQFQKG5P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 312426,
       "name": "Ten Fe Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Song (Live)",
+        "url": "https://open.spotify.com/album/2CoiZsWzzzWploRHygPDY5"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 336634,
+      "name": "Holy Song - Live",
+      "url": "https://open.spotify.com/track/5G90HfeG2QjmyVfQFQKG5P"
     },
     {
       "added_at": null,

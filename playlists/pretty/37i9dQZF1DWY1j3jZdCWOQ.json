@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 553538,
+  "num_followers": 553589,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "Ocean Avenue",
-        "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
         "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 198333,
       "name": "I'm Just a Kid",
       "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
+        "name": "Ocean Avenue",
+        "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
     },
     {
       "added_at": "2024-12-02 16:21:41",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
+    },
+    {
+      "added_at": "2024-12-02 16:21:41",
+      "album": {
         "name": "TEETH (feat. Diggy Graves)",
         "url": "https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "im so happy",
-      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
-    },
-    {
-      "added_at": "2024-12-02 16:21:41",
-      "album": {
         "name": "FANDOM",
         "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
       },
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-12-02 16:21:41",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 187696,
-      "name": "The News",
-      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
+      "duration_ms": 139146,
+      "name": "im so happy",
+      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
       "added_at": "2024-12-02 16:21:41",

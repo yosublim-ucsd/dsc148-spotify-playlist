@@ -1,6 +1,6 @@
 {
   "description": "The premier alternative melancholia playlist, featuring Julia Jacklin & Faye Webster",
-  "num_followers": 1897379,
+  "num_followers": 1898021,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-11-07 17:20:52",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2024-11-07 17:20:52",
-      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2024-11-07 17:20:52",
       "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
       "artists": [
         {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 228459,
-      "name": "The Bug Collector",
-      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2024-11-07 17:20:52",
@@ -807,6 +791,22 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "added_at": "2024-11-07 17:20:52",
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 228459,
+      "name": "The Bug Collector",
+      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
     },
     {
       "added_at": "2024-11-07 17:20:52",

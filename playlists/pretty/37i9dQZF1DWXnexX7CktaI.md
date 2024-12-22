@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 
 > Still in rotation\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,155,193 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,155,607 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnexX7CktaI.md) - [plain]
 | 25 | [We Might Even Be Falling In Love \(Duet\)](https://open.spotify.com/track/0HVxpNoX99t4EzOZwqO64S) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 1:30 |
 | 26 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 |
 | 27 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
-| 28 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 |
-| 29 | [Pyramids](https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 9:52 |
-| 30 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
-| 31 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
+| 28 | [Pyramids](https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 9:52 |
+| 29 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 |
+| 30 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
+| 31 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 32 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 33 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 |
 | 34 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |

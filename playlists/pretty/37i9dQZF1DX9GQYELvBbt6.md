@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,237 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,247 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
-| 2 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
+| 2 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
 | 3 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 |
 | 4 | [Strawberry](https://open.spotify.com/track/27ieHhhs1OwALnEOWCW0cg) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Strawberry](https://open.spotify.com/album/50aR49caPYVguYU5UjpaqY) | 3:42 |
 | 5 | [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 25 | [萌](https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [萌 \- Single](https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI) | 4:29 |
 | 26 | [ムーンライト](https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ムーンライト](https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l) | 2:59 |
 | 27 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
-| 28 | [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 |
-| 29 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 |
+| 28 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 |
+| 29 | [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 |
 | 30 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
 | 31 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 |
 | 32 | [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 42 | [12:45 \- Stripped](https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [12:45 \(Stripped\)](https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv) | 2:59 |
 | 43 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 |
 | 44 | [クズリ念](https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [虚仮の一念海馬に託す](https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr) | 3:55 |
-| 45 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
-| 46 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 |
-| 47 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
-| 48 | [三文小説](https://open.spotify.com/track/7BMKWT0Vw0EKDELXLvuWCp) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [三文小説](https://open.spotify.com/album/6Q5PZMhX9eKHW2jHSoGF0G) | 4:40 |
-| 49 | [この世界に国が無かったら](https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この世界に国が無かったら](https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut) | 4:19 |
+| 45 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 |
+| 46 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
+| 47 | [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 |
+| 48 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
+| 49 | [三文小説](https://open.spotify.com/track/7BMKWT0Vw0EKDELXLvuWCp) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [三文小説](https://open.spotify.com/album/6Q5PZMhX9eKHW2jHSoGF0G) | 4:40 |
 | 50 | [孤独の音が聞こえる](https://open.spotify.com/track/58b3yoz6divbjfjlroSfOz) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [yeh](https://open.spotify.com/album/1tvg6oby6wPL2m9oJsbj4I) | 4:46 |
 
 Snapshot ID: `Z2OUnQAAAAB6LrjUcIfkyn654vq0S91n`

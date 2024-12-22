@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Alessandra Amoroso
 
-691 songs - 1 day 11 hr 41 min
+692 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [1:1](https://open.spotify.com/track/2lyR4sKecLAbtboEg11ouu) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [1:1](https://open.spotify.com/album/5hrK6UohlHNdzCcdL2ajdu) | 2:23 | 2024-09-19 | 2024-10-11 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 | 2024-12-13 |
 | [2 The Moon](https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [2 The Moon](https://open.spotify.com/album/4jl6uAmBT25q5BtSxz2rRZ) | 3:05 | 2024-06-27 | 2024-07-05 |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-21 |  |
 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 | 2024-07-04 | 2024-07-27 |
 | [7 Trompetas](https://open.spotify.com/track/4ApLAqNEdqMwgF3Y8MRSXj) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [7 Trompetas](https://open.spotify.com/album/5X1KeQjQuhuSdZz0FyxcGg) | 2:49 | 2024-12-19 |  |
 | [7 VITE](https://open.spotify.com/track/6pDgrvVN6USSlstIcw7Quq) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [7 VITE](https://open.spotify.com/album/3gZuVdhfzgmklwURswCnOR) | 3:18 | 2024-12-05 |  |
@@ -40,7 +41,7 @@
 | [ALL MY LOVE \- PNAU x Coldplay](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [ALL MY LOVE \(PNAU x Coldplay\)](https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO) | 3:14 | 2024-11-28 | 2024-12-20 |
 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 | 2024-09-05 | 2024-10-11 |
 | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/track/6LpiHJjO3jkaPyj9eBoqG8) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/album/2Ysar7fUod2JY3fZ6oN7GO) | 2:00 | 2024-08-22 | 2024-09-20 |
-| [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-20 |  |
+| [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 | 2024-12-20 |  |
 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-27 | 2024-07-19 |
 | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 | 2024-09-20 | 2024-10-11 |
 | [Amando si Impara](https://open.spotify.com/track/77vkzThJYBexqFRqn3FklB) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Amando si Impara](https://open.spotify.com/album/5wcAEFRfYOnNIqNZy7b78E) | 3:31 | 2024-10-31 | 2024-11-29 |

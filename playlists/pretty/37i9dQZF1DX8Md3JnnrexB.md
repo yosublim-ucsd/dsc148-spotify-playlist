@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,664 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,676 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 24 | [After All](https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [High Crime](https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs) | 4:19 |
 | 25 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
 | 26 | [Caught Up in the Rapture](https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:10 |
-| 27 | [You Might Need Somebody](https://open.spotify.com/track/57nTGfnZJSytMCCVpM18ND) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:15 |
-| 28 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 |
+| 27 | [Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/3iX0BMs9dX9CsgrHhiB173) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Let Me In Your Life](https://open.spotify.com/album/6Buhu2InRlKvtGC63NU2fC) | 3:28 |
+| 28 | [You Might Need Somebody](https://open.spotify.com/track/57nTGfnZJSytMCCVpM18ND) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:15 |
 | 29 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 |
 | 30 | [We're in This Love Together](https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 3:46 |
 | 31 | [A Change Is Gonna Come \- Mono; 2008 Remaster](https://open.spotify.com/track/2IkM8zrt6Y1F344CNfaDA0) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 4:14 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 33 | [I'M A MAN \- MIDNIGHT VERSION](https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [OLD SONGS, SAME LOVE](https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5) | 2:50 |
 | 34 | [Until You Come Back To Me \- Acoustic Version](https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb) | [Hil St\. Soul](https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J) | [Soul Organic \(20th Anniversary Edition\)](https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI) | 3:08 |
 | 35 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
-| 36 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |
-| 37 | [Ever Changing Times \(feat\. Michael McDonald\)](https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Jewels In The Crown](https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi) | 5:10 |
+| 36 | [Ever Changing Times \(feat\. Michael McDonald\)](https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Jewels In The Crown](https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi) | 5:10 |
+| 37 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |
 | 38 | [When She Was My Girl](https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Tonight](https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i) | 3:26 |
 | 39 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 |
 | 40 | [You Know How to Make Me Feel so Good \(feat\. Sharon Paige\)](https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:16 |

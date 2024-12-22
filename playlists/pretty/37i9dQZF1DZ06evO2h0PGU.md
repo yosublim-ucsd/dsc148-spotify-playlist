@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 
 > This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,904 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,914 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 27 | [Despair](https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:48 |
 | 28 | [Different Today](https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:27 |
 | 29 | [Kiss, Kiss](https://open.spotify.com/track/1mhPIy7YFRXlWTqH2aLdVr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 2:43 |
-| 30 | [Skeletons](https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 5:02 |
+| 30 | [Skeletons](https://open.spotify.com/track/4vMyguvxYgpVfn6m9obaEY) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 5:02 |
 | 31 | [Under The Earth](https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:18 |
 | 32 | [Cold Light](https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 2:15 |
-| 33 | [Honeybear](https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 2:25 |
-| 34 | [Dull Life](https://open.spotify.com/track/1pvlznzPWn4XiPzQzrrdIU) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 4:08 |
+| 33 | [Dull Life](https://open.spotify.com/track/1pvlznzPWn4XiPzQzrrdIU) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 4:08 |
+| 34 | [Honeybear](https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 2:25 |
 | 35 | [Slave](https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:06 |
 | 36 | [Let Me Know](https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Let Me Know + Gold Lion \(Diplo Remix\) + Gold Lion \(Nick Remix\)](https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k) | 3:30 |
 | 37 | [Poor Song](https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 3:04 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 43 | [Wedding Song](https://open.spotify.com/track/0EZELV7AI8v4KF6DErAgge) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:54 |
 | 44 | [Art Star](https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:00 |
 | 45 | [Isis](https://open.spotify.com/track/6EMJFayg2XYkd03FTLiGXi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 4:00 |
-| 46 | [10 x 10](https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:44 |
-| 47 | [Faces](https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 3:32 |
+| 46 | [Shame And Fortune](https://open.spotify.com/track/1G2x0lf3WVY5B1Gut38pSe) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:31 |
+| 47 | [10 x 10](https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:44 |
 | 48 | [Miles Away](https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:20 |
-| 49 | [Rockers To Swallow](https://open.spotify.com/track/2UiapyNBxFVssobcZVuQuL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:10 |
-| 50 | [Our Time](https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 3:23 |
-| 51 | [Mystery Girl](https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:57 |
+| 49 | [Faces](https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 3:32 |
+| 50 | [Rockers To Swallow](https://open.spotify.com/track/2UiapyNBxFVssobcZVuQuL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:10 |
+| 51 | [Our Time](https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 3:23 |
 
-Snapshot ID: `Z2NiAAAAAABZ4WOgTTdV7oEuXrUeILox`
+Snapshot ID: `Z2SzgAAAAABjscmtDjKkNU9F5/V0Q9AR`

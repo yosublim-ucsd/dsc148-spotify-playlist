@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 224558,
+  "num_followers": 224582,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAA1mpVL5UwoZjgwBRFZ7RoF",
+  "snapshot_id": "Z2SzgAAAAAA2lSXIOfIqAMZ1kHn+xa/e",
   "tracks": [
     {
       "added_at": null,
@@ -843,30 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 160876,
-      "name": "Haute (feat. J Balvin & Chris Brown)",
-      "url": "https://open.spotify.com/track/1jlnBQGP2DtSEhMgQaz7a7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sheikh Talk",
         "url": "https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi"
       },
@@ -899,6 +875,30 @@
       "duration_ms": 213400,
       "name": "Girl You Loud",
       "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 160876,
+      "name": "Haute (feat. J Balvin & Chris Brown)",
+      "url": "https://open.spotify.com/track/1jlnBQGP2DtSEhMgQaz7a7"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Careless World: Rise Of The Last King",
-        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 211413,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 286373,
       "name": "Lights Out (feat. Fat Trel)",
       "url": "https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Careless World: Rise Of The Last King",
+        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
     },
     {
       "added_at": null,
@@ -1035,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touch It (Remix)",
-        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Touch It - Remix",
-      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Splash (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 173161,
       "name": "Splash (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     }
   ],
   "unique_name": "This Is Tyga",

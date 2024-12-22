@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo\. Foto: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,013 likes - 75 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,104 likes - 75 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

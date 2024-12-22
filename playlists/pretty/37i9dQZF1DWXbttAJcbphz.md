@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 
 > Celebrating 5 years of "Over It"\. Cover: Summer Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707,222 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,707,449 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 47 | [Awkward](https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:58 |
 | 48 | [Deep](https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:32 |
 | 49 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
-| 50 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
-| 51 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |
+| 50 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |
+| 51 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
 | 52 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 |
 | 53 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 |
 | 54 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 77 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
 | 78 | [Talk \(feat\. Disclosure\)](https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:17 |
 | 79 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 |
-| 80 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
+| 80 | [Planez](https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:00 |
 | 81 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 |
-| 82 | [Planez](https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:00 |
+| 82 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
 | 83 | [D'Evils](https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [November](https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9) | 2:51 |
 | 84 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
 | 85 | [You](https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,189 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,194 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 40 | [Lies Through Lies](https://open.spotify.com/track/3v76GCKeigUO5ZfXcEoGvz) | [Dynamick](https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [Lies Through Lies](https://open.spotify.com/album/0XXpXGj06QJTRNkMB8DIFK) | 2:13 |
 | 41 | [Sinergia](https://open.spotify.com/track/1jAAv68G63cvQJKfwlOqtJ) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Sinergia](https://open.spotify.com/album/4eRkKoh1huliKOC9clcgcv) | 2:48 |
 | 42 | [Molly](https://open.spotify.com/track/1n7TLaImP9HxG4FkfuLmT9) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Molly](https://open.spotify.com/album/14ODkgiFnF1t2ob4e7ygUW) | 3:20 |
-| 43 | [Toda Vez](https://open.spotify.com/track/0mph6rN43tWqDslh0Z73xM) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU), [DANNE](https://open.spotify.com/artist/6Zwiy4J7B6JIcVSeB87riG), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Toda Vez](https://open.spotify.com/album/3tHCfv2q3l464gS1ylbCKR) | 1:38 |
+| 43 | [Toda Vez](https://open.spotify.com/track/0mph6rN43tWqDslh0Z73xM) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU), [DANNE](https://open.spotify.com/artist/6Zwiy4J7B6JIcVSeB87riG), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Toda Vez](https://open.spotify.com/album/3tHCfv2q3l464gS1ylbCKR) | 1:40 |
 | 44 | [Vibe](https://open.spotify.com/track/1B02CC2kZAgs6yPgQH5qpk) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Vibe](https://open.spotify.com/album/4AsPHpiOavaG0a4X8wk85E) | 2:46 |
 | 45 | [Somebody's Watching Me](https://open.spotify.com/track/2kKOqqNxAKrhRak1XzDuI0) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH), [Jeffrey Perez](https://open.spotify.com/artist/0M0mD6mzk00FENHioaP42f) | [Somebody's Watching Me](https://open.spotify.com/album/4a8EGYApAmuJP2U7npRXM9) | 2:23 |
 | 46 | [Never Letting Go](https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Never Letting Go \(feat\. Julia Church\)](https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9) | 2:02 |

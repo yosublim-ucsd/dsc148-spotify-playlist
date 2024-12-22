@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Marc DePulse
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,517 likes - 90 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,672 likes - 90 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Silence](https://open.spotify.com/track/1HyF3a5ggjtcT0BwfpjKUS) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Silence](https://open.spotify.com/album/00OTyJa1Km6fpmsAOH1s3D) | 3:59 |
 | 10 | [More with Less](https://open.spotify.com/track/6ahv81mTrcE6wyRWgKmacK) | [atsou](https://open.spotify.com/artist/6TRgIFqqTDlwIULInhGKoD), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [More with Less](https://open.spotify.com/album/2hhM4ENFo7AdEvJI1Q4gWc) | 3:12 |
 | 11 | [Back in Line \- Radio\-Edit](https://open.spotify.com/track/5aL5Hgt1RnkNrKGx2rPCdP) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Back in Line \(Radio\-Edit\)](https://open.spotify.com/album/5A42C6I5nQOYFxYoMIZAte) | 3:31 |
-| 12 | [Selfish Gods](https://open.spotify.com/track/2zeWODGxRUqjcOImeBGteP) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Selfish Gods](https://open.spotify.com/album/4LMUaQouTpkNOJXDEvvMPe) | 3:57 |
+| 12 | [Selfish Gods](https://open.spotify.com/track/2zeWODGxRUqjcOImeBGteP) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Selfish Gods](https://open.spotify.com/album/4LMUaQouTpkNOJXDEvvMPe) | 3:53 |
 | 13 | [THE ONLY ONE](https://open.spotify.com/track/7HnwMXXAs0t16a8n93Si33) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba), [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [THE ONLY ONE](https://open.spotify.com/album/6j2fkUI3xQ4VB6fuMmCmH8) | 3:50 |
 | 14 | [Jungle Paradise \- Jacob Groening Remix](https://open.spotify.com/track/4dB391fghknjqzTPQ6dPlE) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg), [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Jungle Paradise \(Jacob Groening Remix\)](https://open.spotify.com/album/0KA4JTfoyscxyGvhJPbi3C) | 4:35 |
 | 15 | [Sinfo](https://open.spotify.com/track/7I6WfQpbPrmP4e7kagEsfI) | [Leo Leonski](https://open.spotify.com/artist/2Q4xYVGbSIQoC7rqSA6Huo) | [Sinfo](https://open.spotify.com/album/2MP3nwS1gjt3saNcCtPY5Y) | 5:29 |

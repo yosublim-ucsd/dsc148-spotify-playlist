@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 
 > All your favourite mood boosting bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,092 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,116 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 | 39 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 |
 | 40 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 |
 | 41 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 |
-| 42 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
-| 43 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 42 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 43 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 | 44 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 45 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
 | 46 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |

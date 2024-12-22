@@ -1,13 +1,109 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Dec 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Dec 23:03 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAODgZ4MbBaGEUx7offwcHUzEeQVF/f",
+  "snapshot_id": "AAAOFgqgGUD7LdQUuBst7vZdTxZMMpKG",
   "tracks": [
+    {
+      "added_at": "2024-12-21 09:02:52",
+      "album": {
+        "name": "ChikiBam!",
+        "url": "https://open.spotify.com/album/41FALJCRZHYuaJnBaAlqlN"
+      },
+      "artists": [
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        }
+      ],
+      "duration_ms": 231423,
+      "name": "ChikiBam!",
+      "url": "https://open.spotify.com/track/7LvlyJwsMj9vd8vdJn1CDh"
+    },
+    {
+      "added_at": "2024-12-21 23:03:13",
+      "album": {
+        "name": "TS3",
+        "url": "https://open.spotify.com/album/4uPHXwQukvX8nesUKFiFTO"
+      },
+      "artists": [
+        {
+          "name": "K Suave",
+          "url": "https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "TS3",
+      "url": "https://open.spotify.com/track/3UOkWxI8Dm8j0coa7oE5Pv"
+    },
+    {
+      "added_at": "2024-12-21 23:03:13",
+      "album": {
+        "name": "Come Back To Me (Shadow The Hedgehog Song)",
+        "url": "https://open.spotify.com/album/7xIrUCTT5WTCe5GPayvR44"
+      },
+      "artists": [
+        {
+          "name": "LongestSoloEver",
+          "url": "https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca"
+        },
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        },
+        {
+          "name": "Breeton Boi",
+          "url": "https://open.spotify.com/artist/2Dr2lb79b7I1gj10FI6ljA"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Come Back To Me (Shadow The Hedgehog Song)",
+      "url": "https://open.spotify.com/track/3FLCHzfeXSHKx8sWxYfNeT"
+    },
+    {
+      "added_at": "2024-12-21 09:02:52",
+      "album": {
+        "name": "I Want a Bowl of Ethereal",
+        "url": "https://open.spotify.com/album/4yGTWAirid2wWLVGy22VI9"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "J\u00fbki",
+          "url": "https://open.spotify.com/artist/34077kOsdrnCQJpod7rj5x"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "I Want a Bowl of Ethereal",
+      "url": "https://open.spotify.com/track/32GOP7QKjG8HDHTQWsz7oR"
+    },
+    {
+      "added_at": "2024-12-21 09:02:52",
+      "album": {
+        "name": "Ruler Of My Heart",
+        "url": "https://open.spotify.com/album/1UBjmMBqV73zMWIQkekZlf"
+      },
+      "artists": [
+        {
+          "name": "Yuuna Nini",
+          "url": "https://open.spotify.com/artist/0XD7HkGqGMx0MzsNF7hLVu"
+        }
+      ],
+      "duration_ms": 220149,
+      "name": "Ruler Of My Heart",
+      "url": "https://open.spotify.com/track/7qHfXvdXJkAJjfNV4YfqEZ"
+    },
     {
       "added_at": "2024-12-20 09:03:15",
       "album": {
@@ -211,7 +307,7 @@
     {
       "added_at": "2024-12-20 09:03:15",
       "album": {
-        "name": "All of Me",
+        "name": "All Of Me",
         "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
       },
       "artists": [
@@ -221,13 +317,13 @@
         }
       ],
       "duration_ms": 165038,
-      "name": "All of Me",
+      "name": "All Of Me",
       "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
     },
     {
       "added_at": "2024-12-20 14:03:21",
       "album": {
-        "name": "Mother Theresa",
+        "name": "Mother Teresa",
         "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
       },
       "artists": [
@@ -237,8 +333,24 @@
         }
       ],
       "duration_ms": 179893,
-      "name": "Mother Theresa",
+      "name": "Mother Teresa",
       "url": "https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy"
+    },
+    {
+      "added_at": "2024-12-21 04:02:36",
+      "album": {
+        "name": "Fr!ed",
+        "url": "https://open.spotify.com/album/2ukgA4KYniJVzUj0pO1sGU"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "duration_ms": 142288,
+      "name": "Fr!ed",
+      "url": "https://open.spotify.com/track/5jAqmqobpvY4BDxcdQVoSP"
     },
     {
       "added_at": "2024-12-20 09:03:15",
@@ -373,6 +485,38 @@
       "url": "https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld"
     },
     {
+      "added_at": "2024-12-21 04:02:36",
+      "album": {
+        "name": "Meine Welt",
+        "url": "https://open.spotify.com/album/4rS7DoLqa0rWwpNcbc0Rj3"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "duration_ms": 242462,
+      "name": "Meine Welt",
+      "url": "https://open.spotify.com/track/0F4kkWVeXjXTqe5zp6AJFy"
+    },
+    {
+      "added_at": "2024-12-21 04:02:36",
+      "album": {
+        "name": "Fading Smiles",
+        "url": "https://open.spotify.com/album/4hvJnitTCoX2fcm0dFzPlL"
+      },
+      "artists": [
+        {
+          "name": "Omori",
+          "url": "https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg"
+        }
+      ],
+      "duration_ms": 119560,
+      "name": "Fading Smiles",
+      "url": "https://open.spotify.com/track/202vTdRLcr1OKLUoi8WIFU"
+    },
+    {
       "added_at": "2024-12-20 14:03:21",
       "album": {
         "name": "Achilles",
@@ -487,6 +631,30 @@
       "duration_ms": 186550,
       "name": "Something",
       "url": "https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf"
+    },
+    {
+      "added_at": "2024-12-21 09:02:52",
+      "album": {
+        "name": "Limit",
+        "url": "https://open.spotify.com/album/6qmwWcEkA5ezJncyjfZcqs"
+      },
+      "artists": [
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        },
+        {
+          "name": "Premixm",
+          "url": "https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI"
+        }
+      ],
+      "duration_ms": 210011,
+      "name": "Limit",
+      "url": "https://open.spotify.com/track/41WIvRcs1zDN8tPhwFqCSb"
     },
     {
       "added_at": "2024-12-20 09:03:15",
@@ -605,6 +773,54 @@
       "url": "https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD"
     },
     {
+      "added_at": "2024-12-21 04:02:36",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/0xzEUxhtT3GiwgpxBps7HS"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "River",
+      "url": "https://open.spotify.com/track/4FhqI1mZkKpdAGtCiLIKHh"
+    },
+    {
+      "added_at": "2024-12-21 04:02:36",
+      "album": {
+        "name": "Piano At Parties",
+        "url": "https://open.spotify.com/album/6IHVn8guYhfcRK8H1zfEpj"
+      },
+      "artists": [
+        {
+          "name": "Lily Kincade",
+          "url": "https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Piano At Parties",
+      "url": "https://open.spotify.com/track/0ZRYMH2HDVEcliWjvYuXRq"
+    },
+    {
+      "added_at": "2024-12-21 04:02:36",
+      "album": {
+        "name": "red panda",
+        "url": "https://open.spotify.com/album/641mC5Q1ZDkkiCtIgdGKJT"
+      },
+      "artists": [
+        {
+          "name": "blxty",
+          "url": "https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p"
+        }
+      ],
+      "duration_ms": 120927,
+      "name": "red panda",
+      "url": "https://open.spotify.com/track/18RRqgHdu6OGhDMXuQA99P"
+    },
+    {
       "added_at": "2024-12-20 09:03:15",
       "album": {
         "name": "REINAS",
@@ -667,206 +883,6 @@
       "duration_ms": 241948,
       "name": "Myth",
       "url": "https://open.spotify.com/track/7gejQy4gJderBxIGMjx4dw"
-    },
-    {
-      "added_at": "2024-12-20 09:03:15",
-      "album": {
-        "name": "Te escribo en el cielo",
-        "url": "https://open.spotify.com/album/6XSTsOMXWOWhNNooS6Xzy2"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bun",
-          "url": "https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Te escribo en el cielo",
-      "url": "https://open.spotify.com/track/02E2qDuC6KHMXcA3GvBhOb"
-    },
-    {
-      "added_at": "2024-12-20 09:03:15",
-      "album": {
-        "name": "Me Gustas T\u00fa",
-        "url": "https://open.spotify.com/album/1TYDau4odwWiNbrfDcaEFm"
-      },
-      "artists": [
-        {
-          "name": "K!ngdom",
-          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
-        }
-      ],
-      "duration_ms": 181171,
-      "name": "Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/2oX6BCvuzxnHaRk29dalzg"
-    },
-    {
-      "added_at": "2024-12-20 19:03:12",
-      "album": {
-        "name": "it wounds me when i dare to fly",
-        "url": "https://open.spotify.com/album/78nXBcIz1GxkHVASvqjLD9"
-      },
-      "artists": [
-        {
-          "name": "Eli G",
-          "url": "https://open.spotify.com/artist/7slgZPVvhm6u7yR6H2US5k"
-        }
-      ],
-      "duration_ms": 100034,
-      "name": "it wounds me when i dare to fly",
-      "url": "https://open.spotify.com/track/5agNgdSSNWf4exoOFOddC9"
-    },
-    {
-      "added_at": "2024-12-19 23:02:55",
-      "album": {
-        "name": "Dancing in love",
-        "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Dancing in love",
-      "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
-    },
-    {
-      "added_at": "2024-12-20 04:02:59",
-      "album": {
-        "name": "LA CUEVA",
-        "url": "https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 164318,
-      "name": "LA CUEVA",
-      "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
-    },
-    {
-      "added_at": "2024-12-19 23:02:55",
-      "album": {
-        "name": "Way Of Life",
-        "url": "https://open.spotify.com/album/28BMk3BJu2D0bJJpbgJFoK"
-      },
-      "artists": [
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        }
-      ],
-      "duration_ms": 134948,
-      "name": "Way Of Life",
-      "url": "https://open.spotify.com/track/79yWDXCyR2i09YAmtkX4bZ"
-    },
-    {
-      "added_at": "2024-12-20 04:02:59",
-      "album": {
-        "name": "Tengo Un Pensamiento",
-        "url": "https://open.spotify.com/album/5r96rEUXrojKL6nTWWiQSY"
-      },
-      "artists": [
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
-        }
-      ],
-      "duration_ms": 165677,
-      "name": "Tengo Un Pensamiento",
-      "url": "https://open.spotify.com/track/3S2W0ZX1Cc74sl7ch0ZYQ3"
-    },
-    {
-      "added_at": "2024-12-19 09:03:36",
-      "album": {
-        "name": "\u0414\u0456\u0432\u0447\u0438\u043d\u043e \u043c\u0438\u043b\u0430",
-        "url": "https://open.spotify.com/album/56tumGGNr0xMkgVj6vXbJq"
-      },
-      "artists": [
-        {
-          "name": "Khrystyna Soloviy",
-          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
-        },
-        {
-          "name": "Volodymyr Dantes",
-          "url": "https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E"
-        }
-      ],
-      "duration_ms": 154459,
-      "name": "\u0414\u0456\u0432\u0447\u0438\u043d\u043e \u043c\u0438\u043b\u0430",
-      "url": "https://open.spotify.com/track/03sUnqvewEWPZThMPv2fpx"
-    },
-    {
-      "added_at": "2024-12-20 04:02:59",
-      "album": {
-        "name": "Last Name",
-        "url": "https://open.spotify.com/album/7DYUTwehPLO68ul4LSTq5O"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/2NRXoDCQ8e0NGmGLWqyP1s"
-    },
-    {
-      "added_at": "2024-12-19 14:02:59",
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m"
-    },
-    {
-      "added_at": "2024-12-20 04:02:59",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/3yCGRA8IuVkeH0JcMIUdQa"
-      },
-      "artists": [
-        {
-          "name": "BAK Jay",
-          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
-        }
-      ],
-      "duration_ms": 117995,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/0Rt3LyjjLDpq4nDSG6OTje"
-    },
-    {
-      "added_at": "2024-12-19 23:02:55",
-      "album": {
-        "name": "Gone 2024",
-        "url": "https://open.spotify.com/album/4UbZP8wPSkIq3rG8E5qalB"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 250886,
-      "name": "Gone 2024",
-      "url": "https://open.spotify.com/track/1M1Y6qa5bZfefCGJVXQYfP"
     }
   ],
   "unique_name": "New Singles Now",

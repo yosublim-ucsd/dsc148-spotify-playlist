@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 56241,
+  "num_followers": 56264,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -953,20 +953,28 @@
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Pastor M Tshabalala",
+          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
         }
       ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+      "duration_ms": 556346,
+      "name": "Bamba Mzalwane (Live)",
+      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
     }
   ],
   "unique_name": "Gospel Greatness",

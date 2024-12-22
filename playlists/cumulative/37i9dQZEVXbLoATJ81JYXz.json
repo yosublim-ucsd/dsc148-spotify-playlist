@@ -832,7 +832,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -3924,7 +3924,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -6570,7 +6570,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 219051,
       "name": "Come Whatever, Come What May",
       "url": "https://open.spotify.com/track/7h6dAktpx3MeQMfqN84JBW"
@@ -8326,7 +8326,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 131850,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7HuBqX0G5mJTd8TEiPZ40K"
@@ -11552,7 +11552,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -11570,7 +11570,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/5rgStA2VSw8K6jragj6yBx"
@@ -15539,6 +15539,24 @@
     },
     {
       "album": {
+        "name": "HEAVEN & HELL",
+        "url": "https://open.spotify.com/album/5pdIGSss1h8kNmgWVJsbno"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125478,
+      "name": "HEAVEN & HELL",
+      "url": "https://open.spotify.com/track/6FaMpOVyLVhyf6Fb8QMrhO"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -15984,7 +16002,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 174946,
       "name": "Hey Ho",
       "url": "https://open.spotify.com/track/73bwhA1NxxkBMJAziBgUnX"
@@ -16002,7 +16020,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 174946,
       "name": "Hey Ho (Original Versjon)",
       "url": "https://open.spotify.com/track/1ikAsZ38q8AQ1l7FcOhu5g"
@@ -19670,7 +19688,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 160333,
       "name": "Jul, jul str\u00e5lande jul",
       "url": "https://open.spotify.com/track/33EVpTZhoyQw1mStrZTKfO"
@@ -19688,7 +19706,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 234534,
       "name": "Julen \u00e4r h\u00e4r",
       "url": "https://open.spotify.com/track/2c2TR5vF0vTAgyKUfer5Gb"
@@ -24412,7 +24430,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -24978,7 +24996,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -24996,7 +25014,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -26802,7 +26820,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 251826,
       "name": "O helga natt",
       "url": "https://open.spotify.com/track/0XoGiZY2XtBW5qXB3ZzZOX"
@@ -27008,7 +27026,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 143566,
       "name": "Ole Dole Doff",
       "url": "https://open.spotify.com/track/0Pii5EXqXhPOTcX86zDxaW"
@@ -30650,7 +30668,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -34556,7 +34574,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 134971,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/0wqHIqVLDIRjJqvm8nmiG4"
@@ -38246,7 +38264,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -38264,7 +38282,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

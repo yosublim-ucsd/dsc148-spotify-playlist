@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: JEON SOMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,891 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,978 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 10 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
 | 11 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
 | 12 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
-| 13 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
-| 14 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
+| 13 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
+| 14 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
 | 15 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 |
 | 16 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
 | 17 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 48 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 |
 | 49 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
 | 50 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
-| 51 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
+| 51 | [Feel Special](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 3:26 |
 | 52 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
 | 53 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 |
 | 54 | [Butterfly](https://open.spotify.com/track/3bjg5cbmuwDoS7e2dAWyRG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 3:58 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 57 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 |
 | 58 | [Typa Girl](https://open.spotify.com/track/3BHR1mJOqn2UZyq98YKPgd) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv) | 2:59 |
 | 59 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
-| 60 | [Feel Special](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 3:26 |
+| 60 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 61 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 |
 | 62 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
-| 63 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
-| 64 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
+| 63 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
+| 64 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
 | 65 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
 | 66 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 |
 | 67 | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 |
 | 68 | [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 |
 | 69 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 |
-| 70 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 |
+| 70 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
 
 Snapshot ID: `ZotfBgAAAADGYAHrpn2aAi4eBGrE6VhA`

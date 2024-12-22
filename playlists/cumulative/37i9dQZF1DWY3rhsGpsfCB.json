@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "album": {
         "name": "L.I.T (Lost In Translation)",
         "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 216466,
       "name": "Amini",
       "url": "https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN"
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 134457,
       "name": "Female Intuition",
       "url": "https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R"
@@ -7210,6 +7228,28 @@
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
       "album": {

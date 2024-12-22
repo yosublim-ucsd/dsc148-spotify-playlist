@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,211 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,344 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 87 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 |
 | 88 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 89 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
-| 90 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 |
-| 91 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
+| 90 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
+| 91 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 |
 | 92 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 |
 | 93 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
 | 94 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |

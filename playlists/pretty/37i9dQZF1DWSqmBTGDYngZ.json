@@ -1,6 +1,6 @@
 {
   "description": "Splash and sing-along.",
-  "num_followers": 7614033,
+  "num_followers": 7614104,
   "original_name": "Songs to Sing in the Shower",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -419,38 +419,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
-        "name": "Skyfall",
-        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 286480,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
       },
@@ -467,6 +435,22 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 269560,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 286480,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Me 4 U",
         "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 180565,
       "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1603,22 +1603,18 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "It Ain't Me (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 220780,
-      "name": "It Ain't Me (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
+      "duration_ms": 312360,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
+        "name": "It Ain't Me (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 312360,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
+      "duration_ms": 220780,
+      "name": "It Ain't Me (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 258786,
-      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
-      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Wheatus",
         "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 241666,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 262466,
-      "name": "Bleeding Love",
-      "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "duration_ms": 262466,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Funhouse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Everything Is 4",
         "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
       },
@@ -2407,6 +2391,22 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
@@ -2419,6 +2419,26 @@
       "duration_ms": 204013,
       "name": "Fight Song",
       "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "You're The One That I Want - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2491,42 +2511,18 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
       "artists": [
         {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         }
       ],
-      "duration_ms": 169840,
-      "name": "You're The One That I Want - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2547,18 +2543,22 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -2739,22 +2739,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Who You Are (Platinum Edition)",
         "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
       },
@@ -2771,6 +2755,22 @@
       "duration_ms": 223053,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -3007,26 +3007,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Dangerous Levels of Introspection",
-        "url": "https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "If the World Was Ending (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Eastside (with Halsey & Khalid)",
         "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
       },
@@ -3047,6 +3027,26 @@
       "duration_ms": 173799,
       "name": "Eastside (with Halsey & Khalid)",
       "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Dangerous Levels of Introspection",
+        "url": "https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "If the World Was Ending (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -3091,22 +3091,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
       },
@@ -3119,6 +3103,22 @@
       "duration_ms": 235493,
       "name": "Only Girl (In The World)",
       "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
     },
     {
       "added_at": "2024-10-11 16:21:11",
@@ -3159,22 +3159,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Love Stuff",
-        "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Ex's & Oh's",
-      "url": "https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Dancing With A Stranger (with Normani)",
         "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
       },
@@ -3195,22 +3179,6 @@
     {
       "added_at": "2024-10-11 16:21:11",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
-    },
-    {
-      "added_at": "2024-10-11 16:21:11",
-      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
       },
@@ -3223,6 +3191,38 @@
       "duration_ms": 243533,
       "name": "S&M",
       "url": "https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Love Stuff",
+        "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Ex's & Oh's",
+      "url": "https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH"
+    },
+    {
+      "added_at": "2024-10-11 16:21:11",
+      "album": {
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
     },
     {
       "added_at": "2024-10-11 16:21:11",

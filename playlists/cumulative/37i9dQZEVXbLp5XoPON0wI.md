@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- USA.
 
-417 songs - 23 hr 6 min
+418 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Chloe or Sam or Sophia or Marcus](https://open.spotify.com/track/1rmEsOezwf2lmIZTMAO5Ag) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:33 | 2024-04-26 | 2024-05-04 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 2:46 | 2024-12-13 |  |
 | [Christmas Child](https://open.spotify.com/track/21KeYjejBCDNNNyxtIP5pt) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [A Holly Jolly Christmas](https://open.spotify.com/album/0fAVpoXu7aJFu1wBIL9qhL) | 2:50 | 2024-12-20 |  |
-| [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 | 2024-12-20 |  |
+| [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 | 2024-12-20 | 2024-12-22 |
+| [Christmas Time Is Here \- Vocal](https://open.spotify.com/track/06Pfxmp9TtC2H00apclouT) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:46 | 2024-12-20 |  |
 | [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 | 2024-03-29 | 2024-04-27 |
 | [Clara Bow](https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:36 | 2024-04-26 | 2024-05-11 |
 | [Claustrophobic](https://open.spotify.com/track/57ELn9TPDIhrpl0dasS465) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:42 | 2024-03-29 | 2024-04-06 |

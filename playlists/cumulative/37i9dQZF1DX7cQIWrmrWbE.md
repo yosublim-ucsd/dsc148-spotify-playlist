@@ -4,7 +4,7 @@
 
 > Las canciones que suenan en todas partes están aquí 🔥  🎧
 
-151 songs - 8 hr 32 min
+152 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [CLASSY 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CLASSY 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-05-09 |  |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2023-05-09 | 2024-06-25 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-12-30 | 2023-05-10 |
+| [Coqueta](https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Coqueta](https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm) | 3:55 | 2024-12-05 |  |
 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 | 2024-12-05 |  |
 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 | 2024-06-24 | 2024-12-06 |
 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2022-12-30 | 2024-03-05 |
@@ -132,7 +133,7 @@
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2022-12-30 | 2023-11-23 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-12-30 | 2023-05-10 |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2022-12-30 | 2023-05-10 |
-| [TATTOO](https://open.spotify.com/track/0uK4qOvijuVKXgieyScZ04) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [TATTOO](https://open.spotify.com/album/7Ht7cK6rfhcfTa78K0veYh) | 3:34 | 2024-12-05 |  |
+| [TATTOO](https://open.spotify.com/track/0uK4qOvijuVKXgieyScZ04) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [TATTOO](https://open.spotify.com/album/7Ht7cK6rfhcfTa78K0veYh) | 3:34 | 2024-12-05 | 2024-12-22 |
 | [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 | 2024-06-24 | 2024-12-06 |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2022-12-30 |  |
 | [Todo De Ti](https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:19 | 2022-12-30 | 2023-09-12 |

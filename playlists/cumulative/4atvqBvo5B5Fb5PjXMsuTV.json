@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Dec 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Dec 23:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2841,7 +2841,7 @@
     },
     {
       "album": {
-        "name": "All of Me",
+        "name": "All Of Me",
         "url": "https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8"
       },
       "artists": [
@@ -2854,7 +2854,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165038,
-      "name": "All of Me",
+      "name": "All Of Me",
       "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
     },
     {
@@ -11967,6 +11967,24 @@
     },
     {
       "album": {
+        "name": "ChikiBam!",
+        "url": "https://open.spotify.com/album/41FALJCRZHYuaJnBaAlqlN"
+      },
+      "artists": [
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231423,
+      "name": "ChikiBam!",
+      "url": "https://open.spotify.com/track/7LvlyJwsMj9vd8vdJn1CDh"
+    },
+    {
+      "album": {
         "name": "Child Medallion",
         "url": "https://open.spotify.com/album/3vqzga4ofWukw8yuvd8dOj"
       },
@@ -13034,6 +13052,32 @@
       "duration_ms": 388960,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM"
+    },
+    {
+      "album": {
+        "name": "Come Back To Me (Shadow The Hedgehog Song)",
+        "url": "https://open.spotify.com/album/7xIrUCTT5WTCe5GPayvR44"
+      },
+      "artists": [
+        {
+          "name": "LongestSoloEver",
+          "url": "https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca"
+        },
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        },
+        {
+          "name": "Breeton Boi",
+          "url": "https://open.spotify.com/artist/2Dr2lb79b7I1gj10FI6ljA"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Come Back To Me (Shadow The Hedgehog Song)",
+      "url": "https://open.spotify.com/track/3FLCHzfeXSHKx8sWxYfNeT"
     },
     {
       "album": {
@@ -14920,7 +14964,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 156937,
       "name": "Dancing in love",
       "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
@@ -20605,6 +20649,24 @@
     },
     {
       "album": {
+        "name": "Fading Smiles",
+        "url": "https://open.spotify.com/album/4hvJnitTCoX2fcm0dFzPlL"
+      },
+      "artists": [
+        {
+          "name": "Omori",
+          "url": "https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119560,
+      "name": "Fading Smiles",
+      "url": "https://open.spotify.com/track/202vTdRLcr1OKLUoi8WIFU"
+    },
+    {
+      "album": {
         "name": "Failstate",
         "url": "https://open.spotify.com/album/6FrjXIoevSDuqDYvuxvGkT"
       },
@@ -23297,6 +23359,24 @@
     },
     {
       "album": {
+        "name": "Fr!ed",
+        "url": "https://open.spotify.com/album/2ukgA4KYniJVzUj0pO1sGU"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142288,
+      "name": "Fr!ed",
+      "url": "https://open.spotify.com/track/5jAqmqobpvY4BDxcdQVoSP"
+    },
+    {
+      "album": {
         "name": "Fragile Eyes",
         "url": "https://open.spotify.com/album/6ctmeqpjwk8ErkpDXDy4m1"
       },
@@ -25828,7 +25908,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 250886,
       "name": "Gone 2024",
       "url": "https://open.spotify.com/track/1M1Y6qa5bZfefCGJVXQYfP"
@@ -31185,6 +31265,32 @@
     },
     {
       "album": {
+        "name": "I Want a Bowl of Ethereal",
+        "url": "https://open.spotify.com/album/4yGTWAirid2wWLVGy22VI9"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "J\u00fbki",
+          "url": "https://open.spotify.com/artist/34077kOsdrnCQJpod7rj5x"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "I Want a Bowl of Ethereal",
+      "url": "https://open.spotify.com/track/32GOP7QKjG8HDHTQWsz7oR"
+    },
+    {
+      "album": {
         "name": "I Want Loyalty",
         "url": "https://open.spotify.com/album/0U81uIoBMEBK84mn6FAAVP"
       },
@@ -33196,7 +33302,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 100034,
       "name": "it wounds me when i dare to fly",
       "url": "https://open.spotify.com/track/5agNgdSSNWf4exoOFOddC9"
@@ -35400,7 +35506,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 164318,
       "name": "LA CUEVA",
       "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
@@ -35714,7 +35820,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 227400,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/2NRXoDCQ8e0NGmGLWqyP1s"
@@ -37068,6 +37174,32 @@
       "duration_ms": 146735,
       "name": "LIMERENCE",
       "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
+    },
+    {
+      "album": {
+        "name": "Limit",
+        "url": "https://open.spotify.com/album/6qmwWcEkA5ezJncyjfZcqs"
+      },
+      "artists": [
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        },
+        {
+          "name": "Premixm",
+          "url": "https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210011,
+      "name": "Limit",
+      "url": "https://open.spotify.com/track/41WIvRcs1zDN8tPhwFqCSb"
     },
     {
       "album": {
@@ -39996,7 +40128,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 181171,
       "name": "Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/2oX6BCvuzxnHaRk29dalzg"
@@ -40162,6 +40294,24 @@
       "duration_ms": 95660,
       "name": "Meet TAF",
       "url": "https://open.spotify.com/track/2W0mnOPky3VwggPv7vppZV"
+    },
+    {
+      "album": {
+        "name": "Meine Welt",
+        "url": "https://open.spotify.com/album/4rS7DoLqa0rWwpNcbc0Rj3"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242462,
+      "name": "Meine Welt",
+      "url": "https://open.spotify.com/track/0F4kkWVeXjXTqe5zp6AJFy"
     },
     {
       "album": {
@@ -41679,7 +41829,7 @@
     },
     {
       "album": {
-        "name": "Mother Theresa",
+        "name": "Mother Teresa",
         "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
       },
       "artists": [
@@ -41692,7 +41842,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179893,
-      "name": "Mother Theresa",
+      "name": "Mother Teresa",
       "url": "https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy"
     },
     {
@@ -43342,7 +43492,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 199613,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m"
@@ -48239,6 +48389,24 @@
     },
     {
       "album": {
+        "name": "Piano At Parties",
+        "url": "https://open.spotify.com/album/6IHVn8guYhfcRK8H1zfEpj"
+      },
+      "artists": [
+        {
+          "name": "Lily Kincade",
+          "url": "https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250360,
+      "name": "Piano At Parties",
+      "url": "https://open.spotify.com/track/0ZRYMH2HDVEcliWjvYuXRq"
+    },
+    {
+      "album": {
         "name": "Piece By Piece",
         "url": "https://open.spotify.com/album/3RNrlAvXWiF75OZgBqpbQc"
       },
@@ -51379,6 +51547,24 @@
     },
     {
       "album": {
+        "name": "red panda",
+        "url": "https://open.spotify.com/album/641mC5Q1ZDkkiCtIgdGKJT"
+      },
+      "artists": [
+        {
+          "name": "blxty",
+          "url": "https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120927,
+      "name": "red panda",
+      "url": "https://open.spotify.com/track/18RRqgHdu6OGhDMXuQA99P"
+    },
+    {
+      "album": {
         "name": "Redshift",
         "url": "https://open.spotify.com/album/1H4dtkYGscdjYNjPTjFVEY"
       },
@@ -52325,6 +52511,24 @@
     },
     {
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/0xzEUxhtT3GiwgpxBps7HS"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "River",
+      "url": "https://open.spotify.com/track/4FhqI1mZkKpdAGtCiLIKHh"
+    },
+    {
+      "album": {
         "name": "RIZZ",
         "url": "https://open.spotify.com/album/639X1kE2s1ZD2dmhihOWLr"
       },
@@ -52856,6 +53060,24 @@
       "duration_ms": 200000,
       "name": "Rugby Child",
       "url": "https://open.spotify.com/track/2TONYHpb0Jwa5UtTpFsNn6"
+    },
+    {
+      "album": {
+        "name": "Ruler Of My Heart",
+        "url": "https://open.spotify.com/album/1UBjmMBqV73zMWIQkekZlf"
+      },
+      "artists": [
+        {
+          "name": "Yuuna Nini",
+          "url": "https://open.spotify.com/artist/0XD7HkGqGMx0MzsNF7hLVu"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220149,
+      "name": "Ruler Of My Heart",
+      "url": "https://open.spotify.com/track/7qHfXvdXJkAJjfNV4YfqEZ"
     },
     {
       "album": {
@@ -53752,7 +53974,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 117995,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0Rt3LyjjLDpq4nDSG6OTje"
@@ -61426,7 +61648,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 180000,
       "name": "Te escribo en el cielo",
       "url": "https://open.spotify.com/track/02E2qDuC6KHMXcA3GvBhOb"
@@ -61806,7 +62028,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 165677,
       "name": "Tengo Un Pensamiento",
       "url": "https://open.spotify.com/track/3S2W0ZX1Cc74sl7ch0ZYQ3"
@@ -66259,6 +66481,24 @@
     },
     {
       "album": {
+        "name": "TS3",
+        "url": "https://open.spotify.com/album/4uPHXwQukvX8nesUKFiFTO"
+      },
+      "artists": [
+        {
+          "name": "K Suave",
+          "url": "https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189101,
+      "name": "TS3",
+      "url": "https://open.spotify.com/track/3UOkWxI8Dm8j0coa7oE5Pv"
+    },
+    {
+      "album": {
         "name": "Tsuki (Lunatic)",
         "url": "https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc"
       },
@@ -68934,7 +69174,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 134948,
       "name": "Way Of Life",
       "url": "https://open.spotify.com/track/79yWDXCyR2i09YAmtkX4bZ"
@@ -73094,7 +73334,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 154459,
       "name": "\u0414\u0456\u0432\u0447\u0438\u043d\u043e \u043c\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/03sUnqvewEWPZThMPv2fpx"

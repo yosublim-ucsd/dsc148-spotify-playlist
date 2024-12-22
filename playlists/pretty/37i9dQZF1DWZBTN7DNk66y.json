@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Lisandro Aristimu\u00f1o.",
-  "num_followers": 26309,
+  "num_followers": 26322,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Sampa",
-        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
       },
       "artists": [
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        },
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
         }
       ],
-      "duration_ms": 269540,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
+      "duration_ms": 180316,
+      "name": "Tu bebotear",
+      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -667,18 +663,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
+        "name": "Sampa",
+        "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
       },
       "artists": [
         {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
         }
       ],
-      "duration_ms": 180316,
-      "name": "Tu bebotear",
-      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
+      "duration_ms": 269540,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -891,30 +891,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Luna Llena de Fuego",
-        "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
+        "name": "Los Ojos del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
       },
       "artists": [
         {
-          "name": "Milagros",
-          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
-        },
-        {
-          "name": "Luana Mendez",
-          "url": "https://open.spotify.com/artist/4EsoEMF4MR3LrFzsQFxzGK"
-        },
-        {
-          "name": "YOGAROCK",
-          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
-        },
-        {
-          "name": "Hugo Fattoruso",
-          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+          "name": "Elizabeth Morris",
+          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
         }
       ],
-      "duration_ms": 161875,
-      "name": "Luna Llena de Fuego",
-      "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
+      "duration_ms": 231038,
+      "name": "Barquito de Papel",
+      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -951,18 +939,30 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Los Ojos del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
+        "name": "Luna Llena de Fuego",
+        "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
       },
       "artists": [
         {
-          "name": "Elizabeth Morris",
-          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "Luana Mendez",
+          "url": "https://open.spotify.com/artist/4EsoEMF4MR3LrFzsQFxzGK"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
+        },
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
         }
       ],
-      "duration_ms": 231038,
-      "name": "Barquito de Papel",
-      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
+      "duration_ms": 161875,
+      "name": "Luna Llena de Fuego",
+      "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Cantor",
-        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
-      },
-      "artists": [
-        {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        }
-      ],
-      "duration_ms": 211719,
-      "name": "Cantor",
-      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Lo cant\u00e9",
         "url": "https://open.spotify.com/album/4b18Wx3C2GUF9LFlfIUo0e"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 151564,
       "name": "Si Me Voy Antes Que Vos",
       "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Cantor",
+        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 211719,
+      "name": "Cantor",
+      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Eufemismos",
-        "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        },
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 165348,
-      "name": "Eufemismos",
-      "url": "https://open.spotify.com/track/7IoVTtXW1XwgEhMKoQPBxK"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Las Mareas",
         "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 194085,
       "name": "Agua",
       "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Eufemismos",
+        "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 165348,
+      "name": "Eufemismos",
+      "url": "https://open.spotify.com/track/7IoVTtXW1XwgEhMKoQPBxK"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "As\u00ed Sea",
+        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 216766,
+      "name": "As\u00ed Sea",
+      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Canta a V\u00edctor Jara",
         "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
       },
@@ -1583,42 +1603,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "As\u00ed Sea",
-        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 216766,
-      "name": "As\u00ed Sea",
-      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 217169,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Llamando",
         "url": "https://open.spotify.com/album/1gS7zOKufSC1rj29Q9eBPD"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 343498,
       "name": "Llamando",
       "url": "https://open.spotify.com/track/5qnfj8NLkjVaNO2eDWqt4C"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 217169,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Sexo y Sushi",
-        "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        },
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 172842,
-      "name": "Sexo y Sushi",
-      "url": "https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Hunde",
         "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
       },
@@ -1727,18 +1707,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
+        "name": "Sexo y Sushi",
+        "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
       },
       "artists": [
         {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        },
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
         }
       ],
-      "duration_ms": 222006,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
+      "duration_ms": 172842,
+      "name": "Sexo y Sushi",
+      "url": "https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Desde mi Ata\u00fad",
-        "url": "https://open.spotify.com/album/2FhoVZfdsIc2MyQ2s523Lr"
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
       },
       "artists": [
         {
-          "name": "Seba Alfaro",
-          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
         }
       ],
-      "duration_ms": 198668,
-      "name": "Desde mi Ata\u00fad",
-      "url": "https://open.spotify.com/track/5cU3OjaNhvOsGeSzeEUi0x"
+      "duration_ms": 222006,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1795,6 +1779,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Desde mi Ata\u00fad",
+        "url": "https://open.spotify.com/album/2FhoVZfdsIc2MyQ2s523Lr"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        }
+      ],
+      "duration_ms": 198668,
+      "name": "Desde mi Ata\u00fad",
+      "url": "https://open.spotify.com/track/5cU3OjaNhvOsGeSzeEUi0x"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Esperanza",
         "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
       },
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Esperanza/ Nunca te vayas",
-        "url": "https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 150200,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Neblina",
         "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 191339,
       "name": "Neblina",
       "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Esperanza/ Nunca te vayas",
+        "url": "https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 150200,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV"
     },
     {
       "added_at": "2024-12-20 03:00:01",

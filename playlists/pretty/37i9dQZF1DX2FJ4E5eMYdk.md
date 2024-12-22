@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,680 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,780 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 3 | [Next to Normal](https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:10 |
 | 4 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 |
 | 5 | [Like Exploding Stones](https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 7:18 |
-| 6 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
+| 6 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
 | 7 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/73zzUVGeD9dD7sLjNuAkpE) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/1Cr9WO1e8w4lFDKl5zoDxj) | 5:11 |
-| 8 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
+| 8 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 9 | [Giddy Up](https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Giddy Up](https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl) | 3:01 |
 | 10 | [Partition](https://open.spotify.com/track/2zoJ9SMaicLiQc22enBTII) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [YTI⅃AƎЯ](https://open.spotify.com/album/3bclTvGr69frcDsVw2VJVO) | 6:03 |
 | 11 | [Fear: Life In A Dozen Years](https://open.spotify.com/track/47n27sNyRKnnpFI36e9lUu) | [BC Camplight](https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh) | [The Last Rotation Of Earth](https://open.spotify.com/album/1kpZEHpJh4GJ5mYxzaP8WR) | 4:23 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 33 | [Do What Feeds Your Soul](https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Do What Feeds Your Soul](https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw) | 2:35 |
 | 34 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 |
 | 35 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
-| 36 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
-| 37 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
+| 36 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
+| 37 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
 | 38 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
 | 39 | [About a Stranger](https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Phosphorescent Harvest](https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL) | 5:07 |
 | 40 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 54 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
 | 55 | [Fireflies](https://open.spotify.com/track/2FaMaqqsh3rYNvcny78PYN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/1LzF7kQRLgvFUiBF0qG8iB) | 4:51 |
 | 56 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
-| 57 | [Hanging On](https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Hanging On](https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba) | 3:11 |
-| 58 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
-| 59 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
+| 57 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
+| 58 | [Hanging On](https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Hanging On](https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba) | 3:11 |
+| 59 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
 | 60 | [Motions \- Far Out Version](https://open.spotify.com/track/6sF7pOzhRCvuTLtVDrTg1Z) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Liz Cooper & the Stampede \| Audiotree Far Out](https://open.spotify.com/album/6HDTKU5sFW1SwJ0CParyYQ) | 5:31 |
 
 Snapshot ID: `ZohOOwAAAABz+9O441RhpluXXVhe9u9J`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,138 likes - 29 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,153 likes - 29 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

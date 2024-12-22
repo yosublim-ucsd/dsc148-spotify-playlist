@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 
 > me acuerdo del día que del dinero yo me enamoré 💸💰💸 con Eladio Carrion en la portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,170 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,206 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 | 61 | [Te Boté \- Remix](https://open.spotify.com/track/3X5M53Xi5k1SijRtZMM3TA) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Now Or Never](https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT) | 6:57 |
 | 62 | [Yo Te Lo Dije](https://open.spotify.com/track/4Qup5wrYCm9I4dJHxmoRJY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr) | 3:40 |
 | 63 | [algo así \(remix\)](https://open.spotify.com/track/6P6w5zbJBGNoID8rd365aZ) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:43 |
-| 64 | [Nena Maldición \(feat\. Lenny Tavárez\)](https://open.spotify.com/track/2aMVyJSuDFFL1sTjJnvk7X) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Nena Maldición \(feat\. Lenny Tavárez\)](https://open.spotify.com/album/1RMkgNWPXhMF91oLAe2P7d) | 3:48 |
-| 65 | [Poblado](https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR) | 3:21 |
+| 64 | [Poblado](https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR) | 3:21 |
+| 65 | [Nena Maldición \(feat\. Lenny Tavárez\)](https://open.spotify.com/track/2aMVyJSuDFFL1sTjJnvk7X) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Nena Maldición \(feat\. Lenny Tavárez\)](https://open.spotify.com/album/1RMkgNWPXhMF91oLAe2P7d) | 3:48 |
 | 66 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 67 | [Espina de Rosas](https://open.spotify.com/track/4XOXxyesLmj3tF2yHB3kU7) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Espina de Rosas](https://open.spotify.com/album/1gbml2gmSx8fHglRDYa0f0) | 3:14 |
 | 68 | [Jeans](https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Jeans](https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru) | 3:05 |

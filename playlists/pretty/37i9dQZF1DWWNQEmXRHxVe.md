@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable halftime shows\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,353 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,380 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 21 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
 | 22 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
 | 23 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
-| 24 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 |
+| 24 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
 | 25 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 |
-| 26 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
+| 26 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 |
 | 27 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
 | 28 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
 | 29 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 95 | [No More Drama](https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 5:26 |
 | 96 | [Reflection \- Pop Version](https://open.spotify.com/track/1haQRuZnoggW6U6l5jFIj9) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 3:36 |
 | 97 | [Soul Man \- Live](https://open.spotify.com/track/5z2F9FkKdhd9HOSTI1GxRq) | [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g) | [Briefcase Full of Blues](https://open.spotify.com/album/7nuZ830tqx4YT8jzJNpU2T) | 3:00 |
-| 98 | [Love Can Build A Bridge](https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Love Can Build A Bridge](https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO) | 5:22 |
-| 99 | [Rhythm Nation](https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:30 |
+| 98 | [Rhythm Nation](https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:30 |
+| 99 | [Love Can Build A Bridge](https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Love Can Build A Bridge](https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO) | 5:22 |
 | 100 | [She Wolf](https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:08 |
 
 Snapshot ID: `Z2XIUwAAAACQMDefuPmXzST8NXp7NGSF`

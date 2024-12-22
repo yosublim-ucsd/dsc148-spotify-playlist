@@ -4,7 +4,7 @@
 
 > Discover the bangers of the Middle East and North Africa.<br/>Cover : Disco Misr, TUL8TE
 
-82 songs - 4 hr 16 min
+85 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Deira](https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Deira](https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F) | 2:49 | 2024-03-08 |  |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2024-03-08 | 2024-09-09 |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:02 | 2024-09-08 |  |
+| [DIPLOMATICO](https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:16 | 2024-12-21 |  |
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2024-03-08 | 2024-09-09 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2024-11-04 |  |
 | [Douwi Douwi](https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 | 2024-09-08 |  |
@@ -34,7 +35,7 @@
 | [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 | 2024-09-08 |  |
 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2024-03-08 | 2024-09-09 |
 | [Fe Eineh](https://open.spotify.com/track/1iXs29VLepoUwk7iCVJ8KG) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Fe Eineh](https://open.spotify.com/album/5RottDCbiAScwKZaSAcbfb) | 2:34 | 2024-10-25 |  |
-| [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-10-25 |  |
+| [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-10-25 | 2024-12-22 |
 | [GABOLNA HKOMA](https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [ZIEN4L](https://open.spotify.com/artist/3OluQc7zjf5nKVsdlYYKzD) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:03 | 2024-09-08 |  |
 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 | 2024-03-08 | 2024-09-09 |
 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2024-09-08 |  |
@@ -42,6 +43,8 @@
 | [Haifa Wehbe](https://open.spotify.com/track/17b1DCO3Fp60x4Ri8iK1rQ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Haifa Wehbe](https://open.spotify.com/album/5tPaBF7H4a8YMLSzy01yHS) | 3:20 | 2024-09-08 |  |
 | [HVD](https://open.spotify.com/track/0HDgrspmVpjelFmCJ8OOoS) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [HVD](https://open.spotify.com/album/3Ka4gK10E7b7MjQnPZL1pX) | 4:12 | 2024-03-08 | 2024-09-09 |
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2024-03-08 | 2024-09-09 |
+| [KARMA](https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [7OB&KASHAT](https://open.spotify.com/album/2svCOWiV5oGoZk1YTU1NPL) | 2:54 | 2024-12-21 |  |
+| [KEBDA](https://open.spotify.com/track/2Cs1t49qL52fPt6ikx15wp) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:50 | 2024-12-21 |  |
 | [Kobe](https://open.spotify.com/track/5jeouY0P7U13rTiswb5b8v) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 4:10 | 2024-11-13 |  |
 | [La grinta](https://open.spotify.com/track/1IVtCHJuAl40ypJtAsR9Ld) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La grinta](https://open.spotify.com/album/4sBVMRxXihQczIaXHS29xc) | 3:31 | 2024-03-08 | 2024-09-09 |
 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 | 2024-09-08 |  |

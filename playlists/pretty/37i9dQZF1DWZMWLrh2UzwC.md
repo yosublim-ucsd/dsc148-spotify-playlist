@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,700 likes - 68 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,709 likes - 68 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 21 | [Baby, Don't Cry（人魚的眼淚）](https://open.spotify.com/track/1yUgSij0m8GTyBy2cgstwB) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Nana Ou\-Yang](https://open.spotify.com/artist/22JbAaWA5Abf5esf6N4PHY) | [Baby, Don't Cry（人魚的眼淚）](https://open.spotify.com/album/1Lu7Uy5BoIGsuAslABy7MQ) | 3:32 |
 | 22 | [蛇出來了](https://open.spotify.com/track/4yRFgvRPS3itdcZ77potpo) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [王彩樺](https://open.spotify.com/artist/6NcpsFTXvXjsMUX1FWSVrh) | [蛇出來了](https://open.spotify.com/album/3KJ9p5ZPBbTHHBXJSuYk7B) | 3:40 |
 | 23 | [做蛇么都 Lucky](https://open.spotify.com/track/3b6O3NFa2BFwzD01VBOa7M) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [做蛇么都Lucky](https://open.spotify.com/album/0Njb4Dyg7Um1stLrgx69nT) | 3:12 |
-| 24 | [有你在身邊](https://open.spotify.com/track/4UYDA3dSe7BtlTQ3oNRlP5) | [d00nuts](https://open.spotify.com/artist/5HhB2I4VDq7HzEm7Ay1Lmv) | [有你在身邊](https://open.spotify.com/album/5wkqjzW12UJdi26htZlwz5) | 2:52 |
+| 24 | [有你在身边](https://open.spotify.com/track/4UYDA3dSe7BtlTQ3oNRlP5) | [d00nuts](https://open.spotify.com/artist/5HhB2I4VDq7HzEm7Ay1Lmv) | [有你在身边](https://open.spotify.com/album/5wkqjzW12UJdi26htZlwz5) | 2:52 |
 | 25 | [Be My Baby \(This Christmas\)](https://open.spotify.com/track/5xkKrjNxwgW702X135ZO5K) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Be My Baby \(This Christmas\)](https://open.spotify.com/album/0ZldKmAdq1grXp4uZPEC9c) | 3:45 |
 | 26 | [Detox](https://open.spotify.com/track/6EZDQ49H1L6CAO29XQxpcE) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 4th Digital Single 'Detox'](https://open.spotify.com/album/4ITQshoBeH1uSN1DS6eqnV) | 2:56 |
 | 27 | [Sweet Like](https://open.spotify.com/track/5AUVeUcBYoL7SGd8ZWMfqK) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Sweet Like](https://open.spotify.com/album/6dkrgJVu2rfIE8iPpUyIoG) | 2:26 |

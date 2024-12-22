@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAALF8fbCTY7dWutqFY6q4AE",
+  "snapshot_id": "AAAAAAAAAACHz+IRxANKI8ecWk+xAnAR",
   "tracks": [
     {
       "added_at": "2024-12-20 05:00:00",
@@ -27,78 +27,6 @@
       "duration_ms": 167066,
       "name": "Take Me to the Beach (feat. Ado)",
       "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
-        "name": "Melhores M\u00fasicas Internacionais 2024 e 2025",
-        "url": "https://open.spotify.com/album/66qP8dk23TNyf7ZP8mmHyG"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 30663,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/3SxOBSCcekQOlszfyQtzou"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
-        "name": "The Art of War 2.0",
-        "url": "https://open.spotify.com/album/1hgoedH8YqRiPqw7ldIl3o"
-      },
-      "artists": [
-        {
-          "name": "Lu",
-          "url": "https://open.spotify.com/artist/1lHCLXrgfaUK8kfuHHZ0Ub"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 313391,
-      "name": "The Art of War 2.0",
-      "url": "https://open.spotify.com/track/2nxULEDxFEcPJQCazokXlS"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -143,22 +71,66 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Viking Juice (The Butcher Mix)",
-        "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
       },
       "artists": [
         {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Joe The Butcher",
-          "url": "https://open.spotify.com/artist/4MNFkawz8pQQpLuzVBtyPe"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 193040,
-      "name": "Viking Juice - The Butcher Mix",
-      "url": "https://open.spotify.com/track/2ndjLJiYVXaqNUTSm8MuA0"
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "The Art of War 2.0",
+        "url": "https://open.spotify.com/album/1hgoedH8YqRiPqw7ldIl3o"
+      },
+      "artists": [
+        {
+          "name": "Lu",
+          "url": "https://open.spotify.com/artist/1lHCLXrgfaUK8kfuHHZ0Ub"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 313391,
+      "name": "The Art of War 2.0",
+      "url": "https://open.spotify.com/track/2nxULEDxFEcPJQCazokXlS"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "The Bells",
+        "url": "https://open.spotify.com/album/4OVxBEb9hRNx4dHlWCJtHm"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/5M2gEWB0q7TPKFTroTpbPi"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -191,22 +163,26 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "CANT FIND A WAY OUT",
-        "url": "https://open.spotify.com/album/2fLcIV9cFvdWYsw49LYkEi"
+        "name": "Melhores M\u00fasicas Internacionais 2024 e 2025",
+        "url": "https://open.spotify.com/album/66qP8dk23TNyf7ZP8mmHyG"
       },
       "artists": [
         {
-          "name": "5Fortyproductions",
-          "url": "https://open.spotify.com/artist/6W7UjfdKpgeRnfoxWAcRZe"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 280615,
-      "name": "CANT FIND A WAY OUT",
-      "url": "https://open.spotify.com/track/6VUUzPLZgLO9j80Sf7mXkp"
+      "duration_ms": 30663,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/3SxOBSCcekQOlszfyQtzou"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -231,18 +207,42 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "The Bells",
-        "url": "https://open.spotify.com/album/4OVxBEb9hRNx4dHlWCJtHm"
+        "name": "Viking Juice (The Butcher Mix)",
+        "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
       },
       "artists": [
         {
-          "name": "Black Alley",
-          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Joe The Butcher",
+          "url": "https://open.spotify.com/artist/4MNFkawz8pQQpLuzVBtyPe"
         }
       ],
-      "duration_ms": 164666,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/5M2gEWB0q7TPKFTroTpbPi"
+      "duration_ms": 193040,
+      "name": "Viking Juice - The Butcher Mix",
+      "url": "https://open.spotify.com/track/2ndjLJiYVXaqNUTSm8MuA0"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "CANT FIND A WAY OUT",
+        "url": "https://open.spotify.com/album/2fLcIV9cFvdWYsw49LYkEi"
+      },
+      "artists": [
+        {
+          "name": "5Fortyproductions",
+          "url": "https://open.spotify.com/artist/6W7UjfdKpgeRnfoxWAcRZe"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 280615,
+      "name": "CANT FIND A WAY OUT",
+      "url": "https://open.spotify.com/track/6VUUzPLZgLO9j80Sf7mXkp"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Empty Out Your Pockets",
+      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
         "name": "Chest Pain (I Love)",
         "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
       },
@@ -331,22 +347,66 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+        "name": "Peggy",
+        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
       },
       "artists": [
         {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
         }
       ],
-      "duration_ms": 459766,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
+      "duration_ms": 159336,
+      "name": "Peggy",
+      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Wait Til I Get My Money Up",
+        "url": "https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "duration_ms": 158872,
+      "name": "Doublewide",
+      "url": "https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/68JPjllP8VCzvVpOSqJLHv"
+      },
+      "artists": [
+        {
+          "name": "Riff Wood",
+          "url": "https://open.spotify.com/artist/7oXwujbsaxe9NN4RTYLWcO"
+        }
+      ],
+      "duration_ms": 168694,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/4p0jMYKo77atWbW4oeXZIR"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "duration_ms": 183475,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -479,34 +539,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Get Lifted (20th Anniversary)",
-        "url": "https://open.spotify.com/album/7evc0CBi3ASwhBxAHBPUaZ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Eugene \"Man-Man\" Roberts",
-          "url": "https://open.spotify.com/artist/7e7FXQAhssKKJ5Fxx7vfpM"
-        }
-      ],
-      "duration_ms": 246655,
-      "name": "Let's Get Lifted Again (feat. Killer Mike & Lil Wayne) - Man-Man Remix",
-      "url": "https://open.spotify.com/track/6wmXJjpGCnPQQ8zqPcGpdg"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "We Like It Here (Remixed + Remastered + Reimagined)",
         "url": "https://open.spotify.com/album/1yQ4KgE3eTVDhEBsnfADCY"
       },
@@ -539,34 +571,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Innerspace Interface",
-        "url": "https://open.spotify.com/album/2fxBspa7nErbgtEcZTcHhr"
-      },
-      "artists": [
-        {
-          "name": "Gift",
-          "url": "https://open.spotify.com/artist/3gTLNU4YuS9RAVn3I4Bwb3"
-        },
-        {
-          "name": "Mekkanic",
-          "url": "https://open.spotify.com/artist/320y9msZq9M7wXEAQhFBQb"
-        },
-        {
-          "name": "Dynas",
-          "url": "https://open.spotify.com/artist/3EVmQ9vEGIG0CkvaOxsHqy"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 303954,
-      "name": "Pistols",
-      "url": "https://open.spotify.com/track/7k8kllc5qSgYoPNUOfhOam"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "Triptyque : Balade astrale",
         "url": "https://open.spotify.com/album/39E2jV9jC2oDLitYuc7hgi"
       },
@@ -583,42 +587,6 @@
       "duration_ms": 203506,
       "name": "Benjamin B",
       "url": "https://open.spotify.com/track/2LbaDVLXucsYtUdPGWshfG"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
-        "name": "Waltz of the Flowers",
-        "url": "https://open.spotify.com/album/4Kb1X2aPWUwFKzmUNJCdNU"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 158160,
-      "name": "Waltz of the Flowers",
-      "url": "https://open.spotify.com/track/2jr2d3IKrrKAODvspQMqw6"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
-        "name": "BEDA",
-        "url": "https://open.spotify.com/album/4ItCZpQalNurcL20lwbTw5"
-      },
-      "artists": [
-        {
-          "name": "SKANKII",
-          "url": "https://open.spotify.com/artist/1VRFoItFfTgWTiMbQwLK4s"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 217139,
-      "name": "BEDA",
-      "url": "https://open.spotify.com/track/1vhl2zhgarbLY06mIsCu0n"
     },
     {
       "added_at": "2024-12-20 05:00:00",

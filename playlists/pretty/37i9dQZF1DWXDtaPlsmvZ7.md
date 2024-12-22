@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,023 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,041 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 12 | [Dr\. Psiquiatra](https://open.spotify.com/track/7lcEnkQEdNzjGGswqrZu6V) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 3:22 |
 | 13 | [Hotel California](https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Hotel California](https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V) | 2:49 |
 | 14 | [La Ladrona](https://open.spotify.com/track/5jNMs2N5L3T4zRdlImX1nz) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Disco Cumbia México \(2\)](https://open.spotify.com/album/2aDLfd5FysnODAzaOKZSTY) | 3:47 |
-| 15 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 |
-| 16 | [La Bachata](https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valeria Gau](https://open.spotify.com/artist/1BfR4gQyjlhLAssULX0wDr), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [La Bachata](https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY) | 3:14 |
+| 15 | [La Bachata](https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valeria Gau](https://open.spotify.com/artist/1BfR4gQyjlhLAssULX0wDr), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [La Bachata](https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY) | 3:14 |
+| 16 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 |
 | 17 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
 | 18 | [Mentirosa](https://open.spotify.com/track/0HXEzIjsvi8togdqeMgiNs) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Mentirosa](https://open.spotify.com/album/6EYYHWFcAckjccdpu5J1RE) | 4:22 |
 | 19 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 |

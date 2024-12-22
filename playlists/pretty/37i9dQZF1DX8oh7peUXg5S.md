@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Pedro Guerra y Andrés Calamaro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,820 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,844 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 91 | [Puede Ser Que la Conozcas](https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:16 |
 | 92 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
 | 93 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
-| 94 | [L'estaca](https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa) | [Lluis Llach](https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0) | [Les Seves Primeres Cançons](https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke) | 2:24 |
+| 94 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 |
 | 95 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 |
-| 96 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 |
+| 96 | [L'estaca](https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa) | [Lluis Llach](https://open.spotify.com/artist/3zVGMz661UQBxwt04UIYV0) | [Les Seves Primeres Cançons](https://open.spotify.com/album/1tuHQ9D9yAyauHsmnWK3Ke) | 2:24 |
 | 97 | [Soy un Corazón Tendido al Sol](https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazón Tendido Al Sol](https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB) | 4:24 |
 | 98 | [No olvidarme de olvidar \(feat\. Carlos Rivera\)](https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [En la memoria de la piel \(Deluxe Version\)](https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt) | 4:07 |
-| 99 | [Pasaba por Aqui](https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:52 |
+| 99 | [A Tu Vida](https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Árbol y el Bosque](https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT) | 3:16 |
 | 100 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
 
 Snapshot ID: `Z2SlogAAAACvVyzVoW1PqiuDfgfZEyJm`

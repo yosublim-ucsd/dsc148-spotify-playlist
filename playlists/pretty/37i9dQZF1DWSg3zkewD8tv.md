@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,531 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,601 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 46 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 47 | [April Sun in Cuba](https://open.spotify.com/track/0NKv1n25UpKKhZbp5UVV6P) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Running Free](https://open.spotify.com/album/05frF9sl7GngNlYJp7V6fe) | 3:27 |
 | 48 | [Caress Your Soul](https://open.spotify.com/track/6CvgS2YcW7b3CqIXBBbfwp) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k) | 2:57 |
-| 49 | [Cheap Wine \- 2011 Remastered](https://open.spotify.com/track/3EkEomllpfXPPIGVFvZcEq) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [East](https://open.spotify.com/album/4WQVLiXpiYlFpKXCyheZU3) | 3:25 |
-| 50 | [She's a Riot](https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Learn to Exist](https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt) | 3:41 |
+| 49 | [She's a Riot](https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Learn to Exist](https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt) | 3:41 |
+| 50 | [Cheap Wine \- 2011 Remastered](https://open.spotify.com/track/3EkEomllpfXPPIGVFvZcEq) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [East](https://open.spotify.com/album/4WQVLiXpiYlFpKXCyheZU3) | 3:25 |
 
 Snapshot ID: `Z2QY5wAAAAA7ZdbpBbTzXuOhvWw64QeY`

@@ -1,6 +1,6 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 194842,
+  "num_followers": 194853,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 159172,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
+      "duration_ms": 163654,
+      "name": "M\u00e1s All\u00e1 Del Sol",
+      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Gu\u00e1rdame Esta Noche",
-        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
         "name": "Me Robaste El Corazon",
         "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 163654,
-      "name": "M\u00e1s All\u00e1 Del Sol",
-      "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
+      "duration_ms": 159172,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5"
+        }
+      ],
+      "duration_ms": 288160,
+      "name": "Mi Talism\u00e1n",
+      "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
         "name": "Sin Querer Queriendo",
         "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 206077,
       "name": "Sin Querer Queriendo",
       "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5"
-        }
-      ],
-      "duration_ms": 288160,
-      "name": "Mi Talism\u00e1n",
-      "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
         "name": "2 Veces",
         "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 189066,
       "name": "2 Veces",
       "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
+        "name": "Te Presumo",
+        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Ac\u00e1bame De Matar",
+      "url": "https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
         "name": "Poco",
         "url": "https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Te Presumo",
-        "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Ac\u00e1bame De Matar",
-      "url": "https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1"
+      "duration_ms": 155513,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1427,22 +1443,6 @@
       "duration_ms": 181986,
       "name": "Amor Confuso",
       "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 155513,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1499,6 +1499,22 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1563,22 +1579,6 @@
       "duration_ms": 232178,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
       "added_at": "2024-09-20 22:10:22",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-09-20 22:10:22",
       "album": {
-        "name": "Por Siempre (Deluxe)",
-        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 249375,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
-    },
-    {
-      "added_at": "2024-09-20 22:10:22",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX"
+    },
+    {
+      "added_at": "2024-09-20 22:10:22",
+      "album": {
+        "name": "Por Siempre (Deluxe)",
+        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 249375,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
     },
     {
       "added_at": "2024-09-20 22:10:22",

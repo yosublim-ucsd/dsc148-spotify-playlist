@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 
 > Unforgettable love songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,142 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,310 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 32 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 |
 | 33 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
 | 34 | [Attention](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:28 |
-| 35 | [Blank Space](https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:51 |
-| 36 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
+| 35 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
+| 36 | [Blank Space](https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:51 |
 | 37 | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [See You Again \(feat\. Charlie Puth\)](https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS) | 3:49 |
 | 38 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 |
 | 39 | [Rolling in the Deep](https://open.spotify.com/track/4OSBTYWVwsQhGLF9NHvIbR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9) | 3:48 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 57 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |
 | 58 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/0GxQ1A5L9xnMOytbP6eKBG) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:19 |
 | 59 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
-| 60 | [Imagination](https://open.spotify.com/track/21TcDbGosp7w9YhTjOszgA) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5Jov5724Nz13A302HM2eKG) | 3:37 |
+| 60 | [jar of hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 |
 | 61 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/563SfWAHJs4FBZMkRN0IFN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 3:43 |
-| 62 | [jar of hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 |
+| 62 | [Imagination](https://open.spotify.com/track/21TcDbGosp7w9YhTjOszgA) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5Jov5724Nz13A302HM2eKG) | 3:37 |
 | 63 | [Somebody Else](https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 5:47 |
 | 64 | [Love Someone](https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [3 \(The Purple Album\)](https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj) | 3:25 |
 | 65 | [She Looks So Perfect](https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV) | 3:22 |

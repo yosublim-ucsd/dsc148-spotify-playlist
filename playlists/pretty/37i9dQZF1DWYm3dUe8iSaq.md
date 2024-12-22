@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,178 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,203 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 14 | [Heather On The Hill](https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Heather On The Hill](https://open.spotify.com/album/2beYnTms954gTl7cYEupjN) | 2:19 |
 | 15 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
 | 16 | [Girl Like You](https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz) | 1:45 |
-| 17 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
-| 18 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
+| 17 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
+| 18 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 19 | [Strawberry Wine](https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:45 |
 | 20 | [Your Dog](https://open.spotify.com/track/1LHRpiGObRt9Y3WDgoj9l8) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Your Dog](https://open.spotify.com/album/736y0JBkHDPbrll16m0EQ3) | 3:29 |
 | 21 | [Little White Chapel](https://open.spotify.com/track/1j4Okp2EWef680zQg9SBvl) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Little White Chapel](https://open.spotify.com/album/2K6ZIQk4tlIKQJOnKyrjY1) | 4:03 |
 | 22 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 |
-| 23 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
-| 24 | [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 |
+| 23 | [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 |
+| 24 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
 | 25 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 |
 | 26 | [martingale](https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [martingale](https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9) | 4:17 |
 | 27 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 43 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
 | 44 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
 | 45 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
-| 46 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 |
-| 47 | [Prayers](https://open.spotify.com/track/2dHZ2wCSMl6gTb4EcKFWHh) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Prayers](https://open.spotify.com/album/7ymmZFjZQ0It3rTophhwuh) | 3:08 |
+| 46 | [Prayers](https://open.spotify.com/track/2dHZ2wCSMl6gTb4EcKFWHh) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Prayers](https://open.spotify.com/album/7ymmZFjZQ0It3rTophhwuh) | 3:08 |
+| 47 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 |
 | 48 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
 | 49 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |
 | 50 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 |

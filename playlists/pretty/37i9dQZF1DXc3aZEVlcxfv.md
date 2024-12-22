@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > I am blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 50 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,052 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 29 | [Big God](https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson](https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi) | [Chapter Two](https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm) | 10:57 |
 | 30 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
 | 31 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 |
-| 32 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
-| 33 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 |
+| 32 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 |
+| 33 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
 | 34 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
-| 35 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
-| 36 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 |
+| 35 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 |
+| 36 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 37 | [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 |
 | 38 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 |
 | 39 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |

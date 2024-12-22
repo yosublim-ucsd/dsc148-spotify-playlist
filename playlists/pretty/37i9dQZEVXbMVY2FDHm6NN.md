@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,606 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,622 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [軌跡](https://open.spotify.com/track/3797qIRcuMpbsRgdnbSoxw) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [尋找周杰倫](https://open.spotify.com/album/2svyg2JefsZu86XroTyGY7) | 5:26 |
 | 50 | [字字句句](https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu) | [卢卢快闭嘴](https://open.spotify.com/artist/4wUR1NviIGE01yEfeLNkeV) | [字字句句](https://open.spotify.com/album/5aQMO1ltAoQotkfPCOy0jn) | 3:20 |
 
-Snapshot ID: `LvjbSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvovIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

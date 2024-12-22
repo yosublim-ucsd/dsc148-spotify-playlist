@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,085 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,183 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 63 | [Jangan Kau Lepas](https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:01 |
 | 64 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
 | 65 | [Pergi Untuk Kembali](https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Ello](https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s) | 4:27 |
-| 66 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
-| 67 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 |
+| 66 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 |
+| 67 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
 | 68 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Rejoz The GROOVE](https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv), [Rejoz](https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 |
-| 69 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
-| 70 | [Ada Di Sana](https://open.spotify.com/track/7e3JeMmuteFbUJuUjH1RfS) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik](https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3) | 3:18 |
+| 69 | [Ada Di Sana](https://open.spotify.com/track/7e3JeMmuteFbUJuUjH1RfS) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik](https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3) | 3:18 |
+| 70 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
 | 71 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 |
 | 72 | [Sunggu Indah](https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B) | [Andy Ambarita](https://open.spotify.com/artist/3D9NDcZAyhtQdEuDdqsAx6) | [Sunggu Indah](https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP) | 5:38 |
 | 73 | [Harus Bahagia](https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Harus Bahagia](https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG) | 2:53 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 75 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 |
 | 76 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
 | 77 | [Dia \- Hits Single](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [DIA](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
-| 78 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
-| 79 | [Satu Yang Tak Bisa Lepas](https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keajaiban](https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j) | 5:25 |
-| 80 | [Cinta Pertama \(Sunny\)](https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Pertama](https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju) | 4:22 |
+| 78 | [Cinta Pertama \(Sunny\)](https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Pertama](https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju) | 4:22 |
+| 79 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
+| 80 | [Satu Yang Tak Bisa Lepas](https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keajaiban](https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j) | 5:25 |
 
 Snapshot ID: `Z06nYQAAAABOkFiyOKauPamcg+hZIpVd`

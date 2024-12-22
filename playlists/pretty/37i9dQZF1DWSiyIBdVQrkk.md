@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,243,311 likes - 110 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,243,407 likes - 110 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 56 | [A Thousand Times](https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [A Thousand Times](https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5) | 3:17 |
 | 57 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
 | 58 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
-| 59 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
-| 60 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 |
+| 59 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 |
+| 60 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
 | 61 | [Natty Rebel \- Remaster 1990](https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Natty Rebel \(Extra Version\)](https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ) | 3:31 |
 | 62 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
 | 63 | [Lady In Red](https://open.spotify.com/track/5OJ3X6sG29MQH3FgeYg66k) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Lady In Red](https://open.spotify.com/album/4e7IXAGjHgtqDAALVF75cn) | 3:54 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 72 | [Lions](https://open.spotify.com/track/6LvVVRxgcgeQ6uzyk375LI) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Lions](https://open.spotify.com/album/4NxsroKEOTc43bNpfEUtOo) | 3:28 |
 | 73 | [Mariposa](https://open.spotify.com/track/7yCyUU23UQA4gXkPYpCF8z) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Mariposa](https://open.spotify.com/album/296P0WTEXbp7n9NpVCsAqV) | 3:42 |
 | 74 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 |
-| 75 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
-| 76 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
+| 75 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
+| 76 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
 | 77 | [Jamaica Jamaica](https://open.spotify.com/track/1IOKIOnUJnnjZSutpirvIl) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Jamaica Jamaica](https://open.spotify.com/album/2ozJZeROKc2G2S0dCZbWdD) | 3:31 |
 | 78 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
 | 79 | [Steamers a Bubble](https://open.spotify.com/track/16hOumjVFbwTmkZ0n7rDf3) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH) | [Steamers a Bubble](https://open.spotify.com/album/6gr7NaB0xIz3vxbonltlty) | 4:17 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 91 | [The Kalling](https://open.spotify.com/track/71FgWYL9m6vSypm6FzUVJv) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [The Kalling](https://open.spotify.com/album/18rl0ZOdnxZHr3uFqUZaZQ) | 3:33 |
 | 92 | [Refugee](https://open.spotify.com/track/1lIYXCQKvrKD4Y08sKf9kv) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Refugee](https://open.spotify.com/album/13BBjiT3oxvADdeD4n4qb7) | 3:30 |
 | 93 | [Look Deep](https://open.spotify.com/track/2kfNmluPa17SRaKtjFpQ2x) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Look Deep](https://open.spotify.com/album/4k5gEubeYKoHDOyVjxn8ex) | 2:57 |
-| 94 | [Gunman](https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Gunman](https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR) | 3:53 |
-| 95 | [Slave Driver \- Jamaican Version](https://open.spotify.com/track/3f6Rdsc0t4mufxpACj4Gzi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 2:53 |
+| 94 | [Slave Driver \- Jamaican Version](https://open.spotify.com/track/3f6Rdsc0t4mufxpACj4Gzi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 2:53 |
+| 95 | [Gunman](https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Gunman](https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR) | 3:53 |
 | 96 | [If You Only Knew](https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [If You Only Knew](https://open.spotify.com/album/4rpHnpIibaiGM1WVUHkvIk) | 4:01 |
 | 97 | [Your Love](https://open.spotify.com/track/2nb1VOZIVN02Fq0SkXaiDv) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Your Love](https://open.spotify.com/album/7Mj4SVFTwrstDoJvMJLBC4) | 3:47 |
 | 98 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |

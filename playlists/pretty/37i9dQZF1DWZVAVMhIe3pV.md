@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,594 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,595 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 58 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:58 |
 | 59 | [Victorious](https://open.spotify.com/track/6TFGNgCyhgHKNn046iG6fa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Victorious](https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA) | 4:24 |
 | 60 | [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 |
-| 61 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 |
-| 62 | [Shimmer](https://open.spotify.com/track/7kwpnE5W3ugxJ8wZdNYupT) | [Fuel 238](https://open.spotify.com/artist/1kymORp8cdJg1NQgZ7Mr8e) | [Sunburn](https://open.spotify.com/album/2eTRbjHzgrACW2h8U5txhe) | 3:34 |
-| 63 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
+| 61 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
+| 62 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 |
+| 63 | [Shimmer](https://open.spotify.com/track/7kwpnE5W3ugxJ8wZdNYupT) | [Fuel 238](https://open.spotify.com/artist/1kymORp8cdJg1NQgZ7Mr8e) | [Sunburn](https://open.spotify.com/album/2eTRbjHzgrACW2h8U5txhe) | 3:34 |
 | 64 | [The Door](https://open.spotify.com/track/58nHFSWj5N5JxNtWgS85TL) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:33 |
 | 65 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 |
 | 66 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 68 | [Gushin' Blood](https://open.spotify.com/track/3AQzefqzIKZFzzIZEtBXIj) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:29 |
 | 69 | [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$WING](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 |
 | 70 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |
-| 71 | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 |
-| 72 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 |
+| 71 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 |
+| 72 | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 |
 | 73 | [The Best Things](https://open.spotify.com/track/6QJfk4mQc9YYBX7DGmqbuZ) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 4:26 |
 | 74 | [Superhero](https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:58 |
 | 75 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 91 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
 | 92 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
 | 93 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 |
-| 94 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
-| 95 | [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 |
+| 94 | [waste](https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [waste](https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy) | 3:51 |
+| 95 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
 | 96 | [Moments Of Clarity](https://open.spotify.com/track/4T8GhH9Jz2ZAf8BnE7OXzi) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/135Y92eWcCGg8GeFi5IF3v) | 3:50 |
 | 97 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 |
 | 98 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |
-| 99 | [Drop Me Out](https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Drop Me Out](https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo) | 3:57 |
-| 100 | [Easy](https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Easy](https://open.spotify.com/album/1lZmoIW2IkCBG1WySoiSCE) | 3:20 |
+| 99 | [Easy](https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Easy](https://open.spotify.com/album/1lZmoIW2IkCBG1WySoiSCE) | 3:20 |
+| 100 | [Drop Me Out](https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Drop Me Out](https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo) | 3:57 |
 
 Snapshot ID: `ZzZEiQAAAABOS49pT0wgqpKl7RM77g4V`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > Detty December 2025!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,291 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,296 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

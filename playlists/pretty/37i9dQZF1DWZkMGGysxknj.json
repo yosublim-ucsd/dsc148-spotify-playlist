@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 810967,
+  "num_followers": 810938,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 206100,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 206100,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+        "name": "City Of Stars",
+        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+      "duration_ms": 154858,
+      "name": "City Of Stars",
+      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "City Of Stars",
-        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 154858,
-      "name": "City Of Stars",
-      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -895,22 +895,6 @@
       "duration_ms": 150538,
       "name": "Sunday Best - Acoustic Version",
       "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1015,6 +999,22 @@
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Chantaje",
+        "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr"
+        }
+      ],
+      "duration_ms": 207431,
+      "name": "Chantaje",
+      "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Mi Gente (Acoustic)",
         "url": "https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 160049,
       "name": "Mi Gente - Acoustic",
       "url": "https://open.spotify.com/track/1ci9VbZkSxkWmWkD5xGurr"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Chantaje",
-        "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr"
-        }
-      ],
-      "duration_ms": 207431,
-      "name": "Chantaje",
-      "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sweet but Psycho",
-        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
-      },
-      "artists": [
-        {
-          "name": "Parker Jenkins",
-          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
-        }
-      ],
-      "duration_ms": 188712,
-      "name": "Sweet but Psycho - Acoustic",
-      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Sweet but Psycho",
+        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
+      },
+      "artists": [
+        {
+          "name": "Parker Jenkins",
+          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
+        }
+      ],
+      "duration_ms": 188712,
+      "name": "Sweet but Psycho - Acoustic",
+      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1983,26 +1983,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Shape Of My Heart (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7"
-      },
-      "artists": [
-        {
-          "name": "Blended Colours",
-          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
-        },
-        {
-          "name": "Summer Haze",
-          "url": "https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj"
-        }
-      ],
-      "duration_ms": 183599,
-      "name": "Shape Of My Heart - Acoustic Version",
-      "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "I Want It That Way (Acoustic)",
         "url": "https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2"
       },
@@ -2019,6 +1999,26 @@
       "duration_ms": 185446,
       "name": "I Want It That Way - Acoustic",
       "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Shape Of My Heart (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7"
+      },
+      "artists": [
+        {
+          "name": "Blended Colours",
+          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
+        },
+        {
+          "name": "Summer Haze",
+          "url": "https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj"
+        }
+      ],
+      "duration_ms": 183599,
+      "name": "Shape Of My Heart - Acoustic Version",
+      "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "The Day I Left Hanoi",
-        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
-      },
-      "artists": [
-        {
-          "name": "Jokai",
-          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "The Day I Left Hanoi",
-      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Goodbyes",
         "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 125895,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "The Day I Left Hanoi",
+        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
+      },
+      "artists": [
+        {
+          "name": "Jokai",
+          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "The Day I Left Hanoi",
+      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Voices In The Sky",
-        "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
-      },
-      "artists": [
-        {
-          "name": "Isobel Campbell",
-          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
-        }
-      ],
-      "duration_ms": 206584,
-      "name": "Never My Love",
-      "url": "https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -2235,18 +2219,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+        "name": "Voices In The Sky",
+        "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
       },
       "artists": [
         {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+          "name": "Isobel Campbell",
+          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
         }
       ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+      "duration_ms": 206584,
+      "name": "Never My Love",
+      "url": "https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2263,6 +2247,22 @@
       "duration_ms": 203261,
       "name": "Nothing Breaks Like a Heart",
       "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 210912,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 178143,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 210912,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
     },
     {
       "added_at": "2023-06-09 14:25:05",

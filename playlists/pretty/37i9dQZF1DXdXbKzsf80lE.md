@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,428 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,536 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 12 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 |
 | 13 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
 | 14 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 |
-| 15 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |
-| 16 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
+| 15 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
+| 16 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |
 | 17 | [Cabeça Voando](https://open.spotify.com/track/6wDzwmywQ2X8O0FN1IQGol) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Agora Eu Pego Mesmo](https://open.spotify.com/album/7dIuql1amYWijiQsIMps1l) | 3:03 |
 | 18 | [Letícia](https://open.spotify.com/track/1Qzse4pBfaUXY6wWOqYoRH) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Original](https://open.spotify.com/album/2v3K3T2LkhnYNlPhFI0yAZ) | 2:47 |
 | 19 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 50 | [Um Degrau na Escada \- Ao Vivo](https://open.spotify.com/track/49h9lUseWMnzyU0W8E40mP) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [CP 25 Anos, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53) | 4:11 |
 | 51 | [Vem Me Amar](https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Vem Me Amar](https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB) | 2:35 |
 | 52 | [Lovezão da Porra](https://open.spotify.com/track/3LrhQhUHudX7SOa2uYHO50) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Lovezão da Porra](https://open.spotify.com/album/6K5XxHJwvR1F0EXQm3AcBO) | 2:59 |
-| 53 | [Fora do Eixo \- Ao Vivo](https://open.spotify.com/track/69PsZHMRxyHbCiBLtmUVPJ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [TBT WS 2 \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/1tmO6NxvrqC1D3qBSEr43C) | 2:23 |
+| 53 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
 | 54 | [Então Vem Cá \- Ao Vivo](https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Ao Vivo Em São Paulo \- Deluxe](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:57 |
-| 55 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
+| 55 | [Fora do Eixo \- Ao Vivo](https://open.spotify.com/track/69PsZHMRxyHbCiBLtmUVPJ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [TBT WS 2 \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/1tmO6NxvrqC1D3qBSEr43C) | 2:23 |
 | 56 | [Vazou um Áudio \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Vazou um Áudio \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP) | 2:31 |
 | 57 | [Adivinha Aí](https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Adivinha Aí](https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj) | 2:36 |
 | 58 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |

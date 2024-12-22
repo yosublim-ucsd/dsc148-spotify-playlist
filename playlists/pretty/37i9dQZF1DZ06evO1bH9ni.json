@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 331377,
+  "num_followers": 331427,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAA8DoQB1fXVtPaUB6i91VSG",
+  "snapshot_id": "Z2SzgAAAAACB4QoD54k+m1HiCkzpHFEh",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ll\u00e9vate",
         "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 190626,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 191994,
-      "name": "El Envidioso",
-      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos Arrieros",
         "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 187156,
       "name": "Gracias a Ti",
       "url": "https://open.spotify.com/track/3xYQaGd5f4yX4ceJ2GylKz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "El Abuelo",
-      "url": "https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s de una Raz\u00f3n",
-        "url": "https://open.spotify.com/album/5PdSIlAXNjO9QW5v2Qt95Z"
+        "name": "El Dorado Fue Cobre",
+        "url": "https://open.spotify.com/album/6QCg0x55bd55x6KzmSLUc4"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 198129,
-      "name": "M\u00e1s de una Raz\u00f3n",
-      "url": "https://open.spotify.com/track/252gVdTF9yJpgPi5lT4q92"
+      "duration_ms": 200127,
+      "name": "El Dorado Fue Cobre",
+      "url": "https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb"
     }
   ],
   "unique_name": "This Is Los Dos Carnales",

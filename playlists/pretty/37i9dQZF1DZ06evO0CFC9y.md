@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,930 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,935 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 24 | [Ever And A Day](https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:06 |
 | 25 | [I Wanna Get A Mohawk \(But Mom Won't Let Me Get One\)](https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:12 |
 | 26 | [Porphyria](https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:07 |
-| 27 | [Rabbits Are Roadkill On Rt\. 37](https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow \(Deluxe\)](https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs) | 3:48 |
+| 27 | [File 13](https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:48 |
 | 28 | [Wester](https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:02 |
-| 29 | [File 13](https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:48 |
+| 29 | [Rabbits Are Roadkill On Rt\. 37](https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow \(Deluxe\)](https://open.spotify.com/album/2Z9ongblHLFgelZx9OGzQs) | 3:48 |
 | 30 | [Snow Cats](https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 3:20 |
 | 31 | [Malleus Maleficarum](https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 4:01 |
 | 32 | [The Nephilim](https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
 | 50 | [Third Season](https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 2:49 |
 
-Snapshot ID: `Z2NiAAAAAAATfpWZcRW9dyUkdKDthyIo`
+Snapshot ID: `Z2SzgAAAAAA+kgM9c7HjSJG3t8zsrJbH`

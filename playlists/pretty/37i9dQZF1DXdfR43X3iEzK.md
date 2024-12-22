@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > The best in new alternative pop\. Cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,024 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,038 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 34 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 |
 | 35 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
 | 36 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
-| 37 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 |
-| 38 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 37 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 38 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 |
 | 39 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 40 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 41 | [I Cried, I Wept](https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [I Cried, I Wept](https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA) | 3:31 |
@@ -66,27 +66,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 56 | [So Fast](https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:30 |
 | 57 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 58 | [ur special to me](https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [ur special to me](https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L) | 1:54 |
-| 59 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 |
-| 60 | [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 |
-| 61 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
+| 59 | [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 |
+| 60 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
+| 61 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 |
 | 62 | [dont let me go](https://open.spotify.com/track/7uVwJHgkpOI8mCCa0T23Vr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS) | 2:53 |
 | 63 | [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 |
-| 64 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 |
-| 65 | [Cycles](https://open.spotify.com/track/3QQ0xkLtifUsoSLjUBaVdb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:58 |
-| 66 | [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 |
+| 64 | [Cycles](https://open.spotify.com/track/3QQ0xkLtifUsoSLjUBaVdb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:58 |
+| 65 | [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 |
+| 66 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 |
 | 67 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 |
-| 68 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 |
-| 69 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 |
-| 70 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 |
-| 71 | [Shakes](https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Shakes](https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR) | 3:14 |
+| 68 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 |
+| 69 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 |
+| 70 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 |
+| 71 | [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 |
 | 72 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
-| 73 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 |
-| 74 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
-| 75 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
+| 73 | [Shakes](https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Shakes](https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR) | 3:14 |
+| 74 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
+| 75 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
 | 76 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 |
 | 77 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 |
 | 78 | [alone](https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [little vice](https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl) | 3:05 |
-| 79 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 |
-| 80 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 |
+| 79 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 |
+| 80 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 |
 
 Snapshot ID: `ZwhjeAAAAACloVjL/Six9Eoy8HUnD1r4`

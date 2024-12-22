@@ -20114,7 +20114,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -29822,7 +29822,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 214588,
       "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
       "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
@@ -33740,6 +33740,52 @@
       "duration_ms": 137910,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/7A4L0gD91GuKOf9rUOeH3U"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/6A55Fk5H7e0cjA9uBUnK9V"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/1jmZ7RAgAnDaMUeXJdhtZi"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264607,
+      "name": "Players Club '24 (feat. Low-Red, Tony Boy, Papa V, Nerissima Serpe, Artie 5ive, Kid Yugi, Astro)",
+      "url": "https://open.spotify.com/track/2vrIP2Q50rshudyAuMmw5O"
     },
     {
       "album": {
@@ -44662,7 +44708,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 186260,
       "name": "Video hot (feat. Geolier)",
       "url": "https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok"

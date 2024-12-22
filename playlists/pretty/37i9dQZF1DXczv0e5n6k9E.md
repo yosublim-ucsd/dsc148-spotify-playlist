@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bossikan
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,568 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,571 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 8 | [SHOOTER ME TN](https://open.spotify.com/track/37netkV0ymoeRg5qmwtmwW) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [SHOOTER ME TN](https://open.spotify.com/album/12L9wurTgo8rckZsWH9EG5) | 2:12 |
 | 9 | [BLACK PHONE MAFIA](https://open.spotify.com/track/6BbY1PRIpGi8jxyzmrSibV) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK) | [BLACK PHONE MAFIA](https://open.spotify.com/album/5yRQcQTtdQxSL4sMX2XhvF) | 5:22 |
 | 10 | [Kataramenos](https://open.spotify.com/track/0BX3JjlMC0KOUD1zqXc3Eg) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Kataramenos](https://open.spotify.com/album/2CyKGjthvLOU6h9iAhKhnQ) | 3:27 |
-| 11 | [International Gangsta](https://open.spotify.com/track/1LR8qpSRD2ULUiPQuUgsdr) | [Capital T](https://open.spotify.com/artist/6YGhVeajpGcixgdaTfakUL), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [International Gangsta](https://open.spotify.com/album/0w8yNu2XbYdsLk5qptQIdA) | 2:25 |
+| 11 | [International Gangsta](https://open.spotify.com/track/1LR8qpSRD2ULUiPQuUgsdr) | [Capital T](https://open.spotify.com/artist/6YGhVeajpGcixgdaTfakUL), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [International Gangster](https://open.spotify.com/album/0w8yNu2XbYdsLk5qptQIdA) | 2:25 |
 | 12 | [BOTTEGA VENETA](https://open.spotify.com/track/42zXt59oaCi2svsAU6YHoN) | [Lil Koni](https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [TRAP AFTER ALL](https://open.spotify.com/album/3VdIhuZI0k7NIX1vnQsCUz) | 2:07 |
 | 13 | [Mesanyxta](https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Mesanyxta](https://open.spotify.com/album/1cn6aLJqqHF4jZtLwOsTR6) | 3:02 |
 | 14 | [Lebron](https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Lebron](https://open.spotify.com/album/3vtNYVA89ySfe7X1ZPzVZW) | 2:57 |

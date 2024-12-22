@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D8j6p4CXZT.md) - [plain]
 
 > headphones on, forget the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,729 likes - 82 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,730 likes - 82 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D8j6p4CXZT.md) - [plain]
 | 54 | [please never fall in love again](https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf), [Ollie MN](https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk) | [please never fall in love again](https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd) | 2:37 |
 | 55 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 |
 | 56 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 |
-| 57 | [Angel Baby \- Slowed](https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/3rIzlFSrRENuXrBvGkDbqD) | [Angel Baby \(Slowed\)](https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w) | 4:22 |
+| 57 | [Angel Baby \- Slowed](https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Angel Baby \(Slowed\)](https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w) | 4:22 |
 | 58 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 |
 | 59 | [Podium](https://open.spotify.com/track/1JFkjNCaNYhnRp6VsOtA0C) | [JAKE](https://open.spotify.com/artist/68yI1OEbM5gVHY9UeJuP3L) | [Podium](https://open.spotify.com/album/2tHIqBEtQLI6Ieu9KN4EqI) | 3:00 |
 | 60 | [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 |

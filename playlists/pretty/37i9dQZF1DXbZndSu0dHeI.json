@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 229868,
+  "num_followers": 229891,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
     },
     {
-      "added_at": "2023-08-14 10:00:14",
-      "album": {
-        "name": "how can i pretend?",
-        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "ur so pretty",
-      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Veneer",
@@ -323,6 +307,22 @@
       "duration_ms": 160240,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
+    },
+    {
+      "added_at": "2023-08-14 10:00:14",
+      "album": {
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -673,38 +673,6 @@
       "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
-    },
-    {
-      "added_at": "2024-02-18 00:00:00",
-      "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
       "added_at": "2023-07-04 22:20:24",
       "album": {
         "name": "Headlands",
@@ -721,20 +689,20 @@
       "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     },
     {
-      "added_at": "2023-01-13 13:15:53",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
       },
       "artists": [
         {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 59026,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -753,20 +721,36 @@
       "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2023-01-13 13:15:53",
       "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
       "artists": [
         {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
+      "duration_ms": 59026,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
+    },
+    {
+      "added_at": "2024-02-18 00:00:00",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -783,6 +767,22 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
     },
     {
       "added_at": "2024-02-18 00:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 220208,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 220208,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
       "artists": [
         {
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "is that all there is?",
-        "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
-      },
-      "artists": [
-        {
-          "name": "amy michelle",
-          "url": "https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "welcome to the sidelines",
-      "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
-    },
-    {
       "added_at": "2024-03-28 22:30:08",
       "album": {
         "name": "Never Trust a Happy Song",
@@ -1487,6 +1471,22 @@
       "duration_ms": 210426,
       "name": "Naked Kids",
       "url": "https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "is that all there is?",
+        "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
+      },
+      "artists": [
+        {
+          "name": "amy michelle",
+          "url": "https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "welcome to the sidelines",
+      "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
     },
     {
       "added_at": "2024-03-22 14:38:07",
@@ -1625,24 +1625,20 @@
       "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2024-02-21 11:44:23",
       "album": {
-        "name": "So Unimportant",
-        "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
+        "name": "One More Thing",
+        "url": "https://open.spotify.com/album/6jU18Jwl900BeZDrnyXkDB"
       },
       "artists": [
         {
-          "name": "Ethan Gruska",
-          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
         }
       ],
-      "duration_ms": 263320,
-      "name": "So Unimportant",
-      "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+      "duration_ms": 167631,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/1nE2RifXS8bI1GwdgnaXIo"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

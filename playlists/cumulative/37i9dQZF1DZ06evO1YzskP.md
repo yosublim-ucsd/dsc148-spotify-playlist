@@ -4,7 +4,7 @@
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-80 songs - 3 hr 55 min
+81 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Señor Guzmán](https://open.spotify.com/track/5EAi0bdw7Dn7Bv9sfJvy8H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Señor Guzmán](https://open.spotify.com/album/4DRjc62l2MeMib8KOzXqAt) | 3:17 | 2024-04-07 | 2024-05-19 |
 | [Si No Estás](https://open.spotify.com/track/23rsNGqAU6mBbUe4dEk8b9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:35 | 2024-08-30 |  |
 | [Somos Mayiza](https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX) | 3:12 | 2024-01-29 |  |
+| [Sálvame](https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Sálvame](https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB) | 3:13 | 2024-12-22 |  |
 | [Tiempos De Guerra](https://open.spotify.com/track/4H8FjCpqI9EXaau6T5yILG) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:45 | 2024-01-29 |  |
 | [Tus Red flags](https://open.spotify.com/track/0AJsXKUr5Zjtz1GXH34cOB) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:10 | 2024-08-30 |  |
 | [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 | 2024-11-29 |  |

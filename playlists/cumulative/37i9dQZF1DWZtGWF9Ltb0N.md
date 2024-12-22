@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-717 songs - 2 day 0 hr 31 min
+718 songs - 2 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Dark Arts](https://open.spotify.com/track/1aRx7H81gB0ttPEL0S5F2l) | [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Dark Arts](https://open.spotify.com/album/2AgncJ8A2KUv9DPQIsR4xc) | 3:39 | 2022-02-17 | 2022-07-30 |
 | [Dark Guru](https://open.spotify.com/track/3wPJnbaKlWylBEdHNA0u9D) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Dark Guru](https://open.spotify.com/album/14i1awOjIHMy4iYVJNKRar) | 3:57 | 2022-02-17 | 2022-11-19 |
 | [Dark Moon](https://open.spotify.com/track/2qKZuu7zSMKoSiM7vE58Ez) | [MeSo](https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe), [Kurei](https://open.spotify.com/artist/4vhBj1tAmj0jreQyGM7s9W) | [Dark Moon](https://open.spotify.com/album/1T8N40MFM6T28qUNI9Pun5) | 2:01 | 2024-02-16 |  |
-| [Dark Wing](https://open.spotify.com/track/6pBqdX2uWt9fZOLZ5tnz6w) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Dark Wing](https://open.spotify.com/album/52RrqDeEPeiA5JWrnLWIb8) | 3:37 | 2022-06-03 |  |
+| [Dark Wing](https://open.spotify.com/track/6pBqdX2uWt9fZOLZ5tnz6w) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Dark Wing](https://open.spotify.com/album/52RrqDeEPeiA5JWrnLWIb8) | 3:37 | 2022-06-03 | 2024-12-22 |
 | [Darkness](https://open.spotify.com/track/1O2O3i80RzKsaW3xvCXIJ0) | [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z), [Torcha](https://open.spotify.com/artist/4T3lVWSpnJHDwHMubsVjAl) | [Darkness](https://open.spotify.com/album/7z863ZdG17dRULD4JCkyeE) | 3:05 | 2024-09-06 |  |
 | [Darkness Interim](https://open.spotify.com/track/0yFjx1pX9fDhREx0NZjoyL) | [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [Darkness Interim](https://open.spotify.com/album/4x0qmzoQosyWmx4GtnwWlq) | 3:12 | 2022-09-02 | 2023-07-12 |
 | [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 | 2023-08-18 |  |
@@ -336,6 +336,7 @@
 | [Kicked](https://open.spotify.com/track/6mkdWnNMw9tFc3gdwvxSJR) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda) | [Kicked](https://open.spotify.com/album/6XhvNhayfGvoixsMaboxG7) | 2:45 | 2022-02-17 |  |
 | [Kik Bak](https://open.spotify.com/track/7wal8mxwO4hBrqYXEbx5w4) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Mild Snake](https://open.spotify.com/album/72l32wShYZSe4SEfImLwEI) | 3:30 | 2024-02-09 | 2024-08-24 |
 | [Killshot](https://open.spotify.com/track/4NO6QK7TLn9oAgle11nDnE) | [Unkey](https://open.spotify.com/artist/4RCLOZtadG5NfdrNLAhzBd), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Killshot / Charge](https://open.spotify.com/album/0id6JIHrD6ZigcPS4PSSrF) | 4:08 | 2024-08-09 | 2024-08-31 |
+| [King \- A Hundred Drums Remix](https://open.spotify.com/track/2aVIdrIhjtwQPg7ZKKIs0r) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Antagonist Remixes \(Part II\)](https://open.spotify.com/album/3hnm57ktjH8oJcses785xf) | 2:59 | 2024-12-20 |  |
 | [Know We](https://open.spotify.com/track/3dCgqChdEQ8UoGo5lEml6q) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [Know We / Horse From Igloo](https://open.spotify.com/album/2jIOrIOk9SLj3QK20uDYen) | 5:12 | 2024-02-23 | 2024-09-14 |
 | [Kopstoot \- Hebbe Remix](https://open.spotify.com/track/1Eey1ZEf4hXRAOvJLQOAK2) | [Sweepa](https://open.spotify.com/artist/0mfu0QSlPDMgCNNskqdDDY), [Francesco Paolo Tosti](https://open.spotify.com/artist/4JMye18gQjYis7boz7XWyC), [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Kopstoot \(Hebbe remix\)](https://open.spotify.com/album/3gvAGT8z2rrPTZkRgwFgEz) | 4:27 | 2022-02-17 | 2022-07-26 |
 | [Kula Kula \- The Widdler Remix](https://open.spotify.com/track/74EvryuRQteh7iK4OOyKYv) | [Pushloop](https://open.spotify.com/artist/4FgEa4SLDSV3oGpaFvlZi9), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Midnight Wax](https://open.spotify.com/album/2JMJL7VIJZcZQjffjjwnVJ) | 4:48 | 2022-02-17 | 2024-08-20 |

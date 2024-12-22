@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。d4vd, Katy Perry, TWICE, Tom Misch,  and more! cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,825 likes - 63 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,829 likes - 63 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 30 | [Answer](https://open.spotify.com/track/3KJ8iXIr2eUztbfNtk1Zg4) | [Godzilla East](https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM) | [Answer](https://open.spotify.com/album/2MuyNjWV4SDFCudotZyNnW) | 3:12 |
 | 31 | [FLOW](https://open.spotify.com/track/1IrfhbQTbH2ikKHxAuBeab) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [FLOW](https://open.spotify.com/album/4ZVDy93t8G2t4LnwIxy6bR) | 1:49 |
 | 32 | [MERCY](https://open.spotify.com/track/4GPfAq5JpXFgiSoQjLGVvd) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [MERCY](https://open.spotify.com/album/1nrpVysMvMIkdYoGGdZ8WI) | 2:38 |
-| 33 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 33 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 34 | [HAPPY MAN](https://open.spotify.com/track/40szqdafGlbPjQx7a8y8fP) | [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [COLOURS](https://open.spotify.com/album/7aXEuQxqR5mTsWmZA77vuz) | 2:39 |
 | 35 | [why you gotta do me like that?](https://open.spotify.com/track/0kiGmBggN09ikIElc6gQlC) | [RYOTA 片山凉太](https://open.spotify.com/artist/4AqWE3RWMUveYgB48txw9y), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [what am i to you?](https://open.spotify.com/album/67VAWpThoyTiaVNd1EAIuK) | 3:01 |
 | 36 | [Nobody Like きゅん](https://open.spotify.com/track/7LTPXAVsRUJgxoM00zZLLf) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [Nobody Like きゅん](https://open.spotify.com/album/7jHlxjXwVtTQjWRN6euVPq) | 2:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,305 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,312 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 10 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
 | 11 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 |
 | 12 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
-| 13 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 |
+| 13 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:31 |
 | 14 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
 | 15 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
-| 16 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 |
+| 16 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 |
 | 17 | [SOIS PAS TIMIDE](https://open.spotify.com/track/0yyFAbTlOk7DFhh6RSug9S) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 2:45 |
 | 18 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 |
 | 19 | [SPIDER](https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 3:08 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 37 | [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 |
 | 38 | [Belong Together](https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Rockwood](https://open.spotify.com/album/3Kb9vAa1RBNXEQltJpPxwE) | 2:28 |
 | 39 | [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 |
-| 40 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
+| 40 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 41 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |
 | 42 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 43 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 46 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 | 47 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 48 | [Het Midden](https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Het Midden](https://open.spotify.com/album/1eYh1llwQaIEZz3EowQFGS) | 2:41 |
-| 49 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 |
+| 49 | [Mistletoe](https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe](https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH) | 3:02 |
 | 50 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 
-Snapshot ID: `LvjbSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LvovIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

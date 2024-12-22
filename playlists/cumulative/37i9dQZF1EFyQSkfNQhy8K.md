@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 9 hr 45 min
+191 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2024-01-29 |  |
 | [Party En Mi Casa](https://open.spotify.com/track/7CdCBGe3mOkOdbH2qT7EGK) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 2:37 | 2024-01-29 |  |
 | [Party En Mi Casa](https://open.spotify.com/track/4zz8TmDnxh74GXdA7oPElH) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Party En Mi Casa \(Official Video\)](https://open.spotify.com/album/2G0QdYZx8QXxjbWvjsqGss) | 2:40 | 2024-01-30 | 2024-02-02 |
+| [Pa’ Qué Volviste?](https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Pa’ Qué Volviste?](https://open.spotify.com/album/4XaqqBH97CiSaqizhTViur) | 3:12 | 2024-12-21 |  |
 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 | 2024-01-29 | 2024-08-15 |
 | [Picachu](https://open.spotify.com/track/47okf9FXUNLHknAwoMI1L4) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Picachu](https://open.spotify.com/album/40xnE58mcngMBNfqCYM99U) | 2:47 | 2024-01-29 |  |
 | [Pimienta](https://open.spotify.com/track/1SyVu9E0u0FfGpuzNHtQ9a) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Pimienta](https://open.spotify.com/album/01ZZUMyrr1tCKd07boAatk) | 3:12 | 2024-01-29 |  |

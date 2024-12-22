@@ -4,7 +4,7 @@
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: LANDMVRKS
 
-1,097 songs - 2 day 19 hr 38 min
+1,098 songs - 2 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Concrete](https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Concrete](https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K) | 3:18 | 2024-06-04 | 2024-08-31 |
 | [Condemned](https://open.spotify.com/track/6KqXs2ac8eXus6s97mexwD) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Condemned](https://open.spotify.com/album/5caXsrxlNAC9YQBVavvPUK) | 4:06 | 2021-12-17 | 2022-01-22 |
 | [Conflict](https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Conflict](https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE) | 2:24 | 2024-03-01 |  |
-| [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 | 2024-02-23 |  |
+| [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 | 2024-02-23 | 2024-12-22 |
 | [Continuum \- Feat\. Niklas Karlsson](https://open.spotify.com/track/1e9YEwhvmlAxhdDj7hcLIx) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH), [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY), [Niklas Karlsson](https://open.spotify.com/artist/5dYTF0kETzMSgmsEtUOxu8) | [Continuum \(Feat\. Niklas Karlsson\)](https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw) | 4:17 | 2024-10-18 |  |
 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 | 2023-06-02 | 2023-09-23 |
 | [Crawl Backwards Out of Heaven](https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Crawl Backwards Out of Heaven](https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw) | 3:22 | 2024-03-27 | 2024-08-13 |
@@ -660,6 +660,7 @@
 | [nerv](https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [nerv](https://open.spotify.com/album/1wEIPoFfCdeo6Bpnxlc9ao) | 3:12 | 2024-11-22 |  |
 | [Neuro](https://open.spotify.com/track/5bOmleKvMS956pVl9uBLaI) | [Dal Av](https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri) | [Neuro](https://open.spotify.com/album/6YlSznx44NDU19Gyehrjq6) | 3:54 | 2022-07-13 | 2022-07-15 |
 | [Neurotic](https://open.spotify.com/track/4rU48VWAcAFG36R0k1Wlfj) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [What I'll Leave Behind](https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b) | 3:06 | 2024-09-20 | 2024-10-19 |
+| [Never Enough](https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Never Enough](https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1) | 3:19 | 2024-12-20 |  |
 | [NEVERBLOOM](https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x) | [DEADSKIN](https://open.spotify.com/artist/4a4jP87ETErMj9iUJHI507) | [NEVERBLOOM](https://open.spotify.com/album/7GxPF1osJdbgpN9TYn6HEi) | 4:10 | 2023-07-14 | 2023-09-30 |
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-13 | 2022-07-23 |
 | [New Devil](https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP), [Dickie Allen](https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E) | [New Devil](https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk) | 2:19 | 2024-06-04 | 2024-12-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: La Sécurité
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,918 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,919 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 38 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 |
 | 39 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 |
 | 40 | [Ton hôtel](https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 2:25 |
-| 41 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 |
-| 42 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
+| 41 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
+| 42 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 |
 | 43 | [Le grand écart](https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Supermercado](https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK) | 4:02 |
 | 44 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 |
 | 45 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |

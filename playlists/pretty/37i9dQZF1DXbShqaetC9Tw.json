@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 98576,
+  "num_followers": 98587,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 203269,
-      "name": "SUNSET WITH YOU",
-      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "Careless I Love You (Secret Relationships X Paul Blanco)",
         "url": "https://open.spotify.com/album/3mxfjPxPCkW210ymyiTVf9"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 140040,
       "name": "Careless I Love You",
       "url": "https://open.spotify.com/track/4EnlWcJi1HfjeINcs5X6XT"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 203269,
+      "name": "SUNSET WITH YOU",
+      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Empty Cup",
-      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "4 Seasons",
         "url": "https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 151106,
       "name": "4 Seasons",
       "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Empty Cup",
+      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -527,26 +527,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "EASTERN NIGHT",
-        "url": "https://open.spotify.com/album/6TT3xrKiSKDn5ifKTNqNQw"
-      },
-      "artists": [
-        {
-          "name": "KIMMUSEUM",
-          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
-        },
-        {
-          "name": "JEMN",
-          "url": "https://open.spotify.com/artist/3bROOtkyZ30ZPt8hVemTK5"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "vestigial organ",
-      "url": "https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "L&B",
         "url": "https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 219428,
       "name": "Let off steam",
       "url": "https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "EASTERN NIGHT",
+        "url": "https://open.spotify.com/album/6TT3xrKiSKDn5ifKTNqNQw"
+      },
+      "artists": [
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        },
+        {
+          "name": "JEMN",
+          "url": "https://open.spotify.com/artist/3bROOtkyZ30ZPt8hVemTK5"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "vestigial organ",
+      "url": "https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "JONGHYUN The Collection \"Story Op.2\"",
-        "url": "https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o"
-      },
-      "artists": [
-        {
-          "name": "JONGHYUN",
-          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
-        }
-      ],
-      "duration_ms": 262513,
-      "name": "Fireplace",
-      "url": "https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "Black & White Film",
         "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 159386,
       "name": "Black & White Film (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "JONGHYUN The Collection \"Story Op.2\"",
+        "url": "https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "duration_ms": 262513,
+      "name": "Fireplace",
+      "url": "https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ"
     },
     {
       "added_at": "2024-12-05 09:41:26",

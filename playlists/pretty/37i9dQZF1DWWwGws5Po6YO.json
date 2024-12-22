@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Hollie Kenniff",
-  "num_followers": 46070,
+  "num_followers": 46123,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Axis Of Light",
-        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
-      },
-      "artists": [
-        {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Drip In The Cave",
-      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
-      },
-      "artists": [
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Kali",
         "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 437059,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
+      },
+      "artists": [
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Marina`s Song",
-        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
-      },
-      "artists": [
-        {
-          "name": "EIRLYS",
-          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
-        }
-      ],
-      "duration_ms": 303828,
-      "name": "Marina`s Song",
-      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
         "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 236286,
       "name": "Cross-Contamination",
       "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "Marina`s Song",
+        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
+      },
+      "artists": [
+        {
+          "name": "EIRLYS",
+          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
+        }
+      ],
+      "duration_ms": 303828,
+      "name": "Marina`s Song",
+      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Bassin Bleu",
-        "url": "https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB"
+        "name": "Sky Flesh",
+        "url": "https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3"
       },
       "artists": [
         {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "Marta De Pascalis",
+          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
         }
       ],
-      "duration_ms": 359398,
-      "name": "Bassin Bleu",
-      "url": "https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco"
+      "duration_ms": 300000,
+      "name": "Harmonices Infinity",
+      "url": "https://open.spotify.com/track/4ODfW9GRZ2ePNCY8B8yRLh"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Possessed (Original Score)",
-        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 387268,
-      "name": "Hyphae",
-      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Rincones Seguros",
         "url": "https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5"
       },
@@ -1251,18 +1235,34 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "Sky Flesh",
-        "url": "https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3"
+        "name": "Possessed (Original Score)",
+        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
       },
       "artists": [
         {
-          "name": "Marta De Pascalis",
-          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Harmonices Infinity",
-      "url": "https://open.spotify.com/track/4ODfW9GRZ2ePNCY8B8yRLh"
+      "duration_ms": 387268,
+      "name": "Hyphae",
+      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "Bassin Bleu",
+        "url": "https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 359398,
+      "name": "Bassin Bleu",
+      "url": "https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "The Light That's Left",
-        "url": "https://open.spotify.com/album/3NtOQRJTmdeYpehXVp6IfB"
-      },
-      "artists": [
-        {
-          "name": "Cheryl B. Engelhardt",
-          "url": "https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "The Light That's Left",
-      "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Desert Ballads",
         "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
       },
@@ -1559,6 +1543,42 @@
       "duration_ms": 194004,
       "name": "Dark green",
       "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "The Light That's Left",
+        "url": "https://open.spotify.com/album/3NtOQRJTmdeYpehXVp6IfB"
+      },
+      "artists": [
+        {
+          "name": "Cheryl B. Engelhardt",
+          "url": "https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "The Light That's Left",
+      "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
+        "name": "The Fifth Season (Versions)",
+        "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
+      },
+      "artists": [
+        {
+          "name": "Lafawndah",
+          "url": "https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 674042,
+      "name": "You, at the End - Laurel Halo Version",
+      "url": "https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e"
     },
     {
       "added_at": "2024-12-12 17:57:28",
@@ -1595,26 +1615,6 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
-        "name": "The Fifth Season (Versions)",
-        "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
-      },
-      "artists": [
-        {
-          "name": "Lafawndah",
-          "url": "https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP"
-        },
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 674042,
-      "name": "You, at the End - Laurel Halo Version",
-      "url": "https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
         "name": "Trian",
         "url": "https://open.spotify.com/album/1HXxTz5eJWOkvmAl9jVnsS"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-12-12 17:57:28",
       "album": {
+        "name": "Arboretum",
+        "url": "https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 218505,
+      "name": "Winter into Spring",
+      "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"
+    },
+    {
+      "added_at": "2024-12-12 17:57:28",
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/7tO4B8txFxMa6AkydiSS9X"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 653904,
       "name": "Spectacle Of Ritual",
       "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
-    },
-    {
-      "added_at": "2024-12-12 17:57:28",
-      "album": {
-        "name": "Arboretum",
-        "url": "https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 218505,
-      "name": "Winter into Spring",
-      "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"
     },
     {
       "added_at": "2024-12-12 17:57:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,490 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,493 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 66 | [Go Get It](https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Go Get It](https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV) | 2:21 |
 | 67 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 |
 | 68 | [Même les loups versent des larmes de joie](https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:11 |
-| 69 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 |
-| 70 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 |
-| 71 | [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 |
+| 69 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 |
+| 70 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 |
+| 71 | [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 |
 | 72 | [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 |
-| 73 | [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 |
+| 73 | [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 |
 | 74 | [Nous sommes](https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Encounter](https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75) | 2:47 |
 | 75 | [Pain](https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain](https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y) | 4:02 |
 | 76 | [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 80 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 |
 | 81 | [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 |
 | 82 | [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 |
-| 83 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 |
-| 84 | [Montréal \- Avec Louis\-Jean Cormier](https://open.spotify.com/track/6fR0LwJ6ZQaIk0RMBjtRjD) | [Joe Bel](https://open.spotify.com/artist/2vDwHj2hEnJPsD5cOrbo7G), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Montréal \(Avec Louis\-Jean Cormier\)](https://open.spotify.com/album/5JscHrlWGficiFNu4ULZrM) | 4:00 |
+| 83 | [Montréal \- Avec Louis\-Jean Cormier](https://open.spotify.com/track/6fR0LwJ6ZQaIk0RMBjtRjD) | [Joe Bel](https://open.spotify.com/artist/2vDwHj2hEnJPsD5cOrbo7G), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Montréal \(Avec Louis\-Jean Cormier\)](https://open.spotify.com/album/5JscHrlWGficiFNu4ULZrM) | 4:00 |
+| 84 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 |
 | 85 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
 | 86 | [Pleure pas pour moi](https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:17 |
 | 87 | [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 96 | [Les travaux](https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère](https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv) | 3:50 |
 | 97 | [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 |
 | 98 | [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 |
-| 99 | [Grande fille](https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 2:53 |
-| 100 | [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 |
+| 99 | [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 |
+| 100 | [Grande fille](https://open.spotify.com/track/2l39S62wgUeTbeLBgU9IcN) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 2:53 |
 
 Snapshot ID: `Z0oDswAAAAAk7ZTUNiTOfIRtcD3NFqij`

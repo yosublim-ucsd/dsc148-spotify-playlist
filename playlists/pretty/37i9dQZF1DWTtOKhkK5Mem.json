@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 778540,
+  "num_followers": 778664,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Where Do I Begin - Love Theme from \"Love Story\"",
-      "url": "https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Gotta Get Thru This",
         "url": "https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 257026,
       "name": "If You're Not The One",
       "url": "https://open.spotify.com/track/6B6aCxSBsECsulzOkJRxGv"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Where Do I Begin - Love Theme from \"Love Story\"",
+      "url": "https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Tuesdays",
-        "url": "https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 216989,
-      "name": "Tuesdays",
-      "url": "https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Michael Learns To Rock (1991)",
         "url": "https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 273600,
       "name": "The Actor",
       "url": "https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Tuesdays",
+        "url": "https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 216989,
+      "name": "Tuesdays",
+      "url": "https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Dreaming Out Loud",
-        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 261653,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/0bJfgUyjfPJYqRgUxb12Eh"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 262520,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 261653,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/0bJfgUyjfPJYqRgUxb12Eh"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Take Me Home: Yearbook Edition",
-        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Teaser And The Firecat",
         "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 200000,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Take Me Home: Yearbook Edition",
+        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
     },
     {
       "added_at": "2022-08-26 12:00:00",

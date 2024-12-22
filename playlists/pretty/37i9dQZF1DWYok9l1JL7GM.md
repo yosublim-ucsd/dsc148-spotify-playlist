@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 
 > The south got something to say\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,103 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,161 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 | 32 | [Sunshine \(feat\. Lea\)](https://open.spotify.com/track/4s0o8TJHfX9LLHa0umnOzT) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS), [Lea](https://open.spotify.com/artist/4tAhhPPEWcszcMjhYROUvx) | [U Gotta Feel Me](https://open.spotify.com/album/548NoYLgqSBDTNIYvlpDu5) | 3:45 |
 | 33 | [Bust It Baby, Pt\. 2 \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Definition of Real](https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA) | 4:00 |
 | 34 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
-| 35 | [Move Bitch](https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 4:30 |
-| 36 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 |
+| 35 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 |
+| 36 | [Move Bitch](https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 4:30 |
 | 37 | [What You Know](https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 4:34 |
 | 38 | [Go DJ](https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:41 |
 | 39 | [Poppin' My Collar \(feat\. Project Pat\)](https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:56 |
-| 40 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
+| 40 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
 | 41 | [Shawty \(feat\. T Pain\)](https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 4:15 |
-| 42 | [I Luv It](https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Inspiration](https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP) | 4:00 |
+| 42 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
 | 43 | [Rosa Parks](https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:24 |
 | 44 | [Hustler Musik](https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 5:03 |
 | 45 | [Half On a Sack](https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:26 |

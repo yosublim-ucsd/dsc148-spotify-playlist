@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 
 > Move your way through the day with the dance tracks you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,974 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,977 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 67 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
 | 68 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 |
 | 69 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 |
-| 70 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
-| 71 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
+| 70 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
+| 71 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
 | 72 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 |
 | 73 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 |
 | 74 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |

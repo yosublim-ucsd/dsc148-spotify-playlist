@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Burna Boy au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,736 likes - 57 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,753 likes - 57 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 12 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 |
 | 13 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
 | 14 | [Hells Angels \- Bonus](https://open.spotify.com/track/2eLTEVt90dWWB0ymzK8S9H) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem \(Bonus\)](https://open.spotify.com/album/4jZbTlvvt8CAzBQSixgY9U) | 2:37 |
-| 15 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 15 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 16 | [Ndotchi](https://open.spotify.com/track/73v0rBVXgQY4eGZame8xS7) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Ndotchi](https://open.spotify.com/album/6ewMCyhLTF82BQuzAKjykO) | 2:35 |
 | 17 | [ABC](https://open.spotify.com/track/4x4zGJYBa39QEkc1KTgqtc) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TRES CREUS](https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s) | 3:01 |
 | 18 | [JE T'AI AIMÉ](https://open.spotify.com/track/4KamHbFTO14c8WZenoFcYU) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [JE T'AI AIMÉ](https://open.spotify.com/album/3WEjpSvLfi5BBEUVtZdx9i) | 3:40 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 49 | [Fall In Love](https://open.spotify.com/track/0ztZ3jKceKT3L02wNAvHeo) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [BCMP](https://open.spotify.com/artist/21LJD2uYWRm9v5Klx1qDRR), [Alex Martin](https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c), [KEYTON](https://open.spotify.com/artist/5Tfpom9xTru2xTcnd2QBLi), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Fall In Love](https://open.spotify.com/album/3BRoOx18UgNyigwqBvqGd5) | 2:47 |
 | 50 | [Chat Noir](https://open.spotify.com/track/324N04SYbstNCzNUacJxXD) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a) | [Chat Noir](https://open.spotify.com/album/29YpUUkti7kvwpMa1GUsDl) | 2:58 |
 | 51 | [Kaira](https://open.spotify.com/track/4D5iQXOUqAx1EjleJ9h6MH) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [Kaira](https://open.spotify.com/album/0YwTbbQEhbZ17iflSUJQ7I) | 3:11 |
-| 52 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 52 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 53 | [Emely](https://open.spotify.com/track/0nQtzpGI0FJhqW4H4g0hRY) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [Locko](https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ) | [Emely](https://open.spotify.com/album/70jgn8LIao3r27dSQVM44p) | 2:23 |
 | 54 | [Toujours](https://open.spotify.com/track/4fF3zJyAT0vTEoxM8AOLch) | [La Grande Dame](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh), [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Est\-ce que tu penses à moi? / Toujours](https://open.spotify.com/album/1a47ocbpbFBs7QRTbue1Lw) | 2:32 |
 | 55 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |

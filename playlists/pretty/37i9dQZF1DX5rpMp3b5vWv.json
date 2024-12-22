@@ -1,6 +1,6 @@
 {
   "description": "Game time.",
-  "num_followers": 270909,
+  "num_followers": 271056,
   "original_name": "Laced Up",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 135920,
-      "name": "Father Stretch My Hands Pt. 1",
-      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 172800,
       "name": "Ric Flair Drip (with Metro Boomin)",
       "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 135920,
+      "name": "Father Stretch My Hands Pt. 1",
+      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
     },
     {
       "added_at": "2023-12-28 18:28:27",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-12-28 18:28:27",
       "album": {
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Love Sosa",
+      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+    },
+    {
+      "added_at": "2023-12-28 18:28:27",
+      "album": {
         "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
         "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 205733,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
-    },
-    {
-      "added_at": "2023-12-28 18:28:27",
-      "album": {
-        "name": "Finally Rich",
-        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "Love Sosa",
-      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
     },
     {
       "added_at": "2023-12-28 18:28:27",

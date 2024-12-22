@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,075 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,081 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 33 | [Waymaker](https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM), [Madelyn Berry](https://open.spotify.com/artist/0BQdLOsJd5icawEym8uBp0) | [Awaken: The Surrounded Experience](https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa) | 7:17 |
 | 34 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 |
 | 35 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
-| 36 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
-| 37 | [Yahweh \(feat\. Matthew Stevenson & Chandler Moore\)](https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF) | [All Nations Music](https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU), [Matthew Stevenson](https://open.spotify.com/artist/1rUprF6B19ELkhEBR0Nqf2), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Come Alive](https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t) | 9:30 |
+| 36 | [Yahweh \(feat\. Matthew Stevenson & Chandler Moore\)](https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF) | [All Nations Music](https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU), [Matthew Stevenson](https://open.spotify.com/artist/1rUprF6B19ELkhEBR0Nqf2), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Come Alive](https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t) | 9:30 |
+| 37 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
 | 38 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
 | 39 | [I Surrender](https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Take Heart \(Again\)](https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O) | 5:14 |
 | 40 | [Where Do I Fit In \(feat\. Tori Kelly, Chandler Moore & Judah Smith\)](https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Judah Smith](https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:46 |

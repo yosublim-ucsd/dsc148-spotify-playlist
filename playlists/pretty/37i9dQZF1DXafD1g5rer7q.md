@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,851 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,933 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 9 | [Call on Me \- Radio Mix](https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call on Me \(Radio Mix\)](https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z) | 2:51 |
 | 10 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
 | 11 | [Let's Go](https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [Let's Go](https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6) | 2:39 |
-| 12 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
-| 13 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 |
+| 12 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 |
+| 13 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 14 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 15 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 16 | [SOS \(feat\. Aloe Blacc\)](https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 2:37 |

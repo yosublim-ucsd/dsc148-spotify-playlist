@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG?si=ruGXGJTQTHeaKrS\-Bo0HjQ">Vancoet</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,300 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,317 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 5 | [Die Stryd](https://open.spotify.com/track/6WBOpGhSpsZgNhjENuaeMV) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Die Stryd](https://open.spotify.com/album/0EGGgOzLhMdK9zw88wLQfD) | 3:07 |
 | 6 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
 | 7 | [Bakers Mini Krieket](https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ) | [Dawid de Koning en die Kommuniste](https://open.spotify.com/artist/3e1L6NN9GvUjXIoG50dsN2) | [Aangenaam](https://open.spotify.com/album/7fcYzRPTd0fOGxPwbuzBB5) | 3:57 |
-| 8 | [BOSS](https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [BOSS](https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU) | 2:22 |
+| 8 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
 | 9 | [The Brink \(Single\)](https://open.spotify.com/track/5hr0V9XWF2U4eNa9udhIfe) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [The Brink \(Single\)](https://open.spotify.com/album/3w137vq1Zrbyrx3BjkyRjl) | 3:07 |
-| 10 | [People Change](https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [People Change](https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6) | 3:26 |
+| 10 | [BOSS](https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [BOSS](https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU) | 2:22 |
 | 11 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
 | 12 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
 | 13 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 14 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 15 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 16 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
-| 17 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
-| 18 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
+| 17 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
+| 18 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 | 19 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 20 | [I Won't Come to Your Opening](https://open.spotify.com/track/7mG4al2qBtJHVUIyQ0kKuP) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [I Won't Come to Your Opening](https://open.spotify.com/album/0WMIirciFV7OjikmVCGBwE) | 2:30 |
 | 21 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 38 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
 | 39 | [Like You Madly](https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9) | [Just Jinger](https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo) | [All Comes Round 20th Anniversary Edition](https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X) | 3:36 |
 | 40 | [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 |
-| 41 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 |
-| 42 | [Got You Callin'](https://open.spotify.com/track/4NXHnLoAnA0ebrwYXDkawN) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Got You Callin'](https://open.spotify.com/album/1hh15SUh0g5G4rvsOVarYS) | 2:35 |
-| 43 | [Kondisie](https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Kondisie](https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq) | 3:26 |
-| 44 | [30 Kilos Na Parys](https://open.spotify.com/track/2VUWFkcSywxFfxfiLRSlPV) | [NIKOTIEN](https://open.spotify.com/artist/1owyXkdGxYWNYxr9YknHG0) | [30 Kilos Na Parys](https://open.spotify.com/album/1O2jsjrxKYiTCy0NJTTzat) | 5:06 |
+| 41 | [30 Kilos Na Parys](https://open.spotify.com/track/2VUWFkcSywxFfxfiLRSlPV) | [NIKOTIEN](https://open.spotify.com/artist/1owyXkdGxYWNYxr9YknHG0) | [30 Kilos Na Parys](https://open.spotify.com/album/1O2jsjrxKYiTCy0NJTTzat) | 5:06 |
+| 42 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 |
+| 43 | [Got You Callin'](https://open.spotify.com/track/4NXHnLoAnA0ebrwYXDkawN) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Got You Callin'](https://open.spotify.com/album/1hh15SUh0g5G4rvsOVarYS) | 2:35 |
+| 44 | [Kondisie](https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Kondisie](https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq) | 3:26 |
 | 45 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
-| 46 | [VIR MEKAAR](https://open.spotify.com/track/5xigfyoNmDGCYa2UsIcT79) | [Bloumoord](https://open.spotify.com/artist/0BKNk93PhvcdLj5Jgtttaa) | [VIR MEKAAR](https://open.spotify.com/album/5CDUgys5NIMlN0lhEQqTJD) | 3:23 |
-| 47 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 |
-| 48 | [Horison](https://open.spotify.com/track/0z8OOFo7PRYBfXtIWQtPIW) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Horison](https://open.spotify.com/album/4F6VkaQ8rveCiC7evrzhV7) | 3:42 |
-| 49 | [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 |
-| 50 | [Falling](https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Falling](https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn) | 2:36 |
+| 46 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 |
+| 47 | [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 |
+| 48 | [Twisted](https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Long Live Tonight](https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo) | 4:04 |
+| 49 | [VIR MEKAAR](https://open.spotify.com/track/5xigfyoNmDGCYa2UsIcT79) | [Bloumoord](https://open.spotify.com/artist/0BKNk93PhvcdLj5Jgtttaa) | [VIR MEKAAR](https://open.spotify.com/album/5CDUgys5NIMlN0lhEQqTJD) | 3:23 |
+| 50 | [Horison](https://open.spotify.com/track/0z8OOFo7PRYBfXtIWQtPIW) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Horison](https://open.spotify.com/album/4F6VkaQ8rveCiC7evrzhV7) | 3:42 |
 
 Snapshot ID: `Z2SXeQAAAABLNHqwsyss+oGrpj6AjoPa`

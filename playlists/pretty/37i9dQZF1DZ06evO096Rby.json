@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 38112,
+  "num_followers": 38137,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAC8cnvlL387xuVET3os1oer",
+  "snapshot_id": "Z2SzgAAAAAAp6CGX6b+BMY5DEy33pAjj",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/207mlKGuZM6YUFE9lyGSia"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ajustad\u00f3n",
         "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 159685,
       "name": "Ajustad\u00f3n",
       "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/207mlKGuZM6YUFE9lyGSia"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde Culiacan (En Vivo)",
+        "url": "https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 195648,
+      "name": "El Barbas (En Vivo)",
+      "url": "https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Danny De Chicali (En Vivo)",
         "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 150000,
       "name": "El Danny De Chicali (En Vivo)",
       "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde Culiacan (En Vivo)",
-        "url": "https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 195648,
-      "name": "El Barbas (En Vivo)",
-      "url": "https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK"
     },
     {
       "added_at": null,

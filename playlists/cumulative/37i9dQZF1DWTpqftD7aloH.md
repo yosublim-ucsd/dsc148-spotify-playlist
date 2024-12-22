@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-374 songs - 1 day 12 hr 21 min
+375 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Sangue de Jesus](https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Sangue de Jesus](https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe) | 4:35 | 2023-03-24 | 2023-04-16 |
 | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo) | 4:18 | 2023-02-03 |  |
 | [Santo dos Santos](https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Santo dos Santos](https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk) | 4:38 | 2024-08-09 |  |
-| [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/track/4owZeLc2PPX2eHOmGbPn2Q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/album/5Osmnx51FVj8qHfr1ff9jM) | 6:10 | 2024-09-06 |  |
+| [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/track/4owZeLc2PPX2eHOmGbPn2Q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/album/5Osmnx51FVj8qHfr1ff9jM) | 6:10 | 2024-09-06 | 2024-12-22 |
 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Graça \(Ao Vivo\)](https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71) | 8:33 | 2023-07-07 | 2023-10-21 |
 | [Santo Pra Sempre](https://open.spotify.com/track/6qiOuHLcWrcBHAGnKUmCok) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Santo Pra Sempre](https://open.spotify.com/album/7xFirCgHOzweWZaggIIgzj) | 5:09 | 2024-09-06 | 2024-11-29 |
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb) | 5:17 | 2024-07-05 | 2024-10-17 |
@@ -327,6 +327,7 @@
 | [Supe Que Me Amabas](https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 4:51 | 2022-09-09 | 2023-01-14 |
 | [Só Tu És Santo + Medley \- Tour Adore \- Ao Vivo](https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Só Tu És Santo + Medley \- Tour Adore \(Ao Vivo\)](https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91) | 10:05 | 2024-09-06 |  |
 | [Te Damos Glória \- Ao Vivo](https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Te Damos Glória \(Ao Vivo\)](https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2) | 6:28 | 2024-09-13 |  |
+| [Terra Prometida](https://open.spotify.com/track/5GTDQyKQtidt29knDXIhGF) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI), [Tiago Brunet](https://open.spotify.com/artist/7hafvEG1GuC61uQWydwAuZ) | [Terra Prometida](https://open.spotify.com/album/1DsPe8nmo6qYLYGmSeeAIC) | 5:26 | 2024-12-20 |  |
 | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 | 2024-04-19 |  |
 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 | 2022-09-09 | 2023-07-15 |
 | [This I Believe \(The Creed\) \- Live](https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 6:41 | 2022-12-09 | 2023-04-29 |

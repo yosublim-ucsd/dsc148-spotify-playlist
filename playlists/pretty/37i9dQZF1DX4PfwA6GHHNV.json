@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19724,
+  "num_followers": 19728,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "MAIS VERDE",
+        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "MAIS VERDE",
+      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "PILULA DO DIA SEGUINTE",
         "url": "https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 150602,
       "name": "PEGA PEGA",
       "url": "https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
-        "name": "MAIS VERDE",
-        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
-      },
-      "artists": [
-        {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "MAIS VERDE",
-      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "\u00c1guas Passadas",
-        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "\u00c1guas Passadas",
-      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
         "name": "Doce",
         "url": "https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 155744,
       "name": "Doce",
       "url": "https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
+        "name": "\u00c1guas Passadas",
+        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "\u00c1guas Passadas",
+      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
     },
     {
       "added_at": "2024-12-13 16:52:11",

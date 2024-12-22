@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,421,169 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,421,090 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 81 | [Screwin \(with Omarion\)](https://open.spotify.com/track/3QR92iEfcnqgVFsOr2pCGz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 5:33 |
 | 82 | [Touch It \(Do It Well Pt\. 4\)](https://open.spotify.com/track/7mWB4XFFEKjysQaQzIg9QR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 4:31 |
 | 83 | [FWM](https://open.spotify.com/track/5qF9vwRZIzBCR1iDUDkU8W) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [FWM](https://open.spotify.com/album/02lsNtAHGwFmDToftNBfcI) | 3:16 |
-| 84 | [Moan](https://open.spotify.com/track/3xRue8c0zDkTWZ9fdDdz0u) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 2:11 |
-| 85 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
+| 84 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
+| 85 | [Pussy is Mine](https://open.spotify.com/track/0tmQ3hHXa8MGwUKUm6rAyF) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 2:53 |
 | 86 | [IT'S YOURS](https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:30 |
-| 87 | [Pussy is Mine](https://open.spotify.com/track/0tmQ3hHXa8MGwUKUm6rAyF) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 2:53 |
+| 87 | [Moan](https://open.spotify.com/track/3xRue8c0zDkTWZ9fdDdz0u) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 2:11 |
 | 88 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
 | 89 | [Come On](https://open.spotify.com/track/4o3BlVXqXEQaP5h1Ds0xfy) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 2:34 |
 | 90 | [Margiela Sex](https://open.spotify.com/track/7KCXJKnDMXUczdEWEI0gzn) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Baby Making](https://open.spotify.com/album/5yZgCTs4MTwv8QENvP8s2G) | 2:38 |

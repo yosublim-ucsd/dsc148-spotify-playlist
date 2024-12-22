@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,713 likes - 73 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,778 likes - 73 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 39 | [Go Head](https://open.spotify.com/track/5gtoVdkR5k72kCdRNjTxq8) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [Go Head](https://open.spotify.com/album/0zVYqZ4HtVpGHng9HL0oEH) | 2:51 |
 | 40 | [Cerita Rindu](https://open.spotify.com/track/4RHmDOf8MPQWLNOp8PxVjZ) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Cerita Rindu](https://open.spotify.com/album/1xG4SXxhcwqsL8DEZH9Zbo) | 4:01 |
 | 41 | [Sahabat Tersayang](https://open.spotify.com/track/2znrDOGtGwoOcpKPuSTtIV) | [Alika](https://open.spotify.com/artist/1nMUOY9WKwO8R1gZ8i76jU) | [Sahabat Tersayang](https://open.spotify.com/album/4ABRXP1iHwh5RFjsUzfowe) | 4:40 |
-| 42 | [Mewek feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek feat\. Helmi Utta](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 |
+| 42 | [Mewek \- feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek \(feat\. Helmi Utta\)](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 |
 | 43 | [MAGER](https://open.spotify.com/track/1I7tArWyfr8BrOjMij8OI6) | [Low\-Key](https://open.spotify.com/artist/2OfWwwFly4ODWgLonwT0lI) | [MAGER](https://open.spotify.com/album/5pJN9c7Hp6NeHsjwprQMtK) | 3:16 |
 | 44 | [Setelahnya](https://open.spotify.com/track/2ptqzBoEmYEdqGslXWeTPY) | [Geura](https://open.spotify.com/artist/3IHpVA8oikoCOjTx8orBO8) | [Setelahnya](https://open.spotify.com/album/4SInc8qXbLxEphbouCiDCn) | 4:19 |
 | 45 | [Ku Tak Bisa](https://open.spotify.com/track/2K9g1BHo6ILnSotpjqEnhd) | [KidQuest](https://open.spotify.com/artist/2lfQ3ZMcgbom8T8iSrtbbb) | [Ku Tak Bisa](https://open.spotify.com/album/0Fto9zAm9zcvIaceOHMFP9) | 2:54 |

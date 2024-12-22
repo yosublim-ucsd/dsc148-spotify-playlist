@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,511 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,535 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 |
 | 50 | [Bitter \(feat\. Mulatto\)](https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 3:04 |
 
-Snapshot ID: `Z2NiAAAAAAABGbq6so4owqObP1Mux1Ag`
+Snapshot ID: `Z2SzgAAAAABcHAya9Y2ZfTkfePdC189e`

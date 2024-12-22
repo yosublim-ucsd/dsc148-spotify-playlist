@@ -1,13 +1,29 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1187502,
+  "num_followers": 1187663,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAC7ZXKE7NNF8KIi5KSt5uhZ",
+  "snapshot_id": "Z2SzgAAAAADq1Sm06fpAI2CT/1+GRz5g",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 158936,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
+    },
     {
       "added_at": null,
       "album": {
@@ -59,34 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funk Wav Bounces Vol.1",
-        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Funk Wav",
-          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
         }
       ],
-      "duration_ms": 223413,
-      "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
-      "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
     },
     {
       "added_at": null,
@@ -123,18 +123,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+        "name": "Funk Wav Bounces Vol.1",
+        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
       "artists": [
         {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
         }
       ],
-      "duration_ms": 220226,
-      "name": "Hot N Cold",
-      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
+      "duration_ms": 223413,
+      "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+      "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
     },
     {
       "added_at": null,
@@ -847,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 202551,
+      "name": "NO TEARS FOR NEW YEAR'S",
+      "url": "https://open.spotify.com/track/29f9Fsie82gDA7PVdq3qrc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -875,30 +907,6 @@
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
     }
   ],
   "unique_name": "This Is Katy Perry",

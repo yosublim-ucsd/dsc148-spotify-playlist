@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > Indie pop when ur crushing
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,479 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,475 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 11 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
 | 12 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
 | 13 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
-| 14 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 |
-| 15 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 14 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 15 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 |
 | 16 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 |
 | 17 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 18 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 40 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 |
 | 41 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
 | 42 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 |
-| 43 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
-| 44 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 |
+| 43 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 |
+| 44 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
 | 45 | [Dirty Secrets](https://open.spotify.com/track/0X0V9wIUr47ZqbFqLfZqX5) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Dirty Secrets](https://open.spotify.com/album/7J2iocHysqZJTCTUtrdTfa) | 2:34 |
 | 46 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
-| 47 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 |
-| 48 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 |
-| 49 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
-| 50 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 |
+| 47 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 |
+| 48 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 |
+| 49 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 |
+| 50 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
 | 51 | [Fallingforyou](https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:00 |
 | 52 | [Calling U Back](https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:19 |
 | 53 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,699 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,681 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 33 | [Why Worry](https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt) | 3:19 |
 | 34 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 35 | [Given Up](https://open.spotify.com/track/400lQTCx3wYGgqAIHSZbNA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND) | 3:09 |
-| 36 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 |
-| 37 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
-| 38 | [Love Bites \(So Do I\)](https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:11 |
+| 36 | [Love Bites \(So Do I\)](https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:11 |
+| 37 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 |
+| 38 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
 | 39 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 | 40 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 |
 | 41 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 56 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 |
 | 57 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 |
 | 58 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
-| 59 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 |
-| 60 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
-| 61 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
+| 59 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 |
+| 60 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 |
+| 61 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
 | 62 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
 | 63 | [Falling Apart](https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh) | 3:28 |
 | 64 | [Isolation](https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [AB III](https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86) | 4:13 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 88 | [Parallax Error](https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [What Does Your Soul Look Like](https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV) | 3:24 |
 | 89 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
 | 90 | [Bang Bang](https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s) | 2:52 |
-| 91 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 |
-| 92 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
+| 91 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
+| 92 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 |
 | 93 | [Never Ending Moment](https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Never Ending Moment](https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW) | 4:17 |
 | 94 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
 | 95 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 |

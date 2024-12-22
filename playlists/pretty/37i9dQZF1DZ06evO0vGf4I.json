@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1578801,
+  "num_followers": 1579148,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAClMyRNgniMHvf6G+wroDx2",
+  "snapshot_id": "Z2SzgAAAAABIkRJ1qHBL6Y9V7T70MxGq",
   "tracks": [
     {
       "added_at": null,
@@ -467,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
       },
       "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 208487,
-      "name": "Drugs You Should Try It",
-      "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
+      "duration_ms": 172794,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4CdAc7V4hUe1cuJAjnPpSQ"
     },
     {
       "added_at": null,
@@ -499,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
       "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 172794,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/4CdAc7V4hUe1cuJAjnPpSQ"
+      "duration_ms": 208487,
+      "name": "Drugs You Should Try It",
+      "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
     },
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life of a DON",
+        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 213637,
+      "name": "You (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 207306,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
       "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life of a DON",
-        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 213637,
-      "name": "You (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Raindrops (Insane) [with Travis Scott]",
-      "url": "https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Raindrops (Insane) [with Travis Scott]",
+      "url": "https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY"
     },
     {
       "added_at": null,

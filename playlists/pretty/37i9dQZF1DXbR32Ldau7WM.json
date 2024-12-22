@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Ichika Nito",
-  "num_followers": 291337,
+  "num_followers": 291376,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-12-17 17:33:26",
       "album": {
-        "name": "Sharon",
-        "url": "https://open.spotify.com/album/2ScpmNXA1FoVIkUoScsvvO"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Sharon",
-      "url": "https://open.spotify.com/track/1Yt3MmQ1BtUS0CAeL0LxZp"
-    },
-    {
-      "added_at": "2024-12-17 17:33:26",
-      "album": {
         "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
         "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
       },
@@ -1131,18 +1115,34 @@
     {
       "added_at": "2024-12-17 17:33:26",
       "album": {
-        "name": "\u30a2\u30af\u30de",
-        "url": "https://open.spotify.com/album/5rr61rXAJXNGLPUVgZUcp3"
+        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
       },
       "artists": [
         {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
         }
       ],
-      "duration_ms": 217053,
-      "name": "\u30a2\u30af\u30de",
-      "url": "https://open.spotify.com/track/6ebno1nYxxJd6Soz0TyjIr"
+      "duration_ms": 253413,
+      "name": "\u7a81\u7834\u53e3",
+      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
+    },
+    {
+      "added_at": "2024-12-17 17:33:26",
+      "album": {
+        "name": "Sharon",
+        "url": "https://open.spotify.com/album/2ScpmNXA1FoVIkUoScsvvO"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Sharon",
+      "url": "https://open.spotify.com/track/1Yt3MmQ1BtUS0CAeL0LxZp"
     },
     {
       "added_at": "2024-12-17 17:33:26",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-12-17 17:33:26",
       "album": {
-        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
-        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
+        "name": "\u30a2\u30af\u30de",
+        "url": "https://open.spotify.com/album/5rr61rXAJXNGLPUVgZUcp3"
       },
       "artists": [
         {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
         }
       ],
-      "duration_ms": 253413,
-      "name": "\u7a81\u7834\u53e3",
-      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
+      "duration_ms": 217053,
+      "name": "\u30a2\u30af\u30de",
+      "url": "https://open.spotify.com/track/6ebno1nYxxJd6Soz0TyjIr"
     },
     {
       "added_at": "2024-12-17 17:33:26",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-12-17 17:33:26",
       "album": {
-        "name": "\u521d\u590f",
-        "url": "https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "\u521d\u590f",
-      "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
-    },
-    {
-      "added_at": "2024-12-17 17:33:26",
-      "album": {
         "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
         "url": "https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 254506,
       "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
       "url": "https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv"
+    },
+    {
+      "added_at": "2024-12-17 17:33:26",
+      "album": {
+        "name": "\u521d\u590f",
+        "url": "https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "\u521d\u590f",
+      "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
     },
     {
       "added_at": "2024-12-17 17:33:26",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-12-17 17:33:26",
       "album": {
-        "name": "YOU GOTTA RUN",
-        "url": "https://open.spotify.com/album/0UDsknPG5AbLKR7xm3seas"
-      },
-      "artists": [
-        {
-          "name": "L'Arc-en-Ciel",
-          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "YOU GOTTA RUN",
-      "url": "https://open.spotify.com/track/5M6dCPsVXY2MjAnuMsVJIU"
-    },
-    {
-      "added_at": "2024-12-17 17:33:26",
-      "album": {
         "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
         "url": "https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 261440,
       "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
       "url": "https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis"
+    },
+    {
+      "added_at": "2024-12-17 17:33:26",
+      "album": {
+        "name": "YOU GOTTA RUN",
+        "url": "https://open.spotify.com/album/0UDsknPG5AbLKR7xm3seas"
+      },
+      "artists": [
+        {
+          "name": "L'Arc-en-Ciel",
+          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "YOU GOTTA RUN",
+      "url": "https://open.spotify.com/track/5M6dCPsVXY2MjAnuMsVJIU"
     },
     {
       "added_at": "2024-12-17 17:33:26",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-12-17 17:33:26",
       "album": {
-        "name": "\u5fc3\u5909\u308f\u308a",
-        "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
-      },
-      "artists": [
-        {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
-        }
-      ],
-      "duration_ms": 223657,
-      "name": "\u5fc3\u5909\u308f\u308a",
-      "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
-    },
-    {
-      "added_at": "2024-12-17 17:33:26",
-      "album": {
         "name": "Re\u65b9\u7a0b\u5f0f",
         "url": "https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 252385,
       "name": "Re\u65b9\u7a0b\u5f0f",
       "url": "https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH"
+    },
+    {
+      "added_at": "2024-12-17 17:33:26",
+      "album": {
+        "name": "\u5fc3\u5909\u308f\u308a",
+        "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 223657,
+      "name": "\u5fc3\u5909\u308f\u308a",
+      "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
     },
     {
       "added_at": "2024-12-17 17:33:26",

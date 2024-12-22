@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,871 likes - 150 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,259 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 141 | [Se Me Canso El Corazon](https://open.spotify.com/track/29qY2kVjH6wtaoD5cj09q7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 3:08 |
 | 142 | [¿Qué Me Vas a Dar?](https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 3:27 |
 | 143 | [Me equivoqué](https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:25 |
-| 144 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
-| 145 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
+| 144 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
+| 145 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
 | 146 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/6qm7ozFRARBhjOfvhygUNn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con la Número 1: 13 Rancheras y Cumbias](https://open.spotify.com/album/2wpgtaMNbDEOs6Woe0PUhk) | 2:57 |
 | 147 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
 | 148 | [El Disgusto](https://open.spotify.com/track/7m62E9JAXqUwJeQz4WjLzv) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:07 |

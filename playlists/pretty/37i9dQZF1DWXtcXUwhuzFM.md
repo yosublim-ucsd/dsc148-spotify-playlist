@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa emma & matilda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,423 likes - 61 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,428 likes - 61 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 41 | [The Last Christmas](https://open.spotify.com/track/5A5nTcX10qoYavLqHHr8ut) | [Solemn Golem](https://open.spotify.com/artist/786SwvDh1YFMLciXStwYGM) | [The Last Christmas](https://open.spotify.com/album/2SNkesgHTXhnpfsRBotaRd) | 6:39 |
 | 42 | [BBL \(feat\. Rob49\)](https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [BBL \(feat\. Rob49\)](https://open.spotify.com/album/6WF6Fl2wDrxWIe9AGkMBbW) | 2:26 |
 | 43 | [Never Enough](https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Never Enough](https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1) | 3:19 |
-| 44 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 44 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 45 | [When He Comes Around](https://open.spotify.com/track/2ShbjyFjQJ6mRKy4NykDbU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [When He Comes Around](https://open.spotify.com/album/4Pw4LalZWzcnve0sH4ms1H) | 3:14 |
 | 46 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 |
 | 47 | [Kaikista pedoista](https://open.spotify.com/track/3HmiDngSDPa600y1sn4DYo) | [RiASA](https://open.spotify.com/artist/6x5HPkDbOMZPuFCRRHiRi1) | [Kaikista pedoista](https://open.spotify.com/album/2c61ylXjkx61QnooC5VoYy) | 3:33 |

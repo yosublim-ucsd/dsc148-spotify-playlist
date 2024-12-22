@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,352 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,350 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 21 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
 | 22 | [メニークリスマス](https://open.spotify.com/track/1bqiYm0YfM9dDtb8saM0m2) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [メニークリスマス](https://open.spotify.com/album/2JxcZPrtt96n3zEhy5cVWQ) | 3:40 |
 | 23 | [ACTOR](https://open.spotify.com/track/7DU9Ttw5ugUKXo8LqwO6M6) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ACTOR](https://open.spotify.com/album/2F3rLv6zsQBB9ZZjb3d6YD) | 2:56 |
-| 24 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
+| 24 | [草々不一](https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [草々不一](https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp) | 3:11 |
 | 25 | [太陽](https://open.spotify.com/track/1JNQLqxqvwHDekTfOhs4wu) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [太陽](https://open.spotify.com/album/7zlvnDitt4U0EmzgRbQeKE) | 4:26 |
 | 26 | [青葉](https://open.spotify.com/track/5Nj8wQlcTur1FqYQM5dnXR) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q), [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [HATA EXPO \-The Collaboration Album\-](https://open.spotify.com/album/7H6K36YquDfRbMYHHG6SoX) | 4:56 |
 | 27 | [Believe It](https://open.spotify.com/track/6swXNfuOM0rp3WecD55izx) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Believe It](https://open.spotify.com/album/0u8xDjoZouDECRUb9ijn4m) | 3:10 |

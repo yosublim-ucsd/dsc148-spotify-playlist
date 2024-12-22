@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,618 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,801 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 25 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
 | 26 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
 | 27 | [ENERGY](https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [THIS IS NOT AN ALBUM](https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt) | 6:17 |
-| 28 | [Direct Dizko](https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [S.O\. Project](https://open.spotify.com/artist/6NJ6jCt44aupOI2ECwo2zN) | [Direct Dizko](https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0) | 3:19 |
-| 29 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
+| 28 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
+| 29 | [Direct Dizko](https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [S.O\. Project](https://open.spotify.com/artist/6NJ6jCt44aupOI2ECwo2zN) | [Direct Dizko](https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0) | 3:19 |
 | 30 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 |
 | 31 | [Gasoline](https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Gasoline](https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY) | 3:13 |
 | 32 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 40 | [Feeling](https://open.spotify.com/track/1KMru1wRFP6Qhi2jjjQfSb) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Feeling](https://open.spotify.com/album/2hYXwW0l3RjqMZSwtm0qcy) | 3:15 |
 | 41 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
 | 42 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
-| 43 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
-| 44 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
+| 43 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
+| 44 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
 | 45 | [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 |
 | 46 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 |
 | 47 | [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 |

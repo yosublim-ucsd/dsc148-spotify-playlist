@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,178 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,529 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 4 | [PRIMO](https://open.spotify.com/track/7AysIqSEDiwP4CUsAXJwrk) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:44 |
 | 5 | [Giza](https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Giza](https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy) | 2:57 |
 | 6 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 |
-| 7 | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP) | 4:08 |
-| 8 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
+| 7 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
+| 8 | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP) | 4:08 |
 | 9 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 |
 | 10 | [YCQVM](https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [YCQVM](https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz) | 3:03 |
 | 11 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 50 | [Paso En Culiacan](https://open.spotify.com/track/5McxmoutZI2oRpuTQdvH71) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Paso En Culiacan](https://open.spotify.com/album/03fkik4lkYThFBm6gMuWkO) | 4:35 |
 | 51 | [Adrenalina](https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Adrenalina](https://open.spotify.com/album/2BvDucJawFOjYW93odCdow) | 2:30 |
 
-Snapshot ID: `Z2NiAAAAAACLz2BOBy9vaBlDmfADhdEN`
+Snapshot ID: `Z2SzgAAAAACKRER1qgN9H6u2garNqf9i`

@@ -2763,6 +2763,28 @@
     },
     {
       "album": {
+        "name": "Pa\u2019 Qu\u00e9 Volviste?",
+        "url": "https://open.spotify.com/album/4XaqqBH97CiSaqizhTViur"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192167,
+      "name": "Pa\u2019 Qu\u00e9 Volviste?",
+      "url": "https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV"
+    },
+    {
+      "album": {
         "name": "People (feat. Becky G) [Remixes]",
         "url": "https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB"
       },

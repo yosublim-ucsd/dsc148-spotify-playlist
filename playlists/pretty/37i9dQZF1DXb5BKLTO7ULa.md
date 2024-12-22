@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: HAEVN
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,718 likes - 56 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,733 likes - 56 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 22 | [Hollow](https://open.spotify.com/track/3pm9zDurEHGygOM3p8uF8W) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64) | [Hollow](https://open.spotify.com/album/1uhSs6sPkJrGNyWiVEOKGV) | 2:51 |
 | 23 | [On The Beach](https://open.spotify.com/track/6cIChva2UfooNftQMoAXAx) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [On The Beach](https://open.spotify.com/album/4B5P0Ks1JKtLn1wj4vhBBq) | 2:47 |
 | 24 | [URUSPU](https://open.spotify.com/track/6CRQSXig1Qg3KmMgLMd09L) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [URUSPU](https://open.spotify.com/album/49lYO8KBDp7RKsHAJ3OeTp) | 2:00 |
-| 25 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 25 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 26 | [Something](https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Something](https://open.spotify.com/album/04zTk2sCLc9oFdZCrz1rWl) | 3:06 |
 | 27 | [De Last](https://open.spotify.com/track/7JKTfP3yLvMcbIXHxAeKXg) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Paerels III](https://open.spotify.com/album/06euMMSytYZ2nUcd3Rmysb) | 4:00 |
 | 28 | [Kunnen Niet Altijd](https://open.spotify.com/track/0FnezLOGWlBEowXmdl7Yet) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Kunnen Niet Altijd](https://open.spotify.com/album/1subCxvrlXwa8B3OCpkDgP) | 2:42 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 47 | [The Final Straw](https://open.spotify.com/track/0V2G4OMFtXsUMzWZBvYJas) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [The Final Straw](https://open.spotify.com/album/24GDSBE6IJN4q3WXzQJc1A) | 3:11 |
 | 48 | [Stay Baby](https://open.spotify.com/track/2Ho4QtGcGgxwpti7N8Zsuw) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Stay Baby](https://open.spotify.com/album/6uhWPNR9ImsvLAbMGQG0fn) | 4:19 |
 | 49 | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4) | 2:05 |
-| 50 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 50 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 51 | [Priceless](https://open.spotify.com/track/2GdCUBMxTOKgdvn3XMXBxB) | [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Priceless](https://open.spotify.com/album/4Q4BkmF7LVi7wn3l34TPAt) | 1:56 |
 | 52 | [Solo](https://open.spotify.com/track/4qoez6CZ7VJROWzvReNAFC) | [Ghetto Flow](https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP), [Gatto Gabriel](https://open.spotify.com/artist/2Y3zos2jWoyqEOcgwRuQZe) | [Solo](https://open.spotify.com/album/4GE6RYM7Y9cHVcNEJQiePn) | 2:59 |
 | 53 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 |

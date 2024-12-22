@@ -2153,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
+    },
+    {
+      "album": {
         "name": "Bundles (feat. Taylor Girlz)",
         "url": "https://open.spotify.com/album/7r9c4LfF8fMsCiVtDWEvyJ"
       },
@@ -2508,6 +2526,24 @@
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/2mqNeI4vUehnhVwSkCrQnR"
+    },
+    {
+      "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "album": {
@@ -5156,7 +5192,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
@@ -6108,7 +6144,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
@@ -7136,6 +7172,28 @@
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
       "album": {
@@ -11076,7 +11134,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 220394,
       "name": "Tested, Approved & Trusted",
       "url": "https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR"
@@ -11468,7 +11526,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 149865,
       "name": "Treat Me",
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
@@ -11942,6 +12000,28 @@
       "duration_ms": 154749,
       "name": "Venom",
       "url": "https://open.spotify.com/track/3A0ITFj6kbb9CggwtPe55f"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n"
+      },
+      "artists": [
+        {
+          "name": "Faceless",
+          "url": "https://open.spotify.com/artist/4kwkSF1jJalibmNlh4Z8Of"
+        },
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139199,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB"
     },
     {
       "album": {

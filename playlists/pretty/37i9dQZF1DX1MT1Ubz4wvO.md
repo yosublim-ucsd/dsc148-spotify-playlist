@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con El Plan De La Mariposa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,386 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,410 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 35 | [Verte De Cerca](https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Verte De Cerca](https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD) | 3:03 |
 | 36 | [No Te Enamores Nunca de Aquel Marinero Bengalí \(feat\. Gustavo Bazterrica\)](https://open.spotify.com/track/4IB2BaVZTA3JshcC4SZcPT) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Daniel Melingo](https://open.spotify.com/artist/08X5fKnU2tkjH4IeLnl8vt), [Gustavo Bazterrica](https://open.spotify.com/artist/4uC04DGTBJbsO6NFvh9mln) | [No Te Enamores Nunca de Aquel Marinero Bengalí \(feat\. Gustavo Bazterrica\)](https://open.spotify.com/album/2TWczotF1j6PI07DdBzgG7) | 4:02 |
 | 37 | [Dime baby](https://open.spotify.com/track/1IvS2wj9PQ4toK49jomLDn) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ), [Chelsea King](https://open.spotify.com/artist/0yVCrtYjupdKXLChvl57hj) | [Dime baby](https://open.spotify.com/album/5Lgm0aSegBiEQI3nQPYp2g) | 2:56 |
-| 38 | [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
+| 38 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 39 | [No sé lo que me pasa \- Directo desde Estudio Uno](https://open.spotify.com/track/18UxSZlmLTkXCZmvDCbLNR) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [No sé lo que me pasa \(Directo desde Estudio Uno\)](https://open.spotify.com/album/7kejFuZtsXIYWdkwcWCVen) | 4:55 |
 | 40 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
 | 41 | [Eres Un Regalo](https://open.spotify.com/track/3CL17u9HMbAXM2KYWHLoxv) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Eres Un Regalo](https://open.spotify.com/album/4CHwpS1nKJfM8D9sOy317b) | 3:30 |

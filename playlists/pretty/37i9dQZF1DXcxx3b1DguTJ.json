@@ -1,6 +1,6 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 147051,
+  "num_followers": 147076,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-08-23 02:54:08",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Y Volver\u00e9 - Remastered 1994",
-      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
-    },
-    {
-      "added_at": "2024-08-23 02:54:08",
-      "album": {
         "name": "Sus 16 Grandes Exitos",
         "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 219106,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+    },
+    {
+      "added_at": "2024-08-23 02:54:08",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Y Volver\u00e9 - Remastered 1994",
+      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
     },
     {
       "added_at": "2024-08-23 02:54:08",

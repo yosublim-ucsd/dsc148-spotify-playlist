@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Justin Morales en portada.",
-  "num_followers": 136312,
+  "num_followers": 136345,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 166821,
       "name": "Igualito a Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2024-11-08 16:28:41",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2024-11-08 16:28:41",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
-        "name": "Lo Intent\u00e9",
-        "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 199139,
-      "name": "Lo Intent\u00e9",
-      "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 267706,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
+        "name": "Lo Intent\u00e9",
+        "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 199139,
+      "name": "Lo Intent\u00e9",
+      "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
     },
     {
       "added_at": "2024-11-08 16:28:41",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
+        "name": "Ni\u00f1o De Oro (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Ni\u00f1o De Oro",
+      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
         "name": "Que Sigan Llegando Las Pacas",
         "url": "https://open.spotify.com/album/2cdyBzD4njuK2dRKSbBSMV"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 212167,
       "name": "Modo Capone (with Drake & Fuerza Regida)",
       "url": "https://open.spotify.com/track/3k3vRzMH7D7453Ll2mdQnQ"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
-        "name": "Ni\u00f1o De Oro (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Ni\u00f1o De Oro",
-      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
     },
     {
       "added_at": "2024-11-08 16:28:41",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
+        "name": "Plush",
+        "url": "https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 177647,
+      "name": "Plush",
+      "url": "https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
         "name": "Otra Vez Pegue Un Vergazo",
         "url": "https://open.spotify.com/album/29QJDqvpmZ75SvUe8n3ETz"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 167130,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
-        "name": "Plush",
-        "url": "https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 177647,
-      "name": "Plush",
-      "url": "https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es"
     },
     {
       "added_at": "2024-11-08 16:28:41",

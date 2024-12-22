@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del electropop latino. Foto: Javiera Mena",
-  "num_followers": 24324,
+  "num_followers": 24328,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -155,30 +155,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "RESPIRAR",
-        "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
       },
       "artists": [
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Uri",
-          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
-        },
-        {
-          "name": "Rodridi",
-          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 145573,
-      "name": "RESPIRAR",
-      "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
+      "duration_ms": 273746,
+      "name": "Paris, Tal Vez?",
+      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -215,18 +203,30 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+        "name": "RESPIRAR",
+        "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Uri",
+          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
+        },
+        {
+          "name": "Rodridi",
+          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Paris, Tal Vez?",
-      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
+      "duration_ms": 145573,
+      "name": "RESPIRAR",
+      "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Conexi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
-      },
-      "artists": [
-        {
-          "name": "Make Mama Proud",
-          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
-        }
-      ],
-      "duration_ms": 232550,
-      "name": "CONEXI\u00d3N DE AMOR",
-      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Bajo la piel",
         "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 240113,
       "name": "Bajo la piel",
       "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Conexi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
+      },
+      "artists": [
+        {
+          "name": "Make Mama Proud",
+          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+        }
+      ],
+      "duration_ms": 232550,
+      "name": "CONEXI\u00d3N DE AMOR",
+      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "SUBTE L\u00cdNEA B REWORK",
-        "url": "https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 243260,
-      "name": "SUBTE L\u00cdNEA B REWORK",
-      "url": "https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "blablablablabla",
         "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 201706,
       "name": "blablablablabla",
       "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "SUBTE L\u00cdNEA B REWORK",
+        "url": "https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 243260,
+      "name": "SUBTE L\u00cdNEA B REWORK",
+      "url": "https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -819,30 +819,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Autosabotear (Uffie & Lokoy Remix)",
-        "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Uffie",
-          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
-        },
-        {
-          "name": "Lokoy",
-          "url": "https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv"
-        }
-      ],
-      "duration_ms": 196641,
-      "name": "Autosabotear (Uffie & Lokoy Remix)",
-      "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Todas las Luces (Remix)",
         "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 347000,
       "name": "Dejarte de Querer - Nico Castro Remix",
       "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Autosabotear (Uffie & Lokoy Remix)",
+        "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        },
+        {
+          "name": "Lokoy",
+          "url": "https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Autosabotear (Uffie & Lokoy Remix)",
+      "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "FRIENDZONE",
+        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
+      },
+      "artists": [
+        {
+          "name": "Lucas & The Woods",
+          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
+        }
+      ],
+      "duration_ms": 210659,
+      "name": "FRIENDZONE",
+      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "MA\u00d1ANA ES PEOR :(",
         "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "FRIENDZONE",
-        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
+        "name": "En el Palacio (REMIX)",
+        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
       },
       "artists": [
         {
-          "name": "Lucas & The Woods",
-          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
         }
       ],
-      "duration_ms": 210659,
-      "name": "FRIENDZONE",
-      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
+      "duration_ms": 246144,
+      "name": "En la Torre - AV Remix",
+      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 223278,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "En el Palacio (REMIX)",
-        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
-      },
-      "artists": [
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "En la Torre - AV Remix",
-      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Nft",
-        "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
-      },
-      "artists": [
-        {
-          "name": "\u00bfJuan Julian?",
-          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 221711,
-      "name": "Nft",
-      "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
         "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 357200,
       "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
       "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Nft",
+        "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
+      },
+      "artists": [
+        {
+          "name": "\u00bfJuan Julian?",
+          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 221711,
+      "name": "Nft",
+      "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Compa\u00f1era",
+        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
+      },
+      "artists": [
+        {
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+        }
+      ],
+      "duration_ms": 273337,
+      "name": "Compa\u00f1erx",
+      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Nada que ver",
         "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 193971,
       "name": "Nada que ver",
       "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Compa\u00f1era",
-        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
-      },
-      "artists": [
-        {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
-        }
-      ],
-      "duration_ms": 273337,
-      "name": "Compa\u00f1erx",
-      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD"
-      },
-      "artists": [
-        {
-          "name": "Linxes",
-          "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
-        }
-      ],
-      "duration_ms": 170822,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "El Modo",
         "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 256120,
       "name": "El Modo",
       "url": "https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD"
+      },
+      "artists": [
+        {
+          "name": "Linxes",
+          "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
+        }
+      ],
+      "duration_ms": 170822,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C"
     },
     {
       "added_at": "2024-11-15 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 395842,
+  "num_followers": 395871,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "We Are Mirage (Radio Edit)",
+        "url": "https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 202742,
+      "name": "We Are Mirage - Radio Edit",
+      "url": "https://open.spotify.com/track/64guoV5V5VYkaSAA1vVua9"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "We Are Mirage (Radio Edit)",
-        "url": "https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 202742,
-      "name": "We Are Mirage - Radio Edit",
-      "url": "https://open.spotify.com/track/64guoV5V5VYkaSAA1vVua9"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -303,6 +303,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "duration_ms": 188739,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "Rust",
         "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 204039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Night Tales",
-          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
-        }
-      ],
-      "duration_ms": 188739,
-      "name": "Shout It Out",
-      "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -419,6 +419,26 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Hero / It Can Be Better Now",
+        "url": "https://open.spotify.com/album/7MMKbbtCfQNZvghKM5V3bd"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Welt",
+          "url": "https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r"
+        }
+      ],
+      "duration_ms": 191379,
+      "name": "It Can Be Better Now",
+      "url": "https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
@@ -431,22 +451,6 @@
       "duration_ms": 138951,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Amman",
-        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 208290,
-      "name": "Amman",
-      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -471,22 +475,18 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Hero / It Can Be Better Now",
-        "url": "https://open.spotify.com/album/7MMKbbtCfQNZvghKM5V3bd"
+        "name": "Amman",
+        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
       },
       "artists": [
         {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        },
-        {
-          "name": "Welt",
-          "url": "https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 191379,
-      "name": "It Can Be Better Now",
-      "url": "https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R"
+      "duration_ms": 208290,
+      "name": "Amman",
+      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "In My Dreams",
-        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 290625,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -679,22 +659,38 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Grapevine",
-        "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         },
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 381463,
-      "name": "Grapevine",
-      "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 242376,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -719,22 +715,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 242376,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "NO SKIN",
         "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
@@ -755,22 +735,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm"
+        "name": "Grapevine",
+        "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
       },
       "artists": [
         {
-          "name": "We Architects",
-          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Moav",
-          "url": "https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 156375,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD"
+      "duration_ms": 381463,
+      "name": "Grapevine",
+      "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -791,6 +771,26 @@
       "duration_ms": 243853,
       "name": "All Good - Jasper Tygner Remix",
       "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm"
+      },
+      "artists": [
+        {
+          "name": "We Architects",
+          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
+        },
+        {
+          "name": "Moav",
+          "url": "https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -831,6 +831,26 @@
       "duration_ms": 430727,
       "name": "Touching My Body",
       "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/2a35iz5BRbEgGydrMSTMpA"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 175292,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -911,26 +931,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/2a35iz5BRbEgGydrMSTMpA"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 175292,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
@@ -963,26 +963,6 @@
       "duration_ms": 251591,
       "name": "New Fires",
       "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Gave You Everything",
-        "url": "https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU"
-      },
-      "artists": [
-        {
-          "name": "Modern Living",
-          "url": "https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Gave You Everything",
-      "url": "https://open.spotify.com/track/0XvN2WXrhdhsWOubEOmRkW"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1027,6 +1007,26 @@
       "duration_ms": 95023,
       "name": "What a Wonderful World - Krister Remix",
       "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Gave You Everything",
+        "url": "https://open.spotify.com/album/485CegQ9SBQRjRpyHaKZMU"
+      },
+      "artists": [
+        {
+          "name": "Modern Living",
+          "url": "https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Gave You Everything",
+      "url": "https://open.spotify.com/track/0XvN2WXrhdhsWOubEOmRkW"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "All Dancing Under The Same Sky",
-        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "All Dancing Under The Same Sky - Edit",
-      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 258644,
       "name": "Control",
       "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "All Dancing Under The Same Sky",
+        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "All Dancing Under The Same Sky - Edit",
+      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
-        }
-      ],
-      "duration_ms": 411147,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Beth",
         "url": "https://open.spotify.com/album/2jE8qn88oYgqh63C1UAtJ9"
       },
@@ -1347,22 +1327,38 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "malo okoma",
-        "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/3NGq4jAZprobTG7zRyxFht"
       },
       "artists": [
         {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Theresa Ng'ambi",
-          "url": "https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI"
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
         }
       ],
-      "duration_ms": 245437,
-      "name": "malo okoma - Radio Edit",
-      "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
+      "duration_ms": 411147,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "A.M",
+        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 209849,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
     }
   ],
   "unique_name": "Just Chill",

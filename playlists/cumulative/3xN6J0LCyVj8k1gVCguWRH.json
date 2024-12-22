@@ -39527,6 +39527,24 @@
     },
     {
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/22dDEqMJm9CjVcGe2858Ik"
+      },
+      "artists": [
+        {
+          "name": "Tala Silva",
+          "url": "https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204571,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/65rjwLmHhM2MvSFxKw4WI7"
+    },
+    {
+      "album": {
         "name": "Late Night Conversation",
         "url": "https://open.spotify.com/album/5MsLaQGmEmUbaW271jlfFR"
       },

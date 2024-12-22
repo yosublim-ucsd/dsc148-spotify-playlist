@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Taylor Acorn",
-  "num_followers": 145751,
+  "num_followers": 145781,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
+        "name": "Cinderella Snapped",
+        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "Cinderella Snapped",
+      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
-        "name": "Cinderella Snapped",
-        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "Cinderella Snapped",
-      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 179000,
       "name": "sail away",
       "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
-        "name": "FUNERAL",
-        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 181923,
-      "name": "FUNERAL",
-      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Both Ways",
-        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 186779,
-      "name": "Both Ways",
-      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "One of the Guys",
         "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 118759,
       "name": "One of the Guys",
       "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Both Ways",
+        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 186779,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Hotel Lights",
-        "url": "https://open.spotify.com/album/1xpHz8TOVagUG0KZzqTxX3"
+        "name": "God Save The Teen",
+        "url": "https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw"
       },
       "artists": [
         {
           "name": "MOD SUN",
           "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 179800,
-      "name": "Hotel Lights",
-      "url": "https://open.spotify.com/track/5kROR2oGzCpvI49c9fOS6K"
+      "duration_ms": 190137,
+      "name": "Shelter (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1723,22 +1727,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "YOU NEEDED A HIT//",
-        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 120149,
-      "name": "YOU NEEDED A HIT//",
-      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Under the Influence(r)",
         "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
       },
@@ -1751,6 +1739,22 @@
       "duration_ms": 195012,
       "name": "Under the Influence(r)",
       "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1771,22 +1775,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "SOULSUCKER",
-        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 146620,
-      "name": "SOULSUCKER",
-      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
       },
@@ -1803,22 +1791,34 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "God Save The Teen",
-        "url": "https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw"
+        "name": "SOULSUCKER",
+        "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 146620,
+      "name": "SOULSUCKER",
+      "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Hotel Lights",
+        "url": "https://open.spotify.com/album/1xpHz8TOVagUG0KZzqTxX3"
       },
       "artists": [
         {
           "name": "MOD SUN",
           "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 190137,
-      "name": "Shelter (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
+      "duration_ms": 179800,
+      "name": "Hotel Lights",
+      "url": "https://open.spotify.com/track/5kROR2oGzCpvI49c9fOS6K"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "SOMETHING IN THE WATER",
-        "url": "https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO"
-      },
-      "artists": [
-        {
-          "name": "Kami Kehoe",
-          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
-        }
-      ],
-      "duration_ms": 203795,
-      "name": "SOMETHING IN THE WATER",
-      "url": "https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Don't Get Me Wrong",
         "url": "https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 173132,
       "name": "Don't Get Me Wrong",
       "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "WHEN THE MUSIC STOPS",
+        "url": "https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 193250,
+      "name": "WHEN THE MUSIC STOPS",
+      "url": "https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2123,18 +2123,18 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "WHEN THE MUSIC STOPS",
-        "url": "https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J"
+        "name": "SOMETHING IN THE WATER",
+        "url": "https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Kami Kehoe",
+          "url": "https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR"
         }
       ],
-      "duration_ms": 193250,
-      "name": "WHEN THE MUSIC STOPS",
-      "url": "https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB"
+      "duration_ms": 203795,
+      "name": "SOMETHING IN THE WATER",
+      "url": "https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 157504,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Two Friends",
         "url": "https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 186506,
       "name": "Two Friends",
       "url": "https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 157504,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "VOICES",
-        "url": "https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 163262,
-      "name": "VOICES",
-      "url": "https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "RAT TRAP 5: the beginning",
         "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
       },
@@ -2371,18 +2355,34 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "LOVE U ANYWAY",
-        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
+        "name": "VOICES",
+        "url": "https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         }
       ],
-      "duration_ms": 176495,
-      "name": "LOVE U ANYWAY",
-      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
+      "duration_ms": 163262,
+      "name": "VOICES",
+      "url": "https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Chop Chop",
+        "url": "https://open.spotify.com/album/3QMikZs5w6nMOusNY89ZY3"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "Chop Chop",
+      "url": "https://open.spotify.com/track/2ShBQLwve2SDP7xJEVfbUE"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2403,18 +2403,18 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Chop Chop",
-        "url": "https://open.spotify.com/album/3QMikZs5w6nMOusNY89ZY3"
+        "name": "LOVE U ANYWAY",
+        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
       },
       "artists": [
         {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 161693,
-      "name": "Chop Chop",
-      "url": "https://open.spotify.com/track/2ShBQLwve2SDP7xJEVfbUE"
+      "duration_ms": 176495,
+      "name": "LOVE U ANYWAY",
+      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
-      },
-      "artists": [
-        {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Red Lights / Ireland",
         "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 147000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
+      },
+      "artists": [
+        {
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2555,18 +2555,18 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "beat up car",
-        "url": "https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu"
+        "name": "Big City Thing",
+        "url": "https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
         }
       ],
-      "duration_ms": 214555,
-      "name": "beat up car",
-      "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
+      "duration_ms": 203667,
+      "name": "Big City Thing",
+      "url": "https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd"
     }
   ],
   "unique_name": "Pop Rock",

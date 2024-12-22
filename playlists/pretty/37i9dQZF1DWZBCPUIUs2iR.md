@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,027 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,094 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 39 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 |
 | 40 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:03 |
 | 41 | [Blue Ain't Your Color](https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:50 |
-| 42 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
+| 42 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
 | 43 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 44 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 45 | [Don't Rock the Jukebox](https://open.spotify.com/track/3oyByfBYegVEDwYyqx9pRd) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Don\`t Rock The Jukebox](https://open.spotify.com/album/6767Q48U82ay3Vbr27YNbA) | 2:51 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 47 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
 | 48 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 |
 | 49 | [Love Without End, Amen](https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Livin' It Up](https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO) | 3:07 |
-| 50 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
+| 50 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
 | 51 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
 | 52 | [Jesus, Take the Wheel](https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:46 |
 | 53 | [Convoy](https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh) | [C.W\. McCall](https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV) | [C.W\. McCall's Greatest Hits](https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY) | 3:50 |
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 65 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
 | 66 | [You Look So Good In Love](https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 3:13 |
 | 67 | [19 Somethin' \- Greatest Hits Version](https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [Greatest Hits](https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw) | 3:20 |
-| 68 | [This One's for the Girls](https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:03 |
-| 69 | [Don't Blink](https://open.spotify.com/track/6reuJxDtjebwc9FB6rNpp0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Just Who I Am: Poets & Pirates](https://open.spotify.com/album/7E1BiscM3O6aifwtcLdUG7) | 4:45 |
-| 70 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
+| 68 | [Don't Blink](https://open.spotify.com/track/6reuJxDtjebwc9FB6rNpp0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Just Who I Am: Poets & Pirates](https://open.spotify.com/album/7E1BiscM3O6aifwtcLdUG7) | 4:45 |
+| 69 | [This One's for the Girls](https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:03 |
+| 70 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
 | 71 | [Peter Pan](https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 |
-| 72 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
+| 72 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
 | 73 | [Amazed](https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:59 |
 | 74 | [Daddy Sang Bass](https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:20 |
 | 75 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 |

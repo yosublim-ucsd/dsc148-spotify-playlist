@@ -155,6 +155,28 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed No Acaba El Brillo",
+        "url": "https://open.spotify.com/album/7BY3LYKRbW2ZVRFPGsCu8G"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Robertito Salas",
+          "url": "https://open.spotify.com/artist/65Z2GMIKoRjQcXpedrtpcs"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205531,
+      "name": "Aqu\u00ed No Acaba El Brillo",
+      "url": "https://open.spotify.com/track/2k62RkN51wO1kb38EKbuQi"
+    },
+    {
+      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },

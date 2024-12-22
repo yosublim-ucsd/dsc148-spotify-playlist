@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 
 > Music to see you through the tough times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,031 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,063 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 26 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
 | 27 | [One More Light](https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 4:15 |
 | 28 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 |
-| 29 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
-| 30 | [jar of hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 |
+| 29 | [jar of hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 |
+| 30 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
 | 31 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 |
 | 32 | [All Too Well \(Taylor's Version\)](https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:29 |
 | 33 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 72 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
 | 73 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
 | 74 | [Close To You](https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:43 |
-| 75 | [Ruins](https://open.spotify.com/track/4OlSaHe8AxKZikrhzf8GnY) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily in Paris Season 4 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry) | 3:17 |
-| 76 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
+| 75 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
+| 76 | [Ruins](https://open.spotify.com/track/4OlSaHe8AxKZikrhzf8GnY) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily in Paris Season 4 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry) | 3:17 |
 | 77 | [Piece by Piece \- Idol Version](https://open.spotify.com/track/3KbFtYPyVP6C7BQVgH2cCf) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/2puALR81qCmKmbOyuHAI94) | 3:32 |
 | 78 | [River Of Tears](https://open.spotify.com/track/3ArYVrRb0lDBLzuJJqIXzC) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 4:14 |
 | 79 | [Dreaming with a Broken Heart](https://open.spotify.com/track/7keXdrB4mz57u4b8YkCwag) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46zHlTTyolY.md) - [plain]
 | 82 | [Say Something](https://open.spotify.com/track/2fPb58e6f8KxejYDCaARwS) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:53 |
 | 83 | [LOVE ME OR LEAVE ME](https://open.spotify.com/track/0zUT6RbKCqHqorVnXVoZcm) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [LOVE ME OR LEAVE ME](https://open.spotify.com/album/7Hz23y9avmN4lNFmH57elX) | 2:26 |
 | 84 | [When She Loved Me \- From "Toy Story 2" / Soundtrack Version](https://open.spotify.com/track/780W6YW5HFANQLR77Owern) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 3:03 |
-| 85 | [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 |
-| 86 | [I Never Told You](https://open.spotify.com/track/2rJWnAqSuLMls0KOv416Io) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Breakthrough \(Deluxe Edition\)](https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8) | 3:53 |
+| 85 | [I Never Told You](https://open.spotify.com/track/2rJWnAqSuLMls0KOv416Io) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Breakthrough \(Deluxe Edition\)](https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8) | 3:53 |
+| 86 | [October Sky](https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:14 |
 | 87 | [Til It Happens To You](https://open.spotify.com/track/0bCCGLHflR08UVA6oJJc8I) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Til It Happens To You](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) | 4:18 |
 | 88 | [Wild Hearts Can't Be Broken](https://open.spotify.com/track/3nA9tHmsw5UGMtSIMz4mt7) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:21 |
 | 89 | [Never on the Day You Leave](https://open.spotify.com/track/3TQbr3G3U5wlwEJejmqC1F) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:40 |

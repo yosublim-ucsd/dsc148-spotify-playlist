@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,177 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,178 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 31 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
 | 32 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 33 | [When I'm Gone](https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 4:20 |
-| 34 | [Speed of Sound](https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:47 |
+| 34 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 | 35 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 |
-| 36 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
+| 36 | [Speed of Sound](https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:47 |
 | 37 | [In the Shadows](https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Dead Letters](https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7) | 4:17 |
 | 38 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 39 | [It's Been Awhile](https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:24 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 53 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
 | 54 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 55 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
-| 56 | [My Life Would Suck Without You](https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:31 |
-| 57 | [It's Not My Time](https://open.spotify.com/track/0uybt73QFXaLCoxuVf6fhm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 4:01 |
+| 56 | [It's Not My Time](https://open.spotify.com/track/0uybt73QFXaLCoxuVf6fhm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 4:01 |
+| 57 | [My Life Would Suck Without You](https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:31 |
 | 58 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
 | 59 | [Rockstar](https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Walmart Exclusive Edition\)](https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb) | 4:12 |
 | 60 | [Tell Me Baby](https://open.spotify.com/track/0itNMuBHye9fu392b4e9oa) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 4:07 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 68 | [Behind These Hazel Eyes](https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:18 |
 | 69 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 |
 | 70 | [City Of Blinding Lights](https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:45 |
-| 71 | [The Hand That Feeds](https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 3:31 |
-| 72 | [Imitation Of Life](https://open.spotify.com/track/6VekqQih8fJTHOsoSL01th) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Part Lies, Part Heart, Part Truth, Part Garbage: 1982\-2011](https://open.spotify.com/album/0lkKxxnV5EV8XaKUjjODqd) | 3:57 |
+| 71 | [Imitation Of Life](https://open.spotify.com/track/6VekqQih8fJTHOsoSL01th) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Part Lies, Part Heart, Part Truth, Part Garbage: 1982\-2011](https://open.spotify.com/album/0lkKxxnV5EV8XaKUjjODqd) | 3:57 |
+| 72 | [The Hand That Feeds](https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 3:31 |
 | 73 | [Munich](https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [The Back Room](https://open.spotify.com/album/13NKtscRQRvQAXR4fY7kO5) | 3:46 |
 | 74 | [Panic Switch](https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Swoon](https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX) | 5:43 |
 | 75 | [Bent](https://open.spotify.com/track/6fA7akEuTUL3dW1V0GELaZ) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Mad Season](https://open.spotify.com/album/2HqQR5SkxWX7uUWaxlLksn) | 4:16 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 93 | [Seven Nation Army](https://open.spotify.com/track/47wPvRG8FEwbZP22UBgTQr) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/4bud6XY9UtafCOiYzv2vOl) | 3:51 |
 | 94 | [Girlfriend](https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK) | 3:36 |
 | 95 | [Hella Good](https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady](https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352) | 4:02 |
-| 96 | [Smokers Outside the Hospital Doors](https://open.spotify.com/track/7CPiFuM7R0Os87sl3UJqPB) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [An End Has a Start](https://open.spotify.com/album/3csSbF72syMhIYq89doRha) | 4:57 |
+| 96 | [Is It Any Wonder?](https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB) | 3:06 |
 | 97 | [Somebody Told Me](https://open.spotify.com/track/59XNy4523UcEvQfYM8fdQB) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/1ujPmNlTMp41h4EG6OOBGR) | 3:17 |
-| 98 | [Is It Any Wonder?](https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB) | 3:06 |
+| 98 | [Smokers Outside the Hospital Doors](https://open.spotify.com/track/7CPiFuM7R0Os87sl3UJqPB) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [An End Has a Start](https://open.spotify.com/album/3csSbF72syMhIYq89doRha) | 4:57 |
 | 99 | [New Divide](https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 4:28 |
 | 100 | [Faint](https://open.spotify.com/track/7AB0cUXnzuSlAnyHOqmrZr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:42 |
 

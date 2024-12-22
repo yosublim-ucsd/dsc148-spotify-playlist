@@ -1,33 +1,13 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 447311,
+  "num_followers": 447769,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAABJAVX5g+SJyN1K8WP89oxN",
+  "snapshot_id": "Z2SzgAAAAABA82k14NeAC5is5SbXFg8X",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfQu\u00e9 Te Parece?",
-        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "\u00bfQu\u00e9 Te Parece?",
-      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
-    },
     {
       "added_at": null,
       "album": {
@@ -167,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pienso En Ella",
-        "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
+        "name": "\u00bfQu\u00e9 Te Parece?",
+        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
       },
       "artists": [
         {
@@ -176,13 +156,13 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 159551,
-      "name": "Pienso En Ella",
-      "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
+      "duration_ms": 182323,
+      "name": "\u00bfQu\u00e9 Te Parece?",
+      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
     },
     {
       "added_at": null,
@@ -227,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pienso En Ella",
+        "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Pienso En Ella",
+      "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 190553,
       "name": "Di Que S\u00ed",
       "url": "https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 160517,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 221601,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 160517,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Me Entere (En Vivo)",
-        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Ya Me Entere - En Vivo",
-      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 166570,
       "name": "EN ALTAVOZ",
       "url": "https://open.spotify.com/track/1EKZmfqveHKe78Isfk07w4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Me Entere (En Vivo)",
+        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Ya Me Entere - En Vivo",
+      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 212002,
+      "name": "ME JALO",
+      "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Poderes",
         "url": "https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM"
       },
@@ -659,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "NO S\u00c9 QU\u00c9 PAS\u00d3",
-      "url": "https://open.spotify.com/track/1IFjnYZxC9JlXekzoCzGkK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
@@ -687,6 +691,22 @@
       "duration_ms": 186189,
       "name": "La Ladrona - En Vivo",
       "url": "https://open.spotify.com/track/4YKsiPP0QqHsANNaZJwQBT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "NO S\u00c9 QU\u00c9 PAS\u00d3",
+      "url": "https://open.spotify.com/track/1IFjnYZxC9JlXekzoCzGkK"
     },
     {
       "added_at": null,
@@ -707,6 +727,54 @@
       "duration_ms": 195024,
       "name": "Agachadita",
       "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "duration_ms": 219164,
+      "name": "AURORA (feat. Armenta)",
+      "url": "https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 254339,
+      "name": "La Pareja Ideal - En Vivo",
+      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
     },
     {
       "added_at": null,
@@ -743,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 254339,
-      "name": "La Pareja Ideal - En Vivo",
-      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
+      "duration_ms": 241648,
+      "name": "COQUETA",
+      "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
     },
     {
       "added_at": null,
@@ -783,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 216272,
+      "name": "El Ultimo Beso - En Vivo",
+      "url": "https://open.spotify.com/track/1ExVxkQdW1Wb5Z8JEIz5FB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Plata (En Vivo)",
         "url": "https://open.spotify.com/album/4R0lRmTOqQsjhCv0psBpms"
       },
@@ -795,6 +879,26 @@
       "duration_ms": 139447,
       "name": "La Plata - En Vivo",
       "url": "https://open.spotify.com/track/7yMU0OMBAHp9m74hdTBtIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 169020,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
     },
     {
       "added_at": null,
@@ -819,38 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 216272,
-      "name": "El Ultimo Beso - En Vivo",
-      "url": "https://open.spotify.com/track/1ExVxkQdW1Wb5Z8JEIz5FB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me gustas (En Vivo)",
-        "url": "https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1"
-      },
-      "artists": [
-        {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Me gustas - En vivo",
-      "url": "https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca"
+      "duration_ms": 157600,
+      "name": "0 SENTIMIENTOS",
+      "url": "https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT"
     }
   ],
   "unique_name": "This Is Grupo Frontera",

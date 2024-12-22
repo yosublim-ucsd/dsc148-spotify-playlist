@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Burna Boy, SZA, ThxSoMuch, d4vd, TOBi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,175 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,235 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 13 | [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 |
 | 14 | [Step Off](https://open.spotify.com/track/22IxDIvUChzzwbElWLeIVE) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Step Off](https://open.spotify.com/album/1Bk4eBrF6sqCuROPRPz64L) | 2:16 |
 | 15 | [Simple Life](https://open.spotify.com/track/2sP4wd3XQZn76Zu8HlYIhP) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Whispering Pines \(Deluxe\)](https://open.spotify.com/album/2Xg8v9OpCnafxUcH42tFaf) | 2:28 |
-| 16 | [All of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
+| 16 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |
 | 17 | [Don't Walk Away \(feat\. Carey Washington\)](https://open.spotify.com/track/0nTNsWpAO0LRWdPBThONp7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [Don't Walk Away \(feat\. Carey Washington\)](https://open.spotify.com/album/3LIPpet64sZD63AFhgyh2i) | 3:22 |
 | 18 | [Dancing in love](https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Dancing in love](https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx) | 2:36 |
 | 19 | [Elektro](https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Elektro](https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll) | 2:25 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 26 | [PACO](https://open.spotify.com/track/0UNNPQ4Y7LuciarjBa8U3w) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Ricky Bishop](https://open.spotify.com/artist/1BgUbirVqg7MnHDThNqOil) | [LEATHER PARK \(VOL 1.5\)](https://open.spotify.com/album/0tk7KDJHkVbPTft9RD8qv1) | 2:17 |
 | 27 | [Sumn' Else](https://open.spotify.com/track/0ETH3k6GTgYH7h88ULVdgo) | [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ) | [Sumn' Else](https://open.spotify.com/album/3Z8PqcQjWRwSHLs2uj7Wf2) | 2:51 |
 | 28 | [Rule \#37 \- Mentors](https://open.spotify.com/track/1UvujT0n5uZ3aMXoKoMkyO) | [Fish in a Birdcage](https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq) | [Mentors](https://open.spotify.com/album/724MxDSuTGksluCqPuMn3G) | 4:32 |
-| 29 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 29 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 30 | [Brava](https://open.spotify.com/track/7zL9EbGsI8KKLUxUWT0ump) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. II\)](https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP) | 5:27 |
 | 31 | [Tantrums](https://open.spotify.com/track/5HZQMayq8JcQdoTwtbnSnf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Tantrums](https://open.spotify.com/album/6ywdSdCUaX5kKUWe5kjqFV) | 2:22 |
 | 32 | [Berlin](https://open.spotify.com/track/75eyOhwv2ZOqMOCoxle7iB) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Federico Malaman](https://open.spotify.com/artist/0yDSaA49FQGIzoVsa2Tj7x), [Bebo Ferra](https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB), [Filippo Vignato](https://open.spotify.com/artist/65TUhI0t7gubxPxcyvIz4Q), [Christian Meyer](https://open.spotify.com/artist/1ZnXzibh5kHPgK2iNTaWcY) | [Rue Saint Denis / Berlin](https://open.spotify.com/album/7m258tBTj9su1VQhar7N2t) | 2:53 |

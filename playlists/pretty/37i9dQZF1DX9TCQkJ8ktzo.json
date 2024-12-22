@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 42726,
+  "num_followers": 42748,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Son con Guaguanc\u00f3",
         "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 211866,
       "name": "Bemba Color\u00e1",
       "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Lo Mejor De (Remastered)",
-        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 132133,
-      "name": "Colores - Remastered",
-      "url": "https://open.spotify.com/track/068uocva293Tr77QgIZeIf"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
         "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 136266,
       "name": "Shimmy Shimmy Ko Ko Bop",
       "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Lo Mejor De (Remastered)",
+        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 132133,
+      "name": "Colores - Remastered",
+      "url": "https://open.spotify.com/track/068uocva293Tr77QgIZeIf"
     },
     {
       "added_at": "2024-04-25 04:43:45",

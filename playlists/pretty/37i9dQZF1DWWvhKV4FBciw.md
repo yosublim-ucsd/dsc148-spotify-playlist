@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,783,838 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,784,152 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 42 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 |
 | 43 | [Rock Your Baby](https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Singles 1974 \- 76](https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY) | 3:20 |
 | 44 | [Pusherman](https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:00 |
-| 45 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
-| 46 | [People Get Up And Drive Your Funky Soul \- Remix](https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 9:04 |
+| 45 | [People Get Up And Drive Your Funky Soul \- Remix](https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 9:04 |
+| 46 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
 | 47 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 48 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
 | 49 | [Across 110th Street](https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Midnight Mover: The Bobby Womack Story](https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG) | 3:50 |

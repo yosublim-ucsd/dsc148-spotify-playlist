@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,687 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,690 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 10 | [Brand New Day \- Remastered](https://open.spotify.com/track/2LMH6ERwHxqE6z3VsmCzYD) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 3:23 |
 | 11 | [Malaika](https://open.spotify.com/track/2aF2rvFMz0XQrh9ZznZ9fq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Myriam Makeba Live In Paris, France \(Théâtre des Champs\-Elysées\)](https://open.spotify.com/album/3yT2VayIhnbgldygFcF5K7) | 5:13 |
 | 12 | [Hi\-a Ma \(Pata Pata\) \- Milk & Sugar Video Version](https://open.spotify.com/track/0B0lVj4UILHSOYKN7XhNTo) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Hi\-A Ma \(Pata Pata\)](https://open.spotify.com/album/5Amv5HoKf4X4dK1J9aDAYp) | 2:51 |
-| 13 | [Chove\-Chuva](https://open.spotify.com/track/7Bn5A1f0JiT92Fs2IhaMRL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Makeba Sings!](https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs) | 2:33 |
-| 14 | [Train Song \(Mbombela\)](https://open.spotify.com/track/0hKelpLf7qwEBZ0YPTOvU0) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:11 |
+| 13 | [Train Song \(Mbombela\)](https://open.spotify.com/track/0hKelpLf7qwEBZ0YPTOvU0) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:11 |
+| 14 | [Chove\-Chuva](https://open.spotify.com/track/7Bn5A1f0JiT92Fs2IhaMRL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Makeba Sings!](https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs) | 2:33 |
 | 15 | [A Piece of Ground \- Stereo Version](https://open.spotify.com/track/0UO6j3Nyor7zuJdB3ldNxQ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:39 |
 | 16 | [Don't Break My Heart](https://open.spotify.com/track/2mVVN4Tv54Py7X9LZDgnip) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Zazzarazàz \- Uno Spettacolo D'arte Varia \(Deluxe\)](https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s) | 4:33 |
 | 17 | [Oxgam](https://open.spotify.com/track/6wdx59FeWbzHJOwrYkEMfJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:01 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 40 | [Mas Que Nada](https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 3:15 |
 | 41 | [Under African Skies \- Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87](https://open.spotify.com/track/0dz7AgLTb30euAIqMQmSKh) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Graceland Live \- Remastered \(Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87\)](https://open.spotify.com/album/66nQdyL3P4u1yfsDu5Y4AT) | 4:00 |
 | 42 | [Djiu de Galinha](https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:08 |
-| 43 | [Forbidden Games](https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Forbidden Games](https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3) | 2:56 |
-| 44 | [Mama Ndiyalila](https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 3:26 |
+| 43 | [Mama Ndiyalila](https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 3:26 |
+| 44 | [Forbidden Games](https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Forbidden Games](https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3) | 2:56 |
 | 45 | [Kulala \- Remastered](https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:38 |
 | 46 | [Pata\-Pata \(feat\. Miriam Makeba\)](https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:15 |
 | 47 | [Ndiarabi](https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 49 | [Shihibolet](https://open.spotify.com/track/0owHppZqj0GGTQOHtF5PTf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Voice of Africa](https://open.spotify.com/album/3qO41bIPxRTSTJpebafdMi) | 1:53 |
 | 50 | [Jikele Maweni / The Retreat Song \- Remastered 2024](https://open.spotify.com/track/0mJrof5rpE6nAThlTD0dyp) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 2:35 |
 
-Snapshot ID: `Z2NiAAAAAADZGWKUVkIGpWNfP4GrfUu4`
+Snapshot ID: `Z2SzgAAAAACGfdMIQem86PdlYH+tTN0d`

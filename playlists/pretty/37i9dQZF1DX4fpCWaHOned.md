@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 
 > I can buy my own flowers
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,024,750 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,025,345 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 | 58 | [Really Don't Care](https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:21 |
 | 59 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 |
 | 60 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
-| 61 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
-| 62 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
+| 61 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
+| 62 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
 | 63 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 | 64 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
 | 65 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |

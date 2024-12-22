@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 209612,
+  "num_followers": 209665,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -851,18 +851,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
       "artists": [
         {
-          "name": "Red Langur",
-          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
         }
       ],
-      "duration_ms": 172007,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -883,22 +887,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Everyone's In Love With You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+          "name": "Red Langur",
+          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Everyone's In Love With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+      "duration_ms": 172007,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
     },
     {
       "added_at": "2024-12-05 23:00:00",

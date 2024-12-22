@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > "Yo no ocupo andar quedando bien con ni'un cabrón\. Me daría la mismo si les caigo bien o no" Edgardo Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,098 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,320 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

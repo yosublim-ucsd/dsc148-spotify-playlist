@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,376 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,406 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 49 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
 | 50 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
 | 51 | [Hostage](https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hostage](https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G) | 3:28 |
-| 52 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
-| 53 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 |
+| 52 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 |
+| 53 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
 | 54 | [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 |
 | 55 | [Lowkey](https://open.spotify.com/track/4FC7fcZ5RexxLbWNrOq6aq) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Streets, Love & Other Stuff](https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh) | 3:21 |
 | 56 | [I Just Wanna Dance](https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [I Just Wanna Dance](https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts) | 2:43 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 66 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 |
 | 67 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
 | 68 | [FLATLINE](https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FLATLINE](https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf) | 3:45 |
-| 69 | [Sigo Tus Pasos](https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Sigo Tus Pasos](https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub) | 4:02 |
-| 70 | [smile](https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [smile](https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a) | 2:45 |
+| 69 | [smile](https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [smile](https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a) | 2:45 |
+| 70 | [Sigo Tus Pasos](https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Sigo Tus Pasos](https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub) | 4:02 |
 | 71 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 |
 | 72 | [Running Water](https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin) | [Soo Joo](https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Running Water](https://open.spotify.com/album/5aABozC2vJE5ZeKyzRp8zt) | 4:00 |
 | 73 | [Powder](https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd) | [Pontypool](https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ) | [Powder](https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R) | 3:26 |

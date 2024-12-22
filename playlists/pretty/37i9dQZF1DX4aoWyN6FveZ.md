@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ravieb/">Ravie B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,219 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,224 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aoWyN6FveZ.md) - [plain]
 | 9 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
 | 10 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |
 | 11 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
-| 12 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
+| 12 | [Aston Martin Music](https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 4:30 |
 | 13 | [Cameras / Good Ones Go Interlude \- Medley](https://open.spotify.com/track/2FbGlEPAjNhWvrVvlentVq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 7:14 |
-| 14 | [Aston Martin Music](https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 4:30 |
+| 14 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
 | 15 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
 | 16 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 |
 | 17 | [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 |

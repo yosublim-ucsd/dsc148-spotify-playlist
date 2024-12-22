@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 83595,
+  "num_followers": 83636,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAADwXTG0kBW6myb2p+czM7H5",
+  "snapshot_id": "Z2SzgAAAAAD0B61vpKW7MQTp8pgLoGRW",
   "tracks": [
     {
       "added_at": null,
@@ -431,42 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proud Of Myself",
-        "url": "https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 189460,
-      "name": "Never Again (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/4r2RvehxpkkOYkMUyUXpkx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PLAN A",
-        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 130979,
-      "name": "120",
-      "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -487,6 +451,42 @@
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 130979,
+      "name": "120",
+      "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proud Of Myself",
+        "url": "https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 189460,
+      "name": "Never Again (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/4r2RvehxpkkOYkMUyUXpkx"
     },
     {
       "added_at": null,

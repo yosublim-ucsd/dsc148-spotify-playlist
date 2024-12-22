@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 
 > Hip hop hits, version dancefloor !
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,850 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,860 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 | 9 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
 | 10 | [Ni\*\*as In Paris](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:39 |
 | 11 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
-| 12 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
-| 13 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
+| 12 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
+| 13 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 14 | [P.I.M.P.](https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 4:09 |
 | 15 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
 | 16 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |

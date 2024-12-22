@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,981 likes - 38 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,117 likes - 38 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 | 13 | [Vida Truncada](https://open.spotify.com/track/3hP3Xr2UqRjA6EgV1adayu) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 3:58 |
 | 14 | [El Señor de los Cielos](https://open.spotify.com/track/7GuMMcKE6CzkMx53uvE2bN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:35 |
 | 15 | [La Vida Ruina](https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:33 |
-| 16 | [Pedro Antrax](https://open.spotify.com/track/3tnNw3TIZGjaj4vyAUUytO) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 2:31 |
-| 17 | [Un Par De Ojitos Negros \- En Vivo](https://open.spotify.com/track/6jHxzwwcqRgSrrTTxGYmn3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 2:53 |
+| 16 | [Un Par De Ojitos Negros \- En Vivo](https://open.spotify.com/track/6jHxzwwcqRgSrrTTxGYmn3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 2:53 |
+| 17 | [Pedro Antrax](https://open.spotify.com/track/3tnNw3TIZGjaj4vyAUUytO) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 2:31 |
 | 18 | [El Mentado](https://open.spotify.com/track/4qZfObHdk6sphLcReDazoq) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 2:36 |
 | 19 | [A Cada Rato](https://open.spotify.com/track/5CI1WxI7KbzNsVjeO80Asi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:11 |
 | 20 | [Hace Un Año \- En Vivo](https://open.spotify.com/track/0MmGIEFqRjUt28dHsG91JZ) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk) | 3:31 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 | 31 | [Los Primos](https://open.spotify.com/track/7I4QTnJEspPX1uyoW0fF5d) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 3:25 |
 | 32 | [El Corrido Del Cabe \- En Vivo](https://open.spotify.com/track/63y6f3wuJhab73GOoWyY4G) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/2WtJjUZbtNDFp1UPKfQYxk) | 3:38 |
 | 33 | [Edgar Guzman \- En Vivo](https://open.spotify.com/track/6kHc0gC9JVPX0zxk7IMiLF) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 3:07 |
-| 34 | [El Karma](https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:44 |
+| 34 | [El Toro Encartado](https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 3:02 |
 | 35 | [La Muerte Del Cardenal](https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 4:12 |
 | 36 | [Los Principios \- En Vivo](https://open.spotify.com/track/1VjQKGK78EJe98zYNHtnxy) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/3EqZCAqWhTaD0yZouLViMU) | 3:03 |
-| 37 | [El Toro Encartado](https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 3:02 |
+| 37 | [El Karma](https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR) | [Banda Culiacancito](https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Enfiestados En Culiacan](https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW) | 2:44 |
 | 38 | [El Empanada](https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc) | 3:51 |
 
-Snapshot ID: `Z2NiAAAAAAA8PEGUaTtLiEIU5FImyMRU`
+Snapshot ID: `Z2SzgAAAAABVJ7q6MBaoGuwb0Ss9Y+HZ`

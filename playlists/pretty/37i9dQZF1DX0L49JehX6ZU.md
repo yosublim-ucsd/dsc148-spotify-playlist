@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,953 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,963 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 27 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
 | 28 | [Dooba Dooba](https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 5:03 |
 | 29 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 |
-| 30 | [Humdum](https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Humdum](https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku) | 3:01 |
-| 31 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
+| 30 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
+| 31 | [Humdum](https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Humdum](https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku) | 3:01 |
 | 32 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |
 | 33 | [Tune Kaha](https://open.spotify.com/track/1gWtHDe403RuyZqhvSRcv8) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tune Kaha](https://open.spotify.com/album/1sXF26ED1bQT76rFEvPwaP) | 3:36 |
 | 34 | [Madhubala](https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:03 |

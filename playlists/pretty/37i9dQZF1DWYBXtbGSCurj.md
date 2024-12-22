@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Sidoka, Brocasito, Mc Igu
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,070 likes - 74 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,066 likes - 74 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LEAN NO SEU VESTIDO](https://open.spotify.com/track/4HSDHMB2CPH8w0Uglmzt4w) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [DogDu BEAT$](https://open.spotify.com/artist/2Ce5qAualGsritIDCedjAO) | [SE VC N AMA](https://open.spotify.com/album/4oN7MN5lGW8uPtmhkofIil) | 3:29 |
-| 2 | [Tango](https://open.spotify.com/track/6dWGBv0DMNa7sa2y7bGS2r) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:44 |
+| 2 | [Tango \(feat\. Veigh & Niink\)](https://open.spotify.com/track/6dWGBv0DMNa7sa2y7bGS2r) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:44 |
 | 3 | [CARA DI CRIA \#5](https://open.spotify.com/track/4eVmrM4nCfDfaQR8BZSLlO) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [CARA DI CRIA \#5](https://open.spotify.com/album/2xRKLqljHrtUVDb4jpIfQK) | 1:58 |
 | 4 | [Conexão](https://open.spotify.com/track/4nLPgId7NO5UN0moOUQC8u) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Conexão](https://open.spotify.com/album/2dUb2kWcC5pgVxNqlhvSWa) | 3:22 |
 | 5 | [Fuso](https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Fuso](https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP) | 1:54 |

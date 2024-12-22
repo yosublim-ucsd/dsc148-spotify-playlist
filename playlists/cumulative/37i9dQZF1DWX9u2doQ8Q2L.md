@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,547 songs - 3 day 21 hr 42 min
+1,548 songs - 3 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-04 | 2023-02-03 |
 | [Love no Genkei](https://open.spotify.com/track/2WW8KjNeaeKLCV16w4vmO7) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [Love no Genkei](https://open.spotify.com/album/2sOTrGKCJK6NzbDlLQm1i1) | 3:26 | 2024-03-12 | 2024-04-03 |
 | [Love seeker](https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Love seeker](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) | 2:54 | 2024-07-02 |  |
-| [Love Sick](https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Love Sick](https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw) | 3:42 | 2024-07-30 |  |
+| [Love Sick](https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Love Sick](https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw) | 3:42 | 2024-07-30 | 2024-12-22 |
 | [LOVE TRIP \(feat\. Hannah Warm\)](https://open.spotify.com/track/42eeVyfEZSIdoEHTLx4mmQ) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [LOVE TRIP \(feat\. Hannah Warm\)](https://open.spotify.com/album/5DfUoeGRKrcC5eEaQ5gkgJ) | 4:02 | 2024-08-14 | 2024-09-05 |
 | [Love You!!!!!!](https://open.spotify.com/track/2a64t56KzgVqp8iYRCj8fs) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Love You!!!!!!](https://open.spotify.com/album/0ecMSnvcWpp5lxHvs8sKGU) | 2:05 | 2023-01-14 | 2023-01-18 |
 | [Love's Daydream End](https://open.spotify.com/track/63DFBgVx1eBrMQkG5LuwCh) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Love's Daydream End](https://open.spotify.com/album/1JqhrNaGYbmXQlrTJ4Id6q) | 3:59 | 2022-10-25 | 2022-11-02 |
@@ -694,6 +694,7 @@
 | [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 | 2023-08-01 | 2023-09-05 |
 | [NEO KAWAII, K?](https://open.spotify.com/track/5jkxqNR8T2vYEJxFMVpBUW) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP) | 2:34 | 2023-08-01 | 2023-08-03 |
 | [Neo Tokio Stranger](https://open.spotify.com/track/0Zkl7Lp2XjVd3UgHYilqXb) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [Tondenhey](https://open.spotify.com/artist/2qgqhlT5r0VIUwCCycLlAq), [Kyoichi Mikuriya](https://open.spotify.com/artist/32trGIrg8yijKuRYolLtNK) | [Neo Tokio Stranger](https://open.spotify.com/album/5Th0vWDtszKUyQDULhhnhR) | 3:50 | 2022-11-22 | 2023-01-04 |
+| [NEON](https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [NEON](https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT) | 5:10 | 2024-12-17 |  |
 | [nestling](https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [nestling](https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq) | 3:47 | 2023-04-11 | 2023-09-06 |
 | [Never Ever](https://open.spotify.com/track/7hRa263NxqoPk3DuupeG6R) | [Idiot Pop](https://open.spotify.com/artist/6t8D7bjh5Tk8aGBeSJ4RoP), [TORAT](https://open.spotify.com/artist/4l0gZLsSqaiocM9lXBBX58) | [Never Ever](https://open.spotify.com/album/6T9fRYlghCWbqTSqZE5UES) | 3:22 | 2022-08-04 | 2022-09-15 |
 | [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 | 2024-04-23 |  |

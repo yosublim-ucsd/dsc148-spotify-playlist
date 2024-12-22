@@ -65,6 +65,6 @@
 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 | 2024-08-08 |  |
 | [Viene Diciembre](https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Viene Diciembre](https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha) | 3:06 | 2024-08-08 |  |
 | [Voy por Ti](https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 2:25 | 2024-08-08 |  |
-| [Yaki](https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:20 | 2024-08-08 |  |
+| [Yaki](https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:20 | 2024-08-08 | 2024-12-22 |
 
 \*This playlist was first scraped on 2024-08-08. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,434,575 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,434,505 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 24 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 |
 | 25 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 |
 | 26 | [Lift Me Up](https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Lift Me Up](https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ) | 2:49 |
-| 27 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
-| 28 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 |
+| 27 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 |
+| 28 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 29 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
 | 30 | [Annie's Song](https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG) | [Cameron Payne](https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi) | [Annie's Song](https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX) | 2:47 |
 | 31 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 |
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 48 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
 | 49 | [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 |
 | 50 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
-| 51 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
-| 52 | [Behind Blue Eyes](https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Behind Blue Eyes](https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm) | 2:44 |
+| 51 | [Behind Blue Eyes](https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Behind Blue Eyes](https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm) | 2:44 |
+| 52 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
 | 53 | [Breathless](https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Breathless](https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn) | 2:46 |
 | 54 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 |
 | 55 | [You Raise Me Up](https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [You Raise Me Up](https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd) | 2:20 |
 | 56 | [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 |
-| 57 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 |
-| 58 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 |
+| 57 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 |
+| 58 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 |
 | 59 | [Too Good At Goodbyes](https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Too Good At Goodbyes](https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ) | 2:50 |
 | 60 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
 | 61 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 69 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 |
 | 70 | [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 |
 | 71 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
-| 72 | [Good](https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Good](https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe) | 4:01 |
-| 73 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 72 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 73 | [Good](https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Good](https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe) | 4:01 |
 | 74 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 |
 | 75 | [Fireflies](https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [Fireflies](https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl) | 3:40 |
 | 76 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 97 | [Desperado](https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Desperado](https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ) | 3:11 |
 | 98 | [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 |
 | 99 | [WITHOUT ME](https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [WITHOUT ME](https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir) | 3:00 |
-| 100 | [Eyes Closed](https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl) | [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [Eyes Closed](https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe) | 3:23 |
+| 100 | [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 |
 
 Snapshot ID: `ZxIV8AAAAADa2bIAh6NHs/JORCbxEIG8`

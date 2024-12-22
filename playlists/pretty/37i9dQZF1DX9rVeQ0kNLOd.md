@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,409 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,411 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 26 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
 | 27 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
 | 28 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
-| 29 | [猫にジェラシー](https://open.spotify.com/track/6Qr07C97QliK35ZQGs941S) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:14 |
+| 29 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
 | 30 | [泡になっても](https://open.spotify.com/track/5K8fwWbc0eN97hOeSWdqaA) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [泡になっても](https://open.spotify.com/album/6jyCTOIpaUUhbLBvpCmwip) | 4:01 |
 | 31 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
-| 32 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
+| 32 | [猫にジェラシー](https://open.spotify.com/track/6Qr07C97QliK35ZQGs941S) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:14 |
 | 33 | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
 | 34 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 |
 | 35 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 42 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
 | 43 | [硝子窓](https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [硝子窓](https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG) | 3:37 |
 | 44 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
-| 45 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 |
+| 45 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 |
 | 46 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 |
 | 47 | [minority](https://open.spotify.com/track/3ROjXRCm8LZYHgNUYCelc4) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/7rrjUIpahOnb2OU1prz6OK) | 2:27 |
 | 48 | [春泥棒](https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 |

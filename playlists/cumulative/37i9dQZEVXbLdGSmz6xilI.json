@@ -13460,7 +13460,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 193049,
       "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/1J12HjUuXfJnaUdubTEzSR"
@@ -16128,7 +16128,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 252307,
       "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
       "url": "https://open.spotify.com/track/3JIfmjJbanxJkwaPzYa2gN"
@@ -17380,7 +17380,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 161948,
       "name": "Simp G\u00e1i 808",
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
@@ -19891,6 +19891,32 @@
     },
     {
       "album": {
+        "name": "ii-V-I",
+        "url": "https://open.spotify.com/album/1FbMoGXodZzHVcFhSK4pUu"
+      },
+      "artists": [
+        {
+          "name": "Tyronee",
+          "url": "https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu"
+        },
+        {
+          "name": "VSTRA",
+          "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165161,
+      "name": "Track 06",
+      "url": "https://open.spotify.com/track/72NMPuJCRsOUoXQJdzVfdo"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
@@ -21762,7 +21788,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 173033,
       "name": "White Christmas (with V of BTS)",
       "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
@@ -22672,6 +22698,24 @@
       "duration_ms": 293112,
       "name": "\u00c2m Th\u1ea7m B\u00ean Em",
       "url": "https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P"
+    },
+    {
+      "album": {
+        "name": "m-tp M-TP",
+        "url": "https://open.spotify.com/album/1AaxmI2e1HRhbwe9XJGPnT"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293112,
+      "name": "\u00c2m Th\u1ea7m B\u00ean Em",
+      "url": "https://open.spotify.com/track/2wZAvkgiOE5tyrnqhB69KA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,283,317 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,283,378 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 39 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 40 | [Eat You Alive](https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 3:56 |
 | 41 | [Vicarious](https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 7:06 |
-| 42 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 |
-| 43 | [The Day That Never Comes](https://open.spotify.com/track/13Uvqll8OQDjw3wDweIK9y) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:56 |
+| 42 | [The Day That Never Comes](https://open.spotify.com/track/13Uvqll8OQDjw3wDweIK9y) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:56 |
+| 43 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 |
 | 44 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 |
 | 45 | [Bad Company](https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 4:22 |
 | 46 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 71 | [Nemesis](https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
 | 72 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 |
 | 73 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
-| 74 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
-| 75 | [The Pursuit Of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
+| 74 | [The Pursuit Of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
+| 75 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
 | 76 | [Chelsea Smile](https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6) | 5:02 |
 | 77 | [As I Am](https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Train of Thought](https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj) | 7:47 |
 | 78 | [Destroy Everything](https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 3:29 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 95 | [Panic Attack](https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Octavarium](https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP) | 8:13 |
 | 96 | [Puritania](https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia](https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2) | 3:06 |
 | 97 | [How Can I Live](https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Confession \[Special Edition\]](https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md) | 3:16 |
-| 98 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 |
+| 98 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
 | 99 | [Through Struggle](https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:58 |
-| 100 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
+| 100 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 |
 
 Snapshot ID: `Zt9WYgAAAAC3SdCcpbFZbCr5KWrlBqWo`

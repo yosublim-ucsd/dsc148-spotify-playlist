@@ -4,7 +4,7 @@
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 1 min
+98 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [El Corrido de el Fantasma \- En Vivo](https://open.spotify.com/track/1jgUFLCsFEtcDy47RzCwWe) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:19 | 2022-06-01 | 2023-12-14 |
 | [El Corrido de Panchito](https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:22 | 2022-06-01 |  |
 | [El Doble R](https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [6 Tragos](https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt) | 2:33 | 2022-06-01 | 2024-08-16 |
+| [El Dorado Fue Cobre](https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Dorado Fue Cobre](https://open.spotify.com/album/6QCg0x55bd55x6KzmSLUc4) | 3:20 | 2024-12-22 |  |
 | [El Envidioso](https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:11 | 2022-06-01 |  |
 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 | 2022-06-01 |  |
 | [El Federal de Caminos](https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Federal de Caminos](https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl) | 3:03 | 2024-04-19 |  |
@@ -84,7 +85,7 @@
 | [Mis Raíces](https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:39 | 2022-06-01 |  |
 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 | 2022-06-01 | 2023-09-22 |
 | [Moños Negros](https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j) | 3:23 | 2023-09-21 |  |
-| [Más de una Razón](https://open.spotify.com/track/252gVdTF9yJpgPi5lT4q92) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Más de una Razón](https://open.spotify.com/album/5PdSIlAXNjO9QW5v2Qt95Z) | 3:18 | 2024-10-07 |  |
+| [Más de una Razón](https://open.spotify.com/track/252gVdTF9yJpgPi5lT4q92) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Más de una Razón](https://open.spotify.com/album/5PdSIlAXNjO9QW5v2Qt95Z) | 3:18 | 2024-10-07 | 2024-12-22 |
 | [Nave 727](https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Nave 727](https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy) | 3:16 | 2023-11-10 |  |
 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 | 2022-06-01 |  |
 | [Nomas las Mujeres Quedan \- En Vivo](https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 | 2022-06-01 |  |

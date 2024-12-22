@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 
 > la generación del discman y el walkman
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,154 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,175 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FbSX4ewlys.md) - [plain]
 | 38 | [There She Goes](https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 2:44 |
 | 39 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/0Uqs7ilt5kGX9NzFDWTBrP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 3:52 |
 | 40 | [Laura no està](https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Nek \(spanish version\)](https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP) | 3:45 |
-| 41 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 |
-| 42 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
+| 41 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
+| 42 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 |
 | 43 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
 | 44 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
 | 45 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 46 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
-| 47 | [Şımarık](https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Ölürüm Sana](https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay) | 3:55 |
+| 46 | [Şımarık](https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Ölürüm Sana](https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay) | 3:55 |
+| 47 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
 | 48 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 |
 | 49 | [Depende](https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:25 |
 | 50 | [Mas de Lo Que Te Imaginas \(Classic Version\)](https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y) | [The Sacados](https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6) | [Superexitos Vol\. 2](https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz) | 3:39 |

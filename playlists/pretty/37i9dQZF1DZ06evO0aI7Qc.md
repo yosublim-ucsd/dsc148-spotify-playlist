@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,095 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,285 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 37 | [El Buho](https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL) | 2:56 |
 | 38 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 |
 | 39 | [Por Clave El Fresa](https://open.spotify.com/track/3tS0oKoHSZdsAZpPxjmrBC) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 2:24 |
-| 40 | [GTA II](https://open.spotify.com/track/7xoIdflRdcG3794rwJxm0s) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:40 |
-| 41 | [Bélicos](https://open.spotify.com/track/2EulHlOwhv7KPV7avsSZnA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:18 |
+| 40 | [Bélicos](https://open.spotify.com/track/2EulHlOwhv7KPV7avsSZnA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:18 |
+| 41 | [GTA II](https://open.spotify.com/track/7xoIdflRdcG3794rwJxm0s) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:40 |
 | 42 | [Un Amor Como Este](https://open.spotify.com/track/6OF8WZZI4QfmAKR5jcN1lt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Amor Como Este](https://open.spotify.com/album/77L9yBKHPAOXb9c8hPqWZy) | 3:05 |
 | 43 | [La Mamoncita del Insta](https://open.spotify.com/track/2nNcHQLFf62ArlArXjBaiY) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4KuUfV5YK4Ru8GHi2V0pB0) | 3:13 |
 | 44 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 50 | [Le Apodan El Fresa](https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Apodan El Fresa](https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG) | 3:14 |
 | 51 | [A Punta de Balazos](https://open.spotify.com/track/30jSzrU2QGEVG623M6x63V) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:31 |
 
-Snapshot ID: `Z2NiAAAAAADPM4qjjFz4dSXeV3l8mypp`
+Snapshot ID: `Z2SzgAAAAABvXUFv7cNpDv4raQXOENok`

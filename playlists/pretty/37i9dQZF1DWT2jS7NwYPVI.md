@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Winona Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,612 likes - 125 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,673 likes - 125 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
+| 1 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 2 | [ATTENTION](https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [ATTENTION](https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM) | 2:58 |
 | 3 | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
 | 4 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 10 | [20/20 Vision](https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [20/20 Vision](https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd) | 3:47 |
 | 11 | [Always, Everytime](https://open.spotify.com/track/1DbeTcnfS7kLnHhVsRlvqg) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Always, Everytime](https://open.spotify.com/album/3eJOnQipfXT3Z2ubwqb7sn) | 2:51 |
 | 12 | [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 |
-| 13 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 13 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 14 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 |
 | 15 | [Your House](https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Your House](https://open.spotify.com/album/5bVyceWVMG2ArRJBXapami) | 3:47 |
 | 16 | [Arizona](https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Arizona](https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU) | 3:24 |

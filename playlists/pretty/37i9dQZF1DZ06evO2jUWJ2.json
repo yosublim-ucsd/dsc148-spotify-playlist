@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 289288,
+  "num_followers": 289326,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACoh5bK3xILrGpQd3LHyKd7",
+  "snapshot_id": "Z2SzgAAAAACC/+f/1YmIxVg7E9cHUYou",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 499506,
+      "name": "Here as in Heaven",
+      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 421111,
       "name": "Always On Time (feat. Bella Cordero)",
       "url": "https://open.spotify.com/track/484SYKQnjhFBGrMVszKCkE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 499506,
-      "name": "Here as in Heaven",
-      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
     },
     {
       "added_at": null,
@@ -387,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Echo The Angels",
+        "url": "https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "JOY!",
+      "url": "https://open.spotify.com/track/4BhWQqvFGxwAuKP2TTPMeb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 430689,
       "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echo The Angels",
-        "url": "https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "JOY!",
-      "url": "https://open.spotify.com/track/4BhWQqvFGxwAuKP2TTPMeb"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 291330,
+      "name": "My Testimony (Live)",
+      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 347587,
       "name": "Great Is (feat. Jenna Barrientes)",
       "url": "https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 291330,
-      "name": "My Testimony (Live)",
-      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Wind Meets Fire",
-        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 452829,
-      "name": "Sure Been Good (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/17qx4XW3tI8BkGhZseXzsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tumbas A Jardines",
         "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 419491,
       "name": "La Bendici\u00f3n (The Blessing)",
       "url": "https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 452829,
+      "name": "Sure Been Good (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/17qx4XW3tI8BkGhZseXzsQ"
     },
     {
       "added_at": null,
@@ -607,6 +607,26 @@
       "duration_ms": 598622,
       "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echo The Angels",
+        "url": "https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 357779,
+      "name": "Breath Of Heaven (All Of A Sudden) (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/0G2jK6DM71a3m4Sv3NmM54"
     },
     {
       "added_at": null,
@@ -651,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 512899,
+      "name": "Make A Way (feat. Chandler Moore & Brandon Lake)",
+      "url": "https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -679,50 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 512899,
-      "name": "Make A Way (feat. Chandler Moore & Brandon Lake)",
-      "url": "https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echo The Angels",
-        "url": "https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 357779,
-      "name": "Breath Of Heaven (All Of A Sudden) (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/0G2jK6DM71a3m4Sv3NmM54"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wake Up The Wonder",
         "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
       },
@@ -735,50 +735,6 @@
       "duration_ms": 261678,
       "name": "Unstoppable God",
       "url": "https://open.spotify.com/track/7myOvrlSOO7VIyd7JQnSU0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 509977,
-      "name": "Talking To Jesus (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 236735,
-      "name": "Echo (feat. Tauren Wells)",
-      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
     },
     {
       "added_at": null,
@@ -803,6 +759,50 @@
       "duration_ms": 354223,
       "name": "What A Miracle (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/0PwSdLh5ahtrs6liNk7hin"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 236735,
+      "name": "Echo (feat. Tauren Wells)",
+      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 509977,
+      "name": "Talking To Jesus (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
     },
     {
       "added_at": null,

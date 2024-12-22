@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: HIMALAYAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,812 likes - 35 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,828 likes - 35 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 |
-| 2 | [Mother Theresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Theresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
+| 2 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
 | 3 | [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 |
 | 4 | [On And On](https://open.spotify.com/track/3yGvuM7ZiPgjGbicd90rty) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [On And On](https://open.spotify.com/album/1smjM1eRoFGGHWJjtq4hrO) | 2:26 |
 | 5 | [Doll](https://open.spotify.com/track/1XIcetwKvaBSaRobB9VSpg) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [Doll](https://open.spotify.com/album/0SgIgo8uCcI4GSsAbgQ82q) | 1:54 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 8 | [Counting Hours](https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Counting Hours](https://open.spotify.com/album/5ZwA69GCI9pw1qgrrtOkaM) | 2:41 |
 | 9 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 |
 | 10 | [Chemicals](https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [MESO](https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a) | 3:11 |
-| 11 | [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
+| 11 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 12 | [Seth Cohen](https://open.spotify.com/track/7kcxPSFHehZcr6Qjpwr2pV) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Seth Cohen](https://open.spotify.com/album/3XMtEk1S5GLR3XFJ5l9uuZ) | 2:10 |
 | 13 | [King Baby](https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [King Baby](https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7) | 3:12 |
 | 14 | [I Hate Myself](https://open.spotify.com/track/0KUsKZkRFZYkxUYgtvUBck) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [I Hate Myself](https://open.spotify.com/album/0QvAysHhIdFK1IC72MRueR) | 3:15 |

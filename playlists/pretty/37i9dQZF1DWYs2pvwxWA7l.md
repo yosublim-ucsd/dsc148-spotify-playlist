@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover: Zuchu
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,461 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,578 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 33 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
 | 34 | [Yimmy Yimmy](https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Yimmy Yimmy](https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC) | 3:31 |
 | 35 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
-| 36 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 |
-| 37 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
+| 36 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
+| 37 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 |
 | 38 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
 | 39 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
 | 40 | [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 |

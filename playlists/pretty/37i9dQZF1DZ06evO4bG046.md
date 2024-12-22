@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,011 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,018 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 27 | [Mamalluca](https://open.spotify.com/track/5cZqYxULKUnsi9cHKp78pS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 15:44 |
 | 28 | [Canción del Sur](https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 7:41 |
 | 29 | [Un Mar de Gente](https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 4:09 |
-| 30 | [La Centinela \(Versión 1997\)](https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 5:04 |
-| 31 | [Que o la Tumba Serás](https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz) | 3:22 |
+| 30 | [Que o la Tumba Serás](https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz) | 3:22 |
+| 31 | [La Centinela \(Versión 1997\)](https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 5:04 |
 | 32 | [Frescura Antigua](https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:12 |
 | 33 | [Guajira Cosmica](https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 7:59 |
-| 34 | [Indio Hermano \(Versión 1996\)](https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 6:01 |
-| 35 | [El Pasillo del Cóndor \- En Vivo 2014](https://open.spotify.com/track/3VqyFnVNNe030MDH6XR6b2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 0:32 |
+| 34 | [El Pasillo del Cóndor \- En Vivo 2014](https://open.spotify.com/track/3VqyFnVNNe030MDH6XR6b2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 0:32 |
+| 35 | [Indio Hermano \(Versión 1996\)](https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 6:01 |
 | 36 | [En la Cumbre de un Cerro](https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 5:09 |
 | 37 | [Tarka y Ocarina \(Diablada\-Trote\-Kotaiki\)](https://open.spotify.com/track/3sbeeC62ewTzE1ywXAx0WI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 13:18 |
 | 38 | [Arauco Tiene una Pena](https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 11:07 |
-| 39 | [Si Tú No Estás](https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 3:45 |
-| 40 | [Ayer Caché \- En Vivo 2014](https://open.spotify.com/track/2WUkVGzTEbjir1z4rJm7U6) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 4:33 |
+| 39 | [Ayer Caché \- En Vivo 2014](https://open.spotify.com/track/2WUkVGzTEbjir1z4rJm7U6) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 4:33 |
+| 40 | [Si Tú No Estás](https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 3:45 |
 | 41 | [Foto de Primera Comunión](https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz) | 6:34 |
 | 42 | [Cerro de la Virgen](https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 6:55 |
 | 43 | [Canción para los Pájaros](https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:25 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 46 | [Como Tus Ríos Te Recorren \- En Vivo 2014](https://open.spotify.com/track/3kuHkjG1G7Zqzu9Onb9gmS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 5:03 |
 | 47 | [Pájaro Errante](https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:14 |
 | 48 | [Arrebol](https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 6:48 |
-| 49 | [Sueño Del Inca](https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:43 |
-| 50 | [Verguenza Ajena](https://open.spotify.com/track/6ljLiWQXbJjPElG0p6U1s4) | [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy), [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Macha y el Bloque Depresivo](https://open.spotify.com/album/0xgXqrSz4tx4uapKr46R5J) | 2:38 |
+| 49 | [Verguenza Ajena](https://open.spotify.com/track/6ljLiWQXbJjPElG0p6U1s4) | [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy), [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Macha y el Bloque Depresivo](https://open.spotify.com/album/0xgXqrSz4tx4uapKr46R5J) | 2:38 |
+| 50 | [Sueño Del Inca](https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:43 |
 
-Snapshot ID: `Z2NiAAAAAABtve/NDX/TUAUfer5K9F9M`
+Snapshot ID: `Z2SzgAAAAABl9xsr90uz4KS/tynFO7Ld`

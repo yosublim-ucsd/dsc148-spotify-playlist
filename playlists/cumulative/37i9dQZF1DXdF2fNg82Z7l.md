@@ -4,12 +4,13 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-203 songs - 10 hr 30 min
+205 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$TONED](https://open.spotify.com/track/2saTLE5Opsybv6OfYx3AYk) | [Toby Mai](https://open.spotify.com/artist/71XRExAcKFmzM0fckCrCvo) | [$TONED](https://open.spotify.com/album/0jlD0Wgw5y9P7VYpLcbSxZ) | 2:55 | 2024-03-14 | 2024-10-05 |
 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 | 2024-10-24 | 2024-12-03 |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-20 |  |
 | [42](https://open.spotify.com/track/4K9xMdKPxDeRMmxGybVlpy) | [Maya Hirasedo](https://open.spotify.com/artist/79fiC2Vlgb2Q8u30JVcOm8), [Lil Jaye](https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl) | [42](https://open.spotify.com/album/7kNZo6GwS4daijRrKFKgbq) | 2:46 | 2024-03-14 | 2024-10-05 |
 | [737](https://open.spotify.com/track/6AS9eFRFKCbzySHljxjspE) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [737](https://open.spotify.com/album/1BXvwn6HlOu6gcVG7gVq6C) | 2:32 | 2024-03-14 | 2024-07-30 |
 | [9 to 5](https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [9 to 5](https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg) | 2:48 | 2024-10-17 | 2024-11-08 |
@@ -35,6 +36,7 @@
 | [Brighter Dayze](https://open.spotify.com/track/0OMZHLMCfilND87yMf1b3x) | [J.B.T](https://open.spotify.com/artist/5gKnvVFJ2mabvIcKNFiT8e) | [LOUDPACK VOL\. II](https://open.spotify.com/album/1MNYTDqNJ8qoUYZ9aDKIQZ) | 2:21 | 2024-03-14 | 2024-10-05 |
 | [Cascades \- Remix](https://open.spotify.com/track/4MQRD5jQuVYa5xhNifyut6) | [Grievous Bodily Calm](https://open.spotify.com/artist/58OKZUurPOXnGlGNRvoNwL), [Kuzich](https://open.spotify.com/artist/2UZBhRAr5PcZ0qRA5mEvwU), [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4) | [Cascades \(Remix\)](https://open.spotify.com/album/5E09lTjiDzd9lXU7fzDztD) | 3:50 | 2024-03-14 | 2024-10-05 |
 | [Chameleon](https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Change & Remain](https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln) | 2:55 | 2024-10-04 |  |
+| [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 | 2024-12-20 |  |
 | [City Lights](https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [City Lights](https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp) | 3:56 | 2024-03-14 | 2024-10-05 |
 | [CRASH DUMMY MUZIK](https://open.spotify.com/track/3DIgMO31zNSpR2wOZT7JcD) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Roland Jones](https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj) | [CRASH DUMMY MUZIK](https://open.spotify.com/album/4NlIVt9HcukdI7EEzXWkuo) | 3:21 | 2024-10-17 | 2024-11-08 |
 | [Creme's Interlude](https://open.spotify.com/track/5kYaWgEAb5WTI0x97T5Kh1) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Fly Anakin](https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Crem'e](https://open.spotify.com/artist/2HgQy3evBAFUbwsEoyMK5G) | [FlySiifu's](https://open.spotify.com/album/28DJGYYMR5GnQEstpS4vzM) | 2:20 | 2024-10-04 |  |
@@ -118,7 +120,7 @@
 | [NO CLUE](https://open.spotify.com/track/1MB23VlQhkCX1dRS81zcGu) | [Picked Last](https://open.spotify.com/artist/1Ujl8d0SMgGVPbZZDf9t1q), [Agung Mango](https://open.spotify.com/artist/1XXBwJeXvPE1PdXWjJLuXf), [Boy Ace](https://open.spotify.com/artist/5tfYneqaKo1KSNXT8KyyCy), [A81yann](https://open.spotify.com/artist/4FmuzhK5CrnyafspB47I96), [Manny Müla](https://open.spotify.com/artist/3wqy6KShGsKZFxWoVLNkss), [Porter Rico](https://open.spotify.com/artist/6OFxQdE6ce9OsJEO5seI0Y), [Eissa](https://open.spotify.com/artist/1Bw0XPl1WIciDmt6ZDw5lq) | [NO CLUE](https://open.spotify.com/album/5LQtlSlwKfoIPDKG99nk3r) | 3:13 | 2024-03-14 | 2024-07-30 |
 | [No Drama](https://open.spotify.com/track/011QKsPp80DCMwZV40jsKw) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [No Drama](https://open.spotify.com/album/5Rg43VY2jOcbd2b7nD3Lrm) | 2:50 | 2024-03-14 | 2024-10-05 |
 | [No More](https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 3:10 | 2024-03-14 | 2024-07-30 |
-| [No Peace, No Time](https://open.spotify.com/track/66Be4ATVoOu2JiyS2QFich) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [No Peace, No Time](https://open.spotify.com/album/7pGe7AEbeMjk4IaBjvyrB7) | 2:19 | 2024-03-14 |  |
+| [No Peace, No Time](https://open.spotify.com/track/66Be4ATVoOu2JiyS2QFich) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [No Peace, No Time](https://open.spotify.com/album/7pGe7AEbeMjk4IaBjvyrB7) | 2:19 | 2024-03-14 | 2024-12-22 |
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2024-03-14 | 2024-07-30 |
 | [OFF MY MIND](https://open.spotify.com/track/5NMwqBJmbT3Vx1feZXFqI3) | [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk) | [OFF MY MIND](https://open.spotify.com/album/1OFpZRXmxoi3Owbcfggwpz) | 3:02 | 2024-03-14 | 2024-07-30 |
 | [On My Way Home](https://open.spotify.com/track/6T3TD8dz7LWYt4WPwONmoN) | [D at Sea](https://open.spotify.com/artist/49Pev5tXSjwKtlvsBPYCSM) | [On My Way Home](https://open.spotify.com/album/1ejmOy6PomknI6jRTYLyFO) | 2:50 | 2024-03-14 | 2024-07-30 |
@@ -210,6 +212,6 @@
 | [WYA](https://open.spotify.com/track/0pWe6arB3oGxI8msYHObbA) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [WYA](https://open.spotify.com/album/7I5lABeFEjFJcdgrVltGr7) | 2:16 | 2024-10-04 |  |
 | [Yah Mean](https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:45 | 2024-10-04 |  |
 | [Zero](https://open.spotify.com/track/5A9UIlGcswXCVdSLrirf7K) | [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [Zero](https://open.spotify.com/album/6b0EVTq1zRwzReVxYLUnm9) | 1:54 | 2024-07-29 | 2024-10-05 |
-| [Évidemment](https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Évidemment](https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb) | 3:03 | 2024-11-07 |  |
+| [Évidemment](https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Évidemment](https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb) | 3:03 | 2024-11-07 | 2024-12-22 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

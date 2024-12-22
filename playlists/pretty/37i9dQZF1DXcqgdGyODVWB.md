@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para prender el ambiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,525 likes - 104 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,577 likes - 104 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

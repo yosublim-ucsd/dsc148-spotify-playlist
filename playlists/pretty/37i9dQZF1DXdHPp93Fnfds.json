@@ -1,6 +1,6 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Mica Sotera.",
-  "num_followers": 143001,
+  "num_followers": 143008,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Entr\u00e9gate",
         "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Fue un adi\u00f3s",
         "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 196000,
       "name": "Fue un adi\u00f3s",
       "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 181274,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -371,18 +355,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "blush",
-        "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
       },
       "artists": [
         {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
         }
       ],
-      "duration_ms": 106222,
-      "name": "bruce willisss",
-      "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
+      "duration_ms": 181274,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -403,18 +387,18 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "M\u00e1s Que Amigas",
-        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
+        "name": "blush",
+        "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 161571,
-      "name": "M\u00e1s Que Amigas",
-      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
+      "duration_ms": 106222,
+      "name": "bruce willisss",
+      "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -435,6 +419,22 @@
       "duration_ms": 234478,
       "name": "Mito",
       "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "M\u00e1s Que Amigas",
+        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "M\u00e1s Que Amigas",
+      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "Nuestros Besos",
+        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Nuestros Besos",
+      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "Nuestros Besos",
-        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Nuestros Besos",
-      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "me da miedo que escuches esto",
-        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 138509,
-      "name": "A TI",
-      "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Muy tarde",
         "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 195157,
       "name": "Muy tarde",
       "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "me da miedo que escuches esto",
+        "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 138509,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Un Amoroso Asunto",
-        "url": "https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY"
-      },
-      "artists": [
-        {
-          "name": "Doble Valentina",
-          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
-        }
-      ],
-      "duration_ms": 159168,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/0ThXnszjIO8XyZwXKdmVXP"
       },
@@ -1127,6 +1111,38 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
+        "name": "Un Amoroso Asunto",
+        "url": "https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        }
+      ],
+      "duration_ms": 159168,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "tir\u00e9",
+        "url": "https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 150037,
+      "name": "tir\u00e9",
+      "url": "https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
       },
@@ -1139,6 +1155,22 @@
       "duration_ms": 155744,
       "name": "Suspiros",
       "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "AZ\u00daCAR",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "duration_ms": 205398,
+      "name": "AZ\u00daCAR",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1175,58 +1207,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "tir\u00e9",
-        "url": "https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 150037,
-      "name": "tir\u00e9",
-      "url": "https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "AZ\u00daCAR",
-        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
-      },
-      "artists": [
-        {
-          "name": "Milena Warthon",
-          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
-        }
-      ],
-      "duration_ms": 205398,
-      "name": "AZ\u00daCAR",
-      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
-        "name": "te vas a lamentar :'(",
-        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "te vas a lamentar :'(",
-      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Ganas de Dejarte",
         "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
       },
@@ -1239,6 +1219,22 @@
       "duration_ms": 140286,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "AMOR MINIMAL",
+        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 207436,
+      "name": "AMOR MINIMAL",
+      "url": "https://open.spotify.com/track/2xmhERSMywisE5yfTqYvd5"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "AMOR MINIMAL",
-        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
+        "name": "te vas a lamentar :'(",
+        "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
         }
       ],
-      "duration_ms": 207436,
-      "name": "AMOR MINIMAL",
-      "url": "https://open.spotify.com/track/2xmhERSMywisE5yfTqYvd5"
+      "duration_ms": 189600,
+      "name": "te vas a lamentar :'(",
+      "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
     },
     {
       "added_at": "2024-09-12 21:12:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-09-12 21:12:12",
       "album": {
-        "name": "Mi Coraz\u00f3n y Yo",
-        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 178665,
-      "name": "Mi Coraz\u00f3n y Yo",
-      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
-    },
-    {
-      "added_at": "2024-09-12 21:12:12",
-      "album": {
         "name": "Te Traigo Flores",
         "url": "https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 231278,
       "name": "Te Traigo Flores",
       "url": "https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l"
+    },
+    {
+      "added_at": "2024-09-12 21:12:12",
+      "album": {
+        "name": "Mi Coraz\u00f3n y Yo",
+        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 178665,
+      "name": "Mi Coraz\u00f3n y Yo",
+      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
     }
   ],
   "unique_name": "Mujeres del Indie",

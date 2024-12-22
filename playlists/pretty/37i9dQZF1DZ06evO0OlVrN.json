@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7422,
+  "num_followers": 7426,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAAhk/r/QcFr5b15l4cRFfeb",
+  "snapshot_id": "Z2SzgAAAAAC7XtNChdEPkxrdvMjZVi9A",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 234382,
-      "name": "Con La Tinta De Mi Sangre",
-      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
+      "duration_ms": 171816,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 171816,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
+      "duration_ms": 234382,
+      "name": "Con La Tinta De Mi Sangre",
+      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Podiosero De Amor - Live",
-      "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
+      "duration_ms": 158666,
+      "name": "Prieta Mojina - Live",
+      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Prieta Mojina - Live",
-      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
+      "duration_ms": 243760,
+      "name": "Podiosero De Amor - Live",
+      "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Exitos Llorar por Amor",
+        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 169240,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 de Coleccion",
         "url": "https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH"
       },
@@ -503,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Llorar por Amor",
-        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
+        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
+        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
       },
       "artists": [
         {
@@ -512,9 +528,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 169240,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8"
+      "duration_ms": 150920,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
       "duration_ms": 211266,
       "name": "El Espejo",
       "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
-        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 150920,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
     },
     {
       "added_at": null,

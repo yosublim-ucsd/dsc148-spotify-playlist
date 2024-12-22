@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,358 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,349 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 52 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
 | 53 | [Saw You in a Dream](https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You in a Dream](https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h) | 3:28 |
 | 54 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 |
-| 55 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
-| 56 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 |
+| 55 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 |
+| 56 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 |
 | 57 | [The Ballad of the Witches' Road \(Pop Version\) \- From "Agatha All Along"/Soundtrack Version](https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [The Ballad of the Witches' Road \(Pop Version\) \[From "Agatha All Along"\]](https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm) | 2:31 |
 | 58 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 59 | [Some things Cosmic](https://open.spotify.com/track/4TD6fj03dGwfDDrb6UWmy8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV) | 2:54 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 71 | [Californian Soil](https://open.spotify.com/track/64G80FvNMblHjmo2saPGYN) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/6uHWf5qLxatgRBXJ1WlTVN) | 3:41 |
 | 72 | [A Sickness](https://open.spotify.com/track/3DZP8Zr6edwwY2TBW7z2QF) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Pain](https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE) | 1:29 |
 | 73 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 |
-| 74 | [My Girlfriend Is a Witch](https://open.spotify.com/track/18DaSMSqc40nV8cDhdLemj) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/58DUHwOcuQZ62znoET7J2l) | 2:06 |
-| 75 | [Space Song](https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt) | 5:20 |
+| 74 | [Space Song](https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt) | 5:20 |
+| 75 | [My Girlfriend Is a Witch](https://open.spotify.com/track/18DaSMSqc40nV8cDhdLemj) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/58DUHwOcuQZ62znoET7J2l) | 2:06 |
 
 Snapshot ID: `ZzbVUAAAAAC6biUBFrlYt2R5U8AVKujE`

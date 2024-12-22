@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-562 songs - 1 day 23 hr 9 min
+563 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Big Trip Believing](https://open.spotify.com/track/3xe8P71ZbZ7fc6UQbb8lfh) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1) | [Big Trip Believing](https://open.spotify.com/album/78eOlGIDGq0f0ZiAUzWN22) | 3:42 | 2024-11-22 |  |
 | [Birdsong](https://open.spotify.com/track/15M45gEcIKFSLJqdEHrL6R) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Murmuration](https://open.spotify.com/album/7adyZcz9U5o44Q7sn1umNl) | 3:42 | 2024-07-12 |  |
 | [Blasphemy](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko) | [Blasphemy](https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW) | 3:09 | 2023-10-28 |  |
-| [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 |  |
+| [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 | 2024-12-22 |
 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 | 2023-04-07 |  |
 | [Blue](https://open.spotify.com/track/1klWyUOiPXV7p5UFjBxPmf) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue EP](https://open.spotify.com/album/2m2QhcRmT9REjQt5QoFOk1) | 4:46 | 2024-03-01 | 2024-04-13 |
 | [Blue](https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue](https://open.spotify.com/album/0WatRmyFsbWvxsn62abO9k) | 4:46 | 2021-12-08 | 2024-03-02 |
@@ -544,6 +544,7 @@
 | [What Can I Do](https://open.spotify.com/track/2CGaIWj2aaWdyCEVL7hVoa) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Blaze / What Can I Do](https://open.spotify.com/album/3g3SOezLpRLmLkNUe5jjpO) | 6:15 | 2022-05-03 | 2024-04-13 |
 | [What Can I Do](https://open.spotify.com/track/6U9DI9uIT0X5XJJBQrC0Xu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [What Can I Do](https://open.spotify.com/album/3Xy0bFY1wxOoKpTph3NnIO) | 6:15 | 2021-12-08 | 2022-07-29 |
 | [What You Want](https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 3:45 | 2021-12-08 | 2024-04-13 |
+| [whatcouldbe](https://open.spotify.com/track/7mDYG9GGbKeX5j3Y7hMuik) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [whatcouldbe](https://open.spotify.com/album/3lrhRiO6LBKYOzUMslZXT7) | 2:49 | 2024-12-20 |  |
 | [When the Lights Are Out \- Late Night Mix](https://open.spotify.com/track/6skTPlJtkpqN7mM95QfsUD) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [When the Lights Are Out](https://open.spotify.com/album/28eezLT3nxoLghPoLKaduu) | 7:18 | 2021-12-08 | 2024-04-13 |
 | [When the Lights Go Out](https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [When the Lights Go Out](https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx) | 3:41 | 2023-07-07 |  |
 | [When The World Stops Turning \- Quiet Mix](https://open.spotify.com/track/0QYTRe6pYYgYmKQym4frbp) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [When The World Stops Turning \(Quiet Mix\)](https://open.spotify.com/album/4bXcZhVjyk6bV6xMpJD9Om) | 3:47 | 2023-12-01 | 2024-04-13 |

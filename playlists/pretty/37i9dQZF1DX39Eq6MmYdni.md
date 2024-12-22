@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Lo que suena in the lone star state\. Texas\. Cover: Los Primos del Este & Nivel
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,584 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,597 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

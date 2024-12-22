@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2496,
+  "num_followers": 2498,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAABJj3Tql1s2MJx16sQtASmV",
+  "snapshot_id": "Z2SzgAAAAACfKbEBasn1/OFakVeOIhBB",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos a Bailar",
-        "url": "https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z"
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 165098,
-      "name": "Vamos a Bailar",
-      "url": "https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8"
+      "duration_ms": 191226,
+      "name": "La buenotota",
+      "url": "https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+        "name": "Vamos a Bailar",
+        "url": "https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 191226,
-      "name": "La buenotota",
-      "url": "https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX"
+      "duration_ms": 165098,
+      "name": "Vamos a Bailar",
+      "url": "https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Mujer Al Volante",
-      "url": "https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz"
+      "duration_ms": 187266,
+      "name": "Acariciame",
+      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Acariciame",
-      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
+      "duration_ms": 190840,
+      "name": "Mujer Al Volante",
+      "url": "https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
+        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "El se\u00f1or de las canas",
+      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorprendente",
         "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
       },
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
-        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 168746,
-      "name": "El se\u00f1or de las canas",
-      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
+      "duration_ms": 174013,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 146538,
       "name": "Dame Chamoy",
       "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
     },
     {
       "added_at": null,

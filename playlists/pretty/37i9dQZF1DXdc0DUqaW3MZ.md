@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,762 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,845 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 41 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
 | 42 | [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 |
 | 43 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
-| 44 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
-| 45 | [Keep On](https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 3:38 |
+| 44 | [Keep On](https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 3:38 |
+| 45 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
 | 46 | [U Lyk My Style](https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [U Lyk My Style](https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y) | 2:52 |
 | 47 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
 | 48 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |

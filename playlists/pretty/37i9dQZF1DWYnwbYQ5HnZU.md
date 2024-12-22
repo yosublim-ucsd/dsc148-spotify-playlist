@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify country fan favorites\. Cover: Blake Shelton
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,179,267 likes - 95 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,179,426 likes - 95 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 55 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 56 | [I'm Comin' Over](https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:17 |
 | 57 | [Somethin' Bad \(with Carrie Underwood\)](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
-| 58 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
+| 58 | [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 |
 | 59 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
 | 60 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 61 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
-| 62 | [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 |
+| 62 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
 | 63 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
 | 64 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
 | 65 | [Hotel Key](https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:46 |

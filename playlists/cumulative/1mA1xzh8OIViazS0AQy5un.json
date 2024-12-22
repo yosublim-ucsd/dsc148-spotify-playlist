@@ -11981,6 +11981,24 @@
     },
     {
       "album": {
+        "name": "Reunion Tour",
+        "url": "https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr"
+      },
+      "artists": [
+        {
+          "name": "The Weakerthans",
+          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248586,
+      "name": "Virtute the Cat Explains Her Departure",
+      "url": "https://open.spotify.com/track/5bil0D8WSuxyGSDLA4LxZK"
+    },
+    {
+      "album": {
         "name": "Virus",
         "url": "https://open.spotify.com/album/473Aq8peh9dbAEWwD6rMsu"
       },

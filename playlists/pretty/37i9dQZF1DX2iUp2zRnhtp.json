@@ -1,6 +1,6 @@
 {
   "description": "De beste nye l\u00e5tene finner du her!",
-  "num_followers": 193232,
+  "num_followers": 193240,
   "original_name": "Hits Don't Lie",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "Told You So",
         "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 187031,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 229331,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
     },
     {
       "added_at": "2024-12-19 23:00:50",

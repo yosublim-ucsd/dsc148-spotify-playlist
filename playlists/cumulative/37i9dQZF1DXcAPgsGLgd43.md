@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-333 songs - 17 hr 46 min
+334 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ay Papi](https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe) | 3:25 | 2021-10-08 | 2023-11-11 |
 | [Ay Papi](https://open.spotify.com/track/6cc30Sq9sWfhlsIL8DC0jw) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES) | 3:25 | 2021-10-08 | 2023-02-26 |
 | [Azul](https://open.spotify.com/track/6v2nSzwwpoShFhE8r4siG6) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np) | [Azul](https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2) | 2:35 | 2024-04-26 |  |
-| [Bad Bongo](https://open.spotify.com/track/20va3aCizGTofhvgwm6cKN) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Bad Bongo EP](https://open.spotify.com/album/5M0NfNz9ywxmSNh7BCtCf4) | 2:45 | 2023-12-15 |  |
+| [Bad Bongo](https://open.spotify.com/track/20va3aCizGTofhvgwm6cKN) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Bad Bongo EP](https://open.spotify.com/album/5M0NfNz9ywxmSNh7BCtCf4) | 2:45 | 2023-12-15 | 2024-12-22 |
 | [Baila Le Digo](https://open.spotify.com/track/464um5m6FnOIXD9s7P64OH) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT) | [Baila Le Digo](https://open.spotify.com/album/4DmYftMx2At8OLlO7oxk0B) | 2:19 | 2024-01-26 |  |
 | [Baila Mi Gente](https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Baila Mi Gente](https://open.spotify.com/album/0WwClPZncNg0Oqb25jB2q4) | 2:40 | 2023-11-10 | 2024-02-17 |
 | [Bailando](https://open.spotify.com/track/1ntXDWAJHVCAQbVNSVShYI) | [Bante](https://open.spotify.com/artist/4AUecIjIQVp9N21mVvi2mj), [Space Fear](https://open.spotify.com/artist/6IXNeDq3vqabaZwqpnYIql) | [Bailando](https://open.spotify.com/album/2KLKBHAzU1KgxKQsB9S4FE) | 3:18 | 2024-05-03 | 2024-05-11 |
@@ -318,6 +318,7 @@
 | [Ulalala](https://open.spotify.com/track/4EMLCdqC0BXgpr42Op96a0) | [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Modurap](https://open.spotify.com/album/5OLIjX9kVgj00JxlvX5PkD) | 3:46 | 2023-12-01 | 2024-01-27 |
 | [Umoja](https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Umoja](https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK) | 3:08 | 2021-10-08 | 2023-11-11 |
 | [Una Copa Más](https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [LVGA](https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty) | [Una Copa Más](https://open.spotify.com/album/7f4mG1YXSEs32fO4X93ekk) | 2:49 | 2024-04-26 | 2024-09-17 |
+| [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 | 2024-12-20 |  |
 | [Vagabundos](https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Vagabundos](https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j) | 2:37 | 2021-10-08 | 2023-11-11 |
 | [Vai Caralho \(Do togo\)](https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Vai Caralho \(Do togo\)](https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN) | 3:08 | 2024-03-15 | 2024-07-13 |
 | [Vamo Que Vamo](https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Vamo Que Vamo](https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI) | 4:05 | 2024-02-23 |  |

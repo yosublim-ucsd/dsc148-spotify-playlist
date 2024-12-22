@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15229,
+  "num_followers": 15226,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAAB9gLSpAz63qV6o0zIDX3pz",
+  "snapshot_id": "Z2SzgAAAAADCJSeLElybJe288yyTK9Io",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano y Mujer",
-        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
+        "name": "Por Tu Amor",
+        "url": "https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP"
       },
       "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 222598,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv"
+      "duration_ms": 194118,
+      "name": "Por Tu Amor",
+      "url": "https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5"
     },
     {
       "added_at": null,
@@ -343,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Amor",
-        "url": "https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP"
+        "name": "Piano y Mujer",
+        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
       },
       "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 194118,
-      "name": "Por Tu Amor",
-      "url": "https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5"
+      "duration_ms": 222598,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv"
     },
     {
       "added_at": null,
@@ -498,11 +498,15 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 137676,
-      "name": "El Tiempo Corre al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
+      "duration_ms": 178225,
+      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
     },
     {
       "added_at": null,
@@ -598,15 +602,11 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 178225,
-      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
+      "duration_ms": 137676,
+      "name": "El Tiempo Corre al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
     },
     {
       "added_at": null,
@@ -659,6 +659,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muchacha Solitaria",
+        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 221423,
+      "name": "Muchacha Solitaria",
+      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Al\u00edviame",
+      "url": "https://open.spotify.com/track/3Gdpd6fMO2Zz0B8ymwMsKH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
         "url": "https://open.spotify.com/album/2blqwWdVjecjHqQ8OQsLQd"
       },
@@ -695,42 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+        "name": "Piano y Mujer",
+        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
       },
       "artists": [
         {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
         },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Al\u00edviame",
-      "url": "https://open.spotify.com/track/3Gdpd6fMO2Zz0B8ymwMsKH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muchacha Solitaria",
-        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
-      },
-      "artists": [
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
         }
       ],
-      "duration_ms": 221423,
-      "name": "Muchacha Solitaria",
-      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
+      "duration_ms": 198178,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/458rrfw1uCfILgIJsNPJpX"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
       "duration_ms": 160038,
       "name": "Nadie Como Yo (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano y Mujer",
-        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 198178,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/458rrfw1uCfILgIJsNPJpX"
     },
     {
       "added_at": null,

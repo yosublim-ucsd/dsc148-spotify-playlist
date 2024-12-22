@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,557,539 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,557,358 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 |
-| 2 | [HURT \- feat\. The Warning](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
+| 2 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 |
 | 3 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
 | 4 | [YOUtopia](https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:02 |
 | 5 | [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 |

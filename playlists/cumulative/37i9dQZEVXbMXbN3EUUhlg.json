@@ -1296,13 +1296,21 @@
         {
           "name": "Ghard",
           "url": "https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
         }
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173859,
-      "name": "Adora a bunda, odeia o rosto",
+      "name": "Adora a bunda, odeia o rosto (feat. Veigh & Niink)",
       "url": "https://open.spotify.com/track/5Bp7TFENcgsdLCL8fMOSKs"
     },
     {
@@ -2312,7 +2320,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -15955,6 +15963,28 @@
     },
     {
       "album": {
+        "name": "Mentirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0DoTXscOExkz2eBFSyF1eQ"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165566,
+      "name": "Mentirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7pBPXkaVQaP3Y3Wwfkpvbn"
+    },
+    {
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -17258,7 +17288,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-22",
       "duration_ms": 162190,
       "name": "Mulher Foda - Ao Vivo",
       "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
@@ -29117,24 +29147,6 @@
     },
     {
       "album": {
-        "name": "Obrigado Deus",
-        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "date_added": "2024-12-19",
-      "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
-      "duration_ms": 154553,
-      "name": "\u00daltima Noite",
-      "url": "https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub"
-    },
-    {
-      "album": {
         "name": "Estilo Nattanzinho (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO"
       },
@@ -29176,6 +29188,24 @@
       "duration_ms": 148516,
       "name": "\u00daltima Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/7EHlDvAa7gncwcAlfclZiX"
+    },
+    {
+      "album": {
+        "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154553,
+      "name": "\u00daltima Noite - Solo",
+      "url": "https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub"
     },
     {
       "album": {

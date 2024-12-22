@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 
 > Indian Indie songs we loved the most in 2024\. Cover \- Akshath \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,770 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,815 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 | 45 | [Aaj Na](https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 3:13 |
 | 46 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 |
 | 47 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
-| 48 | [Sorry](https://open.spotify.com/track/0wj0UQuHJ8K3hxoTsAavnk) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV) | [Sorry](https://open.spotify.com/album/56gT7wKR7wzbq7w3l5gU7F) | 3:17 |
+| 48 | [Sorry](https://open.spotify.com/track/0wj0UQuHJ8K3hxoTsAavnk) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Vasudev Gandharv](https://open.spotify.com/artist/5EJJwjrNBar5Kon6mKu9Ke) | [Sorry](https://open.spotify.com/album/56gT7wKR7wzbq7w3l5gU7F) | 3:17 |
 | 49 | [Zakir](https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Hindi Gaane](https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI) | 3:41 |
 | 50 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 |
 

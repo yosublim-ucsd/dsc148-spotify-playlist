@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 66230,
+  "num_followers": 66244,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAACFriVOsbHLIQbL52Rde2Ng",
+  "snapshot_id": "Z2SzgAAAAADLeDCH61rwq3+qbPtLGPj1",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez, Vol. Ii",
-        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 190973,
-      "name": "Plaisir D' Amour",
-      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
+      "duration_ms": 233266,
+      "name": "Love Song To A Stranger",
+      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "Joan Baez, Vol. Ii",
+        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Love Song To A Stranger",
-      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
+      "duration_ms": 190973,
+      "name": "Plaisir D' Amour",
+      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extras",
-        "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 209853,
-      "name": "Hello In There (with Joan Baez) - Live",
-      "url": "https://open.spotify.com/track/7HxC5nnl4qbP0Ql3LCY26K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baez Sings Dylan",
         "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
       },
@@ -755,6 +735,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extras",
+        "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 209853,
+      "name": "Hello In There (with Joan Baez) - Live",
+      "url": "https://open.spotify.com/track/7HxC5nnl4qbP0Ql3LCY26K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
+        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964",
+      "url": "https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Complete A&M Recordings",
         "url": "https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 223733,
       "name": "East Virginia",
       "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
-        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964",
-      "url": "https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b"
     },
     {
       "added_at": null,

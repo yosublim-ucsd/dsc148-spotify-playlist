@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 118479,
+  "num_followers": 118528,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Hasta La Luna - EN VIVO LUNA PARK",
-        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
       },
       "artists": [
         {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
         }
       ],
-      "duration_ms": 275845,
-      "name": "Adonde Est\u00e1n",
-      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
+      "duration_ms": 228144,
+      "name": "Toro y Pampa - En Vivo",
+      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+        "name": "Hasta La Luna - EN VIVO LUNA PARK",
+        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
       },
       "artists": [
         {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
         }
       ],
-      "duration_ms": 228144,
-      "name": "Toro y Pampa - En Vivo",
-      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
+      "duration_ms": 275845,
+      "name": "Adonde Est\u00e1n",
+      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Pepsi Music 2005",
+        "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "El Viejo (En Vivo)",
+      "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Instante Eterno (ac\u00fastico en Vivo)",
         "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 227050,
       "name": "A D\u00f3nde Vas - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Pepsi Music 2005",
-        "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "El Viejo (En Vivo)",
-      "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Luna en Obras (En Vivo)",
+        "url": "https://open.spotify.com/album/66DKPufdxOw4bYcshbAjl4"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        }
+      ],
+      "duration_ms": 163014,
+      "name": "O No? - En Vivo",
+      "url": "https://open.spotify.com/track/5sncjhKWpdlgwQDJtWTvDA"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Ahora Vengo (Vivo Luna Park)",
         "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
       },
@@ -1399,22 +1419,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Vivo Luna Park, Pt. 1",
-        "url": "https://open.spotify.com/album/7sBEcYE2DKxzOXen11IgL4"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Desaparecer - Vivo en Luna Park",
-      "url": "https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Vivo Paranoico",
         "url": "https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07"
       },
@@ -1443,6 +1447,22 @@
       "duration_ms": 200985,
       "name": "Fr\u00e1gil - En Vivo",
       "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Vivo Luna Park, Pt. 1",
+        "url": "https://open.spotify.com/album/7sBEcYE2DKxzOXen11IgL4"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Desaparecer - Vivo en Luna Park",
+      "url": "https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1655,22 +1675,6 @@
       "duration_ms": 251296,
       "name": "M\u00fasica Del Alma - En Vivo",
       "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "XV A\u00f1os - En Vivo Estadio Obras",
-        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 377832,
-      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
     },
     {
       "added_at": "2024-12-20 03:00:01",

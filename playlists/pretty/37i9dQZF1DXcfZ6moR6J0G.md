@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > John Otto, take 'em to the Matthews Bridge!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962,651 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,963,025 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 23 | [7 Words](https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:43 |
 | 24 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 |
 | 25 | [Between Angels And Insects](https://open.spotify.com/track/24z528iI9kZu5LbkLainjI) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:54 |
-| 26 | [Bawitdaba](https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:25 |
-| 27 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
+| 26 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
+| 27 | [Bawitdaba](https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:25 |
 | 28 | [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 |
 | 29 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 |
 | 30 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |

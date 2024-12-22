@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 
 > This is Benson Boone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,526 likes - 22 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,725 likes - 22 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 | 3 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 |
 | 4 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 |
 | 5 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 |
-| 6 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 |
-| 7 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
+| 6 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
+| 7 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 |
 | 8 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 |
 | 9 | [In The Stars](https://open.spotify.com/track/315aBOUD3xtj7sUMXtRgMV) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:36 |
 | 10 | [ROOM FOR 2](https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [ROOM FOR 2](https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz) | 2:31 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 | 21 | [Be Someone](https://open.spotify.com/track/1j2iMeSWdsEP5ITCrZqbIL) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:44 |
 | 22 | [Lovely Darling](https://open.spotify.com/track/7JQfzB0Idz7zXvTRnvqggu) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 2:52 |
 
-Snapshot ID: `Z2NiAAAAAABJZWgsu8B/RgBlaTOOaDU5`
+Snapshot ID: `Z2SzgAAAAADG+dL+WVA9odpeCwOBiuPa`

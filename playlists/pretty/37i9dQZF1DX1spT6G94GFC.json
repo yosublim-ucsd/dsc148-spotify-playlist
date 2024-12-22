@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 3970038,
+  "num_followers": 3970211,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 310333,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Bon Jovi",
         "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 230666,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K"
       },
       "artists": [
         {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
         }
       ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+      "duration_ms": 252693,
+      "name": "Rainbow In The Dark",
+      "url": "https://open.spotify.com/track/5qFxuUIAwJlzO60vqOiL7y"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Rainbow In The Dark",
-      "url": "https://open.spotify.com/track/5qFxuUIAwJlzO60vqOiL7y"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Brothers in Arms",
         "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 506400,
       "name": "Money for Nothing",
       "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
       "added_at": "2024-09-13 16:58:23",

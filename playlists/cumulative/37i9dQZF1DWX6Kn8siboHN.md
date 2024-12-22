@@ -4,7 +4,7 @@
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
-253 songs - 13 hr 10 min
+254 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Morir De Amor](https://open.spotify.com/track/3opWtXcWfM3YFzrm0ffSII) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Morir De Amor](https://open.spotify.com/album/3AhuZYSOIefITqG353D25H) | 3:02 | 2023-12-20 |  |
 | [Mujer Paseada](https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [2 Grandes Mano a Mano](https://open.spotify.com/album/6JyOJ5Vc9qCxVRDIOyftm5) | 2:48 | 2023-08-08 | 2024-12-10 |
 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 | 2022-03-17 |  |
-| [Nada De Ti](https://open.spotify.com/track/5TGWclsMaYPKXsbMlfm4jm) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ventanas Al Viento](https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE) | 2:47 | 2024-12-03 |  |
+| [Nada De Ti](https://open.spotify.com/track/5TGWclsMaYPKXsbMlfm4jm) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ventanas Al Viento](https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE) | 2:47 | 2024-12-03 | 2024-12-22 |
 | [Nadie Es Eterno](https://open.spotify.com/track/36FbSb3gmnWEXR9QjnsraQ) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Época Dorada \- 12 Éxitos Originales](https://open.spotify.com/album/5fkepTkkpKCjcGM5QCWVRM) | 3:14 | 2022-03-17 | 2022-11-13 |
 | [Nadie Es Eterno](https://open.spotify.com/track/6pUQom3MxQafk9yTQGtIK1) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lagrimas](https://open.spotify.com/album/0nAiRRJ4rBKWBHoXb9tpDF) | 3:16 | 2022-03-17 | 2022-07-29 |
 | [Nadie Es Eterno](https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p) | 3:16 | 2022-03-17 | 2023-11-10 |
@@ -156,6 +156,7 @@
 | [Necesito Decirte](https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Las Número 1...](https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl) | 3:45 | 2023-12-20 |  |
 | [Necesito Decírtelo](https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:29 | 2022-03-17 |  |
 | [Ni Que Valieras Tanto](https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [A Ellas](https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u) | 3:32 | 2022-03-17 |  |
+| [Ni Recompensa Ni Esperanza](https://open.spotify.com/track/2UdVh89WSqLe9sDWQeAWB6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Rinconcito En El Cielo](https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr) | 2:42 | 2024-12-03 |  |
 | [Nieves De Enero](https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:33 | 2022-03-17 |  |
 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 | 2022-03-17 | 2024-04-19 |
 | [No Hay Novedad](https://open.spotify.com/track/0DMgHHCKdn8bDadZiudTK9) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Boleros Para Dos](https://open.spotify.com/album/2HtqY9Fu6O0r4LKRmUzUSb) | 3:03 | 2022-03-17 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-559 songs - 1 day 3 hr 20 min
+560 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Catch\-22](https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0), [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3) | [Catch\-22](https://open.spotify.com/album/0ESSUNRDWfFE7oaqpjTaUV) | 3:01 | 2022-10-13 | 2023-03-18 |
 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 | 2024-02-02 | 2024-10-05 |
 | [Chameleon](https://open.spotify.com/track/1GyQqn8Oc9h9TaBO7GaNj6) | [UCHE](https://open.spotify.com/artist/2btRDq0MHpAfXJREWx4Xzs), [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Chameleon](https://open.spotify.com/album/0E5ET00DfPmrnOLzGLBlj9) | 3:00 | 2024-03-08 | 2024-04-26 |
+| [Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:55 | 2024-12-21 |  |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2023-12-02 |
 | [Chasing Wind](https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Chasing Wind](https://open.spotify.com/album/1jqwJofD3wFz2drsplzRwY) | 3:38 | 2023-06-22 | 2023-07-14 |
 | [Cheers To Life](https://open.spotify.com/track/35APZC4TisJJihjSDtgn3C) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:22 | 2023-09-09 | 2023-10-18 |
@@ -309,7 +310,7 @@
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2023-12-08 | 2024-09-28 |
 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 | 2024-08-29 |  |
 | [mo de ma \[by any minz\]](https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [mo de ma \[by any minz\]](https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk) | 2:57 | 2024-09-20 |  |
-| [Mo Hennessy](https://open.spotify.com/track/4m7czgj3SUHP4FoJjpGvrT) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Roku145](https://open.spotify.com/artist/0m8xwMKLIZw48m9Z6kt1iB) | [HEAVEN ON EARTH](https://open.spotify.com/album/0QCeTsr9yO7THO1Zt1nOB4) | 2:07 | 2024-10-12 |  |
+| [Mo Hennessy](https://open.spotify.com/track/4m7czgj3SUHP4FoJjpGvrT) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Roku145](https://open.spotify.com/artist/0m8xwMKLIZw48m9Z6kt1iB) | [HEAVEN ON EARTH](https://open.spotify.com/album/0QCeTsr9yO7THO1Zt1nOB4) | 2:07 | 2024-10-12 | 2024-12-22 |
 | [Mohobbat \- Love](https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Mohobbat \(Love\)](https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN) | 3:28 | 2024-11-22 |  |
 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 | 2022-08-05 | 2023-03-04 |
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-08-25 |  |

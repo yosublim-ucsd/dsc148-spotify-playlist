@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > The home of Australian music\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,559 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,591 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,18 +51,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 41 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 |
 | 42 | [Don't Know](https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Don't Know](https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26) | 2:12 |
 | 43 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
-| 44 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
-| 45 | [Young Free & Reckless](https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Young Free & Reckless](https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38) | 3:12 |
-| 46 | [Chemicals](https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [MESO](https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a) | 3:11 |
+| 44 | [Chemicals](https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [MESO](https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a) | 3:11 |
+| 45 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
+| 46 | [Young Free & Reckless](https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Young Free & Reckless](https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38) | 3:12 |
 | 47 | [Parched](https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Parched](https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN) | 3:55 |
 | 48 | [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \(Spotify Singles\)](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 |
 | 49 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 |
 | 50 | [24/7](https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [24/7](https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3) | 2:30 |
 | 51 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 |
 | 52 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 |
-| 53 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 |
+| 53 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
 | 54 | [A Telephone Rings](https://open.spotify.com/track/4YOHjkwl6Jn6sZSx7eeIn4) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [The Accident](https://open.spotify.com/album/0c0q3cA2sEB4EsNa2m55rw) | 2:46 |
-| 55 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
+| 55 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 |
 | 56 | [Good Girl](https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk) | [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Good Girl](https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd) | 3:52 |
 | 57 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
 | 58 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 70 | [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 |
 | 71 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 |
 | 72 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 |
-| 73 | [Enough Of The Sweet Talk](https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Enough Of The Sweet Talk](https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B) | 4:00 |
+| 73 | [Horses](https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Horses](https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH) | 3:32 |
 | 74 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 |
-| 75 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 |
+| 75 | [Enough Of The Sweet Talk](https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Enough Of The Sweet Talk](https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B) | 4:00 |
 
 Snapshot ID: `Z1reVAAAAACo7e+9L0+fddJHkym2An1b`

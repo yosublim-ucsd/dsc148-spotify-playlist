@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Delilah en portada.",
-  "num_followers": 74441,
+  "num_followers": 74448,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "Estar contigo (feat. La Oreja de Van Gogh)",
         "url": "https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 237662,
       "name": "Estar contigo (feat. La Oreja de Van Gogh)",
       "url": "https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
         "name": "Me Caga Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/4EsC2tboO66epqFTb6BIoZ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 153410,
       "name": "Me Caga Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/1w0ikKJMJL0lVLQbcWYOAu"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
-        "name": "Se Cancela La Llorada",
-        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Se Cancela La Llorada",
-      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "UNDESASTRE",
-        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 222354,
-      "name": "DESASTRE",
-      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "LA FALTA QUE ME HACES",
         "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 180250,
       "name": "LA FALTA QUE ME HACES",
       "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "UNDESASTRE",
+        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 222354,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Qu\u00e9 Suerte",
-        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Qu\u00e9 Suerte",
-      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "Canci\u00f3n de Cuna Para mi Amor",
         "url": "https://open.spotify.com/album/1IRb97dQDYVbfSzJ8e5InQ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 138000,
       "name": "Canci\u00f3n de Cuna Para mi Amor",
       "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "Qu\u00e9 Suerte",
+        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Polvo De Gigantes",
-        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Polvo De Gigantes",
-      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "c\u00f3mo acaba",
         "url": "https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 196071,
       "name": "Solo Los Amantes Sobreviven",
       "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        }
+      ],
+      "duration_ms": 174651,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g"
     }
   ],
   "unique_name": "Cantamores",

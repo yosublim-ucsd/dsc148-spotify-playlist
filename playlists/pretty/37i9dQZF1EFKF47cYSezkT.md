@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 5 | [Miracle](https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:43 |
 | 6 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 |
 | 7 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 |
-| 8 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 |
-| 9 | [1 Wish](https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [1 Wish](https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt) | 2:47 |
+| 8 | [1 Wish](https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [1 Wish](https://open.spotify.com/album/7KlrorqixG3qKh4nHmfoJt) | 2:47 |
+| 9 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 |
 | 10 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
 | 11 | [Golden](https://open.spotify.com/track/79q5dkBOLtbcMvaItRLUp7) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Golden](https://open.spotify.com/album/3wOSF1SdKLfYo0u5VB89UM) | 3:22 |
 | 12 | [Go The Distance](https://open.spotify.com/track/5vFn0vKhnaDLk1gmj7ZA0i) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:47 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 55 | [Dandelion](https://open.spotify.com/track/6YxZS8ihXa33a757v0cTZ7) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/7qr7ZwsgWStbaTrYlHIwYy) | 3:06 |
 | 56 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `AbkragAAAABct/zM3UjRwk1PqBdL5UhE`
+Snapshot ID: `Abkw9gAAAABkpmMD0wBdUW46JphOfEMP`

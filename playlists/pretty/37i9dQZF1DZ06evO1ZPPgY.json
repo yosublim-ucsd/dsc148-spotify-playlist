@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 222301,
+  "num_followers": 222328,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAABR8QmMkEcTbJI1yw4gU8cW",
+  "snapshot_id": "Z2SzgAAAAAD3T3x1t1ikb0HDAv7qdczo",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Don't Make Me Wait Too Long",
-      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 237426,
       "name": "It's Only Love Doing Its Thing",
       "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Don't Make Me Wait Too Long",
+      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
     },
     {
       "added_at": null,
@@ -399,6 +399,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Love Makin' Music",
+      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Just Not Enough",
+      "url": "https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -427,38 +459,6 @@
       "duration_ms": 450600,
       "name": "Slow Jams",
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Just Not Enough",
-      "url": "https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Love Makin' Music",
-      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 157949,
+  "num_followers": 157983,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2NiAAAAAADglvpDQ6VYH0Iyc3CT1K4L",
+  "snapshot_id": "Z2SzgAAAAABXQ21juJZdiNWycc3fiD5z",
   "tracks": [
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 348160,
-      "name": "May I Have a Talk with You",
-      "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
+      "duration_ms": 236173,
+      "name": "Chitlins Con Carne",
+      "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 236173,
-      "name": "Chitlins Con Carne",
-      "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
+      "duration_ms": 348160,
+      "name": "May I Have a Talk with You",
+      "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
     },
     {
       "added_at": null,

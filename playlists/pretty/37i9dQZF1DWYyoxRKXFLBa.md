@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > pura morra rifada\. RPLK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,593 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,596 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 14 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
 | 15 | [Te Recuerdo](https://open.spotify.com/track/0m3vz8XYMyDvWz00o6X80n) | [Ola Magenta](https://open.spotify.com/artist/19m31uyfQ0ewdhrMqpuRxo) | [Estamos Perdidas](https://open.spotify.com/album/7yqfisVo6s0jbTgCbPG9pO) | 2:35 |
 | 16 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
-| 17 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
-| 18 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
+| 17 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
+| 18 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
 | 19 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 |
 | 20 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 21 | [yes, and?](https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:34 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 59 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 |
 | 60 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 |
 | 61 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
-| 62 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
+| 62 | [TRASCENDER](https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 4:15 |
 | 63 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
 | 64 | [El Cuerpo Que Habito](https://open.spotify.com/track/40CUrSilracUtZTKc7V2mN) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:17 |
 | 65 | [no estamos bien](https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 2:03 |
-| 66 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 |
-| 67 | [Astros Prohibidos](https://open.spotify.com/track/6RjsCyrZ1HH5T9I2Tn5NBt) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr), [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Astros Prohibidos](https://open.spotify.com/album/0vldS5AY8rsDiSIbf7eMaD) | 3:14 |
+| 66 | [Astros Prohibidos](https://open.spotify.com/track/6RjsCyrZ1HH5T9I2Tn5NBt) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr), [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Astros Prohibidos](https://open.spotify.com/album/0vldS5AY8rsDiSIbf7eMaD) | 3:14 |
+| 67 | [tu liga del pelo](https://open.spotify.com/track/3tX4hFG4uCVgGVUWdZzK5z) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [tu liga del pelo](https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD) | 3:36 |
 | 68 | [Fuega](https://open.spotify.com/track/4xspJCCiPHDCu5lgJOXJjR) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [Hieva](https://open.spotify.com/artist/3vLNmRETMGAOugcWZ8AhFI) | [Cancionero del Nuevo Milenio](https://open.spotify.com/album/1soI4NhDklGb6M7hv31bLA) | 2:52 |
-| 69 | [tu liga del pelo](https://open.spotify.com/track/3tX4hFG4uCVgGVUWdZzK5z) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [tu liga del pelo](https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD) | 3:36 |
+| 69 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 |
 | 70 | [Bancarrota \- Soundtrack Cindy La Regia: La Serie](https://open.spotify.com/track/4vJd3ap2VmfTZBYUaIAqje) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bancarrota \(Soundtrack Cindy La Regia: La Serie\)](https://open.spotify.com/album/60yp0ERmEOJORfGHva6llS) | 2:25 |
 | 71 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
 | 72 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |

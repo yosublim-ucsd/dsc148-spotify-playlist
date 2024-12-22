@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 788505,
+  "num_followers": 788595,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "A New Beginning",
+        "url": "https://open.spotify.com/album/2B6JE5slhWMLNe7yPmBxYY"
+      },
+      "artists": [
+        {
+          "name": "Majestica",
+          "url": "https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki"
+        }
+      ],
+      "duration_ms": 252157,
+      "name": "A New Beginning",
+      "url": "https://open.spotify.com/track/7C9nqo62jehSZ1AVLxU4Jn"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Vultures Die Alone",
         "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 252893,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "A New Beginning",
-        "url": "https://open.spotify.com/album/2B6JE5slhWMLNe7yPmBxYY"
-      },
-      "artists": [
-        {
-          "name": "Majestica",
-          "url": "https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki"
-        }
-      ],
-      "duration_ms": 252157,
-      "name": "A New Beginning",
-      "url": "https://open.spotify.com/track/7C9nqo62jehSZ1AVLxU4Jn"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Dance with the Devil",
-        "url": "https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        }
-      ],
-      "duration_ms": 234775,
-      "name": "Dance with the Devil",
-      "url": "https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Glory for Salvation",
         "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 205826,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Dance with the Devil",
+        "url": "https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 234775,
+      "name": "Dance with the Devil",
+      "url": "https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
-      },
-      "artists": [
-        {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Steel And Gold",
-        "url": "https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv"
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
       },
       "artists": [
         {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
         }
       ],
-      "duration_ms": 247978,
-      "name": "Steel And Gold",
-      "url": "https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o"
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
+        "name": "Steel And Gold",
+        "url": "https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv"
       },
       "artists": [
         {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
         }
       ],
-      "duration_ms": 238800,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
+      "duration_ms": 247978,
+      "name": "Steel And Gold",
+      "url": "https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1475,6 +1459,22 @@
       "duration_ms": 378549,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Bloodclock",
+        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Bloodclock",
+      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "New Horizons",
         "url": "https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Bloodclock",
-        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
-      },
-      "artists": [
-        {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Bloodclock",
-      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6gPSlQpAAdbC727yQ3fov4"
       },
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Towards The Dying Lands",
+        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
+      },
+      "artists": [
+        {
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "The Unforgiven II",
         "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Towards The Dying Lands",
-        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
+        "name": "After Forever (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
       },
       "artists": [
         {
-          "name": "Horizon Ignited",
-          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
+          "name": "After Forever",
+          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
+      "duration_ms": 206400,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1699,22 +1715,6 @@
       "duration_ms": 248026,
       "name": "Here We Stand",
       "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "After Forever (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
-      },
-      "artists": [
-        {
-          "name": "After Forever",
-          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
     }
   ],
   "unique_name": "Epic & Melodic",

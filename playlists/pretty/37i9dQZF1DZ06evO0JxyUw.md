@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,965 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,987 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 25 | [Bound To You \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 4:23 |
 | 26 | [Somos Novios](https://open.spotify.com/track/0U4mdFPED6oviFgWjst8q9) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Amor \(Edición Especial En Español\)](https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA) | 4:22 |
 | 27 | [Pa Mis Muchachas \(feat\. NATHY PELUSO\)](https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Pa Mis Muchachas \(feat\. NATHY PELUSO\)](https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW) | 3:36 |
-| 28 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 |
+| 28 | [The Voice Within](https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 5:04 |
 | 29 | [Express \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/3e809RytbPZxM8BjbrjlqF) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 4:20 |
-| 30 | [The Voice Within](https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 5:04 |
+| 30 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 |
 | 31 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
 | 32 | [Nobody Wants to Be Lonely \(with Christina Aguilera\)](https://open.spotify.com/track/45cVyfWuMAg8RNxmkcpmy9) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [17](https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE) | 4:12 |
 | 33 | [Tough Lover \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:00 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 47 | [Infatuation](https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:17 |
 | 48 | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy) | 4:08 |
 | 49 | [Save Me from Myself](https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:13 |
-| 50 | [Fall On Me](https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Particles](https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB) | 4:22 |
+| 50 | [Tell Me \(feat\. Christina Aguilera\)](https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Press Play](https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h) | 4:06 |
 
-Snapshot ID: `Z2NiAAAAAADwJkzv8NVHqNpVVvx/Mjum`
+Snapshot ID: `Z2SzgAAAAACV3GLrvYgaK4W8iayQ+m6n`

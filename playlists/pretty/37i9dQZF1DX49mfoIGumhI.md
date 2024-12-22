@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,788 likes - 75 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,959 likes - 75 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 11 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 |
 | 12 | [Gitana](https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 6:54 |
 | 13 | [No Podras Escapar De Mi](https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:31 |
-| 14 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
-| 15 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
+| 14 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
+| 15 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
 | 16 | [Por Retenerte](https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:47 |
 | 17 | [Lobo Domesticado](https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:50 |
 | 18 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |

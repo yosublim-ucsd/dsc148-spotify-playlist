@@ -4,13 +4,14 @@
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 27 min
+90 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A pesar](https://open.spotify.com/track/6NOXVnNgo1e90gncQ1T4RC) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Luna Park](https://open.spotify.com/album/6YnNbmDNBe4H47DUKka4Hp) | 3:23 | 2022-05-25 | 2023-01-27 |
 | [A Pesar](https://open.spotify.com/track/4Mhl9Xa2PL0OKHuF7jLQrj) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 3:43 | 2024-01-22 |  |
-| [Acho Puñeta \- Reggae Remix](https://open.spotify.com/track/3wTF8x41fGiusgpQGBEBVW) | [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acho Puñeta \(feat\. Los Cafres\) \(Reggae Remix\)](https://open.spotify.com/album/7bstRDc2A1L8ugU4OpxtrT) | 4:52 | 2022-06-02 |  |
+| [Acho Puñeta \(feat\. Los Cafres\) \- Reggae Remix](https://open.spotify.com/track/0KJTkSrpMYnMHLmKj8JMIu) | [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acho Puñeta \(feat\. Los Cafres\) \[Reggae Remix\]](https://open.spotify.com/album/3RNjEoqfIvrq4K5RY3bz0t) | 4:52 | 2024-12-22 |  |
+| [Acho Puñeta \- Reggae Remix](https://open.spotify.com/track/3wTF8x41fGiusgpQGBEBVW) | [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acho Puñeta \(feat\. Los Cafres\) \(Reggae Remix\)](https://open.spotify.com/album/7bstRDc2A1L8ugU4OpxtrT) | 4:52 | 2022-06-02 | 2024-12-22 |
 | [Acto Salvaje](https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acto Salvaje](https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ) | 4:08 | 2023-01-31 |  |
 | [Aire](https://open.spotify.com/track/2hkJ7fYPM5V27pjxiPG2gg) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 4:17 | 2022-05-25 |  |
 | [Al Menos Hoy](https://open.spotify.com/track/6PknRxiThPZZxfuyP3Upvy) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:35 | 2022-05-25 | 2024-01-20 |

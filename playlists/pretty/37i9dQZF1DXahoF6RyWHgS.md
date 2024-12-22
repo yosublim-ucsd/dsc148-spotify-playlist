@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,045 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,054 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 38 | [Café Con Pan](https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 4:25 |
 | 39 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 |
 | 40 | [Michoacan](https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Court the Storm](https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr) | 2:56 |
-| 41 | [A Su Merced](https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ) | [Liliana Felipe](https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV) | [Elotitos Tiernos](https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt) | 6:32 |
-| 42 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 |
+| 41 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 |
+| 42 | [A Su Merced](https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ) | [Liliana Felipe](https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV) | [Elotitos Tiernos](https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt) | 6:32 |
 | 43 | [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 |
 | 44 | [Luna Negra \- Live](https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Live At The First Annual San Francisco Son Jarocho Festival](https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN) | 9:05 |
 | 45 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 |

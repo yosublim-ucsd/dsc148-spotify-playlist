@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Kevin Aguilar",
-  "num_followers": 206897,
+  "num_followers": 206909,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "A Mi Me Respetas",
+        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 150148,
+      "name": "A Mi Me Respetas",
+      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -1179,38 +1199,6 @@
       "duration_ms": 186640,
       "name": "Renunciaci\u00f3n",
       "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "H\u00e1gale",
-        "url": "https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Navarrete",
-          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "H\u00e1gale",
-      "url": "https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1235,6 +1223,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "H\u00e1gale",
+        "url": "https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Navarrete",
+          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "H\u00e1gale",
+      "url": "https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Si Ya Me Enamor\u00e9",
         "url": "https://open.spotify.com/album/2Owva7mSM0Si15iD6rhRDM"
       },
@@ -1251,42 +1255,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Antes De Que Te Vayas",
-        "url": "https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 271967,
-      "name": "Antes De Que Te Vayas",
-      "url": "https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "A Mi Me Respetas",
-        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 150148,
-      "name": "A Mi Me Respetas",
-      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Fue Tan Poco Tu Cari\u00f1o",
         "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
       },
@@ -1299,6 +1267,38 @@
       "duration_ms": 195466,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Antes De Que Te Vayas",
+        "url": "https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 271967,
+      "name": "Antes De Que Te Vayas",
+      "url": "https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/1RpZC47xvZZEUYuEeQzsGF"
-      },
-      "artists": [
-        {
-          "name": "Edgar Alejandro",
-          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
-        }
-      ],
-      "duration_ms": 295000,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/3RTHRT7s4NsxVoM4PbNGmL"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "El Pobre",
         "url": "https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 185406,
       "name": "El Pobre",
       "url": "https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/1RpZC47xvZZEUYuEeQzsGF"
+      },
+      "artists": [
+        {
+          "name": "Edgar Alejandro",
+          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3RTHRT7s4NsxVoM4PbNGmL"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+        "name": "ANTOLOG\u00cdA 20 A\u00d1OS",
+        "url": "https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 140662,
-      "name": "Pinocho",
-      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
+      "duration_ms": 248106,
+      "name": "Llevarte al Cielo",
+      "url": "https://open.spotify.com/track/7uroGjm5aXah7MKmyquq7U"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 140662,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Me Vale Madre",
         "url": "https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 140160,
       "name": "Me Vale Madre",
       "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "ANTOLOG\u00cdA 20 A\u00d1OS",
-        "url": "https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 248106,
-      "name": "Llevarte al Cielo",
-      "url": "https://open.spotify.com/track/7uroGjm5aXah7MKmyquq7U"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Dime Qu\u00e9 Se Siente",
         "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
       },
@@ -1719,22 +1703,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "S\u00f3lo Muere Si Se Olvida",
-        "url": "https://open.spotify.com/album/06eE8AIljE3ADQbE3KSZ50"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 173613,
-      "name": "S\u00f3lo Muere Si Se Olvida",
-      "url": "https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd"
+      "duration_ms": 186628,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1751,6 +1731,26 @@
       "duration_ms": 215999,
       "name": "Tres Veces Te Enga\u00f1e",
       "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "S\u00f3lo Muere Si Se Olvida",
+        "url": "https://open.spotify.com/album/06eE8AIljE3ADQbE3KSZ50"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 173613,
+      "name": "S\u00f3lo Muere Si Se Olvida",
+      "url": "https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd"
     }
   ],
   "unique_name": "Mariachi 2024",

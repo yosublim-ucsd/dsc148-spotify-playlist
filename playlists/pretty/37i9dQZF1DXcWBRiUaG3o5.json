@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1237031,
+  "num_followers": 1236985,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "Paupers Field",
+        "url": "https://open.spotify.com/album/6dXyHp7v65Wn7b2QKitcV2"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "If The Creek Don\u2019t Rise",
+      "url": "https://open.spotify.com/track/1nJubUVBBLj2bU9KnpvwvM"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "All Is Well",
         "url": "https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 236849,
       "name": "God I Hope This Year Is Better Than The Last",
       "url": "https://open.spotify.com/track/0xRO7EKgYKVB8zKIoiXMDD"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h"
     }
   ],
   "unique_name": "Evening Acoustic",

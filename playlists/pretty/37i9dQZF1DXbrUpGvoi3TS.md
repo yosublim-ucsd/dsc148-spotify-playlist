@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,610,702 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,610,938 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 22 | [Look After You](https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:26 |
 | 23 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 24 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 |
-| 25 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |
+| 25 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
 | 26 | [Impossible](https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 3:29 |
-| 27 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
+| 27 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |
 | 28 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
 | 29 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 30 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 91 | [Heart Like Yours](https://open.spotify.com/track/3JOF9NzQVkUXtCcJbEQuAb) | [Willamette Stone](https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS) | [If I Stay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cpfXsbsHVNweQ4USbO6wu) | 3:19 |
 | 92 | [Are you happy?](https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Sad Songs](https://open.spotify.com/album/71sb3x5BwKk87d7ZBOoSJY) | 2:37 |
 | 93 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
-| 94 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 |
-| 95 | [Broken\-Hearted Girl](https://open.spotify.com/track/31acMiV67UgKn1ScFChFxo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:37 |
+| 94 | [Broken\-Hearted Girl](https://open.spotify.com/track/31acMiV67UgKn1ScFChFxo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:37 |
+| 95 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 |
 | 96 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
 | 97 | [Samson](https://open.spotify.com/track/2JAUBPBVkimRLc5BGhAkfJ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:09 |
 | 98 | [Crazy in Love](https://open.spotify.com/track/5iJS04ZXjMkQZ5nS0PsIeY) | [Eden Project](https://open.spotify.com/artist/26plsJBmW5se3wurhwzaEK) | [Crazy in Love](https://open.spotify.com/album/0W1rDqIMNC2lg5Rtq7kn2H) | 4:25 |

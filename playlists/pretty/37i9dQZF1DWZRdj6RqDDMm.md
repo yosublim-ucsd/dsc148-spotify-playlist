@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=\_DP1pOcnRWygI85Vp4Ct0w> Marizu,  <a href=https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=wFE5h9yTS\-\-vUzB3NTyz8g>Reblah, <a href=https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3?si=5XSIjLnDS5\-y8SW79b45tw>IMRHAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,715 likes - 101 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,739 likes - 101 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

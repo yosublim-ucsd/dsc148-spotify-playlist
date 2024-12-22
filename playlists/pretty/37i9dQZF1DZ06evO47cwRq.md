@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,809,758 likes - 47 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,810,418 likes - 47 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 5 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 |
 | 6 | [Faint](https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:42 |
 | 7 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
-| 8 | [Cut the Bridge](https://open.spotify.com/track/5mFZipkX1HZ4Idz5LOWpzq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:48 |
+| 8 | [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 |
 | 9 | [Bleed It Out](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 2:44 |
 | 10 | [Somewhere I Belong](https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:33 |
 | 11 | [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 |
-| 12 | [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 |
+| 12 | [Cut the Bridge](https://open.spotify.com/track/5mFZipkX1HZ4Idz5LOWpzq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:48 |
 | 13 | [Given Up](https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:09 |
 | 14 | [BURN IT DOWN](https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [LIVING THINGS](https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI) | 3:50 |
 | 15 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 46 | [Until It's Gone](https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:53 |
 | 47 | [Talking to Myself](https://open.spotify.com/track/7nAfXgeHfDO50upcOjJOaq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:51 |
 
-Snapshot ID: `Z2NiAAAAAADp3KigmulNIfXx8nEYpgto`
+Snapshot ID: `Z2SzgAAAAAAwUTAMt7kzgjJhTzutjtuw`

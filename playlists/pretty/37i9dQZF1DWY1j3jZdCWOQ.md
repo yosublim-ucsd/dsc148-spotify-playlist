@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain minus the S =
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,538 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,589 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 34 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 35 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 36 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 |
-| 37 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
-| 38 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
+| 37 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
+| 38 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
 | 39 | [The Drug In Me Is You](https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:38 |
 | 40 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 41 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 87 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
 | 88 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 89 | [HOW 2 GET AWAY WITH MURDER](https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [HOW 2 GET AWAY WITH MURDER](https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI) | 2:58 |
-| 90 | [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ), [Diggy Graves](https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t) | [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I) | 2:29 |
-| 91 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
+| 90 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
+| 91 | [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ), [Diggy Graves](https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t) | [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I) | 2:29 |
 | 92 | [Turbulent](https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:42 |
-| 93 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
+| 93 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
 | 94 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
 | 95 | [obsessed](https://open.spotify.com/track/0pWB4X7xxFaTyQYdXXXpYw) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp) | 2:50 |
 | 96 | [Outta My Head](https://open.spotify.com/track/3NcheXileql4RI8n6sLumL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Outta My Head](https://open.spotify.com/album/3KIcGRLylPWgD0GF762Eln) | 2:52 |

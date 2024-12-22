@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,270 likes - 41 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,271 likes - 41 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,18 +27,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 17 | [Me Esta Esperando María](https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h) | 2:48 |
 | 18 | [El Pobre Caminante](https://open.spotify.com/track/2vqfVIK1VuEGVwoRxnGDWM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:37 |
 | 19 | [Oh, Solitario](https://open.spotify.com/track/3RuRYUOr7qZZj7qcoeEwmX) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:05 |
-| 20 | [Puño De Tierra](https://open.spotify.com/track/03VYmP2mFFxRMTOWFwscCS) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:39 |
+| 20 | [Domingo Corrales](https://open.spotify.com/track/0mFnbLPjZ2tAqxOJx31pAQ) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:46 |
 | 21 | [Camarón Pelao](https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:57 |
 | 22 | [El Farolito](https://open.spotify.com/track/1TtEn9YkPng9lKJKE6cDS9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:01 |
 | 23 | [La Vaquilla Prieta](https://open.spotify.com/track/4T0RsUzObI18MdCLCbIiCa) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 2:24 |
-| 24 | [Domingo Corrales](https://open.spotify.com/track/0mFnbLPjZ2tAqxOJx31pAQ) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:46 |
+| 24 | [Puño De Tierra](https://open.spotify.com/track/03VYmP2mFFxRMTOWFwscCS) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:39 |
 | 25 | [Rock y Banda](https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 |
 | 26 | [Baila](https://open.spotify.com/track/1MiPQr7yIqBOskWia7ZMIs) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:58 |
 | 27 | [No Sigas Llorando](https://open.spotify.com/track/4utL0KRhxyqPLIDTQB20YX) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [No Sigas Llorando](https://open.spotify.com/album/3WFlN0l37hFY6WkXPNNpfD) | 2:36 |
-| 28 | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ) | 2:51 |
+| 28 | [La Víbora Peligrosa](https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Víbora Peligrosa](https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss) | 2:29 |
 | 29 | [Celoso](https://open.spotify.com/track/4C1rjOklvN6ydlOUwkoOJ3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h) | 3:43 |
 | 30 | [La Banda Rock](https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:20 |
-| 31 | [La Víbora Peligrosa](https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Víbora Peligrosa](https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss) | 2:29 |
+| 31 | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ) | 2:51 |
 | 32 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 |
 | 33 | [Meneaito](https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Meneaito](https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4) | 3:37 |
 | 34 | [Busca Amor](https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:37 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 40 | [El Jaripeo](https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:53 |
 | 41 | [La Fiesta](https://open.spotify.com/track/2BjQ7lWbTPAzqR5MjxjKql) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 3:01 |
 
-Snapshot ID: `Z2NiAAAAAADXFqXDSlUmahp2YHNR8+Q/`
+Snapshot ID: `Z2SzgAAAAABFhZ7EEmQSF5Tzdr6VbgGn`

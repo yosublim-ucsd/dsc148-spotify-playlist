@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,742 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,769 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 31 | [Si Tú Supieras](https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [Emergencia de Amor](https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK) | 3:47 |
 | 32 | [Pense Que Te Olvide](https://open.spotify.com/track/6mcKcKUigHBg8z2tz7AKOR) | [Lalo Monte](https://open.spotify.com/artist/3SB8njtBUMJOVsNZ37xB53) | [Pense Que Te Olvide](https://open.spotify.com/album/4gDQufSUCOgyk8EZVMyhyE) | 3:39 |
 | 33 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |
-| 34 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
-| 35 | [Te Regalo](https://open.spotify.com/track/7b3h31GXmBdFbTWZ0xem7V) | [Ivan Zavala](https://open.spotify.com/artist/6UjgZ5FpxLsjRvPiN4yoI2) | [Imposible](https://open.spotify.com/album/3GK2930aijx836XgQ720GV) | 2:54 |
+| 34 | [Te Regalo](https://open.spotify.com/track/7b3h31GXmBdFbTWZ0xem7V) | [Ivan Zavala](https://open.spotify.com/artist/6UjgZ5FpxLsjRvPiN4yoI2) | [Imposible](https://open.spotify.com/album/3GK2930aijx836XgQ720GV) | 2:54 |
+| 35 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
 | 36 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
 | 37 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |
 | 38 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Matt Sassari
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,662 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,664 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 5 | [Shout It Out](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Shout It Out](https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms) | 3:08 |
 | 6 | [Only Friends](https://open.spotify.com/track/5dLgvjpexLnUD5sSVagxhM) | [BAN DELLO](https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v) | [Only Friends](https://open.spotify.com/album/77jeSWpHyaPeUHT5175Qfh) | 2:31 |
 | 7 | [Feels Like Home](https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv) | [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feels Like Home](https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa) | 3:35 |
-| 8 | [Craving 4 U \(feat\. bbyclose\) \- Willo Remix](https://open.spotify.com/track/718OmWzVv7YZxmSchamgra) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [Willo](https://open.spotify.com/artist/0jGjDn7kqT5kX1juF2H4NR) | [Craving 4 U \(feat\. bbyclose\) \[Willo Remix\]](https://open.spotify.com/album/5PQgwT4jYv9yUl3vbkzcda) | 4:03 |
+| 8 | [Craving 4 U \(feat\. bbyclose\) \- Willo Remix](https://open.spotify.com/track/718OmWzVv7YZxmSchamgra) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Craving 4 U \(feat\. bbyclose\) \[Willo Remix\]](https://open.spotify.com/album/5PQgwT4jYv9yUl3vbkzcda) | 4:03 |
 | 9 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
 | 10 | [Feeling Alive \- Anna Lunoe Remix](https://open.spotify.com/track/6QY3TT6Y3Bt8IIWFj1yDYI) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Feeling Alive \(Anna Lunoe Remix\)](https://open.spotify.com/album/2B5RiRWXI3pPSnVZ28Q8IB) | 3:21 |
 | 11 | [Rhythm Got Me Going](https://open.spotify.com/track/1CHaKVC8qqN6Z575oKcojC) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Rhythm Got Me Going](https://open.spotify.com/album/1FQlQZt1VI1qFiLSlUItha) | 3:20 |

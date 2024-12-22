@@ -1,12 +1,12 @@
 {
   "description": "songs voor je playlist! #fyp",
-  "num_followers": 39106,
+  "num_followers": 39129,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2VwFwAAAAB3yxbUHDaobjZRHO9hDCRH",
+  "snapshot_id": "Z2cK/QAAAACZSDttItgfnrFvA2P5XIsZ",
   "tracks": [
     {
       "added_at": "2024-12-19 23:00:39",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-12-19 23:00:39",
       "album": {
+        "name": "Echte liefde",
+        "url": "https://open.spotify.com/album/2Jbcfc2CLMC0KPa6m0h7fd"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Echte Liefde",
+      "url": "https://open.spotify.com/track/6F6S3TLKWLCedkJhrUFQ2k"
+    },
+    {
+      "added_at": "2024-12-19 23:00:39",
+      "album": {
         "name": "Sigma Boy (\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439)",
         "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 134400,
       "name": "Sigma Boy - \u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
-    },
-    {
-      "added_at": "2024-12-19 23:00:39",
-      "album": {
-        "name": "Spijt Is Voor Later",
-        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
-      },
-      "artists": [
-        {
-          "name": "Martin Morero",
-          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "Spijt Is Voor Later",
-      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
     },
     {
       "added_at": "2024-12-19 23:00:39",
@@ -151,6 +151,22 @@
       "duration_ms": 150000,
       "name": "Kerst Spend ik Voor Jou",
       "url": "https://open.spotify.com/track/4pzd7XfoDDoGN6guTYBKdE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:39",
+      "album": {
+        "name": "Spijt Is Voor Later",
+        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "Spijt Is Voor Later",
+      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
     },
     {
       "added_at": "2024-12-19 23:00:39",
@@ -283,22 +299,6 @@
       "duration_ms": 177931,
       "name": "Fly Kid - Remix",
       "url": "https://open.spotify.com/track/1V0G3z9qFvISRzHwGcjttZ"
-    },
-    {
-      "added_at": "2024-12-19 23:00:39",
-      "album": {
-        "name": "Echte liefde",
-        "url": "https://open.spotify.com/album/2Jbcfc2CLMC0KPa6m0h7fd"
-      },
-      "artists": [
-        {
-          "name": "Martin Morero",
-          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Echte Liefde",
-      "url": "https://open.spotify.com/track/6F6S3TLKWLCedkJhrUFQ2k"
     },
     {
       "added_at": "2024-12-19 23:00:39",

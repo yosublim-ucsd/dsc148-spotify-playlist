@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: MOIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,467 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,471 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 45 | [FU](https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FU](https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ) | 2:16 |
 | 46 | [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 |
 | 47 | [ALL THE GIRLS](https://open.spotify.com/track/43pMdjwekH6xVSwSO9MmJT) | [£MONZO](https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ), [INFAMOUSIZAK](https://open.spotify.com/artist/6yHCZvDqNVBqV5v0w7a3W1) | [ALL THE GIRLS](https://open.spotify.com/album/2WHnp1HHVNtnPBRRy24oTa) | 1:49 |
-| 48 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 |
-| 49 | [JEWO](https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [JEWO](https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW) | 3:05 |
+| 48 | [JEWO](https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [JEWO](https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW) | 3:05 |
+| 49 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 |
 | 50 | [Backwards \- Reimagined](https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Reimagined\)](https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM) | 3:36 |
 | 51 | [Wagashi](https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Wagashi](https://open.spotify.com/album/3Izy2Hdi68EcgQScKajavq) | 1:56 |
 | 52 | [Bring Me Up](https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Bring Me Up](https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz) | 2:22 |
-| 53 | [New Day](https://open.spotify.com/track/1WPku57CbhXyWxkOSy4oWK) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [New Day](https://open.spotify.com/album/6i72V24SOOku076TNzxShq) | 3:15 |
-| 54 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 |
-| 55 | [Grateful](https://open.spotify.com/track/34SGK10UwQXbKsmh81LyLs) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Long Live Dylan](https://open.spotify.com/album/4EvkXeFRdf79GJQcpx7pBu) | 2:14 |
+| 53 | [Desert Belly](https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Desert Belly](https://open.spotify.com/album/6cueH6MQc7tnnwdy1d16Ug) | 3:02 |
+| 54 | [New Day](https://open.spotify.com/track/1WPku57CbhXyWxkOSy4oWK) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [New Day](https://open.spotify.com/album/6i72V24SOOku076TNzxShq) | 3:15 |
+| 55 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 |
 | 56 | [what it is & what it ain't](https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [what it is & what it ain't](https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD) | 2:29 |
-| 57 | [Desert Belly](https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Desert Belly](https://open.spotify.com/album/6cueH6MQc7tnnwdy1d16Ug) | 3:02 |
-| 58 | [Won!](https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [We Got Food At Home](https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M) | 2:00 |
-| 59 | [Guilty Pleasure](https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Guilty Pleasure](https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T) | 2:44 |
-| 60 | [Take Me Down](https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Take Me Down](https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib) | 2:06 |
+| 57 | [Won!](https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [We Got Food At Home](https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M) | 2:00 |
+| 58 | [Grateful](https://open.spotify.com/track/34SGK10UwQXbKsmh81LyLs) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Long Live Dylan](https://open.spotify.com/album/4EvkXeFRdf79GJQcpx7pBu) | 2:14 |
+| 59 | [Take Me Down](https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Take Me Down](https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib) | 2:06 |
+| 60 | [Guilty Pleasure](https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Guilty Pleasure](https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T) | 2:44 |
 
 Snapshot ID: `Z1t5IQAAAADnc7yZrFmiK6I7b2jcZFwy`

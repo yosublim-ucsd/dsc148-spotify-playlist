@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,207 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,262 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 33 | [Cute, Sassy, Sexy](https://open.spotify.com/track/5bDfSWqEAZCeQJl8dGPnww) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Anti Romantica \(Deluxe\)](https://open.spotify.com/album/6H95aNk9ICCrYcDTQosBCV) | 2:29 |
 | 34 | [I'm Not Gonna Cry](https://open.spotify.com/track/01A1pyqiQN7eCt25ZVClKz) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm Not Gonna Cry](https://open.spotify.com/album/6ksCmxzTjmJcRKWMwbMQpy) | 2:44 |
 | 35 | [best of me & you](https://open.spotify.com/track/7zLJ14Pk43ci8oWTuPSLzR) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [best of me & you](https://open.spotify.com/album/43laZWLFhqocwIYL3AHoII) | 2:52 |
-| 36 | [Eyes Dried Over](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
+| 36 | [Eyes Dried Over \(feat\. Tom Walker\)](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 |
 | 37 | [wonderland <3](https://open.spotify.com/track/4zacuoHIKLXBOMJEBxrM16) | [Allegra Miles](https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu) | [wonderland <3](https://open.spotify.com/album/6Y4bGtg01CC0MP8hjvlGG4) | 3:17 |
 | 38 | [Woman Now](https://open.spotify.com/track/1ge9hmkt5PVOxnmIECJLYJ) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Woman Now](https://open.spotify.com/album/60b4zXrqhviQI1QprjwWVe) | 2:38 |
 | 39 | [BODY SHOP\. \(feat\. Tommy Richman\)](https://open.spotify.com/track/7wQ2sYDKlby1qgPki8THbZ) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [BODY SHOP\. / PLAN B.](https://open.spotify.com/album/27od1rgOVRYMjoglpaTFO9) | 2:50 |

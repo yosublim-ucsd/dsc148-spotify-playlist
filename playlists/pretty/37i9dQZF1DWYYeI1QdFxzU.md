@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,286 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,287 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 46 | [Timeless](https://open.spotify.com/track/1E1rUNs8vXVxgNzSA2GOEV) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN) | [Timeless](https://open.spotify.com/album/0jwCKkBPRs6VWd14Kpp4Qv) | 3:29 |
 | 47 | [Born Again](https://open.spotify.com/track/7aPrEWIVmwNb9suOKmgvAM) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Laura Roy](https://open.spotify.com/artist/5QPrSgtPwMPMdDNWQyQDXR) | [Born Again](https://open.spotify.com/album/7IaZQiXprSp7xhqhuSIDKu) | 4:04 |
 | 48 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
-| 49 | [Curves](https://open.spotify.com/track/14gFoEG2vJmqM7LaYRJ49m) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Infinite Falling Ground Pt.2](https://open.spotify.com/album/1uCUD9nJxidOu4zhKBm3m3) | 3:17 |
+| 49 | [Cloud Nine](https://open.spotify.com/track/4YUYErWWA2fRJOFwYUThBX) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Cloud Nine](https://open.spotify.com/album/4ZEj9V2IDWZUyESpDlraBg) | 3:12 |
 | 50 | [Love In Our Hands \- Omfeel Remix](https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Love In Our Hands \(Omfeel Remix\)](https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6) | 3:38 |
 
 Snapshot ID: `Z1v9XgAAAACuXMGpyMfLQFAtyDOtce8u`
