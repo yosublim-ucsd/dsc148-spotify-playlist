@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 960 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Pa´Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pa´ Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC) | 2:52 |
 | 50 | [CLASSY 101](https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:15 |
 
-Snapshot ID: `LvovIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lvt+SAAAAAAAAAAAAAAAAAAAAAAAAGVu`

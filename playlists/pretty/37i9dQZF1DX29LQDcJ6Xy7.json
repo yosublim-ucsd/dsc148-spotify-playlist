@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 341141,
+  "num_followers": 341204,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Zeit",
-        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 224801,
-      "name": "Angst",
-      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "The Golden Age Of Grotesque",
         "url": "https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc"
       },
@@ -375,24 +359,8 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 292586,
-      "name": "Jesus Built My Hotrod",
-      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
       "artists": [
         {
@@ -400,9 +368,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 255845,
-      "name": "Zeig dich",
-      "url": "https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX"
+      "duration_ms": 224801,
+      "name": "Angst",
+      "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -423,18 +391,18 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
         }
       ],
-      "duration_ms": 294893,
-      "name": "Every Day Is Exactly The Same",
-      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
+      "duration_ms": 292586,
+      "name": "Jesus Built My Hotrod",
+      "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -471,6 +439,38 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 255845,
+      "name": "Zeig dich",
+      "url": "https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Every Day Is Exactly The Same",
+      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "Darkest Days",
         "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
       },
@@ -483,38 +483,6 @@
       "duration_ms": 253293,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/13ZS2V2RsGWguOYYvIqDN5"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "Deutschland",
-        "url": "https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 322339,
-      "name": "Deutschland",
-      "url": "https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "The Fragile",
-        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 436000,
-      "name": "We're In This Together",
-      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -535,6 +503,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "Bites",
+        "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
+      },
+      "artists": [
+        {
+          "name": "Skinny Puppy",
+          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
+        }
+      ],
+      "duration_ms": 416706,
+      "name": "Assimilate",
+      "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Bites",
-        "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
+        "name": "The Fragile",
+        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
       },
       "artists": [
         {
-          "name": "Skinny Puppy",
-          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 416706,
-      "name": "Assimilate",
-      "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
+      "duration_ms": 436000,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -583,6 +567,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "Deutschland",
+        "url": "https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 322339,
+      "name": "Deutschland",
+      "url": "https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "G\u00f6tterd\u00e4mmerung",
         "url": "https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 258106,
       "name": "Jagdzeit",
       "url": "https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 310293,
+      "name": "Just One Fix",
+      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -615,38 +631,6 @@
       "duration_ms": 314720,
       "name": "ISN\u2019T EVERYONE",
       "url": "https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "Lost Highway",
-        "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 315440,
-      "name": "The Perfect Drug",
-      "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 310293,
-      "name": "Just One Fix",
-      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 315440,
+      "name": "The Perfect Drug",
+      "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "The Mind Is a Terrible Thing to Taste",
+        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 301426,
+      "name": "Thieves",
+      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "Gravity Kills",
         "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 416186,
       "name": "The Death & Resurrection Show",
       "url": "https://open.spotify.com/track/2JUo8iX8FC05xd9GEpw9BI"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "The Mind Is a Terrible Thing to Taste",
-        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 301426,
-      "name": "Thieves",
-      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "A World Lit Only by Fire",
+        "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
+      },
+      "artists": [
+        {
+          "name": "Godflesh",
+          "url": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Shut Me Down",
+      "url": "https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "Merchant of the Void",
         "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "A World Lit Only by Fire",
-        "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
-      },
-      "artists": [
-        {
-          "name": "Godflesh",
-          "url": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Shut Me Down",
-      "url": "https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Front By Front",
         "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Bits and Razors",
-        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
-      },
-      "artists": [
-        {
-          "name": "Rabbit Junk",
-          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
-        }
-      ],
-      "duration_ms": 243446,
-      "name": "Bits and Razors",
-      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Industrial Machine Musick",
         "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 262133,
       "name": "To The Hilt",
       "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Bits and Razors",
+        "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
+      },
+      "artists": [
+        {
+          "name": "Rabbit Junk",
+          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
+        }
+      ],
+      "duration_ms": 243446,
+      "name": "Bits and Razors",
+      "url": "https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
-      },
-      "artists": [
-        {
-          "name": "CueStack",
-          "url": "https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG"
-        }
-      ],
-      "duration_ms": 264750,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 243814,
       "name": "I Am Nothing",
       "url": "https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
+      },
+      "artists": [
+        {
+          "name": "CueStack",
+          "url": "https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG"
+        }
+      ],
+      "duration_ms": 264750,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Prototype 6:17",
-        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
-      },
-      "artists": [
-        {
-          "name": "The Silverblack",
-          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Don't Question Me",
         "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Prototype 6:17",
+        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
+      },
+      "artists": [
+        {
+          "name": "The Silverblack",
+          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
+        }
+      ],
+      "duration_ms": 208470,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Burn Everything",
         "url": "https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 263581,
       "name": "Burn Everything",
       "url": "https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE"
     }
   ],
   "unique_name": "Industrial Metal",

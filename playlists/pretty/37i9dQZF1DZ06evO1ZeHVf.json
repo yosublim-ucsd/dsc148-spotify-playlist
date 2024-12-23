@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 43097,
+  "num_followers": 43125,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAABN4fkJztALLY5BQBW+7aqy",
+  "snapshot_id": "Z2YFAAAAAADj63sXTRxfDOWsoAUGg8sh",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+        "name": "CeCe Winans Presents Pure Worship",
+        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
       },
       "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 261600,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
+      "duration_ms": 327215,
+      "name": "How Great Is Our God/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
     },
     {
       "added_at": null,
@@ -283,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans Presents Pure Worship",
-        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
       },
       "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 327215,
-      "name": "How Great Is Our God/How Great Thou Art - Medley",
-      "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
+      "duration_ms": 261600,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
+        "name": "Gaither Homecoming Classics Vol.1",
+        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 83561,
-      "name": "Oh The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
+      "duration_ms": 118533,
+      "name": "The Blood Will Never Lose Its Power - Live",
+      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gaither Homecoming Classics Vol.1",
-        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 118533,
-      "name": "The Blood Will Never Lose Its Power - Live",
-      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
+      "duration_ms": 83561,
+      "name": "Oh The Blood Of Jesus",
+      "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "Come Fill My Heart",
+      "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 499250,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "Come Fill My Heart",
-      "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 79812,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/0DmZniSKzuFKN9Qn3eFaMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Have to Be Alone",
         "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 227335,
       "name": "Never Have to Be Alone",
       "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 79812,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/0DmZniSKzuFKN9Qn3eFaMJ"
     },
     {
       "added_at": null,

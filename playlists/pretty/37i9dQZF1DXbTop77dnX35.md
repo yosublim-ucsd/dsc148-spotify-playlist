@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,133 likes - 41 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,265 likes - 41 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 11 | [Bouchekaraille](https://open.spotify.com/track/6EFPZqzXyfJVNJZYMDd8Ez) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Bouchekaraille](https://open.spotify.com/album/5m2o4mk2FM50Qi6hrPWhW8) | 3:04 |
 | 12 | [Profeh](https://open.spotify.com/track/4wndTAhbo2y5Sbo6uGwg7u) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Profeh](https://open.spotify.com/album/1Mg3BXH7gA93oY7nFwyVN4) | 2:52 |
 | 13 | [Lockdown](https://open.spotify.com/track/4exffNNgDBlg7HWvzQX5bo) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [AmakyeTheRapper](https://open.spotify.com/artist/72drjOj6N6PFKv53XePvE1) | [Three Times of Peter](https://open.spotify.com/album/14bu8IbUpsWxBnQwKx4hvb) | 2:52 |
-| 14 | [Old Flame](https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Old Flame](https://open.spotify.com/album/3turvCSKi4z5OtNiYRQeor) | 2:30 |
+| 14 | [Old Flame](https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Old Flame](https://open.spotify.com/album/3turvCSKi4z5OtNiYRQeor) | 3:02 |
 | 15 | [World Best](https://open.spotify.com/track/3r1xguZdjdgl8W0LO4ZtBF) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [World Best](https://open.spotify.com/album/2frIDgjKHf4bkkPo19wQ6Y) | 2:17 |
 | 16 | [Close To Me \(feat\. Olivetheboy\) \- Ghana Remix](https://open.spotify.com/track/0JM1pCnVsukgAqkR9PQPgo) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Close To Me \(Remix Pack\)](https://open.spotify.com/album/3QIiQB8hdoLwXZFuZJZ6ys) | 3:43 |
 | 17 | [PACO](https://open.spotify.com/track/0UNNPQ4Y7LuciarjBa8U3w) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Ricky Bishop](https://open.spotify.com/artist/1BgUbirVqg7MnHDThNqOil) | [LEATHER PARK \(VOL 1.5\)](https://open.spotify.com/album/0tk7KDJHkVbPTft9RD8qv1) | 2:17 |

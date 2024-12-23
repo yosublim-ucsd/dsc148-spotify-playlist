@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,762 likes - 145 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,761 likes - 145 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 84 | [Lucked Up \(feat\. Nija\)](https://open.spotify.com/track/1HiJBQgR00UltPnoRWHjiM) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 3:40 |
 | 85 | [Back It Up](https://open.spotify.com/track/40UkLDbc5LAw5kmBZGXReV) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:15 |
 | 86 | [Don't Take It Personal](https://open.spotify.com/track/5rwV5yAoPLfIjCZ64jvC2A) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:47 |
-| 87 | [Take It Home](https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Take It Home](https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF) | 2:46 |
-| 88 | [LIGHT AGAIN!](https://open.spotify.com/track/2wQZ5DBJiir4QJkdbzyBm3) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LIGHT AGAIN!](https://open.spotify.com/album/3LlPX1QwsKNaHPT1tnzShL) | 2:57 |
+| 87 | [LIGHT AGAIN!](https://open.spotify.com/track/2wQZ5DBJiir4QJkdbzyBm3) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LIGHT AGAIN!](https://open.spotify.com/album/3LlPX1QwsKNaHPT1tnzShL) | 2:57 |
+| 88 | [Take It Home](https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Take It Home](https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF) | 2:46 |
 | 89 | [Beautiful Lies](https://open.spotify.com/track/0DAZbOyfbDxz1HPjMxoE7P) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:22 |
 | 90 | [Out Of The Ordinary](https://open.spotify.com/track/4nX7yBASMJgtM0F9OC1zTM) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 3:07 |
 | 91 | [Gemini Slander](https://open.spotify.com/track/1dduMILdDnevJDX0I9IAhm) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:21 |
@@ -148,10 +148,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 138 | [Hiatus](https://open.spotify.com/track/0R39oVT0h8jmmLADI7dkdy) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Young HeartThrob](https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW) | 3:02 |
 | 139 | [Mind Fucked](https://open.spotify.com/track/6G9hOorRnt0rInSSiW2U1d) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:48 |
 | 140 | [Best Friend](https://open.spotify.com/track/5TS5vMVVmf1mX1LYHNZdit) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [HAPPY 2 BE HERE](https://open.spotify.com/album/1CGxJ2HpqjEqmU56coDJyW) | 3:14 |
-| 141 | [Late Night](https://open.spotify.com/track/6XfhmcqDEapsyoK8mnTFnB) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:20 |
-| 142 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 |
+| 141 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 |
+| 142 | [Late Night](https://open.spotify.com/track/6XfhmcqDEapsyoK8mnTFnB) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:20 |
 | 143 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 144 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 | 145 | [Really Rare](https://open.spotify.com/track/3Vfj5HwBqHN1tBE7hMOmaj) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Estrella](https://open.spotify.com/album/1ffizbY37d01taYetGPW2i) | 2:36 |
 
-Snapshot ID: `AbkxFAAAAAAIlAviPcUq0FS836DDyY5i`
+Snapshot ID: `Abk2qgAAAAAY8ptQXE52J6lwj9c/57fi`

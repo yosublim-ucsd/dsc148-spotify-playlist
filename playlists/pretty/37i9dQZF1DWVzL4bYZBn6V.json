@@ -1,6 +1,6 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 18021,
+  "num_followers": 18061,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1ZrNcxQIqBIheVFpsU3aV6"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Daniel Blume",
+          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/29KPHi6A6NNzQo8DdYa1Za"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
         "name": "Discoteka",
         "url": "https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 123870,
       "name": "Las Chicas",
       "url": "https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1ZrNcxQIqBIheVFpsU3aV6"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Daniel Blume",
-          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/29KPHi6A6NNzQo8DdYa1Za"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
+        "name": "La M\u00fasica",
+        "url": "https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "La M\u00fasica",
+      "url": "https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/0SIxLZVzSBT22y2s8Iw4X6"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 205645,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1niAie0JRjlHg1id7hFCfS"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
-        "name": "La M\u00fasica",
-        "url": "https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        }
-      ],
-      "duration_ms": 210956,
-      "name": "La M\u00fasica",
-      "url": "https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69"
-      },
-      "artists": [
-        {
-          "name": "Lemarroy",
-          "url": "https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W"
-        },
-        {
-          "name": "Nino Lucarelli",
-          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
         "name": "Won't Give Up",
         "url": "https://open.spotify.com/album/6cgX5pGfRM5YccxFeFKZr1"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 181451,
       "name": "Bailalo - Radio Edit",
       "url": "https://open.spotify.com/track/6rzG1q2gQ4kUtK1OUT4sIY"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69"
+      },
+      "artists": [
+        {
+          "name": "Lemarroy",
+          "url": "https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph"
     },
     {
       "added_at": "2024-03-28 01:32:56",

@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148100,
+      "name": "I WOKE UP",
+      "url": "https://open.spotify.com/track/6mqevjxkKFzckFuiNDE4GQ"
+    },
+    {
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
       },

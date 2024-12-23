@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: La S\u00e9curit\u00e9",
-  "num_followers": 5919,
+  "num_followers": 5921,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
-      },
-      "artists": [
-        {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "G4ME0VER",
         "url": "https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 174626,
       "name": "G4ME0VER",
       "url": "https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 253546,
       "name": "La vie attend pas",
       "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "SIMULATION FREESTYLE",
-        "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        },
-        {
-          "name": "P'tit Belliveau",
-          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
-        }
-      ],
-      "duration_ms": 150923,
-      "name": "SIMULATION FREESTYLE",
-      "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "La hi\u00e9rarchill",
         "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 179706,
       "name": "Anomie",
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "SIMULATION FREESTYLE",
+        "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        },
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        }
+      ],
+      "duration_ms": 150923,
+      "name": "SIMULATION FREESTYLE",
+      "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
-      },
-      "artists": [
-        {
-          "name": "ALIAS",
-          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
-        }
-      ],
-      "duration_ms": 131015,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Phil\u00e9douche",
         "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 280513,
       "name": "Phil\u00e9douche",
       "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
+      },
+      "artists": [
+        {
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+        }
+      ],
+      "duration_ms": 131015,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Attaque \u00e0 cinq",
-        "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
-      },
-      "artists": [
-        {
-          "name": "Les Dales Hawerchuk",
-          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
-        }
-      ],
-      "duration_ms": 162613,
-      "name": "Megastar",
-      "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Aire de plastique",
         "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 247996,
       "name": "Aire de plastique",
       "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Attaque \u00e0 cinq",
+        "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
+      },
+      "artists": [
+        {
+          "name": "Les Dales Hawerchuk",
+          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+        }
+      ],
+      "duration_ms": 162613,
+      "name": "Megastar",
+      "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Piscine hors terre",
-        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
-      },
-      "artists": [
-        {
-          "name": "Les Trois Accords",
-          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
-        }
-      ],
-      "duration_ms": 211570,
-      "name": "Piscine hors terre",
-      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Demande sp\u00e9ciale",
         "url": "https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 175168,
       "name": "Demande sp\u00e9ciale",
       "url": "https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Piscine hors terre",
+        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "duration_ms": 211570,
+      "name": "Piscine hors terre",
+      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Romantisme",
-        "url": "https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4"
-      },
-      "artists": [
-        {
-          "name": "\u00c9l\u00e9gie",
-          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
-        }
-      ],
-      "duration_ms": 233708,
-      "name": "Romantisme",
-      "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "C'est ma lady",
-        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "C'est ma lady",
-      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "O\u00f9 est?",
         "url": "https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d"
       },
@@ -1183,6 +1151,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Romantisme",
+        "url": "https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4"
+      },
+      "artists": [
+        {
+          "name": "\u00c9l\u00e9gie",
+          "url": "https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0"
+        }
+      ],
+      "duration_ms": 233708,
+      "name": "Romantisme",
+      "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Lighter Fluid",
         "url": "https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 171321,
       "name": "Lighter Fluid",
       "url": "https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "C'est ma lady",
+        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "C'est ma lady",
+      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
     },
     {
       "added_at": "2024-11-29 05:00:00",

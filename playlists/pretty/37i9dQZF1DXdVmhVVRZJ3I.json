@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 292755,
+  "num_followers": 292845,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Deep In Your Love",
-        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 144648,
-      "name": "Deep In Your Love",
-      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Infinity (Dubdogz & Bhaskar Edit)",
         "url": "https://open.spotify.com/album/2NWFwa4mXzXgFHMc0VGiQG"
       },
@@ -291,6 +271,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 144648,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
       },
@@ -331,6 +331,46 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "BELLYDANCING",
+        "url": "https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 122520,
+      "name": "BELLYDANCING",
+      "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Summer's Back",
         "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
       },
@@ -347,22 +387,6 @@
       "duration_ms": 147619,
       "name": "Summer's Back",
       "url": "https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "BELLYDANCING",
-        "url": "https://open.spotify.com/album/6D1c9gOUIaHAdY9ixKx47n"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 122520,
-      "name": "BELLYDANCING",
-      "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -415,30 +439,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Psycho Killer",
         "url": "https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD"
       },
@@ -479,30 +479,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "My City (feat. Katy Tiz)",
-        "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Prophecy",
-          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
-        },
-        {
-          "name": "Katy Tiz",
-          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "My City (feat. Katy Tiz)",
-      "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "It Don\u2019t Matter - Spotify Singles",
         "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 173742,
       "name": "It Don\u2019t Matter - Spotify Singles",
       "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "My City (feat. Katy Tiz)",
+        "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        },
+        {
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "My City (feat. Katy Tiz)",
+      "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -631,6 +631,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Never Be Alone (feat. Aloe Blacc)",
         "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
       },
@@ -715,26 +735,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "You Were Loved (with OneRepublic)",
         "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
       },
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
+      },
+      "artists": [
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 125878,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Ridin' Dirty",
         "url": "https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 169657,
       "name": "Ridin' Dirty",
       "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
-      },
-      "artists": [
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 125878,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
     },
     {
       "added_at": "2024-11-15 03:00:00",

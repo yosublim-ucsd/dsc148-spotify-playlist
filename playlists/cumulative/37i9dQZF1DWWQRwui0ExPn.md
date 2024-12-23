@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,127 songs - 11 day 6 hr 10 min
+7,128 songs - 11 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1917,7 +1917,7 @@
 | [Espresso](https://open.spotify.com/track/48qeuoi9vWBj5hw3mjnIyA) | [Bongmaster](https://open.spotify.com/artist/6AT5AgVdTXN7xsjqM4Zn1g) | [Espresso](https://open.spotify.com/album/4fcv2qyyPcHHGcCTFk7NN2) | 1:46 | 2023-09-22 | 2023-10-13 |
 | [Espresso Dreams](https://open.spotify.com/track/5RxXQDO8DJ3dKnvTeQUadQ) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Spoonful Of Soup](https://open.spotify.com/album/1NvgkHRMAM7qlDyFqXsa4S) | 2:32 | 2021-08-14 | 2022-03-12 |
 | [espresso time](https://open.spotify.com/track/5H7o4E3gjv9ywJs12d2kmM) | [lokeyz](https://open.spotify.com/artist/5ssZUfuLKV5hyvux8k0VvJ) | [espresso time](https://open.spotify.com/album/3YD6NdMejXUhdTbGTtEbli) | 2:03 | 2020-11-19 | 2021-10-20 |
-| [estate](https://open.spotify.com/track/38JCaWrU5CHL14bs3JNXOA) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [but a beach ain't one](https://open.spotify.com/album/2zWrtFSI7QMd9KIrsFh5hL) | 1:41 | 2024-06-14 |  |
+| [estate](https://open.spotify.com/track/38JCaWrU5CHL14bs3JNXOA) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [but a beach ain't one](https://open.spotify.com/album/2zWrtFSI7QMd9KIrsFh5hL) | 1:41 | 2024-06-14 | 2024-12-23 |
 | [Este Amor](https://open.spotify.com/track/04nh9fLM7WkW0wmheCPF1m) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Este Amor](https://open.spotify.com/album/6ZrKTxV6cpWx34EVHdaUno) | 2:03 | 2022-11-11 | 2023-05-04 |
 | [Estelle](https://open.spotify.com/track/39j1lrsLa9jZ72Qx6PxJ2r) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Estelle](https://open.spotify.com/album/4o9PfEHog5OOVF3csh6ypi) | 1:50 | 2024-11-08 |  |
 | [Estrellas Viejas](https://open.spotify.com/track/6vGxiIvhKlcrzOWwHM71Cl) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Cielo Infinito](https://open.spotify.com/album/3xgVtYCFkw8c97AFCXqzqH) | 4:01 | 2021-11-05 | 2022-06-24 |
@@ -4242,6 +4242,7 @@
 | [New Hoodie](https://open.spotify.com/track/2WW4zgkzAwkugHIwArOrTc) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Hoodie](https://open.spotify.com/album/2WFVfu9XFbnWcUMGMfllyh) | 1:21 | 2024-02-02 | 2024-09-19 |
 | [New Life](https://open.spotify.com/track/26vTevxFBa9h0i5013tTef) | [Griefcake](https://open.spotify.com/artist/7eIwiNtHsGoC9N9b0bvUU0) | [New Life](https://open.spotify.com/album/7vJWTQKgKWG333yoWVsG8Y) | 2:36 | 2023-01-13 | 2023-03-09 |
 | [New Love](https://open.spotify.com/track/0i3y7AqK9yeByJ1wYh1aZ8) | [Jr\. Wellness](https://open.spotify.com/artist/7oc0u9Q0BkLat7c10fuHoF), [Nosoda](https://open.spotify.com/artist/37xroJQLtuGLQwHbu0m7F7) | [New Love](https://open.spotify.com/album/2IaTMccbcJTBSeGhXucG2g) | 1:36 | 2022-12-02 | 2023-09-19 |
+| [new menu](https://open.spotify.com/track/4rakqmJYFMSWhehlqzoG9b) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk) | [new menu](https://open.spotify.com/album/38pMJfagwN6Hope1Q30J18) | 1:58 | 2024-12-20 |  |
 | [New Season](https://open.spotify.com/track/4KFkKyUl1er3ta67yoQHHz) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [New Season](https://open.spotify.com/album/6dE9jnDDLfbCkhCkbHp3W9) | 2:00 | 2023-11-24 | 2024-02-02 |
 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 | 2024-01-12 | 2024-06-22 |
 | [new world](https://open.spotify.com/track/1fY8oPS9XnlFviAoySk2sW) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [new world](https://open.spotify.com/album/6LmJSBxN48sxhb6CtErse6) | 2:24 | 2022-02-14 | 2022-07-22 |

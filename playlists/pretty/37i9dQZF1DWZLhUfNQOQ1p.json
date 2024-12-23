@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 250544,
+  "num_followers": 250539,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 449093,
       "name": "L.I.F.E",
       "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 305776,
-      "name": "Cheer Up, My Brother",
-      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 270405,
       "name": "Instant Need",
       "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 305776,
+      "name": "Cheer Up, My Brother",
+      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "Cyclorama",
         "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 240640,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
         "name": "It'll All Be Over (DJ Koze Remix - Radio Edit)",
         "url": "https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 249749,
       "name": "Time",
       "url": "https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1471,18 +1455,34 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
       "artists": [
         {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 398150,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
+        "name": "Since I Left You",
+        "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Since I Left You",
+      "url": "https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Since I Left You",
-        "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Since I Left You",
-      "url": "https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy"
+      "duration_ms": 398150,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Dance of the Crab",
-        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 144479,
-      "name": "Dance of the Crab - Edit",
-      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 184000,
       "name": "Bar Mediterraneo",
       "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
+        "name": "Dance of the Crab",
+        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 144479,
+      "name": "Dance of the Crab - Edit",
+      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Leave My Home",
-        "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 221772,
-      "name": "Leave My Home",
-      "url": "https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
+        "name": "Leave My Home",
+        "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 221772,
+      "name": "Leave My Home",
+      "url": "https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 351496,
       "name": "Da Fonk (feat. Joni) - [Dub]",
       "url": "https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
     },
     {
       "added_at": "2024-12-19 23:01:25",

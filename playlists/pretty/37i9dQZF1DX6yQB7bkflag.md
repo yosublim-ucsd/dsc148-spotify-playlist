@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Alan Walker, MEEK
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,333 likes - 107 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,339 likes - 107 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 42 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 |
 | 43 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
 | 44 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 |
-| 45 | [Untuk Semua Jiwa \- From "Game Of Life"](https://open.spotify.com/track/4LYQCHV8eg8AGhk5Ocpp44) | [Hun Haqeem](https://open.spotify.com/artist/74IOwiLT4aMH8ct28JgaL4), [Noki](https://open.spotify.com/artist/3O7w6MOsgE4B0oAUcE9RlE) | [Untuk Semua Jiwa \(From "Game Of Life"\)](https://open.spotify.com/album/2dHAGpXIRCZa5DaNeURBmW) | 3:23 |
+| 45 | [Untuk Semua Jiwa \- From "Soloz Game Of Life"](https://open.spotify.com/track/4LYQCHV8eg8AGhk5Ocpp44) | [Hun Haqeem](https://open.spotify.com/artist/74IOwiLT4aMH8ct28JgaL4), [Noki](https://open.spotify.com/artist/3O7w6MOsgE4B0oAUcE9RlE) | [Untuk Semua Jiwa \(From "Soloz Game Of Life"\)](https://open.spotify.com/album/2dHAGpXIRCZa5DaNeURBmW) | 3:23 |
 | 46 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 |
 | 47 | [Lagu Cinta Untuk Mama \- Lagu Cinta Untuk Mama Original Soundtrack](https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagu Cinta Untuk Mama \(Lagu Cinta Untuk Mama Original Soundtrack\)](https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp) | 3:52 |
 | 48 | [Get It Wrong](https://open.spotify.com/track/5uR0cwWtzvrlJrrDfg4ePY) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Get It Wrong](https://open.spotify.com/album/2K3fBzHN62qn1cIp5umUDy) | 3:32 |

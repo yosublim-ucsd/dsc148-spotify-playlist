@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7AFHpxmIYKRKlleCPpiCWi"
@@ -5872,7 +5872,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -13146,7 +13146,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 208476,
       "name": "Days On End",
       "url": "https://open.spotify.com/track/0jCeblxsZemjNoHAvYD5iU"
@@ -16404,7 +16404,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 135653,
       "name": "Empty Out Your Pockets",
       "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
@@ -29679,7 +29679,7 @@
     },
     {
       "album": {
-        "name": "Joyeux no\u00ebl et bonne ann\u00e9e",
+        "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
         "url": "https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC"
       },
       "artists": [
@@ -29690,9 +29690,9 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 147080,
-      "name": "Joyeux no\u00ebl et bonne ann\u00e9e",
+      "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
       "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
     },
     {
@@ -34876,7 +34876,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -34906,7 +34906,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -42562,7 +42562,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 159580,
       "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
       "url": "https://open.spotify.com/track/2NQgPPXMmpmLPzxxfbTh9V"
@@ -44552,7 +44552,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 108791,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
@@ -44570,7 +44570,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 108798,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0CT22b8NYf47LKD5FSrJHO"
@@ -47494,7 +47494,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 144113,
       "name": "Rock",
       "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
@@ -52025,6 +52025,24 @@
     },
     {
       "album": {
+        "name": "Some Of Your Love",
+        "url": "https://open.spotify.com/album/6EUtwWL09Um9pAifZcBQwH"
+      },
+      "artists": [
+        {
+          "name": "Santea2",
+          "url": "https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165015,
+      "name": "Some Of Your Love",
+      "url": "https://open.spotify.com/track/57CHPRt5JTR4BpHWffdOjC"
+    },
+    {
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -52668,7 +52686,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 155773,
       "name": "Spin The Wheel (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3r1Fg9teKc6ZkZVtjJwCtV"
@@ -52690,7 +52708,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 155773,
       "name": "Spin The Wheel - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1lXZpcWtuvG5epzCpN2dSz"

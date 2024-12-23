@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Arca & Tokischa",
-  "num_followers": 135932,
+  "num_followers": 135945,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "La cuarta hoja",
+        "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 163244,
+      "name": "Carretera y manta",
+      "url": "https://open.spotify.com/track/1tV4AlwNv9qM4snHDLUXbY"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "GARC\u00cdA",
         "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
       },
@@ -211,18 +227,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "La cuarta hoja",
-        "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
+        "name": "Tiene Que Ser Para M\u00ed",
+        "url": "https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 163244,
-      "name": "Carretera y manta",
-      "url": "https://open.spotify.com/track/1tV4AlwNv9qM4snHDLUXbY"
+      "duration_ms": 151786,
+      "name": "Muchas Cosas",
+      "url": "https://open.spotify.com/track/1DHrUYdgRoAptl0DFOCyuj"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -243,18 +259,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Tiene Que Ser Para M\u00ed",
-        "url": "https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK"
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 151786,
-      "name": "Muchas Cosas",
-      "url": "https://open.spotify.com/track/1DHrUYdgRoAptl0DFOCyuj"
+      "duration_ms": 181157,
+      "name": "MADRE",
+      "url": "https://open.spotify.com/track/20ubMMwoL8zs9hDZ149aPl"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -295,22 +315,34 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
         }
       ],
-      "duration_ms": 181157,
-      "name": "MADRE",
-      "url": "https://open.spotify.com/track/20ubMMwoL8zs9hDZ149aPl"
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "Me Pongo Loca",
+      "url": "https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -347,38 +379,6 @@
       "duration_ms": 170742,
       "name": "En Esta Boca",
       "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "Me Pongo Loca",
-      "url": "https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "I Like 2 Be",
-      "url": "https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Fugitivo",
         "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 160941,
       "name": "Fugitivo",
       "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174923,
+      "name": "I Like 2 Be",
+      "url": "https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Bellakosa",
+        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
+      },
+      "artists": [
+        {
+          "name": "Sailorfag",
+          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Bellakosa",
+      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Bellakosa",
-        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
+        "name": "Vuela M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY"
       },
       "artists": [
         {
-          "name": "Sailorfag",
-          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Bellakosa",
-      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+      "duration_ms": 159373,
+      "name": "Vuela M\u00e1s Alto",
+      "url": "https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -747,22 +763,6 @@
       "duration_ms": 168015,
       "name": "La Respuesta",
       "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Vuela M\u00e1s Alto",
-        "url": "https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Vuela M\u00e1s Alto",
-      "url": "https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Todos Miran",
+        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 147222,
+      "name": "Todos Miran",
+      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Pa Tanto",
         "url": "https://open.spotify.com/album/20ULysRftwowCX4GCySy6f"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 176335,
       "name": "LALALAND",
       "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Todos Miran",
-        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 147222,
-      "name": "Todos Miran",
-      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "De Brujas, Peteneras y Chachalacas",
-        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
-      },
-      "artists": [
-        {
-          "name": "La Bruja de Texcoco",
-          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
-        }
-      ],
-      "duration_ms": 397520,
-      "name": "T\u00e9 de Malv\u00f3n",
-      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Crimen",
         "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
       },
@@ -991,8 +975,40 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
+        "name": "t hice gay :$",
+        "url": "https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 165874,
+      "name": "t hice gay :$",
+      "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "De Brujas, Peteneras y Chachalacas",
+        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
+      },
+      "artists": [
+        {
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+        }
+      ],
+      "duration_ms": 397520,
+      "name": "T\u00e9 de Malv\u00f3n",
+      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
       },
       "artists": [
         {
@@ -1000,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 220777,
-      "name": "Multicolor",
-      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "t hice gay :$",
-        "url": "https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9"
+        "name": "Si es contigo si",
+        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         }
       ],
-      "duration_ms": 165874,
-      "name": "t hice gay :$",
-      "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
+      "duration_ms": 146784,
+      "name": "Si es contigo si",
+      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1079,24 +1095,8 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Si es contigo si",
-        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 146784,
-      "name": "Si es contigo si",
-      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Otros Ritmos",
-        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 222115,
-      "name": "Otros Ritmos",
-      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
+      "duration_ms": 220777,
+      "name": "Multicolor",
+      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "KONFESSION",
-        "url": "https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe"
-      },
-      "artists": [
-        {
-          "name": "Matt Louis",
-          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "KONFESSION",
-      "url": "https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "444/Ms. Moon",
         "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 170805,
       "name": "444",
       "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "KONFESSION",
+        "url": "https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe"
+      },
+      "artists": [
+        {
+          "name": "Matt Louis",
+          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "KONFESSION",
+      "url": "https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "nada mejor",
-        "url": "https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "nada mejor",
-      "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "La Caldera",
         "url": "https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 216125,
       "name": "Cara de Gitana",
       "url": "https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "nada mejor",
+        "url": "https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "nada mejor",
+      "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Mala Crianza",
-        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
       },
       "artists": [
         {
-          "name": "Macha Kiddo",
-          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
         }
       ],
-      "duration_ms": 144998,
-      "name": "PXRNX",
-      "url": "https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X"
+      "duration_ms": 196363,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "NO BINARIA",
-        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
+        "name": "Mala Crianza",
+        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
       },
       "artists": [
         {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+          "name": "Macha Kiddo",
+          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
         }
       ],
-      "duration_ms": 131416,
-      "name": "NO BINARIA",
-      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
+      "duration_ms": 144998,
+      "name": "PXRNX",
+      "url": "https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V"
+        "name": "NO BINARIA",
+        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
       },
       "artists": [
         {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE"
+      "duration_ms": 131416,
+      "name": "NO BINARIA",
+      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1703,6 +1687,22 @@
       "duration_ms": 207157,
       "name": "Besos",
       "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE"
     },
     {
       "added_at": "2024-09-20 04:00:00",

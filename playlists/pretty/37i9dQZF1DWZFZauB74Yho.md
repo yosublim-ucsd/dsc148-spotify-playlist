@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Yonder Mountain String Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,005 likes - 92 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,020 likes - 92 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

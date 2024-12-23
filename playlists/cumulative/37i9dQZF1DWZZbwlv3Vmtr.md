@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-995 songs - 1 day 14 hr 34 min
+996 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Cameo](https://open.spotify.com/track/30OXkzWR9otpCgUpAPrtPA) | [Jazzarama](https://open.spotify.com/artist/3yNVU8t50pOgeeaiEtGKMe) | [Vacation Plans](https://open.spotify.com/album/3ALLfEOHgPmkVrjehNyb9D) | 2:33 | 2022-04-15 | 2022-05-14 |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2022-04-15 |  |
 | [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2023-10-27 |  |
-| [Candlestick Oasis](https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [Under the Leaden Sky](https://open.spotify.com/album/0f8gMNOxgUraGCPFeuWzFm) | 3:14 | 2022-04-15 |  |
+| [Candlestick Oasis](https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [Under the Leaden Sky](https://open.spotify.com/album/0f8gMNOxgUraGCPFeuWzFm) | 3:14 | 2022-04-15 | 2024-12-23 |
 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 | 2022-09-02 |  |
 | [care for u](https://open.spotify.com/track/5RC0Izi18K6pKl4SCWzJsP) | [brentiamy](https://open.spotify.com/artist/7ridZ25826ct0U9QYhJ7Ro) | [care for u](https://open.spotify.com/album/2A4ksT6j03uM0B1EHHRA4Y) | 1:54 | 2024-10-04 | 2024-11-28 |
 | [Carpo](https://open.spotify.com/track/7HTAqdN7u1e1KbFM9KdWK4) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Carpo](https://open.spotify.com/album/0PjCTfG71aDSibVzzseWmo) | 3:01 | 2022-05-20 | 2022-06-03 |
@@ -160,6 +160,7 @@
 | [Come Again](https://open.spotify.com/track/4dVXPyNrB1DAhhhdrJcGQL) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Come Again](https://open.spotify.com/album/5gMhVvHXKKFhPQXxurDB9T) | 2:12 | 2024-08-23 | 2024-11-17 |
 | [Come Fall](https://open.spotify.com/track/3mtGITybSAEVhFUkg2Bhuf) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [Come Fall](https://open.spotify.com/album/0p8YocXPwG0lSTbQs49rWG) | 1:54 | 2024-10-04 | 2024-12-07 |
 | [Come With A Sparkle](https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Come With A Sparkle](https://open.spotify.com/album/2JaHpJQdURjtYsziVDYvi2) | 1:44 | 2022-06-17 |  |
+| [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 | 2024-12-20 |  |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2022-04-15 | 2022-05-20 |
 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 | 2022-04-15 | 2022-07-01 |
 | [Constellations](https://open.spotify.com/track/5RFKFFRvfkD1dit5DB6bfW) | [Yinoluu](https://open.spotify.com/artist/4hxXN5tCtr28dBaKTsCYii) | [Constellations](https://open.spotify.com/album/5R9aCPjyp8MF2cZ5THlw2E) | 2:40 | 2022-10-28 | 2023-10-20 |

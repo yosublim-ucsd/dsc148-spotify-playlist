@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,021 songs - 4 day 12 hr 23 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,025 songs - 4 day 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2029,5 +2029,9 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2019 | [LOKERA](https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 |
 | 2020 | [CHAPA](https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [CHAPA](https://open.spotify.com/album/0dNtIStGkXFYTSdyfMxC2G) | 2:00 |
 | 2021 | [Dale 2](https://open.spotify.com/track/7eYg1DaZOkTUJbMpzTAfhl) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Dale 2](https://open.spotify.com/album/5XueSNnIcB4DBhZY81Epoj) | 2:28 |
+| 2022 | [Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Makes you wonder](https://open.spotify.com/album/0Url5K7FgdLHZfgf1eD8fM) | 3:08 |
+| 2023 | [As Long As](https://open.spotify.com/track/2ZtG5j7RXpCGBJOjXY2V6q) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:27 |
+| 2024 | [Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:01 |
+| 2025 | [Alice](https://open.spotify.com/track/7e4Jb6T2CVM8GoUBS1It1I) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Alice](https://open.spotify.com/album/2ngzamcbAFveP9OLRGUOry) | 2:05 |
 
-Snapshot ID: `AAADnJRBH09g5XAR1NcNFC+aCypNsj6n`
+Snapshot ID: `AAADo7D5iyMq4bmQW6AF0rUoV1eOl8ff`

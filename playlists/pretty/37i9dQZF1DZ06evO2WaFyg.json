@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 245946,
+  "num_followers": 246007,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAC70dNer96lqTJKXoTIUQYq",
+  "snapshot_id": "Z2YFAAAAAABbnNcAUMWXkhanLOD/5UfS",
   "tracks": [
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Jonesboro",
-      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Language",
         "url": "https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 201706,
       "name": "Chanel (Go Get It) [feat. Gunna & Lil Baby]",
       "url": "https://open.spotify.com/track/0kCBorRrKZkSztd9m0QI3r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Jonesboro",
+      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
     },
     {
       "added_at": null,

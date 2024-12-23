@@ -4,13 +4,14 @@
 
 > Escape with these melodic liquid drum & bass beats
 
-195 songs - 14 hr 12 min
+196 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [42](https://open.spotify.com/track/55elv8KNHcFEbLHPxkYBSe) | [Askel & Elere](https://open.spotify.com/artist/3ViPTsIhVM8tENOjWo4Xfo), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [42](https://open.spotify.com/album/4bP8pr3PLqNSHohVhOA7eE) | 4:11 | 2022-01-21 | 2022-07-18 |
 | [96'](https://open.spotify.com/track/1SpIjGdDI5ficOTrk8NIhH) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf) | [96’ / Deep Step](https://open.spotify.com/album/6ltbSHIpRAI7id2CR3sYRd) | 6:34 | 2022-01-21 | 2022-07-23 |
 | [A Good Time](https://open.spotify.com/track/45TT90guElVnPKJrDkxYS3) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [A Good Time](https://open.spotify.com/album/3mFAqz77A9Db3tHfJSljGm) | 2:29 | 2024-03-28 | 2024-05-22 |
+| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-11-14 |  |
 | [Affirmative Action](https://open.spotify.com/track/6Qn5NI1wZWXFor2yE9Icp4) | [Note](https://open.spotify.com/artist/7bceROJifNdPvRoSeRFQuI) | [Affirmative Action](https://open.spotify.com/album/7sQ9MlP9N8wvCei0UbnmZr) | 6:06 | 2022-06-14 | 2022-07-11 |
 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 | 2023-10-06 |  |
 | [Albion Road](https://open.spotify.com/track/2yotZbP75ZFz29DdhLZMyG) | [Submorphics](https://open.spotify.com/artist/1SztdYGnQZ9QWXdGAjKKAH), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Quarter to Quarter, Sampler 3](https://open.spotify.com/album/3nezuK8NgtBOias5UPIRxa) | 4:44 | 2022-01-21 | 2022-07-19 |
@@ -35,7 +36,7 @@
 | [Believe It](https://open.spotify.com/track/1jO5MOeIbsyhY9ZGlM3gWI) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Kubiks](https://open.spotify.com/artist/7aPOfpCiVKzhW7dCj16ODr), [Rebekah Fitch](https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6) | [The Evolution EP](https://open.spotify.com/album/01H4MU0LTIrXnABHv8iCy9) | 5:14 | 2022-06-14 | 2022-07-29 |
 | [Bell Tune](https://open.spotify.com/track/3HWC42lGGMkjII9evepQEL) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN) | [Bell Tune](https://open.spotify.com/album/0K0XuOqrJU1RtSXMDndov1) | 6:59 | 2022-06-14 | 2022-07-22 |
 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 | 2022-01-21 | 2023-09-15 |
-| [Bloomsbury](https://open.spotify.com/track/0iKXPLaJPnicbmrok1MkLG) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Bloomsbury](https://open.spotify.com/album/0CkkEvImWBgGUObR3wcVdA) | 4:30 | 2024-11-01 |  |
+| [Bloomsbury](https://open.spotify.com/track/0iKXPLaJPnicbmrok1MkLG) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Bloomsbury](https://open.spotify.com/album/0CkkEvImWBgGUObR3wcVdA) | 4:30 | 2024-11-01 | 2024-12-23 |
 | [Bold Courage](https://open.spotify.com/track/4GI3rZ9kWxD1h38r9cRz5l) | [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Bold Courage](https://open.spotify.com/album/4YsWa9b3mb4UdSmqEphUp5) | 4:03 | 2022-01-21 | 2022-06-03 |
 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 | 2024-05-16 |  |
 | [call me when it's over \- Dark Dhalia Remix](https://open.spotify.com/track/3eSsdUdz7IBN5k2ZRxS54t) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Dark Dhalia](https://open.spotify.com/artist/3oIYDwz9ylnIQ1jSg5373d) | [call me when it's over \(Dark Dhalia Remix\)](https://open.spotify.com/album/5Xa7gkLZnokZhbsTJbFciL) | 3:29 | 2024-03-28 | 2024-05-24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44703,
+  "num_followers": 44714,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAC2pQ0ZCWr3vaIm1/a15bLo",
+  "snapshot_id": "Z2YFAAAAAADvWTYq6Il7puzdenweOoqa",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ven a Cantar",
+        "url": "https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 261497,
+      "name": "Ven a Cantar",
+      "url": "https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Rey, Mi Santo",
         "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 223906,
       "name": "Color Esperanza / S\u00f3lo le Pido a Dios - Versi\u00f3n M\u00e9xico",
       "url": "https://open.spotify.com/track/6Z48v2xlf3H66cgxz6Rxg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ven a Cantar",
-        "url": "https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 261497,
-      "name": "Ven a Cantar",
-      "url": "https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Extra\u00f1arte Tanto",
-        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 233536,
-      "name": "Para No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompiendo Cadenas",
         "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 203546,
       "name": "Te Llevaste - Original mix",
       "url": "https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para No Extra\u00f1arte Tanto",
+        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 233536,
+      "name": "Para No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Olvido",
-        "url": "https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Al Olvido",
-      "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vozes",
         "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
       },
@@ -951,6 +935,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Yo Ya No Estoy",
+      "url": "https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Olvido",
+        "url": "https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Al Olvido",
+      "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Volver\u00e9",
         "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 192680,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Soy La Mujer",
-        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Yo Ya No Estoy",
-      "url": "https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm"
     },
     {
       "added_at": null,

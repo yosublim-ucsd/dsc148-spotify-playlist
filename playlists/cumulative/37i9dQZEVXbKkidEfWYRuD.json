@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -7134,7 +7134,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 87500,
       "name": "hermaeus mora",
       "url": "https://open.spotify.com/track/1hPQtiP5RYlYrS3t8AjrlK"
@@ -15698,7 +15698,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -15760,7 +15760,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -15800,7 +15800,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 167066,
       "name": "Take Me to the Beach (feat. Ado)",
       "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"
@@ -18812,7 +18812,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 190912,
       "name": "\u0411\u0430\u0440\u0430\u0431\u0430\u043d",
       "url": "https://open.spotify.com/track/2WeoEwj67HCAR2QULKnql6"
@@ -21842,7 +21842,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 169956,
       "name": "\u0414\u043e\u0434\u043e\u043c\u0443",
       "url": "https://open.spotify.com/track/6gtK39SLszESqJFu2SkId3"
@@ -22956,7 +22956,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 152000,
       "name": "\u0417\u0438\u043c\u0430 - \u0417 \u00ab\u041f\u043e\u0442\u044f\u0433 \u0443 31 \u0433\u0440\u0443\u0434\u043d\u044f\u00bb",
       "url": "https://open.spotify.com/track/58M5bYBbLxGpml3HpdsGH5"
@@ -29238,7 +29238,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 206181,
       "name": "\u0421\u041d\u0406\u0413",
       "url": "https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn"
@@ -31278,7 +31278,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 162794,
       "name": "\u0425\u0430\u0439 \u043f\u0438\u0448\u0443\u0442\u044c",
       "url": "https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN"
@@ -31726,7 +31726,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 156338,
       "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa"
@@ -33096,6 +33096,24 @@
       "duration_ms": 170518,
       "name": "\u042f\u043a?",
       "url": "https://open.spotify.com/track/4Q9qdvh9IfUuuvwUfMxbrG"
+    },
+    {
+      "album": {
+        "name": "\u042f\u043a\u0431\u0438 \u043d\u0435 \u0442\u0438",
+        "url": "https://open.spotify.com/album/2xr3sybUBcH1x90JAoo3uB"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0430\u043a\u0441\u0438\u043c \u0411\u043e\u0440\u043e\u0434\u0456\u043d",
+          "url": "https://open.spotify.com/artist/3b1ptNUGXbqu28JMv7YDBV"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168541,
+      "name": "\u042f\u043a\u0431\u0438 \u043d\u0435 \u0442\u0438",
+      "url": "https://open.spotify.com/track/3uDigmZFnHh4SOb4MizSOc"
     },
     {
       "album": {

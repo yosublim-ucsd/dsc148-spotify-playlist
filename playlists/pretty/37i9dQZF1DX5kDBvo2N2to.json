@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59153,
+  "num_followers": 59149,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 155616,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Headache",
-        "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 240826,
-      "name": "I'm So Sorry",
-      "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "I natt \u00e9 hela staden v\u00e5r",
         "url": "https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4"
       },
@@ -707,22 +691,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
-        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Fortfarande du",
-      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
       },
@@ -735,6 +703,38 @@
       "duration_ms": 231000,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Headache",
+        "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 240826,
+      "name": "I'm So Sorry",
+      "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
+        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Fortfarande du",
+      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Old Memories",
-        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Old Memories",
-      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "S\u00e4kra kort",
         "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Driver dagg faller regn",
-        "url": "https://open.spotify.com/album/79XqkwbMx2FEIrSb9keJ9N"
+        "name": "Old Memories",
+        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
       },
       "artists": [
         {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
         }
       ],
-      "duration_ms": 227666,
-      "name": "Driver dagg faller regn",
-      "url": "https://open.spotify.com/track/7sr9OAMBkVp90D17mgzkuN"
+      "duration_ms": 150857,
+      "name": "Old Memories",
+      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -903,6 +887,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Driver dagg faller regn",
+        "url": "https://open.spotify.com/album/79XqkwbMx2FEIrSb9keJ9N"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Driver dagg faller regn",
+      "url": "https://open.spotify.com/track/7sr9OAMBkVp90D17mgzkuN"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "Louise",
         "url": "https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 161600,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 179754,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -935,22 +951,6 @@
       "duration_ms": 223853,
       "name": "99 fel",
       "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 179754,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "APTIT",
-        "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        }
-      ],
-      "duration_ms": 168047,
-      "name": "APTIT",
-      "url": "https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Out of My Mind",
         "url": "https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 217294,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "APTIT",
+        "url": "https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 168047,
+      "name": "APTIT",
+      "url": "https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1195,38 +1195,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Ramlar jag s\u00e5 faller allt",
-        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
-      },
-      "artists": [
-        {
-          "name": "J1",
-          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
-        }
-      ],
-      "duration_ms": 149059,
-      "name": "Ramlar jag s\u00e5 faller allt",
-      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Dying Light",
-        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Buchaus",
-          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
-        }
-      ],
-      "duration_ms": 173694,
-      "name": "Dying Light",
-      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Can't Forget",
         "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 152470,
       "name": "Can't Forget",
       "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Dying Light",
+        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+        }
+      ],
+      "duration_ms": 173694,
+      "name": "Dying Light",
+      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Ramlar jag s\u00e5 faller allt",
+        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
+      },
+      "artists": [
+        {
+          "name": "J1",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "duration_ms": 149059,
+      "name": "Ramlar jag s\u00e5 faller allt",
+      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Gimme",
-        "url": "https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae"
-      },
-      "artists": [
-        {
-          "name": "Kim Cesarion",
-          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Gimme",
-      "url": "https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Ditt safeword ikv\u00e4ll?",
         "url": "https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Passa dig",
-        "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae"
       },
       "artists": [
         {
-          "name": "NOVELLEN",
-          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+          "name": "Kim Cesarion",
+          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
         }
       ],
-      "duration_ms": 148853,
-      "name": "Passa dig",
-      "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
+      "duration_ms": 184666,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1359,6 +1343,22 @@
       "duration_ms": 170083,
       "name": "Dansa runt problemen",
       "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Passa dig",
+        "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
+      },
+      "artists": [
+        {
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+        }
+      ],
+      "duration_ms": 148853,
+      "name": "Passa dig",
+      "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC"
-      },
-      "artists": [
-        {
-          "name": "Kissimjau",
-          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
-        }
-      ],
-      "duration_ms": 188176,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Vilken del av oss gick fel?",
         "url": "https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 178560,
       "name": "Katterna",
       "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC"
+      },
+      "artists": [
+        {
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
+        }
+      ],
+      "duration_ms": 188176,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I"
     }
   ],
   "unique_name": "p\u00e5 repeat",

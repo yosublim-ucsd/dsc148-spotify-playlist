@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae. Welcome To Jamrock Reggae Cruise. Cover: H.E.R & Lila Ike",
-  "num_followers": 1126807,
+  "num_followers": 1126827,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "That's Not True",
+      "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "A Thousand Times",
         "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
       },
@@ -195,22 +215,6 @@
       "duration_ms": 197183,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "The ExPerience",
-        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 243049,
-      "name": "Where I'm Coming From",
-      "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -235,42 +239,38 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 208893,
-      "name": "That's Not True",
-      "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
+      "duration_ms": 243049,
+      "name": "Where I'm Coming From",
+      "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
     },
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Ten Cane Row (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+        "name": "Waiting In Vain (Feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
       },
       "artists": [
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         },
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 209586,
-      "name": "Ten Cane Row (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+      "duration_ms": 243450,
+      "name": "Waiting In Vain (Feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -299,22 +299,22 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Waiting In Vain (Feat. Tiwa Savage)",
-        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 243450,
-      "name": "Waiting In Vain (Feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -351,6 +351,26 @@
       "duration_ms": 196801,
       "name": "Love That Don't Change",
       "url": "https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -399,26 +419,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "In Search Of Lost Time",
-        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "In Bloom (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Old Soul",
         "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
       },
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -475,22 +455,6 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Nice Up The Dance",
-        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 212795,
-      "name": "Nice Up The Dance",
-      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -531,18 +495,54 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Same So",
-        "url": "https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq"
+        "name": "In Search Of Lost Time",
+        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
       },
       "artists": [
         {
           "name": "Protoje",
           "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 208719,
-      "name": "Same So",
-      "url": "https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW"
+      "duration_ms": 227613,
+      "name": "In Bloom (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 198362,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 198362,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Blaze Away",
         "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 189750,
       "name": "Blaze Away",
       "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Same So",
+        "url": "https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 208719,
+      "name": "Same So",
+      "url": "https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "A Vibe (feat. Wiz Khalifa)",
-        "url": "https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 163853,
-      "name": "A Vibe (feat. Wiz Khalifa)",
-      "url": "https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Rose Petal",
         "url": "https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF"
       },
@@ -687,22 +667,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Perfectly With You",
         "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
       },
@@ -715,6 +679,22 @@
       "duration_ms": 212307,
       "name": "Perfectly With You",
       "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -775,6 +755,26 @@
       "duration_ms": 192284,
       "name": "Make Me Feel (feat. Rick Ross & Ari Lennox)",
       "url": "https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "A Vibe (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 163853,
+      "name": "A Vibe (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE"
-      },
-      "artists": [
-        {
-          "name": "Iotosh",
-          "url": "https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log"
-        }
-      ],
-      "duration_ms": 202701,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Undeniable (feat. Kaylan Arnold)",
         "url": "https://open.spotify.com/album/3n932rLi5cM8YNejLeCcf7"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 240488,
       "name": "Undeniable (feat. Kaylan Arnold)",
       "url": "https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE"
+      },
+      "artists": [
+        {
+          "name": "Iotosh",
+          "url": "https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log"
+        }
+      ],
+      "duration_ms": 202701,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
-        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
-      },
-      "artists": [
-        {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
-        }
-      ],
-      "duration_ms": 208860,
-      "name": "Woii",
-      "url": "https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Thankful (with Chronic Law)",
         "url": "https://open.spotify.com/album/5LM9OTMQ4ub6exdf9E8h23"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 253205,
       "name": "Helping Hand (with Anthony B)",
       "url": "https://open.spotify.com/track/6PjLeKjVLdN76GcBcDXn82"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
+        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "duration_ms": 208860,
+      "name": "Woii",
+      "url": "https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt"
     },
     {
       "added_at": "2024-06-18 11:27:57",

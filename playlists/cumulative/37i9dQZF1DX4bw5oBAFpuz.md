@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-500 songs - 1 day 4 hr 47 min
+501 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2024-03-26 |  |
 | [And So I Grow](https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [And So I Grow](https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy) | 3:38 | 2023-12-28 |  |
 | [Another Day](https://open.spotify.com/track/19fXG7QBtxMBEDM4zGfahj) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [For Life](https://open.spotify.com/album/4HeApjft3eRBID1XjF5QSs) | 3:52 | 2023-02-23 | 2023-04-26 |
-| [Another Day](https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Another Day](https://open.spotify.com/album/5IdiLQkgPHbTl5ukYAYhXg) | 2:48 | 2024-02-29 |  |
+| [Another Day](https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Another Day](https://open.spotify.com/album/5IdiLQkgPHbTl5ukYAYhXg) | 2:48 | 2024-02-29 | 2024-12-23 |
 | [Anxious](https://open.spotify.com/track/0bqwsQAkGaO0jzfzgI5iLV) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Anxious](https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0) | 2:56 | 2024-07-05 | 2024-08-30 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2024-09-27 |  |
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:23 | 2023-02-23 | 2024-04-19 |
@@ -33,6 +33,7 @@
 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 | 2024-03-26 |  |
 | [Babylon](https://open.spotify.com/track/0hltBiPrw06vWjtadBn6oe) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(2020 Remaster\)](https://open.spotify.com/album/65dV0TVZ9BEfudSPEt1hb6) | 4:25 | 2024-04-04 | 2024-04-19 |
 | [Babylon](https://open.spotify.com/track/1sEDn0QkcjWGVoti0Da4kA) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 4:25 | 2023-02-23 | 2024-04-04 |
+| [Babylon](https://open.spotify.com/track/5jLqVCGlKNYrLqCA1Qy4FV) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/0rK8K0z9sYhEhCW51v9jrp) | 4:25 | 2024-12-20 |  |
 | [Back In My World](https://open.spotify.com/track/4VjeyqdF8Mx7BohtWmrPle) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Walk With Me](https://open.spotify.com/album/4zPnQpmtgSOtPFil1oS1R8) | 3:13 | 2024-04-11 |  |
 | [Back In My World](https://open.spotify.com/track/0QGAHPPHhN2NI71g8KGCxm) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Walk With Me](https://open.spotify.com/album/7DRjeejtMRgpRLwGyZdC1y) | 3:14 | 2023-04-25 | 2024-03-20 |
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 35119,
+  "num_followers": 35183,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAACZvNW5osb8cJphA1vnmibi",
+  "snapshot_id": "Z2YFAAAAAAC0KzDHTDzUu6kSk0khj5l1",
   "tracks": [
     {
       "added_at": null,
@@ -398,15 +398,11 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 127971,
-      "name": "Paranoid (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/2l48XirhkqQ5qRqtwItNXn"
+      "duration_ms": 124567,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI"
     },
     {
       "added_at": null,
@@ -436,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 152368,
-      "name": "Swag Overload",
-      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
+      "duration_ms": 142287,
+      "name": "Freestyle 3",
+      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
     },
     {
       "added_at": null,
@@ -512,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 142287,
-      "name": "Freestyle 3",
-      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
+      "duration_ms": 152368,
+      "name": "Swag Overload",
+      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
     },
     {
       "added_at": null,

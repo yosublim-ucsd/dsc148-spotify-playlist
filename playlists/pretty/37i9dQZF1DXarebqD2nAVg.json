@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 454795,
+  "num_followers": 454801,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Cozy Nights",
+        "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
+      },
+      "artists": [
+        {
+          "name": "Weekly Bagel",
+          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
+        }
+      ],
+      "duration_ms": 123290,
+      "name": "Cozy Nights",
+      "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Watching Walls",
         "url": "https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 131432,
       "name": "Watching Walls",
       "url": "https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Cozy Nights",
-        "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
-      },
-      "artists": [
-        {
-          "name": "Weekly Bagel",
-          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
-        }
-      ],
-      "duration_ms": 123290,
-      "name": "Cozy Nights",
-      "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Snoozy Stardust",
+        "url": "https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG"
+      },
+      "artists": [
+        {
+          "name": "COSMOGLOW",
+          "url": "https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Snoozy Stardust",
+      "url": "https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Under The Tree",
         "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Snoozy Stardust",
-        "url": "https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG"
-      },
-      "artists": [
-        {
-          "name": "COSMOGLOW",
-          "url": "https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Snoozy Stardust",
-      "url": "https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Free Trees",
         "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Slow Drive",
-        "url": "https://open.spotify.com/album/0W0nfFZYXahtnhO8I3LL9i"
-      },
-      "artists": [
-        {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Slow Drive",
-      "url": "https://open.spotify.com/track/0gUiGhcwij43cJ3WMTIKwy"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 163533,
       "name": "Now, I See",
       "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Slow Drive",
+        "url": "https://open.spotify.com/album/0W0nfFZYXahtnhO8I3LL9i"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Slow Drive",
+      "url": "https://open.spotify.com/track/0gUiGhcwij43cJ3WMTIKwy"
     },
     {
       "added_at": "2024-09-03 08:14:22",

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 22 Dec 23:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 22 Dec 19:02 UTC.
 
-3,852 songs - 8 day 21 hr 45 min
+3,855 songs - 8 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Dracula](https://open.spotify.com/track/2tZZ6EMNOcGENdDSSuMz8E) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Dracula](https://open.spotify.com/album/1Zhhe61XufZxrVclgSPs93) | 2:29 | 2024-06-19 | 2024-06-21 |
 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 | 2024-08-23 | 2024-08-29 |
 | [drained to my core](https://open.spotify.com/track/57nD3VBKdideEPqDEcWLbP) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [drained to my core](https://open.spotify.com/album/2zE8ZUNDuyUrffMSm1o9gl) | 2:30 | 2024-06-13 | 2024-06-15 |
+| [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2024-12-22 |  |
 | [Drank](https://open.spotify.com/track/1ssylCrMLzIlvMfvPGSPF6) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Drank](https://open.spotify.com/album/4wkCxaE8lrxwpEW7sdsSnh) | 3:47 | 2024-12-19 | 2024-12-21 |
 | [Draw Energy](https://open.spotify.com/track/7vkN0Cne2GwDQtlnVgeQcA) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Draw Energy](https://open.spotify.com/album/2LBnmzCPyp1ZFFSLXzb3EY) | 3:11 | 2024-05-11 | 2024-05-15 |
 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-09 | 2024-08-14 |
@@ -1658,6 +1659,7 @@
 | [Icey Soles](https://open.spotify.com/track/3FRbT1r5Sbk0EGHpJq3hDv) | [smokedope2016](https://open.spotify.com/artist/3hGJ4nHdF99Vs0gQdXz5Nw) | [Icey Soles](https://open.spotify.com/album/3FSgCX5sW5wyCNLorNSsxK) | 3:18 | 2024-11-29 | 2024-12-04 |
 | [Ich bitte dich](https://open.spotify.com/track/26PoPLMdZDk5Qv8CSpPDOM) | [Tommyn](https://open.spotify.com/artist/4bKMWpArwutcuzKitMc4ug) | [Ich bitte dich](https://open.spotify.com/album/6JD7Lh1dUbKBYF7hi8tnxm) | 1:42 | 2024-08-09 | 2024-08-11 |
 | [ICKLISTE](https://open.spotify.com/track/0rvwFSVY977DCmZ7iBMIgp) | [Nuttykid](https://open.spotify.com/artist/7Kg5j7exGyYW3o66jmKaNt), [JATSKi](https://open.spotify.com/artist/5YYk9ZLsryk326PxGYIiM5), [MORTYYY](https://open.spotify.com/artist/18j2XT5CRFuBye1Y3aeGSt) | [ICKLISTE](https://open.spotify.com/album/0G2O0U9dth8MLDITAhwNWC) | 2:50 | 2024-12-19 | 2024-12-21 |
+| [ICKY](https://open.spotify.com/track/6pSu31TOKgjDceSskEW4jf) | [2shanez](https://open.spotify.com/artist/3WJh6tiFV4GzcwBPrjsH2v) | [ICKY](https://open.spotify.com/album/4CboKUWt3SCC6iKsDWyDI8) | 1:36 | 2024-12-22 |  |
 | [ICU](https://open.spotify.com/track/1BRrN8tci0gQLduXQUDpgm) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [ICU](https://open.spotify.com/album/63Ay2YI0iwLHXGl9agUApI) | 3:07 | 2024-08-29 | 2024-08-31 |
 | [ICU FREESTYLE](https://open.spotify.com/track/0EukcHRuiwUh95jkxhvf6Y) | [Joey Trap](https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce) | [ICU FREESTYLE](https://open.spotify.com/album/6XIgYOUGlrUZl0T0j2GNId) | 1:31 | 2024-08-23 | 2024-08-28 |
 | [Icy Freestyle](https://open.spotify.com/track/2O6iNaxDFrBUkNsfjJiudo) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Icy Freestyle](https://open.spotify.com/album/7q67YleWwFts2DJ23VHXEb) | 1:41 | 2024-07-05 | 2024-07-10 |
@@ -2231,7 +2233,7 @@
 | [Mysteries Of The Cleft](https://open.spotify.com/track/11Ce24FRsU2guTeQDS8v2V) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [Mysteries Of The Cleft](https://open.spotify.com/album/5be5lSO2CznUWfnBe5f6fm) | 10:12 | 2024-07-24 | 2024-07-27 |
 | [Mysterio](https://open.spotify.com/track/5kl37vb9Mks4gDh0Q7Nl1n) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Mysterio](https://open.spotify.com/album/25nNAzfoKNZ8jnw9cXzkZe) | 2:01 | 2024-06-26 | 2024-06-28 |
 | [Mystery Of Love](https://open.spotify.com/track/5CuWULrznCaEQn6AIWszFB) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Mystery Of Love](https://open.spotify.com/album/2t3fofrXdoBzWxG250eSDb) | 6:13 | 2024-08-28 | 2024-08-31 |
-| [Myth](https://open.spotify.com/track/7gejQy4gJderBxIGMjx4dw) | [acloudyskye](https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR) | [Myth](https://open.spotify.com/album/3687gTmSo080xPk0968omL) | 4:01 | 2024-12-20 |  |
+| [Myth](https://open.spotify.com/track/7gejQy4gJderBxIGMjx4dw) | [acloudyskye](https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR) | [Myth](https://open.spotify.com/album/3687gTmSo080xPk0968omL) | 4:01 | 2024-12-20 | 2024-12-23 |
 | [na bombę](https://open.spotify.com/track/1oMOYIGc9IOJ6N8DqxwkRN) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [na bombę](https://open.spotify.com/album/2IgQ47b8DZ9gNemDk1ON7o) | 3:05 | 2024-07-11 | 2024-07-13 |
 | [NA WIEKI](https://open.spotify.com/track/5I2v4NCXfzHE3aM2ahHyA1) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [NA WIEKI](https://open.spotify.com/album/6OpOhM5DtQp6EwasYe6zOR) | 2:34 | 2024-05-08 | 2024-05-11 |
 | [NA ZAWSZE MAŁOLAT](https://open.spotify.com/track/4qWa361K5izYLjYh1HQNQC) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [NA ZAWSZE MAŁOLAT](https://open.spotify.com/album/6VnPaOgkHDpKeLg4SCnX5r) | 2:54 | 2024-05-14 | 2024-05-16 |
@@ -2347,6 +2349,7 @@
 | [Not You](https://open.spotify.com/track/7tmVdRsFuKhJJ9cNgOUAdY) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Not You](https://open.spotify.com/album/14B3wqQbe2YsbCn43EDI44) | 2:43 | 2024-10-04 | 2024-10-10 |
 | [Not Your Angel](https://open.spotify.com/track/6mZm8UsXesXTWZNPF3QKxq) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Not Your Angel](https://open.spotify.com/album/3tmyrJbOloJPuuvtvIh51X) | 2:59 | 2024-06-11 | 2024-06-13 |
 | [not your cherry](https://open.spotify.com/track/6b1NQHfoth2oU8QF8CGjrk) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [not your cherry](https://open.spotify.com/album/6O3K7cjvA2YwLMyA1awAMf) | 3:21 | 2024-07-11 | 2024-07-13 |
+| [not/lost](https://open.spotify.com/track/5EVqaXDACZZPYPbNwZOJA8) | [Temachii](https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ) | [not/lost](https://open.spotify.com/album/7eDpQTdGkiJkWlE6XpoFPP) | 3:06 | 2024-12-22 |  |
 | [Note To Self](https://open.spotify.com/track/47SV283bRGDz95w4G9UErl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Note To Self](https://open.spotify.com/album/7GFk4CqSsmdLSXUqMt7qeo) | 3:15 | 2024-08-27 | 2024-08-30 |
 | [nothing like uuu](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [nothing like uuu](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 | 2024-04-29 | 2024-05-01 |
 | [Nothing Would Change](https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nothing Would Change](https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH) | 3:23 | 2024-10-07 | 2024-10-11 |
@@ -2911,7 +2914,7 @@
 | [Simple And Clean \(Re\-Recording\)](https://open.spotify.com/track/5obU0c9t9qIfz9HYbcvsha) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Simple And Clean \(Re\-Recording\)](https://open.spotify.com/album/5ldAOZT0g81QqnZZnK135e) | 4:35 | 2024-05-22 | 2024-05-24 |
 | [Simple Days](https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Simple Days](https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8) | 2:05 | 2024-10-22 | 2024-10-26 |
 | [Sindable](https://open.spotify.com/track/22RV3cqvNu7haUUTOJB58G) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Sindable](https://open.spotify.com/album/4PCQR8kZXCz4yuPBlFDXL5) | 1:58 | 2024-05-26 | 2024-06-01 |
-| [SINISTER](https://open.spotify.com/track/3oksXmx6vxV1wylEUNfFXq) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [SINISTER](https://open.spotify.com/album/6DBzStWDgZq3zPA96VL2BV) | 5:21 | 2024-12-20 |  |
+| [SINISTER](https://open.spotify.com/track/3oksXmx6vxV1wylEUNfFXq) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [SINISTER](https://open.spotify.com/album/6DBzStWDgZq3zPA96VL2BV) | 5:21 | 2024-12-20 | 2024-12-23 |
 | [SINK 162 \[MOONLIGHT\]](https://open.spotify.com/track/7fcCKHc96Tig92KkefecqM) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [SINK 162 \[MOONLIGHT\]](https://open.spotify.com/album/1R72AfnhhQIeZaMGBr18Aa) | 3:16 | 2024-12-11 | 2024-12-14 |
 | [Sink Deeper In](https://open.spotify.com/track/7j7enafqCLx75tvE8kEH0C) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU), [DHeusta](https://open.spotify.com/artist/1dYLcY8kRTQ2l2Gsvq96MY) | [Sink Deeper In](https://open.spotify.com/album/4wz6bIjgERtEbJG96lPLRK) | 3:57 | 2024-10-10 | 2024-10-12 |
 | [SINKER](https://open.spotify.com/track/4YNTytjcMLm61O3SkxMPJl) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [SINKER](https://open.spotify.com/album/0DMLgcwiOQLlwd9jIfynWU) | 3:00 | 2024-07-17 | 2024-07-19 |
@@ -3187,7 +3190,7 @@
 | [talking shit](https://open.spotify.com/track/3tMinsuWzmu5PlLa7CWhFC) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [talking shit](https://open.spotify.com/album/4P1uSRHlvwn9VZmMaWWqzi) | 3:03 | 2024-10-10 | 2024-10-12 |
 | [Talking To The Sun](https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Talking To The Sun](https://open.spotify.com/album/0l6STd2uyi9qYltrbI94Vt) | 1:19 | 2024-05-10 | 2024-05-12 |
 | [Talking To You](https://open.spotify.com/track/5WZHI2EK0DujaHLYrtgH4Q) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Talking To You](https://open.spotify.com/album/3NCclrXBr6Zh4KM8wCdz1A) | 3:07 | 2024-05-08 | 2024-05-11 |
-| [Tanaru' Titan](https://open.spotify.com/track/7f82Wd8IiWdPP7gFUt8fGR) | [Solomon](https://open.spotify.com/artist/048TiI4LaWTTm11sApKliK) | [Tanaru' Titan](https://open.spotify.com/album/7prNhd89Zt71i1PQpC1N4z) | 2:35 | 2024-12-20 |  |
+| [Tanaru' Titan](https://open.spotify.com/track/7f82Wd8IiWdPP7gFUt8fGR) | [Solomon](https://open.spotify.com/artist/048TiI4LaWTTm11sApKliK) | [Tanaru' Titan](https://open.spotify.com/album/7prNhd89Zt71i1PQpC1N4z) | 2:35 | 2024-12-20 | 2024-12-23 |
 | [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 | 2024-11-08 | 2024-11-26 |
 | [TANTRUM](https://open.spotify.com/track/3lAwtVPdYYw3tFtXTzTiAE) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TANTRUM](https://open.spotify.com/album/1ajUeF2vDMiRWRc8F0vZQ9) | 3:04 | 2024-12-13 | 2024-12-20 |
 | [TAPESTRY \[HIJAZ\]](https://open.spotify.com/track/2AKqdeBcqsBxn2mEoH9PId) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [TAPESTRY \[HIJAZ\]](https://open.spotify.com/album/5I4SjgDun5aNtwRu2YN4px) | 4:09 | 2024-06-06 | 2024-06-08 |

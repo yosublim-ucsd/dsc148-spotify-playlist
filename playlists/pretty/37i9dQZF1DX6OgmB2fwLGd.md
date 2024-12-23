@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Nettspend\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,385,329 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,249 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 57 | [TORE UP](https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:06 |
 | 58 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
 | 59 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 |
-| 60 | [finsta \(sexy liar\)](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 |
+| 60 | [finsta](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 |
 | 61 | [Magic Johnson](https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q) | 2:17 |
 | 62 | [Fuck All The Opps](https://open.spotify.com/track/1dAuSAE5eL94xV0aIyPCr3) | [J4That0oter](https://open.spotify.com/artist/332UeMBqYqEtYyulhnrrvM), [PFA Leek](https://open.spotify.com/artist/1vxOOb598YZp1CLdXQIgK1), [Rivtwer AJ](https://open.spotify.com/artist/2OPTLyeXOIvn3pBWBK7PlC) | [Fuck All The Opps](https://open.spotify.com/album/0iqfb9xXvn2Cso7ink6ZBl) | 3:20 |
 | 63 | [cLick \(with STAR BANDZ\)](https://open.spotify.com/track/7mefGjEVVKjAM7kkjnmIU0) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [cLick \(with STAR BANDZ\)](https://open.spotify.com/album/3wAYmVJa0xce3hPspthdIV) | 2:43 |

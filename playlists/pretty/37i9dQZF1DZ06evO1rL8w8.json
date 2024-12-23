@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 216146,
+  "num_followers": 216195,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAAmgTHGDte3xSGpPvRjFmQy",
+  "snapshot_id": "Z2YFAAAAAAAvPDHiWWiy6VbKDjq8+wpv",
   "tracks": [
     {
       "added_at": null,
@@ -835,38 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Golden Boy",
-        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "El Golden Boy",
-      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Spider",
-        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 180589,
-      "name": "El Spider",
-      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
         "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
       },
@@ -899,6 +867,38 @@
       "duration_ms": 180436,
       "name": "Le Pas\u00e9 a la Plebe",
       "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Golden Boy",
+        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "El Golden Boy",
+      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Spider",
+        "url": "https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 180589,
+      "name": "El Spider",
+      "url": "https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f"
     },
     {
       "added_at": null,

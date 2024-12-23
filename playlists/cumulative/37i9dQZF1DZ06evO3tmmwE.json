@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Purple Files [Screwed Version]",
+        "url": "https://open.spotify.com/album/7LSXnSH9Wxob3yvooKRlc7"
+      },
+      "artists": [
+        {
+          "name": "HOODLUM",
+          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128782,
+      "name": "Made a 10 When I Woke Up [screwed version]",
+      "url": "https://open.spotify.com/track/6rap5jqI6kXreSfRrRUdT8"
+    },
+    {
+      "album": {
         "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
         "url": "https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI"
       },

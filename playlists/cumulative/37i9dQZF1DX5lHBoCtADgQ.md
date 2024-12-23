@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
-100 songs - 6 hr 12 min
+101 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Heer](https://open.spotify.com/track/4tNVxB3MDGlFupF1cWmfh0) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Big Band Theory Season2](https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb) | 4:07 | 2023-03-10 | 2023-10-18 |
 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 | 2021-11-03 |  |
 | [Jind Mahi](https://open.spotify.com/track/2NVJHduFkMaNNqhj3kmxWX) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Jind Mahi](https://open.spotify.com/album/4bemzLUnC5A2PDMyBroFY2) | 2:32 | 2024-10-23 | 2024-12-10 |
-| [Jugni](https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Jugni](https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e) | 5:01 | 2022-03-03 |  |
+| [Jugni](https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Jugni](https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e) | 5:01 | 2022-03-03 | 2024-12-23 |
 | [Jutti Kasuri](https://open.spotify.com/track/6FYMT994PoloaFGnSIXLMG) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5) | [Jutti Kasuri](https://open.spotify.com/album/6Be19hOUDqXvOqGWtzCqXd) | 3:26 | 2022-07-16 | 2023-10-11 |
 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 | 2021-11-03 |  |
 | [Jutti Meri \(Live\)](https://open.spotify.com/track/4RXpYrUS1ARaN3euvGHpTj) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\) \- Single](https://open.spotify.com/album/1T18aurspe5ouDMzg9Xaas) | 3:28 | 2021-11-03 |  |
@@ -88,6 +88,7 @@
 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 | 2024-11-08 |  |
 | [Mombattiye \- Folk Recreation](https://open.spotify.com/track/7CAKJJmeiQsupcz8pTQjtx) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY), [Pam Sengh](https://open.spotify.com/artist/5LSheYLF7ZnIulhPQ5aEgx) | [Mombattiye \(Folk Recreation\)](https://open.spotify.com/album/71Q135Dh7bT8eNXVz2VQYM) | 3:25 | 2021-11-03 |  |
 | [Munda Sakhiyo Ni](https://open.spotify.com/track/09Gy3xqh13lw2UoiGQTI9s) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Munda Sakhiyo Ni](https://open.spotify.com/album/4NbRfMn3VX7Xj4nZq9RPgU) | 3:17 | 2021-11-03 |  |
+| [NAI LABHNI \| Folk & Rock](https://open.spotify.com/track/28DxA6GtbLXBj8FsEdVWTU) | [Nitika Singh](https://open.spotify.com/artist/5N3uKvdQ6vyVeKWZv9Bgmk) | [NAI LABHNI \| Folk & Rock](https://open.spotify.com/album/7pwMEDa5LX3PZSLYujG5aE) | 3:12 | 2024-12-22 |  |
 | [Paranda](https://open.spotify.com/track/2xJXOMdulvKC5NFoF0kHZ4) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 3:17 | 2024-11-08 | 2024-12-10 |
 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 | 2021-11-03 |  |
 | [Pinda Vichon Pind \- Folk Recreation](https://open.spotify.com/track/1jEzFM4KUY7Zi2X7taKiZ8) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY) | [Pinda Vichon Pind \(Folk Recreation\)](https://open.spotify.com/album/5yFJPxffYbmIqmSdybpk1A) | 2:17 | 2021-11-03 | 2023-10-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Samura\u00ef & Leo Rizzi",
-  "num_followers": 298260,
+  "num_followers": 298256,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
         "name": "El ataque de las chicas cocodrilo",
         "url": "https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 157833,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -411,6 +411,26 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
+        "name": "Algo Me Dice",
+        "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 257008,
+      "name": "Algo Me Dice",
+      "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
-        "name": "Algo Me Dice",
-        "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 257008,
-      "name": "Algo Me Dice",
-      "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
         "name": "S\u00faper Terror",
         "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 205719,
       "name": "Moderato",
       "url": "https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 184771,
-      "name": "Qu\u00e9 M\u00e1s Quieres",
-      "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 231066,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 184771,
+      "name": "Qu\u00e9 M\u00e1s Quieres",
+      "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "Hombre Roto",
-        "url": "https://open.spotify.com/album/3nPFVNL38CvmoGCWw5fi8x"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Hombre Roto",
-      "url": "https://open.spotify.com/track/11skx4w5NOnkrUk2CYTYiM"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
         "name": "Himno (para los que est\u00e1n jodidos)",
         "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 185790,
       "name": "Himno (para los que est\u00e1n jodidos)",
       "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
+        "name": "Hombre Roto",
+        "url": "https://open.spotify.com/album/3nPFVNL38CvmoGCWw5fi8x"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Hombre Roto",
+      "url": "https://open.spotify.com/track/11skx4w5NOnkrUk2CYTYiM"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 216184,
-      "name": "La Trampa",
-      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
         "name": "Ni Siquiera De Ti",
         "url": "https://open.spotify.com/album/1Z3vgN2BrKb4GEXnXgqYar"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 216184,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
         "name": "Echao\u2019 a perder",
         "url": "https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 168375,
       "name": "Echao\u2019 a perder",
       "url": "https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -1279,6 +1263,22 @@
       "duration_ms": 234115,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2024-11-22 04:55:21",

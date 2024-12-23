@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,632 likes - 67 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,622 likes - 67 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

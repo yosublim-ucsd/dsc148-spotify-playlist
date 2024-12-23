@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Fazerdaze.
 
-1,779 songs - 4 day 0 hr 34 min
+1,780 songs - 4 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1163,7 +1163,7 @@
 | [Potent](https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Memory Springs](https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN) | 2:07 | 2023-04-17 | 2023-11-11 |
 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 | 2023-10-13 | 2024-04-19 |
 | [PPT \(Patita Pa Tra\)](https://open.spotify.com/track/4LLPvnckbEITdIaF2hc28W) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [PPT \(Patita Pa Tra\)](https://open.spotify.com/album/7cjIuMyS3K0HwvdWSzOWZg) | 2:45 | 2022-03-24 | 2022-04-20 |
-| [Prayer](https://open.spotify.com/track/0XWGCBspGhV4sbVmWstSkF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [About Ä Boy](https://open.spotify.com/album/3VzL7inCTsW6xkk8CmjzUD) | 3:02 | 2024-10-11 |  |
+| [Prayer](https://open.spotify.com/track/0XWGCBspGhV4sbVmWstSkF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [About Ä Boy](https://open.spotify.com/album/3VzL7inCTsW6xkk8CmjzUD) | 3:02 | 2024-10-11 | 2024-12-23 |
 | [Predator](https://open.spotify.com/track/50einjgl3ERzlcGJPT5mWM) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Predator](https://open.spotify.com/album/2kAKa8z3EuCnkadmNXeewO) | 3:01 | 2024-07-26 |  |
 | [Press On Me](https://open.spotify.com/track/1sUqXRbX4USlqa5zUGPV8J) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [& Stone Between](https://open.spotify.com/album/1E50RSNgyM9yXSt1SUOEA5) | 2:54 | 2024-08-23 | 2024-09-01 |
 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-03 | 2023-10-06 |
@@ -1726,6 +1726,7 @@
 | [我的愛人 \- 原創影集《火神的眼淚》插曲](https://open.spotify.com/track/5yB8pbwyi8eNuJWs50nkEH) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [我的愛人 \(原創影集《火神的眼淚》插曲\)](https://open.spotify.com/album/6Jy8AwFKc37C3EJrFD9evH) | 3:50 | 2022-03-21 | 2022-11-19 |
 | [戰](https://open.spotify.com/track/0rV6J7qM31GxU9p4Mf7gBd) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [戰](https://open.spotify.com/album/2pwg7cIxiYOc2M5lBoCEAq) | 2:40 | 2022-03-24 | 2022-06-19 |
 | [指針](https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [指針](https://open.spotify.com/album/199fdqkmbpLutKUAshUUdQ) | 2:14 | 2024-04-19 | 2024-08-31 |
+| [日落擁抱](https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [日落擁抱](https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp) | 3:16 | 2024-12-20 |  |
 | [時間](https://open.spotify.com/track/1tFVSjwr5MNVvvb9W1Yk0u) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [甲洨斯丁](https://open.spotify.com/album/0JPLuTkTSLHLqIzyPSGFeK) | 3:20 | 2022-09-08 | 2023-05-31 |
 | [時間計](https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [時間計](https://open.spotify.com/album/2jvVEaHcTs3q3F3WA77RZT) | 3:27 | 2023-01-20 | 2023-10-06 |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2024-01-12 | 2024-02-03 |

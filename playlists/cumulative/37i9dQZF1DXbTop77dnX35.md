@@ -4,7 +4,7 @@
 
 > New Music from Burna Boy and more
 
-1,521 songs - 3 day 3 hr 7 min
+1,521 songs - 3 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -986,7 +986,7 @@
 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-20 |  |
 | [Okparaji](https://open.spotify.com/track/7px4SA0BxMTaTSz6Mpxpxa) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [BOYAHNAH II \(Untold Stories\)](https://open.spotify.com/album/2PIlja96GttnquJXBzPlts) | 2:32 | 2024-06-14 | 2024-06-21 |
 | [ola](https://open.spotify.com/track/5mNH1CF2WGEkk0VMtKhEBr) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp) | [ola](https://open.spotify.com/album/3DFmnbSqOmPt6P3VhsyGf9) | 3:07 | 2024-10-18 | 2024-10-25 |
-| [Old Flame](https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Old Flame](https://open.spotify.com/album/3turvCSKi4z5OtNiYRQeor) | 2:30 | 2024-12-20 |  |
+| [Old Flame](https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Old Flame](https://open.spotify.com/album/3turvCSKi4z5OtNiYRQeor) | 3:02 | 2024-12-20 |  |
 | [Old Love](https://open.spotify.com/track/2Iuesyg6djj7hFSAHqJetN) | [KiKi Celine](https://open.spotify.com/artist/6GycTxlHdz7GvNJrl9JyWs) | [Old Love](https://open.spotify.com/album/5wfMhYYwZXVEwK6hdvZGH7) | 2:21 | 2024-06-21 | 2024-06-28 |
 | [Old Soldier](https://open.spotify.com/track/0cREe4pQv35ekBuzzldv0u) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Old Soldier](https://open.spotify.com/album/6a9wNETrwdsuuU1DFhQyA3) | 2:36 | 2024-12-13 | 2024-12-20 |
 | [Ole](https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Ole](https://open.spotify.com/album/0rQjFXsqyI6eD0I6p3idA0) | 2:44 | 2024-08-30 | 2024-09-06 |

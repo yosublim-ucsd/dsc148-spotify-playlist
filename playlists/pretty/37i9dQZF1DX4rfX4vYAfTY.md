@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rfX4vYAfTY.md) - [plain]
 
 > Feel the excitement of the scene again by listening to the setlist of the concert! \(공연 셋리스트를 들으며 현장의 열기를 다시 느껴보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 20 songs - 54 min 54 sec
+[Spotify](https://open.spotify.com/user/spotify) - 318 likes - 20 songs - 54 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

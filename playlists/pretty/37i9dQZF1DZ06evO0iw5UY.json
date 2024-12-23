@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27590,
+  "num_followers": 27591,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAAFM35O/+29ngPyqMxhxa5R",
+  "snapshot_id": "Z2YFAAAAAABvfEd5w5pTMr6DhKeZE6da",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2ZklcEqT1pZUX0hTNFNVOa"
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
       },
       "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/49mrGrTON4QYZri9gEHSFl"
+      "duration_ms": 198822,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
     },
     {
       "added_at": null,
@@ -559,18 +551,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2ZklcEqT1pZUX0hTNFNVOa"
       },
       "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 198822,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/7K0pKyU2oYG8TJHXXyEHGy"
+      "duration_ms": 204800,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/49mrGrTON4QYZri9gEHSFl"
     },
     {
       "added_at": null,

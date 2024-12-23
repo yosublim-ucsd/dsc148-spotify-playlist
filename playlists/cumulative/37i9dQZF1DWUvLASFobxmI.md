@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, El Frizian en portada.
 
-631 songs - 1 day 9 hr 27 min
+632 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [DIOS POR DELANTE](https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [DIOS POR DELANTE](https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu) | 3:34 | 2024-01-15 |  |
 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 | 2023-01-20 |  |
 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 | 2022-08-29 | 2022-10-01 |
-| [Dos Gotas De Agua](https://open.spotify.com/track/1pe7wAnofprofQKmeJsWDJ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:24 | 2024-12-20 |  |
+| [Dos Gotas De Agua](https://open.spotify.com/track/1pe7wAnofprofQKmeJsWDJ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:24 | 2024-12-20 | 2024-12-23 |
 | [Déjenme Llorar](https://open.spotify.com/track/6GNWTIGfKITLl53XVAla4T) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Hay Niveles](https://open.spotify.com/album/3SOo2bCUBOjlMiSFK94iAn) | 3:14 | 2022-12-02 | 2022-12-10 |
 | [El 10 de Mayo \(En Vivo\)](https://open.spotify.com/track/3WEHES0IGtpjcVnC60V24X) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm) | [El Mes de Mayo \(En Vivo\)](https://open.spotify.com/album/2ljSb2GM16NRwiUGc2MKFj) | 2:33 | 2024-05-24 | 2024-06-29 |
 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 | 2022-04-15 | 2024-10-26 |
@@ -582,6 +582,7 @@
 | [Toda La Razon](https://open.spotify.com/track/2eyuw2LUGQwOMUScPDsG4B) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Toda La Razon](https://open.spotify.com/album/5W9AqAqPN4tWayS7d52gW0) | 2:51 | 2024-02-09 | 2024-03-02 |
 | [Todavía No Sabe \- Radio](https://open.spotify.com/track/3alt3dQHiothn0qCSZf5cJ) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Todavía No Sabe](https://open.spotify.com/album/3gjijAYfP7Bqm150XRK4WP) | 3:29 | 2022-07-01 | 2022-07-29 |
 | [Tomo](https://open.spotify.com/track/4xpLWotpWGEUW5sl0fdFoR) | [Manuel Reza](https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl) | [Tomo](https://open.spotify.com/album/5scIE5k2NdR6fms8efBleI) | 2:39 | 2024-05-24 | 2024-06-29 |
+| [Top Secret](https://open.spotify.com/track/5zEgzeDbZn3onOn20ZcZD1) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Top Secret](https://open.spotify.com/album/7GAbSFIsqApvFz1wC23KsT) | 2:56 | 2024-12-20 |  |
 | [Traigo Un Equipón](https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Traigo Un Equipón](https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5) | 2:43 | 2023-01-27 | 2023-02-25 |
 | [Tres por Una](https://open.spotify.com/track/7GsPAZvWCjkyI32tMonO2q) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV), [Salomón Robles Y Sus Legendarios](https://open.spotify.com/artist/24ZxliaPEOn2Ya3tfRD4w8) | [Tres por Una](https://open.spotify.com/album/0ZPBFeDd444E4c2K9R6iEu) | 3:29 | 2023-02-24 | 2023-03-09 |
 | [Tres Veces Te Engañé \- En Vivo](https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tres Veces Te Engañé \(En Vivo\)](https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa) | 4:16 | 2023-08-11 | 2024-03-23 |

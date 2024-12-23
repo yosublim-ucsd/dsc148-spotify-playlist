@@ -1,12 +1,12 @@
 {
   "description": "Timeless heart-warming classics from 1940- 1970 for the holiday season.",
-  "num_followers": 3460422,
+  "num_followers": 3465137,
   "original_name": "Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SMGAAAAADYq++Vn5C6IIi/OF6A/NhT",
+  "snapshot_id": "Z2gyBQAAAACjgdpItSdua3jmdQddFrsR",
   "tracks": [
     {
       "added_at": "2024-10-17 19:34:23",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-10-17 19:34:23",
       "album": {
+        "name": "A Christmas Gift For You From Phil Spector",
+        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
+    },
+    {
+      "added_at": "2024-10-17 19:34:23",
+      "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
       },
@@ -91,18 +107,50 @@
     {
       "added_at": "2024-10-17 19:34:23",
       "album": {
-        "name": "A Christmas Gift For You From Phil Spector",
-        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
       "artists": [
         {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 181266,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2024-10-17 19:34:23",
+      "album": {
+        "name": "Rockin' Little Christmas",
+        "url": "https://open.spotify.com/album/5hZivEHAxRLhYfsaNdPzkU"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/30WHma5z5Sty54jbtoxYEy"
+    },
+    {
+      "added_at": "2024-10-17 19:34:23",
+      "album": {
+        "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
+        "url": "https://open.spotify.com/album/0nuyFYoBsK4Z1j3DimhUZ4"
+      },
+      "artists": [
+        {
+          "name": "Gayla Peevey",
+          "url": "https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
+      "url": "https://open.spotify.com/track/5P8Xvy5tzhmfyfA6GplQ8h"
     },
     {
       "added_at": "2024-10-17 19:34:23",
@@ -143,38 +191,6 @@
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
-    },
-    {
-      "added_at": "2024-10-17 19:34:23",
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "added_at": "2024-10-17 19:34:23",
-      "album": {
-        "name": "Rockin' Little Christmas",
-        "url": "https://open.spotify.com/album/5hZivEHAxRLhYfsaNdPzkU"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/30WHma5z5Sty54jbtoxYEy"
     },
     {
       "added_at": "2024-10-17 19:34:23",
@@ -295,22 +311,6 @@
       "duration_ms": 163093,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
-    },
-    {
-      "added_at": "2024-10-17 19:34:23",
-      "album": {
-        "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
-        "url": "https://open.spotify.com/album/0nuyFYoBsK4Z1j3DimhUZ4"
-      },
-      "artists": [
-        {
-          "name": "Gayla Peevey",
-          "url": "https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
-      "url": "https://open.spotify.com/track/5P8Xvy5tzhmfyfA6GplQ8h"
     },
     {
       "added_at": "2024-10-17 19:34:23",

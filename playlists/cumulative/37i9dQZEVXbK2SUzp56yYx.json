@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 98525,
       "name": "dj pumpkin",
       "url": "https://open.spotify.com/track/1WtoJi6aBCcVuxHZcQnA7C"
@@ -3018,6 +3018,36 @@
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
+    },
+    {
+      "album": {
+        "name": "Ela Vira Mortal",
+        "url": "https://open.spotify.com/album/05EQpLFKhJ1m4YElm4zDHr"
+      },
+      "artists": [
+        {
+          "name": "DJ Vil\u00e3o DS",
+          "url": "https://open.spotify.com/artist/1yTrrABG9Vr2Y9lbHupN3f"
+        },
+        {
+          "name": "MC Zudo Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7"
+        },
+        {
+          "name": "DJ Magrin Da DZ7",
+          "url": "https://open.spotify.com/artist/3LfT6BvsnMomxucwVAXGiF"
+        },
+        {
+          "name": "MC PH77",
+          "url": "https://open.spotify.com/artist/2dZI1nDPMCgcymfUeLIObc"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136370,
+      "name": "Ela Vira Mortal",
+      "url": "https://open.spotify.com/track/28Qri8CIMxJUQauS8YOR7o"
     },
     {
       "album": {
@@ -3932,7 +3962,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 106363,
       "name": "FUNK INFERNAL (SLOWED)",
       "url": "https://open.spotify.com/track/0VAeFJybwdYFrLpAgm480Y"
@@ -4528,7 +4558,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -4546,7 +4576,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 216746,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/3iKpHZWqkPuzYRUAOhz0To"
@@ -11554,7 +11584,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 245626,
       "name": "To Ashes and Blood (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1NzNNQuppVgVYrm2hvrPK2"
@@ -12788,7 +12818,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -16516,7 +16546,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 113142,
       "name": "\u041b\u0438\u0437\u0430",
       "url": "https://open.spotify.com/track/4hr9QfryyyHEMMM85rvcoR"
@@ -18256,7 +18286,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 113769,
       "name": "\u043e\u0447\u0435\u043d\u044c \u0441\u0442\u0438\u043b\u044c\u043d\u044b\u0435 \u0448\u0442\u0430\u043d\u0438\u0448\u043a\u0438 :D",
       "url": "https://open.spotify.com/track/3zvS6J7kSOP30Be1I11f1w"
@@ -20208,6 +20238,24 @@
       "duration_ms": 235384,
       "name": "\u0422\u043e\u043f\u0438\u0442",
       "url": "https://open.spotify.com/track/469TP39wuiU4KrE9v9pJqJ"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0440\u0438 \u0441\u0435\u0441\u0442\u0440\u044b",
+        "url": "https://open.spotify.com/album/1Hbq0ctHI1gr37yKKWO2o0"
+      },
+      "artists": [
+        {
+          "name": "Vlad Darwin",
+          "url": "https://open.spotify.com/artist/0oVP9Y27T1FzdXSpmWqOE2"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216300,
+      "name": "\u0422\u0440\u0438 \u0441\u0435\u0441\u0442\u0440\u044b",
+      "url": "https://open.spotify.com/track/4UrYpBRi3aEHOs0C22C0nZ"
     },
     {
       "album": {

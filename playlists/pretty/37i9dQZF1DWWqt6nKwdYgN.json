@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Ad\u00e1n Cruz en portada. ",
-  "num_followers": 16519,
+  "num_followers": 16528,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -275,42 +275,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "NASSY",
-        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Dr. Ryo",
-          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
-        }
-      ],
-      "duration_ms": 142767,
-      "name": "NASSY",
-      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Hismat",
-        "url": "https://open.spotify.com/album/7fptEMHRSHj89lvH1Hxtow"
-      },
-      "artists": [
-        {
-          "name": "Reis Belico",
-          "url": "https://open.spotify.com/artist/6T8S4zSY1ICYEG50Hgs3QJ"
-        }
-      ],
-      "duration_ms": 221590,
-      "name": "Hismat",
-      "url": "https://open.spotify.com/track/6BQv7HuDLoqCUtK4bNoFUC"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "QQ",
         "url": "https://open.spotify.com/album/7nLAW5udsEsT3US1uwEHeH"
       },
@@ -331,6 +295,42 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
+        "name": "Hismat",
+        "url": "https://open.spotify.com/album/7fptEMHRSHj89lvH1Hxtow"
+      },
+      "artists": [
+        {
+          "name": "Reis Belico",
+          "url": "https://open.spotify.com/artist/6T8S4zSY1ICYEG50Hgs3QJ"
+        }
+      ],
+      "duration_ms": 221590,
+      "name": "Hismat",
+      "url": "https://open.spotify.com/track/6BQv7HuDLoqCUtK4bNoFUC"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "NASSY",
+        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        }
+      ],
+      "duration_ms": 142767,
+      "name": "NASSY",
+      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
         "name": "LA LLAVE",
         "url": "https://open.spotify.com/album/6OwGBT0AaWXMXYbv5ByQ5L"
       },
@@ -343,6 +343,26 @@
       "duration_ms": 220453,
       "name": "LA LLAVE",
       "url": "https://open.spotify.com/track/18cf39cbHxljid9yDwYfHZ"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/6sNtRiZlTv2j2wNN65pOxm"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/2210LR7U3nQAi33tLAM5fY"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -367,26 +387,6 @@
       "duration_ms": 170755,
       "name": "Temor A Dios",
       "url": "https://open.spotify.com/track/76aGL0QwyG1Wq1AQX9JsfI"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/6sNtRiZlTv2j2wNN65pOxm"
-      },
-      "artists": [
-        {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/2210LR7U3nQAi33tLAM5fY"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
+        "name": "Obra Negra",
+        "url": "https://open.spotify.com/album/6jNFIJ3FmR2tZybX4VOZbq"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/5Jkv87bzjnfvY5cIQk6s0H"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/6AzLsAHLYtFMJSqDq0LoEb"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 168710,
       "name": "Corazon Blanco",
       "url": "https://open.spotify.com/track/1ijISWzGtdSyMZOCZ2FR13"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Obra Negra",
-        "url": "https://open.spotify.com/album/6jNFIJ3FmR2tZybX4VOZbq"
-      },
-      "artists": [
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Verano",
-      "url": "https://open.spotify.com/track/5Jkv87bzjnfvY5cIQk6s0H"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -595,42 +595,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Cantinas Clandestinas",
-        "url": "https://open.spotify.com/album/08RNfijVdidvS4iL801z1e"
-      },
-      "artists": [
-        {
-          "name": "Seyer Black Art Gang",
-          "url": "https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG"
-        },
-        {
-          "name": "Pads Killah",
-          "url": "https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP"
-        }
-      ],
-      "duration_ms": 243037,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Micelio",
-        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
-      },
-      "artists": [
-        {
-          "name": "Frank Takuma",
-          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "Gato Negro",
         "url": "https://open.spotify.com/album/5eQtKd7746jDH4qftjyCO8"
       },
@@ -667,6 +631,42 @@
       "duration_ms": 144950,
       "name": "FLAM",
       "url": "https://open.spotify.com/track/0G6HHWjYnMRXhB7wYBHjRj"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Cantinas Clandestinas",
+        "url": "https://open.spotify.com/album/08RNfijVdidvS4iL801z1e"
+      },
+      "artists": [
+        {
+          "name": "Seyer Black Art Gang",
+          "url": "https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG"
+        },
+        {
+          "name": "Pads Killah",
+          "url": "https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP"
+        }
+      ],
+      "duration_ms": 243037,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Micelio",
+        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
+      },
+      "artists": [
+        {
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "MPD",
-        "url": "https://open.spotify.com/album/4lBsypSzJV7FKTOry1OS4o"
-      },
-      "artists": [
-        {
-          "name": "Stilo",
-          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
-        }
-      ],
-      "duration_ms": 191116,
-      "name": "MPD",
-      "url": "https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "CASI",
         "url": "https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu"
       },
@@ -839,6 +823,38 @@
       "duration_ms": 146666,
       "name": "CASI",
       "url": "https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "MPD",
+        "url": "https://open.spotify.com/album/4lBsypSzJV7FKTOry1OS4o"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "duration_ms": 191116,
+      "name": "MPD",
+      "url": "https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Grados Bajo Cero",
+        "url": "https://open.spotify.com/album/50pj6qEFTklii69YB0k2xU"
+      },
+      "artists": [
+        {
+          "name": "B.Costa",
+          "url": "https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i"
+        }
+      ],
+      "duration_ms": 179406,
+      "name": "inviernos",
+      "url": "https://open.spotify.com/track/5o1vK2BOk2h5SyT6c4pjMT"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -863,22 +879,6 @@
       "duration_ms": 166829,
       "name": "NADA QUE TEMER",
       "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Grados Bajo Cero",
-        "url": "https://open.spotify.com/album/50pj6qEFTklii69YB0k2xU"
-      },
-      "artists": [
-        {
-          "name": "B.Costa",
-          "url": "https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i"
-        }
-      ],
-      "duration_ms": 179406,
-      "name": "inviernos",
-      "url": "https://open.spotify.com/track/5o1vK2BOk2h5SyT6c4pjMT"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -943,22 +943,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3"
+        "name": "It's Okey",
+        "url": "https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9"
       },
       "artists": [
         {
-          "name": "AEME",
-          "url": "https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM"
+          "name": "VIEF",
+          "url": "https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH"
         },
         {
-          "name": "Juan Sinatra",
-          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 194558,
-      "name": "Manantial",
-      "url": "https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu"
+      "duration_ms": 197052,
+      "name": "It's Okey",
+      "url": "https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -983,22 +983,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "It's Okey",
-        "url": "https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9"
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3"
       },
       "artists": [
         {
-          "name": "VIEF",
-          "url": "https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH"
+          "name": "AEME",
+          "url": "https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM"
         },
         {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
         }
       ],
-      "duration_ms": 197052,
-      "name": "It's Okey",
-      "url": "https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn"
+      "duration_ms": 194558,
+      "name": "Manantial",
+      "url": "https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "25 Horas",
-        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
-      },
-      "artists": [
-        {
-          "name": "Little el Crack",
-          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "25 Horas",
-      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "Rapi\u00f1a",
         "url": "https://open.spotify.com/album/5rJFNfexwmZouC869LKmAK"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 145116,
       "name": "Matando Moscas",
       "url": "https://open.spotify.com/track/40Shb6T0pxEwWGJ6GDXR9z"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "25 Horas",
+        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
+      },
+      "artists": [
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "25 Horas",
+      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
     },
     {
       "added_at": "2024-12-20 06:00:09",

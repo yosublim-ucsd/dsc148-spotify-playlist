@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Tony Ann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,980 likes - 41 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,070 likes - 41 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 14 | [The Nutcracker, Op\. 71a \(Arr\. for Saxophone Quartet and Piano by Nicolas Herrouët\): II\. Marche](https://open.spotify.com/track/0pCISTOOmaBW96K7ysQPcU) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Quatuor Ellipsos](https://open.spotify.com/artist/5OLX1BMvU9XGl8zwwsld3b), [Marie\-Josèphe Jude](https://open.spotify.com/artist/1GeOlO8NaaC8ievcYyaIhX) | [Tchaikovsky: The Nutcracker, Op\. 71a: II\. Marche](https://open.spotify.com/album/186YFYSMNQI4hyUVM8Z4yx) | 2:37 |
 | 15 | [In Campagna](https://open.spotify.com/track/5qd3P7Er7L79ga3g5naTrF) | [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7) | [18 Preludi per pianoforte](https://open.spotify.com/album/7q0043PyxGAwfaCOFu5dx0) | 2:01 |
 | 16 | [Images \(Deuxième série\), L\. 111: No\. 3, Poissons d’or](https://open.spotify.com/track/2zcENgWxgXVoicjS3igfd3) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Paolo Ceccarini](https://open.spotify.com/artist/6YuA01Yzv5UCUOoLJuWGtq) | [Debussy: Images \(Deuxième série\), L\. 111: No\. 3, Poissons d'or](https://open.spotify.com/album/6zW7P5denCKPtLFgUPKzhT) | 4:51 |
-| 17 | [Time](https://open.spotify.com/track/3rcq5jvgpvQXgoQfmrRVXd) | [Sean Doherty](https://open.spotify.com/artist/3Z41uHaU9DZqxGDwI3O1Qx), [New Dublin Voices](https://open.spotify.com/artist/7jRzRsyVHE7NxsuiIU7zHE), [Bernie Sherlock](https://open.spotify.com/artist/3OsMzCyhVGjVCXJYUA3qvP) | [Time](https://open.spotify.com/album/49wH7zyshRHw4AZVCqJF1B) | 3:44 |
+| 17 | [Time](https://open.spotify.com/track/3rcq5jvgpvQXgoQfmrRVXd) | [Seán Doherty](https://open.spotify.com/artist/1sh1fu9psIiMnlwRv7OTLK), [New Dublin Voices](https://open.spotify.com/artist/7jRzRsyVHE7NxsuiIU7zHE), [Bernie Sherlock](https://open.spotify.com/artist/3OsMzCyhVGjVCXJYUA3qvP) | [Time](https://open.spotify.com/album/49wH7zyshRHw4AZVCqJF1B) | 3:44 |
 | 18 | [December Waltz](https://open.spotify.com/track/20I0LlgQ8RSbLu6xwewbaK) | [Vincenzo Crimaco](https://open.spotify.com/artist/28N6QAD7lW1W9hwYsiip0V) | [December Waltz](https://open.spotify.com/album/2mMrX8ppnInyGgVFaCI5GR) | 2:34 |
 | 19 | [5 Morceaux, Op\. 7: No\. 1, Romance](https://open.spotify.com/track/7bJhdvHzsXHNqgGs7o5uMK) | [Jadwiga Sarnecka](https://open.spotify.com/artist/7fCi9LaWBSdAZVsiSfpnqj), [Ewa Skardowska](https://open.spotify.com/artist/22euF3qXRZicqRzhYOCdWi) | [Polish Preludes](https://open.spotify.com/album/51TkiRFUDrF6AiCwF3KZd9) | 3:15 |
 | 20 | [3 Compositions for Violin and Piano, Op\. 40: No\. 2, Berceuse, Op\. 40: No\. 2, Berceuse](https://open.spotify.com/track/68zFL4IjOU79AIkLwgHPRx) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Alessandro Clerici](https://open.spotify.com/artist/7gBswR78hwtmGBQyG5ipUE), [Elena Brunello](https://open.spotify.com/artist/4ffwblf3u3mGKc81rh8HgK) | [3 Compositions for Violin and Piano, Op\. 40: No\. 2, Berceuse](https://open.spotify.com/album/5oWMzUWjJcgK3Ysh2FdUKa) | 3:00 |

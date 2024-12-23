@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-266 songs - 15 hr 3 min
+267 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Grow Out Of It](https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Grow Out Of It](https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7) | 2:31 | 2023-01-30 | 2023-02-14 |
 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 | 2022-10-17 |  |
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2022-12-12 | 2024-01-23 |
+| [HAPPY MAN](https://open.spotify.com/track/40szqdafGlbPjQx7a8y8fP) | [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [COLOURS](https://open.spotify.com/album/7aXEuQxqR5mTsWmZA77vuz) | 2:39 | 2024-12-23 |  |
 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 | 2022-11-08 |  |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-07-25 | 2022-08-09 |
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2022-07-25 |  |
@@ -107,7 +108,7 @@
 | [How Long Will I Love You](https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [How Long Will I Love You](https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm) | 2:24 | 2022-05-30 | 2023-04-26 |
 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/55oeEYEp81nHKvkdJjwXW2) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/album/7L1nVNAEtlPi49xZHrDuBW) | 2:57 | 2022-05-30 | 2022-07-28 |
 | [How to Say I Love You](https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [How to Say I Love You](https://open.spotify.com/album/3xPPfPfqh4gTeQJCxWeK7s) | 3:26 | 2024-07-08 | 2024-12-13 |
-| [Howl's](https://open.spotify.com/track/0afhm0LseruwDcTTFp2Y6T) | [ChuChloë](https://open.spotify.com/artist/6Asek6SyFmeSpRD0vsQYfY) | [Howl's](https://open.spotify.com/album/5Ceqr1e2gw83C2lxzow6uH) | 3:10 | 2024-12-16 |  |
+| [Howl's](https://open.spotify.com/track/0afhm0LseruwDcTTFp2Y6T) | [ChuChloë](https://open.spotify.com/artist/6Asek6SyFmeSpRD0vsQYfY) | [Howl's](https://open.spotify.com/album/5Ceqr1e2gw83C2lxzow6uH) | 3:10 | 2024-12-16 | 2024-12-23 |
 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 | 2022-08-08 |  |
 | [Hurricane](https://open.spotify.com/track/2wfuK8f77bybu2MWiQ5Evn) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hurricane](https://open.spotify.com/album/267C1h0KBd2QGM368Ef9ue) | 3:21 | 2022-08-08 | 2022-11-13 |
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2022-05-30 | 2022-07-29 |

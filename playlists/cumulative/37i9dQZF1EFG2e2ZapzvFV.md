@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-208 songs - 11 hr 50 min
+209 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [No Way to Escape](https://open.spotify.com/track/3MBFqZzK2l8lThJ5Vbw067) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:13 | 2024-11-10 |  |
 | [No Way to Escape](https://open.spotify.com/track/75qfcl9wXd2kwnhFA4O6Yk) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 3:13 | 2024-01-29 | 2024-11-11 |
 | [Okay](https://open.spotify.com/track/4fdo8V4TLA1aonfI4NxFjE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:53 | 2024-01-29 |  |
-| [One More](https://open.spotify.com/track/4nnKErDH3XokK9cG2tMs6a) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [One More](https://open.spotify.com/album/3T63sUIqazFcBbodR7xe10) | 3:28 | 2024-01-29 |  |
+| [One More](https://open.spotify.com/track/4nnKErDH3XokK9cG2tMs6a) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [One More](https://open.spotify.com/album/3T63sUIqazFcBbodR7xe10) | 3:28 | 2024-01-29 | 2024-12-23 |
+| [One More \(feat\. MØ\)](https://open.spotify.com/track/4ey8OIWXyetxSGjschFf2i) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:27 | 2024-12-22 |  |
 | [Only the Young](https://open.spotify.com/track/15q2y19rSHDsx779Ca0v0k) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Velvet Days \| Piano Covers](https://open.spotify.com/album/2NluDOItMqQUKplkvjrtz8) | 1:32 | 2024-01-29 |  |
 | [Our Song](https://open.spotify.com/track/1t6loNOqI2kUDE74FDjE6f) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 3:51 | 2024-11-10 |  |
 | [Our Song](https://open.spotify.com/track/4I8dUgcNFZL0VXtDkduu7V) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 3:51 | 2024-01-29 | 2024-11-11 |

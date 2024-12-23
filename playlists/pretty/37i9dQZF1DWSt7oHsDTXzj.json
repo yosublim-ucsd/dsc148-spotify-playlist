@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 262943,
+  "num_followers": 264224,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Snowbank Blues",
-      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 219093,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Snowbank Blues",
+      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/1j2CmnmtAdGBjuvnFj6UiM"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1j2CmnmtAdGBjuvnFj6UiM"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "This Warm December, A Brushfire Holiday Vol. 2",
         "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 227173,
       "name": "Christmas Must Be Tonight",
       "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 365141,
-      "name": "Day After Tomorrow",
-      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -583,6 +567,22 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 365141,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "We're The Lucky Ones",
-        "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
+        "name": "Another Sappy Xmas Love Song",
+        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
         }
       ],
-      "duration_ms": 215933,
-      "name": "We're the Lucky Ones",
-      "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
+      "duration_ms": 144654,
+      "name": "Another Sappy Xmas Love Song",
+      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Another Sappy Xmas Love Song",
-        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
+        "name": "We're The Lucky Ones",
+        "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
       },
       "artists": [
         {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 144654,
-      "name": "Another Sappy Xmas Love Song",
-      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
+      "duration_ms": 215933,
+      "name": "We're the Lucky Ones",
+      "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "A Very Lonely Solstice",
-        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 190013,
-      "name": "I'm Not My Season - Solstice Version",
-      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -883,6 +867,22 @@
       "duration_ms": 218706,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "I'm Not My Season - Solstice Version",
+      "url": "https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
-        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
-      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
         "name": "christmas day",
         "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
+        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
+        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
+      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
         "name": "Learning to Crawl (US Release)",
         "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
       },
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
       "artists": [
         {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         }
       ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+      "duration_ms": 272266,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1127,18 +1127,34 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 272266,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
+      "duration_ms": 280152,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
+    },
+    {
+      "added_at": "2024-12-13 04:00:30",
+      "album": {
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2024-12-13 04:00:30",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
+        "name": "Santa Baby (Recorded at Strongroom Studios London)",
+        "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 280152,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
+      "duration_ms": 163741,
+      "name": "Santa Baby - Recorded at Strongroom Studios London",
+      "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
     },
     {
       "added_at": "2024-12-13 04:00:30",
@@ -1211,22 +1227,6 @@
       "duration_ms": 157069,
       "name": "Little Saint Nick - feat. Chris Leonard",
       "url": "https://open.spotify.com/track/1gX2YOv6VG3fpfBvM3lJZK"
-    },
-    {
-      "added_at": "2024-12-13 04:00:30",
-      "album": {
-        "name": "Santa Baby (Recorded at Strongroom Studios London)",
-        "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 163741,
-      "name": "Santa Baby - Recorded at Strongroom Studios London",
-      "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
     },
     {
       "added_at": "2024-12-13 04:00:30",

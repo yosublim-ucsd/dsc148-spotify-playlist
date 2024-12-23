@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Are Square
 
-878 songs - 2 day 5 hr 22 min
+879 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Tsuki ga Kireida](https://open.spotify.com/track/3mpcR1sbZ7xV26Zi0wZqbH) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [Tsuki ga Kireida](https://open.spotify.com/album/0r6O79YBEt0roeQEFhLeiE) | 4:14 | 2024-02-13 | 2024-04-19 |
 | [Ubu na feeling](https://open.spotify.com/track/6Nr77MtMKNq4TlRtj1YBaC) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Ubu na feeling](https://open.spotify.com/album/72SGFZC2fUn17q40h6OfuJ) | 4:38 | 2024-12-17 |  |
 | [Unbalanced Blend](https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Unbalanced Blend](https://open.spotify.com/album/6j3FsUUi3dVuIalzgUCAFz) | 5:19 | 2024-10-08 |  |
-| [Universe](https://open.spotify.com/track/3z9vtg5fyno2bFy0YZPQZP) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [Virtual Homecoming](https://open.spotify.com/album/6jjkNfBQVGfDPo1rNKeFnW) | 4:02 | 2024-12-17 |  |
+| [Universe](https://open.spotify.com/track/3z9vtg5fyno2bFy0YZPQZP) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [Virtual Homecoming](https://open.spotify.com/album/6jjkNfBQVGfDPo1rNKeFnW) | 4:02 | 2024-12-17 | 2024-12-23 |
 | [us?](https://open.spotify.com/track/0IIZprToKypDaUWs3nzW9Y) | [life crown](https://open.spotify.com/artist/1GucUlQZCS6eETrQwUsg6m) | [us?](https://open.spotify.com/album/5fIclmUIKvWDRK0pQyvUqd) | 3:26 | 2024-02-27 | 2024-03-06 |
 | [Vague](https://open.spotify.com/track/6iJJbCq59pV2gkmPIjOaKB) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Vague](https://open.spotify.com/album/0zZ8ZADtf7OabOcl3jRhJk) | 3:19 | 2024-11-19 | 2024-12-19 |
 | [Vivid Beat](https://open.spotify.com/track/2N1Ua1uURGDK2BWEjt0E8P) | [Yoru no Honki Dance](https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua) | [Vivid Beat](https://open.spotify.com/album/4WGnxnGXpHAq7XGw26Ql7N) | 4:11 | 2023-12-19 | 2023-12-21 |
@@ -803,6 +803,7 @@
 | [溺愛](https://open.spotify.com/track/69tLAHiqUdzoMWaRYUGALQ) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [溺愛](https://open.spotify.com/album/5E8bkbhKnoN4qqIJi9YzZq) | 3:55 | 2024-05-30 | 2024-09-18 |
 | [火の玉ロック](https://open.spotify.com/track/1AzY5yGJKWLZ2clnrmOErF) | [台風クラブ](https://open.spotify.com/artist/2eufkILpUJWF4hIHLgkFfX) | [火の玉ロック](https://open.spotify.com/album/0FkVCgciNBHpV7L67LCQq3) | 3:31 | 2023-07-27 | 2023-08-02 |
 | [烏托邦](https://open.spotify.com/track/5TfKLAw45SuHeCTN6weP3M) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [烏托邦](https://open.spotify.com/album/3NMi4NhUlJtSnbS7krwvAg) | 5:14 | 2024-01-16 | 2024-01-24 |
+| [無知](https://open.spotify.com/track/2hQc0EMN09moXr3YWkNdKq) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [無知](https://open.spotify.com/album/7JPf7XP9KGjNL4EQKcUd3a) | 4:44 | 2024-12-17 |  |
 | [焦動](https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [焦動](https://open.spotify.com/album/3yMtqQIh5pHTIobXvrWxCo) | 4:05 | 2024-06-04 | 2024-08-28 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-27 | 2024-04-24 |
 | [燦然と輝くとは](https://open.spotify.com/track/5e7W1M0dXPaOUcPg5Hpk49) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [燦然と輝くとは](https://open.spotify.com/album/2dSL2PM3SupqRJr104jxkS) | 1:14 | 2024-01-02 | 2024-01-19 |

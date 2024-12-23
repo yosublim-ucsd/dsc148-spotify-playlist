@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. 2024年にプレイリスト「Gacha Pop」で聴かれた楽曲を総まとめ。 cover: Cover: Kenshi Yonezu
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,567 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,723 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

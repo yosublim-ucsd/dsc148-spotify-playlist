@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Daniela Spalla & Camilo en portada.",
-  "num_followers": 88308,
+  "num_followers": 88334,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-12-20 19:11:18",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
-        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
-      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
-    },
-    {
-      "added_at": "2024-12-20 19:11:18",
-      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 136951,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC"
+    },
+    {
+      "added_at": "2024-12-20 19:11:18",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
     },
     {
       "added_at": "2024-12-20 19:11:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-12-20 19:11:18",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 157007,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
-    },
-    {
-      "added_at": "2024-12-20 19:11:18",
-      "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 158483,
       "name": "Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
+    },
+    {
+      "added_at": "2024-12-20 19:11:18",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 157007,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
     },
     {
       "added_at": "2024-12-20 19:11:18",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-12-20 19:11:18",
       "album": {
-        "name": "2.1",
-        "url": "https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
-        }
-      ],
-      "duration_ms": 194210,
-      "name": "ANTES",
-      "url": "https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o"
-    },
-    {
-      "added_at": "2024-12-20 19:11:18",
-      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
+    },
+    {
+      "added_at": "2024-12-20 19:11:18",
+      "album": {
+        "name": "2.1",
+        "url": "https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        }
+      ],
+      "duration_ms": 194210,
+      "name": "ANTES",
+      "url": "https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o"
     },
     {
       "added_at": "2024-12-20 19:11:18",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-12-20 19:11:18",
       "album": {
+        "name": "EVOLUTION",
+        "url": "https://open.spotify.com/album/0uqXfeEoEnK6tFevx5pRRe"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "TQ",
+      "url": "https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr"
+    },
+    {
+      "added_at": "2024-12-20 19:11:18",
+      "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
@@ -823,18 +839,22 @@
     {
       "added_at": "2024-12-20 19:11:18",
       "album": {
-        "name": "EVOLUTION",
-        "url": "https://open.spotify.com/album/0uqXfeEoEnK6tFevx5pRRe"
+        "name": "Como Amigos",
+        "url": "https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ"
       },
       "artists": [
         {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 186346,
-      "name": "TQ",
-      "url": "https://open.spotify.com/track/0ZNVJPAXyL6ubMiPS0NGPr"
+      "duration_ms": 131806,
+      "name": "Como Amigos",
+      "url": "https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48"
     },
     {
       "added_at": "2024-12-20 19:11:18",
@@ -875,6 +895,26 @@
     {
       "added_at": "2024-12-20 19:11:18",
       "album": {
+        "name": "Qui\u00e9n lo dir\u00eda",
+        "url": "https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 159497,
+      "name": "Qui\u00e9n lo dir\u00eda",
+      "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
+    },
+    {
+      "added_at": "2024-12-20 19:11:18",
+      "album": {
         "name": "Otro Huev\u00f3n",
         "url": "https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU"
       },
@@ -887,42 +927,6 @@
       "duration_ms": 206480,
       "name": "Otro Huev\u00f3n",
       "url": "https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu"
-    },
-    {
-      "added_at": "2024-12-20 19:11:18",
-      "album": {
-        "name": "Como Amigos",
-        "url": "https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 131806,
-      "name": "Como Amigos",
-      "url": "https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48"
-    },
-    {
-      "added_at": "2024-12-20 19:11:18",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
     }
   ],
   "unique_name": "Oye Pop",

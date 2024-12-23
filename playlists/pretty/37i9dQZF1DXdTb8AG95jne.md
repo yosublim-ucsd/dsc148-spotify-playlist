@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Tuesday Beach Club\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: MRCH\(윤마치\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,183 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,188 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Last Day](https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Last Day](https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP) | 5:36 |
-| 2 | [Ghost](https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Ghost](https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG) | 3:02 |
-| 3 | [Nostalgia](https://open.spotify.com/track/2dneZ2MsPvw8NH1XOFX5gF) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Earth](https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr) | 3:30 |
+| 1 | [Nostalgia](https://open.spotify.com/track/2dneZ2MsPvw8NH1XOFX5gF) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Earth](https://open.spotify.com/album/7geKrP223ZpIZp6yJPtFFr) | 3:30 |
+| 2 | [Last Day](https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Last Day](https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP) | 5:36 |
+| 3 | [Ghost](https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Ghost](https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG) | 3:02 |
 | 4 | [No Parking](https://open.spotify.com/track/0WB8Mlh8kAuCzMOLRPViBa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [No Parking](https://open.spotify.com/album/7jbvIztCHFiJ9kBHzIFx7W) | 4:17 |
 | 5 | [Memories of Bangkok \(feat\. John White\)](https://open.spotify.com/track/1U8eZ6ZwxT8IkTl8ePIqrF) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [John White](https://open.spotify.com/artist/1UVoyard7BA5KdbK6JdTPx) | [Memories of Bangkok](https://open.spotify.com/album/1j9dJIxOaKnCR27VE1X4GN) | 3:06 |
 | 6 | [Let it snow down](https://open.spotify.com/track/0r0gO68EeIDxgydRVYS34E) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [shaltt](https://open.spotify.com/artist/0Obb5yS4hQMKn1Ift5q9BM) | [Let it snow down](https://open.spotify.com/album/09K3CMMwVhxpUM39Cir8LJ) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 |
 | 50 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
 
-Snapshot ID: `Z2O3HgAAAADMdvD8pjsn5LXncjk6F77H`
+Snapshot ID: `Z2jJDAAAAAAEOU0sK6abXFTz9iEnVt+h`

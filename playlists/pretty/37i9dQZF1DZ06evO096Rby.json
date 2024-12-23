@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 38137,
+  "num_followers": 38154,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAAp6CGX6b+BMY5DEy33pAjj",
+  "snapshot_id": "Z2YFAAAAAAD37LznlhVXVVJM+FlTXCHl",
   "tracks": [
     {
       "added_at": null,
@@ -895,26 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Danny De Chicali (En Vivo)",
-        "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
+        "name": "Bailemos Bebe",
+        "url": "https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Danny Morales",
-          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 150000,
-      "name": "El Danny De Chicali (En Vivo)",
-      "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
+      "duration_ms": 157589,
+      "name": "No Me Trates De Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S"
     },
     {
       "added_at": null,
@@ -935,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 157589,
-      "name": "No Me Trates De Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -963,6 +939,30 @@
       "duration_ms": 224166,
       "name": "Muchachita De Ojos Tristes - En Vivo",
       "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Danny De Chicali (En Vivo)",
+        "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Danny Morales",
+          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "El Danny De Chicali (En Vivo)",
+      "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

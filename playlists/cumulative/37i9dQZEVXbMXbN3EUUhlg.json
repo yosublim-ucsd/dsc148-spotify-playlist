@@ -7936,7 +7936,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 120950,
       "name": "Do Jeito Que Voc\u00ea Mete",
       "url": "https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1"
@@ -9830,7 +9830,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 266666,
       "name": "Eu sou Cantor N\u00e3o Sou Bandido",
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
@@ -11820,7 +11820,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
@@ -13654,7 +13654,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
@@ -17288,7 +17288,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 162190,
       "name": "Mulher Foda - Ao Vivo",
       "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
@@ -27024,6 +27024,28 @@
       "duration_ms": 171712,
       "name": "Um M\u00eas E Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/3dgeqa8u8FenXF9cNbVdsF"
+    },
+    {
+      "album": {
+        "name": "UM PALMO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3RhkeMBMeTY5PPy0MwTnAf"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138008,
+      "name": "UM PALMO - Ao Vivo",
+      "url": "https://open.spotify.com/track/2M2eRVCQbC3rHFSm9oT3YD"
     },
     {
       "album": {

@@ -5937,6 +5937,24 @@
     },
     {
       "album": {
+        "name": "Santa Trinidad",
+        "url": "https://open.spotify.com/album/2YDFvGYKnaUcB5O84yvsvM"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214197,
+      "name": "Que Merezca la Pena",
+      "url": "https://open.spotify.com/track/57YBT0mbIqGTHbTolngDj4"
+    },
+    {
+      "album": {
         "name": "Que No, Que No",
         "url": "https://open.spotify.com/album/6jxUPgfHvpWswydtmExGXd"
       },
@@ -7616,7 +7634,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 278333,
       "name": "Turnedo",
       "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"

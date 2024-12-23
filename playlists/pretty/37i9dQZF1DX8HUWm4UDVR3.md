@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Ben Mazué & Yoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,183 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,194 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 11 | [Alex](https://open.spotify.com/track/5R7dHttk73af39FRw0o9Vd) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations tendres et violentes](https://open.spotify.com/album/4o9lDSTNgHl7awjtrJ2ocu) | 3:10 |
 | 12 | [À la folie](https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur \(EP.I\)](https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w) | 2:42 |
 | 13 | [Mille morceaux](https://open.spotify.com/track/1RL1DA4TEX4bWriUBuTqSf) | [Basile Palace](https://open.spotify.com/artist/4ASHH7WSwXwrGF8R3TLfAh) | [Mille morceaux](https://open.spotify.com/album/4DWdVyBWJzf6YKrtHKLTOD) | 3:03 |
-| 14 | [Mauvais garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
+| 14 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 15 | [CINÉMA](https://open.spotify.com/track/3v6nKVjIZ3fdFNvBStLfRQ) | [Pierre Guénard](https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX) | [CINÉMA](https://open.spotify.com/album/061OG1SIHggUfdf2TBq98A) | 2:55 |
 | 16 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 |
 | 17 | [Jalousie](https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Jalousie](https://open.spotify.com/album/66edblwvSbM907hRkXBXxO) | 2:50 |

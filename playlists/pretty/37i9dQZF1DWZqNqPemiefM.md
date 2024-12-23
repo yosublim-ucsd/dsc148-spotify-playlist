@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,191 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,192 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 54 | [Regentag](https://open.spotify.com/track/2SKuIX3Gfg4K8aKoY9Z7k0) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1), [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [WALD \(Original Soundtrack\)](https://open.spotify.com/album/6H45vwAFL4XobeGKIUcQrK) | 1:40 |
 | 55 | [Strange Clouds](https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1), [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Radio Yugawara](https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU) | 3:33 |
 | 56 | [Sun Tickles](https://open.spotify.com/track/7qhjO48EeSm9ecDfDt2LIp) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [In Parallel](https://open.spotify.com/album/2jBM6bkH5S0Nbp60LHrOsr) | 4:31 |
-| 57 | [Thinking Iceberg](https://open.spotify.com/track/00cs65Ml2o8b245YEkQrsR) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Thinking Iceberg](https://open.spotify.com/album/39mihYHeLbVIkXwKAgmujI) | 12:50 |
-| 58 | [The Theme](https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua) | [Caso 63 \(Banda Sonora Original\)](https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya) | 2:31 |
+| 57 | [The Theme](https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo) | [Mowat](https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua) | [Caso 63 \(Banda Sonora Original\)](https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya) | 2:31 |
+| 58 | [Thinking Iceberg](https://open.spotify.com/track/00cs65Ml2o8b245YEkQrsR) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Thinking Iceberg](https://open.spotify.com/album/39mihYHeLbVIkXwKAgmujI) | 12:50 |
 | 59 | [What A Life \(I\)](https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ) | [Hayes Bradley](https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak) | [Recommence \(I/VII\)](https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY) | 2:22 |
 | 60 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
 | 61 | [Night Horns \(edit\)](https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Night Horns \(edit\)](https://open.spotify.com/album/1HJUMFF5Araxoy91yZkh03) | 8:23 |
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 70 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 |
 | 71 | [Understanding Body Messages](https://open.spotify.com/track/2sN5abLA5FVFwgbqbR7vx5) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 1:24 |
 | 72 | [My Hollow](https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [My Hollow](https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ) | 4:08 |
-| 73 | [Slow Worm](https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Slow Worm](https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC) | 2:32 |
-| 74 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
-| 75 | [LLYN PERIS](https://open.spotify.com/track/2du14pOYyz03nIK8uSjOwC) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [LLYN PERIS](https://open.spotify.com/album/0F29HjHNNsZjSjlpBRHntj) | 4:07 |
-| 76 | [Big Majestic](https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka) | [Big Majestic](https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq) | 4:50 |
-| 77 | [Mallow](https://open.spotify.com/track/6KkVrpgLQYzC79NMRMah0I) | [James Murray](https://open.spotify.com/artist/6FtfcguhZxMy6S04I0jOhc) | [Weeds](https://open.spotify.com/album/693yk02Dcy8O9AYCv3B8AB) | 7:03 |
+| 73 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
+| 74 | [Slow Worm](https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Slow Worm](https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC) | 2:32 |
+| 75 | [Big Majestic](https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka) | [Big Majestic](https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq) | 4:50 |
+| 76 | [Mallow](https://open.spotify.com/track/6KkVrpgLQYzC79NMRMah0I) | [James Murray](https://open.spotify.com/artist/6FtfcguhZxMy6S04I0jOhc) | [Weeds](https://open.spotify.com/album/693yk02Dcy8O9AYCv3B8AB) | 7:03 |
+| 77 | [LLYN PERIS](https://open.spotify.com/track/2du14pOYyz03nIK8uSjOwC) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [LLYN PERIS](https://open.spotify.com/album/0F29HjHNNsZjSjlpBRHntj) | 4:07 |
 | 78 | [Virga \(feat\. Darlingside\)](https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Virga \(feat\. Darlingside\)](https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG) | 6:22 |
 | 79 | [Uferlose Sea](https://open.spotify.com/track/7kLY4k6ExT8W3OkILXGZT1) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Lunz Reinterpretations](https://open.spotify.com/album/35OQiIkrFb31chhxpcyON5) | 1:22 |
 | 80 | [III](https://open.spotify.com/track/6ubA164D78eD0YuiL4tpxS) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 6:09 |
@@ -98,14 +98,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 88 | [DINORWIC](https://open.spotify.com/track/7dg77VJR6x1lHL2dhMk1r5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [DINORWIC](https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX) | 11:51 |
 | 89 | [20210310](https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:53 |
 | 90 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック ～はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 |
-| 91 | [月へ飛ぶ想ひ \(Love that Flies to the Moon\)](https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [螺鈿の箱](https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh) | 4:09 |
-| 92 | [Analemma](https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Analemma](https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq) | 7:57 |
+| 91 | [Analemma](https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Analemma](https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq) | 7:57 |
+| 92 | [月へ飛ぶ想ひ \(Love that Flies to the Moon\)](https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [螺鈿の箱](https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh) | 4:09 |
 | 93 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 |
 | 94 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
-| 95 | [Me](https://open.spotify.com/track/3pzdrEzmh2moHVAeHIvait) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Me](https://open.spotify.com/album/3GnP7ZR5eISmgS3fkO32Ir) | 2:31 |
+| 95 | [金継ぎ](https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [古風](https://open.spotify.com/album/6up103j3F99vuOxqx9ye83) | 1:06 |
 | 96 | [Terra Recipe](https://open.spotify.com/track/2GWNKsZ7cqicbvWynbOkaW) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 3:50 |
 | 97 | [Lift Hands](https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8) | [Veryan](https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk) | [One Universal Breath](https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj) | 4:37 |
-| 98 | [金継ぎ](https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [古風](https://open.spotify.com/album/6up103j3F99vuOxqx9ye83) | 1:06 |
+| 98 | [Me](https://open.spotify.com/track/3pzdrEzmh2moHVAeHIvait) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Me](https://open.spotify.com/album/3GnP7ZR5eISmgS3fkO32Ir) | 2:31 |
 | 99 | [hope](https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [hope](https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq) | 2:43 |
 | 100 | [sync](https://open.spotify.com/track/3bmq3UVpNIuIVSgJFOGtl1) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [sync](https://open.spotify.com/album/3E1xKyTp6qvfGkfG4jT7aL) | 2:32 |
 

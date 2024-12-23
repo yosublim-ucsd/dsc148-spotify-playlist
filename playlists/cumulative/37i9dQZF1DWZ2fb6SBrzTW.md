@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-483 songs - 1 day 0 hr 36 min
+484 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [High](https://open.spotify.com/track/0FvTXHU6xNn1jkjpJ6Mvm1) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [High](https://open.spotify.com/album/7iIWG1sDD904p7EcjKCdpO) | 2:48 | 2022-10-07 | 2022-12-03 |
 | [Hiii!](https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Hiii!](https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q) | 2:30 | 2024-06-14 | 2024-09-28 |
 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 | 2024-04-19 |  |
+| [Holiday](https://open.spotify.com/track/73Aq5VsaJ5qCv8QmdF47HJ) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Holiday](https://open.spotify.com/album/4ZBybPxYLlc3XcfV2bDrM0) | 3:38 | 2024-12-16 |  |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 | 2023-05-01 |
 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-05-04 | 2024-04-19 |
 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 | 2024-04-19 | 2024-12-07 |
@@ -490,6 +491,6 @@
 | [YOLO](https://open.spotify.com/track/5E6bsNA69z9SMXM6hOWqdU) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [YOLO](https://open.spotify.com/album/32XuYqGbCUBVWZaiMlTWdd) | 2:54 | 2023-06-02 | 2023-06-17 |
 | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU) | 4:39 | 2024-05-10 | 2024-06-09 |
 | [Ziyasha \(feat\. LeeMcKrazy, Amu Classic & Kappie\)](https://open.spotify.com/track/40uSx0ulTsWa9Gq0M2dqHT) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Amu Classic](https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H), [Kappie](https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC) | [Midnight In Sunnyside 3](https://open.spotify.com/album/5lY5qpLt6oEM8fBEP99FkR) | 6:21 | 2024-04-19 | 2024-06-28 |
-| [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2024-08-29 |  |
+| [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2024-08-29 | 2024-12-23 |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

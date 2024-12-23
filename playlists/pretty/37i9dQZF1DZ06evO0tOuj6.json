@@ -1,12 +1,12 @@
 {
   "description": "This is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9. The essential tracks, all in one playlist.",
-  "num_followers": 36791,
+  "num_followers": 36796,
   "original_name": "This Is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAC06ZPc1U2Hw1r7AQFKVNST",
+  "snapshot_id": "Z2YFAAAAAAAXCtl/M4ovIcOCPnJRkRWZ",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3042\u306e\u590f\u306e\u3042\u3044\u307e\u3044ME (feat.SUPER EIGHT)",
-        "url": "https://open.spotify.com/album/1q4MepMNAMAztrLxXYrlvm"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "SUPER EIGHT",
-          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "\u3042\u306e\u590f\u306e\u3042\u3044\u307e\u3044ME - feat.SUPER EIGHT",
-      "url": "https://open.spotify.com/track/4b4allsuWsgn2rILWGICJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
         "url": "https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4"
       },
@@ -259,6 +239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u3042\u306e\u590f\u306e\u3042\u3044\u307e\u3044ME (feat.SUPER EIGHT)",
+        "url": "https://open.spotify.com/album/1q4MepMNAMAztrLxXYrlvm"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "SUPER EIGHT",
+          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "\u3042\u306e\u590f\u306e\u3042\u3044\u307e\u3044ME - feat.SUPER EIGHT",
+      "url": "https://open.spotify.com/track/4b4allsuWsgn2rILWGICJO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paradise Has NO BORDER",
         "url": "https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIGH NUMBERS",
-        "url": "https://open.spotify.com/album/2Oeay5NypddOiNOgtBbXgr"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "\u9280\u6cb3\u3068\u8ff7\u8def",
-      "url": "https://open.spotify.com/track/0rTWtMSSpo7SLXJh2N9r4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stompin' On DOWN BEAT ALLEY",
         "url": "https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 238700,
       "name": "\u30ab\u30ca\u30ea\u30e4\u9cf4\u304f\u7a7a",
       "url": "https://open.spotify.com/track/6xGoSgYLZ1oSBmCdVlqxnn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIGH NUMBERS",
+        "url": "https://open.spotify.com/album/2Oeay5NypddOiNOgtBbXgr"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "\u9280\u6cb3\u3068\u8ff7\u8def",
+      "url": "https://open.spotify.com/track/0rTWtMSSpo7SLXJh2N9r4G"
     },
     {
       "added_at": null,

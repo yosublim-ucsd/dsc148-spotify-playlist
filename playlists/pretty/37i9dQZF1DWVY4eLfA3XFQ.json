@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Chris Lorenzo \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 641095,
+  "num_followers": 641174,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -849,20 +849,24 @@
       "url": "https://open.spotify.com/track/3fhFzDGxemPED8xWxo46mE"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+      "duration_ms": 224124,
+      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
     },
     {
       "added_at": "2024-11-29 05:26:04",
@@ -885,24 +889,20 @@
       "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 224124,
-      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2024-09-10 14:20:11",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "BEATS FOR THE UNDERGROUND",
+        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "BEATS FOR THE UNDERGROUND",
+      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Still My Baby",
@@ -1171,22 +1187,6 @@
       "duration_ms": 191233,
       "name": "Still My Baby",
       "url": "https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "BEATS FOR THE UNDERGROUND",
-        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "BEATS FOR THE UNDERGROUND",
-      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1353,26 +1353,6 @@
       "url": "https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "I Like Dancing",
-        "url": "https://open.spotify.com/album/55RB7beoraMelRsQ2V1DXx"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "I Like Dancing",
-      "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Saving Up (Odd Mob Remix)",
@@ -1391,6 +1371,22 @@
       "duration_ms": 193432,
       "name": "Saving Up - Odd Mob Remix",
       "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/3mgsIkjobWlfq3sxanDdrH"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/17mnuzuIFPEmrDciyrmdfR"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1413,20 +1409,24 @@
       "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/3mgsIkjobWlfq3sxanDdrH"
+        "name": "I Like Dancing",
+        "url": "https://open.spotify.com/album/55RB7beoraMelRsQ2V1DXx"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/17mnuzuIFPEmrDciyrmdfR"
+      "duration_ms": 202972,
+      "name": "I Like Dancing",
+      "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "As The Beat Goes Onnn",
-        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 159283,
-      "name": "As The Beat Goes Onnn",
-      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
-    },
-    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Time To Go",
@@ -1539,6 +1523,22 @@
       "duration_ms": 140776,
       "name": "Left To Right (James Hype Edit)",
       "url": "https://open.spotify.com/track/0Ey54LmdxIxdXQSqG2LsZW"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "As The Beat Goes Onnn",
+        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 159283,
+      "name": "As The Beat Goes Onnn",
+      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
     },
     {
       "added_at": "2024-06-05 04:04:17",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Needle On The Record",
-        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Needle On The Record",
-      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Snus (Tony Romera Remix)",
@@ -1633,6 +1617,38 @@
       "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Get Stupid",
+        "url": "https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Get Stupid",
+      "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Slow Down / Pink Dave",
@@ -1651,22 +1667,6 @@
       "duration_ms": 178926,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Get Stupid",
-        "url": "https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "Get Stupid",
-      "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1729,26 +1729,6 @@
       "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "GETAWAY",
-        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 163871,
-      "name": "GETAWAY",
-      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Let's Go Dancing (Matroda Remix)",
@@ -1793,24 +1773,24 @@
       "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
     },
     {
-      "added_at": "2024-12-13 05:00:15",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
       },
       "artists": [
         {
-          "name": "Meck",
-          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         },
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
         }
       ],
-      "duration_ms": 215540,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1863,6 +1843,26 @@
       "duration_ms": 183234,
       "name": "Let The Bassline",
       "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
+      },
+      "artists": [
+        {
+          "name": "Meck",
+          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 215540,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -2029,26 +2029,6 @@
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "To The Club",
-        "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Spankox",
-          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "To The Club",
-      "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
-    },
-    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "The Unexplained",
@@ -2073,20 +2053,24 @@
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+        "name": "To The Club",
+        "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
       },
       "artists": [
         {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Spankox",
+          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
+      "duration_ms": 180937,
+      "name": "To The Club",
+      "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2109,20 +2093,20 @@
       "url": "https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc"
     },
     {
-      "added_at": "2024-09-13 04:01:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Carry Out",
-        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
       },
       "artists": [
         {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 178500,
-      "name": "Carry Out",
-      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2169,20 +2153,20 @@
       "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/1glLviwbudeceDBqxQKzdz"
+        "name": "Carry Out",
+        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
       },
       "artists": [
         {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 155156,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
+      "duration_ms": 178500,
+      "name": "Carry Out",
+      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2199,6 +2183,22 @@
       "duration_ms": 153281,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/1glLviwbudeceDBqxQKzdz"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "duration_ms": 155156,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
     },
     {
       "added_at": "2024-11-29 05:26:04",
@@ -2321,22 +2321,6 @@
       "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Don't You Leave",
-        "url": "https://open.spotify.com/album/1ezePOQ5Y2HXQKBWWgI3tO"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Don't You Leave",
-      "url": "https://open.spotify.com/track/12e3jjH2mTSIITNrLSvIRj"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Control It",
@@ -2355,6 +2339,22 @@
       "duration_ms": 196153,
       "name": "Control It",
       "url": "https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Don't You Leave",
+        "url": "https://open.spotify.com/album/1ezePOQ5Y2HXQKBWWgI3tO"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Don't You Leave",
+      "url": "https://open.spotify.com/track/12e3jjH2mTSIITNrLSvIRj"
     },
     {
       "added_at": "2024-09-20 04:00:00",

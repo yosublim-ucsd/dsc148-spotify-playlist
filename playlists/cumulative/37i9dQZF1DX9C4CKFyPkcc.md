@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-354 songs - 20 hr 51 min
+355 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Lift High \(Emmanuel\)](https://open.spotify.com/track/5qWuI5LdPr2QQ7EHychYoj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/0TpgvcMDJhf3e7XPAnyeLT) | 5:11 | 2022-12-11 | 2024-04-19 |
 | [Lift High \(Emmanuel\)](https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Lift High \(Emmanuel\)](https://open.spotify.com/album/5DqiYPcDeTilZ0lcUWVHhi) | 5:11 | 2022-12-11 | 2024-11-18 |
 | [Lift You Up](https://open.spotify.com/track/0s5NxkoemJMsZH5Z8baMO1) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf), [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Lift You Up](https://open.spotify.com/album/1iO0RWlIDIsnhq4PAkpN2u) | 3:38 | 2024-12-13 |  |
-| [Little Drummer Boy](https://open.spotify.com/track/0yiZFkTS3Lo9dAutRKs6s5) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Little Drummer Boy](https://open.spotify.com/album/4hhjrH3pzthZEqDVnYgGiz) | 4:06 | 2023-12-15 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/0yiZFkTS3Lo9dAutRKs6s5) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Little Drummer Boy](https://open.spotify.com/album/4hhjrH3pzthZEqDVnYgGiz) | 4:06 | 2023-12-15 | 2024-12-23 |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2022-12-11 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 |  |
 | [Manger Throne](https://open.spotify.com/track/1Z0IdyRLTGeUQDincfC5DI) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Manger Throne](https://open.spotify.com/album/6hHBbeDEOg6y1N4OGgcMop) | 4:20 | 2023-11-03 | 2024-04-19 |
@@ -278,6 +278,7 @@
 | [Silent Night, Lonely Night](https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Silent Night, Lonely Night](https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH) | 4:24 | 2023-11-03 |  |
 | [Silver Bells](https://open.spotify.com/track/3gndDjG0Lxsm2b1eH5nA0Z) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:17 | 2021-12-24 |  |
 | [Silver Bells](https://open.spotify.com/track/7HPEWRrERaNOmLwEWSqaEy) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Olivia Bruce](https://open.spotify.com/artist/4x83S4ablwezU5ABsZarq3) | [Silver Bells](https://open.spotify.com/album/2wxfV6G1kG7J4cU69D1pVM) | 3:45 | 2024-07-29 | 2024-12-09 |
+| [Silver Bells](https://open.spotify.com/track/25Y3tYOfBsnwpBTvb5vLQR) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Silver Bells EP](https://open.spotify.com/album/3ArBZ0YYxrhPoJIi0oKac5) | 3:47 | 2024-12-13 |  |
 | [Sleigh Ride](https://open.spotify.com/track/0fQegvfhv9bLCLM662r9pa) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [A Christmas Album](https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs) | 3:34 | 2021-12-24 |  |
 | [Sleigh Ride](https://open.spotify.com/track/4ON9452btc5C7bg8m00xmY) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Sleigh Ride](https://open.spotify.com/album/3qrB6Jf61LOCLyusjSmGa4) | 2:43 | 2022-11-26 |  |
 | [Sleigh Ride](https://open.spotify.com/track/2IwNukSM5QpvnzmLuyKExn) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CHRISTMAS](https://open.spotify.com/album/1q0OMD6wW0RuA8FxgWMZh8) | 3:49 | 2022-11-26 | 2023-11-18 |

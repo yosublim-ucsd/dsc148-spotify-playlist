@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22486,
+  "num_followers": 22488,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALk4yvfrPjX1LU1stSO0ObOuB0e7e3",
+  "snapshot_id": "AAALlKqqWoHGQfxOu4Pmh+cD1Ll2G++i",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -891,6 +891,22 @@
       "duration_ms": 257439,
       "name": "M\u00fasica da Lagoa",
       "url": "https://open.spotify.com/track/55Cp1NZP8tDRDgKF2RTEew"
+    },
+    {
+      "added_at": "2024-12-23 00:28:50",
+      "album": {
+        "name": "Seafaring Strangers: Private Yacht",
+        "url": "https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD"
+      },
+      "artists": [
+        {
+          "name": "Canyon",
+          "url": "https://open.spotify.com/artist/6l3ua4Cr4PckpYDOgSFZiE"
+        }
+      ],
+      "duration_ms": 140386,
+      "name": "Country Lovin",
+      "url": "https://open.spotify.com/track/1DkaAkRqcwLU3weOOlhS3X"
     }
   ],
   "unique_name": "thoughts never said aloud",

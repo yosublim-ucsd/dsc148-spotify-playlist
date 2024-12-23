@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,726 likes - 51 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,782 likes - 51 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 50 | [RAIN DOWN ON ME \(feat\. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore\)](https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 3:48 |
 | 51 | [Let Me Remind You \(feat\. Naomi Raine\)](https://open.spotify.com/track/23fy3jpfhyLZAAv9MTX2A9) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [MAVHOUSE](https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g) | 2:29 |
 
-Snapshot ID: `Z2SzgAAAAACurF7DWrZFGbOjeXWp7PJC`
+Snapshot ID: `Z2YFAAAAAAD3iQvQC6ymLpUe4wu3vLmR`

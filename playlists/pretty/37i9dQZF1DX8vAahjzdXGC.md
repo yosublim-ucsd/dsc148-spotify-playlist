@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: d4vd
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,778 likes - 73 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,824 likes - 73 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

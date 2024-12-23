@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 11024,
+  "num_followers": 11027,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAABzLO9rE8EKzskBmxsgj58r",
+  "snapshot_id": "Z2YFAAAAAAAbhqHILnC3hBsJvtpplTBN",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "cloud 11",
-      "url": "https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "snowing in LA",
         "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 205400,
       "name": "snowing in LA",
       "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "cloud 11",
+      "url": "https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz"
     },
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 171697,
-      "name": "whatcha gotta say (with Blxst)",
-      "url": "https://open.spotify.com/track/4MGD9rpRJlRj8jSfuFh4B9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "hair down (with CHUNG HA)",
         "url": "https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 209060,
       "name": "hair down (with CHUNG HA)",
       "url": "https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 171697,
+      "name": "whatcha gotta say (with Blxst)",
+      "url": "https://open.spotify.com/track/4MGD9rpRJlRj8jSfuFh4B9"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "fairy godmother",
-      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 214800,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "fairy godmother",
+      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 166155,
-      "name": "dumb luck",
-      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wish list",
         "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 164571,
       "name": "wishlist",
       "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 166155,
+      "name": "dumb luck",
+      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 168000,
       "name": "x's & o's (feat. DCMBR)",
       "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 167589,
-      "name": "fresh white tee",
-      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167589,
+      "name": "fresh white tee",
+      "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "Rexx Life Raj",
-          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "butterflies (feat. Rexx Life Raj)",
-      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 218754,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "butterflies (feat. Rexx Life Raj)",
+      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 149620,
+  "num_followers": 149640,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAD4YKkt0iPinDclzED8bdPb",
+  "snapshot_id": "Z2YFAAAAAAD9dmmfnP3N2Oot+ZjVRf1R",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 191494,
-      "name": "Yo Estaba Solo",
-      "url": "https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 156386,
       "name": "Ojal\u00e1 Sea Cierto",
       "url": "https://open.spotify.com/track/6RL91YY0Kf24NeHHjwdaeb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 191494,
+      "name": "Yo Estaba Solo",
+      "url": "https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luchar\u00e9 Por Ti",
-        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Luchar\u00e9 Por Ti",
-      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 234093,
       "name": "Mi Enemigo El Amor - En Vivo",
       "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luchar\u00e9 Por Ti",
+        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Luchar\u00e9 Por Ti",
+      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1rchate",
-        "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 165903,
-      "name": "M\u00e1rchate",
-      "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Bonito",
         "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
       },
@@ -659,6 +639,22 @@
       "duration_ms": 167986,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 212462,
+      "name": "La Reyna De Mi Hogar",
+      "url": "https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm"
     },
     {
       "added_at": null,
@@ -715,38 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+        "name": "M\u00e1rchate",
+        "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 212462,
-      "name": "La Reyna De Mi Hogar",
-      "url": "https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
-        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
         },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 218493,
-      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
-      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
+      "duration_ms": 165903,
+      "name": "M\u00e1rchate",
+      "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
       "duration_ms": 225653,
       "name": "Pero La Recuerdo",
       "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
+        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
+      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
     },
     {
       "added_at": null,

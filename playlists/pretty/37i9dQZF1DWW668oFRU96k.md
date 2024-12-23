@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: OddKidOut
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,468 likes - 86 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,489 likes - 86 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 50 | [Poppa di pop](https://open.spotify.com/track/5W9mWoO7zDViAskZheJCcw) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10), [XLII](https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN) | [Poppa di pop](https://open.spotify.com/album/78GR6DHrnun3mdtekyNi7N) | 3:34 |
 | 51 | [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 |
 | 52 | [Tell Me](https://open.spotify.com/track/5iIzqwGRSEs5LKojYvViss) | [Casst](https://open.spotify.com/artist/2qkR14urBUNWrXru4DehS1) | [Bright Heart](https://open.spotify.com/album/2RFNlRxqkT7fsExWggHkjr) | 3:08 |
-| 53 | [To The Finish Line \- From "Game Of Life"](https://open.spotify.com/track/3AoZ7DKk42WePEvS62khAX) | [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn), [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [To The Finish Line \(From "Game Of Life"\)](https://open.spotify.com/album/1oa5aoAZ0WFt1lKlzDizce) | 2:38 |
+| 53 | [To The Finish Line \- From "Soloz Game Of Life"](https://open.spotify.com/track/3AoZ7DKk42WePEvS62khAX) | [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn), [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [To The Finish Line \(From "Soloz Game Of Life"\)](https://open.spotify.com/album/1oa5aoAZ0WFt1lKlzDizce) | 2:38 |
 | 54 | [Afraid](https://open.spotify.com/track/4gGkcz9zciFZ0f7al7rmQz) | [Ollie Crowe](https://open.spotify.com/artist/1JkxFjMhqCQw1Lg9xUH1GJ), [B.R.T](https://open.spotify.com/artist/1JNj4L9dFFnptBKFKpUaFL), [VIGIL](https://open.spotify.com/artist/5woKrwqEi876LodaTkTCi1) | [Afraid](https://open.spotify.com/album/4rSvD6l2ZvPpCzJXpL8FLy) | 2:50 |
 | 55 | [Heaven Knows](https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Heaven Knows](https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L) | 3:53 |
 | 56 | [Sanba Yo Pran Pale \- Ankhoï Remix](https://open.spotify.com/track/6kvfpr9hVnv3MrZoS3ctbH) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Anjunadeep The Remixes 2024](https://open.spotify.com/album/1HXTSBQlkAghjQTWZxIPgH) | 3:59 |

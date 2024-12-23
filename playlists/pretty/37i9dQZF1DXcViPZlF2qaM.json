@@ -1,6 +1,6 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 65825,
+  "num_followers": 65850,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI"
     },
     {
+      "added_at": "2022-03-30 01:48:29",
+      "album": {
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+    },
+    {
       "added_at": "2022-04-04 18:08:00",
       "album": {
         "name": "MOTOMAMI",
@@ -259,22 +275,6 @@
       "duration_ms": 130493,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS"
-    },
-    {
-      "added_at": "2022-03-30 01:48:29",
-      "album": {
-        "name": "Que la Vida Vale",
-        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Que la Vida Vale",
-      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28"
     },
     {
+      "added_at": "2022-12-20 21:43:10",
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "R\u00fambala",
@@ -327,22 +343,6 @@
       "duration_ms": 178823,
       "name": "R\u00fambala",
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
-    },
-    {
-      "added_at": "2022-02-11 00:27:46",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2024-10-04 19:04:36",
@@ -361,20 +361,20 @@
       "url": "https://open.spotify.com/track/2wcS2TCDrZ9dNN3p27OmHI"
     },
     {
-      "added_at": "2022-12-20 21:43:10",
+      "added_at": "2022-02-11 00:27:46",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Pajarito colibr\u00ed",
-      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2022-02-17 23:02:00",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
     },
     {
+      "added_at": "2024-07-09 05:55:41",
+      "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 156124,
+      "name": "Misterio Verde",
+      "url": "https://open.spotify.com/track/3qK9At4Ynaq59XvNsIOTrq"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Ojos Del Sol",
@@ -567,22 +583,6 @@
       "duration_ms": 157813,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
-    },
-    {
-      "added_at": "2024-07-09 05:55:41",
-      "album": {
-        "name": "Sonido C\u00f3smico",
-        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 156124,
-      "name": "Misterio Verde",
-      "url": "https://open.spotify.com/track/3qK9At4Ynaq59XvNsIOTrq"
     },
     {
       "added_at": "2022-03-30 01:48:29",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
-      "added_at": "2022-03-30 01:48:29",
-      "album": {
-        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
-        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 189663,
-      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
-      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
-    },
-    {
       "added_at": "2022-03-18 03:46:18",
       "album": {
         "name": "DUAL",
@@ -663,6 +647,22 @@
       "duration_ms": 207296,
       "name": "La Apuesta",
       "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+    },
+    {
+      "added_at": "2022-03-30 01:48:29",
+      "album": {
+        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
+        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 189663,
+      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
+      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
     },
     {
       "added_at": "2022-07-15 18:11:06",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "The Nada",
+        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 300746,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
+    },
+    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Clandestino",
@@ -797,22 +813,6 @@
       "url": "https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX"
     },
     {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "The Nada",
-        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 300746,
-      "name": "Guacamole",
-      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Spotify Singles",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Cumbias Imaquinarias - EP",
-        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "La Cumbia Del Cafe Martinez",
-      "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
-    },
-    {
       "added_at": "2023-04-01 01:18:58",
       "album": {
         "name": "Perlas & Conchas",
@@ -859,6 +843,22 @@
       "duration_ms": 177889,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Cumbias Imaquinarias - EP",
+        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "La Cumbia Del Cafe Martinez",
+      "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
     },
     {
       "added_at": "2022-09-02 06:00:17",
@@ -949,26 +949,6 @@
       "url": "https://open.spotify.com/track/1rfOVVrDPHouBZhiTL3kzs"
     },
     {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 238068,
-      "name": "T\u00fa Ve",
-      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Echando pa'lante",
@@ -987,6 +967,26 @@
       "duration_ms": 392493,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz"
+    },
+    {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "T\u00fa Ve",
+        "url": "https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 238068,
+      "name": "T\u00fa Ve",
+      "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
     },
     {
       "added_at": "2023-05-25 23:09:45",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "Colecci\u00f3n de \u00c9xitos, Vol. 6",
+        "url": "https://open.spotify.com/album/4gT6tpDNm1j7R8h3ckJktV"
+      },
+      "artists": [
+        {
+          "name": "Hugo Blanco y su Conjunto",
+          "url": "https://open.spotify.com/artist/6nLEavXaOuT9ZMtOirWlQz"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "Cumbia Con Arpa",
+      "url": "https://open.spotify.com/track/1glosma3WgTE0YL7RDSCX5"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. 1",
         "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 321120,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos, Vol. 6",
-        "url": "https://open.spotify.com/album/4gT6tpDNm1j7R8h3ckJktV"
-      },
-      "artists": [
-        {
-          "name": "Hugo Blanco y su Conjunto",
-          "url": "https://open.spotify.com/artist/6nLEavXaOuT9ZMtOirWlQz"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "Cumbia Con Arpa",
-      "url": "https://open.spotify.com/track/1glosma3WgTE0YL7RDSCX5"
     },
     {
       "added_at": "2023-09-05 00:10:18",

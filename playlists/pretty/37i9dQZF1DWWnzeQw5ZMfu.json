@@ -159,22 +159,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "I Love You, I'm Sorry (Live From Vevo)",
-        "url": "https://open.spotify.com/album/4bxh03ssfzrWfd4H2o0M32"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 204165,
-      "name": "I Love You, I'm Sorry - Live From Vevo",
-      "url": "https://open.spotify.com/track/55dLT3WApUJBEWxSJSivyt"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "HOMECOMING: THE LIVE ALBUM",
         "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
       },
@@ -187,6 +171,38 @@
       "duration_ms": 167347,
       "name": "Crazy In Love - Homecoming Live",
       "url": "https://open.spotify.com/track/10OaEuICuFoKLq48NoMblA"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "I Love You, I'm Sorry (Live From Vevo)",
+        "url": "https://open.spotify.com/album/4bxh03ssfzrWfd4H2o0M32"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 204165,
+      "name": "I Love You, I'm Sorry - Live From Vevo",
+      "url": "https://open.spotify.com/track/55dLT3WApUJBEWxSJSivyt"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -219,22 +235,6 @@
       "duration_ms": 319226,
       "name": "Slow Dancing in a Burning Room - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "The Show: The Encore",
-        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 242124,
-      "name": "Something In The Orange - Live From Spotify Studios",
-      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Touching Toes (Live At Eventim Apollo)",
+        "url": "https://open.spotify.com/album/6JOZEsFyRJ39KnPWsf8cNp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 147624,
+      "name": "Touching Toes - Live At Eventim Apollo",
+      "url": "https://open.spotify.com/track/3gZIDRQ4rCN4ihSzritjc7"
+    },
+    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "You Need To Calm Down (Live From Paris)",
@@ -507,22 +523,6 @@
       "duration_ms": 234040,
       "name": "How Deep Is Your Love - Live At The MGM Grand",
       "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Touching Toes (Live At Eventim Apollo)",
-        "url": "https://open.spotify.com/album/6JOZEsFyRJ39KnPWsf8cNp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 147624,
-      "name": "Touching Toes - Live At Eventim Apollo",
-      "url": "https://open.spotify.com/track/3gZIDRQ4rCN4ihSzritjc7"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Cassy O' (EP)",
         "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 209306,
       "name": "Budapest - Live from Spotify Stockholm",
       "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Serious Hits...Live! (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 393146,
+      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
+      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Serious Hits...Live! (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 393146,
-      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
-      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -687,22 +687,6 @@
       "duration_ms": 362216,
       "name": "Freedom! '90 - Live from MTV Unplugged, 1996",
       "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
-        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 312138,
-      "name": "betty - Live from the 2020 Academy of Country Music Awards",
-      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
+        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312138,
+      "name": "betty - Live from the 2020 Academy of Country Music Awards",
+      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "C\u00e9line... Une seule fois / Live 2013",
-        "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 401840,
-      "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
-      "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Tina Live",
         "url": "https://open.spotify.com/album/2NcPXpM3MBapEiMs75keCm"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 219240,
       "name": "What's Love Got to Do with It - Live in Arnhem",
       "url": "https://open.spotify.com/track/5s0b3c1FUhcXkqn2r6Lqm5"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "C\u00e9line... Une seule fois / Live 2013",
+        "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 401840,
+      "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
+      "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -927,22 +927,6 @@
       "duration_ms": 288146,
       "name": "Goodbye My Lover - Live in Ireland",
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Live \u00e0 Paris",
-        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
-      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "Live \u00e0 Paris",
+        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
+      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 319401,
       "name": "Sing - Live and in Session",
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Shakira In Concert: El Dorado World Tour",
-        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 340880,
-      "name": "She Wolf - El Dorado World Tour Live",
-      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1079,6 +1063,38 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Goodbye Yellow Brick Road - Live",
+      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Shakira In Concert: El Dorado World Tour",
+        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 340880,
+      "name": "She Wolf - El Dorado World Tour Live",
+      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Stark Naked and Absolutely Live",
         "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+        "name": "Alicia Keys - VH1 Storytellers",
+        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 198760,
-      "name": "Goodbye Yellow Brick Road - Live",
-      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
+      "duration_ms": 258040,
+      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
+      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1139,22 +1155,6 @@
       "duration_ms": 304973,
       "name": "For the First Time - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Alicia Keys - VH1 Storytellers",
-        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
-      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 396565,
+      "name": "Stitches - Live",
+      "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Warwick Avenue (Live)",
         "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 396565,
-      "name": "Stitches - Live",
-      "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "BADLANDS (Live From Webster Hall)",
-        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 197996,
-      "name": "Roman Holiday - Live From Webster Hall",
-      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 212320,
       "name": "Shadow (feat. Carly Rae Jepsen) - MTV Unplugged",
       "url": "https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "How Can I Sleep With Your Voice In My Head",
+        "url": "https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 342586,
+      "name": "Take On Me - Live",
+      "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"
     }
   ],
   "unique_name": "Pop Live",

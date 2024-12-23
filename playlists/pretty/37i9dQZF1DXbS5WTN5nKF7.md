@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,388 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,445 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 37 | [Femme Like U \- Tribute 2024 Remix by W.A.N.O](https://open.spotify.com/track/460UoN0rxBQkCy9gzIcSpd) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75), [W.A.N.O](https://open.spotify.com/artist/0jIAr2DcV8UWlpTVmY1MC3) | [Femme Like U \(20th Anniversary Tribute\)](https://open.spotify.com/album/36PgFWsIRTLkn5oXwwgXQ1) | 2:21 |
 | 38 | [Where Do I Go](https://open.spotify.com/track/1FNNYBfbDppq7NKGtQsMkF) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Where Do I Go](https://open.spotify.com/album/2Cb1UV6Opqvv9r52TY0zNb) | 2:48 |
 | 39 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 40 | [Mauvais garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
+| 40 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 41 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 42 | [Ton regard](https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ton regard](https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH) | 2:33 |
 | 43 | [I Forgive You](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) | 4:19 |

@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 77449,
+  "num_followers": 77479,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Relatively",
-        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
-      },
-      "artists": [
-        {
-          "name": "Latehours",
-          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
-        }
-      ],
-      "duration_ms": 167187,
-      "name": "Relatively",
-      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 170176,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Relatively",
+        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
+      },
+      "artists": [
+        {
+          "name": "Latehours",
+          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
+        }
+      ],
+      "duration_ms": 167187,
+      "name": "Relatively",
+      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
-      },
-      "artists": [
-        {
-          "name": "Lugar",
-          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Blue Dreams",
         "url": "https://open.spotify.com/album/3FRdQ6edoNlviuZ0adEjkG"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 175423,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/3lVCWvfaO5b7stge6SGJo1"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
+      },
+      "artists": [
+        {
+          "name": "Lugar",
+          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Bortgjemt",
-        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
-      },
-      "artists": [
-        {
-          "name": "Gjenklang",
-          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
-        }
-      ],
-      "duration_ms": 147750,
-      "name": "Bortgjemt",
-      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Emerald Isles",
         "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 233383,
       "name": "Emerald Isles",
       "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Bortgjemt",
+        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "Bortgjemt",
+      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
-      },
-      "artists": [
-        {
-          "name": "Georgia Vesper",
-          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
-        }
-      ],
-      "duration_ms": 144043,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Seneca Rise",
         "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 157800,
       "name": "Seneca Rise",
       "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
+      },
+      "artists": [
+        {
+          "name": "Georgia Vesper",
+          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
+        }
+      ],
+      "duration_ms": 144043,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Simple Soul",
-        "url": "https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku"
-      },
-      "artists": [
-        {
-          "name": "BlunD",
-          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
-        }
-      ],
-      "duration_ms": 214330,
-      "name": "Slowly Flying",
-      "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Insights",
         "url": "https://open.spotify.com/album/5yB1iHwxoDqs4UqPtQravz"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 165325,
       "name": "Forgettable",
       "url": "https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Simple Soul",
+        "url": "https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "duration_ms": 214330,
+      "name": "Slowly Flying",
+      "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Rituals",
-      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 190666,
       "name": "Oh so Quiet",
       "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Sleep - Vol 4",
-        "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
-      },
-      "artists": [
-        {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
-        }
-      ],
-      "duration_ms": 255578,
-      "name": "Reinstatement",
-      "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Soft Meadow",
         "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Incorniciato",
-        "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
+        "name": "Sleep - Vol 4",
+        "url": "https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC"
       },
       "artists": [
         {
-          "name": "Adelina Palm",
-          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Incorniciato",
-      "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
+      "duration_ms": 255578,
+      "name": "Reinstatement",
+      "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1559,6 +1543,22 @@
       "duration_ms": 172372,
       "name": "Moonchild's First Flight",
       "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Incorniciato",
+        "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
+      },
+      "artists": [
+        {
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Incorniciato",
+      "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "Sphere",
-      "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW"
       },
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Calming Water",
-        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
       },
       "artists": [
         {
-          "name": "Divine Retreat",
-          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
         }
       ],
-      "duration_ms": 239353,
-      "name": "Cleansing Raindrops",
-      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
+      "duration_ms": 179104,
+      "name": "Sphere",
+      "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
+      },
+      "artists": [
+        {
+          "name": "Silent Movement",
+          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Paracosm",
+      "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1671,6 +1671,22 @@
       "duration_ms": 216015,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Calming Water",
+        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+      },
+      "artists": [
+        {
+          "name": "Divine Retreat",
+          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+        }
+      ],
+      "duration_ms": 239353,
+      "name": "Cleansing Raindrops",
+      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1707,38 +1723,6 @@
     {
       "added_at": "2024-12-11 14:37:35",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
-      },
-      "artists": [
-        {
-          "name": "Silent Movement",
-          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Paracosm",
-      "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
         "name": "Wondrous",
         "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 140029,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Sandman's Lullaby",
+        "url": "https://open.spotify.com/album/4PLjfZjlu6r1tiLURK3eFu"
+      },
+      "artists": [
+        {
+          "name": "Phylloscopus humei",
+          "url": "https://open.spotify.com/artist/0fTIoPPUI4uc1vmicKfoqS"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "Sandman's Lullaby",
+      "url": "https://open.spotify.com/track/5Fsbc5Kpa2rk3nWlVFh4JG"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1783,6 +1783,22 @@
       "duration_ms": 217000,
       "name": "Dreamgaze",
       "url": "https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv"
+    },
+    {
+      "added_at": "2024-12-11 14:37:35",
+      "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
     },
     {
       "added_at": "2024-12-11 14:37:35",
@@ -1863,22 +1879,6 @@
       "duration_ms": 149250,
       "name": "Mystic Reverberations",
       "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
-    },
-    {
-      "added_at": "2024-12-11 14:37:35",
-      "album": {
-        "name": "Sandman's Lullaby",
-        "url": "https://open.spotify.com/album/4PLjfZjlu6r1tiLURK3eFu"
-      },
-      "artists": [
-        {
-          "name": "Phylloscopus humei",
-          "url": "https://open.spotify.com/artist/0fTIoPPUI4uc1vmicKfoqS"
-        }
-      ],
-      "duration_ms": 148235,
-      "name": "Sandman's Lullaby",
-      "url": "https://open.spotify.com/track/5Fsbc5Kpa2rk3nWlVFh4JG"
     },
     {
       "added_at": "2024-12-11 14:37:35",

@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-133 songs - 6 hr 56 min
+134 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Futura](https://open.spotify.com/track/0EloAHBAFuWZQgLgiOeqse) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Futura](https://open.spotify.com/album/5uBzDNHgBHYTkpSldTMfql) | 3:12 | 2024-06-06 |  |
 | [Galactic Odyssey](https://open.spotify.com/track/6FLYswnxa41JAlvVO0z8jM) | [Silver Silk](https://open.spotify.com/artist/6QLATz6O5GQx3s24kJb96O) | [Galactic Odyssey](https://open.spotify.com/album/6Tg8rLt0JwF3U9f71ytaH2) | 2:39 | 2024-06-06 |  |
 | [Game Changer](https://open.spotify.com/track/6A32QbIZSDMf2XjWXZzuxg) | [The Big Let Down](https://open.spotify.com/artist/6xyuBVDedXYKfog6HWaJCR) | [Game Changer](https://open.spotify.com/album/5TDq44iN68JvxiA47gbNkH) | 3:32 | 2024-07-16 |  |
-| [Genesis](https://open.spotify.com/track/6oXGhkID0h3hAB7Q8bJbm2) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Genesis](https://open.spotify.com/album/7qRTzJRQaIrcOlbTjN2faN) | 2:36 | 2024-06-06 |  |
+| [Genesis](https://open.spotify.com/track/6oXGhkID0h3hAB7Q8bJbm2) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Genesis](https://open.spotify.com/album/7qRTzJRQaIrcOlbTjN2faN) | 2:36 | 2024-06-06 | 2024-12-23 |
 | [ghost](https://open.spotify.com/track/4aq30tjWBZBsfzWlog31R6) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [ghost](https://open.spotify.com/album/1vsOZvcy71weRgIc4tzsGH) | 2:46 | 2024-09-27 |  |
 | [Glide](https://open.spotify.com/track/1IJkYdWKbtkkyhEdXjqeLX) | [Whilefalse](https://open.spotify.com/artist/1ixu62yr2QwyZ1EFALxgCF) | [Glide](https://open.spotify.com/album/4euepUf6is3WgmqOPpvisj) | 3:20 | 2024-09-05 |  |
 | [Glint](https://open.spotify.com/track/3wq9bm0WA6PjX1thMwojWI) | [Moiré Lights](https://open.spotify.com/artist/0hvQek6XUHfM89K9bBFiqe) | [Harsh Light](https://open.spotify.com/album/14m691uqlsr4P4nWPOJsil) | 3:01 | 2024-08-10 |  |
@@ -94,6 +94,7 @@
 | [Odyssey \- Slowed](https://open.spotify.com/track/1ojCddCmLWIan9ZOEVICWb) | [Francois Smith](https://open.spotify.com/artist/4AOXd36Sp0jRG6obhrHxE6) | [Odyssey](https://open.spotify.com/album/2J8bVQt8IGjVPj8XugriCF) | 3:52 | 2024-09-13 |  |
 | [Old Places](https://open.spotify.com/track/4WJQ2Bunmt1M4SH6u7B6lQ) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Old Places](https://open.spotify.com/album/3MYhQO56RkOSmjPvHrsX7C) | 3:21 | 2024-06-06 | 2024-09-06 |
 | [On Cruise Control](https://open.spotify.com/track/2GZRNtR3x0WNbLKrsYWi3w) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [On Cruise Control](https://open.spotify.com/album/43FTvKoyvCJLZKk9hd6VNK) | 3:23 | 2024-06-06 |  |
+| [Only In Memories](https://open.spotify.com/track/5BRMKBITG2JK0nND2yvsX4) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Only In Memories](https://open.spotify.com/album/6LZlNo3LZBsWIbdFmfFMlp) | 2:56 | 2024-12-22 |  |
 | [Orion](https://open.spotify.com/track/44pz5LCYYGKHrkwyP3AX9u) | [Protocols](https://open.spotify.com/artist/3Xi9NGRGPDLOUHt03WMZJx) | [2 A.M Chill Session](https://open.spotify.com/album/3PZmQxxLUZwyyMgXWUpmuw) | 2:57 | 2024-06-06 |  |
 | [Out in the Rain](https://open.spotify.com/track/79m4ZOoOIAlhCtADrWqDqN) | [Forever Sunset](https://open.spotify.com/artist/6Y5W9usiGN7XrMM1k4ItaG) | [The Night Is Mine](https://open.spotify.com/album/0OR0YcdVqUaNzFWkL6XeTb) | 3:37 | 2024-07-04 |  |
 | [Outrunners](https://open.spotify.com/track/3dbEGEBl2UlFHhxSPHsQrH) | [Beta Beta Beta](https://open.spotify.com/artist/3Q6xEwdxfXL8lTgj1KbXkU) | [Outrunners](https://open.spotify.com/album/1lHAsQQl2cVbrsuhKdpqdU) | 3:30 | 2024-06-06 |  |
@@ -105,7 +106,7 @@
 | [Primatology](https://open.spotify.com/track/3te4nCqa852HkboUhdSL9g) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Filtered Smiles](https://open.spotify.com/album/5Pm1OsfYv0mKcgVQgg1ANb) | 2:35 | 2024-06-06 |  |
 | [Prisma](https://open.spotify.com/track/3mZfVG8hSYqGF8eTBKVuVs) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Prisma](https://open.spotify.com/album/5bYQr9siEzu3EpkW5fBrgO) | 3:12 | 2024-06-06 |  |
 | [Radiate](https://open.spotify.com/track/21zlF8F7xfYvbMnM9atda1) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Radiate](https://open.spotify.com/album/7BITBWHql9BZNZmdKNmZze) | 3:51 | 2024-06-06 |  |
-| [Rebound](https://open.spotify.com/track/7o7vKcCxfstLnsdhM4OkyD) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Rebound](https://open.spotify.com/album/6LLm6mmVB8tXjpRxSW5BJI) | 3:04 | 2024-06-06 |  |
+| [Rebound](https://open.spotify.com/track/7o7vKcCxfstLnsdhM4OkyD) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Rebound](https://open.spotify.com/album/6LLm6mmVB8tXjpRxSW5BJI) | 3:04 | 2024-06-06 | 2024-12-23 |
 | [Red Red Sea](https://open.spotify.com/track/1eMLvUyt10OOSs2qPLmFSk) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Red Red Sea](https://open.spotify.com/album/5IJZmgMdmoR0ZyC9y7M2Nj) | 2:52 | 2024-06-06 | 2024-06-21 |
 | [Retrospective](https://open.spotify.com/track/424yw05HVjjPldglLjJtmy) | [YOUTH 83](https://open.spotify.com/artist/5Yn2L5pqTDEymWBHXfor7f) | [Retrospective](https://open.spotify.com/album/1ZDwHFLH5XczqjNJLmgOoM) | 4:19 | 2024-09-27 |  |
 | [Roxanne](https://open.spotify.com/track/1Ju6i9d28t9786RVrm1GGz) | [Velvet Pillows](https://open.spotify.com/artist/65CuhifhbwR2bSo6OWTrJM) | [Roxanne](https://open.spotify.com/album/7m2Yo2SlmlBR9nTlU0vrl1) | 3:14 | 2024-06-06 |  |

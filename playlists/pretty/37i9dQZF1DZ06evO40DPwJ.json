@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 17606,
+  "num_followers": 17612,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAARgSmGIwIhU0BuW4CHQeTJ",
+  "snapshot_id": "Z2YFAAAAAACxllQDAfo8TBdD/eiFlUEE",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK"
       },
       "artists": [
         {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+          "name": "Tinchy Stryder",
+          "url": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
         },
         {
-          "name": "Wonder Stereo",
-          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 145290,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
+      "duration_ms": 257213,
+      "name": "Take Me Back Remix - feat. Sway & Chipmunk",
+      "url": "https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj"
     },
     {
       "added_at": null,
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
       },
       "artists": [
         {
-          "name": "Tinchy Stryder",
-          "url": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
-        },
-        {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Wonder Stereo",
+          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
         }
       ],
-      "duration_ms": 257213,
-      "name": "Take Me Back Remix - feat. Sway & Chipmunk",
-      "url": "https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj"
+      "duration_ms": 145290,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NapsterLive Sessions",
-        "url": "https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW"
+        "name": "Higher (International)",
+        "url": "https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Knock Me Off My Feet",
-      "url": "https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q"
+      "duration_ms": 168160,
+      "name": "Little Lion Man - BBC Live version",
+      "url": "https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher (International)",
-        "url": "https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY"
+        "name": "NapsterLive Sessions",
+        "url": "https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Little Lion Man - BBC Live version",
-      "url": "https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W"
+      "duration_ms": 198293,
+      "name": "Knock Me Off My Feet",
+      "url": "https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q"
     },
     {
       "added_at": null,

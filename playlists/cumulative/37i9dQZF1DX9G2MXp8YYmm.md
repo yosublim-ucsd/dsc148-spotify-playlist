@@ -4,14 +4,14 @@
 
 > Popun sevilen isimleri\. Kapak: Afra
 
-185 songs - 9 hr 11 min
+186 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2017](https://open.spotify.com/track/4QccVW3CYYLzvTY0yCwcrZ) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [2017](https://open.spotify.com/album/7bHm4NBxAUgM3XpfXmB7fv) | 2:07 | 2024-07-18 |  |
 | [ABART](https://open.spotify.com/track/1aA9W1c1Qg0lSOyqtZ1x9T) | [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [ABART](https://open.spotify.com/album/2SpENtaNk0UcS2MGrENQYP) | 2:38 | 2024-08-22 | 2024-09-06 |
 | [Acının Seyir Defteri](https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y) | [Aşkın Nur Yengi](https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k) | [Acının Seyir Defteri](https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc) | 2:51 | 2024-11-21 | 2024-11-28 |
-| [Acıyla Kucaklaştım](https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX) | 3:19 | 2024-06-27 |  |
+| [Acıyla Kucaklaştım](https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX) | 3:19 | 2024-06-27 | 2024-12-23 |
 | [Adını Yazdım](https://open.spotify.com/track/3U2n2bDXv2X4eIxQ0Rqsbw) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Adını Yazdım](https://open.spotify.com/album/6A4vsUDLXGiDtqplTzSPon) | 2:29 | 2024-06-27 | 2024-10-02 |
 | [Aferin Bana](https://open.spotify.com/track/1PTAhnedy6E7RUB6kAlxsE) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Aferin Bana](https://open.spotify.com/album/0LBF46qGy65WEcrtbxetHP) | 3:40 | 2024-07-25 | 2024-09-06 |
 | [Affet Beni](https://open.spotify.com/track/5zcjVHdSAD1PFnKcloYHbL) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Affet Beni](https://open.spotify.com/album/1RfOPexXsCeH9jLGFftWqN) | 2:32 | 2024-06-27 | 2024-07-21 |
@@ -33,6 +33,7 @@
 | [Balerin](https://open.spotify.com/track/5J0W5NTiNfQaN6uUO0uVu9) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Balerin](https://open.spotify.com/album/2guhibB7qxRwC6xYrmtbmr) | 2:56 | 2024-07-11 | 2024-09-06 |
 | [Bana Sorma](https://open.spotify.com/track/3POiAfxKkpd0UudOnDW3JF) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bana Sorma](https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh) | 4:14 | 2024-06-27 |  |
 | [Bedel](https://open.spotify.com/track/23cjMX6FjB8TGdRnLD5bod) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bedel](https://open.spotify.com/album/3JaSBvsF9GmTY7vjNwSHRF) | 2:37 | 2024-07-04 | 2024-08-23 |
+| [Bekleyenim](https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bekleyenim](https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x) | 2:41 | 2024-12-19 |  |
 | [Ben Böyle](https://open.spotify.com/track/4QCav8A7C8fOrX2gQNShuh) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ben Böyle](https://open.spotify.com/album/55EPPWTtxqRsqbyD7zkyng) | 2:10 | 2024-09-12 | 2024-10-11 |
 | [Ben Değilim](https://open.spotify.com/track/4Fcoc1T0sMSATaxoidF4ei) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Değilim](https://open.spotify.com/album/7sJGFksC9dYJlNG2wELOjt) | 3:42 | 2024-11-14 |  |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-06-27 |  |

@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 2010s\. Cover: Kesha
 
-464 songs - 1 day 3 hr 19 min
+465 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 | 2021-09-08 | 2024-10-24 |
 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 | 2022-07-02 | 2024-04-19 |
 | [Five More Hours](https://open.spotify.com/track/6YwLgicpvVuMt1eE2OldwQ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Five More Hours](https://open.spotify.com/album/1j4y4oErsQ2dIiZXClg1Zc) | 3:31 | 2021-03-22 | 2022-07-29 |
+| [Freaks](https://open.spotify.com/track/62feRreeM9ea7i2VHVSKrg) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/4N8JGZRiTgGcUz9IamhsQ8) | 2:48 | 2024-07-12 |  |
 | [Freaky Friday \(feat\. Chris Brown\)](https://open.spotify.com/track/10Igtw8bSDyyFs7KIsKngZ) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Freaky Friday \(feat\. Chris Brown\)](https://open.spotify.com/album/1XbNDGybI1iPfeQNJEeUdn) | 3:36 | 2021-09-27 | 2022-04-21 |
 | [Friends \(with BloodPop®\)](https://open.spotify.com/track/7iNIg7XDEaYECfWD5dJ9Va) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Friends \(with BloodPop®\)](https://open.spotify.com/album/7huML9zDbY4thKH0xSuZTP) | 3:09 | 2021-09-08 | 2022-02-24 |
 | [FRIENDS \- R3hab Remix](https://open.spotify.com/track/18YRKiIZO4qDEc5Ik0Cry6) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [FRIENDS \(R3hab Remix\)](https://open.spotify.com/album/2KBVjOOFq54CcaHTxItDhl) | 2:37 | 2021-03-22 | 2022-07-27 |
@@ -330,7 +331,7 @@
 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 | 2024-05-26 |  |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs) | 2:56 | 2022-07-02 |  |
 | [Rude \- Zedd Remix](https://open.spotify.com/track/6rmtT7Y8cH7NpvovoPiV6k) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Rude \(Zedd Remix\)](https://open.spotify.com/album/4QLBuRlKOxUPE9BqIdHQyf) | 4:33 | 2021-09-08 | 2022-07-29 |
-| [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2021-03-22 |  |
+| [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2021-03-22 | 2024-12-23 |
 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 | 2022-07-02 | 2024-04-19 |
 | [Runaway \(U & I\)](https://open.spotify.com/track/4qABfS1RaGVXdBhj2BQyhO) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Runaway \(U & I\)](https://open.spotify.com/album/4AvWWrL9TB38MwVUuB2tTO) | 3:47 | 2021-09-08 | 2022-06-11 |
 | [S&M](https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:03 | 2021-03-22 | 2024-12-15 |

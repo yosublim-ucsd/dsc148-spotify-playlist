@@ -1,6 +1,6 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 422566,
+  "num_followers": 422837,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 247001,
-      "name": "Everybody Everybody",
-      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "2 Future 4 U",
         "url": "https://open.spotify.com/album/00XVrVh53A6ENcRbErr81y"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 222666,
       "name": "The Key, The Secret",
       "url": "https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        },
+        {
+          "name": "A. Manetta",
+          "url": "https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "Don't Stop Movin' - Radio Mix",
+      "url": "https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Plastic Dreams",
         "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 231840,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        },
-        {
-          "name": "A. Manetta",
-          "url": "https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "Don't Stop Movin' - Radio Mix",
-      "url": "https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -407,6 +407,22 @@
       "duration_ms": 591733,
       "name": "French Kiss - The Original Underground Mix",
       "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 319866,
+      "name": "Don't Stop Movin'",
+      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 319866,
-      "name": "Don't Stop Movin'",
-      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Percolator (Original Mix)",
         "url": "https://open.spotify.com/album/7E5OUkUh3NKIo9rlVGcb81"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "F.L.M.",
-        "url": "https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv"
-      },
-      "artists": [
-        {
-          "name": "Mel & Kim",
-          "url": "https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Respectable",
-      "url": "https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Turn Up The Bass",
         "url": "https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 298918,
       "name": "Turn Up The Bass - Fast Eddie Scratch It Up Mix",
       "url": "https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "F.L.M.",
+        "url": "https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv"
+      },
+      "artists": [
+        {
+          "name": "Mel & Kim",
+          "url": "https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Respectable",
+      "url": "https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Everybody (All Over The World)",
+        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
+      },
+      "artists": [
+        {
+          "name": "FPI Project",
+          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
+        }
+      ],
+      "duration_ms": 313813,
+      "name": "Everybody (All over the World) - Dance Version",
+      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Original Soundtrack",
         "url": "https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Everybody (All Over The World)",
-        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
+        "name": "Do You Want Me Baby",
+        "url": "https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy"
       },
       "artists": [
         {
-          "name": "FPI Project",
-          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
+          "name": "Cloud 9",
+          "url": "https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6"
         }
       ],
-      "duration_ms": 313813,
-      "name": "Everybody (All over the World) - Dance Version",
-      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
+      "duration_ms": 482445,
+      "name": "Do You Want Me Baby - Original Club Mix",
+      "url": "https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 395609,
       "name": "Nothing Better - Tmvs Club Mix",
       "url": "https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Do You Want Me Baby",
-        "url": "https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy"
-      },
-      "artists": [
-        {
-          "name": "Cloud 9",
-          "url": "https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6"
-        }
-      ],
-      "duration_ms": 482445,
-      "name": "Do You Want Me Baby - Original Club Mix",
-      "url": "https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Club Classics",
-        "url": "https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m"
-      },
-      "artists": [
-        {
-          "name": "Alison Limerick",
-          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
-        },
-        {
-          "name": "Steve Anderson",
-          "url": "https://open.spotify.com/artist/1w2vC8mujXXoXYTVRxJybN"
-        }
-      ],
-      "duration_ms": 424266,
-      "name": "Make It On My Own - 12\" Club Mix",
-      "url": "https://open.spotify.com/track/63k11xpe5cqZAIPyWgVyvL"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "The World is Full of Trouble",
         "url": "https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn"
       },
@@ -1039,6 +1019,22 @@
       "duration_ms": 446466,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "Pick Up The Phone",
+      "url": "https://open.spotify.com/track/2uvFIGn79RLOHP1MeXI1Tr"
     }
   ],
   "unique_name": "90s House Classics",

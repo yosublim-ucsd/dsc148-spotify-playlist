@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 527 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 32 | [Look What You Done](https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:14 |
 | 33 | [Rent Due](https://open.spotify.com/track/1jUoM50qHfx2RnyaprnaIC) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Dark Lo](https://open.spotify.com/artist/6Afg12eQ1Xu2O4ugWDhDcU) | [Rent Due](https://open.spotify.com/album/2jk0gKFMogDfryo4vZ4J5H) | 2:36 |
 | 34 | [212](https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Conway Remixes 1 & 2](https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l) | 2:50 |
-| 35 | [The Reaper's Hood Remix](https://open.spotify.com/track/0AioKbKSmGVyhyqbXEM8b4) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 2:09 |
+| 35 | [1000 Mile Stare](https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [1000 Mile Stare](https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz) | 3:18 |
 | 36 | [Big George Bombs](https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:00 |
-| 37 | [1000 Mile Stare](https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [1000 Mile Stare](https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz) | 3:18 |
-| 38 | [Deliver Us from Evil \(Remix\)](https://open.spotify.com/track/60z5FCH9xnUqx7IFzkR8vF) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Deleted Scenes 2](https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ) | 2:59 |
-| 39 | [RUM CAKE](https://open.spotify.com/track/3uRWoCAihemNY0oV667Vro) | [Obijuan](https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [FLDSZN](https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B) | 1:16 |
+| 37 | [The Reaper's Hood Remix](https://open.spotify.com/track/0AioKbKSmGVyhyqbXEM8b4) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 2:09 |
+| 38 | [RUM CAKE](https://open.spotify.com/track/3uRWoCAihemNY0oV667Vro) | [Obijuan](https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [FLDSZN](https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B) | 1:16 |
+| 39 | [Deliver Us from Evil \(Remix\)](https://open.spotify.com/track/60z5FCH9xnUqx7IFzkR8vF) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Deleted Scenes 2](https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ) | 2:59 |
 | 40 | [Crypto](https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 1:56 |
 | 41 | [Manchurian Candidate](https://open.spotify.com/track/4OBm2wJ1DNBkVldLxV99Ak) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Directors Cut 4](https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv) | 2:37 |
 | 42 | [YOD Body](https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 49 | [War Dogs \(feat\. Che Noir\)](https://open.spotify.com/track/15y2GUnXU0t4yGOe8yB7hP) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J) | [Directors Cut 4](https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv) | 2:55 |
 | 50 | [Breaking Atoms](https://open.spotify.com/track/4BBkdH0uEsuxN3BkcAsazz) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:24 |
 
-Snapshot ID: `Z2SzgAAAAABhOlCGg76lRy047szelNsk`
+Snapshot ID: `Z2YFAAAAAADFiw4H6ohTPy1I/OlGh9RT`

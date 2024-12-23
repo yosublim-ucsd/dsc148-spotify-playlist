@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-684 songs - 1 day 9 hr 33 min
+685 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Finally](https://open.spotify.com/track/7K421TaU7VnlOYYNfftd8A) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Finally](https://open.spotify.com/album/3444myYgBDVDQaSpHjS0rB) | 2:22 | 2024-06-28 | 2024-07-27 |
 | [Finally Finally](https://open.spotify.com/track/7bzOg4aR7E0z4aigy7zwwt) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:09 | 2024-08-02 | 2024-08-26 |
 | [Find Somebody](https://open.spotify.com/track/5Pj1Fogn76Q2FE5JUMh50Q) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Jaiye \(Ihe Geme\)](https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0) | 3:27 | 2022-07-21 | 2022-08-12 |
+| [Fine Girl](https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Fine Girl](https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR) | 2:36 | 2024-12-21 |  |
 | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61) | 3:06 | 2022-12-08 | 2023-01-14 |
 | [Finish Me](https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Ransom Beatz](https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy), [Big Tobz](https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK) | [Finish Me](https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES) | 2:11 | 2024-11-29 |  |
 | [Fire Baby](https://open.spotify.com/track/382Lr6Gtryesu05Kt0t6eZ) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Bosco Soundtrack](https://open.spotify.com/artist/4vkkMvu0BYvfIsioM7U7w6) | [Fire Baby](https://open.spotify.com/album/1Ix6IXNroBbRT7HHlMlvRf) | 2:56 | 2024-09-13 | 2024-09-20 |
@@ -607,7 +608,7 @@
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 | 2023-02-24 |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2023-09-15 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2024-08-26 |
-| [Sweet For Joy](https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5) | [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Sweet For Joy](https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7) | 2:45 | 2024-11-22 |  |
+| [Sweet For Joy](https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5) | [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Sweet For Joy](https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7) | 2:45 | 2024-11-22 | 2024-12-23 |
 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 | 2024-02-09 | 2024-02-14 |
 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 | 2023-09-09 | 2024-05-24 |
 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 | 2023-04-14 | 2023-09-29 |

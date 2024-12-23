@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 8403,
+  "num_followers": 8405,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAAogOAFGW1Zx23V68tL34dQ",
+  "snapshot_id": "Z2YFAAAAAACFsY3s1utdIPN0bH7LN72C",
   "tracks": [
     {
       "added_at": null,
@@ -338,19 +338,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Moor Mother",
-          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
         }
       ],
-      "duration_ms": 374783,
-      "name": "Bolo Na (feat. Moor Mother, Joel Ross)",
-      "url": "https://open.spotify.com/track/4FQAxshBZidR2if07k021H"
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
     },
     {
       "added_at": null,
@@ -420,21 +412,17 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
         },
         {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
-        },
-        {
-          "name": "Maeve Gilchrist",
-          "url": "https://open.spotify.com/artist/389WRgo5xrmZWgpleecYa5"
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
         }
       ],
-      "duration_ms": 307887,
-      "name": "Last Night Reprise (feat. Cautious Clay, Kaki King, Maeve Gilchrist)",
-      "url": "https://open.spotify.com/track/35IhAAciJPseghP7KlBhVU"
+      "duration_ms": 374783,
+      "name": "Bolo Na (feat. Moor Mother, Joel Ross)",
+      "url": "https://open.spotify.com/track/4FQAxshBZidR2if07k021H"
     },
     {
       "added_at": null,

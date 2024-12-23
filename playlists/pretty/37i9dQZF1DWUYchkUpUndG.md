@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj?si=g4dREUaiRiqhyuk97lh8Eg>Uche Agu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,202 likes - 82 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,258 likes - 82 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 39 | [Christmas Is Here](https://open.spotify.com/track/2qIVIopBlIBGsarmgXEslX) | [Dabo Williams](https://open.spotify.com/artist/2b1gzVa6dmkHEXKPCLOCHY) | [Christmas Is Here](https://open.spotify.com/album/7McvRX2wwL9Ixtyyist8u8) | 2:47 |
 | 40 | [Mofaramo](https://open.spotify.com/track/5c7vnReasBzgUKKsp44mKZ) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Mofaramo](https://open.spotify.com/album/3bETF6am5mHOCAMEOYBqNl) | 3:38 |
 | 41 | [Anyi N'Aja Gi Mma](https://open.spotify.com/track/35aI26xlAZtoO9Eajcnu5k) | [Prosper King](https://open.spotify.com/artist/60JSlzTzBBsoRxuDrI9x3A) | [Anyi N'Aja Gi Mma](https://open.spotify.com/album/1oeU1Hvzr40kM1SQbdpfwf) | 2:10 |
-| 42 | [I'm Loved](https://open.spotify.com/track/26PWi1b6kajpDxDh2o8k5O) | [Where Feet Fail](https://open.spotify.com/artist/2KkKTdEPbNFFktcgVmK6yq), [Ti'fe](https://open.spotify.com/artist/2rolpMsYzBabCD3hHQZ30R), [Collage](https://open.spotify.com/artist/3BKBrp91niOQBmVJQsRg7R) | [I'm Loved](https://open.spotify.com/album/0tGF1uX3Fybne7rOsHrNnQ) | 2:06 |
+| 42 | [I'm Loved](https://open.spotify.com/track/26PWi1b6kajpDxDh2o8k5O) | [Where Feet Fail](https://open.spotify.com/artist/2KkKTdEPbNFFktcgVmK6yq), [Ti’fe](https://open.spotify.com/artist/6ulRI2tQW3DCVCpzZ2rtMX), [Collage](https://open.spotify.com/artist/3BKBrp91niOQBmVJQsRg7R) | [I'm Loved](https://open.spotify.com/album/0tGF1uX3Fybne7rOsHrNnQ) | 2:06 |
 | 43 | [A Step Back Home](https://open.spotify.com/track/3y8u8k8lghmH7rSUgXqP3D) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [Christmas Culture: A Step Back Home](https://open.spotify.com/album/2jfjWue5dzITZcOHjxQCkx) | 1:14 |
 | 44 | [Naamini Kwako Bwana](https://open.spotify.com/track/1xqmMfkjQSGUgGF93wSbyE) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Naamini Kwako Bwana](https://open.spotify.com/album/1jExfezqunAy4F3tQP9IZf) | 6:20 |
 | 45 | [Spirit of Light \- Radio Edit](https://open.spotify.com/track/1Dk2IkBBEZAf4qsdEqZStb) | [J.Sanz](https://open.spotify.com/artist/1G1isaUzbuMSPTqjbe4UGK), [Dan Shaw](https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV) | [Spirit of Light](https://open.spotify.com/album/6FRu5NzOsdH2ZTwHKmJ0uO) | 3:20 |

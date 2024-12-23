@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-442 songs - 1 day 4 hr 43 min
+443 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Light of the World](https://open.spotify.com/track/4IR0seMxE1JhVfv90KE1NV) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [Thank God it's Christmas](https://open.spotify.com/album/1FBFqL715gCViWqbmVGgRD) | 3:32 | 2021-12-11 | 2024-12-19 |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2021-12-11 | 2024-11-18 |
 | [Little Drummer Boy](https://open.spotify.com/track/0yS3skL5mFKSiWXQU2OCrM) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 4:23 | 2021-12-24 |  |
-| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 | 2024-12-23 |
 | [Little Drummer Boy](https://open.spotify.com/track/7EeV1otijbcvoHqnvIwBn2) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Little Drummer Boy](https://open.spotify.com/album/7eJDZVgQGNFqGFIgL7hBJj) | 2:45 | 2023-11-27 | 2024-08-01 |
 | [Lo, How a Rose E'er Blooming](https://open.spotify.com/track/0MRgBqz9WuTIOlY2ybB87l) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl) | [Lo, How a Rose E'er Blooming](https://open.spotify.com/album/0S1x9TKC6K43OR90zzaBVt) | 2:52 | 2024-11-23 |  |
 | [Love Has Come](https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Love Has Come](https://open.spotify.com/album/4lZ1sKFGdyp3Uu5Ux3uSyC) | 4:34 | 2023-12-15 | 2024-11-08 |
@@ -283,6 +283,7 @@
 | [Noel \(He Is Born\) \- Acoustic](https://open.spotify.com/track/17Lfjg1DnlDBc7BsVz1uOG) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [Noel \(He Is Born\)](https://open.spotify.com/album/0qBNdc9efGihbsXN2x8Wkg) | 4:21 | 2021-12-24 |  |
 | [Noel \- Live](https://open.spotify.com/track/5eMK2CHhWtufXfNrA6FgpG) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:17 | 2021-12-11 | 2023-12-16 |
 | [O Come \(Let Us Adore\)](https://open.spotify.com/track/0VlobtAI0AS2Zgk5KPFJbz) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [O Come \(Let Us Adore\)](https://open.spotify.com/album/40sjeJn5Nh3oBo0Wovyqje) | 3:23 | 2021-12-11 | 2024-08-01 |
+| [O Come All Ye Faithful](https://open.spotify.com/track/5haky0l0zU8JXrY3toKhqO) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Hailey Storer](https://open.spotify.com/artist/1es11bh34XVASYtJEa6be3) | [Christmas in Kentucky](https://open.spotify.com/album/45kEaPL2jSlqShBXgwfU3i) | 3:12 | 2024-12-13 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/7F2Y9vPmOd4RQq8ZJgbFMk) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [O Come All Ye Faithful](https://open.spotify.com/album/5thPoXoJSR4ooEcyXT8yGf) | 3:24 | 2022-11-26 |  |
 | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/track/15iXq47g33NYpcjIvA5Phr) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [O Come All Ye Faithful \(Adore Him\)](https://open.spotify.com/album/6DM0NT7VUfcnSHX14gGMSP) | 4:39 | 2022-12-11 | 2023-12-17 |
 | [O Come All Ye Faithful \- Live](https://open.spotify.com/track/08r6V6XZhUDOg4uiPXQHVL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [O Come All Ye Faithful \(Live\)](https://open.spotify.com/album/4XIV8Lc2D3xKO8Vp3JB4i2) | 4:18 | 2021-12-24 | 2022-07-27 |

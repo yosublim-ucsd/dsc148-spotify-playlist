@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-358 songs - 17 hr 29 min
+359 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |
 | [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 | 2024-12-05 |
 | [Elements](https://open.spotify.com/track/5jLagdhjTqE0tx8U1dZGiq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Elements](https://open.spotify.com/album/7eNFkCGeXCtLAaHG7XTVlL) | 2:03 | 2024-10-18 |  |
-| [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 |  |
+| [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 | 2024-12-23 |
 | [Emerald](https://open.spotify.com/track/5OSGlRXM9SLoEdGAhZ2FoS) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Emerald](https://open.spotify.com/album/4AK1LTE4aVQKdjQGbKCK8k) | 2:50 | 2024-03-08 |  |
 | [enter wandsbek](https://open.spotify.com/track/3rjxHeLZEPGyReh6iVt0tT) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Made sum beats on tour in a Hamburg airbnb](https://open.spotify.com/album/1jhDMNtTx2zD1PjhAOPrOX) | 2:09 | 2024-11-29 |  |
 | [Et Lite Øyeblikk Bare \- An NPR Tiny Desk Concert](https://open.spotify.com/track/0gNWFpkw3GFSMVIFwhDJfC) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [At Home \(An NPR Tiny Desk Concert\)](https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77) | 5:20 | 2023-12-08 |  |
@@ -283,6 +283,7 @@
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |
 | [Sometimes](https://open.spotify.com/track/4GxjXLt3QmNK86kZH3YX84) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Sometimes](https://open.spotify.com/album/50DOyzaTfAWF0eFJSgZden) | 1:52 | 2024-09-27 | 2024-11-18 |
 | [Sono Qui Pt\. 2](https://open.spotify.com/track/46GHEqmKAkkF9JmKQduQaT) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Francesco Giampaoli](https://open.spotify.com/artist/4JL4brCLF4fbNBdRt21tFX), [Opek](https://open.spotify.com/artist/1CUV6UEfyGRCZXqBbXJ5f7) | [Sono Qui Pt\. 2](https://open.spotify.com/album/6vWQ3YgWhg94oxf7llA2q7) | 2:21 | 2024-09-13 | 2024-09-16 |
+| [Soul Garden](https://open.spotify.com/track/0FsVyKGM2epSKXiEd5wtAe) | [Dust Diggers](https://open.spotify.com/artist/4hKE7ACi7biqGoYIbHeXOt) | [Soul Garden](https://open.spotify.com/album/2ojpfqyVlSteol0iPPRbGG) | 2:24 | 2024-12-13 |  |
 | [Space Lady](https://open.spotify.com/track/5jUsq0C0j5GVpGJ7k2aRuo) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Space Lady](https://open.spotify.com/album/60rYxheF93A0mh2U1tPMtO) | 2:18 | 2024-10-11 |  |
 | [Space Patrol](https://open.spotify.com/track/04DOoRqn0mhGrVSXWWFZy5) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Space Patrol](https://open.spotify.com/album/4SygTOSMqssPhZLMVtT3ss) | 2:42 | 2024-09-13 |  |
 | [Speakeasy](https://open.spotify.com/track/5YDoJVsS7bklB3c1YoETiy) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Speakeasy](https://open.spotify.com/album/0qcEeZzloAY2Bn6CQjzBcZ) | 1:48 | 2024-12-13 |  |

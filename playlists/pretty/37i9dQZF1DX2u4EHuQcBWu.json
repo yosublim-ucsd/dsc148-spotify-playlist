@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 202950,
+  "num_followers": 203000,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,38 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "MultiViral",
+        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "El Aguante",
+      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Pateando Piedras",
+        "url": "https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 343701,
+      "name": "El Baile De Los Que Sobran",
+      "url": "https://open.spotify.com/track/15T3otpUnJKin5njR8x0Tx"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
@@ -267,38 +299,6 @@
       "duration_ms": 351400,
       "name": "La Maza",
       "url": "https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Pateando Piedras",
-        "url": "https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 343701,
-      "name": "El Baile De Los Que Sobran",
-      "url": "https://open.spotify.com/track/15T3otpUnJKin5njR8x0Tx"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "MultiViral",
-        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "El Aguante",
-      "url": "https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
-      },
-      "artists": [
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        },
-        {
-          "name": "Cidtronyck",
-          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
-        }
-      ],
-      "duration_ms": 257181,
-      "name": "Escribo Rap Con R De Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Casa Babylon",
         "url": "https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 237640,
       "name": "Senor Matanza",
       "url": "https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Plata Ta T\u00e1",
+        "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "Plata Ta T\u00e1",
+      "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -451,22 +451,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Plata Ta T\u00e1",
-        "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
         }
       ],
-      "duration_ms": 255506,
-      "name": "Plata Ta T\u00e1",
-      "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
+      "duration_ms": 257181,
+      "name": "Escribo Rap Con R De Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 184378,
-      "name": "Antipatriarca",
-      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Patria y Vida",
         "url": "https://open.spotify.com/album/11KmjqP7jS1tb7caxTPYHa"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 184378,
+      "name": "Antipatriarca",
+      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "El Objeto Antes Llamado Disco",
         "url": "https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ"
       },
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "Shadia Mansour",
-          "url": "https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93"
-        }
-      ],
-      "duration_ms": 226922,
-      "name": "Somos Sur",
-      "url": "https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Cantos revolucionarios de america latina",
         "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
       },
@@ -959,6 +939,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Shadia Mansour",
+          "url": "https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93"
+        }
+      ],
+      "duration_ms": 226922,
+      "name": "Somos Sur",
+      "url": "https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 240716,
       "name": "El Mundo Que Nos Toc\u00f3 Vivir",
       "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Antifa Dance",
-        "url": "https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 155689,
-      "name": "Antifa Dance",
-      "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 284693,
       "name": "Cancion Pacifico-Violenta",
       "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Antifa Dance",
+        "url": "https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 155689,
+      "name": "Antifa Dance",
+      "url": "https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Un Le\u00f3n D-Mente",
+        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "D-Mente",
+          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
+        }
+      ],
+      "duration_ms": 346946,
+      "name": "La Memoria",
+      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "M\u00fasica Guerrera",
         "url": "https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK"
       },
@@ -1239,22 +1259,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Un Le\u00f3n D-Mente",
-        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
+        "name": "15 A\u00f1os De Mi",
+        "url": "https://open.spotify.com/album/2724ObvOvyi3CjgkBVIxlY"
       },
       "artists": [
         {
           "name": "Le\u00f3n Gieco",
           "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        },
-        {
-          "name": "D-Mente",
-          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
         }
       ],
-      "duration_ms": 346946,
-      "name": "La Memoria",
-      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
+      "duration_ms": 254186,
+      "name": "Cinco Siglos Igual",
+      "url": "https://open.spotify.com/track/6CIjy70IxwaCi1uEx07TyY"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 305893,
       "name": "Fuerte",
       "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Mostros",
-        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "2 de Octubre",
-      "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Mostros",
+        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "2 de Octubre",
+      "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Hurbanistorias",
         "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },
@@ -1383,18 +1399,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "15 A\u00f1os De Mi",
-        "url": "https://open.spotify.com/album/2724ObvOvyi3CjgkBVIxlY"
+        "name": "Gieco Y Heredia En Vivo",
+        "url": "https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3"
       },
       "artists": [
         {
           "name": "Le\u00f3n Gieco",
           "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
         }
       ],
-      "duration_ms": 254186,
-      "name": "Cinco Siglos Igual",
-      "url": "https://open.spotify.com/track/6CIjy70IxwaCi1uEx07TyY"
+      "duration_ms": 226120,
+      "name": "Todavia Cantamos",
+      "url": "https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1415,6 +1435,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Plegaria A Un Labrador",
+      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ellas",
         "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
@@ -1431,22 +1467,6 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Plegaria A Un Labrador",
-      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1499,26 +1519,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Gieco Y Heredia En Vivo",
-        "url": "https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        },
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 226120,
-      "name": "Todavia Cantamos",
-      "url": "https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "La Cultura De La Basura",
         "url": "https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 482333,
       "name": "Poder Elegir",
       "url": "https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 122436,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 122436,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Mar\u00eda Land\u00f3",
         "url": "https://open.spotify.com/album/2G44RDuX1aeQlBbLZUOub2"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Nada en Contra del K-pop",
-        "url": "https://open.spotify.com/album/3xQEMzgMAQGsUZEihbkJcz"
+        "name": "Mi Destino (Confesiones de Una Estrella del Rock)",
+        "url": "https://open.spotify.com/album/6pyJGoLdGE5v0yYKAbWgWz"
       },
       "artists": [
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Jorge Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG"
         }
       ],
-      "duration_ms": 289506,
-      "name": "Nada en Contra del K-pop",
-      "url": "https://open.spotify.com/track/0wEJTKfSqdcQv9RNSWAJEJ"
+      "duration_ms": 391986,
+      "name": "Allende Vive (Y Yo Se Donde)",
+      "url": "https://open.spotify.com/track/4vO6EVjidsnB2llQBWiMZv"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1723,18 +1723,34 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Mi Destino (Confesiones de Una Estrella del Rock)",
-        "url": "https://open.spotify.com/album/6pyJGoLdGE5v0yYKAbWgWz"
+        "name": "Nada en Contra del K-pop",
+        "url": "https://open.spotify.com/album/3xQEMzgMAQGsUZEihbkJcz"
       },
       "artists": [
         {
-          "name": "Jorge Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 391986,
-      "name": "Allende Vive (Y Yo Se Donde)",
-      "url": "https://open.spotify.com/track/4vO6EVjidsnB2llQBWiMZv"
+      "duration_ms": 289506,
+      "name": "Nada en Contra del K-pop",
+      "url": "https://open.spotify.com/track/0wEJTKfSqdcQv9RNSWAJEJ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Guarever",
+        "url": "https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF"
+      },
+      "artists": [
+        {
+          "name": "Aguas Ardientes",
+          "url": "https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc"
+        }
+      ],
+      "duration_ms": 284164,
+      "name": "5 Malparidos",
+      "url": "https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1755,22 +1771,6 @@
       "duration_ms": 114781,
       "name": "Nada Es Verdad (Finale) / Spoken Words",
       "url": "https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Guarever",
-        "url": "https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF"
-      },
-      "artists": [
-        {
-          "name": "Aguas Ardientes",
-          "url": "https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc"
-        }
-      ],
-      "duration_ms": 284164,
-      "name": "5 Malparidos",
-      "url": "https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

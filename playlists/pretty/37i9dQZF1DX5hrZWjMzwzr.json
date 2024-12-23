@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10051,
+  "num_followers": 10048,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/1r3ovt9tODhKNzKcmNipyX"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
+        }
+      ],
+      "duration_ms": 155954,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Inny \u015awiat",
         "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 145401,
       "name": "Inny \u015awiat",
       "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/1r3ovt9tODhKNzKcmNipyX"
-      },
-      "artists": [
-        {
-          "name": "Waima",
-          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
-        },
-        {
-          "name": "Mjonszu",
-          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
-        }
-      ],
-      "duration_ms": 155954,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -967,30 +967,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "G\u0141UPIE POMYS\u0141Y",
-        "url": "https://open.spotify.com/album/1StfVw1yKZr0NWGsTrtziA"
-      },
-      "artists": [
-        {
-          "name": "Gedz",
-          "url": "https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a"
-        },
-        {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
-        },
-        {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "G\u0141UPIE POMYS\u0141Y",
-      "url": "https://open.spotify.com/track/5BGG7LhSsf1WR5T1gNTUZM"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "GM2L Mixtape",
         "url": "https://open.spotify.com/album/6yL5hla6R4evgV5kiT9BJe"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 134693,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/7pnSBvGTjOHRDPgojNKXNu"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "G\u0141UPIE POMYS\u0141Y",
+        "url": "https://open.spotify.com/album/1StfVw1yKZr0NWGsTrtziA"
+      },
+      "artists": [
+        {
+          "name": "Gedz",
+          "url": "https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a"
+        },
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "G\u0141UPIE POMYS\u0141Y",
+      "url": "https://open.spotify.com/track/5BGG7LhSsf1WR5T1gNTUZM"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Na jedna karte",
+        "url": "https://open.spotify.com/album/2WROFAMlXSu0nLDq28gLBr"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        }
+      ],
+      "duration_ms": 165212,
+      "name": "Na jedna karte",
+      "url": "https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Mi\u0142o\u015b\u0107 zawsze jest",
         "url": "https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 185250,
       "name": "setki dr\u00f3g",
       "url": "https://open.spotify.com/track/4K4pptEdHvnQ4JBU8PAYJp"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Na jedna karte",
-        "url": "https://open.spotify.com/album/2WROFAMlXSu0nLDq28gLBr"
-      },
-      "artists": [
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        },
-        {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
-        }
-      ],
-      "duration_ms": 165212,
-      "name": "Na jedna karte",
-      "url": "https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/1mSuaNOmND4x5K9HnMrVNn"
+      },
+      "artists": [
+        {
+          "name": "PIH",
+          "url": "https://open.spotify.com/artist/4x2dSjOKPB7f2S5moqNGtV"
+        }
+      ],
+      "duration_ms": 313340,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/0FTOrw5NB3eh5nUkxOt8u4"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "nigdy wi\u0119cej 2022",
         "url": "https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 228000,
       "name": "nigdy wi\u0119cej 2022",
       "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/1mSuaNOmND4x5K9HnMrVNn"
-      },
-      "artists": [
-        {
-          "name": "PIH",
-          "url": "https://open.spotify.com/artist/4x2dSjOKPB7f2S5moqNGtV"
-        }
-      ],
-      "duration_ms": 313340,
-      "name": "2022",
-      "url": "https://open.spotify.com/track/0FTOrw5NB3eh5nUkxOt8u4"
     },
     {
       "added_at": "2024-02-27 08:21:33",

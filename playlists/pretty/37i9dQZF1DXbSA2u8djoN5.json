@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Vlad Dobrescu",
-  "num_followers": 19509,
+  "num_followers": 19510,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-12-05 22:00:00",
       "album": {
+        "name": "Sa MM Care Pleaca",
+        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 119343,
+      "name": "Sa MM Care Pleaca",
+      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
+    },
+    {
+      "added_at": "2024-12-05 22:00:00",
+      "album": {
         "name": "Voila",
         "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 139200,
       "name": "Voila",
       "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
-    },
-    {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
-        "name": "Sa MM Care Pleaca",
-        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 119343,
-      "name": "Sa MM Care Pleaca",
-      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
     },
     {
       "added_at": "2024-12-05 22:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-12-05 22:00:00",
       "album": {
-        "name": "Boo Hoo",
-        "url": "https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS"
-      },
-      "artists": [
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 167516,
-      "name": "Boo Hoo",
-      "url": "https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83"
-    },
-    {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
         "name": "\u0218tefan IV",
         "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 194936,
       "name": "inexplicabil",
       "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
+    },
+    {
+      "added_at": "2024-12-05 22:00:00",
+      "album": {
+        "name": "Boo Hoo",
+        "url": "https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 167516,
+      "name": "Boo Hoo",
+      "url": "https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83"
     },
     {
       "added_at": "2024-12-05 22:00:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-12-05 22:00:00",
       "album": {
+        "name": "NOTSOZEN",
+        "url": "https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "SPARGEM",
+      "url": "https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4"
+    },
+    {
+      "added_at": "2024-12-05 22:00:00",
+      "album": {
         "name": "Femei \u00een Parlament",
         "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
       },
@@ -563,18 +583,22 @@
     {
       "added_at": "2024-12-05 22:00:00",
       "album": {
-        "name": "PESTE TOT",
-        "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
+        "name": "\u0218tefan IV: Umbra",
+        "url": "https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t"
       },
       "artists": [
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 146526,
-      "name": "PESTE TOT",
-      "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
+      "duration_ms": 253312,
+      "name": "EU",
+      "url": "https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na"
     },
     {
       "added_at": "2024-12-05 22:00:00",
@@ -599,42 +623,18 @@
     {
       "added_at": "2024-12-05 22:00:00",
       "album": {
-        "name": "NOTSOZEN",
-        "url": "https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK"
+        "name": "PESTE TOT",
+        "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
       },
       "artists": [
         {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
-        },
-        {
-          "name": "Killa Fonic",
-          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 176335,
-      "name": "SPARGEM",
-      "url": "https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4"
-    },
-    {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
-        "name": "\u0218tefan IV: Umbra",
-        "url": "https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t"
-      },
-      "artists": [
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        },
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 253312,
-      "name": "EU",
-      "url": "https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na"
+      "duration_ms": 146526,
+      "name": "PESTE TOT",
+      "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
     },
     {
       "added_at": "2024-12-05 22:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-12-05 22:00:00",
       "album": {
+        "name": "Transportin' (Remix)",
+        "url": "https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Transportin' - Remix",
+      "url": "https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM"
+    },
+    {
+      "added_at": "2024-12-05 22:00:00",
+      "album": {
         "name": "HANNIBAL LECTER",
         "url": "https://open.spotify.com/album/5lluj4aH9jGUSgSUIUM90N"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 228000,
       "name": "GIN",
       "url": "https://open.spotify.com/track/1318xAofqd7PvgIrJ38hXl"
-    },
-    {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
-        "name": "Transportin' (Remix)",
-        "url": "https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Transportin' - Remix",
-      "url": "https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM"
     },
     {
       "added_at": "2024-12-05 22:00:00",

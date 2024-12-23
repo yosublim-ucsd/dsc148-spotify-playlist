@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52415,
+  "num_followers": 52419,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Z2OUCAAAAAAUFbEWr5gWOQ08tdTHTUMv",
   "tracks": [
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "Tamale",
+        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Ayayai",
+      "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
+    },
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 144500,
       "name": "re: Sound Of Light",
       "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
-        "name": "Tamale",
-        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 170013,
-      "name": "Ayayai",
-      "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
-      },
-      "artists": [
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 159009,
-      "name": "Stray Cat",
-      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 132274,
       "name": "The Perks of Being a Wallflower",
       "url": "https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 159009,
+      "name": "Stray Cat",
+      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -363,6 +363,22 @@
       "duration_ms": 154520,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "Somnolent Nova",
+        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
+      },
+      "artists": [
+        {
+          "name": "City Girl",
+          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Somnolent Nova",
+      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -435,38 +451,6 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Somnolent Nova",
-        "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
-      },
-      "artists": [
-        {
-          "name": "City Girl",
-          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Somnolent Nova",
-      "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
-        "name": "Shin",
-        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 225152,
-      "name": "Shin",
-      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7gyxNfZNPV5W0gYRoj87GJ"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 156000,
       "name": "Home",
       "url": "https://open.spotify.com/track/4qNMY30sIrprrG2YZPXVRi"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "Shin",
+        "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 225152,
+      "name": "Shin",
+      "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Night Owl Dream",
-        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
       },
       "artists": [
         {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+          "name": "Kastorbeats",
+          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
         }
       ],
-      "duration_ms": 156279,
-      "name": "Night Owl Dream",
-      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
+      "duration_ms": 138352,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
+        "name": "Night Owl Dream",
+        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
       },
       "artists": [
         {
-          "name": "Kastorbeats",
-          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
         }
       ],
-      "duration_ms": 138352,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
+      "duration_ms": 156279,
+      "name": "Night Owl Dream",
+      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "qutie",
-        "url": "https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1"
-      },
-      "artists": [
-        {
-          "name": "Dilip",
-          "url": "https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2"
-        },
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "qutie",
-      "url": "https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 169090,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "qutie",
+        "url": "https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1"
+      },
+      "artists": [
+        {
+          "name": "Dilip",
+          "url": "https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2"
+        },
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "qutie",
+      "url": "https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -835,46 +835,6 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Chips & Chill",
-        "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
-      },
-      "artists": [
-        {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "Epektase",
-          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
-        }
-      ],
-      "duration_ms": 154482,
-      "name": "Cristo Redentor",
-      "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
-        "name": "Pockets",
-        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
-      },
-      "artists": [
-        {
-          "name": "Aso",
-          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
-        }
-      ],
-      "duration_ms": 200489,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
       },
@@ -895,6 +855,46 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "Pockets",
+        "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
+      },
+      "artists": [
+        {
+          "name": "Aso",
+          "url": "https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8"
+        }
+      ],
+      "duration_ms": 200489,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "Chips & Chill",
+        "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
+      },
+      "artists": [
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        }
+      ],
+      "duration_ms": 154482,
+      "name": "Cristo Redentor",
+      "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
         "name": "flowingtime",
         "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 272293,
       "name": "Colony",
       "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -1183,38 +1199,6 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
-        "name": "UP AND DOWN Original Soundtrack",
-        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
-      },
-      "artists": [
-        {
-          "name": "Marihiko Hara",
-          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
-        }
-      ],
-      "duration_ms": 189696,
-      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
-      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
@@ -1247,6 +1231,38 @@
       "duration_ms": 207613,
       "name": "see",
       "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "UP AND DOWN Original Soundtrack",
+        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
+      },
+      "artists": [
+        {
+          "name": "Marihiko Hara",
+          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
+        }
+      ],
+      "duration_ms": 189696,
+      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -1331,22 +1347,6 @@
       "duration_ms": 195164,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2024-12-19 03:33:28",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-12-19 03:33:28",
       "album": {
+        "name": "Ouka",
+        "url": "https://open.spotify.com/album/2LlAtMZyCFxHdrFAfDS1OA"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 184508,
+      "name": "Two Birds",
+      "url": "https://open.spotify.com/track/4curqk9ts644kS6Zh1l4JO"
+    },
+    {
+      "added_at": "2024-12-19 03:33:28",
+      "album": {
         "name": "Before We Begin",
         "url": "https://open.spotify.com/album/6MNnL9qkX5t3OuVMIDlNy0"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 111500,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/5uh66RD9Fjgx7ZR67cYsSW"
-    },
-    {
-      "added_at": "2024-12-19 03:33:28",
-      "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/5iRvrRfL009SzrwF1gW8eZ"
-      },
-      "artists": [
-        {
-          "name": "cocabona",
-          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/0pdCW0sYvYdC4GFdFENQ1E"
     }
   ],
   "unique_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",

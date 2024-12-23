@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Cover: Cash Cobain and Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,559 likes - 74 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,981 likes - 74 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 65 | [Want Somebody](https://open.spotify.com/track/2eHFKaj0BzRqxYH5IgljkR) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Mr\. Maneuver](https://open.spotify.com/album/5YqPZvNG59SukCPWxvqAGR) | 2:57 |
 | 66 | [Choosy](https://open.spotify.com/track/3KVCN9ODBU5EMzsmljXYOA) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Choosy](https://open.spotify.com/album/2HYBLSNEyoLtTf1VH5jx99) | 2:15 |
 | 67 | [SEX LOVE DEMONS \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6i0nVCYnZy24212rvQ2syy) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [BIG DIOR](https://open.spotify.com/album/2cU7wfkSDMKR35tlC5ThIR) | 2:42 |
-| 68 | [finsta \(sexy liar\)](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 |
+| 68 | [finsta](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 |
 | 69 | [SUMN PRETTY](https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SUMN PRETTY](https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn) | 2:38 |
 | 70 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 |
 | 71 | [Be Alone](https://open.spotify.com/track/60mLVgBx8LkBAMWsL9s3bi) | [Tyler Loyal](https://open.spotify.com/artist/7pgbjv3FWqKcMKQckkbd3j) | [Be Alone](https://open.spotify.com/album/6AXdFVJhSzC1sndGfBuFNM) | 1:58 |

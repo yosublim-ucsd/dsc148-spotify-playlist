@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 土岐麻子 \*👉 <a href="https://spice.eplus.jp/articles/334201">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,218 likes - 87 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,212 likes - 87 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

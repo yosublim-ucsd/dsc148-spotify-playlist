@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 156006,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/6oXGhkID0h3hAB7Q8bJbm2"
@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Only In Memories",
+        "url": "https://open.spotify.com/album/6LZlNo3LZBsWIbdFmfFMlp"
+      },
+      "artists": [
+        {
+          "name": "Pink Pyramid",
+          "url": "https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176143,
+      "name": "Only In Memories",
+      "url": "https://open.spotify.com/track/5BRMKBITG2JK0nND2yvsX4"
+    },
+    {
+      "album": {
         "name": "2 A.M Chill Session",
         "url": "https://open.spotify.com/album/3PZmQxxLUZwyyMgXWUpmuw"
       },
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 184006,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/7o7vKcCxfstLnsdhM4OkyD"

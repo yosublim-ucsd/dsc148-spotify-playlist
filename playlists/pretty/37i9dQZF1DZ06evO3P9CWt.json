@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279800,
+  "num_followers": 279815,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAABoH9CKrEEBP4iktpFZ9x8W",
+  "snapshot_id": "Z2YFAAAAAAD5dQrZYLjNxgZn8pLdScyp",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 306281,
+      "name": "DEIXA ESTAR",
+      "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm"
       },
@@ -79,30 +103,6 @@
       "duration_ms": 176771,
       "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/14ALB7xDkt5blJWUTQj4e6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 306281,
-      "name": "DEIXA ESTAR",
-      "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Amor de Que",
+      "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 173265,
       "name": "Derretida - Brunoso Remix",
       "url": "https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "Amor de Que",
-      "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "111 DELUXE",
+        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Nunca Fui Embora",
         "url": "https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 199629,
       "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
       "url": "https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111 DELUXE",
-        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO"
     },
     {
       "added_at": null,

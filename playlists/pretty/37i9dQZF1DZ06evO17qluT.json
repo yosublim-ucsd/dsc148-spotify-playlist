@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 62449,
+  "num_followers": 62494,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAADy6BSaRfCU0BMLnMDlNlGV",
+  "snapshot_id": "Z2YFAAAAAABPT+KTtuUm0uK/pq8RbS1M",
   "tracks": [
     {
       "added_at": null,
@@ -1139,8 +1139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes dos Gigantes Chegarem, Vol. 2",
-        "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
       },
       "artists": [
         {
@@ -1150,19 +1150,11 @@
         {
           "name": "JXNV$",
           "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         }
       ],
-      "duration_ms": 227093,
-      "name": "Almas",
-      "url": "https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo"
+      "duration_ms": 217044,
+      "name": "Pessoas",
+      "url": "https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu"
     },
     {
       "added_at": null,
@@ -1191,8 +1183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
       },
       "artists": [
         {
@@ -1202,11 +1194,19 @@
         {
           "name": "JXNV$",
           "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         }
       ],
-      "duration_ms": 217044,
-      "name": "Pessoas",
-      "url": "https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu"
+      "duration_ms": 227093,
+      "name": "Almas",
+      "url": "https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo"
     },
     {
       "added_at": null,
@@ -1311,6 +1311,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gaudi Apex",
+        "url": "https://open.spotify.com/album/5UVSbsyHHVhSIpwbSnVaKL"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gorilla Concept Music",
+          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Gaudi Apex",
+      "url": "https://open.spotify.com/track/78fQA35zFuiGLGQHbqzDYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Assim Tocam os MEUS TAMBORES",
         "url": "https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP"
       },
@@ -1339,30 +1363,6 @@
       "duration_ms": 270062,
       "name": "ROMPEU O COURO.",
       "url": "https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gaudi Apex",
-        "url": "https://open.spotify.com/album/5UVSbsyHHVhSIpwbSnVaKL"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gorilla Concept Music",
-          "url": "https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Gaudi Apex",
-      "url": "https://open.spotify.com/track/78fQA35zFuiGLGQHbqzDYY"
     }
   ],
   "unique_name": "This Is BK",

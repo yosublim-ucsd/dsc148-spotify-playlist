@@ -21910,7 +21910,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 182769,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/0XWGCBspGhV4sbVmWstSkF"
@@ -32570,6 +32570,24 @@
       "duration_ms": 134794,
       "name": "\u6307\u91dd",
       "url": "https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1"
+    },
+    {
+      "album": {
+        "name": "\u65e5\u843d\u64c1\u62b1",
+        "url": "https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196558,
+      "name": "\u65e5\u843d\u64c1\u62b1",
+      "url": "https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W"
     },
     {
       "album": {

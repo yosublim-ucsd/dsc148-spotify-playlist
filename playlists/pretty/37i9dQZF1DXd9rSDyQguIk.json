@@ -1,6 +1,6 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1964351,
+  "num_followers": 1964783,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -185,6 +185,26 @@
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Feels Like Rain",
+        "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 275266,
+      "name": "Feels Like Rain (feat. Bonnie Raitt)",
+      "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
+    },
+    {
       "added_at": "2024-03-21 16:46:52",
       "album": {
         "name": "King Of The Electric Blues",
@@ -215,26 +235,6 @@
       "duration_ms": 167360,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Feels Like Rain",
-        "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 275266,
-      "name": "Feels Like Rain (feat. Bonnie Raitt)",
-      "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -343,22 +343,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -371,22 +355,6 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
-    },
-    {
-      "added_at": "2024-03-21 16:46:52",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "T-Bone Blues",
-      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -403,6 +371,38 @@
       "duration_ms": 271653,
       "name": "Damn Right, I've Got the Blues",
       "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+    },
+    {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "T-Bone Blues",
+      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "Rockin' With Reed",
+        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 143331,
+      "name": "Take Out Some Insurance",
+      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
+    },
+    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Bad News Is Coming",
@@ -485,20 +501,20 @@
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
-      "added_at": "2024-03-21 16:46:52",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Rockin' With Reed",
-        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+        "name": "Live And Well",
+        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
       },
       "artists": [
         {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 143331,
-      "name": "Take Out Some Insurance",
-      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
+      "duration_ms": 517400,
+      "name": "Why I Sing The Blues",
+      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -533,22 +549,6 @@
       "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "T-Bone Blues",
@@ -565,20 +565,20 @@
       "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Live And Well",
-        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 517400,
-      "name": "Why I Sing The Blues",
-      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Nothing But The Truth",
-        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 367533,
-      "name": "Sadie",
-      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
-    },
-    {
       "added_at": "2024-03-21 16:46:52",
       "album": {
         "name": "Ball n' Chain",
@@ -899,6 +883,22 @@
       "duration_ms": 330893,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Nothing But The Truth",
+        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 367533,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
     },
     {
       "added_at": "2018-03-29 19:44:07",

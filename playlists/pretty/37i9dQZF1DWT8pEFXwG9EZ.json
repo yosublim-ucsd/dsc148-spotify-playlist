@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 169885,
+  "num_followers": 169918,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Emma Stone",
-          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "A Lovely Night",
-      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 157680,
       "name": "The Pink Panther Theme - From \"The Pink Panther\"",
       "url": "https://open.spotify.com/track/0juPSJLFnLFim7BK6VzTes"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -355,18 +355,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+        "name": "The Jungle Book (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Bill Murray",
+          "url": "https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1"
+        },
+        {
+          "name": "Kermit Ruffins",
+          "url": "https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk"
         }
       ],
-      "duration_ms": 124986,
-      "name": "They Can\u2019t Take That Away From Me",
-      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
+      "duration_ms": 180706,
+      "name": "The Bare Necessities",
+      "url": "https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -387,22 +391,18 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "The Jungle Book (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm"
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
       "artists": [
         {
-          "name": "Bill Murray",
-          "url": "https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1"
-        },
-        {
-          "name": "Kermit Ruffins",
-          "url": "https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 180706,
-      "name": "The Bare Necessities",
-      "url": "https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6"
+      "duration_ms": 124986,
+      "name": "They Can\u2019t Take That Away From Me",
+      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        },
-        {
-          "name": "James P. Nichols",
-          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
-        }
-      ],
-      "duration_ms": 282200,
-      "name": "A Reluctant Hero / Betsy / End Credits",
-      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
       },
@@ -635,18 +615,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
       },
       "artists": [
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        },
+        {
+          "name": "James P. Nichols",
+          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
         }
       ],
-      "duration_ms": 36653,
-      "name": "Joe's Lowdown Blues",
-      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
+      "duration_ms": 282200,
+      "name": "A Reluctant Hero / Betsy / End Credits",
+      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -679,6 +663,22 @@
       "duration_ms": 158533,
       "name": "Charade",
       "url": "https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 36653,
+      "name": "Joe's Lowdown Blues",
+      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Midnight in Paris (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
-      },
-      "artists": [
-        {
-          "name": "Daniel May",
-          "url": "https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "I Love Penny Sue",
-      "url": "https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 120306,
       "name": "Born to Play",
       "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Midnight in Paris (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
+      },
+      "artists": [
+        {
+          "name": "Daniel May",
+          "url": "https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "I Love Penny Sue",
+      "url": "https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "You've Got Mail",
-        "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Durante",
-          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "You Made Me Love You",
-      "url": "https://open.spotify.com/track/3BnNBpWgZfbQ3TyuioWAku"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Sylvie's Love (Amazon Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "You've Got Mail",
+        "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Durante",
+          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "You Made Me Love You",
+      "url": "https://open.spotify.com/track/3BnNBpWgZfbQ3TyuioWAku"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
       },
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "duration_ms": 344226,
+      "name": "Blues / La Dolce Vita Dei Nobili",
+      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Staccato (Original Johnny Staccato Score)",
         "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 354666,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        }
-      ],
-      "duration_ms": 344226,
-      "name": "Blues / La Dolce Vita Dei Nobili",
-      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Who Framed Roger Rabbit",
-        "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "duration_ms": 322826,
-      "name": "Eddie's Theme",
-      "url": "https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "The Fabulous Baker Boys (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Cw0OKQKW52UTCrEH54uLD"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 151999,
       "name": "Lullaby Of Birdland - From \"Fabulous Baker Boys\" Soundtrack",
       "url": "https://open.spotify.com/track/2as0F7l67Onq8cl8kbifIG"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Who Framed Roger Rabbit",
+        "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "duration_ms": 322826,
+      "name": "Eddie's Theme",
+      "url": "https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH"
     },
     {
       "added_at": "2024-06-14 07:09:21",

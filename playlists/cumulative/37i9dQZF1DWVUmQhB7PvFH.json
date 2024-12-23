@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u5f35\u68df\u6a11 (Nicholas Teo)",
+  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u5f35\u60e0\u59b9 (A-mei)",
   "name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "tracks": [
     {
@@ -352,6 +352,24 @@
     {
       "album": {
         "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297200,
+      "name": "\u4e03\u91cc\u9999",
+      "url": "https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT"
+    },
+    {
+      "album": {
+        "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
       },
       "artists": [
@@ -398,7 +416,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 253080,
       "name": "\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/3BfjVIPmUpIrgqLdOJP1My"
@@ -434,7 +452,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 270973,
       "name": "\u4e0d\u5920\u6210\u719f",
       "url": "https://open.spotify.com/track/0SKlNUbvxre6OnLICXrwAL"
@@ -604,7 +622,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 254546,
       "name": "\u4ed6\u9084\u662f\u4e0d\u61c2",
       "url": "https://open.spotify.com/track/0zIoXGZZfbo1wnHfW7pAqk"
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 266400,
       "name": "\u539f\u4f86\u4f60\u5c31\u5728\u6211\u8eab\u908a",
       "url": "https://open.spotify.com/track/2todF9NoEompZaO9kFslIn"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 270000,
       "name": "\u5bc2\u5bde\u5728\u5531\u6b4c",
       "url": "https://open.spotify.com/track/18zWBKohVqbyLfRWVt0JO1"
@@ -2285,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "\u963f\u5bc6\u7279\u610f\u8b58\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/54VlS75YgBFZXq7Ng1Ue3c"
+      },
+      "artists": [
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237560,
+      "name": "\u6389\u4e86",
+      "url": "https://open.spotify.com/track/39tpfLHvnzXk4f8iD0htkn"
+    },
+    {
+      "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
       },
@@ -3014,7 +3050,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY"
@@ -3032,7 +3068,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 222373,
       "name": "\u74e6\u89e3",
       "url": "https://open.spotify.com/track/3TNTZ9OpTSsiEqcEsUBSND"
@@ -3108,6 +3144,24 @@
       "duration_ms": 203200,
       "name": "\u7576\u4f60",
       "url": "https://open.spotify.com/track/4xNDbq22jC2Vdf6QV2uArL"
+    },
+    {
+      "album": {
+        "name": "Goodbye & Hello",
+        "url": "https://open.spotify.com/album/7jyiXKzJYgJ24IqlGMKcjN"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237693,
+      "name": "\u7576\u4f60\u96e2\u958b\u7684\u6642\u5019",
+      "url": "https://open.spotify.com/track/1P43VyM78qYm10rlcQ9R5d"
     },
     {
       "album": {
@@ -3623,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "\u68b5\u8c37\u7684\u5de6\u8033",
+        "url": "https://open.spotify.com/album/1ysAAsLzQROMDvukphUcqz"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u6c81",
+          "url": "https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271373,
+      "name": "\u8a18\u5f97\u611b",
+      "url": "https://open.spotify.com/track/5PWNbDZ3hEoCLmt1vr3d6c"
+    },
+    {
+      "album": {
         "name": "\u5c31\u7ad9\u5728\u9019\u88e1",
         "url": "https://open.spotify.com/album/04QQwHJkTIJLSKh5giaBBB"
       },
@@ -3836,7 +3908,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 305266,
       "name": "\u90a3\u53c8\u600e\u9ebc\u6a23\u5462",
       "url": "https://open.spotify.com/track/4tSqB3LmEa9n5ID9q5gjlw"
@@ -3980,7 +4052,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 275800,
       "name": "\u96d9\u68f2\u52d5\u7269",
       "url": "https://open.spotify.com/track/4YVbLto1w4dEKXjuZxlGRQ"
@@ -4034,10 +4106,28 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 217008,
       "name": "\u9760\u5cb8",
       "url": "https://open.spotify.com/track/3bkc6IGLQN8iqhk0pWWI36"
+    },
+    {
+      "album": {
+        "name": "\u821e\u5b43",
+        "url": "https://open.spotify.com/album/0L6RaiyJuoOQlDKiCY2nrd"
+      },
+      "artists": [
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "\u99ac\u5fb7\u91cc\u4e0d\u601d\u8b70",
+      "url": "https://open.spotify.com/track/3u64Oo9Hc7FWyLfRhCcmxx"
     },
     {
       "album": {
@@ -4052,7 +4142,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 344200,
       "name": "\u9ec3\u660f",
       "url": "https://open.spotify.com/track/4mronxcllhfyhBRqyZi8kU"

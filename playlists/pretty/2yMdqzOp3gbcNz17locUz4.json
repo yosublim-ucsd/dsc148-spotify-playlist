@@ -1,12 +1,12 @@
 {
   "description": "furry, \u0398\u0394, indie. Cover: <a href=\"https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb\">salv the dog</a> || Visit our <a href=\"https://indieanthro.com\">website</a> for more \u2728",
-  "num_followers": 3251,
+  "num_followers": 3252,
   "original_name": "indieAnthro",
   "owner": {
     "name": "trickyStoop",
     "url": "https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid"
   },
-  "snapshot_id": "AAAOqZHrv4KCy+jQ94NayKmK3+/eMxmD",
+  "snapshot_id": "AAAOr+UmiMtq+l70npTsDPfrTjDhR+cB",
   "tracks": [
     {
       "added_at": "2024-12-10 13:19:44",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/5Z9XS7WE7F8B2VNS7dLxQJ"
     },
     {
+      "added_at": "2024-12-22 14:49:45",
+      "album": {
+        "name": "Wolves And Power Lines And Oranges And Waves And Guitar Fights And Some Songs",
+        "url": "https://open.spotify.com/album/3ovjiaiNk6njNIaIKRqBmq"
+      },
+      "artists": [
+        {
+          "name": "Plasma Cutter",
+          "url": "https://open.spotify.com/artist/4GLMMafAflOXujxZdh4SNW"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Matarukaja",
+      "url": "https://open.spotify.com/track/0qZtPMswEFFaHE0BUijHMN"
+    },
+    {
       "added_at": "2024-10-11 08:53:11",
       "album": {
         "name": "log off and go outside!!",
@@ -59,6 +75,22 @@
       "duration_ms": 198000,
       "name": "AFTERSOME",
       "url": "https://open.spotify.com/track/0bZ1ftFjPoIXEBBh1vQ6vS"
+    },
+    {
+      "added_at": "2024-12-22 14:48:01",
+      "album": {
+        "name": "Myth",
+        "url": "https://open.spotify.com/album/3687gTmSo080xPk0968omL"
+      },
+      "artists": [
+        {
+          "name": "acloudyskye",
+          "url": "https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR"
+        }
+      ],
+      "duration_ms": 241948,
+      "name": "Myth",
+      "url": "https://open.spotify.com/track/7gejQy4gJderBxIGMjx4dw"
     },
     {
       "added_at": "2024-12-10 13:35:26",
@@ -729,22 +761,6 @@
       "url": "https://open.spotify.com/track/5n1nrfHypqQJAtHup9LnzQ"
     },
     {
-      "added_at": "2024-08-09 15:59:05",
-      "album": {
-        "name": "Viper Island",
-        "url": "https://open.spotify.com/album/5cJwdErCShhPQd9JZooQM4"
-      },
-      "artists": [
-        {
-          "name": "Them Airs",
-          "url": "https://open.spotify.com/artist/5YKfdY0mylaZ2AIMeYJPy4"
-        }
-      ],
-      "duration_ms": 131035,
-      "name": "Airsdance",
-      "url": "https://open.spotify.com/track/3RZDuMFtspQGtUfi1HgpxT"
-    },
-    {
       "added_at": "2024-09-06 16:29:02",
       "album": {
         "name": "RAVEPOP",
@@ -1219,26 +1235,6 @@
       "duration_ms": 150394,
       "name": "Dead internet theory",
       "url": "https://open.spotify.com/track/0rnm3k4dDHWwlN8WNLCekV"
-    },
-    {
-      "added_at": "2024-06-23 12:23:34",
-      "album": {
-        "name": "III: Swords And Potions And Crystals And Sweet Tea And Flowers And Spell Scrolls And Drawings Of Dogs And Some Songs",
-        "url": "https://open.spotify.com/album/2kbXmjnnqNhG1wdxg4Y8ZR"
-      },
-      "artists": [
-        {
-          "name": "Plasma Cutter",
-          "url": "https://open.spotify.com/artist/4GLMMafAflOXujxZdh4SNW"
-        },
-        {
-          "name": "Hexosphere",
-          "url": "https://open.spotify.com/artist/3MRjjErWqC747FhXSqCzVt"
-        }
-      ],
-      "duration_ms": 216821,
-      "name": "The Great Expedition To Find A Cure For Irony Poisoning (Ft. Hexosphere)",
-      "url": "https://open.spotify.com/track/5o1VKXqsuv9QsEPdRkXlFh"
     },
     {
       "added_at": "2024-08-04 00:38:01",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,313 songs - 6 day 20 hr 24 min
+4,314 songs - 6 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1259,6 +1259,7 @@
 | [Floppy Dreams 2](https://open.spotify.com/track/5E8P68y0pWNCfE9hROUVTX) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Floppy Dreams 2](https://open.spotify.com/album/5vKs0dOxOgcxsJjv34E2Qh) | 1:51 | 2021-08-20 | 2021-12-30 |
 | [Flor De Calabasa](https://open.spotify.com/track/3HdzVJQfX4exC6FEYwoVMR) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Flor De Calabasa & Premium Pasta](https://open.spotify.com/album/6IroVQyvgIALWWwT5DWnnP) | 1:54 | 2020-03-20 | 2020-06-09 |
 | [Flotsam](https://open.spotify.com/track/1BkB4GUx2WgklzOcn4qj8D) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Flotsam](https://open.spotify.com/album/4aefCRlnccywJ88BbQPKcN) | 2:27 | 2020-12-01 | 2021-06-04 |
+| [Flourishing](https://open.spotify.com/track/4PDFGH9VWPefnbwnctmq1n) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Felt Galaxy](https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Flourishing](https://open.spotify.com/album/4wOQ1o1albdZdTRNikj6hh) | 2:20 | 2024-12-16 |  |
 | [Flow](https://open.spotify.com/track/7kqjF0uXE6Gps6MvO6Xu6Y) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Flow](https://open.spotify.com/album/37YjtkTCQqG3eDwxTJMy3w) | 1:12 | 2019-06-08 | 2019-11-20 |
 | [Flow](https://open.spotify.com/track/75RT8larSzbbTtng5z8piG) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [From the Soul](https://open.spotify.com/album/6ytew5V7X8MZKr7HHgwqcD) | 2:00 | 2020-11-21 | 2021-06-04 |
 | [flow on](https://open.spotify.com/track/2S9iC8UBhqq1of7PFHEvTr) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Confessions](https://open.spotify.com/album/0f4ZcRoYPzppioLoB70vYc) | 3:48 | 2019-05-26\* | 2019-06-15 |
@@ -2531,7 +2532,7 @@
 | [New Moon](https://open.spotify.com/track/2ZbvON6YdaYgcO1PiIA4uw) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [New Moon](https://open.spotify.com/album/6HPQfXJo8OFpyMxGjdIqbm) | 2:25 | 2021-05-14 | 2022-01-21 |
 | [New music](https://open.spotify.com/track/3etlIf9k54KXj8fgY1NQtD) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [New music](https://open.spotify.com/album/51vLWuPjB2yt3GlJRbuGyD) | 1:27 | 2021-06-04 | 2022-07-28 |
 | [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 | 2022-09-27 |
-| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 |  |
+| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 | 2024-12-23 |
 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 | 2024-01-15 | 2024-01-19 |
 | [New York](https://open.spotify.com/track/1SHW5GLmrJ3PbR5Cbip24V) | [Gregory Ross](https://open.spotify.com/artist/3vHAij1z57NgRTTtTDFAoe) | [New York](https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw) | 3:18 | 2019-11-12 | 2020-03-31 |
 | [New York \- Extended](https://open.spotify.com/track/0x3JF5cqEMI6Sl1EQj0GgS) | [StriveAU](https://open.spotify.com/artist/0gX527ngxcnfHH8kHj1gEe) | [Vans with My Ol' Sweater](https://open.spotify.com/album/5j7ZJBrNIB8SByWJxLalZC) | 1:51 | 2019-05-26\* | 2019-06-15 |

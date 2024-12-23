@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 195327,
+  "num_followers": 195391,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Lose My Cool (Remixes)",
-        "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 257301,
-      "name": "Lose My Cool - Franc Moody Remix",
-      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
+      "duration_ms": 182052,
+      "name": "Dear Fren",
+      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -271,18 +267,22 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Maybe in Nirvana",
-        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+        "name": "Lose My Cool (Remixes)",
+        "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
       "artists": [
         {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 182052,
-      "name": "Dear Fren",
-      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
+      "duration_ms": 257301,
+      "name": "Lose My Cool - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
         "name": "\u304b\u3051\u8db3\u65cf",
         "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 224767,
       "name": "\u304b\u3051\u8db3\u65cf",
       "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Cinnamon Curls",
-        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Cinnamon Curls",
-      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "Moon Shoes EP",
         "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
         "name": "Painted",
         "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Lahai (Deluxe)",
-        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 226495,
-      "name": "Dancing Circles 2.0",
-      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "Get Close",
         "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
+        "name": "Lahai (Deluxe)",
+        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
+      "duration_ms": 226495,
+      "name": "Dancing Circles 2.0",
+      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -795,6 +779,22 @@
       "duration_ms": 245200,
       "name": "All I Need (with Mahalia & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/164VgxTozx99XCinCB9ITR"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "VISION",
-        "url": "https://open.spotify.com/album/7vUfDXmaVb6u4sDIzyyFB5"
-      },
-      "artists": [
-        {
-          "name": "Double",
-          "url": "https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "Strange Things",
-      "url": "https://open.spotify.com/track/3bWpfAjDh9Rpszf8AkaN0w"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "Softest Touch",
         "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 164282,
       "name": "Softest Touch",
       "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "VISION",
+        "url": "https://open.spotify.com/album/7vUfDXmaVb6u4sDIzyyFB5"
+      },
+      "artists": [
+        {
+          "name": "Double",
+          "url": "https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "Strange Things",
+      "url": "https://open.spotify.com/track/3bWpfAjDh9Rpszf8AkaN0w"
     },
     {
       "added_at": "2024-12-14 02:53:15",

@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Hoang
 
-709 songs - 1 day 18 hr 31 min
+710 songs - 1 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Ghost Of You](https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp) | [Aye Bay](https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ), [ELLE](https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv) | [Ghost Of You](https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5) | 3:42 | 2024-03-22 |  |
 | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-08 | 2023-09-29 |
 | [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 | 2023-06-12 |
-| [Give Out](https://open.spotify.com/track/6UUr5IliMS5Sxvant8Eu8o) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Give Out](https://open.spotify.com/album/3ZLy5fqO4CWDswlQr8528i) | 4:02 | 2023-08-04 |  |
+| [Give Out](https://open.spotify.com/track/6UUr5IliMS5Sxvant8Eu8o) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Give Out](https://open.spotify.com/album/3ZLy5fqO4CWDswlQr8528i) | 4:02 | 2023-08-04 | 2024-12-23 |
 | [Glass Heart \- Last Heroes Remix](https://open.spotify.com/track/6LpNRKOUC2LNpdOqeHRVYg) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97) | [Glass Heart \(Last Heroes Remix\)](https://open.spotify.com/album/5ksQTlOli0X5clkM69OITQ) | 3:32 | 2022-07-08 | 2022-08-27 |
 | [Glass House](https://open.spotify.com/track/7ohh779FFPKSuPgSYvIPn8) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [CVBZ](https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q) | [Glass House](https://open.spotify.com/album/0wJXk6rpJXYEyVVRP6vsZw) | 3:17 | 2023-11-17 | 2024-11-06 |
 | [Glow In The Dark](https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Glow In The Dark](https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85) | 4:09 | 2022-07-08 | 2024-07-27 |
@@ -567,6 +567,7 @@
 | [SLAY](https://open.spotify.com/track/4817tQ61XvNQxGzIiwlT0e) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/633geRmMguveturqYAb9k2) | 4:01 | 2024-07-26 | 2024-11-17 |
 | [Sleepy Eyes](https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [Sleepy Eyes](https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc) | 2:43 | 2023-02-03 | 2024-02-07 |
 | [Slow Down](https://open.spotify.com/track/1YUxhMsagttgRockQyd58z) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Slow Down](https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e) | 3:37 | 2023-03-31 | 2023-07-16 |
+| [SO ABSURD \- VIP](https://open.spotify.com/track/7jzH4NsGtOq2mVAQRC5BD2) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity \(Remixes\)](https://open.spotify.com/album/0CbP5M5WzdEP5RB82uf6YO) | 2:28 | 2024-12-20 |  |
 | [So Alive](https://open.spotify.com/track/0h6bm47GyD7bArUBTGEkp9) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [So Alive](https://open.spotify.com/album/0jCAy2DkhbyDW7uaONsiIX) | 4:09 | 2022-07-08 | 2023-04-09 |
 | [So Long \- Tails Remix](https://open.spotify.com/track/3FLxGmYJyextdbsVPZxn5p) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [So Long \(Tails Remix\)](https://open.spotify.com/album/0C8IJ8Gmzhsby8BpZiItgc) | 4:12 | 2022-07-08 | 2022-08-06 |
 | [So What](https://open.spotify.com/track/1ZrEy4fu5wiHOmNf1tN2HP) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [jasper](https://open.spotify.com/artist/4GlglNbE2y1QJC1I2Jjolj) | [So What](https://open.spotify.com/album/4JJULQ9cPENN67nIzQOw8Q) | 2:56 | 2024-09-20 |  |

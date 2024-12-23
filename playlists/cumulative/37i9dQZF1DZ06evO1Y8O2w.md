@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-95 songs - 7 hr 32 min
+96 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Don't Tell Me, Tell Her](https://open.spotify.com/track/4broG31djyLAE0zNTe0jyI) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 4:18 | 2024-01-12 |  |
 | [Don't Wanna Change the World](https://open.spotify.com/track/06b5ZHfj1b9u3Kn4DegPSD) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 5:21 | 2022-05-25 | 2022-10-13 |
 | [Everything I Have Is Good \(feat\. Norman Connors & Phyllis Hyman\)](https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Love Will Find a Way \(Expanded Edition\)](https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW) | 5:58 | 2022-07-02 |  |
+| [Falling Star](https://open.spotify.com/track/3lhWGMCAyZxELCkTphkdFN) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:45 | 2024-12-23 |  |
 | [First Time Together](https://open.spotify.com/track/3m8zuI0D66a2VLI1swx1mD) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:01 | 2022-05-27 |  |
 | [Forever with You](https://open.spotify.com/track/4YQLkLUyEro4Xeh9EGSNoX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:20 | 2022-05-25 | 2024-02-11 |
 | [Give a Little More](https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:04 | 2022-05-25 |  |
@@ -76,7 +77,7 @@
 | [Sleep On It](https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:20 | 2022-05-27 |  |
 | [Slow Dancin'](https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:33 | 2022-06-02 |  |
 | [So Strange \- 12" Version](https://open.spotify.com/track/7cjiv0EP4j3wbNkehZbb74) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded Edition\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 9:01 | 2022-08-15 | 2022-10-12 |
-| [Some Way](https://open.spotify.com/track/67WlLXB2CSnD56PTtEVa2K) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 5:10 | 2022-05-28 |  |
+| [Some Way](https://open.spotify.com/track/67WlLXB2CSnD56PTtEVa2K) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 5:10 | 2022-05-28 | 2024-12-23 |
 | [Somewhere In My Lifetime](https://open.spotify.com/track/2MXUONwP4lnGiRLtqlKP9Z) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 3:27 | 2022-05-25 |  |
 | [Souvenirs](https://open.spotify.com/track/3yNsxa2HKOrEwov5Ygk5Jt) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:26 | 2022-05-25 | 2023-01-16 |
 | [The Answer Is You](https://open.spotify.com/track/0MMkuqkCRPHekNJjzOpEZn) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 5:07 | 2022-05-25 |  |

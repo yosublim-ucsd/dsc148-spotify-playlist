@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 19194,
+  "num_followers": 19215,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/6JP4vMRwXJbNe32JDfnxvI"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Spirit Chant",
-        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 610103,
-      "name": "Spirit Chant",
-      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
-    },
-    {
       "added_at": "2023-04-14 16:41:04",
       "album": {
         "name": "Elevated",
@@ -263,6 +247,22 @@
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Spirit Chant",
+        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 610103,
+      "name": "Spirit Chant",
+      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Truth in Sounds",
         "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
       },
@@ -411,26 +395,6 @@
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
-    },
-    {
-      "added_at": "2024-08-23 00:01:00",
-      "album": {
-        "name": "Young & Chosen",
-        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 220545,
-      "name": "No Greater Love",
-      "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -483,6 +447,42 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
+      "added_at": "2024-08-23 00:01:00",
+      "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 220545,
+      "name": "No Greater Love",
+      "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "God of Love",
         "url": "https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H"
       },
@@ -519,42 +519,6 @@
       "duration_ms": 208887,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO"
-    },
-    {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "We Move",
-        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 287831,
-      "name": "We Move",
-      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -615,6 +579,42 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+    },
+    {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "We Move",
+        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil"
       },
@@ -657,30 +657,6 @@
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        },
-        {
-          "name": "Oneskript",
-          "url": "https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Na God I Dey Praise (Craze)",
@@ -695,22 +671,6 @@
       "duration_ms": 218644,
       "name": "Na God I Dey Praise (Craze)",
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -749,6 +709,22 @@
       "url": "https://open.spotify.com/track/5vv4lLVRcJOouMTJ2IKdBz"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
       "added_at": "2024-10-11 00:01:00",
       "album": {
         "name": "Malaika x Fridayy",
@@ -767,6 +743,30 @@
       "duration_ms": 248490,
       "name": "Malaika x Fridayy",
       "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        },
+        {
+          "name": "Oneskript",
+          "url": "https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
-      },
-      "artists": [
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        }
-      ],
-      "duration_ms": 234331,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
-    },
-    {
       "added_at": "2024-09-20 00:01:00",
       "album": {
         "name": "Grace Story",
@@ -845,6 +829,22 @@
       "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        }
+      ],
+      "duration_ms": 234331,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Mo",
@@ -859,26 +859,6 @@
       "duration_ms": 212573,
       "name": "Mo",
       "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Big God",
-        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        },
-        {
-          "name": "Buchi",
-          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
       "added_at": "2024-10-04 00:01:00",
@@ -899,6 +879,26 @@
       "duration_ms": 179645,
       "name": "Dans Tes Mains",
       "url": "https://open.spotify.com/track/6p4ZhDKOj6TFSOI6xlzYgf"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Big God",
+        "url": "https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "Buchi",
+          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3"
-      },
-      "artists": [
-        {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
-        }
-      ],
-      "duration_ms": 199404,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
-    },
-    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "Kama Si We",
@@ -1011,6 +995,22 @@
       "duration_ms": 247246,
       "name": "Kama Si We",
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
+    },
+    {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "duration_ms": 199404,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
     }
   ],
   "unique_name": "Higher",

@@ -2437,6 +2437,32 @@
     },
     {
       "album": {
+        "name": "Asteroids II (Bars Over Everything)",
+        "url": "https://open.spotify.com/album/1T1dUOblwJkjeQ68mMn59h"
+      },
+      "artists": [
+        {
+          "name": "Superb Clawson",
+          "url": "https://open.spotify.com/artist/11BDmAEEgYQvo4CiGrYyK9"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Bev smiF",
+          "url": "https://open.spotify.com/artist/2udXCI9035S7NJnCW3jRr6"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194999,
+      "name": "Asteroids II (Bars Over Everything)",
+      "url": "https://open.spotify.com/track/5YEx7q6mAAiU7qte8pKGt1"
+    },
+    {
+      "album": {
         "name": "Astro Warrior Anthem",
         "url": "https://open.spotify.com/album/0rEWFB9d2jKqKhhNSa4TmS"
       },
@@ -10266,7 +10292,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 158872,
       "name": "Doublewide",
       "url": "https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV"
@@ -19525,6 +19551,24 @@
     },
     {
       "album": {
+        "name": "A Wonderful Holiday",
+        "url": "https://open.spotify.com/album/3X8ZzIzI0IdRQWmGv7h6uG"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/3CDuJCa3NEJplspA0eKpZJ"
+    },
+    {
+      "album": {
         "name": "It's My Ego",
         "url": "https://open.spotify.com/album/0efkEgsdM8HpQAI3qq31Gk"
       },
@@ -22776,7 +22820,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 219000,
       "name": "Live In Love",
       "url": "https://open.spotify.com/track/6ZBiQ0S0ZCHTOcflZAEfVd"
@@ -31326,7 +31370,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 108020,
       "name": "Raw - Redux",
       "url": "https://open.spotify.com/track/1Hsv4rzj7yHA8nrPZwMDWX"
@@ -40330,6 +40374,24 @@
       "duration_ms": 236199,
       "name": "TOO BOLD",
       "url": "https://open.spotify.com/track/0AVEM4TT3dcpmzOd9SSwgy"
+    },
+    {
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225247,
+      "name": "Too Deep for the Intro",
+      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
     },
     {
       "album": {

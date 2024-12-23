@@ -1,6 +1,6 @@
 {
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. ",
-  "num_followers": 86675,
+  "num_followers": 86685,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,22 @@
     {
       "added_at": "2024-06-18 11:02:59",
       "album": {
-        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
+        "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
+        "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
       },
       "artists": [
         {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        },
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
         }
       ],
-      "duration_ms": 155692,
-      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
+      "duration_ms": 163682,
+      "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
+      "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
     },
     {
       "added_at": "2024-06-18 11:02:59",
@@ -495,22 +499,18 @@
     {
       "added_at": "2024-06-18 11:02:59",
       "album": {
-        "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
-        "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
+        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
       },
       "artists": [
         {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        },
-        {
-          "name": "PinocchioP",
-          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
         }
       ],
-      "duration_ms": 163682,
-      "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
-      "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
+      "duration_ms": 155692,
+      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
     },
     {
       "added_at": "2024-06-18 11:02:59",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-06-18 11:02:59",
       "album": {
-        "name": "QUEEN",
-        "url": "https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq"
+        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
       },
       "artists": [
         {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
         }
       ],
-      "duration_ms": 141882,
-      "name": "QUEEN",
-      "url": "https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j"
+      "duration_ms": 205155,
+      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
     },
     {
       "added_at": "2024-06-18 11:02:59",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-06-18 11:02:59",
       "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j"
+    },
+    {
+      "added_at": "2024-06-18 11:02:59",
+      "album": {
         "name": "Corridor",
         "url": "https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z"
       },
@@ -683,38 +699,6 @@
     {
       "added_at": "2024-06-18 11:02:59",
       "album": {
-        "name": "\u30c9\u5c51",
-        "url": "https://open.spotify.com/album/70Qo9q6AieJMYxxAkTmBD3"
-      },
-      "artists": [
-        {
-          "name": "NAKISO",
-          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "\u30c9\u5c51",
-      "url": "https://open.spotify.com/track/3DxfcE53Wf89XSftbAffFx"
-    },
-    {
-      "added_at": "2024-06-18 11:02:59",
-      "album": {
-        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 205155,
-      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
-    },
-    {
-      "added_at": "2024-06-18 11:02:59",
-      "album": {
         "name": "Beyond the way",
         "url": "https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 180030,
       "name": "Beyond the way",
       "url": "https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP"
+    },
+    {
+      "added_at": "2024-06-18 11:02:59",
+      "album": {
+        "name": "\u30c9\u5c51",
+        "url": "https://open.spotify.com/album/70Qo9q6AieJMYxxAkTmBD3"
+      },
+      "artists": [
+        {
+          "name": "NAKISO",
+          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "\u30c9\u5c51",
+      "url": "https://open.spotify.com/track/3DxfcE53Wf89XSftbAffFx"
     },
     {
       "added_at": "2024-06-18 11:02:59",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-18 11:02:59",
       "album": {
-        "name": "\u30a8\u30f3\u30f4\u30a3\u30fc\u30d9\u30a4\u30d3\u30fc",
-        "url": "https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 135789,
-      "name": "\u30a8\u30f3\u30f4\u30a3\u30fc\u30d9\u30a4\u30d3\u30fc",
-      "url": "https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83"
-    },
-    {
-      "added_at": "2024-06-18 11:02:59",
-      "album": {
         "name": "\u672a\u5b8c\u6210\u30a8\u30a4\u30c8\u30d3\u30fc\u30c4",
         "url": "https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2024-06-18 11:02:59",
       "album": {
-        "name": "\u5929\u30ce\u5f31 (feat. Mayumi Morinaga)",
-        "url": "https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH"
+        "name": "\u30c7\u30fc\u30e2\u30f3\u30ed\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0bGiqwbKQFu9GQy6UL6cjK"
       },
       "artists": [
         {
-          "name": "164",
-          "url": "https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ"
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
         }
       ],
-      "duration_ms": 186500,
-      "name": "\u5929\u30ce\u5f31",
-      "url": "https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO"
+      "duration_ms": 158720,
+      "name": "\u30c7\u30fc\u30e2\u30f3\u30ed\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6ZZdq51TOnLbSAUDhTvVPB"
     },
     {
       "added_at": "2024-06-18 11:02:59",
@@ -839,6 +823,22 @@
       "duration_ms": 195822,
       "name": "\u30c8\u30f3\u30c7\u30e2\u30ef\u30f3\u30c0\u30fc\u30ba",
       "url": "https://open.spotify.com/track/3jmQnsr4YxDIrCJ7GbE7vM"
+    },
+    {
+      "added_at": "2024-06-18 11:02:59",
+      "album": {
+        "name": "\u5929\u30ce\u5f31 (feat. Mayumi Morinaga)",
+        "url": "https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH"
+      },
+      "artists": [
+        {
+          "name": "164",
+          "url": "https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "\u5929\u30ce\u5f31",
+      "url": "https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO"
     },
     {
       "added_at": "2024-06-18 11:02:59",

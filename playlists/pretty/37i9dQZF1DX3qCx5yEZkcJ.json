@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1485690,
+  "num_followers": 1485712,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,42 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
+        "name": "Warm Flicker (Uevo & Noflik Remix)",
+        "url": "https://open.spotify.com/album/4NYNeMzsVFz7uyga8IjNJY"
       },
       "artists": [
         {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+          "name": "rocomoco",
+          "url": "https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu"
+        },
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
         }
       ],
-      "duration_ms": 142677,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
+      "duration_ms": 136774,
+      "name": "Warm Flicker - Uevo & Noflik Remix",
+      "url": "https://open.spotify.com/track/2aoLjocG6ib3CaIImYSGLa"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -143,18 +167,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
       },
       "artists": [
         {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
         }
       ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
+      "duration_ms": 142677,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -191,30 +215,6 @@
       "duration_ms": 121833,
       "name": "Cove",
       "url": "https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Warm Flicker (Uevo & Noflik Remix)",
-        "url": "https://open.spotify.com/album/4NYNeMzsVFz7uyga8IjNJY"
-      },
-      "artists": [
-        {
-          "name": "rocomoco",
-          "url": "https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu"
-        },
-        {
-          "name": "Uevo",
-          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
-        },
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        }
-      ],
-      "duration_ms": 136774,
-      "name": "Warm Flicker - Uevo & Noflik Remix",
-      "url": "https://open.spotify.com/track/2aoLjocG6ib3CaIImYSGLa"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
-      },
-      "artists": [
-        {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
-        },
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
-        }
-      ],
-      "duration_ms": 123658,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "Primo",
         "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
@@ -619,6 +599,26 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
+      },
+      "artists": [
+        {
+          "name": "DisHand",
+          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+        },
+        {
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        }
+      ],
+      "duration_ms": 123658,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "Raincoat",
         "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 204000,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -667,6 +651,22 @@
       "duration_ms": 121320,
       "name": "Do the Right Thing",
       "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Coquettish Definition",
+        "url": "https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Coquettish Definition",
+      "url": "https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "last wave",
         "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 110500,
       "name": "Next to Nothing - Instrumental",
       "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Coquettish Definition",
-        "url": "https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Coquettish Definition",
-      "url": "https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
+      },
+      "artists": [
+        {
+          "name": "Karmawin",
+          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
+        "name": "michi",
+        "url": "https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP"
       },
       "artists": [
         {
-          "name": "Karmawin",
-          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
+      "duration_ms": 158197,
+      "name": "michi",
+      "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1115,22 +1131,6 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "michi",
-        "url": "https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 158197,
-      "name": "michi",
-      "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Far Out",
-        "url": "https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux"
-      },
-      "artists": [
-        {
-          "name": "Joe Nora",
-          "url": "https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ"
-        },
-        {
-          "name": "G Mills",
-          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Far Out",
-      "url": "https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
         "name": "The Scenic Route",
         "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 153065,
       "name": "Only Way 2 Go (Instrumental)",
       "url": "https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
+        "name": "Far Out",
+        "url": "https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux"
+      },
+      "artists": [
+        {
+          "name": "Joe Nora",
+          "url": "https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ"
+        },
+        {
+          "name": "G Mills",
+          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Far Out",
+      "url": "https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
+        "name": "Awesome City",
+        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
+      },
+      "artists": [
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Awesome City",
+      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
+    },
+    {
+      "added_at": "2024-12-14 02:05:07",
+      "album": {
         "name": "glow",
         "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "sophisticated silence",
-        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
       },
       "artists": [
         {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
         }
       ],
-      "duration_ms": 155760,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
     },
     {
       "added_at": "2024-12-14 02:05:07",
@@ -1427,34 +1443,18 @@
     {
       "added_at": "2024-12-14 02:05:07",
       "album": {
-        "name": "Awesome City",
-        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
       },
       "artists": [
         {
-          "name": "DJ FRIP a.k.a. BeatLab",
-          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
         }
       ],
-      "duration_ms": 160840,
-      "name": "Awesome City",
-      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
-    },
-    {
-      "added_at": "2024-12-14 02:05:07",
-      "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
-      },
-      "artists": [
-        {
-          "name": "ord minami",
-          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
     }
   ],
   "unique_name": "Mellow Beats",

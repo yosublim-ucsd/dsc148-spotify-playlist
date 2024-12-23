@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-845 songs - 1 day 21 hr 5 min
+847 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Children Again](https://open.spotify.com/track/15aNr3yRBv2lv0CIaIV1dR) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Children Again](https://open.spotify.com/album/1J3polKz996kBWf1KO2OtT) | 2:40 | 2024-11-29 |  |
 | [Christmas](https://open.spotify.com/track/3UGqwSBKsqP5SqJIFnDSzy) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Christmas](https://open.spotify.com/album/5VTjQedmcZ1xa7ezjIAKcl) | 3:20 | 2022-09-27 | 2022-10-24 |
 | [Christmas '24](https://open.spotify.com/track/7HCjziuytGlAhUGgg49dSH) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS), [chandler in space](https://open.spotify.com/artist/5jpKsn00STUBE2g1IBjVG6) | [Christmas '24](https://open.spotify.com/album/7foeVzrtz85zL7RgeuuMRg) | 2:24 | 2024-12-13 |  |
+| [Christmas '94](https://open.spotify.com/track/2kgEIKop6JMsbxmofxRlAp) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Christmas '94](https://open.spotify.com/album/4tcfOyyKFhhr0OpiCXHo1B) | 3:07 | 2024-12-22 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2) | 2:42 | 2022-11-04 | 2023-10-28 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 | 2021-12-24 | 2022-11-12 |
 | [christmas \(baby please come home\)](https://open.spotify.com/track/3NJnzitSA48kNwRzNnpzGI) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7vQqhPBC5yTwK8rNHChhEA) | 3:05 | 2021-12-24 | 2022-07-29 |
@@ -374,6 +375,7 @@
 | [I Want You This Christmas](https://open.spotify.com/track/1JHsB2E0FWEEBVdFV2W6w8) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dear Big Santa](https://open.spotify.com/album/2HaS5g0VjsXf93yy7TNf6c) | 2:55 | 2024-11-04 |  |
 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/04gzJ3A3kLV6CfDyxCwDsG) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/album/2MXb7jT3PBcoM5tJRwbfMC) | 3:10 | 2024-11-08 |  |
 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/53ask76GUbpe7E9kKSBcoA) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [How Daði Stole Christmas](https://open.spotify.com/album/3UMzBvOcONkrAdPDJ9L03l) | 2:34 | 2024-11-10 |  |
+| [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/5y1jH7GvYtN3aqZdJ2rtmg) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [A Very Dollyrots Christmas, Vol\. 2](https://open.spotify.com/album/7vuk2KchpOR9Alo6D3R7se) | 3:06 | 2024-12-22 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5RMuRiyV5fVzQriQjGyIhp) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Cody Johnson Christmas](https://open.spotify.com/album/0cLuZfaaFMtFmMIadVO0z8) | 4:05 | 2021-12-24 | 2022-09-28 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/7zNeDg8NYqlYTZZIvQN4SA) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'll Be Home for Christmas](https://open.spotify.com/album/2uNtbFRwfyGWcAfA0mq6j5) | 2:28 | 2024-10-18 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/1GjuT0FXHHve3t5CzqU9Wd) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I'll Be Home For Christmas](https://open.spotify.com/album/3obmcueQA0HPnQcUmYykic) | 3:20 | 2024-11-04 | 2024-11-16 |

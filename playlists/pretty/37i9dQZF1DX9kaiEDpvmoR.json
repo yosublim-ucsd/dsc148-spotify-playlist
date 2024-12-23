@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92598,
+  "num_followers": 92593,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -335,38 +335,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "A Fragile Thing",
-        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 283086,
-      "name": "A Fragile Thing",
-      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -387,6 +355,22 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
+        "name": "A Fragile Thing",
+        "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 283086,
+      "name": "A Fragile Thing",
+      "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
         "name": "Don't Blame It On Me",
         "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 168933,
       "name": "Don't Blame It On Me",
       "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "FEAR OF WINNING",
         "url": "https://open.spotify.com/album/5tRqhksdFmuoBZws5eA9Uu"
       },
@@ -563,6 +547,38 @@
       "duration_ms": 206000,
       "name": "Det b\u00e4sta av allt",
       "url": "https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Du lever bara en g\u00e5ng",
+        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Du lever bara en g\u00e5ng",
+      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -615,22 +631,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Du lever bara en g\u00e5ng",
-        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Du lever bara en g\u00e5ng",
-      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "Dandelion Kids",
         "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 256866,
       "name": "Dandelion Kids",
       "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1"
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 269766,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR"
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -715,6 +699,22 @@
       "duration_ms": 166703,
       "name": "Fan f\u00f6r dig",
       "url": "https://open.spotify.com/track/0oYRtSnrvzyVcPEFgRkhUg"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 269766,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "Living Comes With Dying",
         "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 186920,
       "name": "Living Comes With Dying",
       "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
+        "name": "R\u00f6r vid mig",
+        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 190328,
+      "name": "R\u00f6r vid mig",
+      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "R\u00f6r vid mig",
-        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 190328,
-      "name": "R\u00f6r vid mig",
-      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Someone You Used To Know",
-        "url": "https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0"
-      },
-      "artists": [
-        {
-          "name": "Linus Svenning",
-          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Someone You Used To Know",
-      "url": "https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
         "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 213905,
       "name": "Will You Run Away With Me",
       "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Someone You Used To Know",
+        "url": "https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0"
+      },
+      "artists": [
+        {
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Someone You Used To Know",
+      "url": "https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "V\u00e5rt \u00e5r",
-        "url": "https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "V\u00e5rt \u00e5r",
-      "url": "https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
         "name": "A Chosen Family",
         "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Rush Of Blood",
-        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
+        "name": "V\u00e5rt \u00e5r",
+        "url": "https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn"
       },
       "artists": [
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
         }
       ],
-      "duration_ms": 202266,
-      "name": "Rush Of Blood",
-      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
+      "duration_ms": 182750,
+      "name": "V\u00e5rt \u00e5r",
+      "url": "https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1259,6 +1243,22 @@
       "duration_ms": 165333,
       "name": "Upp med hakan",
       "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "Rush Of Blood",
+        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Rush Of Blood",
+      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Little Human",
-        "url": "https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y"
+        "name": "Ge En Sol",
+        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
       },
       "artists": [
         {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
         }
       ],
-      "duration_ms": 235598,
-      "name": "Little Human",
-      "url": "https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE"
+      "duration_ms": 172166,
+      "name": "Ge En Sol",
+      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1327,34 +1327,18 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "I\u2019m Here For You Now",
-        "url": "https://open.spotify.com/album/0YxNOo620DicdFk0oSrDlp"
+        "name": "Little Human",
+        "url": "https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y"
       },
       "artists": [
         {
-          "name": "April Snow",
-          "url": "https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ"
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
         }
       ],
-      "duration_ms": 200694,
-      "name": "I\u2019m Here For You Now",
-      "url": "https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L"
-    },
-    {
-      "added_at": "2024-12-12 23:00:05",
-      "album": {
-        "name": "Ge En Sol",
-        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "Ge En Sol",
-      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
+      "duration_ms": 235598,
+      "name": "Little Human",
+      "url": "https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1371,6 +1355,22 @@
       "duration_ms": 196560,
       "name": "Hoppas du m\u00e5r bra",
       "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+    },
+    {
+      "added_at": "2024-12-12 23:00:05",
+      "album": {
+        "name": "I\u2019m Here For You Now",
+        "url": "https://open.spotify.com/album/0YxNOo620DicdFk0oSrDlp"
+      },
+      "artists": [
+        {
+          "name": "April Snow",
+          "url": "https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ"
+        }
+      ],
+      "duration_ms": 200694,
+      "name": "I\u2019m Here For You Now",
+      "url": "https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L"
     },
     {
       "added_at": "2024-12-12 23:00:05",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2024-12-12 23:00:05",
       "album": {
-        "name": "Pl\u00e5ster",
-        "url": "https://open.spotify.com/album/17jtloQfhJTTH4TPNCZqYm"
+        "name": "Blinka lilla stj\u00e4rna",
+        "url": "https://open.spotify.com/album/7ES7EtUdXvCp06E5RgW3t2"
       },
       "artists": [
         {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        },
-        {
-          "name": "Amanda Ginsburg",
-          "url": "https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj"
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
         }
       ],
-      "duration_ms": 213753,
-      "name": "Pl\u00e5ster",
-      "url": "https://open.spotify.com/track/28mHIP5U49PBHBHr6n9tBt"
+      "duration_ms": 215871,
+      "name": "Blinka lilla stj\u00e4rna",
+      "url": "https://open.spotify.com/track/5HXuijWZHkCjEl6xsbLEY7"
     }
   ],
   "unique_name": "Aktuellt",

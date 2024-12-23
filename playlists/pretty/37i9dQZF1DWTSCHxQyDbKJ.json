@@ -1,6 +1,6 @@
 {
   "description": "Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland. Cover: SOPHIE",
-  "num_followers": 32399,
+  "num_followers": 32404,
   "original_name": "Best of GLOW UK & Ireland 2024",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 327133,
       "name": "You Make Me Feel (Mighty Real)",
       "url": "https://open.spotify.com/track/1sLhKR0VdZ0tgo3stHNEEH"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Thank Goodness",
+        "url": "https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "Thank Goodness",
+      "url": "https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Traumatic Livelihood",
         "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 235000,
       "name": "Is It Cold In The Water?",
       "url": "https://open.spotify.com/track/7m9ZK3DmPbA5IY3FpVaMIq"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Thank Goodness",
-        "url": "https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "Thank Goodness",
-      "url": "https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "I AM JORDAN",
-        "url": "https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 341124,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Meditations",
         "url": "https://open.spotify.com/album/3ZeOrfh7qU6PgCIg5FvYd1"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 357047,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/5WCE4PyJgYWgn1Jq8JHtNs"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "I AM JORDAN",
+        "url": "https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 341124,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq"
     },
     {
       "added_at": "2024-12-04 12:15:00",

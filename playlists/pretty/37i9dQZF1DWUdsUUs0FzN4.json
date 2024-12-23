@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 18922,
+  "num_followers": 18924,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -51,22 +55,18 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -411,30 +411,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Otro Show",
-        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Otro Show",
-      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Otro Show",
+        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Otro Show",
+      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -635,38 +635,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Espantan (Remix)",
-        "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Alnz G",
-          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 218019,
-      "name": "Espantan - Remix",
-      "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
       },
@@ -695,6 +663,38 @@
       "duration_ms": 201084,
       "name": "Chup\u00f3n",
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Espantan (Remix)",
+        "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 218019,
+      "name": "Espantan - Remix",
+      "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "EL CANTANTE DEL GHETTO",
-        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "PUEBLO DE MEDALLO",
-      "url": "https://open.spotify.com/track/1aA5nyIIkH8lmy8iMXy1ZQ"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Mu\u00e9vete",
         "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 211542,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "EL CANTANTE DEL GHETTO",
+        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "PUEBLO DE MEDALLO",
+      "url": "https://open.spotify.com/track/1aA5nyIIkH8lmy8iMXy1ZQ"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1003,26 +1003,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "\u00d1ero Session 5",
-        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
+        "name": "Me Dice Daddy",
+        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
       },
       "artists": [
         {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         },
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 147633,
-      "name": "\u00d1ero Session 5",
-      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
+      "duration_ms": 183320,
+      "name": "Me Dice Daddy",
+      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1047,42 +1043,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Me Dice Daddy",
-        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Me Dice Daddy",
-      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Hora de Salir",
-        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Hora de Salir",
-      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "MAMI CHAKALOSA",
         "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
       },
@@ -1099,6 +1059,46 @@
       "duration_ms": 136843,
       "name": "MAMI CHAKALOSA",
       "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "\u00d1ero Session 5",
+        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "duration_ms": 147633,
+      "name": "\u00d1ero Session 5",
+      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Hora de Salir",
+        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Hora de Salir",
+      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1299,6 +1299,30 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "LATIGAZO",
+        "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "LATIGAZO",
+      "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "\u00d1ero Session 8",
         "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
       },
@@ -1315,26 +1339,6 @@
       "duration_ms": 144468,
       "name": "\u00d1ero Session 8",
       "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "YO KIERO",
-        "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Alan Dazmel",
-          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
-        }
-      ],
-      "duration_ms": 152021,
-      "name": "YO KIERO",
-      "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1371,26 +1375,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "LATIGAZO",
-        "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
+        "name": "YO KIERO",
+        "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
       },
       "artists": [
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         },
         {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
         }
       ],
-      "duration_ms": 175200,
-      "name": "LATIGAZO",
-      "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
+      "duration_ms": 152021,
+      "name": "YO KIERO",
+      "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Vergazo",
-        "url": "https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA"
-      },
-      "artists": [
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Vergazo",
-      "url": "https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "SI T\u00da ME LLAMAS",
         "url": "https://open.spotify.com/album/1FuG5aVjhS1mnmcArhYqFv"
       },
@@ -1851,26 +1831,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Chichi Pana",
-        "url": "https://open.spotify.com/album/7aLKhm7x1iCzRyHqyqCVdK"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 181027,
-      "name": "Chichi Pana",
-      "url": "https://open.spotify.com/track/0Lqxq5eO2zfQJadlzh89YM"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "A Mover Ese Booty",
         "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
       },
@@ -1887,6 +1847,46 @@
       "duration_ms": 157347,
       "name": "A Mover Ese Booty",
       "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Vergazo",
+        "url": "https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Vergazo",
+      "url": "https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Chichi Pana",
+        "url": "https://open.spotify.com/album/7aLKhm7x1iCzRyHqyqCVdK"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 181027,
+      "name": "Chichi Pana",
+      "url": "https://open.spotify.com/track/0Lqxq5eO2zfQJadlzh89YM"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Bellaqueo",
+        "url": "https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Sir Speedy",
+          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
+        }
+      ],
+      "duration_ms": 134638,
+      "name": "Bellaqueo",
+      "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Rkt Rmx (Remix)",
         "url": "https://open.spotify.com/album/3MsjfOvBMfvjhvItOCOicd"
       },
@@ -2063,26 +2083,6 @@
       "duration_ms": 172800,
       "name": "Rkt Rmx - Remix",
       "url": "https://open.spotify.com/track/2DhVtVuoTPaDJu2c3Jn1fW"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Bellaqueo",
-        "url": "https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Sir Speedy",
-          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
-        }
-      ],
-      "duration_ms": 134638,
-      "name": "Bellaqueo",
-      "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Bebe Ricota",
-        "url": "https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l"
-      },
-      "artists": [
-        {
-          "name": "CHOCA",
-          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 151836,
-      "name": "Bebe Ricota",
-      "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Bellakita",
         "url": "https://open.spotify.com/album/0oV153ZO9LCnIVzXNOh7CF"
       },
@@ -2155,22 +2135,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Combiaton",
-        "url": "https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt"
+        "name": "Bebe Ricota",
+        "url": "https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l"
       },
       "artists": [
         {
-          "name": "Dj Drewther",
-          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
         },
         {
-          "name": "Casper Mx",
-          "url": "https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn"
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
         }
       ],
-      "duration_ms": 139218,
-      "name": "Combiaton",
-      "url": "https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70"
+      "duration_ms": 151836,
+      "name": "Bebe Ricota",
+      "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2219,26 +2199,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
-      },
-      "artists": [
-        {
-          "name": "Dj Bekman",
-          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
-        },
-        {
-          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
-          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
-        }
-      ],
-      "duration_ms": 216032,
-      "name": "Rompe La Discoteca",
-      "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "SUPER ESTRELLAS",
         "url": "https://open.spotify.com/album/09qxG7QLNUM8SHYXX878Xe"
       },
@@ -2263,6 +2223,46 @@
       "duration_ms": 220000,
       "name": "3 x 3 (feat. Lexy Walter)",
       "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Perreo Chakalon",
+        "url": "https://open.spotify.com/album/6yiD7DcSWqTeh4s7M9cMo1"
+      },
+      "artists": [
+        {
+          "name": "DJ ETER",
+          "url": "https://open.spotify.com/artist/74d5JvA21aJKseU1ISn9CW"
+        },
+        {
+          "name": "Alexito Mix",
+          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
+        }
+      ],
+      "duration_ms": 136162,
+      "name": "Perreo Chakalon",
+      "url": "https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "OG CITY",
+        "url": "https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 241341,
+      "name": "No Traje Naki",
+      "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
     }
   ],
   "unique_name": "CHAKAL\u00d3N ",

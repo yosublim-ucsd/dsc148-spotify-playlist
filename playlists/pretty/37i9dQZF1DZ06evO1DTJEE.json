@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 44461,
+  "num_followers": 44505,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAD4/gt7+P5pHj3fwv1yZE55",
+  "snapshot_id": "Z2YFAAAAAADCEerYK/1scslXfX8N0Elg",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Different 'Round Here",
-      "url": "https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Mind If I Do",
         "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 218946,
       "name": "Don't Mind If I Do",
       "url": "https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Different 'Round Here",
+      "url": "https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u"
     },
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 232138,
-      "name": "Jesus Saves",
-      "url": "https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Mind If I Do",
         "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 199533,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/6puede6hRbNP5SdPmS2PT0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 232138,
+      "name": "Jesus Saves",
+      "url": "https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope She\u2019s Drinkin' Tonight / Get Back Home",
-        "url": "https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188674,
-      "name": "I Hope She's Drinkin' Tonight",
-      "url": "https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 239868,
       "name": "Pick A Place",
       "url": "https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope She\u2019s Drinkin' Tonight / Get Back Home",
+        "url": "https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188674,
+      "name": "I Hope She's Drinkin' Tonight",
+      "url": "https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bury Me In Dixie",
-        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Bury Me In Dixie",
-      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 195776,
       "name": "Atlantic City",
       "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bury Me In Dixie",
+        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Bury Me In Dixie",
+      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mid-Twenties Crisis",
         "url": "https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 185333,
       "name": "Stick to My Guns (feat. Riley Green)",
       "url": "https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Ain\u2019t Like I Can Hide It",
-      "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 188173,
       "name": "Good Morning From Mexico",
       "url": "https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Ain\u2019t Like I Can Hide It",
+      "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
     },
     {
       "added_at": null,
@@ -703,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rub A Little Dirt On It (feat. Riley Green)",
-        "url": "https://open.spotify.com/album/0QKrhZJZJ5hUmM37OBZyXU"
+        "name": "Riley Green EP",
+        "url": "https://open.spotify.com/album/1m6Vdvu3ttbD1rq0P6Ylvn"
       },
       "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        },
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 165803,
-      "name": "Rub A Little Dirt On It (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/6pnAkWB4997saPywsPSMha"
+      "duration_ms": 207360,
+      "name": "North On 21",
+      "url": "https://open.spotify.com/track/0wQCiHAgUJdlBdRtdrnLFK"
     },
     {
       "added_at": null,
@@ -739,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riley Green EP",
-        "url": "https://open.spotify.com/album/1m6Vdvu3ttbD1rq0P6Ylvn"
+        "name": "Rub A Little Dirt On It (feat. Riley Green)",
+        "url": "https://open.spotify.com/album/0QKrhZJZJ5hUmM37OBZyXU"
       },
       "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        },
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 207360,
-      "name": "North On 21",
-      "url": "https://open.spotify.com/track/0wQCiHAgUJdlBdRtdrnLFK"
+      "duration_ms": 165803,
+      "name": "Rub A Little Dirt On It (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/6pnAkWB4997saPywsPSMha"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-142 songs - 6 hr 59 min
+143 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,10 +85,11 @@
 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 | 2024-02-02 |  |
 | [Laagdaat](https://open.spotify.com/track/0xuOmIFVzGGNBl4VoAphrC) | [Sheera Jasvir](https://open.spotify.com/artist/7kcl4Cs88q6BfB0Qx5Vkil) | [Laagdaat](https://open.spotify.com/album/6i93yHBtrvxyxU6pzCZie8) | 3:48 | 2024-11-04 | 2024-11-16 |
 | [Lalkaare](https://open.spotify.com/track/5XU7ULgTkEdOV0sXvO6Jj1) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15), [Jaini Sandhu](https://open.spotify.com/artist/55UKeoOT4cL1vSmfdLlG4Q) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:30 | 2024-11-26 |  |
+| [Majhail](https://open.spotify.com/track/4U9gsMBTcBwMosyBxJC9Al) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Majhail](https://open.spotify.com/album/51nwNRYw6uBFk7n4GVanoB) | 2:44 | 2024-12-22 |  |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2023-07-18 |  |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2023-07-18 | 2023-09-05 |
 | [Match](https://open.spotify.com/track/01m5RLW5cGPN1yuH80lutI) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/4Ta1GnvFoU3T7fFrOxJ3WE) | 3:01 | 2024-10-22 | 2024-11-12 |
-| [Matthe Te Chamkan](https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD) | [Matthe Te Chamkan](https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs) | 2:41 | 2024-12-09 |  |
+| [Matthe Te Chamkan](https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD) | [Matthe Te Chamkan](https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs) | 2:41 | 2024-12-09 | 2024-12-23 |
 | [Millionaire](https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:19 | 2024-08-26 | 2024-09-12 |
 | [Mitti Da Bawa](https://open.spotify.com/track/1EsWDdjGnV4N1wZEtPq3W8) | [Swarjit Singh](https://open.spotify.com/artist/6KHH8HuW6UQCGeBujB1jxN), [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W) | [Mitti Da Bawa](https://open.spotify.com/album/4ZThtdFPxBoqaULvlpD6K1) | 2:02 | 2024-09-11 | 2024-10-01 |
 | [Most Wanted](https://open.spotify.com/track/6UeMjHhzYnidHi7I4isoGg) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Most Wanted](https://open.spotify.com/album/1t9DkDGq1ZHWt2jggPPUVm) | 3:04 | 2023-07-18 | 2024-10-19 |

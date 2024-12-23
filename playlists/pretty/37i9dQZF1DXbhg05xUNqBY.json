@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348381,
+  "num_followers": 348352,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Known, Seen, Loved (LIVE from the Quarry)",
         "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 264428,
       "name": "Life Again",
       "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Where the Light Dances",
-        "url": "https://open.spotify.com/album/1R5UZG8Phvv6Y77R2mrfuP"
-      },
-      "artists": [
-        {
-          "name": "Yamaree",
-          "url": "https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0"
-        }
-      ],
-      "duration_ms": 218965,
-      "name": "Where the Light Dances",
-      "url": "https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Be Still and Know",
         "url": "https://open.spotify.com/album/3TXcaiiumNrakisWU7UFv1"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 304347,
       "name": "Be Still and Know",
       "url": "https://open.spotify.com/track/4HYualIRbm2DhNTEvjMzKJ"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Where the Light Dances",
+        "url": "https://open.spotify.com/album/1R5UZG8Phvv6Y77R2mrfuP"
+      },
+      "artists": [
+        {
+          "name": "Yamaree",
+          "url": "https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0"
+        }
+      ],
+      "duration_ms": 218965,
+      "name": "Where the Light Dances",
+      "url": "https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Come Back (Psalm 80)",
-        "url": "https://open.spotify.com/album/0yRVfrV533vgv49LSdJjJK"
-      },
-      "artists": [
-        {
-          "name": "Melanie Waldman",
-          "url": "https://open.spotify.com/artist/4v8E8IXJ7pnmbQvMhQxjjd"
-        }
-      ],
-      "duration_ms": 222141,
-      "name": "Come Back (Psalm 80)",
-      "url": "https://open.spotify.com/track/0pHk1i5G3ubku2jBQ1dr0z"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Start Over",
         "url": "https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 202546,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Come Back (Psalm 80)",
+        "url": "https://open.spotify.com/album/0yRVfrV533vgv49LSdJjJK"
+      },
+      "artists": [
+        {
+          "name": "Melanie Waldman",
+          "url": "https://open.spotify.com/artist/4v8E8IXJ7pnmbQvMhQxjjd"
+        }
+      ],
+      "duration_ms": 222141,
+      "name": "Come Back (Psalm 80)",
+      "url": "https://open.spotify.com/track/0pHk1i5G3ubku2jBQ1dr0z"
     },
     {
       "added_at": "2024-07-26 09:52:44",

@@ -1,6 +1,6 @@
 {
   "description": "Big rock tracks from 2017. Cover: Imagine Dragons",
-  "num_followers": 66211,
+  "num_followers": 66238,
   "original_name": "Best of Rock: 2017",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -155,38 +171,6 @@
       "duration_ms": 219800,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
-        "name": "From The Fires",
-        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Safari Song",
-      "url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -255,6 +239,22 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
+        "name": "From The Fires",
+        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Safari Song",
+      "url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 246786,
       "name": "Live in the Moment",
       "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
-        "name": "From The Fires",
-        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Black Smoke Rising",
-      "url": "https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -367,22 +351,6 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "Wonderful Wonderful",
-        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "Run For Cover",
-      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
       },
@@ -411,6 +379,38 @@
       "duration_ms": 235706,
       "name": "Fake Happy",
       "url": "https://open.spotify.com/track/6t44iU80A0h8WQ7vc4OoRj"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "Wonderful Wonderful",
+        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "From The Fires",
+        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "Black Smoke Rising",
+      "url": "https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "Concrete and Gold",
-        "url": "https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
         "name": "The Attractions Of Youth",
         "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 195173,
       "name": "Kicks",
       "url": "https://open.spotify.com/track/274tSPavv09i163nBnYrCU"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "Concrete and Gold",
+        "url": "https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -675,6 +675,38 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "Don't You Worry, Honey",
+        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 226587,
+      "name": "&Run",
+      "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
       },
@@ -687,6 +719,22 @@
       "duration_ms": 228720,
       "name": "The Violence",
       "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "How Did We Get So Dark?",
+        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "I Only Lie When I Love You",
+      "url": "https://open.spotify.com/track/1LbwMX3159t6QxG3u7DRWe"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -711,18 +759,18 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
       },
       "artists": [
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv"
+      "duration_ms": 273066,
+      "name": "The Gold",
+      "url": "https://open.spotify.com/track/3EytfC22ikoXM921cJbejn"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -743,50 +791,18 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "Don't You Worry, Honey",
-        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+        "name": "As You Were (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
       },
       "artists": [
         {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 226587,
-      "name": "&Run",
-      "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
-        "name": "How Did We Get So Dark?",
-        "url": "https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "I Only Lie When I Love You",
-      "url": "https://open.spotify.com/track/1LbwMX3159t6QxG3u7DRWe"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
-        "name": "A Black Mile To The Surface",
-        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 273066,
-      "name": "The Gold",
-      "url": "https://open.spotify.com/track/3EytfC22ikoXM921cJbejn"
+      "duration_ms": 223546,
+      "name": "Wall of Glass",
+      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "As You Were (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Wall of Glass",
-      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
         "name": "MANIA",
         "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
       },
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
       },
       "artists": [
         {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
+      "duration_ms": 204826,
+      "name": "Golden Dandelions",
+      "url": "https://open.spotify.com/track/5vdNoFezjTsQTrZxPK8tDg"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
       "artists": [
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Golden Dandelions",
-      "url": "https://open.spotify.com/track/5vdNoFezjTsQTrZxPK8tDg"
+      "duration_ms": 206400,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
         "name": "Vessels",
         "url": "https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 310346,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/1ocR8gUE4fBfNJZtBr0TFQ"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
     }
   ],
   "unique_name": "Best of Rock: 2017",

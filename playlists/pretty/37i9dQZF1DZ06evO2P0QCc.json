@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 113561,
+  "num_followers": 113569,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAACp1W5UKc5OfiBXqws86VtY",
+  "snapshot_id": "Z2YFAAAAAAAWfpsHcIq/jKi2N3C8VLD1",
   "tracks": [
     {
       "added_at": null,
@@ -394,11 +394,15 @@
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Serpientes Y Escaleras",
-      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
+      "duration_ms": 224666,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
     },
     {
       "added_at": null,
@@ -462,15 +466,11 @@
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
+      "duration_ms": 214933,
+      "name": "Serpientes Y Escaleras",
+      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
     },
     {
       "added_at": null,

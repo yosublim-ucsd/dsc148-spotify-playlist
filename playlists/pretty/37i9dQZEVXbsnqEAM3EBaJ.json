@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD3sgjGKbM9bBVLhYC0cr0f",
+  "snapshot_id": "AAAAAAAAAACs0+Wfuz598bb/l9oEtP3v",
   "tracks": [
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
+        "name": "Spider Lilly",
+        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
+      },
+      "artists": [
+        {
+          "name": "King Diamond",
+          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+        }
+      ],
+      "duration_ms": 274243,
+      "name": "Spider Lilly",
+      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
+    },
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
@@ -27,18 +43,22 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "Spider Lilly",
-        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
+        "name": "Los Bunkers (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
       },
       "artists": [
         {
-          "name": "King Diamond",
-          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 274243,
-      "name": "Spider Lilly",
-      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
+      "duration_ms": 290752,
+      "name": "Quiero Dormir Cansado - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -71,26 +91,6 @@
       "duration_ms": 282257,
       "name": "Sail with the Dead - Orchestral Version",
       "url": "https://open.spotify.com/track/5XVxbwNbYzDU4hhmQm7LJC"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Los Bunkers (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 290752,
-      "name": "Quiero Dormir Cansado - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -155,26 +155,6 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "Run Rudolph Run",
-        "url": "https://open.spotify.com/album/5CTYJVLTBiLDmK9JY9W3uk"
-      },
-      "artists": [
-        {
-          "name": "The Philly Specials",
-          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
-        },
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 236213,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/6h3ss6XbugN9NoaJsBTy9n"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
         "name": "Saskimood",
         "url": "https://open.spotify.com/album/7e4zVsqu6RtoTGhBob9hD0"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 182954,
       "name": "Astronom\u00eda",
       "url": "https://open.spotify.com/track/2vKPkKlZ7pbaF0PJUAYuIF"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
+        "name": "Run Rudolph Run",
+        "url": "https://open.spotify.com/album/5CTYJVLTBiLDmK9JY9W3uk"
+      },
+      "artists": [
+        {
+          "name": "The Philly Specials",
+          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
+        },
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/6h3ss6XbugN9NoaJsBTy9n"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "Creepshow",
-        "url": "https://open.spotify.com/album/6Gf5k8HG0ccFNibSJiXnbh"
-      },
-      "artists": [
-        {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
-        }
-      ],
-      "duration_ms": 187512,
-      "name": "Creepshow",
-      "url": "https://open.spotify.com/track/3KsjjnHF7vwp4RLz4eAy98"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
         "name": "Mentalidad Televisiva (Versi\u00f3n 1984)",
         "url": "https://open.spotify.com/album/5LrwnGdu7Q23LqLjkQIY6u"
       },
@@ -259,18 +243,18 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "copy/paste, vol. 1 (abridged)",
-        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
+        "name": "Creepshow",
+        "url": "https://open.spotify.com/album/6Gf5k8HG0ccFNibSJiXnbh"
       },
       "artists": [
         {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
         }
       ],
-      "duration_ms": 281212,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
+      "duration_ms": 187512,
+      "name": "Creepshow",
+      "url": "https://open.spotify.com/track/3KsjjnHF7vwp4RLz4eAy98"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -287,6 +271,22 @@
       "duration_ms": 312546,
       "name": "Premonition",
       "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
+        "name": "copy/paste, vol. 1 (abridged)",
+        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 281212,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
-      },
-      "artists": [
-        {
-          "name": "Pentagram",
-          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
         "name": "Your Name In Lights",
         "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 219733,
       "name": "Your Name In Lights",
       "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2zcIdCEi2NW3TSjp1VcPz4"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
         }
       ],
-      "duration_ms": 395502,
-      "name": "You're A Fool",
-      "url": "https://open.spotify.com/track/7MbRAjFl6eppqqv63LxRMM"
+      "duration_ms": 342500,
+      "name": "Lovers and Strangers",
+      "url": "https://open.spotify.com/track/57xBvgh1LKFkzcQtlSFvMt"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "Universo De Ley",
-        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 184341,
-      "name": "Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0nzNlCjPhTMWBABJVljRc5"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
         "name": "Sin T\u00e1lamo",
         "url": "https://open.spotify.com/album/0ONZFIEDIQ6KHcGiZUaLPS"
       },
@@ -611,26 +591,22 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "El Chucu Chucu",
-        "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
+        "name": "Universo De Ley",
+        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
         },
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 163865,
-      "name": "El Chucu Chucu",
-      "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
+      "duration_ms": 184341,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0nzNlCjPhTMWBABJVljRc5"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -655,6 +631,30 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
+        "name": "El Chucu Chucu",
+        "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 163865,
+      "name": "El Chucu Chucu",
+      "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
         "name": "Navidad De Locos",
         "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
       },
@@ -667,6 +667,26 @@
       "duration_ms": 176432,
       "name": "Navidad De Locos",
       "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
+        "name": "Swan Lake (Drill Version)",
+        "url": "https://open.spotify.com/album/3WB9nEETWciPiejMAZzLtE"
+      },
+      "artists": [
+        {
+          "name": "Opera Wave",
+          "url": "https://open.spotify.com/artist/4XZtA1u7uPNhDuvDjpMpF7"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "duration_ms": 148615,
+      "name": "Swan Lake - Drill Version",
+      "url": "https://open.spotify.com/track/2sDzWQYfkXblH5YBOaDodt"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -691,26 +711,6 @@
       "duration_ms": 119192,
       "name": "Pareciera",
       "url": "https://open.spotify.com/track/7nmTxkvOlpU537aJoLAJex"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Swan Lake (Drill Version)",
-        "url": "https://open.spotify.com/album/3WB9nEETWciPiejMAZzLtE"
-      },
-      "artists": [
-        {
-          "name": "Opera Wave",
-          "url": "https://open.spotify.com/artist/4XZtA1u7uPNhDuvDjpMpF7"
-        },
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        }
-      ],
-      "duration_ms": 148615,
-      "name": "Swan Lake - Drill Version",
-      "url": "https://open.spotify.com/track/2sDzWQYfkXblH5YBOaDodt"
     },
     {
       "added_at": "2024-12-20 03:00:00",

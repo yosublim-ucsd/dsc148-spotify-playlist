@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udea9\ud83e\udea9\ud83e\udea9\ud83e\udea9",
-  "num_followers": 214587,
+  "num_followers": 214586,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "L\u00e5t Mig Va",
         "url": "https://open.spotify.com/album/678gU1iWVNcgTstct030O3"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 120834,
       "name": "L\u00e5t Mig Va",
       "url": "https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "Save You a Seat",
-        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Save You a Seat",
-      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -607,6 +607,26 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186377,
+      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "Sorgenfri",
         "url": "https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi"
       },
@@ -635,46 +655,6 @@
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186377,
-      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Kaja Gunnufsen",
-          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "BIPOLAR",
-      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -727,6 +707,26 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Kaja Gunnufsen",
+          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "Hva Vil Du",
         "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
       },
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "FRITT FALL",
+        "url": "https://open.spotify.com/album/3Wv8DIn4agQqAhPrB4o48f"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "duration_ms": 144786,
+      "name": "KEISEREN I NEW CLOTHES",
+      "url": "https://open.spotify.com/track/731aUiP8SQbyOiYy9Omo6r"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "S\u00f8lvskje",
         "url": "https://open.spotify.com/album/6Wz4lDw5OdxQ34eeGrCVKW"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 137559,
       "name": "S\u00f8lvskje",
       "url": "https://open.spotify.com/track/6XuknnhHp56njzcXXnHuJg"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "FRITT FALL",
-        "url": "https://open.spotify.com/album/3Wv8DIn4agQqAhPrB4o48f"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        }
-      ],
-      "duration_ms": 144786,
-      "name": "KEISEREN I NEW CLOTHES",
-      "url": "https://open.spotify.com/track/731aUiP8SQbyOiYy9Omo6r"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "NEPOBABY",
-      "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "Sjarm\u00f8r (Beepolar)",
         "url": "https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD"
       },
@@ -863,6 +847,26 @@
       "duration_ms": 163070,
       "name": "Sjarm\u00f8r (Beepolar)",
       "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "players (feat. Ari Bajgora)",
+        "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "players (feat. Ari Bajgora)",
+      "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
     }
   ],
   "unique_name": "ung, dum & lovende",

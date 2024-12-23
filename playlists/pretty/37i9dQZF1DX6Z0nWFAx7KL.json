@@ -1,6 +1,6 @@
 {
   "description": "easy and breezy",
-  "num_followers": 168320,
+  "num_followers": 168313,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
@@ -191,26 +191,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Sandcastles",
-        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
-      },
-      "artists": [
-        {
-          "name": "Nate VanDeusen",
-          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Sandcastles",
-      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa"
       },
@@ -231,6 +211,50 @@
       "duration_ms": 138305,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        },
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Sandcastles",
+        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Sandcastles",
+      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -279,50 +303,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "LAST CALL",
-          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
-        },
-        {
-          "name": "Horxata",
-          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
-        "name": "As It Was (Chill Edit)",
-        "url": "https://open.spotify.com/album/4xxolV9UD43C5JcWhEAbOT"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "As It Was - Chill Edit",
-      "url": "https://open.spotify.com/track/6S9wjjJhcaWR7urRwNFDUZ"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "This Life We Built",
         "url": "https://open.spotify.com/album/5u1ZeTv5yjpxaHwEMHHH8D"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 141371,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "As It Was (Chill Edit)",
+        "url": "https://open.spotify.com/album/4xxolV9UD43C5JcWhEAbOT"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "As It Was - Chill Edit",
+      "url": "https://open.spotify.com/track/6S9wjjJhcaWR7urRwNFDUZ"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -719,42 +719,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Dance Of Love",
-        "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
-      },
-      "artists": [
-        {
-          "name": "LU2VYK",
-          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
-        },
-        {
-          "name": "Wave94",
-          "url": "https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "Dance Of Love",
-      "url": "https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
-        "name": "Safe and Sound",
-        "url": "https://open.spotify.com/album/0W8pgf0TWJ60iL3SKfL2Iq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 214434,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/5J9V8D72Oj6Mp8aHUhMFqq"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/4KV4UQydIms28mOGsIHWDj"
       },
@@ -775,6 +739,26 @@
       "duration_ms": 186984,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Dance Of Love",
+        "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
+      },
+      "artists": [
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        },
+        {
+          "name": "Wave94",
+          "url": "https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "Dance Of Love",
+      "url": "https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -827,6 +811,22 @@
       "duration_ms": 165853,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Safe and Sound",
+        "url": "https://open.spotify.com/album/0W8pgf0TWJ60iL3SKfL2Iq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 214434,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/5J9V8D72Oj6Mp8aHUhMFqq"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Nomads",
-        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "Nomads",
-      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Touch The Sun",
         "url": "https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8"
       },
@@ -967,22 +951,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 142909,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "My Girl",
         "url": "https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu"
       },
@@ -999,38 +967,18 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
         }
       ],
-      "duration_ms": 279960,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
-        "name": "Calling Back",
-        "url": "https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm"
-      },
-      "artists": [
-        {
-          "name": "Mondingo",
-          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
-        },
-        {
-          "name": "DAHR",
-          "url": "https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f"
-        }
-      ],
-      "duration_ms": 305823,
-      "name": "Calling Back",
-      "url": "https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt"
+      "duration_ms": 142909,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -1051,6 +999,22 @@
       "duration_ms": 170524,
       "name": "Red",
       "url": "https://open.spotify.com/track/2GIu11lkivvXvXU79ABX28"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "Nomads",
+      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -1095,18 +1059,22 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/1Rk6pVGxmV8bM64wOCYqUN"
+        "name": "Calling Back",
+        "url": "https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm"
       },
       "artists": [
         {
-          "name": "Nicky Elisabeth",
-          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        },
+        {
+          "name": "DAHR",
+          "url": "https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f"
         }
       ],
-      "duration_ms": 242093,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/70eaUWGPQ3RrZdcHxWb7Ja"
+      "duration_ms": 305823,
+      "name": "Calling Back",
+      "url": "https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -1123,6 +1091,22 @@
       "duration_ms": 129975,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1Rk6pVGxmV8bM64wOCYqUN"
+      },
+      "artists": [
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "duration_ms": 242093,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/70eaUWGPQ3RrZdcHxWb7Ja"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -1167,6 +1151,38 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
+        "name": "Iawah",
+        "url": "https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt"
+      },
+      "artists": [
+        {
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+        }
+      ],
+      "duration_ms": 141954,
+      "name": "Iawah",
+      "url": "https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
         "name": "All Shook Up",
         "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
       },
@@ -1179,26 +1195,6 @@
       "duration_ms": 154838,
       "name": "All Shook Up",
       "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 161463,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA"
     }
   ],
   "unique_name": "Dance Chill",

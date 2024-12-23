@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-254 songs - 14 hr 31 min
+255 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 | 2024-10-10 |  |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-27 | 2024-08-30 |
 | [Bermuda Triangle](https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Bermuda Triangle](https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z) | 3:20 | 2024-09-19 | 2024-10-15 |
+| [Blinka lilla stjärna](https://open.spotify.com/track/5HXuijWZHkCjEl6xsbLEY7) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Blinka lilla stjärna](https://open.spotify.com/album/7ES7EtUdXvCp06E5RgW3t2) | 3:35 | 2024-12-12 |  |
 | [Bortom Månen Och Mars](https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Bortom Månen Och Mars](https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi) | 3:05 | 2024-11-07 |  |
 | [Brandalsund](https://open.spotify.com/track/4YSgUGFpznFJt9bfBmIn72) | [Adolphson & Falk](https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0), [Peder af Ugglas](https://open.spotify.com/artist/0BShcQJsGOlh0CxBK24Q43) | [Brandalsund](https://open.spotify.com/album/6eGmbGKoEUJOCD40SbPQOI) | 4:26 | 2024-06-27 | 2024-08-16 |
 | [Bästa kebaben i hela stan](https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Bästa kebaben i hela stan](https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2) | 3:35 | 2024-06-27 | 2024-08-23 |
@@ -174,7 +175,7 @@
 | [Passa dig](https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Passa dig](https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG) | 2:28 | 2024-10-03 | 2024-11-11 |
 | [Peaceful Easy Feeling](https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Peaceful Easy Feeling](https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL) | 2:51 | 2024-06-27 | 2024-09-29 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-06-27 | 2024-08-09 |
-| [Plåster](https://open.spotify.com/track/28mHIP5U49PBHBHr6n9tBt) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [Plåster](https://open.spotify.com/album/17jtloQfhJTTH4TPNCZqYm) | 3:33 | 2024-10-03 |  |
+| [Plåster](https://open.spotify.com/track/28mHIP5U49PBHBHr6n9tBt) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [Plåster](https://open.spotify.com/album/17jtloQfhJTTH4TPNCZqYm) | 3:33 | 2024-10-03 | 2024-12-23 |
 | [Plåster](https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Plåster](https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y) | 4:59 | 2024-08-15 | 2024-09-27 |
 | [Presence](https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Presence](https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP) | 3:15 | 2024-06-27 | 2024-10-13 |
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-27 | 2024-08-23 |

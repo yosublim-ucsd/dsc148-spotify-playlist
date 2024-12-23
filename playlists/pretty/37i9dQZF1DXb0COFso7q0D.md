@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras elevando a la Música Mexicana\. Cover: Fuerza Regida & Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,350,344 likes - 71 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,350,439 likes - 71 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

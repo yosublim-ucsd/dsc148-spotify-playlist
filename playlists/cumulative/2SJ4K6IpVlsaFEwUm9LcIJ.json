@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Seafaring Strangers: Private Yacht",
+        "url": "https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD"
+      },
+      "artists": [
+        {
+          "name": "Canyon",
+          "url": "https://open.spotify.com/artist/6l3ua4Cr4PckpYDOgSFZiE"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140386,
+      "name": "Country Lovin",
+      "url": "https://open.spotify.com/track/1DkaAkRqcwLU3weOOlhS3X"
+    },
+    {
+      "album": {
         "name": "Cozy",
         "url": "https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY"
       },

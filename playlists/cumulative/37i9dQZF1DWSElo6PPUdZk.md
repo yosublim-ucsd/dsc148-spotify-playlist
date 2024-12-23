@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Pari Pandher
 
-165 songs - 8 hr 32 min
+166 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Chaa](https://open.spotify.com/track/2DCXCHRfNg15v6xKNXkWms) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [KV Singh](https://open.spotify.com/artist/5mmEV4u8FRcTvPnXf7TWRF) | [Chaa](https://open.spotify.com/album/0uubOv6pDL9ucUZVuZEtNM) | 3:11 | 2024-10-24 |  |
 | [Challa](https://open.spotify.com/track/1JDGbbo7p8vTn9telazxNG) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Challa](https://open.spotify.com/album/4vrY5oQa2qYcA21IBPKNlz) | 4:46 | 2024-12-03 |  |
 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 | 2023-11-17 |  |
-| [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 | 2023-03-18 |  |
+| [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 | 2023-03-18 | 2024-12-23 |
 | [Defaulter](https://open.spotify.com/track/260lfDzVnZHXmIXIvKUNVz) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defaulter](https://open.spotify.com/album/4iGipyYHimj6ZMsAzkhQDQ) | 3:21 | 2023-03-18 | 2024-10-04 |
 | [Dhill](https://open.spotify.com/track/0r2wxY718iQRndDklGbt21) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Dhill](https://open.spotify.com/album/1MDXzIwFBqaNm3VsW7kQ0Q) | 2:57 | 2024-10-03 |  |
 | [Dhola](https://open.spotify.com/track/0ozR2yQS7gY27fywJkaOb1) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Dhola](https://open.spotify.com/album/7EHkKYRXhXNiKDGU07Z7Xv) | 3:15 | 2024-10-01 |  |
@@ -117,6 +117,7 @@
 | [Munda Karke +2 Aaya](https://open.spotify.com/track/483jHkv9kpwujhk9ZHBxlH) | [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Asmeet Sehra](https://open.spotify.com/artist/2lgc3rdVbTxyM5x4NhCXUs), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Munda Karke +2 Aaya](https://open.spotify.com/album/5gy6Gqn41X7wT7MysEocHl) | 2:47 | 2023-10-03 | 2023-10-10 |
 | [Na Na Na](https://open.spotify.com/track/6BXzT27RykmZwNSXDffi7j) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd) | [Na Na Na](https://open.spotify.com/album/1uVZpHsFhGt48a5b8awBPm) | 2:59 | 2023-03-18 | 2023-10-10 |
 | [Naal Naal](https://open.spotify.com/track/5oS0I3HkOPsr39H4JEEvGh) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Preet Ahluwalia](https://open.spotify.com/artist/1TKw4lrjy1H3kIS6Tkmm5Q), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix) | [Naal Naal](https://open.spotify.com/album/4iEbTYxyRl0hlRvs9TkoMl) | 2:53 | 2024-11-06 |  |
+| [NAI LABHNI \| Folk & Rock](https://open.spotify.com/track/28DxA6GtbLXBj8FsEdVWTU) | [Nitika Singh](https://open.spotify.com/artist/5N3uKvdQ6vyVeKWZv9Bgmk) | [NAI LABHNI \| Folk & Rock](https://open.spotify.com/album/7pwMEDa5LX3PZSLYujG5aE) | 3:12 | 2024-12-22 |  |
 | [Nakhro](https://open.spotify.com/track/1dEEx1rJw08XcH9nbWs35B) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:26 | 2024-10-10 | 2024-10-19 |
 | [Naseeb](https://open.spotify.com/track/5JgMsHeJypXp3Ixgkhdz1U) | [Sana Panesar](https://open.spotify.com/artist/6tOoWveZi0RsecgXm6cxKf), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Naseeb](https://open.spotify.com/album/3Hb8QXpntJtNbsMRJ1wEwh) | 1:55 | 2024-12-06 |  |
 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 | 2024-09-28 |  |

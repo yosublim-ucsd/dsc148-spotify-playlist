@@ -4,11 +4,12 @@
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 13 min
+70 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Nuvem \(Ao Vivo\)](https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe) | 4:09 | 2023-12-13 |  |
+| [A Senha](https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Senha](https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC) | 4:23 | 2024-12-23 |  |
 | [Abraão \(Ao Vivo\)](https://open.spotify.com/track/0vuEdss2gXEU0XeRelz6W6) | [Alice](https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Abraão \(Ao Vivo\)](https://open.spotify.com/album/2HqDF8nrCd14tKBHPTY9K3) | 5:05 | 2024-02-27 | 2024-06-06 |
 | [Agradeço ao Senhor](https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Agradeço ao Senhor](https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a) | 3:19 | 2023-07-09 |  |
 | [Ainda Existe Solução](https://open.spotify.com/track/0voAoS7sRwXfhWt6Z5Zcq4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda\-me](https://open.spotify.com/album/7kynVcUjINLffSuV90P5yF) | 4:42 | 2023-07-09 | 2023-09-22 |
@@ -21,7 +22,7 @@
 | [Criança Nota 10](https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Coral de Crianças](https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi) | [Criança Nota 10](https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3) | 2:44 | 2023-07-09 |  |
 | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:26 | 2023-07-09 |  |
 | [Dare To Dream Again](https://open.spotify.com/track/1e2weWuLZfxMTUeoSHaqtW) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Dare To Dream Again](https://open.spotify.com/album/6CJnobt6wU5KWV0WSFruR5) | 3:54 | 2024-09-14 | 2024-10-19 |
-| [De Volta à Inocência \(Ao Vivo\)](https://open.spotify.com/track/34B58unZa9JSdvpyNsrF2L) | [Thiago Oliveira](https://open.spotify.com/artist/6s7wHQDwchpij8hPEq2UCM), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [De Volta à Inocência \(Ao Vivo\)](https://open.spotify.com/album/4saHzUxSam805V8nKPWb3m) | 4:27 | 2024-10-04 |  |
+| [De Volta à Inocência \(Ao Vivo\)](https://open.spotify.com/track/34B58unZa9JSdvpyNsrF2L) | [Thiago Oliveira](https://open.spotify.com/artist/6s7wHQDwchpij8hPEq2UCM), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [De Volta à Inocência \(Ao Vivo\)](https://open.spotify.com/album/4saHzUxSam805V8nKPWb3m) | 4:27 | 2024-10-04 | 2024-12-23 |
 | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p) | 4:15 | 2024-09-21 |  |
 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 | 2023-07-09 |  |
 | [Deus Te Consola Outra Vez](https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus Te Consola Outra Vez](https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc) | 4:34 | 2023-07-09 | 2024-07-13 |

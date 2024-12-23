@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 301589,
       "name": "Jugni",
       "url": "https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl"
@@ -1546,6 +1546,24 @@
       "duration_ms": 197468,
       "name": "Munda Sakhiyo Ni",
       "url": "https://open.spotify.com/track/09Gy3xqh13lw2UoiGQTI9s"
+    },
+    {
+      "album": {
+        "name": "NAI LABHNI | Folk & Rock",
+        "url": "https://open.spotify.com/album/7pwMEDa5LX3PZSLYujG5aE"
+      },
+      "artists": [
+        {
+          "name": "Nitika Singh",
+          "url": "https://open.spotify.com/artist/5N3uKvdQ6vyVeKWZv9Bgmk"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192452,
+      "name": "NAI LABHNI | Folk & Rock",
+      "url": "https://open.spotify.com/track/28DxA6GtbLXBj8FsEdVWTU"
     },
     {
       "album": {

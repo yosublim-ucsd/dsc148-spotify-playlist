@@ -1,6 +1,6 @@
 {
   "description": "Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument. Clara Rockmore on cover.",
-  "num_followers": 4417,
+  "num_followers": 4420,
   "original_name": "theremin",
   "owner": {
     "name": "Spotify",
@@ -232,6 +232,30 @@
       },
       "artists": [
         {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "El amor brujo (Love, the Magician): Pantomima [Pantomime] [arr. For theremin and piano]",
+      "url": "https://open.spotify.com/track/6DJ2k6zqKZ5Bz2R489egao"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+      },
+      "artists": [
+        {
           "name": "Camille Saint-Sa\u00ebns",
           "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
@@ -271,6 +295,26 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
+        "name": "Theremin",
+        "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
+        },
+        {
+          "name": "Giulietta Koch",
+          "url": "https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Les Berceaux, Op. 23 No. 1 (Arr. for Theremin and Piano)",
+      "url": "https://open.spotify.com/track/7w2mM8cQGXsMqVaRlrEs4J"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
         "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
         "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
       },
@@ -291,50 +335,6 @@
       "duration_ms": 256760,
       "name": "18 morceaux, Op. 72, No. 2. Berceuse. 18 morceaux, Op. 72: No. 2, Berceuse (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/3paKSv3Hjjdfyck1A2O060"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
-      },
-      "artists": [
-        {
-          "name": "Manuel de Falla",
-          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "El amor brujo (Love, the Magician): Pantomima [Pantomime] [arr. For theremin and piano]",
-      "url": "https://open.spotify.com/track/6DJ2k6zqKZ5Bz2R489egao"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Theremin",
-        "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        },
-        {
-          "name": "Giulietta Koch",
-          "url": "https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Les Berceaux, Op. 23 No. 1 (Arr. for Theremin and Piano)",
-      "url": "https://open.spotify.com/track/7w2mM8cQGXsMqVaRlrEs4J"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -579,6 +579,82 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
+        "name": "Theremin Ameriqu\u00e9: The American Songbook",
+        "url": "https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY"
+      },
+      "artists": [
+        {
+          "name": "Armen Ra",
+          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
+        }
+      ],
+      "duration_ms": 168386,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4UyTsJd4FAAbrsA8qQ6apq"
+    },
+    {
+      "added_at": "2022-01-11 03:14:58",
+      "album": {
+        "name": "Elegies for Theremin & Voice",
+        "url": "https://open.spotify.com/album/2hvh70v7UAkTDB6ERVabQH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
+        }
+      ],
+      "duration_ms": 250824,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/4orEgXNanMh8G0UQHxpmLh"
+    },
+    {
+      "added_at": "2024-01-03 19:32:35",
+      "album": {
+        "name": "The Electrical Life of Louis Wain (Original Motional Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH"
+      },
+      "artists": [
+        {
+          "name": "Arthur Sharpe",
+          "url": "https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Young Louis",
+      "url": "https://open.spotify.com/track/22LbkDlYI0E4F0ilXy9Mjx"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "O Cease Thy Singing, Maiden Fair, Op. 4: No. 4",
+      "url": "https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
         "name": "Mysterons Theme",
         "url": "https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq"
       },
@@ -621,82 +697,6 @@
       "url": "https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ"
     },
     {
-      "added_at": "2024-01-03 19:32:35",
-      "album": {
-        "name": "The Electrical Life of Louis Wain (Original Motional Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH"
-      },
-      "artists": [
-        {
-          "name": "Arthur Sharpe",
-          "url": "https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Young Louis",
-      "url": "https://open.spotify.com/track/22LbkDlYI0E4F0ilXy9Mjx"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Theremin Ameriqu\u00e9: The American Songbook",
-        "url": "https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY"
-      },
-      "artists": [
-        {
-          "name": "Armen Ra",
-          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
-        }
-      ],
-      "duration_ms": 168386,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/4UyTsJd4FAAbrsA8qQ6apq"
-    },
-    {
-      "added_at": "2022-01-11 03:14:58",
-      "album": {
-        "name": "Elegies for Theremin & Voice",
-        "url": "https://open.spotify.com/album/2hvh70v7UAkTDB6ERVabQH"
-      },
-      "artists": [
-        {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        }
-      ],
-      "duration_ms": 250824,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/4orEgXNanMh8G0UQHxpmLh"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Music In and On The Air",
-        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Erick Friedman",
-          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "O Cease Thy Singing, Maiden Fair, Op. 4: No. 4",
-      "url": "https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6"
-    },
-    {
       "added_at": "2021-08-17 02:35:20",
       "album": {
         "name": "Theremonial (Dark & Exotic Theremin Music)",
@@ -711,34 +711,6 @@
       "duration_ms": 164440,
       "name": "Luna Hiena",
       "url": "https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Music In and On The Air",
-        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Erick Friedman",
-          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 514733,
-      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
-      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -759,26 +731,6 @@
       "duration_ms": 527173,
       "name": "Voice of Theremin",
       "url": "https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Tarnow: Theremin Sonatas",
-        "url": "https://open.spotify.com/album/70enQr7njOjNNd08lKp72H"
-      },
-      "artists": [
-        {
-          "name": "Christopher Tarnow",
-          "url": "https://open.spotify.com/artist/0cOcnlkQLbizLpOqRUkmGq"
-        },
-        {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        }
-      ],
-      "duration_ms": 462626,
-      "name": "Theremin Sonata No. 1: I. Moderato",
-      "url": "https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -815,6 +767,54 @@
       "duration_ms": 280586,
       "name": "Tha\u00efs: M\u00e9ditation (Arr. for Theremin and Piano)",
       "url": "https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 514733,
+      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
+      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Tarnow: Theremin Sonatas",
+        "url": "https://open.spotify.com/album/70enQr7njOjNNd08lKp72H"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tarnow",
+          "url": "https://open.spotify.com/artist/0cOcnlkQLbizLpOqRUkmGq"
+        },
+        {
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
+        }
+      ],
+      "duration_ms": 462626,
+      "name": "Theremin Sonata No. 1: I. Moderato",
+      "url": "https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -867,8 +867,24 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "It is ok to be sad and dark",
-        "url": "https://open.spotify.com/album/1WwjYpIOkMNQdnjZEtZ7TW"
+        "name": "Theremin Discmorphia",
+        "url": "https://open.spotify.com/album/1ba187ocIN64czJt2OD5li"
+      },
+      "artists": [
+        {
+          "name": "Armen Ra",
+          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Back to Black",
+      "url": "https://open.spotify.com/track/7qUU7gPJRgN3XkhrkdwCTg"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Playing Theremin",
+        "url": "https://open.spotify.com/album/1JTgXVY0tfm78o1qTmBayS"
       },
       "artists": [
         {
@@ -876,9 +892,9 @@
           "url": "https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz"
         }
       ],
-      "duration_ms": 156466,
-      "name": "It is ok to be sad and dark",
-      "url": "https://open.spotify.com/track/47ETRprpN3ztAywwUAc6Zj"
+      "duration_ms": 168077,
+      "name": "Kontula",
+      "url": "https://open.spotify.com/track/4CGr7SVFInOu9u0JFKLQ8T"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -895,6 +911,46 @@
       "duration_ms": 143973,
       "name": "Lost in the Stars",
       "url": "https://open.spotify.com/track/1aieHIIr4qHQ2Rfk7g9ITv"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Theremin",
+        "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
+        },
+        {
+          "name": "Rebekka Markowski",
+          "url": "https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc"
+        },
+        {
+          "name": "Roman Eyck",
+          "url": "https://open.spotify.com/artist/7rZPR5skCsBsl5FaKqdX5s"
+        }
+      ],
+      "duration_ms": 190986,
+      "name": "Cantilena No. 3 (Arr. for Theremin, Cello Quartet and Double Bass)",
+      "url": "https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Theremonial (Dark & Exotic Theremin Music)",
+        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
+      },
+      "artists": [
+        {
+          "name": "Javier D\u00edez Ena & His Theremins",
+          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Waikiki Spleen",
+      "url": "https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -927,22 +983,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremin Discmorphia",
-        "url": "https://open.spotify.com/album/1ba187ocIN64czJt2OD5li"
-      },
-      "artists": [
-        {
-          "name": "Armen Ra",
-          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Back to Black",
-      "url": "https://open.spotify.com/track/7qUU7gPJRgN3XkhrkdwCTg"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Clara Rockmore's Lost Theremin Album",
         "url": "https://open.spotify.com/album/7FUnGjGbZPbAPAr5DhkalS"
       },
@@ -967,58 +1007,18 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremin",
-        "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
+        "name": "Around the World in 80 Days",
+        "url": "https://open.spotify.com/album/0FcE5hJVgG3PxtihdCMKz1"
       },
       "artists": [
         {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        },
-        {
-          "name": "Rebekka Markowski",
-          "url": "https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc"
-        },
-        {
-          "name": "Roman Eyck",
-          "url": "https://open.spotify.com/artist/7rZPR5skCsBsl5FaKqdX5s"
+          "name": "Katica Ill\u00e9nyi",
+          "url": "https://open.spotify.com/artist/20J0bUSeZeOoFPjr8FBJO7"
         }
       ],
-      "duration_ms": 190986,
-      "name": "Cantilena No. 3 (Arr. for Theremin, Cello Quartet and Double Bass)",
-      "url": "https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Playing Theremin",
-        "url": "https://open.spotify.com/album/1JTgXVY0tfm78o1qTmBayS"
-      },
-      "artists": [
-        {
-          "name": "Kepa Lehtinen",
-          "url": "https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz"
-        }
-      ],
-      "duration_ms": 168077,
-      "name": "Kontula",
-      "url": "https://open.spotify.com/track/4CGr7SVFInOu9u0JFKLQ8T"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Theremonial (Dark & Exotic Theremin Music)",
-        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
-      },
-      "artists": [
-        {
-          "name": "Javier D\u00edez Ena & His Theremins",
-          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Waikiki Spleen",
-      "url": "https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0"
+      "duration_ms": 213515,
+      "name": "Once Upon a Time in the West",
+      "url": "https://open.spotify.com/track/6G7gbxHidYJCgWg2mxDU8j"
     }
   ],
   "unique_name": "theremin",

@@ -6494,7 +6494,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 242250,
       "name": "Universe",
       "url": "https://open.spotify.com/track/3z9vtg5fyno2bFy0YZPQZP"
@@ -14356,6 +14356,24 @@
       "duration_ms": 314947,
       "name": "\u70cf\u6258\u90a6",
       "url": "https://open.spotify.com/track/5TfKLAw45SuHeCTN6weP3M"
+    },
+    {
+      "album": {
+        "name": "\u7121\u77e5",
+        "url": "https://open.spotify.com/album/7JPf7XP9KGjNL4EQKcUd3a"
+      },
+      "artists": [
+        {
+          "name": "WON",
+          "url": "https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284096,
+      "name": "\u7121\u77e5",
+      "url": "https://open.spotify.com/track/2hQc0EMN09moXr3YWkNdKq"
     },
     {
       "album": {

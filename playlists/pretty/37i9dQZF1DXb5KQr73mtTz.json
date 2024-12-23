@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 18004,
+  "num_followers": 18015,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
+        "name": "something",
+        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "something",
+      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
         "name": "True Song",
         "url": "https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 176111,
       "name": "Why Would I",
       "url": "https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
-        "name": "something",
-        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
-      },
-      "artists": [
-        {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "something",
-      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -835,22 +835,18 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "Love Part 2",
-        "url": "https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F"
+        "name": "Why break up? (My love X Jeon Sang Keun)",
+        "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Don't ever say love me (Feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef"
+      "duration_ms": 271280,
+      "name": "Why break up? (My love X Jeon Sang Keun)",
+      "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

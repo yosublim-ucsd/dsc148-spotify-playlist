@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oNeMtDTdrkrRRcFxrpg3w">Emmavie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-63 songs - 3 hr 37 min
+64 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [I Wonder](https://open.spotify.com/track/0NV4DZ434bZvabrRWcU9P6) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o), [Emmavie Mbongo](https://open.spotify.com/artist/46KjyZoy6VjUC6QJft93Rf), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO) | [I Wonder](https://open.spotify.com/album/5CvpBYiuY6SznPS7WoNXM7) | 3:30 | 2024-01-29 |  |
 | [If We Try](https://open.spotify.com/track/3hsavJCBjLlrhlskM7xJ5d) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o) | [If We Try](https://open.spotify.com/album/3Lv4W4gvXF65OFo28SSnmm) | 3:25 | 2024-01-29 |  |
 | [Ilvu](https://open.spotify.com/track/0jmvjiicpgmx4MhoRjERJb) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Bespoke](https://open.spotify.com/album/3rAok3hudLEp4ztCJxIIUq) | 6:07 | 2024-01-29 |  |
-| [Ilvu Too](https://open.spotify.com/track/50xWRbWiPD5RoISks0Xeyq) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Home Is Where the Art Is](https://open.spotify.com/album/4kNJuvOOA6BD6VtSZM1CDu) | 4:01 | 2024-01-29 |  |
+| [Ilvu Too](https://open.spotify.com/track/0gHeKVH97YeZZ9gHI7ALwP) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Home Is Where the Art Is](https://open.spotify.com/album/0pIDnnsYAAqxoUK6jJUjrf) | 4:01 | 2024-12-22 |  |
+| [Ilvu Too](https://open.spotify.com/track/50xWRbWiPD5RoISks0Xeyq) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Home Is Where the Art Is](https://open.spotify.com/album/4kNJuvOOA6BD6VtSZM1CDu) | 4:01 | 2024-01-29 | 2024-12-23 |
 | [In Charge](https://open.spotify.com/track/2Le8ZZfiAX6qBCKC8LJc6u) | [Kelly Nova](https://open.spotify.com/artist/5b6PgL3qbqScpDZ2qM8aQr) | [Kelly Nova](https://open.spotify.com/album/6TLzKBLO1nHKUqq9dOeyXt) | 2:38 | 2024-01-29 |  |
 | [In The Night](https://open.spotify.com/track/1AXiTsbtxt4qnJmc9sROed) | [SAMBA](https://open.spotify.com/artist/79g4BP5oaBzlxFzvPuhOgR), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Match My High](https://open.spotify.com/album/6W6bS0KVmQdT6s6m9pe0Y1) | 2:16 | 2024-01-29 |  |
 | [Insomnia](https://open.spotify.com/track/32YG0ebw6qlgiLohLucdJW) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 3:31 | 2024-01-29 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 146194,
+  "num_followers": 146211,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Casinha",
-        "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Pescador",
-      "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
         "name": "Ac\u00fastico Cidade Negra",
         "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 249706,
       "name": "Girassol (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "Casinha",
+        "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Pescador",
+      "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Beach in Hawaii",
-      "url": "https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
         "name": "Circuito Reggae, Vol. 8",
         "url": "https://open.spotify.com/album/3RuibytHE3NZnO7OgS2iN3"
       },
@@ -411,38 +395,6 @@
       "duration_ms": 241813,
       "name": "Sentimento Bom",
       "url": "https://open.spotify.com/track/0vyKzl0o1lem1sHg5wXgSD"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
-        "name": "15 Anos (Ao vivo)",
-        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
-      },
-      "artists": [
-        {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
-      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 308901,
-      "name": "A Casa do Sol/Sentimento - Ao Vivo",
-      "url": "https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -467,18 +419,34 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Papas Da L\u00edngua",
-        "url": "https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q"
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w"
       },
       "artists": [
         {
-          "name": "Papas Da L\u00edngua",
-          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 298453,
-      "name": "Blusinha Branca",
-      "url": "https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX"
+      "duration_ms": 220413,
+      "name": "Beach in Hawaii",
+      "url": "https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "15 Anos (Ao vivo)",
+        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
+      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -495,6 +463,38 @@
       "duration_ms": 254533,
       "name": "Johny B. Goode (Johny B. Goode) [Ac\u00fastico]",
       "url": "https://open.spotify.com/track/1BkxFAodaIkcM2vynl4CVM"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 308901,
+      "name": "A Casa do Sol/Sentimento - Ao Vivo",
+      "url": "https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "Papas Da L\u00edngua",
+        "url": "https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q"
+      },
+      "artists": [
+        {
+          "name": "Papas Da L\u00edngua",
+          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
+        }
+      ],
+      "duration_ms": 298453,
+      "name": "Blusinha Branca",
+      "url": "https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Ac\u00fastico Cidade Negra",
-        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Pensamento (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2NhI1Yc8XNEztaWxAR1SdD"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ"
       },
@@ -595,26 +579,6 @@
       "duration_ms": 185659,
       "name": "Seja Para Mim - Ao Vivo Em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/5RuScevud12uKYhhJkYTJ7"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
-        "name": "Ao Vivo em Buenos Aires",
-        "url": "https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        },
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 187199,
-      "name": "Versos Simples - Ao Vivo",
-      "url": "https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -639,22 +603,38 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
       },
       "artists": [
         {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
         }
       ],
-      "duration_ms": 221262,
-      "name": "Eu Tive um Sonho - Ao Vivo",
-      "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
+      "duration_ms": 172906,
+      "name": "Pensamento (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NhI1Yc8XNEztaWxAR1SdD"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "Ao Vivo em Buenos Aires",
+        "url": "https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        },
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 187199,
+      "name": "Versos Simples - Ao Vivo",
+      "url": "https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -699,6 +679,26 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
+        "name": "Ac\u00fastico Planta e Raiz 2022, Show Completo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 221262,
+      "name": "Eu Tive um Sonho - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ"
       },
@@ -731,38 +731,6 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 224264,
-      "name": "Nesses Olhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
-        "name": "Ac\u00fastico Cidade Negra",
-        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        }
-      ],
-      "duration_ms": 230840,
-      "name": "A Sombra da Maldade (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
         "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
         "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
@@ -791,6 +759,38 @@
       "duration_ms": 358400,
       "name": "Stepping Out - Live",
       "url": "https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        }
+      ],
+      "duration_ms": 230840,
+      "name": "A Sombra da Maldade (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 224264,
+      "name": "Nesses Olhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Solst\u00edcio de Ver\u00e3o (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 191664,
-      "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
         "name": "Juntos Somos Fortes (Ao Vivo)",
         "url": "https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 335466,
       "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
       "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "Solst\u00edcio de Ver\u00e3o (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 191664,
+      "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "\u00c9 Bonito de Ver",
-        "url": "https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3"
-      },
-      "artists": [
-        {
-          "name": "Madayati",
-          "url": "https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "\u00c9 Bonito de Ver",
-      "url": "https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
         "name": "Ao Vivo No Rep\u00fablica do Reggae",
         "url": "https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 287053,
       "name": "Medley: \u00c1rvore do Reggae / M\u00fasica de Jah / Ame Sua Miss\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4bSV38EAZHHv8KdAwFbYt5"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "\u00c9 Bonito de Ver",
+        "url": "https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3"
+      },
+      "artists": [
+        {
+          "name": "Madayati",
+          "url": "https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "\u00c9 Bonito de Ver",
+      "url": "https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt"
     },
     {
       "added_at": "2024-07-05 13:49:13",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
+        "name": "Toque Vivo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bc00G612a4Ru1u6gs4cPx"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 241288,
+      "name": "Rasta no Topo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LRSZXqMl7VjYqDfJdyEB2"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
         "name": "Lunar (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6JxiS92qZJ409A1qe7O9cW"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 168250,
       "name": "Tranquila - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/0I70H9PTeywaND8P80R5fP"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
-        "name": "Toque Vivo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bc00G612a4Ru1u6gs4cPx"
-      },
-      "artists": [
-        {
-          "name": "Ponto De Equil\u00edbrio",
-          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
-        }
-      ],
-      "duration_ms": 241288,
-      "name": "Rasta no Topo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6LRSZXqMl7VjYqDfJdyEB2"
     },
     {
       "added_at": "2024-07-05 13:49:13",

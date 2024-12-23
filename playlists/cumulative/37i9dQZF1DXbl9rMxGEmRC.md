@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-669 songs - 2 day 9 hr 16 min
+670 songs - 2 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [Tides of Glass](https://open.spotify.com/track/48HhbpVOPnKvJBKo23rZfz) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Tides of Glass](https://open.spotify.com/album/21LFLY7iEHgcVp8ag6mnjl) | 4:17 | 2022-09-01 | 2024-07-01 |
 | [Tilbake Til Opprinnelsen](https://open.spotify.com/track/1zIu37Rj840KEAtDl6FYbJ) | [Mork](https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7) | [Tilbake Til Opprinnelsen](https://open.spotify.com/album/4seH77vBDdWdCsIVG3OgzN) | 6:15 | 2023-03-10 | 2023-04-01 |
 | [Till Valhall \- Svitjod Edition](https://open.spotify.com/track/0nn0RZJ2HIigg38UrRXka0) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Till Valhall](https://open.spotify.com/album/6xgmB5t5CUzD47ppBQg2CY) | 3:43 | 2021-12-17 | 2022-01-22 |
+| [Tlayohualli](https://open.spotify.com/track/73w5v531ZJmWSMbpW8cfGk) | [Tzompantli](https://open.spotify.com/artist/1pKJXg1AJSPkgIR4uGSLFg) | [Beating the Drums of Ancestral Force](https://open.spotify.com/album/1TzxcZi35TzJCNdBErsQ6F) | 6:21 | 2024-11-25 |  |
 | [To Flow Through Ashen Hearts](https://open.spotify.com/track/1SwE2eFabx4yP0g3ISrTkT) | [Ulcerate](https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg) | [Cutting the Throat of God](https://open.spotify.com/album/2QNcQNDeIvL0EWOSP87iSm) | 7:07 | 2024-11-25 |  |
 | [to my disquiet](https://open.spotify.com/track/46z0X2Fvt9ORLvgLr772Hd) | [Avhath](https://open.spotify.com/artist/18Oc9nuhdMhI1AHsciD1xu), [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [to my disquiet](https://open.spotify.com/album/4eZx4deNQamrxN1SIWVYKn) | 6:26 | 2024-11-25 |  |
 | [To Wilt Beneath The Weight](https://open.spotify.com/track/1EBWErIk3ZhR2sdPjsHJG7) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [The Weight Of The Mask](https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre) | 5:39 | 2023-10-06 | 2024-03-01 |
@@ -647,7 +648,7 @@
 | [War Remains](https://open.spotify.com/track/01OftO0NuZARcIbsSPF5MC) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [War Remains](https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN) | 4:11 | 2023-04-28 | 2023-07-22 |
 | [Wargod](https://open.spotify.com/track/000ETNHKRNLHNPjsCojYkc) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:38 | 2023-05-26 | 2024-04-19 |
 | [Wargod](https://open.spotify.com/track/7zMtpoUdT3TsOHQvaQAqQI) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Wargod](https://open.spotify.com/album/2RfmZMdglQ9FC6yDrRu4Cr) | 4:38 | 2023-04-21 | 2023-05-28 |
-| [Warmen Are Here For None](https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Warmen Are Here For None](https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa) | 3:37 | 2023-06-16 |  |
+| [Warmen Are Here For None](https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Warmen Are Here For None](https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa) | 3:37 | 2023-06-16 | 2024-12-23 |
 | [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 | 2022-07-13 |  |
 | [We Are Pack](https://open.spotify.com/track/4LxoWlsbZR9gWsFsTAkhSv) | [Wolftopia](https://open.spotify.com/artist/3bJi0mvzPsQzu8uoZdB1Tj) | [Ways of the Pack](https://open.spotify.com/album/0VXVayHw6OxU4h9PYLGGTP) | 4:58 | 2021-12-17 | 2022-02-11 |
 | [We remain](https://open.spotify.com/track/4bAlw2L4PvzK1R0tEaJ6m9) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [We remain](https://open.spotify.com/album/7EpxjX4ymARMfMdd1glws2) | 6:13 | 2022-04-01 | 2022-04-29 |

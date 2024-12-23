@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 171428,
       "name": "Chori Chori",
       "url": "https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv"
@@ -2396,6 +2396,24 @@
       "duration_ms": 173333,
       "name": "Naal Naal",
       "url": "https://open.spotify.com/track/5oS0I3HkOPsr39H4JEEvGh"
+    },
+    {
+      "album": {
+        "name": "NAI LABHNI | Folk & Rock",
+        "url": "https://open.spotify.com/album/7pwMEDa5LX3PZSLYujG5aE"
+      },
+      "artists": [
+        {
+          "name": "Nitika Singh",
+          "url": "https://open.spotify.com/artist/5N3uKvdQ6vyVeKWZv9Bgmk"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192452,
+      "name": "NAI LABHNI | Folk & Rock",
+      "url": "https://open.spotify.com/track/28DxA6GtbLXBj8FsEdVWTU"
     },
     {
       "album": {

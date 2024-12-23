@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1081513,
+  "num_followers": 1081630,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAACXRC14FWuXv80QwGRhDygm",
+  "snapshot_id": "Z2YFAAAAAABkYgFOVEyufT7PvSTPok1Z",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 321093,
-      "name": "21 Guns",
-      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
+      "duration_ms": 236533,
+      "name": "Last Night on Earth",
+      "url": "https://open.spotify.com/track/5TpPSTItCwtZ8Sltr3vdzm"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 236533,
-      "name": "Last Night on Earth",
-      "url": "https://open.spotify.com/track/5TpPSTItCwtZ8Sltr3vdzm"
+      "duration_ms": 321093,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
       "added_at": null,

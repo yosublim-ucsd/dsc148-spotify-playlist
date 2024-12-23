@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 78198,
+  "num_followers": 78221,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -187,42 +187,6 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Straight To The Brain",
-        "url": "https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Straight To The Brain",
-      "url": "https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Hardcore Life",
-        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "Hardcore Life",
-      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To"
       },
@@ -243,42 +207,18 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
+        "name": "Straight To The Brain",
+        "url": "https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q"
       },
       "artists": [
         {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         }
       ],
-      "duration_ms": 168003,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Trip to Greece",
-        "url": "https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 186559,
-      "name": "Trip to Greece",
-      "url": "https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk"
+      "duration_ms": 125333,
+      "name": "Straight To The Brain",
+      "url": "https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -323,6 +263,46 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
+        "name": "Trip to Greece",
+        "url": "https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 186559,
+      "name": "Trip to Greece",
+      "url": "https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 168003,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
         "name": "Major Bounce",
         "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 155024,
       "name": "Major Bounce",
       "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Hardcore Life",
+        "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "Hardcore Life",
+      "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -399,6 +399,26 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
+        "name": "The Doc's Experiment - Proof 2",
+        "url": "https://open.spotify.com/album/7BvSNbWDiKs4SjCuhZpzap"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        }
+      ],
+      "duration_ms": 205894,
+      "name": "Pointless Wars",
+      "url": "https://open.spotify.com/track/1873ew8rgH5knTN4SevdR6"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
         "name": "Life's A Bitch",
         "url": "https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI"
       },
@@ -439,6 +459,22 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
+        "name": "Rip City",
+        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161327,
+      "name": "Rip City",
+      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
         "name": "Straight From Holland",
         "url": "https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH"
       },
@@ -455,42 +491,6 @@
       "duration_ms": 121128,
       "name": "Straight From Holland",
       "url": "https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "The Doc's Experiment - Proof 2",
-        "url": "https://open.spotify.com/album/7BvSNbWDiKs4SjCuhZpzap"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        }
-      ],
-      "duration_ms": 205894,
-      "name": "Pointless Wars",
-      "url": "https://open.spotify.com/track/1873ew8rgH5knTN4SevdR6"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Rip City",
-        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 161327,
-      "name": "Rip City",
-      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -535,18 +535,22 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Someone To Understand",
-        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
+        "name": "Ratata",
+        "url": "https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM"
       },
       "artists": [
         {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+          "name": "WINSON",
+          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
+        },
+        {
+          "name": "Kyle Ramsay",
+          "url": "https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Someone To Understand",
-      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
+      "duration_ms": 334545,
+      "name": "Ratata",
+      "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -579,38 +583,18 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Ratata",
-        "url": "https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM"
+        "name": "Someone To Understand",
+        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
       },
       "artists": [
         {
-          "name": "WINSON",
-          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
-        },
-        {
-          "name": "Kyle Ramsay",
-          "url": "https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW"
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 334545,
-      "name": "Ratata",
-      "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "NEED FOR SPEED",
-        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "2 Tha Rhythm",
-      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
+      "duration_ms": 155076,
+      "name": "Someone To Understand",
+      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -635,26 +619,6 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Zware Jongens",
-        "url": "https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota"
-      },
-      "artists": [
-        {
-          "name": "Tharken",
-          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
-        },
-        {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Zware Jongens",
-      "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
         "name": "Bounce To This (Official Bounce Anthem 2024)",
         "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
       },
@@ -675,6 +639,42 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
+        "name": "NEED FOR SPEED",
+        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "2 Tha Rhythm",
+      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Zware Jongens",
+        "url": "https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota"
+      },
+      "artists": [
+        {
+          "name": "Tharken",
+          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Zware Jongens",
+      "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
         "name": "The Light (Defqon.1 2024 BLACK OST)",
         "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
       },
@@ -691,26 +691,6 @@
       "duration_ms": 215785,
       "name": "The Light (Defqon.1 2024 BLACK OST)",
       "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
-    },
-    {
-      "added_at": "2024-12-19 23:00:36",
-      "album": {
-        "name": "Trip to Defqon.1",
-        "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "JDX",
-          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
-        }
-      ],
-      "duration_ms": 222116,
-      "name": "Trip to Defqon.1",
-      "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -767,22 +747,22 @@
     {
       "added_at": "2024-12-19 23:00:36",
       "album": {
-        "name": "Back In The Game",
-        "url": "https://open.spotify.com/album/0BD4etlJxWIQ3rrEezCXqj"
+        "name": "Trip to Defqon.1",
+        "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
       },
       "artists": [
         {
-          "name": "KEMAL",
-          "url": "https://open.spotify.com/artist/7JW9vNFifByjqiuZMVwlwg"
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
         },
         {
-          "name": "D-Tempo",
-          "url": "https://open.spotify.com/artist/5qsxbdy5zUGUvUzNbWhCot"
+          "name": "JDX",
+          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
         }
       ],
-      "duration_ms": 174441,
-      "name": "Back In The Game",
-      "url": "https://open.spotify.com/track/1gZsQhy8eW7IEuxcQ9Dzuy"
+      "duration_ms": 222116,
+      "name": "Trip to Defqon.1",
+      "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
     },
     {
       "added_at": "2024-12-19 23:00:36",
@@ -803,6 +783,26 @@
       "duration_ms": 187200,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4AuEotNw42YumygG85tYyV"
+    },
+    {
+      "added_at": "2024-12-19 23:00:36",
+      "album": {
+        "name": "Back In The Game",
+        "url": "https://open.spotify.com/album/0BD4etlJxWIQ3rrEezCXqj"
+      },
+      "artists": [
+        {
+          "name": "KEMAL",
+          "url": "https://open.spotify.com/artist/7JW9vNFifByjqiuZMVwlwg"
+        },
+        {
+          "name": "D-Tempo",
+          "url": "https://open.spotify.com/artist/5qsxbdy5zUGUvUzNbWhCot"
+        }
+      ],
+      "duration_ms": 174441,
+      "name": "Back In The Game",
+      "url": "https://open.spotify.com/track/1gZsQhy8eW7IEuxcQ9Dzuy"
     },
     {
       "added_at": "2024-12-19 23:00:36",

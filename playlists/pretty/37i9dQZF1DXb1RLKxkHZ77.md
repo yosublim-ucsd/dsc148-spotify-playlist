@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Noh Salleh
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,808 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,826 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 11 | [Terbang](https://open.spotify.com/track/6qKVuJFds2uONur7ijgJ6H) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Terbang](https://open.spotify.com/album/56rpGrle11kagKmui260fu) | 3:45 |
 | 12 | [Apa Artinya Aku](https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Apa Artinya Aku](https://open.spotify.com/album/58887aaSwwaOePaJQr6NHP) | 4:02 |
 | 13 | [Hasrat \(OST Imaginur\)](https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Hasrat \(OST Imaginur\)](https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU) | 3:58 |
-| 14 | [Untuk Semua Jiwa \- From "Game Of Life"](https://open.spotify.com/track/4LYQCHV8eg8AGhk5Ocpp44) | [Hun Haqeem](https://open.spotify.com/artist/74IOwiLT4aMH8ct28JgaL4), [Noki](https://open.spotify.com/artist/3O7w6MOsgE4B0oAUcE9RlE) | [Untuk Semua Jiwa \(From "Game Of Life"\)](https://open.spotify.com/album/2dHAGpXIRCZa5DaNeURBmW) | 3:23 |
+| 14 | [Untuk Semua Jiwa \- From "Soloz Game Of Life"](https://open.spotify.com/track/4LYQCHV8eg8AGhk5Ocpp44) | [Hun Haqeem](https://open.spotify.com/artist/74IOwiLT4aMH8ct28JgaL4), [Noki](https://open.spotify.com/artist/3O7w6MOsgE4B0oAUcE9RlE) | [Untuk Semua Jiwa \(From "Soloz Game Of Life"\)](https://open.spotify.com/album/2dHAGpXIRCZa5DaNeURBmW) | 3:23 |
 | 15 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 |
 | 16 | [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/track/6umkauU8LpyxSBZnfsupA4) | [Eleven Tonight](https://open.spotify.com/artist/2V37vdVydcJ12vTjsTQVZe), [Amir Ahnaf](https://open.spotify.com/artist/2iJlLP7E7S7ueRA0VzgrQF), [Riko Agus](https://open.spotify.com/artist/5nj6Zfl38Dg82VdFTtoK0X) | [Kudeta \(From Astro Shaw's "Kahar Kapla High Council"\)](https://open.spotify.com/album/2TsH6MxGuBg20GOE6JXGTX) | 3:41 |
 | 17 | [LUV](https://open.spotify.com/track/5sVKk7LjR1zDKCJOwI8ZZ1) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Sabronzo](https://open.spotify.com/artist/5ElOLspeFA5ReU292DKZLe) | [LUV](https://open.spotify.com/album/28jWC8z5ZkvBilHGPtoBeK) | 3:01 |

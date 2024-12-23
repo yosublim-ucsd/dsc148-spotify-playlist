@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 211676,
+  "num_followers": 211682,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,26 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "One Hundred Ways",
+      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -191,26 +211,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "One Hundred Ways",
-      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Being With You",
         "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 246960,
       "name": "Being With You",
       "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -275,22 +291,6 @@
       "duration_ms": 277400,
       "name": "Let's Wait Awhile",
       "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Blue Magic",
-        "url": "https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE"
-      },
-      "artists": [
-        {
-          "name": "Blue Magic",
-          "url": "https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Sideshow",
-      "url": "https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "High Crime",
         "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 259532,
       "name": "After All",
       "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Blue Magic",
+        "url": "https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE"
+      },
+      "artists": [
+        {
+          "name": "Blue Magic",
+          "url": "https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Sideshow",
+      "url": "https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Secret Combination",
-        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "Rainy Night in Georgia",
-      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 206053,
       "name": "When She Was My Girl",
       "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Secret Combination",
+        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 254613,
+      "name": "Rainy Night in Georgia",
+      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Givin' It Up",
+        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Music For Groovin'",
         "url": "https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON"
       },
@@ -1011,22 +1031,26 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Givin' It Up",
-        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
+        "name": "The Best Of Fourplay",
+        "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
         },
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
         }
       ],
-      "duration_ms": 301000,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
+      "duration_ms": 235733,
+      "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
+      "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1059,30 +1083,6 @@
       "duration_ms": 298946,
       "name": "For You",
       "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "The Best Of Fourplay",
-        "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Nathan East",
-          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
-      "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 333133,
-      "name": "New York State Of Mind",
-      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Give Me the Night",
         "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
       },
@@ -1187,18 +1155,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 295866,
-      "name": "This Could Be Real",
-      "url": "https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC"
+      "duration_ms": 333133,
+      "name": "New York State Of Mind",
+      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1219,6 +1187,38 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "This Could Be Real",
+      "url": "https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Famous R&B Divas",
         "url": "https://open.spotify.com/album/2bFVzLA1rFHv3xh4wEvMCf"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 278333,
       "name": "'Til You Come Back to Me",
       "url": "https://open.spotify.com/track/7D3rmjinop0EDd9ouwTaT1"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Classic Love Songs",
+        "url": "https://open.spotify.com/album/4IjcmdZGlWtNP83pts9Ktg"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 284533,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/3unVxPRMPloyBO70zQTksn"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1283,22 +1299,6 @@
       "duration_ms": 204055,
       "name": "Love, Love, Love",
       "url": "https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Classic Love Songs",
-        "url": "https://open.spotify.com/album/4IjcmdZGlWtNP83pts9Ktg"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 284533,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/3unVxPRMPloyBO70zQTksn"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Smooth Soul",
-        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Midnight Love Affair",
-      "url": "https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Lovin' you Is Easy",
         "url": "https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 238158,
       "name": "Valentine Love (Slow Version)",
       "url": "https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Smooth Soul",
+        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Midnight Love Affair",
+      "url": "https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "These Songs Are For Anyone Sick Of Earth",
-        "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
-      },
-      "artists": [
-        {
-          "name": "Aliah Sheffield",
-          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
-        }
-      ],
-      "duration_ms": 229299,
-      "name": "Good For The Money",
-      "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Song Book 1985-2010",
         "url": "https://open.spotify.com/album/7rXUuTQzUE1S54HJ5Yqgod"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 248626,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/1PRNgcg4CMQH0d8O8SCNsh"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "These Songs Are For Anyone Sick Of Earth",
+        "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
+      },
+      "artists": [
+        {
+          "name": "Aliah Sheffield",
+          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
+        }
+      ],
+      "duration_ms": 229299,
+      "name": "Good For The Money",
+      "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Al Wilson",
+        "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
+      },
+      "artists": [
+        {
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Show and Tell - Rerecorded",
+      "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "This Close To You",
         "url": "https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 211306,
       "name": "This Close To You",
       "url": "https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Al Wilson",
-        "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
-      },
-      "artists": [
-        {
-          "name": "Al Wilson",
-          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Show and Tell - Rerecorded",
-      "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
     },
     {
       "added_at": "2024-07-03 15:11:44",

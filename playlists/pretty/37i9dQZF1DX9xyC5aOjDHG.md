@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! 「ソードアート・オンライン オルタナティブ ガンゲイル オンラインⅡ」の放送を記念し、2期放送期間中SAOプレイリストをGGOがジャック！©2023 時雨沢恵一/KADOKAWA/GGO2 Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,297 likes - 90 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,321 likes - 90 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

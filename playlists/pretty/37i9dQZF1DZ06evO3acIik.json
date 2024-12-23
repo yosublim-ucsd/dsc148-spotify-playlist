@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 60511,
+  "num_followers": 60536,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAACPrwsz6ebr4Ug8p1YVYt9F",
+  "snapshot_id": "Z2YFAAAAAABVJUpsyJvMvUCkqc1e5REW",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 203720,
       "name": "Wars",
       "url": "https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "3:35am",
-      "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As We Walk into Forever",
-        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 58000,
-      "name": "Downfalls",
-      "url": "https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 168000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 58000,
+      "name": "Downfalls",
+      "url": "https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH"
     },
     {
       "added_at": null,
@@ -735,26 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show the Signs.",
-        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
+        "name": "Eyes Only for You",
+        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
       },
       "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         },
         {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
         }
       ],
-      "duration_ms": 181682,
-      "name": "Show the Signs.",
-      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
+      "duration_ms": 212250,
+      "name": "Eyes Only for You",
+      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
     },
     {
       "added_at": null,
@@ -779,22 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Only for You",
-        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+        "name": "Show the Signs.",
+        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
       },
       "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         },
         {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Eyes Only for You",
-      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
+      "duration_ms": 181682,
+      "name": "Show the Signs.",
+      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
     },
     {
       "added_at": null,

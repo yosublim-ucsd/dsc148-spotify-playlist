@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACHz+IRxANKI8ecWk+xAnAR",
+  "snapshot_id": "AAAAAAAAAADmw01RcJazRosuQtH4hpw7",
   "tracks": [
     {
       "added_at": "2024-12-20 05:00:00",
@@ -51,22 +51,26 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Raw (Redux)",
-        "url": "https://open.spotify.com/album/1HIN0xOjfZ2oP4Nq3J3Gbz"
+        "name": "Asteroids II (Bars Over Everything)",
+        "url": "https://open.spotify.com/album/1T1dUOblwJkjeQ68mMn59h"
       },
       "artists": [
         {
-          "name": "Tsukii HiFi",
-          "url": "https://open.spotify.com/artist/5iPNY03Nyb8MBrFzdzlEQG"
+          "name": "Superb Clawson",
+          "url": "https://open.spotify.com/artist/11BDmAEEgYQvo4CiGrYyK9"
         },
         {
           "name": "Rapsody",
           "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Bev smiF",
+          "url": "https://open.spotify.com/artist/2udXCI9035S7NJnCW3jRr6"
         }
       ],
-      "duration_ms": 108020,
-      "name": "Raw - Redux",
-      "url": "https://open.spotify.com/track/1Hsv4rzj7yHA8nrPZwMDWX"
+      "duration_ms": 194999,
+      "name": "Asteroids II (Bars Over Everything)",
+      "url": "https://open.spotify.com/track/5YEx7q6mAAiU7qte8pKGt1"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -83,6 +87,46 @@
       "duration_ms": 246853,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Melhores M\u00fasicas Internacionais 2024 e 2025",
+        "url": "https://open.spotify.com/album/66qP8dk23TNyf7ZP8mmHyG"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 30663,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/3SxOBSCcekQOlszfyQtzou"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -115,6 +159,26 @@
       "duration_ms": 313391,
       "name": "The Art of War 2.0",
       "url": "https://open.spotify.com/track/2nxULEDxFEcPJQCazokXlS"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "on it",
+        "url": "https://open.spotify.com/album/0ZrGT1ZgfGdb0rnOElztCx"
+      },
+      "artists": [
+        {
+          "name": "CPRCRN",
+          "url": "https://open.spotify.com/artist/3N7feSJ5L5LiXyBvcFVUPm"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 81104,
+      "name": "on it",
+      "url": "https://open.spotify.com/track/4rVk3Rax1Rswbzz2W8fqEv"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -163,70 +227,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Melhores M\u00fasicas Internacionais 2024 e 2025",
-        "url": "https://open.spotify.com/album/66qP8dk23TNyf7ZP8mmHyG"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 30663,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/3SxOBSCcekQOlszfyQtzou"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
-        "name": "on it",
-        "url": "https://open.spotify.com/album/0ZrGT1ZgfGdb0rnOElztCx"
-      },
-      "artists": [
-        {
-          "name": "CPRCRN",
-          "url": "https://open.spotify.com/artist/3N7feSJ5L5LiXyBvcFVUPm"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 81104,
-      "name": "on it",
-      "url": "https://open.spotify.com/track/4rVk3Rax1Rswbzz2W8fqEv"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
-        "name": "Viking Juice (The Butcher Mix)",
-        "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Joe The Butcher",
-          "url": "https://open.spotify.com/artist/4MNFkawz8pQQpLuzVBtyPe"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Viking Juice - The Butcher Mix",
-      "url": "https://open.spotify.com/track/2ndjLJiYVXaqNUTSm8MuA0"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "CANT FIND A WAY OUT",
         "url": "https://open.spotify.com/album/2fLcIV9cFvdWYsw49LYkEi"
       },
@@ -247,18 +247,22 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Una Velita",
-        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+        "name": "Viking Juice (The Butcher Mix)",
+        "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Joe The Butcher",
+          "url": "https://open.spotify.com/artist/4MNFkawz8pQQpLuzVBtyPe"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Una Velita",
-      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+      "duration_ms": 193040,
+      "name": "Viking Juice - The Butcher Mix",
+      "url": "https://open.spotify.com/track/2ndjLJiYVXaqNUTSm8MuA0"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -363,18 +367,18 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Wait Til I Get My Money Up",
-        "url": "https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl"
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
       },
       "artists": [
         {
-          "name": "Gabriella Rose",
-          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
         }
       ],
-      "duration_ms": 158872,
-      "name": "Doublewide",
-      "url": "https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV"
+      "duration_ms": 183475,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -395,18 +399,18 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK"
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
       },
       "artists": [
         {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 183475,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV"
+      "duration_ms": 225247,
+      "name": "Too Deep for the Intro",
+      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -564,9 +568,9 @@
           "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Live In Love",
-      "url": "https://open.spotify.com/track/6ZBiQ0S0ZCHTOcflZAEfVd"
+      "duration_ms": 249000,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/3CDuJCa3NEJplspA0eKpZJ"
     },
     {
       "added_at": "2024-12-20 05:00:00",

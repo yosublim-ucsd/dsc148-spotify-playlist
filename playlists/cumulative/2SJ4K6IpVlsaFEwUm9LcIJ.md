@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-398 songs - 21 hr 55 min
+399 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Constants Are Changing](https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 1:42 | 2024-01-08 | 2024-03-10 |
 | [Convenient Parking](https://open.spotify.com/track/7ow8R2QCGeAr3JiRbSDzWs) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 4:08 | 2024-01-05 | 2024-03-10 |
 | [Corrections](https://open.spotify.com/track/6FWAfVMxU51ftt8lmtm2Ej) | [Kaikobad](https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az) | [Corrections](https://open.spotify.com/album/4tc0n2pKK44heQTOzXIfvZ) | 3:39 | 2024-01-05 | 2024-03-10 |
+| [Country Lovin](https://open.spotify.com/track/1DkaAkRqcwLU3weOOlhS3X) | [Canyon](https://open.spotify.com/artist/6l3ua4Cr4PckpYDOgSFZiE) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:20 | 2024-12-23 |  |
 | [Cozy](https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Cozy](https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY) | 3:11 | 2024-03-20 | 2024-05-16 |
 | [Cross Purposes](https://open.spotify.com/track/1LWNGV4aU7nLCnfIgO2xuJ) | [Novak](https://open.spotify.com/artist/2fb1zlAyUxXYuZnrtLw90x) | [Novak](https://open.spotify.com/album/7wJpbPDD3MhcxblMVKjdg1) | 4:54 | 2024-10-08 | 2024-11-14 |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-10-10 | 2024-11-14 |

@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 334053,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
@@ -4324,7 +4324,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 129173,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
@@ -5878,7 +5878,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 101631,
       "name": "Cecilia Lind",
       "url": "https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX"
@@ -15716,7 +15716,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 148253,
       "name": "Hej mitt vinterland",
       "url": "https://open.spotify.com/track/6zsRlxuaMDtffiAk9FtkUg"
@@ -16002,7 +16002,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 174946,
       "name": "Hey Ho",
       "url": "https://open.spotify.com/track/73bwhA1NxxkBMJAziBgUnX"
@@ -16020,7 +16020,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 174946,
       "name": "Hey Ho (Original Versjon)",
       "url": "https://open.spotify.com/track/1ikAsZ38q8AQ1l7FcOhu5g"
@@ -19986,7 +19986,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
@@ -30893,6 +30893,24 @@
     },
     {
       "album": {
+        "name": "SANTA",
+        "url": "https://open.spotify.com/album/1mNJXDYbhVOb5wHOq3tZsM"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230413,
+      "name": "SANTA",
+      "url": "https://open.spotify.com/track/2jYXF2eyXVOAnREXGKzuvD"
+    },
+    {
+      "album": {
         "name": "YEMAYA",
         "url": "https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx"
       },
@@ -32386,7 +32404,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -34574,7 +34592,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 134971,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/0wqHIqVLDIRjJqvm8nmiG4"
@@ -38253,6 +38271,24 @@
     },
     {
       "album": {
+        "name": "Under the Tree (from \u201cThat Christmas\u201d)",
+        "url": "https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242826,
+      "name": "Under the Tree (from \u201cThat Christmas\u201d)",
+      "url": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
+    },
+    {
+      "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
       },
@@ -39550,7 +39586,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 147428,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"

@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 107077,
+  "num_followers": 107082,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Cantamos en mi terraza? #2",
-        "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
-      },
-      "artists": [
-        {
-          "name": "Jacinta",
-          "url": "https://open.spotify.com/artist/5cYpv6tLZvRfIndbiFNavB"
-        },
-        {
-          "name": "Santiago Manrique",
-          "url": "https://open.spotify.com/artist/6Ks29wN2dCdwF6oUGKHI1h"
-        }
-      ],
-      "duration_ms": 274407,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "enero (versi\u00f3n ac\u00fastica)",
         "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 206143,
       "name": "enero - versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Cantamos en mi terraza? #2",
+        "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
+      },
+      "artists": [
+        {
+          "name": "Jacinta",
+          "url": "https://open.spotify.com/artist/5cYpv6tLZvRfIndbiFNavB"
+        },
+        {
+          "name": "Santiago Manrique",
+          "url": "https://open.spotify.com/artist/6Ks29wN2dCdwF6oUGKHI1h"
+        }
+      ],
+      "duration_ms": 274407,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Volver a Llorar",
-        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Volver a Llorar",
-      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Volver a Llorar",
+        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Volver a Llorar",
+      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Pedazo de Cielo",
-      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "nu love",
         "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 209513,
       "name": "nu love",
       "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Pedazo de Cielo",
+      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "en diciembre (me haces falta)",
         "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 237261,
       "name": "en diciembre (me haces falta)",
       "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Louvre",
-        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Louvre",
-      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Secret Love",
         "url": "https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 228000,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Louvre",
+        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Louvre",
+      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Yate",
+        "url": "https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG"
+      },
+      "artists": [
+        {
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 162410,
+      "name": "Cintas Con Vos",
+      "url": "https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "Nosotros Dos",
         "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
       },
@@ -1239,26 +1259,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Yate",
-        "url": "https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG"
-      },
-      "artists": [
-        {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 162410,
-      "name": "Cintas Con Vos",
-      "url": "https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "(re)definiciones",
         "url": "https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "T\u00fa me quieres m\u00e1s",
-        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        }
-      ],
-      "duration_ms": 202903,
-      "name": "T\u00fa me quieres m\u00e1s",
-      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "Ey",
         "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
       },
@@ -1371,6 +1339,38 @@
       "duration_ms": 197191,
       "name": "Ey",
       "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "T\u00fa me quieres m\u00e1s",
+        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        }
+      ],
+      "duration_ms": 202903,
+      "name": "T\u00fa me quieres m\u00e1s",
+      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "X AMOR",
-        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+        "name": "balada para el fin del mundo",
+        "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
       },
       "artists": [
         {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         }
       ],
-      "duration_ms": 242755,
-      "name": "X AMOR",
-      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
+      "duration_ms": 161080,
+      "name": "balada para el fin del mundo",
+      "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "X AMOR",
+        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 242755,
+      "name": "X AMOR",
+      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "Tuna",
         "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 221250,
       "name": "Tuna",
       "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "balada para el fin del mundo",
-        "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 161080,
-      "name": "balada para el fin del mundo",
-      "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Pangal",
+        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Pangal",
+      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "C\u00f3mo y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 192464,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Pangal",
-        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Pangal",
-      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
     },
     {
       "added_at": "2024-10-24 20:31:41",

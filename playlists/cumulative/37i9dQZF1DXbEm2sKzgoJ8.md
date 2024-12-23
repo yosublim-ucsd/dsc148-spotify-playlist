@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-459 songs - 1 day 1 hr 30 min
+460 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 | 2023-05-12 | 2023-07-29 |
 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-09-29 | 2023-10-16 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-14 |  |
+| [Diamond Boy \(DTM\)](https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:37 | 2024-12-20 |  |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-07-05 |  |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-17 | 2024-07-08 |
 | [Divine](https://open.spotify.com/track/3CmK0MAxS1iEfgWpl1oYU9) | [Lindsxy Mesenburg](https://open.spotify.com/artist/6VwDZ6kAtwpng8gGLHTkVz) | [Divine](https://open.spotify.com/album/38bd7BW2lKRNoYSxgaGDdf) | 3:24 | 2022-04-01 | 2022-06-04 |
@@ -422,7 +423,7 @@
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-24 |  |
 | [Unfair](https://open.spotify.com/track/0xD23i0X1WjqMSYIxRfO80) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\#000000 & \#FFFFFF](https://open.spotify.com/album/2mKqHATk7WVbtazVkSe9w0) | 2:26 | 2022-03-25 | 2022-04-19 |
 | [unintentional \(with Pink Sweat$\)](https://open.spotify.com/track/5zikaD3Pi5g5PBAUYPlMae) | [Marley Bleu](https://open.spotify.com/artist/7dgNHt7bKVud97fsCjuv6K), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [unintentional](https://open.spotify.com/album/7F1aVhhLlRQ7aQGEtwwzSm) | 3:12 | 2023-08-04 | 2023-09-06 |
-| [universe](https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:06 | 2022-03-25 |  |
+| [universe](https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:06 | 2022-03-25 | 2024-12-23 |
 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 | 2023-02-14 | 2023-04-09 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-01 | 2023-03-18 |
 | [Upwards](https://open.spotify.com/track/1bahNfOZV6WJFVZbbkpcBQ) | [JUICEB☮X](https://open.spotify.com/artist/6HIRyO3O2mbkdwih0Mi4vR), [WES WAX](https://open.spotify.com/artist/3GbBn19KtJVNImZndKoxtF) | [Upwards / After 2](https://open.spotify.com/album/5ovJITeDg3iwFR5VwXwKBb) | 3:45 | 2022-01-14 | 2022-06-11 |

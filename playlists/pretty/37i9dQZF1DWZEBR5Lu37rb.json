@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 79187,
+  "num_followers": 79263,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,26 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 247333,
       "name": "True Love (feat. Tay Iwar & Projexx)",
       "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
-      },
-      "artists": [
-        {
-          "name": "Mthandeni SK",
-          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
-        },
-        {
-          "name": "Lwah Ndlunkulu",
-          "url": "https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Rose Gold",
-        "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
-      },
-      "artists": [
-        {
-          "name": "Shekhinah",
-          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Suited",
-      "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Imizwa",
         "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 260488,
       "name": "Eyami",
       "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Rose Gold",
+        "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Suited",
+      "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Mr Serious",
-        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Mthande",
-      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Alusa Why Are You Topless?",
         "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
+        "name": "Mr Serious",
+        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
         }
       ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
+      "duration_ms": 293613,
+      "name": "Mthande",
+      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -855,22 +839,18 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Broken Lipstick",
-        "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
       },
       "artists": [
         {
-          "name": "LaSauce",
-          "url": "https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi"
-        },
-        {
-          "name": "Amanda Black",
-          "url": "https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo"
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
         }
       ],
-      "duration_ms": 313714,
-      "name": "I Do (feat. Amanda Black)",
-      "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -891,18 +871,38 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+        "name": "Broken Lipstick",
+        "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
       },
       "artists": [
         {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+          "name": "LaSauce",
+          "url": "https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi"
+        },
+        {
+          "name": "Amanda Black",
+          "url": "https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo"
         }
       ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+      "duration_ms": 313714,
+      "name": "I Do (feat. Amanda Black)",
+      "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
         "name": "Sweet Sensation",
         "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 210651,
       "name": "Sweet Sensation",
       "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 246884,
-      "name": "Mansa",
-      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ"
       },
@@ -1447,26 +1467,6 @@
     {
       "added_at": "2024-10-14 11:24:44",
       "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
         "name": "Uliza Kiatu",
         "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 258226,
       "name": "Uliza Kiatu",
       "url": "https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg"
+    },
+    {
+      "added_at": "2024-10-14 11:24:44",
+      "album": {
+        "name": "Mababaza",
+        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
+      },
+      "artists": [
+        {
+          "name": "Joe Nina",
+          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "Zodwa",
+      "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
     },
     {
       "added_at": "2024-10-14 11:24:44",
@@ -1499,22 +1515,6 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/5PNiPY563OVES8nkdKZ516"
-    },
-    {
-      "added_at": "2024-10-14 11:24:44",
-      "album": {
-        "name": "Mababaza",
-        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
-      },
-      "artists": [
-        {
-          "name": "Joe Nina",
-          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Zodwa",
-      "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
     },
     {
       "added_at": "2024-10-14 11:24:44",

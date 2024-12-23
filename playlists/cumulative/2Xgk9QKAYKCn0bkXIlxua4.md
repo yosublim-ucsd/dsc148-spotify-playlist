@@ -4,7 +4,7 @@
 
 > 
 
-403 songs - 1 day 3 hr 8 min
+404 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-06 |  |
 | [Criminal \(feat\. Rick Ross\)](https://open.spotify.com/track/18MC2XdOQYheFq5HAyK7rJ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [War & Leisure](https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI) | 4:34 | 2022-03-28 |  |
 | [Cry For You](https://open.spotify.com/track/3RNvMhYFEwpCgPnDGKR5MB) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Diary Of A Mad Band](https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj) | 5:00 | 2022-07-04 |  |
+| [Crybaby](https://open.spotify.com/track/1g7pFO1WtclKCuIQiS8sNM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:01 | 2024-12-22 |  |
 | [CYANIDE](https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:14 | 2021-12-16 |  |
 | [Dance](https://open.spotify.com/track/1U4yfIDARp95wtUGOZZW51) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Bad Decisions](https://open.spotify.com/album/1gfhCvXKKGLGCRfdf02GiU) | 2:45 | 2023-04-27 |  |
 | [Days in The East](https://open.spotify.com/track/4czcw3NVLY0of5hTD7OufN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 5:53 | 2021-12-16 |  |

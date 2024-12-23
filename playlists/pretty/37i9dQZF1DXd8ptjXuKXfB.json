@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 25476,
+  "num_followers": 25480,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-12-16 16:32:23",
+      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2024-12-16 16:32:23",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "added_at": "2024-12-16 16:32:23",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
-    },
-    {
-      "added_at": "2024-12-16 16:32:23",
-      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2024-12-16 16:32:23",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
       "added_at": "2024-12-16 16:32:23",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "BAKPAKK",
-        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 109455,
-      "name": "SUV",
-      "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
-    },
-    {
-      "added_at": "2024-12-16 16:32:23",
-      "album": {
         "name": "BANDANA",
         "url": "https://open.spotify.com/album/42hd8PAjFmpZfA9Z9Dy96l"
       },
@@ -1007,38 +987,22 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "Lobby",
-        "url": "https://open.spotify.com/album/7HiUwLRzsriG26I5PoXjEb"
+        "name": "BAKPAKK",
+        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
       },
       "artists": [
         {
-          "name": "\u00c9BERK\u00d3MA",
-          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
-        }
-      ],
-      "duration_ms": 188863,
-      "name": "Lobby",
-      "url": "https://open.spotify.com/track/63rx8LjNlbbpYTqNKLJtN7"
-    },
-    {
-      "added_at": "2024-12-16 16:32:23",
-      "album": {
-        "name": "Felicidad (De la serie 'Berl\u00edn' de Netflix)",
-        "url": "https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Alonso",
-          "url": "https://open.spotify.com/artist/3ZKd5UA8cotv3Zx6DKl2PO"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         },
         {
-          "name": "Tristan Ulloa",
-          "url": "https://open.spotify.com/artist/6SeRILwpI0BvkRbAbVeq8M"
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
         }
       ],
-      "duration_ms": 200735,
-      "name": "Felicidad (De la serie 'Berlin' de Netflix)",
-      "url": "https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO"
+      "duration_ms": 109455,
+      "name": "SUV",
+      "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
     },
     {
       "added_at": "2024-12-16 16:32:23",
@@ -1059,18 +1023,18 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
+        "name": "Lobby",
+        "url": "https://open.spotify.com/album/7HiUwLRzsriG26I5PoXjEb"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "\u00c9BERK\u00d3MA",
+          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
         }
       ],
-      "duration_ms": 162333,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
+      "duration_ms": 188863,
+      "name": "Lobby",
+      "url": "https://open.spotify.com/track/63rx8LjNlbbpYTqNKLJtN7"
     },
     {
       "added_at": "2024-12-16 16:32:23",
@@ -1095,6 +1059,26 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
+        "name": "Felicidad (De la serie 'Berl\u00edn' de Netflix)",
+        "url": "https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Alonso",
+          "url": "https://open.spotify.com/artist/3ZKd5UA8cotv3Zx6DKl2PO"
+        },
+        {
+          "name": "Tristan Ulloa",
+          "url": "https://open.spotify.com/artist/6SeRILwpI0BvkRbAbVeq8M"
+        }
+      ],
+      "duration_ms": 200735,
+      "name": "Felicidad (De la serie 'Berlin' de Netflix)",
+      "url": "https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO"
+    },
+    {
+      "added_at": "2024-12-16 16:32:23",
+      "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "Kettesben",
-        "url": "https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM"
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
       "artists": [
         {
-          "name": "\u00c9BERK\u00d3MA",
-          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 159677,
-      "name": "Kettesben",
-      "url": "https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G"
+      "duration_ms": 176395,
+      "name": "M\u00e1mor",
+      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
     },
     {
       "added_at": "2024-12-16 16:32:23",
@@ -1167,22 +1151,34 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
       },
       "artists": [
         {
-          "name": "MIKOLAS",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
-        },
-        {
-          "name": "Mark Neve",
-          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 141027,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
+      "duration_ms": 162333,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
+    },
+    {
+      "added_at": "2024-12-16 16:32:23",
+      "album": {
+        "name": "Kettesben",
+        "url": "https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9BERK\u00d3MA",
+          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
+        }
+      ],
+      "duration_ms": 159677,
+      "name": "Kettesben",
+      "url": "https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G"
     },
     {
       "added_at": "2024-12-16 16:32:23",
@@ -1203,46 +1199,42 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "CARPE DIEM",
-        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
         },
         {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "Lord Panamo",
-          "url": "https://open.spotify.com/artist/7veanrmdYNXRdmVxbsjSNh"
+          "name": "Mark Neve",
+          "url": "https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH"
         }
       ],
-      "duration_ms": 189354,
-      "name": "Rampapapam",
-      "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
+      "duration_ms": 141027,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
     },
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+        "name": "NINCS HOLNAP",
+        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 176395,
-      "name": "M\u00e1mor",
-      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
+      "duration_ms": 150295,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
     },
     {
       "added_at": "2024-12-16 16:32:23",
@@ -1271,50 +1263,6 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
-    },
-    {
-      "added_at": "2024-12-16 16:32:23",
-      "album": {
-        "name": "NINCS HOLNAP",
-        "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 150295,
-      "name": "CARTIER",
-      "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
-    },
-    {
-      "added_at": "2024-12-16 16:32:23",
-      "album": {
-        "name": "BANNANI",
-        "url": "https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        },
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "SENKI NEM SZ\u00d3L R\u00c1NK",
-      "url": "https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT"
     },
     {
       "added_at": "2024-12-16 16:32:23",
@@ -1359,6 +1307,30 @@
     {
       "added_at": "2024-12-16 16:32:23",
       "album": {
+        "name": "BANNANI",
+        "url": "https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "SENKI NEM SZ\u00d3L R\u00c1NK",
+      "url": "https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT"
+    },
+    {
+      "added_at": "2024-12-16 16:32:23",
+      "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
       },
@@ -1375,6 +1347,34 @@
       "duration_ms": 175081,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
+    },
+    {
+      "added_at": "2024-12-16 16:32:23",
+      "album": {
+        "name": "CARPE DIEM",
+        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "Lord Panamo",
+          "url": "https://open.spotify.com/artist/7veanrmdYNXRdmVxbsjSNh"
+        }
+      ],
+      "duration_ms": 189354,
+      "name": "Rampapapam",
+      "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
     },
     {
       "added_at": "2024-12-16 16:32:23",

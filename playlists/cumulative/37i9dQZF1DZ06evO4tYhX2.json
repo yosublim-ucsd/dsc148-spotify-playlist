@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Emanuel - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Emanuel - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
+    },
+    {
+      "album": {
         "name": "Dios Es Real",
         "url": "https://open.spotify.com/album/5nEf1gMQ9Vc9r1AczrRR1A"
       },

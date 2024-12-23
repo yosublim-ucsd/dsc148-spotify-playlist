@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 | 12 | [Nowhere Town](https://open.spotify.com/track/7ichJTFzVYIc44JvrC0IhN) | [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Nowhere Town](https://open.spotify.com/album/7K6CM5XQqEgvPVm3aobaUD) | 3:54 |
 | 13 | [Get Out of My Head](https://open.spotify.com/track/4BdiVuDbRKCr9kDTvqbvKq) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:48 |
 | 14 | [Downstairs](https://open.spotify.com/track/7jfqMfPvPqdGnuH4w9YgOt) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 2:45 |
-| 15 | [Disaster](https://open.spotify.com/track/6v5PdrF9NdxTohcNtq8ZRo) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 4:47 |
-| 16 | [Gypsy Blood](https://open.spotify.com/track/1ji4zMbPcKHbUpg3oovZwS) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 4:31 |
+| 15 | [Gypsy Blood](https://open.spotify.com/track/1ji4zMbPcKHbUpg3oovZwS) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 4:31 |
+| 16 | [Disaster](https://open.spotify.com/track/6v5PdrF9NdxTohcNtq8ZRo) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Shivers](https://open.spotify.com/album/6nXBG1YJjt4UxDMcgazd44) | 4:47 |
 | 17 | [I Fell In Love with My Friend](https://open.spotify.com/track/4MNstPMTKBtoOsJTwJg1wB) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 2:32 |
 | 18 | [Blue Lagoon](https://open.spotify.com/track/6AOkEeKQ841xkb63UkAAdj) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:33 |
 | 19 | [Berlin](https://open.spotify.com/track/68V7rBWfj2iID6Z1FjMIhG) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:07 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 | 24 | [Forgive Me](https://open.spotify.com/track/0UP8IaUpsVlQwT2gDY4jaw) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 4:09 |
 | 25 | [Saddest Song](https://open.spotify.com/track/1qCO1GKJevNPfKPm3vLPtk) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:24 |
 
-Snapshot ID: `Abkw9gAAAACSjuHSjXrbbrHiKi51mbNF`
+Snapshot ID: `Abk2lgAAAAAZ/YoxSE6/hul2o06z3NiT`

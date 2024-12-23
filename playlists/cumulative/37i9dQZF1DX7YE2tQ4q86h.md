@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: ADÉLA
 
-1,141 songs - 2 day 9 hr 12 min
+1,142 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Dance Til Forever](https://open.spotify.com/track/3p3pCKIXnOxqrqpYJejris) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Dance Til Forever](https://open.spotify.com/album/4eOwFeAxACC7NNB23EuIWI) | 2:32 | 2024-03-08 | 2024-06-08 |
 | [Dance With Me \- Edit](https://open.spotify.com/track/7IPdXJf4DEisUUL0WqTcKL) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [Dance With Me \(Edit\)](https://open.spotify.com/album/4mvAV6SSMEmkZ3CZBaVF0u) | 3:06 | 2022-04-22 | 2022-07-23 |
 | [Dancing and Crying](https://open.spotify.com/track/6PclnzE0BUZCBfgWqWZpXz) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Dancing and Crying](https://open.spotify.com/album/3oMxQY4fUv2Y39BeE2qQXd) | 3:17 | 2024-02-23 | 2024-03-30 |
+| [Dancing in love](https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Dancing in love](https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx) | 2:36 | 2024-12-22 |  |
 | [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2022-12-23 | 2023-02-04 |
 | [Dark Side](https://open.spotify.com/track/70Wwn4bzkr4dROkzmBSNOl) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Dark Side](https://open.spotify.com/album/1Mt02bzaETcvNe5psmpdzh) | 2:05 | 2023-06-30 | 2023-10-28 |
 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 | 2023-04-09 |
@@ -396,7 +397,7 @@
 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-26 | 2024-02-24 |
 | [GIRLS WORLD!](https://open.spotify.com/track/7c3kTRls4JudXnc5RQOVNV) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [GIRLS WORLD!](https://open.spotify.com/album/2MBeQNfpBWxMtvyVnk3MYW) | 2:23 | 2023-01-27 | 2023-02-04 |
 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 | 2024-08-16 |  |
-| [Give Me Luv](https://open.spotify.com/track/5pzhHXU7365ByottrJtOZ7) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Amour](https://open.spotify.com/album/05U0IswNO4kXVYPJuhA4wR) | 2:20 | 2024-12-06 |  |
+| [Give Me Luv](https://open.spotify.com/track/5pzhHXU7365ByottrJtOZ7) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Amour](https://open.spotify.com/album/05U0IswNO4kXVYPJuhA4wR) | 2:20 | 2024-12-06 | 2024-12-23 |
 | [God Invented The Radio](https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [God Invented The Radio](https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au) | 2:17 | 2023-12-08 | 2024-01-27 |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2022-02-15 | 2022-05-28 |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-06 | 2023-11-11 |

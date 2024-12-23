@@ -2,7 +2,7 @@
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Nigeria's hottest tracks\.  Cover: Wizkid
+> Nigeria's hottest tracks\.  Cover: Davido
 
 409 songs - 19 hr 44 min
 

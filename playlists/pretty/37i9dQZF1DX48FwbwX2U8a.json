@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 48123,
+  "num_followers": 48144,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -255,6 +239,22 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "25 Horas",
         "url": "https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr"
       },
@@ -267,6 +267,22 @@
       "duration_ms": 247595,
       "name": "25 Horas",
       "url": "https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -307,38 +323,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 293893,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "The Greatest Salsa Ever",
         "url": "https://open.spotify.com/album/6exx6nGkNvyAsyjLhvaXh5"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 367920,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/4UXdWLgdsdmkeOFABIGwZY"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -599,38 +599,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Mi Propuesta 1996",
-        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 279680,
-      "name": "Ni Tu Ni Yo",
-      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "Colecci\u00f3n \u00c9xitos Pastor L\u00f3pez (Vol. 1)",
-        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 213840,
-      "name": "Golpe Con Golpe",
-      "url": "https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Sin Medir Distancia",
         "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
       },
@@ -659,6 +627,38 @@
       "duration_ms": 251200,
       "name": "Lo Mejor Para Los Dos (Todo de Cabeza) - Version Guitarra - En Vivo",
       "url": "https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Mi Propuesta 1996",
+        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 279680,
+      "name": "Ni Tu Ni Yo",
+      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Colecci\u00f3n \u00c9xitos Pastor L\u00f3pez (Vol. 1)",
+        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 213840,
+      "name": "Golpe Con Golpe",
+      "url": "https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Afrosound",
         "url": "https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF"
       },
@@ -731,6 +715,38 @@
       "duration_ms": 215322,
       "name": "Mar de Emociones",
       "url": "https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "Sorbito De Champagne",
+      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -763,22 +779,6 @@
       "duration_ms": 393012,
       "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
       "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "Sorbito De Champagne",
-      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
     },
     {
       "added_at": "2024-07-12 22:59:20",

@@ -163,26 +163,6 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
-        "name": "Bluesman",
-        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 237898,
-      "name": "Flamingos",
-      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
-    },
-    {
-      "added_at": "2024-12-13 16:48:02",
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
@@ -287,6 +267,26 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
+        "name": "Bluesman",
+        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 237898,
+      "name": "Flamingos",
+      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
+    },
+    {
+      "added_at": "2024-12-13 16:48:02",
+      "album": {
         "name": "Na Sua Rua",
         "url": "https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn"
       },
@@ -387,6 +387,30 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
+        "name": "Lingerie",
+        "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Urs\u00e3o",
+          "url": "https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66"
+        }
+      ],
+      "duration_ms": 209654,
+      "name": "Lingerie",
+      "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
+    },
+    {
+      "added_at": "2024-12-13 16:48:02",
+      "album": {
         "name": "Primeira Vez",
         "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
       },
@@ -419,30 +443,6 @@
       "duration_ms": 185217,
       "name": "N\u00e3o Esque\u00e7o",
       "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
-    },
-    {
-      "added_at": "2024-12-13 16:48:02",
-      "album": {
-        "name": "Lingerie",
-        "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Urs\u00e3o",
-          "url": "https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66"
-        }
-      ],
-      "duration_ms": 209654,
-      "name": "Lingerie",
-      "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
     },
     {
       "added_at": "2024-12-13 16:48:02",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
+    },
+    {
+      "added_at": "2024-12-13 16:48:02",
+      "album": {
         "name": "S",
         "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 235740,
       "name": "V\u00edcio",
       "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
-    },
-    {
-      "added_at": "2024-12-13 16:48:02",
-      "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
     },
     {
       "added_at": "2024-12-13 16:48:02",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
-        "name": "VERSOS",
-        "url": "https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X"
+        "name": "Noite de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd"
       },
       "artists": [
         {
-          "name": "BELLI",
-          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
+          "name": "Gabz",
+          "url": "https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq"
         }
       ],
-      "duration_ms": 140000,
-      "name": "DESASTRE NATURAL",
-      "url": "https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf"
+      "duration_ms": 253248,
+      "name": "Noite de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw"
     },
     {
       "added_at": "2024-12-13 16:48:02",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
-        "name": "Noite de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd"
+        "name": "VERSOS",
+        "url": "https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X"
       },
       "artists": [
         {
-          "name": "Gabz",
-          "url": "https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq"
+          "name": "BELLI",
+          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
         }
       ],
-      "duration_ms": 253248,
-      "name": "Noite de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw"
+      "duration_ms": 140000,
+      "name": "DESASTRE NATURAL",
+      "url": "https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf"
     },
     {
       "added_at": "2024-12-13 16:48:02",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
+    },
+    {
+      "added_at": "2024-12-13 16:48:02",
+      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 230437,
       "name": "V\u00eanus (feat. A\u00edsha)",
       "url": "https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz"
-    },
-    {
-      "added_at": "2024-12-13 16:48:02",
-      "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
     },
     {
       "added_at": "2024-12-13 16:48:02",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
-        "name": "Paga pra Ver",
-        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
-      },
-      "artists": [
-        {
-          "name": "Barretin",
-          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "Paga pra Ver",
-      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
-    },
-    {
-      "added_at": "2024-12-13 16:48:02",
-      "album": {
         "name": "STR!PP3R",
         "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 187050,
       "name": "STR!PP3R",
       "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
+    },
+    {
+      "added_at": "2024-12-13 16:48:02",
+      "album": {
+        "name": "Paga pra Ver",
+        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
+      },
+      "artists": [
+        {
+          "name": "Barretin",
+          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Paga pra Ver",
+      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
     },
     {
       "added_at": "2024-12-13 16:48:02",

@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1231350,
+  "num_followers": 1231422,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAABopdB/qe0iscceLKy5Gizw",
+  "snapshot_id": "Z2YFAAAAAADfB1Ck/pmoXsWTNMwCHUR/",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 274120,
-      "name": "Original Of The Species",
-      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zooropa",
         "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 259200,
       "name": "Numb",
       "url": "https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 274120,
+      "name": "Original Of The Species",
+      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How To Re-Assemble An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "I Don't Wanna See You Smile",
+      "url": "https://open.spotify.com/track/4dYVLivRLdGpSPqsvZ2HVs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sing 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 211066,
       "name": "Your Song Saved My Life - From Sing 2",
       "url": "https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How To Re-Assemble An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 186057,
-      "name": "Evidence Of Life",
-      "url": "https://open.spotify.com/track/07dFzyGKYuqyrRD6R30YMP"
     }
   ],
   "unique_name": "This Is U2",

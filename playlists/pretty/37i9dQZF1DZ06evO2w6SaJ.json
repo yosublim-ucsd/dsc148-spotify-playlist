@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6018,
+  "num_followers": 6026,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SzgAAAAAB3Ks8oZtLYurxom0soHfV5",
+  "snapshot_id": "Z2YFAAAAAAChcDQ7ZVPiB8LaCFDEFCtS",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurt You So Bad",
         "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
       },
@@ -507,22 +491,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
       },
       "artists": [
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "Tanner Alexander",
-          "url": "https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP"
         }
       ],
-      "duration_ms": 227794,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
+      "duration_ms": 224760,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterfly (New Anthem)",
+        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
+      },
+      "artists": [
+        {
+          "name": "Black Oxygen",
+          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 227246,
+      "name": "Butterfly (New Anthem)",
+      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
     },
     {
       "added_at": null,
@@ -547,22 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterfly (New Anthem)",
-        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
       },
       "artists": [
         {
-          "name": "Black Oxygen",
-          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
-        },
-        {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Tanner Alexander",
+          "url": "https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP"
         }
       ],
-      "duration_ms": 227246,
-      "name": "Butterfly (New Anthem)",
-      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
+      "duration_ms": 227794,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
     },
     {
       "added_at": null,

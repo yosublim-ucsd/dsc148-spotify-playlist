@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Highlighting the best of EQUAL GSA 2024\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,504 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,508 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
 | 19 | [ALLES GLÄNZT](https://open.spotify.com/track/4i1Oyfgjzc1aEQHQv8fe4s) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:41 |
 | 20 | [Loyal to myself](https://open.spotify.com/track/00slEprEencKB3DjTHGu2W) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:28 |
-| 21 | [Sweat](https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Sweat](https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR) | 2:31 |
-| 22 | [Gott weiß wie](https://open.spotify.com/track/5hIXIvLCOiNzCz5WX9sDvB) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Lost Tapes Teil 1](https://open.spotify.com/album/1WxNRliMBqBubiczmtPymO) | 2:19 |
+| 21 | [Gott weiß wie](https://open.spotify.com/track/5hIXIvLCOiNzCz5WX9sDvB) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Lost Tapes Teil 1](https://open.spotify.com/album/1WxNRliMBqBubiczmtPymO) | 2:19 |
+| 22 | [Sweat](https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Sweat](https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR) | 2:31 |
 | 23 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 |
 | 24 | [I Forget \(I’m So Young\)](https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Forget \(I’m So Young\)](https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z) | 4:19 |
 | 25 | [was wäre wenn](https://open.spotify.com/track/4sfU6kHncVWDHM4oSdhcd1) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [25/8](https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn) | 2:53 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 44 | [nie vorbei](https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [nie vorbei](https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no) | 2:36 |
 | 45 | [ABC](https://open.spotify.com/track/5J44WjLWlXDhs9re4YO2f1) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/6ofT3KprM5LncrA2RQy3AG) | 2:39 |
 | 46 | [Es zieht im Paradies](https://open.spotify.com/track/12FETuFeRi2BwCa3L1R2rY) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I) | 3:06 |
-| 47 | [Hearts Lust](https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J) | 2:22 |
-| 48 | [No Regrets](https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY) | [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O) | [No Regrets](https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I) | 2:54 |
+| 47 | [No Regrets](https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY) | [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O) | [No Regrets](https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I) | 2:54 |
+| 48 | [Hearts Lust](https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J) | 2:22 |
 | 49 | [Gleichgewicht](https://open.spotify.com/track/4h9j2wJyX7DbhXOao5453j) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Auszeit](https://open.spotify.com/album/0jjRLSkPAyPAqLEkhtfJj1) | 2:34 |
 | 50 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
 | 51 | [ANGST>LIEBE](https://open.spotify.com/track/6vhjpd045qgJWTwAXINxit) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [extras](https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK) | 2:59 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 54 | [STEPHEN KING](https://open.spotify.com/track/0G5VxInG6PoZuSnBisMXei) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:59 |
 | 55 | [Rebel Heart](https://open.spotify.com/track/6IaKW0IDdGtaUNf3NfgObi) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Rebel Heart](https://open.spotify.com/album/59u6purXetU1GYY2IUV0B6) | 5:50 |
 | 56 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
-| 57 | [Innenhof](https://open.spotify.com/track/3P1n2hER712EytnjX2Z2Pt) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Innenhof](https://open.spotify.com/album/4Re5MEQNMz5tP327a4WU1C) | 2:47 |
-| 58 | [TAG/NACHT](https://open.spotify.com/track/2ELvriNilkGU5ab0D4Ltbf) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc), [emmamaelo](https://open.spotify.com/artist/22rNY5viAKySIkxhN8xBjR), [melle](https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw), [nebou](https://open.spotify.com/artist/02hm9wskKc1kHkGkn2ssge) | [TAG/NACHT](https://open.spotify.com/album/5iStwAr4RijfIkeqm3JM46) | 3:19 |
+| 57 | [TAG/NACHT](https://open.spotify.com/track/2ELvriNilkGU5ab0D4Ltbf) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc), [emmamaelo](https://open.spotify.com/artist/22rNY5viAKySIkxhN8xBjR), [melle](https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw), [nebou](https://open.spotify.com/artist/02hm9wskKc1kHkGkn2ssge) | [TAG/NACHT](https://open.spotify.com/album/5iStwAr4RijfIkeqm3JM46) | 3:19 |
+| 58 | [Innenhof](https://open.spotify.com/track/3P1n2hER712EytnjX2Z2Pt) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Innenhof](https://open.spotify.com/album/4Re5MEQNMz5tP327a4WU1C) | 2:47 |
 | 59 | [Rave Luv](https://open.spotify.com/track/7lgdQfRT3013oGywUorbKH) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Rave Luv](https://open.spotify.com/album/4A474towWs0lkhRxQaCTs9) | 4:16 |
 | 60 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |
 | 61 | [Resilience](https://open.spotify.com/track/04UvKMFnAgvQZmA0Edwd7f) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX), [LUZ1E](https://open.spotify.com/artist/1uHDi1l9z2tGckArGriA7B) | [Resilience](https://open.spotify.com/album/6lEHNyY4httWsP9VxMkTRs) | 5:00 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 67 | [Club](https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Club](https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs) | 1:51 |
 | 68 | [Bigger Picture](https://open.spotify.com/track/04BrgQbbdn1Avy6HYtf5UL) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U), [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 2:48 |
 | 69 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 |
-| 70 | [Lose Somebody](https://open.spotify.com/track/4w6qKOQFW6QgTk3XOL3x22) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [See More Glass](https://open.spotify.com/album/0inybIppQ1YFOXscrIDzEA) | 2:55 |
-| 71 | [Wuz poppin](https://open.spotify.com/track/7hlPXPgSSRbogNtMBqE8z0) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Eine Frau ein Wort](https://open.spotify.com/album/2N5t2vxotfTBrt7ogj4f8f) | 2:27 |
+| 70 | [Wuz poppin](https://open.spotify.com/track/7hlPXPgSSRbogNtMBqE8z0) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Eine Frau ein Wort](https://open.spotify.com/album/2N5t2vxotfTBrt7ogj4f8f) | 2:27 |
+| 71 | [Lose Somebody](https://open.spotify.com/track/4w6qKOQFW6QgTk3XOL3x22) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [See More Glass](https://open.spotify.com/album/0inybIppQ1YFOXscrIDzEA) | 2:55 |
 | 72 | [The Ground](https://open.spotify.com/track/0sWDjqsNariwsEZUGeiD9u) | [Willow Parlo](https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa) | [See U Whenever](https://open.spotify.com/album/30g1aHbtQgSs6PVLjD9WXt) | 3:02 |
 | 73 | [Just Us Going](https://open.spotify.com/track/3Kg6FbNnrRB2u8lSZcn6Ym) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Just Us Going](https://open.spotify.com/album/2aGWSTnMkkg7jHxfwqJL92) | 3:21 |
 | 74 | [Heart's Desire](https://open.spotify.com/track/1FOIkPFmShdGvUR7JImeyZ) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Heart's Desire](https://open.spotify.com/album/6f5Aw8kUuEaLRlrk6nkccm) | 3:20 |

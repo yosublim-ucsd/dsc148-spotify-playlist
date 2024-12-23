@@ -1,6 +1,6 @@
 {
   "description": "Mericia e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 373702,
+  "num_followers": 373675,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -299,38 +299,6 @@
     {
       "added_at": "2024-12-20 03:01:14",
       "album": {
-        "name": "Filha do Deputado",
-        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 371852,
-      "name": "Filha do Deputado",
-      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
-    },
-    {
-      "added_at": "2024-12-20 03:01:14",
-      "album": {
         "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 1",
         "url": "https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4"
       },
@@ -399,8 +367,8 @@
     {
       "added_at": "2024-12-20 03:01:14",
       "album": {
-        "name": "Diz A\u00ed Qual \u00e9 o Plano?",
-        "url": "https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M"
+        "name": "Filha do Deputado",
+        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
       },
       "artists": [
         {
@@ -412,45 +380,21 @@
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
         },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
-        },
-        {
-          "name": "MC GH do 7",
-          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
-        },
-        {
-          "name": "MC Nego Micha",
-          "url": "https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         }
       ],
-      "duration_ms": 703157,
-      "name": "Diz A\u00ed Qual \u00e9 o Plano?",
-      "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
+      "duration_ms": 371852,
+      "name": "Filha do Deputado",
+      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
     },
     {
       "added_at": "2024-12-20 03:01:14",
@@ -643,6 +587,62 @@
     {
       "added_at": "2024-12-20 03:01:14",
       "album": {
+        "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+        "url": "https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        },
+        {
+          "name": "MC Nego Micha",
+          "url": "https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 703157,
+      "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+      "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
+    },
+    {
+      "added_at": "2024-12-20 03:01:14",
+      "album": {
         "name": "FETICHE",
         "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
       },
@@ -659,38 +659,6 @@
       "duration_ms": 193188,
       "name": "pausa da sua tristeza",
       "url": "https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H"
-    },
-    {
-      "added_at": "2024-12-20 03:01:14",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        }
-      ],
-      "duration_ms": 351496,
-      "name": "Bad Boys",
-      "url": "https://open.spotify.com/track/6IbR0fjohcdQa3Ml3RfSFg"
     },
     {
       "added_at": "2024-12-20 03:01:14",
@@ -723,6 +691,26 @@
     {
       "added_at": "2024-12-20 03:01:14",
       "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+    },
+    {
+      "added_at": "2024-12-20 03:01:14",
+      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -747,6 +735,26 @@
     {
       "added_at": "2024-12-20 03:01:14",
       "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "nssmnsb",
+      "url": "https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN"
+    },
+    {
+      "added_at": "2024-12-20 03:01:14",
+      "album": {
         "name": "TunTunTun (Spotify Singles)",
         "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
       },
@@ -759,26 +767,6 @@
       "duration_ms": 186501,
       "name": "TunTunTun - Spotify Singles",
       "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
-    },
-    {
-      "added_at": "2024-12-20 03:01:14",
-      "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2024-12-20 03:01:14",
@@ -803,54 +791,18 @@
     {
       "added_at": "2024-12-20 03:01:14",
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+        "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
+        "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+          "name": "Samba De Dom",
+          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
         }
       ],
-      "duration_ms": 187253,
-      "name": "nssmnsb",
-      "url": "https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN"
-    },
-    {
-      "added_at": "2024-12-20 03:01:14",
-      "album": {
-        "name": "THE BOX MEDLEY FUNK 3",
-        "url": "https://open.spotify.com/album/3oF7K2XdqdXvEQ7QXJgYO5"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "MC Neguinho do Kaxeta",
-          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
-        },
-        {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "Mc Kauan",
-          "url": "https://open.spotify.com/artist/4TlVDevNpKDPEGlG805z6U"
-        }
-      ],
-      "duration_ms": 303750,
-      "name": "THE BOX MEDLEY FUNK 3",
-      "url": "https://open.spotify.com/track/29GPtRKtxQhHWB2dDKx8uN"
+      "duration_ms": 320199,
+      "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
+      "url": "https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z"
     },
     {
       "added_at": "2024-12-20 03:01:14",
@@ -891,18 +843,86 @@
     {
       "added_at": "2024-12-20 03:01:14",
       "album": {
-        "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
-        "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
       },
       "artists": [
         {
-          "name": "Samba De Dom",
-          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
         }
       ],
-      "duration_ms": 320199,
-      "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
-      "url": "https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z"
+      "duration_ms": 351496,
+      "name": "Bad Boys",
+      "url": "https://open.spotify.com/track/6IbR0fjohcdQa3Ml3RfSFg"
+    },
+    {
+      "added_at": "2024-12-20 03:01:14",
+      "album": {
+        "name": "THE BOX MEDLEY FUNK 3",
+        "url": "https://open.spotify.com/album/3oF7K2XdqdXvEQ7QXJgYO5"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "Mc Kauan",
+          "url": "https://open.spotify.com/artist/4TlVDevNpKDPEGlG805z6U"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "THE BOX MEDLEY FUNK 3",
+      "url": "https://open.spotify.com/track/29GPtRKtxQhHWB2dDKx8uN"
+    },
+    {
+      "added_at": "2024-12-20 03:01:14",
+      "album": {
+        "name": "Sorte (Ao Vivo / EP01)",
+        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Vai Valer A Pena - Ao Vivo",
+      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
     },
     {
       "added_at": "2024-12-20 03:01:14",
@@ -931,26 +951,6 @@
       "duration_ms": 199081,
       "name": "calor do momento",
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
-    },
-    {
-      "added_at": "2024-12-20 03:01:14",
-      "album": {
-        "name": "Sorte (Ao Vivo / EP01)",
-        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Vai Valer A Pena - Ao Vivo",
-      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
     },
     {
       "added_at": "2024-12-20 03:01:14",
@@ -1027,6 +1027,26 @@
       "duration_ms": 152607,
       "name": "Rivais",
       "url": "https://open.spotify.com/track/1e7JH5Fuv4rkMX8Odo0Kpz"
+    },
+    {
+      "added_at": "2024-12-20 03:01:14",
+      "album": {
+        "name": "Sorte (Ao Vivo / EP02)",
+        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 182694,
+      "name": "Febre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
     },
     {
       "added_at": "2024-12-20 03:01:14",
@@ -1111,30 +1131,18 @@
     {
       "added_at": "2024-12-20 03:01:14",
       "album": {
-        "name": "M.A.D 2",
-        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
       },
       "artists": [
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
         }
       ],
-      "duration_ms": 181985,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
+      "duration_ms": 165703,
+      "name": "Resenha das Minas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS"
     },
     {
       "added_at": "2024-12-20 03:01:14",
@@ -1151,42 +1159,6 @@
       "duration_ms": 193192,
       "name": "Saudade Tatuada - Ao Vivo",
       "url": "https://open.spotify.com/track/5ibWIyNrLGnweranaclVis"
-    },
-    {
-      "added_at": "2024-12-20 03:01:14",
-      "album": {
-        "name": "Sorte (Ao Vivo / EP02)",
-        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 182694,
-      "name": "Febre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
-    },
-    {
-      "added_at": "2024-12-20 03:01:14",
-      "album": {
-        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        }
-      ],
-      "duration_ms": 165703,
-      "name": "Resenha das Minas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS"
     },
     {
       "added_at": "2024-12-20 03:01:14",
@@ -1231,6 +1203,34 @@
       "duration_ms": 206769,
       "name": "Modo Gal\u00e1tico",
       "url": "https://open.spotify.com/track/4TjLgUP7cfLTsDt4mRDsOh"
+    },
+    {
+      "added_at": "2024-12-20 03:01:14",
+      "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
     },
     {
       "added_at": "2024-12-20 03:01:14",

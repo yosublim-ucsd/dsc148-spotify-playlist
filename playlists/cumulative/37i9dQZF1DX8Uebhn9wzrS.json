@@ -7469,6 +7469,24 @@
     },
     {
       "album": {
+        "name": "comply",
+        "url": "https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO"
+      },
+      "artists": [
+        {
+          "name": "Flower Chanel.",
+          "url": "https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "comply",
+      "url": "https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn"
+    },
+    {
+      "album": {
         "name": "Con Bajo Fidelidad",
         "url": "https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg"
       },
@@ -8386,7 +8404,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 144615,
       "name": "DaSpritzers",
       "url": "https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb"
@@ -13368,7 +13386,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 96000,
       "name": "Friendly",
       "url": "https://open.spotify.com/track/4X40ngLEFkHOJ8FZyFnYCB"
@@ -14176,6 +14194,24 @@
       "duration_ms": 136536,
       "name": "Glass Walls",
       "url": "https://open.spotify.com/track/4pBuxxACkmrNGuqtKr2OcS"
+    },
+    {
+      "album": {
+        "name": "glass.stairs",
+        "url": "https://open.spotify.com/album/3CzcNNU7WbYi7EQgw08SfZ"
+      },
+      "artists": [
+        {
+          "name": "EPiphany",
+          "url": "https://open.spotify.com/artist/7zG4aJ7UHdfivX5OloJdec"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114545,
+      "name": "glass.stairs",
+      "url": "https://open.spotify.com/track/4EjapPyOrSo5oRSTfYiXj6"
     },
     {
       "album": {
@@ -26500,7 +26536,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 138593,
       "name": "Pacific Coast",
       "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
@@ -32734,7 +32770,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-23",
       "duration_ms": 112941,
       "name": "somethings up",
       "url": "https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9"
@@ -36581,6 +36617,24 @@
     },
     {
       "album": {
+        "name": "this and that",
+        "url": "https://open.spotify.com/album/5RnMqYBOBAG6PTRCZsJkN3"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168859,
+      "name": "this and that",
+      "url": "https://open.spotify.com/track/6AXY1LZTdTf1LFSUhn7zfV"
+    },
+    {
+      "album": {
         "name": "Interaction",
         "url": "https://open.spotify.com/album/74AL6Yi427gFNKGIl4b3DU"
       },
@@ -37930,6 +37984,24 @@
       "duration_ms": 133020,
       "name": "Tune Out",
       "url": "https://open.spotify.com/track/4ZsI2orhFDadedp84ZXOIl"
+    },
+    {
+      "album": {
+        "name": "tunnel vision",
+        "url": "https://open.spotify.com/album/4cjcmYYnWqPAjVgWU82nwP"
+      },
+      "artists": [
+        {
+          "name": "luv.fi",
+          "url": "https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "tunnel vision",
+      "url": "https://open.spotify.com/track/59LGFg2Yq6miODn4YMc7RF"
     },
     {
       "album": {

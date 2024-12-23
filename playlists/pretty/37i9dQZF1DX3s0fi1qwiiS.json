@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 3306,
+  "num_followers": 3314,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "OZEBA",
-      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Toma Toma",
         "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 168000,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "OZEBA",
+      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -279,34 +279,18 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Yebo Lapho (Gogo) (feat. DJ Maphorisa & Djy Biza)",
-        "url": "https://open.spotify.com/album/0YjBn2M1uYiV6iOVqK9WTD"
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
       },
       "artists": [
         {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        },
-        {
-          "name": "Thabza Tee",
-          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Djy Biza",
-          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 424800,
-      "name": "Yebo Lapho (Gogo) (feat. DJ Maphorisa & Djy Biza)",
-      "url": "https://open.spotify.com/track/0NLRYW9HyqHcbyzfAwskKN"
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -343,6 +327,38 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Yebo Lapho (Gogo) (feat. DJ Maphorisa & Djy Biza)",
+        "url": "https://open.spotify.com/album/0YjBn2M1uYiV6iOVqK9WTD"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Thabza Tee",
+          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Djy Biza",
+          "url": "https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING"
+        }
+      ],
+      "duration_ms": 424800,
+      "name": "Yebo Lapho (Gogo) (feat. DJ Maphorisa & Djy Biza)",
+      "url": "https://open.spotify.com/track/0NLRYW9HyqHcbyzfAwskKN"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -355,38 +371,6 @@
       "duration_ms": 148225,
       "name": "AZAMAN",
       "url": "https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Bundle By Bundle",
-        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bundle By Bundle",
-      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 204279,
-      "name": "Uhh Yeahh",
-      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -411,6 +395,22 @@
       "duration_ms": 327457,
       "name": "Sohlala Sisonke",
       "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 204279,
+      "name": "Uhh Yeahh",
+      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -491,6 +491,34 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Diqabang",
+        "url": "https://open.spotify.com/album/5ygGTL3c1ehuinc3zykAv3"
+      },
+      "artists": [
+        {
+          "name": "Khathapillar",
+          "url": "https://open.spotify.com/artist/2NJ4G5sIHIfma9PF2MO0yi"
+        },
+        {
+          "name": "Sol Phenduka",
+          "url": "https://open.spotify.com/artist/6KSYSas66s64PZDOnb6knq"
+        },
+        {
+          "name": "Smash SA",
+          "url": "https://open.spotify.com/artist/0w5arbommuYnUMeXetmv17"
+        },
+        {
+          "name": "Kamoh Xaba",
+          "url": "https://open.spotify.com/artist/2Fotv9MULwrtOPORxgtRui"
+        }
+      ],
+      "duration_ms": 402890,
+      "name": "Diqabang",
+      "url": "https://open.spotify.com/track/4zZxynw8cwhCRlDl9pay2f"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
         "url": "https://open.spotify.com/album/4R1FZeemDJyD4yQitaniIk"
       },
@@ -527,34 +555,6 @@
       "duration_ms": 407804,
       "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
       "url": "https://open.spotify.com/track/3E1PwVodPiDbBHOI85CO9M"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Diqabang",
-        "url": "https://open.spotify.com/album/5ygGTL3c1ehuinc3zykAv3"
-      },
-      "artists": [
-        {
-          "name": "Khathapillar",
-          "url": "https://open.spotify.com/artist/2NJ4G5sIHIfma9PF2MO0yi"
-        },
-        {
-          "name": "Sol Phenduka",
-          "url": "https://open.spotify.com/artist/6KSYSas66s64PZDOnb6knq"
-        },
-        {
-          "name": "Smash SA",
-          "url": "https://open.spotify.com/artist/0w5arbommuYnUMeXetmv17"
-        },
-        {
-          "name": "Kamoh Xaba",
-          "url": "https://open.spotify.com/artist/2Fotv9MULwrtOPORxgtRui"
-        }
-      ],
-      "duration_ms": 402890,
-      "name": "Diqabang",
-      "url": "https://open.spotify.com/track/4zZxynw8cwhCRlDl9pay2f"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -687,6 +687,54 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Skuta Baba (Remix)",
+        "url": "https://open.spotify.com/album/1SlgRO1XkPI0FpgftHrbun"
+      },
+      "artists": [
+        {
+          "name": "WOODBLOCK DJS",
+          "url": "https://open.spotify.com/artist/4U1nhrvg5AujdFVNDYdxnQ"
+        },
+        {
+          "name": "Buzzi Lee",
+          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
+        },
+        {
+          "name": "Kane Keid",
+          "url": "https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        },
+        {
+          "name": "Mvelost",
+          "url": "https://open.spotify.com/artist/43KMSXTAX2zUX3PpqM5gUb"
+        },
+        {
+          "name": "Set Off",
+          "url": "https://open.spotify.com/artist/7KRsps2htWo45tSXJZCgkx"
+        },
+        {
+          "name": "Somololo",
+          "url": "https://open.spotify.com/artist/77qpE5i7SwgvZfPtDjVtEG"
+        }
+      ],
+      "duration_ms": 372710,
+      "name": "Skuta Baba - Remix",
+      "url": "https://open.spotify.com/track/2NUL19ktYaXmes18Cz7HPn"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
         "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
       },
@@ -751,94 +799,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Skuta Baba (Remix)",
-        "url": "https://open.spotify.com/album/1SlgRO1XkPI0FpgftHrbun"
-      },
-      "artists": [
-        {
-          "name": "WOODBLOCK DJS",
-          "url": "https://open.spotify.com/artist/4U1nhrvg5AujdFVNDYdxnQ"
-        },
-        {
-          "name": "Buzzi Lee",
-          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
-        },
-        {
-          "name": "Kane Keid",
-          "url": "https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto"
-        },
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        },
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Tony Dayimane",
-          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
-        },
-        {
-          "name": "Mvelost",
-          "url": "https://open.spotify.com/artist/43KMSXTAX2zUX3PpqM5gUb"
-        },
-        {
-          "name": "Set Off",
-          "url": "https://open.spotify.com/artist/7KRsps2htWo45tSXJZCgkx"
-        },
-        {
-          "name": "Somololo",
-          "url": "https://open.spotify.com/artist/77qpE5i7SwgvZfPtDjVtEG"
-        }
-      ],
-      "duration_ms": 372710,
-      "name": "Skuta Baba - Remix",
-      "url": "https://open.spotify.com/track/2NUL19ktYaXmes18Cz7HPn"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Puff & Pass (Remix)",
-        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 161515,
-      "name": "Puff & Pass (Remix)",
-      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Caiiro",
-        "url": "https://open.spotify.com/album/4F0Pcxgo3WnuTJB3vivwEh"
-      },
-      "artists": [
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 315116,
-      "name": "Ndisize (feat. Ami Faku)",
-      "url": "https://open.spotify.com/track/1hnB525vM5GrFr5AQIXQu8"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Ntsako",
         "url": "https://open.spotify.com/album/7tqEXec8u8dGBRYhk5m4LU"
       },
@@ -863,6 +823,46 @@
       "duration_ms": 578932,
       "name": "Waze Wamuhle (feat. Mashudu)",
       "url": "https://open.spotify.com/track/2xXwT5A5sbPXJLtXasPSIY"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Caiiro",
+        "url": "https://open.spotify.com/album/4F0Pcxgo3WnuTJB3vivwEh"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 315116,
+      "name": "Ndisize (feat. Ami Faku)",
+      "url": "https://open.spotify.com/track/1hnB525vM5GrFr5AQIXQu8"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Puff & Pass (Remix)",
+        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 161515,
+      "name": "Puff & Pass (Remix)",
+      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
     },
     {
       "added_at": "2024-12-19 13:12:01",

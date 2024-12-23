@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Rus In Vrede <a href="https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic?si=ETXZAUgfSfS0KQ50n6l11g">Jan Bloukaas</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=tG4MaeqATyy99sieyrV6dQ">Riaan Benadé</a>
 
-258 songs - 14 hr 20 min
+260 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Die Rower](https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Die Rower](https://open.spotify.com/album/5MRXndYHbRTxLhROnjpeoO) | 4:15 | 2023-09-21 | 2023-10-27 |
 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 | 2024-02-29 |  |
 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 | 2023-03-09 | 2024-04-27 |
-| [Dis 'n Vibe](https://open.spotify.com/track/5cM47TXZurGyo8c0JcOJ8v) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Dis 'n Vibe](https://open.spotify.com/album/2Mo2TPvo9aehgvcLdyP67Z) | 3:06 | 2024-07-04 |  |
+| [Dis 'n Vibe](https://open.spotify.com/track/5cM47TXZurGyo8c0JcOJ8v) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Dis 'n Vibe](https://open.spotify.com/album/2Mo2TPvo9aehgvcLdyP67Z) | 3:06 | 2024-07-04 | 2024-12-23 |
 | [Dis Raak](https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Dis Raak](https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1) | 3:33 | 2023-12-21 |  |
 | [Ditjies & Datjies](https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3), [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Ditjies & Datjies](https://open.spotify.com/album/7m3yfmPUbRm6FNFBmdyxD6) | 3:18 | 2022-12-01 | 2023-12-08 |
 | [Dogter](https://open.spotify.com/track/1PO2llChG41r9NlY7sIeLa) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dogter](https://open.spotify.com/album/2oY1HgguwbO0kgh4sfco2i) | 4:03 | 2022-11-17 | 2023-02-03 |
@@ -164,6 +164,7 @@
 | [Man so na my hart](https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL) | [Elizma Theron](https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU) | [Man so na my hart](https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C) | 3:17 | 2023-03-03 | 2023-05-12 |
 | [Marakas](https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Marakas](https://open.spotify.com/album/5PW1QI5M5ghXWrnYP9X4bs) | 4:01 | 2023-08-03 | 2023-09-01 |
 | [Marie](https://open.spotify.com/track/2jVwAnPHfeVeUyEEk4ERFU) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Marie](https://open.spotify.com/album/3GOXoNZKODuAhlhXBVAQHy) | 3:21 | 2022-09-08 | 2022-10-14 |
+| [Meisie](https://open.spotify.com/track/4Wl61saOR6rwgVcXQuKYQ1) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Meisie](https://open.spotify.com/album/11ZDOCvUNFJbbrQgaG4A3M) | 2:35 | 2024-12-22 |  |
 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 | 2024-07-11 |  |
 | [Meisies Soos Jy](https://open.spotify.com/track/67N0nsJvvBnvDYzh9ajNWF) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Meisies Soos Jy](https://open.spotify.com/album/164AAP3cVdfP6Wt1nDNPla) | 4:10 | 2022-04-22 | 2022-11-25 |
 | [Moegdans](https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Moegdans](https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq) | 3:21 | 2023-09-21 |  |
@@ -245,6 +246,7 @@
 | [Vegter](https://open.spotify.com/track/1KK0U3XmxHyj5WYjARSxkv) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Vegter](https://open.spotify.com/album/1c7lGU1cP8l04hmOSAbCOC) | 3:46 | 2022-06-09 | 2022-10-07 |
 | [Verlore Seun](https://open.spotify.com/track/14FXSq2GesUVBYb9A7BPaI) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Verlore Seun](https://open.spotify.com/album/1UlKXQZv6hCIyfVbhAca5W) | 3:23 | 2024-03-14 | 2024-06-01 |
 | [Vir Jou Geval](https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Vir Jou Geval](https://open.spotify.com/album/3XWL5eNy3Q2bSOjk9Pwfwx) | 4:02 | 2022-12-29 | 2024-04-27 |
+| [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 | 2024-12-22 |  |
 | [Vlam In Die Wind](https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Vlam In Die Wind](https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8) | 3:25 | 2023-06-08 |  |
 | [Vleisvreters](https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h) | [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r) | [Vleisvreters](https://open.spotify.com/album/6wWrTYihuyhLCpz8C4OLxQ) | 3:07 | 2023-03-03 | 2023-06-16 |
 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 | 2023-11-30 |  |
@@ -252,7 +254,7 @@
 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2023-01-05 |  |
 | [Vuur Op Die Water](https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Vuur Op Die Water](https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2) | 3:36 | 2023-03-09 | 2024-04-27 |
 | [Vuur Wat Brand](https://open.spotify.com/track/1c9QUvWJm52Qi0p7i5CKrB) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hart se Taal](https://open.spotify.com/album/6enxtnG3uRmtW2gyCoONB1) | 3:24 | 2024-04-18 | 2024-05-03 |
-| [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-12-28 |  |
+| [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-12-28 | 2024-12-23 |
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-04 |
