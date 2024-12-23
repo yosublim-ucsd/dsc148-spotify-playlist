@@ -1,4 +1,4 @@
-## Playlists \(8327\)
+## Playlists \(8328\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3095,6 +3095,7 @@
 - [Jane Austen](/playlists/pretty/37i9dQZF1DWWC5ySVGqQA1.md)
 - [Jangueo](/playlists/pretty/37i9dQZF1DX4TNDxNzIjRm.md)
 - [Japanese Hardstyle/Hardcore \| J\-Core \| WeebCore \|](/playlists/pretty/2YCTZb01BHsUw3t7XxVNM9.md)
+- [Jardín de Nostalgias](/playlists/pretty/3wiMAzIv2YCD4fyKle8vi9.md)
 - [Jaripeo](/playlists/pretty/37i9dQZF1DX4TXiF0EOUoR.md)
 - [Jasmine](/playlists/pretty/37i9dQZF1DX5IOhx43PGIa.md)
 - [Jayda G's track IDs](/playlists/pretty/37i9dQZF1DX0F8FtqyAjxC.md)
