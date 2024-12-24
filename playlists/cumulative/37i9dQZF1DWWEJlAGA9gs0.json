@@ -4323,6 +4323,28 @@
     },
     {
       "album": {
+        "name": "The Leeds International Piano Competition - 2024 Winner",
+        "url": "https://open.spotify.com/album/0WwaWJxLDO4PHx7xAAbE03"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Jaeden Izik-Dzurko",
+          "url": "https://open.spotify.com/artist/4rwkiCr2g4bmkWU4xbOrkU"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492506,
+      "name": "Ravel: Miroirs, M. 43: III. Une barque sur l'oc\u00e9an",
+      "url": "https://open.spotify.com/track/57i4ubGwEEwQBqRZo1mGYW"
+    },
+    {
+      "album": {
         "name": "Ravel: Complete Works for Solo Piano",
         "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
       },

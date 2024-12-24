@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 420 songs - 1 day 2 hr 49 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 422 songs - 1 day 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -428,5 +428,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 418 | [Pyramid of Bones](https://open.spotify.com/track/0tfvDUmADEEEqrPcRJNT29) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:28 |
 | 419 | [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 |
 | 420 | [No Offerings](https://open.spotify.com/track/13bCWzmT2Y7q4zH6E8x2ZA) | [The Aubreys](https://open.spotify.com/artist/7ijkc3O3uxDdAmSuQUg2f2), [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [No Offerings](https://open.spotify.com/album/3RiPIwXRLN0ieTACLNjE4D) | 3:14 |
+| 421 | [Desperate Others](https://open.spotify.com/track/6l81uKx4RM53K8KpyOFMcw) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Desperate Others](https://open.spotify.com/album/2Lt0mEW4Rm53g2UIVYbmfU) | 3:13 |
+| 422 | [Don't Let Go](https://open.spotify.com/track/4EDN1wMNGoDyvkD6QlS8C1) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Don't Let Go](https://open.spotify.com/album/7dZ5Xwp3kmrd7nMpZKrXCM) | 2:40 |
 
-Snapshot ID: `AAALg66MwID6wTjIFrjNILnrsg0ReB+m`
+Snapshot ID: `AAALhdgMfMel8eNRwr+kS4j5ehB6XZIA`

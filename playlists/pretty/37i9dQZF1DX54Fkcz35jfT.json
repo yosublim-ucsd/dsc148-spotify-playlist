@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Mr.FanTastiC",
-  "num_followers": 46467,
+  "num_followers": 46476,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "Vengeance",
-        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
+        "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
+        "url": "https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        },
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 238534,
-      "name": "Vengeance",
-      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
+      "duration_ms": 215866,
+      "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
+      "url": "https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -387,22 +391,18 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
-        "url": "https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu"
+        "name": "Vengeance",
+        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        },
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 215866,
-      "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
-      "url": "https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md"
+      "duration_ms": 238534,
+      "name": "Vengeance",
+      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
-      },
-      "artists": [
-        {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 260278,
       "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 197995,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "\u72d0\u72ec\u306e\u624d\u671b",
         "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 212950,
       "name": "\u72d0\u72ec\u306e\u624d\u671b",
       "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "helm\u2019N bass",
-        "url": "https://open.spotify.com/album/6ShhFUdgi20EuTJMq5rHdi"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 234200,
-      "name": "helm\u2019N bass",
-      "url": "https://open.spotify.com/track/1dVRH1xnZgOTFQoCKl1Ha5"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
         "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 233393,
       "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
       "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "helm\u2019N bass",
+        "url": "https://open.spotify.com/album/6ShhFUdgi20EuTJMq5rHdi"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 234200,
+      "name": "helm\u2019N bass",
+      "url": "https://open.spotify.com/track/1dVRH1xnZgOTFQoCKl1Ha5"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "BUNBUN SUIBUN",
-        "url": "https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0"
-      },
-      "artists": [
-        {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
-        }
-      ],
-      "duration_ms": 191242,
-      "name": "BUNBUN SUIBUN",
-      "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "Inside Of Me",
         "url": "https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "tx3k",
-        "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
+        "name": "BUNBUN SUIBUN",
+        "url": "https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0"
       },
       "artists": [
         {
-          "name": "Texas 3000",
-          "url": "https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV"
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
         }
       ],
-      "duration_ms": 194520,
-      "name": "Connector Fuck Man",
-      "url": "https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh"
+      "duration_ms": 191242,
+      "name": "BUNBUN SUIBUN",
+      "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
+        "name": "tx3k",
+        "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
+      },
+      "artists": [
+        {
+          "name": "Texas 3000",
+          "url": "https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Connector Fuck Man",
+      "url": "https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
         "name": "\u30b3\u30ea\u30f3\u30ba",
         "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "PARADISE (Kill The Silence)",
-        "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 223118,
-      "name": "PARADISE (Kill The Silence)",
-      "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "PARADISE (Kill The Silence)",
+        "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 223118,
+      "name": "PARADISE (Kill The Silence)",
+      "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1615,34 +1615,18 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "TAKING THEM DOWN",
-        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
+        "name": "800TRIBUTE-champloo is the BEST!!2-",
+        "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
       "artists": [
         {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
         }
       ],
-      "duration_ms": 172974,
-      "name": "TAKING THEM DOWN",
-      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
-        "name": "ENTH",
-        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
-      },
-      "artists": [
-        {
-          "name": "ENTH",
-          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "SCUM DOGS FART",
-      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
+      "duration_ms": 164313,
+      "name": "HAPPY BIRTHDAY",
+      "url": "https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -1659,6 +1643,30 @@
       "duration_ms": 218242,
       "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
       "url": "https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "LEAVE IT ALL BEHIND",
+        "url": "https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR"
+      },
+      "artists": [
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Bodyslam",
+          "url": "https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "LEAVE IT ALL BEHIND",
+      "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"
     }
   ],
   "unique_name": "Loud Rock Japan",

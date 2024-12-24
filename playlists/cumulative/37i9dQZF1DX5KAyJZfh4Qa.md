@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Touché Amoré
 
-249 songs - 13 hr 56 min
+250 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [King Bee](https://open.spotify.com/track/7zIHAwiZvJZIQQ3AKximtT) | [Prairie Fire](https://open.spotify.com/artist/5LiZglQ0vLYvvEqa7oCXfd) | [King Bee](https://open.spotify.com/album/2Jo9Gu7tQloGevEX8NhGmL) | 2:43 | 2023-05-19 | 2024-07-13 |
 | [Kiss the Ladder](https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:17 | 2022-11-25 | 2023-09-23 |
 | [kissinginacarcrash](https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [kissinginacarcrash](https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt) | 3:09 | 2024-04-19 | 2024-12-19 |
+| [KO](https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Better Luck Next Time](https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb) | 3:22 | 2024-12-18 |  |
 | [KO](https://open.spotify.com/track/468kQ0vnRFF9uS6XhCy4Ee) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [KO](https://open.spotify.com/album/5C2nV2SPIEmNxEC2PMTjGd) | 3:22 | 2023-09-22 | 2023-11-18 |
 | [Leap Years](https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Leap Years](https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo) | 2:39 | 2024-03-08 | 2024-04-20 |
 | [Lefty](https://open.spotify.com/track/7sjrz7oVPOncAQib1yjMrd) | [Seahaven](https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np) | [Lefty](https://open.spotify.com/album/48kSmY1m45ylHWli72bgdQ) | 3:33 | 2023-06-16 | 2023-09-30 |
@@ -232,7 +233,7 @@
 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 | 2023-10-14 |  |
 | [The Way I Feel](https://open.spotify.com/track/5HlZUTzAsbtQLo4VceKjlT) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Don't Know What I Am](https://open.spotify.com/album/1CoOf0yJ07K9GGKhGCsW0p) | 3:49 | 2022-11-25 | 2023-03-11 |
 | [This \# Is No Longer in Service](https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq) | [Swiss Army Wife](https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI) | [Medium Gnarly](https://open.spotify.com/album/79oAFuiihRnGlHXq7f3LAL) | 1:35 | 2023-01-25 | 2023-09-30 |
-| [Tofurkey Tough](https://open.spotify.com/track/3euvyTQL3FzbvL1MRJ2Y0M) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [Oolong](https://open.spotify.com/album/09FrmnTKU7jcO8bD5NMt1r) | 3:47 | 2024-12-18 |  |
+| [Tofurkey Tough](https://open.spotify.com/track/3euvyTQL3FzbvL1MRJ2Y0M) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [Oolong](https://open.spotify.com/album/09FrmnTKU7jcO8bD5NMt1r) | 3:47 | 2024-12-18 | 2024-12-24 |
 | [Tommy's Car](https://open.spotify.com/track/5uDuc1fGIpT8I8tCOu8WS4) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [For Nasal Use Only](https://open.spotify.com/album/3mPS4bR33MhYjjYnGxK48o) | 3:23 | 2022-11-25 | 2023-04-04 |
 | [Too Slow](https://open.spotify.com/track/3WLlV0VSN58XV0CQGc5Gou) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Too Slow](https://open.spotify.com/album/7KuDTDQQGfC5rVqt9J23rw) | 2:07 | 2024-01-22 | 2024-03-09 |
 | [Totally Cool](https://open.spotify.com/track/3SftY180mtXw6xQmAcmdU7) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Constant Springtime](https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb) | 2:39 | 2023-05-19 |  |

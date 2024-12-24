@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Paloma Mami",
-  "num_followers": 666587,
+  "num_followers": 666603,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 237908,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "A Veces A Besos",
-        "url": "https://open.spotify.com/album/63JayllHAHJ5N3auAorY2w"
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
         }
       ],
-      "duration_ms": 218613,
-      "name": "A Veces A Besos",
-      "url": "https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE"
+      "duration_ms": 221714,
+      "name": "Gitana (feat. Bryartz)",
+      "url": "https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Los Gangsters Tambien Lloran",
-        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
+        "name": "A Veces A Besos",
+        "url": "https://open.spotify.com/album/63JayllHAHJ5N3auAorY2w"
       },
       "artists": [
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Bryartz",
-          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 221714,
-      "name": "Gitana (feat. Bryartz)",
-      "url": "https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA"
+      "duration_ms": 218613,
+      "name": "A Veces A Besos",
+      "url": "https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "ETA",
-        "url": "https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "ETA",
-      "url": "https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Vive La Vida (Remix)",
         "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 237754,
       "name": "Vive La Vida - Remix",
       "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "ETA",
+        "url": "https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN"
     }
   ],
   "unique_name": "Vibras",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Cabelinho, Ivete Sangalo, Tarcísio do Acordeon e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,980,779 likes - 63 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,981,068 likes - 63 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

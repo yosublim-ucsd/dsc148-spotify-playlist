@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1302,
+  "num_followers": 1301,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAADq9AN9tR5N5A5UNQX+BBC8",
+  "snapshot_id": "Z2dWgAAAAACRZ3WbWYL29be248mpIs9m",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 200541,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Alright If You're Ok",
         "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 171938,
       "name": "I Can't Be Your Friend",
       "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 200541,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
     },
     {
       "added_at": null,

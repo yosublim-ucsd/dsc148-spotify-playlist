@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 6458,
+  "num_followers": 6477,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Cama Vacia",
-        "url": "https://open.spotify.com/album/6kjJgUCFPKSf7Tr27whxpe"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Cama Vacia",
-      "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Ke Sientes",
         "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 207146,
       "name": "Ke Sientes",
       "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Cama Vacia",
+        "url": "https://open.spotify.com/album/6kjJgUCFPKSf7Tr27whxpe"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "Cama Vacia",
+      "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1627,22 +1627,18 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Chernobyl",
-        "url": "https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn"
+        "name": "As\u00ed Como Suena",
+        "url": "https://open.spotify.com/album/1wA87ErH7eEi2C0brE2rvE"
       },
       "artists": [
         {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Estani",
-          "url": "https://open.spotify.com/artist/3LFsnZBpBCNTonHfGsW9HJ"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 143709,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A"
+      "duration_ms": 177720,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/7kGHK6l1CKog8aJNodtKcc"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1675,18 +1671,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "As\u00ed Como Suena",
-        "url": "https://open.spotify.com/album/1wA87ErH7eEi2C0brE2rvE"
+        "name": "Chernobyl",
+        "url": "https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Estani",
+          "url": "https://open.spotify.com/artist/3LFsnZBpBCNTonHfGsW9HJ"
         }
       ],
-      "duration_ms": 177720,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/7kGHK6l1CKog8aJNodtKcc"
+      "duration_ms": 143709,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A"
     },
     {
       "added_at": "2024-07-26 04:59:00",

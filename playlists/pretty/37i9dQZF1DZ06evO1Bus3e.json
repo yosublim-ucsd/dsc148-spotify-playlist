@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12222,
+  "num_followers": 12224,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAABsbnEvHLGr+xLd3x1wpkNV",
+  "snapshot_id": "Z2dWgAAAAABIxs8bqkipR+kO4Q69t5Td",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLATICAME DE TI (En Vivo)",
-        "url": "https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is"
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
+        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
       },
       "artists": [
         {
-          "name": "Mariachi Sol De Mi Tierra",
-          "url": "https://open.spotify.com/artist/6iHkaXDkUBYdOstTu1OoCE"
-        },
-        {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "GUILLERMO RAFAEL HERNANDEZ RAMOS",
-          "url": "https://open.spotify.com/artist/6TV8tWJXeXlIeQg8YrW0hE"
         }
       ],
-      "duration_ms": 174155,
-      "name": "PLATICAME DE TI - En Vivo",
-      "url": "https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr"
+      "duration_ms": 130470,
+      "name": "Cartel De Reyes",
+      "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
     },
     {
       "added_at": null,
@@ -355,18 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
-        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
+        "name": "PLATICAME DE TI (En Vivo)",
+        "url": "https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is"
       },
       "artists": [
         {
+          "name": "Mariachi Sol De Mi Tierra",
+          "url": "https://open.spotify.com/artist/6iHkaXDkUBYdOstTu1OoCE"
+        },
+        {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "GUILLERMO RAFAEL HERNANDEZ RAMOS",
+          "url": "https://open.spotify.com/artist/6TV8tWJXeXlIeQg8YrW0hE"
         }
       ],
-      "duration_ms": 130470,
-      "name": "Cartel De Reyes",
-      "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
+      "duration_ms": 174155,
+      "name": "PLATICAME DE TI - En Vivo",
+      "url": "https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr"
     },
     {
       "added_at": null,

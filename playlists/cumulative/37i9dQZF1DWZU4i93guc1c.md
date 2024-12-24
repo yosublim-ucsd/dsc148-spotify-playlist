@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Lely45
 
-227 songs - 11 hr 56 min
+228 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Dobroho ranku](https://open.spotify.com/track/2xfA5qFr0hbd1cXnNhwNUu) | [Zbaraski](https://open.spotify.com/artist/6EOVp4jyP5ovNOhqtJu7Eg) | [Dobroho ranku](https://open.spotify.com/album/47n464V7jEcpdMw4GWREB1) | 2:38 | 2024-07-12 | 2024-07-27 |
 | [Dopamine](https://open.spotify.com/track/32HdzDi2uXk2F2kMVM3GdZ) | [Entely](https://open.spotify.com/artist/5cFCsmewxHM5wQb55vhqTS), [Keay](https://open.spotify.com/artist/2HLvWnuUDbB4wNQaLLwbud) | [Dopamine](https://open.spotify.com/album/34z8xW6RkytWeiUVbdsPIV) | 3:09 | 2024-12-06 |  |
 | [Evidence](https://open.spotify.com/track/0lgw3WqZTvPxF0SD6qLy2Y) | [Aircraft](https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0) | [Evidence](https://open.spotify.com/album/3wbVUd1XQVEBnwoDyqgV2l) | 5:09 | 2024-10-18 | 2024-11-08 |
-| [GLASSS](https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [GLASSS](https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn) | 2:54 | 2024-06-27 |  |
+| [GLASSS](https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [GLASSS](https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn) | 2:54 | 2024-06-27 | 2024-12-24 |
 | [Hitaus](https://open.spotify.com/track/2oYJHfK9hEjXYfoWSshNao) | [Zbaraski](https://open.spotify.com/artist/6EOVp4jyP5ovNOhqtJu7Eg) | [Mene hitae](https://open.spotify.com/album/2T4nDwOEjtQhbAUjjUFtOG) | 3:15 | 2024-07-26 | 2024-08-24 |
 | [Illuminate](https://open.spotify.com/track/33j9HQeIEVzo1oCxQC4yN4) | [Entely](https://open.spotify.com/artist/5cFCsmewxHM5wQb55vhqTS), [Keay](https://open.spotify.com/artist/2HLvWnuUDbB4wNQaLLwbud) | [Illuminate](https://open.spotify.com/album/0vbAYgA0e7WagOOzvB2KXd) | 4:35 | 2024-11-07 | 2024-12-07 |
 | [la puta](https://open.spotify.com/track/2xj1W14h3B8lbAnvg8HKFU) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [la puta](https://open.spotify.com/album/3IDcvx5t8DNHDgEI2aNM0y) | 1:53 | 2024-12-06 |  |
@@ -176,6 +176,7 @@
 | [Сльози](https://open.spotify.com/track/5hctfulHiPJxVCVJipKgoT) | [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9) | [Сльози](https://open.spotify.com/album/5WwXxzhkEatEDwAAJoG6GW) | 3:39 | 2024-06-27 |  |
 | [сліди](https://open.spotify.com/track/5agHTSdfKI9jXYcyw0E7X7) | [хейтспіч](https://open.spotify.com/artist/2sdWfIbu9rLQ0p7MULuhxC), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [сліди](https://open.spotify.com/album/5hvjdpKtcPSg7Gbo2tEy7k) | 3:33 | 2024-06-27 | 2024-10-19 |
 | [СНИ](https://open.spotify.com/track/6pLnB6l1OcSFe0m2fgYmvu) | [vladislava melis](https://open.spotify.com/artist/2gEcWv6TRsyk1J7RGdWZnU) | [СНИ](https://open.spotify.com/album/0MKiTUrOtNHsV1XmXWT3xA) | 2:28 | 2024-06-27 | 2024-07-13 |
+| [Сніг](https://open.spotify.com/track/2h9c2sQlqHIDyxwSb7MPHJ) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [Сніг](https://open.spotify.com/album/2Sf7OJbNiU5hjAbAMeWOTj) | 3:24 | 2024-12-06 |  |
 | [Сон](https://open.spotify.com/track/2be9h8GzIiJeFHXlNU0H0k) | [FRSHMND](https://open.spotify.com/artist/6ZGfx3v95NePauM9BHhDfp) | [Сон](https://open.spotify.com/album/7vox4nfO9PzXZzlJUOaabu) | 2:40 | 2024-06-27 | 2024-07-13 |
 | [Спокійно так](https://open.spotify.com/track/6v1RD5haDZQ0bX7S4uKeTp) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd), [drumkid](https://open.spotify.com/artist/7jzPNwEtRJWiN9gXjDZZ4O) | [Спокійно так](https://open.spotify.com/album/3Fj1QogKrwKkAgJM2OJb7f) | 2:53 | 2024-10-04 | 2024-10-19 |
 | [Спочатку було Слово](https://open.spotify.com/track/5OeWN69Qzwd3pzpy6802Ot) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Ти \[Романтика\]](https://open.spotify.com/album/5iPSAtJk05Zfa8Mpitd0Af) | 4:01 | 2024-06-27 |  |

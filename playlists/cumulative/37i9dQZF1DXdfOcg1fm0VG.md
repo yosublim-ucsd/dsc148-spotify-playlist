@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-181 songs - 10 hr 19 min
+182 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [The Last of Us](https://open.spotify.com/track/285ieonEuLkll3zknYK2TY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 3:03 | 2021-12-15 |  |
 | [The Last of Us Part II](https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:52 | 2021-12-15 |  |
 | [The Light We Cast](https://open.spotify.com/track/2pdGvz2IWaw0ST2mAafKno) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 3:10 | 2021-12-15 | 2022-05-28 |
-| [The Lost Crown \(Prince of Persia\)](https://open.spotify.com/track/116jZYVgxrFurFTmo6pDgv) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Joznez](https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs), [Kataem](https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil) | [The Lost Crown \(Original Music for Prince of Persia\)](https://open.spotify.com/album/4LNnzY4srbB8ytC7Tb3PFS) | 3:19 | 2024-10-07 |  |
+| [The Lost Crown \(Prince of Persia\)](https://open.spotify.com/track/116jZYVgxrFurFTmo6pDgv) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Joznez](https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs), [Kataem](https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil) | [The Lost Crown \(Original Music for Prince of Persia\)](https://open.spotify.com/album/4LNnzY4srbB8ytC7Tb3PFS) | 3:19 | 2024-10-07 | 2024-12-24 |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2021-12-15 | 2022-03-15 |
 | [The Rebel Path](https://open.spotify.com/track/3m8UfZwPMMbiWfGR8Lg2cR) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077 \- Original Score](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp) | 4:10 | 2021-12-15 |  |
 | [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 | 2022-08-19 |  |
@@ -189,5 +189,6 @@
 | [Wind Guide You](https://open.spotify.com/track/5K6HZ4t7rUb2VbZqmBPPfY) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 9:05 | 2021-12-15 |  |
 | [Wyverndale's Theme](https://open.spotify.com/track/11gkYPiJmBqKyXstgFmgAX) | [Luc St\-Pierre](https://open.spotify.com/artist/06MZrFGmjWvAW2RXOlcxWu) | [For Honor: Year of Reckoning \(Original Game Soundtrack\)](https://open.spotify.com/album/0JRybfJ6X52gxLVdGNSenK) | 4:10 | 2021-12-15 |  |
 | [You Are The Resistance](https://open.spotify.com/track/4lm5D5pwWQt7kmPPoqIFAa) | [Boris Salchow](https://open.spotify.com/artist/23uF6RHHmL9otlRlThNjvi) | [Resistance 3 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/6ap0XCAb7IyoQbjWjxXKeT) | 1:47 | 2024-11-15 |  |
+| [Zelda's Lullaby \(Arr\. Clements for Vocal Ensemble & Harp\)](https://open.spotify.com/track/3EljV7yUSuuVcUQAzZSCtE) | [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Lise Vandersmissen](https://open.spotify.com/artist/0iMnYfFwxNUFp45FxlSpuC) | [Zelda's Lullaby \(Arr\. Clements for Vocal Ensemble & Harp\)](https://open.spotify.com/album/0y54gIwJbHdScbz7dJWAWh) | 2:59 | 2024-12-23 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

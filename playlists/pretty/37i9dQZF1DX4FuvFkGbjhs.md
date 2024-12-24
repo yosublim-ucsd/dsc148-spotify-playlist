@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,491 likes - 121 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,480 likes - 121 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 120 | [Satellite](https://open.spotify.com/track/0QVeYbIchvBmCRnBGGuWoD) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Satellite](https://open.spotify.com/album/7xAO8dJkj6XEuagSP6RZAc) | 3:25 |
 | 121 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 |
 
-Snapshot ID: `Z1t5IwAAAAAU81MxTmhsrF34nmu6lkSQ`
+Snapshot ID: `Z2nWFwAAAACfFyRZCt2kiND3Uc7ODNkz`

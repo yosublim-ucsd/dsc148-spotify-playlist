@@ -2,9 +2,9 @@
 
 ### [퓨전 국악 \(Fusion Korean National\)](https://open.spotify.com/playlist/37i9dQZF1DXbqEesmXsTTO)
 
-> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(Enjoy fusion Korean national music with various genres and instruments added!\)
+> 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: Black String \(블랙스트링\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-69 songs - 4 hr 38 min
+73 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Darkness \(feat\. 시유 & Uni\)](https://open.spotify.com/track/28yPbjZcDrmiO2yir4HkIC) | [50mang](https://open.spotify.com/artist/1vV7xlmiyiLLKxpQljKwSx), [시유](https://open.spotify.com/artist/50Unye9SH5F7kLJH7fmEyE), [Uni](https://open.spotify.com/artist/5mPXJAuH31NiMPJvqTeSv4) | [MAHI \(The Odds' Mischief\)](https://open.spotify.com/album/7h7MdtB0EEpjGGPh28BJW6) | 4:24 | 2023-09-26 |  |
 | [Difficult Love](https://open.spotify.com/track/3COuVim71pbexDPN6hkuf5) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Prelude](https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M) | [Korean Men](https://open.spotify.com/album/1RxHiOGUmdVAI3VUjtPqsi) | 4:27 | 2023-09-26 |  |
 | [Don't melt down](https://open.spotify.com/track/3L2GF5jxl1ZB67qX7gOnTr) | [BADAKSORI](https://open.spotify.com/artist/0nWb3fKXMD6GOyCDUiawDS) | [Don't melt down](https://open.spotify.com/album/6O0jUT3Lb6Qlsknj3ZUIHX) | 6:30 | 2023-09-26 |  |
+| [East Sea](https://open.spotify.com/track/5UJZveOgpoldBO7PdYH0vu) | [Black String](https://open.spotify.com/artist/4N1TfUASlxeKjUkL3omj99) | [Road Of Oasis](https://open.spotify.com/album/5RDHnjCKmXCD7u8b2544gs) | 4:04 | 2024-12-24 |  |
 | [farewell song](https://open.spotify.com/track/7F4j0ajE6AKZouEh33R52r) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [farewell song](https://open.spotify.com/album/24O48umyQCklMttrpWzHst) | 4:04 | 2023-09-26 |  |
 | [Feminication](https://open.spotify.com/track/204RjWbsftUZGoZ0Igl0kK) | [Soohyun Moon](https://open.spotify.com/artist/0Ds31z3SLBmoYAh6xE9NVA) | [Feminication](https://open.spotify.com/album/42zRChEq7NwqjDoF21p4FT) | 8:29 | 2023-09-26 |  |
 | [First step](https://open.spotify.com/track/666c6rbKhJ7fyzWj2IGUhj) | [Chosunblues](https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G) | [First step](https://open.spotify.com/album/0EABGUBK8xHyx3dY0nd66v) | 3:32 | 2023-09-26 |  |
@@ -49,7 +50,9 @@
 | [NOZANOZA](https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 5:01 | 2023-09-26 | 2024-04-19 |
 | [Ongheya](https://open.spotify.com/track/0A46uytgiwGuIqBWbUa3Wv) | [Gukjeondan](https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO) | [Ongheya](https://open.spotify.com/album/51ERJzQK3NtQvA85qThAAS) | 3:36 | 2023-09-26 |  |
 | [Peaceful Arirang](https://open.spotify.com/track/0Kj2VkWFRr6vqkWxJhvOJp) | [sEODo BAND](https://open.spotify.com/artist/3oMLo2XGQd7pzCssRNmDz6) | [Peaceful Arirang](https://open.spotify.com/album/44avudDdh2nZfOVhkE9Jsz) | 3:14 | 2023-09-26 |  |
+| [Pheasant GangGang](https://open.spotify.com/track/0MALDbb4ZNO8cAhopQv6AB) | [KIM LEE DANG](https://open.spotify.com/artist/6AoymB64kWmCMCahL1juvF) | [Pheasant GangGang](https://open.spotify.com/album/1o04bVkoGiZD4AYT6HNyAz) | 2:21 | 2024-12-24 |  |
 | [ride the wind \(feat\. Blank!d\)](https://open.spotify.com/track/0FrarKu8G7izoH2NuqPxDx) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer), [Blank!d](https://open.spotify.com/artist/18LCQDhzfktqMyKT8pqFQ3) | [ride the wind](https://open.spotify.com/album/2sHuTeFDcA5KegsWOc9hmz) | 5:07 | 2023-09-26 |  |
+| [Road of Oasis](https://open.spotify.com/track/2B3425OhY6XX39gBKI2k33) | [Black String](https://open.spotify.com/artist/4N1TfUASlxeKjUkL3omj99) | [Road Of Oasis](https://open.spotify.com/album/5RDHnjCKmXCD7u8b2544gs) | 10:01 | 2024-12-24 |  |
 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 | 2023-09-26 |  |
 | [sEcREt](https://open.spotify.com/track/5j01kyREle1q5e9xq3n2ah) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [sEcREt](https://open.spotify.com/album/4Zg5JPkF1JTVe8h2vewyZO) | 3:35 | 2023-09-26 |  |
 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 | 2023-09-26 |  |
@@ -59,6 +62,7 @@
 | [The Hill of Wind](https://open.spotify.com/track/6mGokSMBOqI9j2GUIt1mc2) | [ZanHyang](https://open.spotify.com/artist/6IDwXMIAeJtzVwmoncNLOM) | [The Hill of Wind](https://open.spotify.com/album/0NwYKvq8effYLOfOYdXHFG) | 4:39 | 2023-09-26 |  |
 | [THE RED MOOn](https://open.spotify.com/track/6NvUCMJhXPaHgKAMg304Np) | [EruhWa](https://open.spotify.com/artist/06WR19f8UHQhz53AYD2e1Q) | [THE RED MOOn](https://open.spotify.com/album/4RkR2sm03JD0Voz6nxhmQS) | 3:06 | 2023-09-26 |  |
 | [Things that stop me](https://open.spotify.com/track/16SruDdMS9yjBVZa5G6PJy) | [Suwa](https://open.spotify.com/artist/0RNLhrzL8kMllpnqMx9BAw) | [Daily Rutuals](https://open.spotify.com/album/2ZIgcSbVjZJD509EbtqPm2) | 4:20 | 2023-09-26 |  |
+| [Under The Moonlight](https://open.spotify.com/track/7jp8XdIIQx8m4L0uTvuDcP) | [DooMool](https://open.spotify.com/artist/3eCiiGcIxsJhrwEjhIFVAW) | [Under The Moonlight](https://open.spotify.com/album/6M0Z2vksoyDVMDvZOWV0tL) | 4:48 | 2024-12-24 |  |
 | [Wal Wal](https://open.spotify.com/track/2HB0ITiQEhBlxFBHURNzER) | [dunggi doobop project](https://open.spotify.com/artist/7ePNAdFlZK4TwRZhRfDVOh) | [dunggi doobop project](https://open.spotify.com/album/5ZanfdcvUYTrOFYZS5fpYl) | 3:17 | 2023-09-26 |  |
 | [Wind Blowing From The East](https://open.spotify.com/track/4nQxpwAHhLMZGG9g6HyFPB) | [Mago](https://open.spotify.com/artist/3JoAChLOYQem9dlwqaTW1t) | [Wind Blowing From The East](https://open.spotify.com/album/4yb06uEYQVKG8HpZdroRuz) | 4:38 | 2023-09-26 | 2024-04-19 |
 | [Wind Blowing From The East 동쪽에서 부는 바람](https://open.spotify.com/track/34LtGQ7tuZC9A3jdGxtnob) | [김신일\(Electreecity\)](https://open.spotify.com/artist/2r0sbNAu8c2hLlh0GuR9TS), [Mago 마고](https://open.spotify.com/artist/7dAsAiYMBahaIoSsm7cIGt) | [Wind Blowing From The East 동쪽에서 부는 바람](https://open.spotify.com/album/5yv7dPP2Z4lmGw1xSb2sCC) | 4:38 | 2024-03-21 |  |

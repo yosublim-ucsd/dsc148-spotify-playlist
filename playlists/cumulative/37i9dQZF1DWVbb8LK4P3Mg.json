@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: FIFTY FIFTY)",
+  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
   "name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "tracks": [
     {
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 246293,
       "name": "Fallin\u2019 in the Christmas love",
       "url": "https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF"
@@ -3710,6 +3710,24 @@
       "duration_ms": 106966,
       "name": "Warm wishes on christmas",
       "url": "https://open.spotify.com/track/1lzqz6Ac9YYAqfYo8076iU"
+    },
+    {
+      "album": {
+        "name": "SECRET SANTA",
+        "url": "https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228933,
+      "name": "WE X MAS",
+      "url": "https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4"
     },
     {
       "album": {

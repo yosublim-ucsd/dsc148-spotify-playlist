@@ -2,9 +2,9 @@
 
 ### [Christmas K\-Pop \(크리스마스 케이팝\)](https://open.spotify.com/playlist/37i9dQZF1DWVbb8LK4P3Mg)
 
-> Enjoy the wonderful holiday season with K\-Pop! \(Cover: FIFTY FIFTY\)
+> Enjoy the wonderful holiday season with K\-Pop! \(Cover: ONEWE\(원위\)\)
 
-222 songs - 12 hr 59 min
+223 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Fa La La](https://open.spotify.com/track/1MxfYcDldrmqS0ppZ1SyBd) | [Paul Kim](https://open.spotify.com/artist/0bltiPNSIpQP6rd6kKLUkn), [David So](https://open.spotify.com/artist/4UevYV5V4ebNHE6zpiVC3G), [Z.Woods](https://open.spotify.com/artist/6rbagiJwOJQAvDAOWs5zxW) | [The Christmas Sessions](https://open.spotify.com/album/5w49x3ZNF7DvYrrk8NpEyF) | 3:08 | 2021-12-21 | 2022-11-13 |
 | [Falling](https://open.spotify.com/track/3R4mRcH24Kw0iC5MDVNePA) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A), [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY), [Park Yunha](https://open.spotify.com/artist/34nTe3ixEmbYyzsiLJeEUq), [Park Jung Ah](https://open.spotify.com/artist/3DQ5KUdFYQn0hGkQFnthhf), [Kim Gyu Sun](https://open.spotify.com/artist/1HvRGOiUGvQUxCLwgcx4O8), [Kim Ye\-Won](https://open.spotify.com/artist/5W20UGfzUOyZyAnq5VAuqJ), [Ji Yul](https://open.spotify.com/artist/67N0u1LXlfqz51c7a78qPm) | [Jelly box Jelly Christmas 2016](https://open.spotify.com/album/2JloGurwfxIIk6vsLaulGf) | 4:09 | 2021-12-21 | 2022-07-29 |
 | [Falling](https://open.spotify.com/track/0KFQoeuppOmhNDcJzoqZyr) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A), [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY), [Park Yunha](https://open.spotify.com/artist/34nTe3ixEmbYyzsiLJeEUq), [Park JungA](https://open.spotify.com/artist/4aqjsIDcJwUVjq9vQbjlll), [Kim Gyu Sun](https://open.spotify.com/artist/1HvRGOiUGvQUxCLwgcx4O8), [Kim Ye\-Won](https://open.spotify.com/artist/5W20UGfzUOyZyAnq5VAuqJ), [Ji Yul](https://open.spotify.com/artist/67N0u1LXlfqz51c7a78qPm) | [Jelly Box Jelly Christmas 2016](https://open.spotify.com/album/5c4RIUO2CA2P0gUopDP3na) | 4:09 | 2021-12-21 | 2024-03-08 |
-| [Fallin’ in the Christmas love](https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF) | [NTX](https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL) | [X\-Present](https://open.spotify.com/album/6g8ILyk6RmulQbdosbetPg) | 4:06 | 2024-01-08 |  |
+| [Fallin’ in the Christmas love](https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF) | [NTX](https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL) | [X\-Present](https://open.spotify.com/album/6g8ILyk6RmulQbdosbetPg) | 4:06 | 2024-01-08 | 2024-12-24 |
 | [FIRST SNOW](https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [FIRST SNOW](https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK) | 3:15 | 2023-12-11 |  |
 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 | 2021-12-21 |  |
 | [FOCUS](https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [FOCUS](https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af) | 2:26 | 2021-12-21 |  |
@@ -190,6 +190,7 @@
 | [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 | 2023-01-10 |  |
 | [Warm wishes on christmas](https://open.spotify.com/track/0w5rkWapNdWfyCbXT8j3cS) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/4e3LtVVogcBvfdiaKHIPv0) | 1:46 | 2022-12-09 | 2023-11-24 |
 | [Warm wishes on christmas](https://open.spotify.com/track/1lzqz6Ac9YYAqfYo8076iU) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/1W7ehCzsS567jcOlWr9Mdi) | 1:46 | 2021-12-21 | 2022-12-03 |
+| [WE X MAS](https://open.spotify.com/track/0TiyQwSeqLubY97007Adg4) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [SECRET SANTA](https://open.spotify.com/album/6oaSE8X5SdxnuQlXpLkttH) | 3:48 | 2024-12-23 |  |
 | [welove Christmas](https://open.spotify.com/track/4lw7EB0UFAeK0FJHndNOeM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [welove Christmas](https://open.spotify.com/album/2ENjIrBqMnvvcuyb8yIEKS) | 2:45 | 2021-12-21 | 2023-12-08 |
 | [welove Christmas](https://open.spotify.com/track/4e7G7lhG4j0C6g0UX00Rej) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [welove Christmas](https://open.spotify.com/album/0VmQEAqP4FlTZRRWDO4KlN) | 2:45 | 2023-12-22 | 2024-02-13 |
 | [What I Want For Christmas](https://open.spotify.com/track/1f8y9dfpCSBW7BJRfOjop7) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [For Life \- Winter Special Album, 2016](https://open.spotify.com/album/2c0FB7FpgF1ORH5k5w32Ft) | 3:22 | 2021-12-21 | 2022-07-29 |

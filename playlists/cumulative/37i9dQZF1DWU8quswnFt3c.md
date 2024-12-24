@@ -2,7 +2,7 @@
 
 ### [Best of EQUAL 2024](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Our editors' top picks from EQUAL 2024 from across the globe\. Cover: Victoria
+> Our editors' top picks from EQUAL 2024 from across the globe\. Cover: Aitana
 
 2,175 songs - 5 day 0 hr 20 min
 

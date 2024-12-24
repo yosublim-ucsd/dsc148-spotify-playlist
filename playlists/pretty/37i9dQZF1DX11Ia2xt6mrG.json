@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
-  "num_followers": 60366,
+  "num_followers": 60401,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
         "name": "Alucina2",
         "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
       },
@@ -611,22 +595,38 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
       },
       "artists": [
         {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        }
+      ],
+      "duration_ms": 232542,
+      "name": "Of The Void",
+      "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -651,22 +651,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Hell",
-        "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         },
         {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 232542,
-      "name": "Of The Void",
-      "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -799,18 +799,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
       },
       "artists": [
         {
           "name": "Mario Santander",
           "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         }
       ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -991,22 +995,18 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
       },
       "artists": [
         {
           "name": "Mario Santander",
           "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         }
       ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1775,22 +1775,26 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Everybody Salsa (Andruss Remix)",
-        "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
+        "name": "Ancara Messi",
+        "url": "https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf"
       },
       "artists": [
         {
-          "name": "Dj Drew",
-          "url": "https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD"
+          "name": "Poniboy",
+          "url": "https://open.spotify.com/artist/3fs56TuW5WSYNOQi8wjRcd"
         },
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
         }
       ],
-      "duration_ms": 166620,
-      "name": "Everybody Salsa - Andruss Remix",
-      "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
+      "duration_ms": 193846,
+      "name": "Ancara Messi",
+      "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1815,26 +1819,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Ancara Messi",
-        "url": "https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf"
+        "name": "Everybody Salsa (Andruss Remix)",
+        "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
       },
       "artists": [
         {
-          "name": "Poniboy",
-          "url": "https://open.spotify.com/artist/3fs56TuW5WSYNOQi8wjRcd"
+          "name": "Dj Drew",
+          "url": "https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD"
         },
         {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        },
-        {
-          "name": "Go Golden Junk",
-          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         }
       ],
-      "duration_ms": 193846,
-      "name": "Ancara Messi",
-      "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
+      "duration_ms": 166620,
+      "name": "Everybody Salsa - Andruss Remix",
+      "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
     },
     {
       "added_at": "2024-12-06 17:24:21",

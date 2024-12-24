@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "\u00a1M\u00e1rquele secci\u00f3n! Los corridones tronando en vivo. Noel Torres, R\u00e9gulo Caro en portada.",
+  "description": "\u00a1M\u00e1rquele secci\u00f3n! Los corridones tronando en vivo. Grupo Firme, Los Tucanes de Tijuana en portada.",
   "name": "Corridos en Vivo",
   "tracks": [
+    {
+      "album": {
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219116,
+      "name": "15 Millones por el M (En Vivo)",
+      "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
+    },
     {
       "album": {
         "name": "25 De Diciembre",
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 172394,
       "name": "El Huevon - En Vivo",
       "url": "https://open.spotify.com/track/0XND7esAJ9J4BXubCsdhem"
@@ -1289,6 +1307,28 @@
     },
     {
       "album": {
+        "name": "El Mochomo (Live)",
+        "url": "https://open.spotify.com/album/3xGn4cLF44Yx2B9ujTCy3H"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176494,
+      "name": "El Mochomo - Live",
+      "url": "https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB"
+    },
+    {
+      "album": {
         "name": "El Pio Diaz (En Vivo)",
         "url": "https://open.spotify.com/album/1VwMNsPMe5wnVXP1OfhRLH"
       },
@@ -1304,7 +1344,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 209002,
       "name": "El Pio Diaz - En Vivo",
       "url": "https://open.spotify.com/track/1aOgFP2It3qMEX0UNuJpoQ"
@@ -1451,6 +1491,28 @@
     },
     {
       "album": {
+        "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
+        "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240292,
+      "name": "El Se\u00f1or De La Monta\u00f1a - Live",
+      "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
+    },
+    {
+      "album": {
         "name": "En Vivo EP, Vol. 1 (En vivo)",
         "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
       },
@@ -1466,6 +1528,24 @@
       "duration_ms": 219036,
       "name": "El Shadow - En vivo",
       "url": "https://open.spotify.com/track/752ewFkVffZbVoSfBXdNx3"
+    },
+    {
+      "album": {
+        "name": "El Tarasco",
+        "url": "https://open.spotify.com/album/6DvuanEXRcHjYT8a1i9q5P"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203701,
+      "name": "El Tarasco",
+      "url": "https://open.spotify.com/track/4ocz1XshZmLKI4hhX7n56k"
     },
     {
       "album": {
@@ -1532,7 +1612,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 146656,
       "name": "El Viejo Bravo (En Vivo)",
       "url": "https://open.spotify.com/track/3zlEe2n3ByzK0tuseDlY6m"
@@ -1580,6 +1660,28 @@
       "duration_ms": 223154,
       "name": "El Zorro (En Vivo)",
       "url": "https://open.spotify.com/track/0mt7jqwh0Fzk55JryaeHR6"
+    },
+    {
+      "album": {
+        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
+        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153221,
+      "name": "El \u00c1guila Blanca (En Vivo)",
+      "url": "https://open.spotify.com/track/4R5nSQMSaXs7okGyfdjb5H"
     },
     {
       "album": {
@@ -1799,6 +1901,46 @@
     },
     {
       "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Jorge Gamboa",
+          "url": "https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226283,
+      "name": "Jose Rocha Avenda\u00f1o",
+      "url": "https://open.spotify.com/track/4D29C1f6S2g6BjL2Ra13PH"
+    },
+    {
+      "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Joven Bragado",
+      "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
+    },
+    {
+      "album": {
         "name": "Julio Beltr\u00e1n (En Vivo)",
         "url": "https://open.spotify.com/album/5UwcbFsSXEbqWdQJy94Z0S"
       },
@@ -1854,6 +1996,24 @@
       "duration_ms": 161075,
       "name": "Kikil Caro - En Vivo",
       "url": "https://open.spotify.com/track/2oQSkBN2ug0pLvOkHqtt3J"
+    },
+    {
+      "album": {
+        "name": "La Caguama (En Vivo)",
+        "url": "https://open.spotify.com/album/3rtvlMIcJo2df2ruI22hLH"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135585,
+      "name": "La Caguama - En Vivo",
+      "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
     },
     {
       "album": {
@@ -2147,6 +2307,32 @@
     },
     {
       "album": {
+        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
+        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166720,
+      "name": "Las Heladas (En Vivo)",
+      "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
+    },
+    {
+      "album": {
         "name": "Las Pisteadas Del Vago",
         "url": "https://open.spotify.com/album/2CeLM9SGWfd5CHi16qNRwl"
       },
@@ -2294,10 +2480,32 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 182045,
       "name": "Los Cuartitos (En Vivo)",
       "url": "https://open.spotify.com/track/73XOOI8jTRXGLlLzequy3M"
+    },
+    {
+      "album": {
+        "name": "Los Demonios (En Vivo)",
+        "url": "https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242227,
+      "name": "Los Demonios (En Vivo)",
+      "url": "https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy"
     },
     {
       "album": {
@@ -2316,7 +2524,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 188660,
       "name": "Los Diamantones (En Vivo)",
       "url": "https://open.spotify.com/track/1Dcs4sIcWy5lne4ijVFvZS"
@@ -2440,6 +2648,28 @@
       "duration_ms": 255022,
       "name": "Los Sicarios de Joaqu\u00edn (En Vivo)",
       "url": "https://open.spotify.com/track/0GQuMOVI5kqgcWhy3iOPSJ"
+    },
+    {
+      "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Jorge Gamboa",
+          "url": "https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "Los Traficantes",
+      "url": "https://open.spotify.com/track/0qzfOBzqAWPIrPb4mmdkuE"
     },
     {
       "album": {
@@ -2690,7 +2920,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 173793,
       "name": "Polvo Soy",
       "url": "https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2"
@@ -2734,6 +2964,24 @@
       "duration_ms": 158626,
       "name": "Por Clave Caiman",
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
+    },
+    {
+      "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338511,
+      "name": "Promesa Cumplida",
+      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
     },
     {
       "album": {
@@ -2909,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "album": {
         "name": "En Vivo Con Servando ZL Vol. 3",
         "url": "https://open.spotify.com/album/4DxjpnbDqmWki8TfB5PAMz"
       },
@@ -3066,7 +3332,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 172227,
       "name": "Vamos Para Arriba",
       "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
@@ -3110,7 +3376,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 194516,
       "name": "Yo Soy Quien Soy (En Vivo)",
       "url": "https://open.spotify.com/track/6gEluRhJsIkZrf69R17eiF"

@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 195882,
       "name": "Amor del bueno",
       "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 153887,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 195541,
       "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
       "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 263600,
       "name": "ella brilla",
       "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
@@ -3039,6 +3039,28 @@
     },
     {
       "album": {
+        "name": "Leaveyourlove (with MARO)",
+        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214446,
+      "name": "Leaveyourlove (with MARO)",
+      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
@@ -3703,6 +3725,24 @@
     },
     {
       "album": {
+        "name": "No es el momento",
+        "url": "https://open.spotify.com/album/2ITDn2tR0KFmRwZAh0gmMd"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Parrado",
+          "url": "https://open.spotify.com/artist/41sqYvXOn3ATsAQ65G1zx6"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "No es el momento",
+      "url": "https://open.spotify.com/track/5xOfDQ6Tiao8QXBEN49KSM"
+    },
+    {
+      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/5HYPXY6FQXg2pQkOY2Tygw"
       },
@@ -3816,6 +3856,24 @@
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
+    },
+    {
+      "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "No Se Preocupe",
+      "url": "https://open.spotify.com/track/5kxINGPGRziL4ja8KjBoAN"
     },
     {
       "album": {
@@ -4079,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "album": {
         "name": "Someday Tomorrow Maybe",
         "url": "https://open.spotify.com/album/6ECJjotZuyQKgw3VtMWpVy"
       },
@@ -4238,6 +4314,28 @@
       "duration_ms": 223746,
       "name": "Paper Aeroplane",
       "url": "https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d"
+    },
+    {
+      "album": {
+        "name": "que no te falte de na",
+        "url": "https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202546,
+      "name": "par d ni\u00f1os",
+      "url": "https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28"
     },
     {
       "album": {
@@ -4404,6 +4502,28 @@
       "duration_ms": 184712,
       "name": "Pudo haber sido",
       "url": "https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ"
+    },
+    {
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
     },
     {
       "album": {
@@ -4698,7 +4818,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
@@ -5162,6 +5282,24 @@
       "duration_ms": 179642,
       "name": "still",
       "url": "https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H"
+    },
+    {
+      "album": {
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "album": {
@@ -5916,7 +6054,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 210733,
       "name": "With Or Without You - Jo Whiley Show - BBC Live Session",
       "url": "https://open.spotify.com/track/2JZUW0wQcUYr7NW7itcHef"
@@ -5952,7 +6090,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 124365,
       "name": "yo as\u00ed",
       "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"

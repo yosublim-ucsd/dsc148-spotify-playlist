@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-465 songs - 1 day 2 hr 8 min
+466 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-17 | 2024-01-20 |
 | [Dil yeh mera](https://open.spotify.com/track/75FFYq4zjscYgpWSLrcj1X) | [Prasad Aalim](https://open.spotify.com/artist/472d15meTJCz0GzJel8SF6) | [Dil yeh mera](https://open.spotify.com/album/13oAQqhmMpDVPGTgDbZsV2) | 4:00 | 2023-06-15 | 2023-12-19 |
 | [Dilasey \- Stripped](https://open.spotify.com/track/3tBq6098N2lJgn4M1teUFy) | [Raas](https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu), [Sonalika Verma](https://open.spotify.com/artist/6630QOzOF3QYY6BwB3ZFRu) | [Dilasey \(Stripped\)](https://open.spotify.com/album/2INEk8a7RiIvnvL0uZ9D4J) | 3:51 | 2023-06-20 | 2023-07-29 |
+| [Do Kadam](https://open.spotify.com/track/5CS1fDgk3HzMcOVXReT0mx) | [Mohit dogra](https://open.spotify.com/artist/0YhaFoYZeuu2Bnuf2EnjVH) | [Do Kadam](https://open.spotify.com/album/330MWDrYiPvDAkjagR7bzD) | 2:54 | 2024-12-23 |  |
 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 | 2023-08-04 | 2024-01-20 |
 | [Doobie Do](https://open.spotify.com/track/5VLWcMO2ouunSZP7zmDrz6) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Doobie Do](https://open.spotify.com/album/333sIAKoYJ09tNV3vcpJTz) | 2:42 | 2023-05-26 | 2023-06-15 |
 | [Doorie](https://open.spotify.com/track/3CkXsLQbfU0dDPp10a7FVJ) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi), [U K D](https://open.spotify.com/artist/2Nmoa6Hzb6eF1egjM76rjK) | [Doorie](https://open.spotify.com/album/28pI0qUgSonCHteYEsLyJ2) | 3:39 | 2024-02-23 | 2024-07-19 |
@@ -377,7 +378,7 @@
 | [Shikayatein](https://open.spotify.com/track/0Gf0s7zHB6mC72fSnUEVKr) | [Abhimanyu Sharma](https://open.spotify.com/artist/1023HBlUsOPyfK5et4fspo) | [Shikayatein](https://open.spotify.com/album/1unKBXd0KUTMzsybQHFBBg) | 4:43 | 2024-05-13 | 2024-09-04 |
 | [Shikwe Gile \- Live](https://open.spotify.com/track/1iJz2tL0JkK7Q2HjJKUzli) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shikwe Gile \(Live\)](https://open.spotify.com/album/0q1R5J48FwvvLT2HW3RW0a) | 2:32 | 2024-11-29 |  |
 | [Sochu](https://open.spotify.com/track/651OglmdGFaRT2W47hx696) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Sochu](https://open.spotify.com/album/4fhXeH4ZHxUrOsndsziT1f) | 3:22 | 2024-02-20 | 2024-07-16 |
-| [Sorry](https://open.spotify.com/track/6S7bu8sgZUFpUwLYWOSKzj) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Sorry](https://open.spotify.com/album/1Ng2fXRfEI6IerCgiF5KNs) | 3:26 | 2024-11-27 |  |
+| [Sorry](https://open.spotify.com/track/6S7bu8sgZUFpUwLYWOSKzj) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Sorry](https://open.spotify.com/album/1Ng2fXRfEI6IerCgiF5KNs) | 3:26 | 2024-11-27 | 2024-12-24 |
 | [Subah Ho Tumse](https://open.spotify.com/track/1jNa2Lt10Wbk7UrIL8NX4Q) | [Arjama B](https://open.spotify.com/artist/6Acn0Zzbjp4vmtxZgqetpy), [Shubham S](https://open.spotify.com/artist/3X279yEg4gaZ7DHunJZp5R) | [Subah Ho Tumse](https://open.spotify.com/album/5ULEZrp97201TZQVUajtoj) | 3:01 | 2024-11-22 | 2024-12-06 |
 | [Suljhey](https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Suljhey](https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF) | 3:17 | 2024-12-05 |  |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-26 |  |

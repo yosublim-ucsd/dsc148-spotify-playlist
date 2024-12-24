@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,114 songs - 6 day 1 hr 11 min
+2,115 songs - 6 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1102,7 +1102,7 @@
 | [Love Will Tear Us Apart](https://open.spotify.com/track/3FYnFqxfRBeAHdBRExnaUZ) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz), [Tim Phillips](https://open.spotify.com/artist/0prMdgdyCmPmrmPQ5Sgf5h) | [Bad Sisters \(Season 2\) \[Original Series Soundtrack\]](https://open.spotify.com/album/0s3OVD9QWfP6cEdG1K5FGj) | 3:01 | 2024-11-15 | 2024-12-07 |
 | [Love's Got A Hold On Me \- 2024 Remaster](https://open.spotify.com/track/6H6CNp67xOzUKGjPBE3VGw) | [Jim Capaldi](https://open.spotify.com/artist/1XIbUq7y7kiMUhmp5dywGx), [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [The Outside Years](https://open.spotify.com/album/26BCrVrvjBIG32RHr8k7rC) | 3:48 | 2024-02-16 | 2024-02-25 |
 | [Lover](https://open.spotify.com/track/3RlanDLlIDDQPe6dVIkyUl) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Taylor Swift](https://open.spotify.com/album/4f5ciuGccXCtsdwfZkpGq3) | 3:48 | 2024-02-16 | 2024-03-10 |
-| [Lovers and Strangers](https://open.spotify.com/track/57xBvgh1LKFkzcQtlSFvMt) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Some Dreams](https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx) | 5:42 | 2024-12-13 |  |
+| [Lovers and Strangers](https://open.spotify.com/track/57xBvgh1LKFkzcQtlSFvMt) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Some Dreams](https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx) | 5:42 | 2024-12-13 | 2024-12-24 |
 | [Lovin', Touchin', Squeezin' \- Live](https://open.spotify.com/track/3rBcbq8RGfo2ytEyjMOs0i) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Catch The Sun \(Live Tokyo '80\)](https://open.spotify.com/album/1WPM8sZgB28yaJHqg34FbP) | 4:43 | 2023-12-01 | 2023-12-06 |
 | [LOW](https://open.spotify.com/track/76HeRbTvaAMjE8abMYBskQ) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [LOW](https://open.spotify.com/album/1TW9CQwdnOC1PFXfL0RIoY) | 3:14 | 2023-03-31 | 2023-04-22 |
 | [Lucero](https://open.spotify.com/track/2VT5GfzNkU69TCNxpTvwXs) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Drama](https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb) | 3:28 | 2023-10-27 | 2023-11-02 |
@@ -1607,6 +1607,7 @@
 | [Solo aquí](https://open.spotify.com/track/6hrrRm85nTzBUspfe3hJQA) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Solo aquí](https://open.spotify.com/album/1boBMKuKLEed5STcnSnUDJ) | 2:33 | 2024-03-15 | 2024-04-07 |
 | [Solo Dios lo Sabe](https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Solo Dios lo Sabe](https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv) | 2:45 | 2023-05-05 | 2023-05-28 |
 | [Solstice Kiss \- Edit](https://open.spotify.com/track/76LCIaNYeDAFoXLL5LrPEw) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Solstice Kiss](https://open.spotify.com/album/6ihYiCl6WdpP6ezri0SfW3) | 3:19 | 2023-06-30 | 2023-07-30 |
+| [Some Dreams](https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Some Dreams](https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx) | 4:48 | 2024-12-20 |  |
 | [Someone Somewhere In Summertime \- Live From Paisley Abbey](https://open.spotify.com/track/2nqt3SX6n7CV425P2cmd9i) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Someone Somewhere In Summertime \(Live From Paisley Abbey\)](https://open.spotify.com/album/586SK2hZx26UoQ3oyTOZEs) | 4:56 | 2023-08-25 | 2023-09-07 |
 | [Someone's Daughter, Someone's Son](https://open.spotify.com/track/2OFmXtz8iAjqhRZF4zrxb9) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Someone's Daughter, Someone's Son](https://open.spotify.com/album/1pCxbUrnRHbLMtdaFIFHtB) | 4:11 | 2024-03-08 | 2024-04-07 |
 | [Something Beautiful \- 2023 Version](https://open.spotify.com/track/2p2BsulfyMgpXDwlz9RfpO) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Something Beautiful \(2023 Version\)](https://open.spotify.com/album/3uRWZz7ECikDn9DecNMXjB) | 5:16 | 2023-09-29 | 2023-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,485 likes - 153 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,493 likes - 153 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 147 | [Wala Nang Pipigil](https://open.spotify.com/track/4oQiBasWqTHdwjLCf3Aisu) | [Musicians On Fire](https://open.spotify.com/artist/7Ggr2dsNBVyD18r151SA52) | [Wala Nang Pipigil](https://open.spotify.com/album/32d4XVfu9ajHIPJYrcWksw) | 5:26 |
 | 148 | [Far Greater Love](https://open.spotify.com/track/0Nx53o4TyKSpnTiQ0MAiEj) | [Arman Ferrer](https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7), [Toto Sorioso](https://open.spotify.com/artist/3vFDvFtR8VKEITzDa2ddKe) | [Far Greater Love](https://open.spotify.com/album/5SV09W7HxgLw6ETLhNrF6q) | 4:10 |
 | 149 | [Mountains Move \(feat\. Caleb Garrard\)](https://open.spotify.com/track/4IOngFt4l4g9popoFAmzNx) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Caleb Garrard](https://open.spotify.com/artist/61brekFO6Ba9eFHExpnbmv) | [Mountains Move \(feat\. Caleb Garrard\)](https://open.spotify.com/album/59rRx2VhMQBsM0JFfGeNyQ) | 4:42 |
-| 150 | [You Love Me](https://open.spotify.com/track/7g67o2O78IMYMzkmopN2e6) | [KJ](https://open.spotify.com/artist/71D8L6gZO2xM7SrFWCrddr) | [You Love Me](https://open.spotify.com/album/0IE9KpCYmg6YYy3jZxJNwE) | 4:11 |
+| 150 | [You Love Me](https://open.spotify.com/track/7g67o2O78IMYMzkmopN2e6) | [KJ](https://open.spotify.com/artist/7v8caymX9Q7TnhDmXCUOh6) | [You Love Me](https://open.spotify.com/album/0IE9KpCYmg6YYy3jZxJNwE) | 4:11 |
 | 151 | [Trust in You \- Renewed](https://open.spotify.com/track/4cOAWfJIUmybRvbhX3LHBx) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Trust in You \(Renewed\)](https://open.spotify.com/album/05fAHM2ARLtd0DEDfXmNmF) | 4:38 |
 | 152 | [I Can Live Again \(Reimagined\)](https://open.spotify.com/track/4BNZyOQEWDrnpltb4IjKjV) | [thelukasband](https://open.spotify.com/artist/6QZIw3ZNQkMlypwr0xkwKE), [Julz Savard](https://open.spotify.com/artist/4zqtMz5qTefYQAwhQg3rUt) | [I Can Live Again \(Reimagined\)](https://open.spotify.com/album/7CpXmwCa0CRjBfBTCuse2Y) | 3:52 |
 | 153 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |

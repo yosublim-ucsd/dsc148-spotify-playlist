@@ -1875,6 +1875,36 @@
     },
     {
       "album": {
+        "name": "Contemplation - Gounod: Rom\u00e9o et Juliette: Ballade de la reine Mab",
+        "url": "https://open.spotify.com/album/4htF4zQTbPNFsCmrOBfRaE"
+      },
+      "artists": [
+        {
+          "name": "Charles Gounod",
+          "url": "https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui"
+        },
+        {
+          "name": "Huw Montague Rendall",
+          "url": "https://open.spotify.com/artist/1IJvOLUDeldjC9Kwr9uh9m"
+        },
+        {
+          "name": "Ben Glassberg",
+          "url": "https://open.spotify.com/artist/52P7S7AfcrT8ZmHaTWqXaQ"
+        },
+        {
+          "name": "Op\u00e9ra Orchestre Normandie Rouen",
+          "url": "https://open.spotify.com/artist/3UtdDboCFsB0ZAFSmR3Otj"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152693,
+      "name": "Gounod: Rom\u00e9o et Juliette, Act 1: Ballade. \"Mab, la reine des mensonges\" (Mercutio)",
+      "url": "https://open.spotify.com/track/0rWwC5NVwQAOsfgt2HNMKP"
+    },
+    {
+      "album": {
         "name": "Turnage: Greek",
         "url": "https://open.spotify.com/album/4PU8fB1V1a5y13hV3PVMKu"
       },
@@ -2836,6 +2866,36 @@
       "duration_ms": 318653,
       "name": "La Boh\u00e8me / Act 1: \"S\u00ec. Mi chiamano Mim\u00ec\" - Live",
       "url": "https://open.spotify.com/track/3bnsBfPcpsCT60fs7R2M02"
+    },
+    {
+      "album": {
+        "name": "Puccini: La boh\u00e8me, Act I: Che gelida manina",
+        "url": "https://open.spotify.com/album/4mW8OyPXEga5KJCTgGjFKJ"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Freddie De Tommaso",
+          "url": "https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Edward Gardner",
+          "url": "https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "La boh\u00e8me, Act I: Che gelida manina",
+      "url": "https://open.spotify.com/track/7oyzo55RTNuAJLOIKc4Fdf"
     },
     {
       "album": {

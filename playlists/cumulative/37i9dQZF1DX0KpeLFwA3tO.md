@@ -2,9 +2,9 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: Death By Unga Bunga
+> The best new music from the wide world of punk\. Cover: The Velveteers
 
-2,199 songs - 4 day 13 hr 51 min
+2,202 songs - 4 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-17 | 2022-02-04 |
 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 | 2024-01-05 | 2024-02-23 |
 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 | 2023-01-27 | 2023-03-25 |
+| [30 Moons](https://open.spotify.com/track/5JleAjQmp8pI3p5ioscZ9I) | [Letterbombs](https://open.spotify.com/artist/3BTpUmfVOeZqlkreMwpysy) | [30 Moons](https://open.spotify.com/album/6JchpmAeComIWPrRDsedFy) | 1:13 | 2024-12-23 |  |
 | [3am](https://open.spotify.com/track/7mPIYg1KJ9AxPbEuyYPQMp) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [3am](https://open.spotify.com/album/3At1UsWZDlq5AyKM2JT2zC) | 0:51 | 2024-10-04 |  |
 | [40 winks](https://open.spotify.com/track/0yrju5I0Ps2ISUVe8Am9wG) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [40 winks](https://open.spotify.com/album/2yI440qYYQfWpUuNd5xAt6) | 2:45 | 2023-02-03 | 2023-03-31 |
 | [47.](https://open.spotify.com/track/12tsAy57sjPGpFlo56ejHo) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Closer To;](https://open.spotify.com/album/34Bv0P1zXTnqLkL0B4ykXV) | 3:27 | 2024-11-22 |  |
@@ -1371,6 +1372,7 @@
 | [Oldest Daughter](https://open.spotify.com/track/2xnpoelpkXaxbtS5lHEHIi) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Oldest Daughter](https://open.spotify.com/album/0fSbo7YSSjigl9A125Uxhv) | 3:19 | 2022-04-21 | 2022-06-18 |
 | [Omens \(feat\. Spencer Chamberlain\)](https://open.spotify.com/track/3fztnHcEJ8xjtCONtN2qMg) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Out of Light](https://open.spotify.com/album/5ltB1kwrCDqYclK0hcoIge) | 3:45 | 2022-05-26 | 2022-07-15 |
 | [On a Grave](https://open.spotify.com/track/1NHXt1fYAfFptko6m0g5HX) | [Between Bodies](https://open.spotify.com/artist/4c9as8vPweJK4VD8JvdjQr) | [On a Grave](https://open.spotify.com/album/6twhdW8vyCwUOkM7QQf3SZ) | 3:53 | 2022-07-21 | 2022-09-09 |
+| [On And On](https://open.spotify.com/track/3yGvuM7ZiPgjGbicd90rty) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [On And On](https://open.spotify.com/album/1smjM1eRoFGGHWJjtq4hrO) | 2:26 | 2024-12-23 |  |
 | [ON CUM](https://open.spotify.com/track/1saCtD8jHpfM1Fmy7UbHtm) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [ON CUM](https://open.spotify.com/album/6InVgPYngkkYtQXzZ9Ke2C) | 5:25 | 2024-04-25 | 2024-06-21 |
 | [On My Own](https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [On My Own](https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO) | 4:15 | 2022-09-29 | 2022-11-18 |
 | [On The Brink](https://open.spotify.com/track/3pZkECxp728z1JKMG9nHYK) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [On The Brink](https://open.spotify.com/album/39bVJ3bstQjSHazht9mNct) | 1:48 | 2024-11-08 |  |
@@ -2182,6 +2184,7 @@
 | [Yellow Green](https://open.spotify.com/track/5JJcKhUALMKWz9VDUInNld) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Yellow Green](https://open.spotify.com/album/2s9EeTNm6Xo0EnEDfc4uUZ) | 2:35 | 2022-01-21 | 2022-02-25 |
 | [Yo Homo](https://open.spotify.com/track/0VsjCGFUsf5EydQvlIg0k4) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Yo Homo](https://open.spotify.com/album/6BFEkqiI3CAxHLMWxyR0W0) | 3:42 | 2024-06-06 | 2024-11-08 |
 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 | 2024-08-15 | 2024-10-11 |
+| [You](https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cult Classic](https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG) | 3:42 | 2024-12-23 |  |
 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 | 2023-10-19 | 2024-01-12 |
 | [You Don't Know](https://open.spotify.com/track/6YmDcqO9H259HAakFwP64w) | [Topsy Turvy's](https://open.spotify.com/artist/1uFRoP0MCfPkKzA5usrdQn) | [You Don't Know](https://open.spotify.com/album/5XYICzIxzSs9wQnBUveDiO) | 3:03 | 2022-11-11 | 2023-02-17 |
 | [YOU DONT EVEN SURF HERE](https://open.spotify.com/track/1bP1YIIORwvDEFx9hPEBzc) | [Destructo Disk](https://open.spotify.com/artist/2kc0DEfYci8CKkvQmnivj9) | [YOU DONT EVEN SURF HERE](https://open.spotify.com/album/7Jq8Qi0zcMMUsUf7NfrcyT) | 2:34 | 2022-02-04 | 2022-03-18 |

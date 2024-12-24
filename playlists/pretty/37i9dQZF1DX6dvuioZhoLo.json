@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 307829,
+  "num_followers": 307864,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Field Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Diamond Joe",
-      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+        "name": "Field Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
+      "duration_ms": 156000,
+      "name": "Diamond Joe",
+      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -891,6 +875,22 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
+      },
+      "artists": [
+        {
+          "name": "Gold Child",
+          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Playing Old Games",
         "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 209880,
       "name": "Playing Old Games",
       "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
-      },
-      "artists": [
-        {
-          "name": "Gold Child",
-          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
-        }
-      ],
-      "duration_ms": 220571,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 199991,
+      "name": "Nothing Wrong with Texas",
+      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Dear John",
         "url": "https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 170960,
       "name": "Howard Hughes Blues",
       "url": "https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 199991,
-      "name": "Nothing Wrong with Texas",
-      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Love All Night (Work All Day)",
-        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "True Love's Face",
         "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 200480,
       "name": "True Love's Face",
       "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Love All Night (Work All Day)",
+        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Blue Jeans & Barstools",
-        "url": "https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k"
-      },
-      "artists": [
-        {
-          "name": "Elijah Ocean",
-          "url": "https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS"
-        }
-      ],
-      "duration_ms": 180946,
-      "name": "I Left My One Spot (Back at the 5 Spot)",
-      "url": "https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Dead Ringer",
         "url": "https://open.spotify.com/album/2BAv3kF9WZY4KasAvMVeHo"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 250333,
       "name": "Looking for Trouble",
       "url": "https://open.spotify.com/track/2xD4DFnrn91xLuy4M7Yxt0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Blue Jeans & Barstools",
+        "url": "https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k"
+      },
+      "artists": [
+        {
+          "name": "Elijah Ocean",
+          "url": "https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS"
+        }
+      ],
+      "duration_ms": 180946,
+      "name": "I Left My One Spot (Back at the 5 Spot)",
+      "url": "https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx"
     },
     {
       "added_at": "2024-07-12 04:00:00",

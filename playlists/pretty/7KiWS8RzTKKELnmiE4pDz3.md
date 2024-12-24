@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 171 songs - 8 hr 28 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 177 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,5 +179,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 169 | [ON 1](https://open.spotify.com/track/4K7qziboa9VHtqCCFutDgm) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 3:04 |
 | 170 | [BIG](https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:45 |
 | 171 | [Bitch Let's Do It](https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:05 |
+| 172 | [Win Wit Us](https://open.spotify.com/track/0o1hJ1uZKIMPh18R7MiCp8) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 2:37 |
+| 173 | [Hard To Handle](https://open.spotify.com/track/2pNQZGRG9V4HoeJW05vk8b) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:35 |
+| 174 | [Seven Million \(feat\. Future\)](https://open.spotify.com/track/6j0teRL3WdExzqmy334sh5) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:02 |
+| 175 | [Trap It Out](https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:17 |
+| 176 | [Hater Shit](https://open.spotify.com/track/05GDlYBejzsmn3diyYWpHW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:04 |
+| 177 | [Really Real](https://open.spotify.com/track/7jLhffXVyuXTcLvmSIOj2t) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery Reloaded](https://open.spotify.com/album/2ICKltX9OGtxTfHVYtpzCH) | 3:07 |
 
-Snapshot ID: `AAAdzM9F0acLyoOszlRnnsLdscN3k0oW`
+Snapshot ID: `AAAd0o9s8In2W4Xpm3M7cKMGPxwfhb7Y`

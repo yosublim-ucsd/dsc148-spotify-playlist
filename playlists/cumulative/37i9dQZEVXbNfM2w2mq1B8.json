@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 219545,
       "name": "1 \u043c\u0438\u043b\u0438\u043e\u043d",
       "url": "https://open.spotify.com/track/7fmP2URec1aLre8J5ce5Gp"
@@ -5908,7 +5908,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 193440,
       "name": "Da Si Plashtal",
       "url": "https://open.spotify.com/track/1u8eHkUmd6VCRTVZQ7JKX1"
@@ -5966,7 +5966,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 170769,
       "name": "Dale Baby",
       "url": "https://open.spotify.com/track/1zK1hzNzGlKcVKdxkp0Rcv"
@@ -9336,7 +9336,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -12088,7 +12088,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
@@ -13868,7 +13868,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -21730,7 +21730,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 145377,
       "name": "Po belyo",
       "url": "https://open.spotify.com/track/1cQSWf9rXNMuOcVm15TP2w"
@@ -24934,7 +24934,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 200000,
       "name": "Siromah",
       "url": "https://open.spotify.com/track/0P9t4y8niPdEfQdtIuqWJK"
@@ -27968,7 +27968,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -32818,7 +32818,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 178356,
       "name": "\u0411\u043e\u043c, \u0411\u043e\u043c",
       "url": "https://open.spotify.com/track/42z5ag3XE4nIApxnqnRCCO"
@@ -33178,7 +33178,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -34833,6 +34833,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
+        "url": "https://open.spotify.com/album/5VBSe7KYebMlPsrDoETNul"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188780,
+      "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
+      "url": "https://open.spotify.com/track/0b2D7UMjaaIYJndNYBbdRU"
+    },
+    {
+      "album": {
         "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
         "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
       },
@@ -35362,7 +35380,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 205347,
       "name": "\u041d\u0435, \u043c\u0435\u0440\u0441\u0438 - Single",
       "url": "https://open.spotify.com/track/1bwLTopYsL8A0j0fg7fi79"
@@ -35482,7 +35500,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 188373,
       "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
       "url": "https://open.spotify.com/track/7KMmaDOUgX7xg6boaunE6Q"
@@ -36130,6 +36148,24 @@
       "duration_ms": 167210,
       "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
       "url": "https://open.spotify.com/track/3bEbRxixvEVlEVIgvepXcg"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0438\u0442\u0430\u0448 \u043b\u0438 \u043c\u0435",
+        "url": "https://open.spotify.com/album/2wiHKbihm8cm4UTRebBDaE"
+      },
+      "artists": [
+        {
+          "name": "Tsvetelina Yaneva",
+          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "\u041f\u0438\u0442\u0430\u0448 \u043b\u0438 \u043c\u0435",
+      "url": "https://open.spotify.com/track/4np8dpfv5qahhkOSzgsMFL"
     },
     {
       "album": {
@@ -37474,7 +37510,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 205263,
       "name": "\u0427\u0435\u0441\u0442\u0438\u0442\u043e, \u0441\u043a\u044a\u043f\u0438!",
       "url": "https://open.spotify.com/track/6eACv4nBj96TX5OjJW5QkO"

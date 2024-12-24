@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0vml9J1KnyK1d5GYq0Yw7W"
+      },
+      "artists": [
+        {
+          "name": "Sailor & I",
+          "url": "https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0GbMAovDlF0TiBjsL1zWO8"
+    },
+    {
+      "album": {
         "name": "All Around The World (with Duckwrth)",
         "url": "https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt"
       },
@@ -4171,6 +4189,32 @@
     },
     {
       "album": {
+        "name": "Fauxllennium",
+        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250624,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6QS2LVMAXz7FmjYxWGJU8M"
+    },
+    {
+      "album": {
         "name": "Butterflies (with Starrah & Four Tet)",
         "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
       },
@@ -5440,6 +5484,24 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM"
+    },
+    {
+      "album": {
+        "name": "CLUB VENUS",
+        "url": "https://open.spotify.com/album/0d1K1TjKrqfJ9giK6Vja6l"
+      },
+      "artists": [
+        {
+          "name": "Ania Hoo",
+          "url": "https://open.spotify.com/artist/141bAnJhsORNsCW1biNRvL"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198345,
+      "name": "CLUB VENUS",
+      "url": "https://open.spotify.com/track/2u59qcbLQS07RZQSkjv4qC"
     },
     {
       "album": {
@@ -9064,7 +9126,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 162210,
       "name": "FALLING",
       "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
@@ -10274,7 +10336,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 177969,
       "name": "Forward (Foot by Foot)",
       "url": "https://open.spotify.com/track/3Ng8QEtUMYJMfNyJa0rvod"
@@ -11474,7 +11536,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 191065,
       "name": "Got to Change",
       "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
@@ -18257,6 +18319,24 @@
     },
     {
       "album": {
+        "name": "L\u00f8veskatt",
+        "url": "https://open.spotify.com/album/4brikg7YkZMYyXuIIQptE1"
+      },
+      "artists": [
+        {
+          "name": "Ora the Molecule",
+          "url": "https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287185,
+      "name": "L\u00f8veskatt",
+      "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
+    },
+    {
+      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -24929,6 +25009,24 @@
     },
     {
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229694,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w"
+    },
+    {
+      "album": {
         "name": "shine",
         "url": "https://open.spotify.com/album/1oblVh0UrovPi0BT5Mje3E"
       },
@@ -28204,7 +28302,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 187411,
       "name": "the one",
       "url": "https://open.spotify.com/track/7uMYonMYj4tEejKqnRBqfV"
@@ -31930,7 +32028,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 189268,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/3ZbYyZUNaMmJ8JsiaC3zFp"

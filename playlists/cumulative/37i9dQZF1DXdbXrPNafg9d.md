@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Tom Misch
 
-8,118 songs - 19 day 17 hr 1 min
+8,119 songs - 19 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1929,6 +1929,7 @@
 | [Drag](https://open.spotify.com/track/3ofqTVs2BaCuY6A1tic49y) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Drag](https://open.spotify.com/album/7znTtzFxCsI5wTT3EMPQB4) | 2:11 | 2019-10-04 | 2019-11-15 |
 | [Dragonball Durag](https://open.spotify.com/track/62PclpoBFLl50PJpiJA5RT) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Dragonball Durag](https://open.spotify.com/album/63mrxbP4k9oZBR0LCfzZvo) | 3:01 | 2020-02-21 | 2020-03-20 |
 | [Drama](https://open.spotify.com/track/6xpS4wROa1os8dkn5amKbv) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Drama](https://open.spotify.com/album/1udu7ftqiJGPFjMyUvetdq) | 3:48 | 2021-03-06 | 2021-04-24 |
+| [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2024-12-23 |  |
 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 | 2021-06-05 | 2021-07-17 |
 | [Draw Down the Moon](https://open.spotify.com/track/3dfR4iZwOxuYldXTjzBykP) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/0BY19FXSzQ2HwgRlE7FDg0) | 4:21 | 2021-07-17 | 2021-08-28 |
 | [DREAD/TKOE](https://open.spotify.com/track/7deDjhnERW6ABHGT7srgL0) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx), [BELLS](https://open.spotify.com/artist/5YdylHKZSONXW6PLIaP5Fx) | [WRITHING!](https://open.spotify.com/album/65j4CZblwhEvJGjQwZ5ooX) | 5:21 | 2021-10-23 | 2021-11-20 |
@@ -5192,7 +5193,7 @@
 | [Only Love \(with Brijean\)](https://open.spotify.com/track/2ZwTxsb7hV27jVELUYHBoL) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Only Love \(with Brijean\)](https://open.spotify.com/album/4mQFKiJlHZ2Y8wzzvTNwt4) | 4:15 | 2021-12-03 | 2022-01-15 |
 | [Only One](https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Only One](https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w) | 3:09 | 2024-04-19 | 2024-05-25 |
 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 | 2022-08-26 | 2022-10-15 |
-| [Only Time \(demo\)](https://open.spotify.com/track/3uloBBhAqJ8nG38MRxhEcc) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Only Time \(demo\)](https://open.spotify.com/album/1Ns1T7giNpwEmGpqI7ZrAu) | 4:34 | 2024-11-15 |  |
+| [Only Time \(demo\)](https://open.spotify.com/track/3uloBBhAqJ8nG38MRxhEcc) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Only Time \(demo\)](https://open.spotify.com/album/1Ns1T7giNpwEmGpqI7ZrAu) | 4:34 | 2024-11-15 | 2024-12-24 |
 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 | 2023-02-24 | 2023-04-09 |
 | [Only You](https://open.spotify.com/track/5147NKHUT2KvPhmQBp4PHp) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Only You](https://open.spotify.com/album/4mBg8H35g1bajfKDR0AlOy) | 3:29 | 2024-08-16 | 2024-09-14 |
 | [Only You](https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Only You](https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg) | 4:36 | 2023-02-17 | 2023-03-25 |

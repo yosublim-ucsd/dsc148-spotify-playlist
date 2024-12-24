@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Receta, El Frizian en portada.",
-  "num_followers": 490754,
+  "num_followers": 490877,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-12-20 06:00:12",
       "album": {
-        "name": "Trilog\u00eda, Vol. 2",
-        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 157645,
-      "name": "Un Amor Bonito",
-      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
-    },
-    {
-      "added_at": "2024-12-20 06:00:12",
-      "album": {
         "name": "LE VA DOLER",
         "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 153645,
       "name": "LE VA DOLER",
       "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
+    },
+    {
+      "added_at": "2024-12-20 06:00:12",
+      "album": {
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 157645,
+      "name": "Un Amor Bonito",
+      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
     },
     {
       "added_at": "2024-12-20 06:00:12",
@@ -1807,18 +1807,22 @@
     {
       "added_at": "2024-12-20 06:00:12",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0"
+        "name": "El Mariguapo",
+        "url": "https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5"
       },
       "artists": [
         {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
-      "duration_ms": 160992,
-      "name": "Lo Que Yo Necesitaba",
-      "url": "https://open.spotify.com/track/4xjQbT9VtNKI56Inw54ce1"
+      "duration_ms": 170624,
+      "name": "El Mariguapo",
+      "url": "https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG"
     },
     {
       "added_at": "2024-12-20 06:00:12",
@@ -1859,6 +1863,22 @@
       "duration_ms": 162625,
       "name": "Lo Bueno Y Lo Malo",
       "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
+    },
+    {
+      "added_at": "2024-12-20 06:00:12",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 160992,
+      "name": "Lo Que Yo Necesitaba",
+      "url": "https://open.spotify.com/track/4xjQbT9VtNKI56Inw54ce1"
     },
     {
       "added_at": "2024-12-20 06:00:12",
@@ -1911,26 +1931,6 @@
       "duration_ms": 235230,
       "name": "Y Te Vas (En Vivo)",
       "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
-    },
-    {
-      "added_at": "2024-12-20 06:00:12",
-      "album": {
-        "name": "El Mariguapo",
-        "url": "https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "El Mariguapo",
-      "url": "https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG"
     },
     {
       "added_at": "2024-12-20 06:00:12",
@@ -2159,18 +2159,22 @@
     {
       "added_at": "2024-12-20 06:00:12",
       "album": {
-        "name": "Coraz\u00f3n de Oropel",
-        "url": "https://open.spotify.com/album/2a3ChYHrsJ0eNYSrWMkmbP"
+        "name": "El Mochomo (Live)",
+        "url": "https://open.spotify.com/album/3xGn4cLF44Yx2B9ujTCy3H"
       },
       "artists": [
         {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 181561,
-      "name": "Coraz\u00f3n de Oropel",
-      "url": "https://open.spotify.com/track/4ElpgolmbckWlExHAXC39m"
+      "duration_ms": 176494,
+      "name": "El Mochomo - Live",
+      "url": "https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB"
     },
     {
       "added_at": "2024-12-20 06:00:12",
@@ -2191,6 +2195,22 @@
     {
       "added_at": "2024-12-20 06:00:12",
       "album": {
+        "name": "Coraz\u00f3n de Oropel",
+        "url": "https://open.spotify.com/album/2a3ChYHrsJ0eNYSrWMkmbP"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 181561,
+      "name": "Coraz\u00f3n de Oropel",
+      "url": "https://open.spotify.com/track/4ElpgolmbckWlExHAXC39m"
+    },
+    {
+      "added_at": "2024-12-20 06:00:12",
+      "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J"
       },
@@ -2203,22 +2223,6 @@
       "duration_ms": 187146,
       "name": "Especial",
       "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
-    },
-    {
-      "added_at": "2024-12-20 06:00:12",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189504,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
     }
   ],
   "unique_name": "Norte\u00f1o 2024",

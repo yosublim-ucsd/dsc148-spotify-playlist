@@ -1863,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "Ravel: Pavane pour une infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/4Z4eadBSahvMdFEaZKqwss"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366400,
+      "name": "Ravel: Pavane pour une infante d\u00e9funte",
+      "url": "https://open.spotify.com/track/2s5bkvRCBhv0sR8PGXGZMX"
+    },
+    {
+      "album": {
         "name": "Reflections Pt. 1 / Debussy: Bruy\u00e8res",
         "url": "https://open.spotify.com/album/4vIHi1vbAM6U4WzJ85RP8y"
       },
@@ -2448,6 +2470,28 @@
       "duration_ms": 108000,
       "name": "Suite Mosaique, Op. 35: IV. Veslem\u00f8ys sang",
       "url": "https://open.spotify.com/track/69KS1hdIUrss7KPnaK5ulg"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Seasons, Op. 37a: VI. June. Barcarolle",
+        "url": "https://open.spotify.com/album/1n1EFvyLZ1j5H7D2qMTXDA"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329280,
+      "name": "The Seasons, Op. 37a: VI. June. Barcarolle",
+      "url": "https://open.spotify.com/track/5PJv9lOarcROmaA9hDmdnJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-2,349 songs - 5 day 6 hr 11 min
+2,350 songs - 5 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [all\-american bitch](https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:45 | 2023-09-09 | 2023-09-13 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-14 | 2021-11-21 |
 | [Already Dead](https://open.spotify.com/track/2quVkyLSVr5wX2QIhnexUt) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:51 | 2021-12-12 | 2021-12-13 |
-| [Aluspükse](https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U) | [5MIINUST](https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an), [nublu](https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i) | [Aluspükse](https://open.spotify.com/album/3pJrxBKVSotXG1f0LOyBLo) | 3:30 | 2021-03-27\* |  |
+| [Aluspükse](https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U) | [5MIINUST](https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an), [nublu](https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i) | [Aluspükse](https://open.spotify.com/album/3pJrxBKVSotXG1f0LOyBLo) | 3:30 | 2021-03-27\* | 2024-12-24 |
 | [Always on the run](https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Always on the run](https://open.spotify.com/album/61t1CVlAIr7HWUkS0KcF3K) | 3:29 | 2024-05-12 | 2024-05-18 |
 | [Am I Dreaming \(Metro Boomin & A$AP Rocky, Roisee\)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Roisee](https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 4:16 | 2023-06-06 | 2023-06-22 |
 | [Amen \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0Mrnt1YqVuW2bqmwu4VxDt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:21 | 2023-10-07 | 2023-10-10 |
@@ -792,6 +792,7 @@
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-05-06 |
 | [Holiday](https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Holiday](https://open.spotify.com/album/2FiATmtrSNjakqKjqgC6Vb) | 3:13 | 2021-06-20 | 2021-07-04 |
 | [HOLIDAY](https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu) | 2:34 | 2021-03-27\* | 2021-05-12 |
+| [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 | 2024-12-23 |  |
 | [Hollow](https://open.spotify.com/track/6lvDhgHLeC9wBOOVKGCfJi) | [Dons](https://open.spotify.com/artist/3DjJiiOy3bJ9JFn81mxbWS) | [Hollow](https://open.spotify.com/album/0voSkEDsdL2nmPZiX3toXG) | 2:51 | 2024-05-13 | 2024-05-15 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-11-30 | 2023-12-30 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 2:01 | 2024-11-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,312 likes - 68 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,314 likes - 68 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 60 | [Du vet att du kan få mig](https://open.spotify.com/track/16PXAVrUZnm4vxDIJR3ioq) | [SJUK HUS](https://open.spotify.com/artist/05YXRz6lUtBwK5EqIYWZWK) | [Du vet att du kan få mig](https://open.spotify.com/album/0kJCD9hZlgDpzc8FQb3Lrg) | 3:19 |
 | 61 | [DESEMBER](https://open.spotify.com/track/4MadhZ5zlMZm2MLb1s44I0) | [Kald Flamme](https://open.spotify.com/artist/2ZrN4KRe7Qw6boB8HN8L92) | [ÅRET](https://open.spotify.com/album/4IzMvSvQgVeO44g5yXs1hO) | 4:40 |
 | 62 | [Morning](https://open.spotify.com/track/18FBEsEov6t4ylvWF51zmY) | [Julian Hall](https://open.spotify.com/artist/0hFYvKvXCBlrnTghqcm9Lj) | [No Studio](https://open.spotify.com/album/2kA9nLZtSlept5OMOr4498) | 2:32 |
-| 63 | [New Years Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
+| 63 | [New Year's Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
 | 64 | [Touch](https://open.spotify.com/track/4Pp3kJlRptlJzgAul4Upc5) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Touch](https://open.spotify.com/album/7uu47RjPPfgfuPaMy31gEn) | 2:48 |
 | 65 | [Moneydog](https://open.spotify.com/track/3NGNQfW7OPWwoB9JAF2SpE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Moneydog](https://open.spotify.com/album/25gZana38pfeiXG7T6lOmK) | 4:34 |
 | 66 | [IDEWFILA](https://open.spotify.com/track/2Otdw51iATaSVq8lbtLgZU) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [IDEWFILA](https://open.spotify.com/album/3Fw8zte83xoS0yCFCVch1i) | 3:04 |

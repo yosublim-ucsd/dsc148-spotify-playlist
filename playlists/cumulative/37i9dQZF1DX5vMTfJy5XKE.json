@@ -1609,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "California Winter",
+        "url": "https://open.spotify.com/album/1R3Bw4NDXDHYmByoDBKfo8"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        },
+        {
+          "name": "Matt Rogers",
+          "url": "https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242768,
+      "name": "California Winter",
+      "url": "https://open.spotify.com/track/06jxamUibvOt93vC9bC265"
+    },
+    {
+      "album": {
         "name": "The Season 3",
         "url": "https://open.spotify.com/album/19WHVFUxoC46P4c2GxypNw"
       },
@@ -11521,6 +11543,24 @@
     },
     {
       "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/4GKRgu7kLbEPjkOG3wiMhU"
+      },
+      "artists": [
+        {
+          "name": "Kim Kardashian",
+          "url": "https://open.spotify.com/artist/0VyNiaUWxot9V0efpoi0qt"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209677,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1EITuSys8hwjL8f6CsajuA"
+    },
+    {
+      "album": {
         "name": "A Very Laufey Holiday",
         "url": "https://open.spotify.com/album/2zPZAQ0uXCGLODxYGQyFqZ"
       },
@@ -12092,6 +12132,24 @@
       "duration_ms": 156800,
       "name": "Santa why are you so late?",
       "url": "https://open.spotify.com/track/2NzSFSItoBGq8uhFlAIR7S"
+    },
+    {
+      "album": {
+        "name": "California Winter",
+        "url": "https://open.spotify.com/album/1R3Bw4NDXDHYmByoDBKfo8"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140473,
+      "name": "Santa Won't You Bring Me",
+      "url": "https://open.spotify.com/track/7lyzIWbbOzgTgZhFPFweuv"
     },
     {
       "album": {

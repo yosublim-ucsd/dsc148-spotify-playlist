@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 407 songs - 21 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 407 songs - 21 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,8 +185,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 175 | [Voodoo](https://open.spotify.com/track/3C2HSGEUxEd9tXCsuzdSPL) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Cow Fingers and Mosquito Pie \(Expanded Edition\)](https://open.spotify.com/album/7iqV06s6GOh88Y1f9cgEud) | 2:40 |
 | 176 | [When Love Comes Around](https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 5:15 |
 | 177 | [Without your love](https://open.spotify.com/track/5jAw425BUP2RVDNJaZG2NL) | [Billie Holiday Orchestra, Lester Young](https://open.spotify.com/artist/0boUJeiqdjS7GP6On0qZzX) | [BILLIE HOLIDAY, LESTER YOUNG](https://open.spotify.com/album/3sKyhn3eEHRqmvOZ9HAYyR) | 2:52 |
-| 178 | [Where Is The Life That Late I Led?](https://open.spotify.com/track/0lnjAgtSKBb7YqdWAkrm0Y) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:34 |
-| 179 | [Live and Let Live \(2023 Remastered\)](https://open.spotify.com/track/6rCPBH7r58GrgiKH8Rsn8m) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 1:55 |
+| 178 | [Live and Let Live \(2023 Remastered\)](https://open.spotify.com/track/6rCPBH7r58GrgiKH8Rsn8m) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 1:55 |
+| 179 | [Where Is The Life That Late I Led?](https://open.spotify.com/track/0lnjAgtSKBb7YqdWAkrm0Y) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:34 |
 | 180 | [Jubilee](https://open.spotify.com/track/72QKvGdTnXwTXnXEMWqa2C) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 4:45 |
 | 181 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 | 182 | [I'm In Love With You](https://open.spotify.com/track/6msksMaIIceyWv8JtfmSq4) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Dean Martin: The Capitol Recordings, Vol\. 2 \(1950\-1951\)](https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv) | 2:58 |
@@ -407,8 +407,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 397 | [The Extra Man](https://open.spotify.com/track/5EQvtVMJO3vvi0NldcKn90) | [Alec Deland](https://open.spotify.com/artist/1T3qsH0rcPsfoPVC9lnVD7) | [Chip Deffaa's My Man: Songs of Gay Love, Lust, Loss, And Longing...](https://open.spotify.com/album/1UkxPhynW5HPhPANlVx9Mm) | 2:38 |
 | 398 | [When I Was A Little Cuckoo](https://open.spotify.com/track/3hucaRW0QgCTAaih6PtU23) | [Charlotte Rae](https://open.spotify.com/artist/1RRFegdj7q3BQRHqjlxPgC) | [Songs I Taught My Mother](https://open.spotify.com/album/4ppiu14KbWmJ0bICpNQyRP) | 2:27 |
 | 399 | [When the Summer Moon Comes 'Long](https://open.spotify.com/track/5qTaBWzWOMdYfaUZRBuW7r) | [Steve Ross](https://open.spotify.com/artist/7rBcOJleNppinAuzR8S3ZX) | [Steve Ross & Cole Porter \- Close](https://open.spotify.com/album/6oU8VYiIchZhnmkTfKWuP1) | 2:43 |
-| 400 | [Lay This Body Down / I Want to Go Home](https://open.spotify.com/track/4fDzzK2vsRDS0NR5Jr1cQM) | [Cile Turner](https://open.spotify.com/artist/1BI7On628H7NSL36U65FpO) | [Makin' Glory](https://open.spotify.com/album/4Jl5SSawC1ikw6sgBqm9sD) | 3:21 |
-| 401 | [Is It the Girl or Is It the Gown?](https://open.spotify.com/track/0xidk6W7ZAO8lQSbjWtkYd) | [Stephen Bogardus](https://open.spotify.com/artist/7qGitvYBnbiDSaYGHp7TxR) | [Chip Deffaa's I Must Have That Man](https://open.spotify.com/album/2yG87TVjczED9crWpBb8ay) | 2:46 |
+| 400 | [Is It the Girl or Is It the Gown?](https://open.spotify.com/track/0xidk6W7ZAO8lQSbjWtkYd) | [Stephen Bogardus](https://open.spotify.com/artist/7qGitvYBnbiDSaYGHp7TxR) | [Chip Deffaa's I Must Have That Man](https://open.spotify.com/album/2yG87TVjczED9crWpBb8ay) | 2:46 |
+| 401 | [Lay This Body Down / I Want to Go Home](https://open.spotify.com/track/4fDzzK2vsRDS0NR5Jr1cQM) | [Cile Turner](https://open.spotify.com/artist/1BI7On628H7NSL36U65FpO) | [Makin' Glory](https://open.spotify.com/album/4Jl5SSawC1ikw6sgBqm9sD) | 3:21 |
 | 402 | [Thank You So Much Mrs\. Lowsborough\-Goodby](https://open.spotify.com/track/6TzgQd0cfn4OaNkJYtc0it) | [Ambrose](https://open.spotify.com/artist/0iKiwo4LTF4E2EsJwcNZyF) | [Tribute To Cole Porter](https://open.spotify.com/album/3wFy6UAW8UC5rfN9Lj9dpZ) | 3:16 |
 | 403 | [Pick Me Up and Lay Me Down](https://open.spotify.com/track/2Zo116V06QDbq3LdmW2AHk) | [Valerie Anastasio & Tim Harbold](https://open.spotify.com/artist/6HWnY95H21n6B8mKzaKjvc) | [Give 'em the Oo\-La\-La](https://open.spotify.com/album/6oDkJzUJvR3FWUhjBGPL1Y) | 3:58 |
 | 404 | [Quainty, Dainty Me \- Remastered](https://open.spotify.com/track/7KLochx49d0KSmjAUNQIrw) | [Fanny Brice](https://open.spotify.com/artist/13dV8RDgoexJINGhkS7sLR) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/4bQSGb4laq7OD90vuCDmYt) | 4:15 |
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 406 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 407 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Abk2qgAAAAAB9Q3UHogZgvXpuOA8uOJw`
+Snapshot ID: `Abk8QAAAAACQhQeW4ZCm27TnffphI5f+`

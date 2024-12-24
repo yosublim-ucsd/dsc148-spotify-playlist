@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,101 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,133 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 9 | [Miley Ho Jabse Tum](https://open.spotify.com/track/5ntKA7jOftFX3P4DMsMSmM) | [Mohit Pathak](https://open.spotify.com/artist/7JAb5WcSjSHwqFR1Pstmuz) | [Miley Ho Jabse Tum](https://open.spotify.com/album/6x4hATQjmDmL77YB03Xkdq) | 3:33 |
 | 10 | [Akele Hum](https://open.spotify.com/track/192CtcgIfCN3iDiqlbAji3) | [SiiD Sehwag](https://open.spotify.com/artist/4t5vmmffsJQtcMDGx84Ryb), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Akele Hum](https://open.spotify.com/album/2t4xuDh2rTPnePIlMeXfo2) | 2:32 |
 | 11 | [Shikwe Gile \- Live](https://open.spotify.com/track/1iJz2tL0JkK7Q2HjJKUzli) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shikwe Gile \(Live\)](https://open.spotify.com/album/0q1R5J48FwvvLT2HW3RW0a) | 2:32 |
-| 12 | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/track/70oyK852uX6zmyCfu3bdIj) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/album/6u7VqWwhENXdzqg0cue6Rp) | 2:29 |
-| 13 | [Suljhey](https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Suljhey](https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF) | 3:17 |
-| 14 | [Humrahi](https://open.spotify.com/track/6WtDu65rYAFGg4qQjg90j4) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Humrahi](https://open.spotify.com/album/7rF1PE7i0Ejsx9lSq6Eyw5) | 4:03 |
-| 15 | [Sorry](https://open.spotify.com/track/6S7bu8sgZUFpUwLYWOSKzj) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Sorry](https://open.spotify.com/album/1Ng2fXRfEI6IerCgiF5KNs) | 3:26 |
+| 12 | [Do Kadam](https://open.spotify.com/track/5CS1fDgk3HzMcOVXReT0mx) | [Mohit dogra](https://open.spotify.com/artist/0YhaFoYZeuu2Bnuf2EnjVH) | [Do Kadam](https://open.spotify.com/album/330MWDrYiPvDAkjagR7bzD) | 2:54 |
+| 13 | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/track/70oyK852uX6zmyCfu3bdIj) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/album/6u7VqWwhENXdzqg0cue6Rp) | 2:29 |
+| 14 | [Suljhey](https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Suljhey](https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF) | 3:17 |
+| 15 | [Humrahi](https://open.spotify.com/track/6WtDu65rYAFGg4qQjg90j4) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Humrahi](https://open.spotify.com/album/7rF1PE7i0Ejsx9lSq6Eyw5) | 4:03 |
 | 16 | [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/track/6HyYz5H1gHiRk7ikTcuSDj) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/album/2MqEuClZB4dhf76DdmpWOw) | 2:29 |
 | 17 | [Naraziyaan](https://open.spotify.com/track/5VReUwAENOtHpdgbn49JdX) | [Gursheet Khanuja](https://open.spotify.com/artist/6cGG5aDa7RjUOWbqMVlh66), [Geetesh Yadav](https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm) | [Naraziyaan](https://open.spotify.com/album/77uXObF1PN1q4HW7i1HoNJ) | 3:38 |
 | 18 | [Pal Yeh Mere](https://open.spotify.com/track/6q19ONhVoUr00oUiMbmEsA) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [I Want To Talk \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LTOhhU25vqLZSgutnGD74) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Dil Se Jo Poocha](https://open.spotify.com/track/6L0bMBsrawngv4HxOYpouu) | [AKG](https://open.spotify.com/artist/1p82NAmbk637NmFTzx8Drw), [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Dil Se Jo Poocha](https://open.spotify.com/album/1X8BE2TNnlSQd5BWmgf7Ku) | 2:28 |
 | 75 | [nadaaniyan \(with Jonita Gandhi\)](https://open.spotify.com/track/3bCtOEC3jLaxwpfQMb5f68) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [nadaaniyan \(with Jonita Gandhi\)](https://open.spotify.com/album/7CzvCp9WP896ZTH2JZpbLD) | 2:51 |
 
-Snapshot ID: `Z2ZvhgAAAADeiOCcwmeWteHXbjFrGmH+`
+Snapshot ID: `Z2kpJAAAAACEJvv838EgV0Q+rLn2YAzf`

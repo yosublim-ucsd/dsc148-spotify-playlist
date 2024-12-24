@@ -4,7 +4,7 @@
 
 > 
 
-464 songs - 1 day 5 hr 47 min
+466 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,10 +99,12 @@
 | [Death And Destruction](https://open.spotify.com/track/6E6rY8reP0d4HU0xDiC264) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:38 | 2024-04-09 |  |
 | [Deep Red](https://open.spotify.com/track/3qRWjDHAmVH0l7bUFwnVnS) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 6:29 | 2024-07-07 |  |
 | [Desire Be Desire Go](https://open.spotify.com/track/4LD5p1sSp97yp86E2zDZwK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:26 | 2024-04-05 |  |
+| [Desperate Others](https://open.spotify.com/track/6l81uKx4RM53K8KpyOFMcw) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Desperate Others](https://open.spotify.com/album/2Lt0mEW4Rm53g2UIVYbmfU) | 3:13 | 2024-12-23 |  |
 | [Did My Best](https://open.spotify.com/track/0YdSIXOY8QWbRtWaBlnlNo) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Did My Best](https://open.spotify.com/album/5Osm6Z5sBGots1YGx9pBt6) | 4:56 | 2024-06-06 |  |
 | [Die Anywhere Else](https://open.spotify.com/track/4oCeMWwBmMmfAjGwSvrTa4) | [Alec Holowka](https://open.spotify.com/artist/2msAsizgFUJio7s8sgme16) | [Night in the Woods \(Original Soundtrack, Vol\. 1\) \[At the End of Everything\]](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8) | 2:24 | 2023-11-14 |  |
 | [Disciples](https://open.spotify.com/track/2gNfxysfBRfl9Lvi9T3v6R) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 1:48 | 2024-01-17 |  |
 | [Do You Wanna Get High?](https://open.spotify.com/track/6JwesoWbzk5pjBi3gaMWjb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:27 | 2024-06-06 |  |
+| [Don't Let Go](https://open.spotify.com/track/4EDN1wMNGoDyvkD6QlS8C1) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Don't Let Go](https://open.spotify.com/album/7dZ5Xwp3kmrd7nMpZKrXCM) | 2:40 | 2024-12-23 |  |
 | [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 | 2024-02-18 |  |
 | [Dope Nose](https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:17 | 2024-04-09 |  |
 | [Drag Queen](https://open.spotify.com/track/6k9mEHQUBi2IgFWkutnXaN) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:33 | 2024-06-29 |  |

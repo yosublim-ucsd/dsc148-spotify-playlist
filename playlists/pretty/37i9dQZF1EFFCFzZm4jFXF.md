@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68 likes - 107 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 107 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 30 | [Still Around](https://open.spotify.com/track/0Hq59Tzh4STCnCdokgbqJb) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Still Around](https://open.spotify.com/album/4NEFNu7aGFVM6ASDHmbacA) | 2:55 |
 | 31 | [Safe Place](https://open.spotify.com/track/26zJD97craL4pSO9L0G3jz) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Safe Place](https://open.spotify.com/album/5Fbr4tGS73s5V7siAm3hPj) | 3:43 |
 | 32 | [Ruin](https://open.spotify.com/track/2xCY38WpqpCijxPksvgw0f) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ruin](https://open.spotify.com/album/2m4DXXAkbWklfr8in5BAuZ) | 3:57 |
-| 33 | [Me and My Mind](https://open.spotify.com/track/6kaGNf9iNyoXgdF6kA0KX3) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/0YRokH3GpJj5bhbgbb4Kn9) | 3:04 |
-| 34 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 33 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 34 | [Me and My Mind](https://open.spotify.com/track/6kaGNf9iNyoXgdF6kA0KX3) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/0YRokH3GpJj5bhbgbb4Kn9) | 3:04 |
 | 35 | [Wilder Days](https://open.spotify.com/track/7yiZtUUC5lPtoUxF5s0KH1) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Wilder Days EP](https://open.spotify.com/album/6XuJT50OLcO7j3oLNZM6Q3) | 3:37 |
 | 36 | [Start Of Me \(feat\. Brad Mair\)](https://open.spotify.com/track/7g8xeIDcQfN0j2WaLHKYxy) | [No Mondays](https://open.spotify.com/artist/7cSIDO4sCKFSTHP4Soan5t), [Haverklap](https://open.spotify.com/artist/2FhJxps0HPHf7Jwhi84Sig), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [Start Of Me \(feat\. Brad Mair\)](https://open.spotify.com/album/6RMYulo6FcirlMOoTECJEt) | 3:09 |
 | 37 | [Following My Heart](https://open.spotify.com/track/2yWZcMqbjL1qAaDbH37tC5) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 4:19 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 39 | [Your Eyes](https://open.spotify.com/track/5A0adi2wTWMlyLnsnC67MZ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:30 |
 | 40 | [Love Language](https://open.spotify.com/track/5RuUO9oLyJkgJMR5Vttn5G) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Love Language](https://open.spotify.com/album/2NAHu9dxwtIzNonKlFkiLQ) | 2:41 |
 | 41 | [The First Time](https://open.spotify.com/track/2I52iM20qEsd8Mupt25m1D) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Run to You](https://open.spotify.com/album/3EGJG8H67Ud2gvXVXjZkVt) | 3:47 |
-| 42 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 |
-| 43 | [Ten Times Worse](https://open.spotify.com/track/1Wh4f7xKkh2N2ZjbDGxh8W) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Ten Times Worse](https://open.spotify.com/album/06vgcnT21raqwPmL2CkNMM) | 2:32 |
+| 42 | [Ten Times Worse](https://open.spotify.com/track/1Wh4f7xKkh2N2ZjbDGxh8W) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Ten Times Worse](https://open.spotify.com/album/06vgcnT21raqwPmL2CkNMM) | 2:32 |
+| 43 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 |
 | 44 | [Saint of the Sinners](https://open.spotify.com/track/15ZpJOwfqGx6jbL4ruBeKp) | [Janet Devlin](https://open.spotify.com/artist/2GDNbg4B7fHn1PqHlEdtd1) | [Confessional](https://open.spotify.com/album/4woFkP5VY3AY27DgZHBlgt) | 3:53 |
 | 45 | [Funeral](https://open.spotify.com/track/7tkzxMzgewgVqGahS69F1X) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [How To Be Human](https://open.spotify.com/album/1HS3YNocpXpYUwcaqTcaht) | 3:37 |
 | 46 | [Cold Nights](https://open.spotify.com/track/4Md728gr9wczW4VME5Qv9M) | [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [Cold Nights](https://open.spotify.com/album/12ldZGZ5rPIvKFM9Z1fkSg) | 3:02 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 74 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
 | 75 | [Turn Off The Rain](https://open.spotify.com/track/7tI7ojD4HsrgsMGoloIm80) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Turn Off The Rain](https://open.spotify.com/album/1EYQFHfkKdrgdltWOlRnzp) | 3:39 |
 | 76 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
-| 77 | [Rum & Red Bull](https://open.spotify.com/track/5mdtecC5n9oiC1WIPJDGa6) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Rum & Red Bull](https://open.spotify.com/album/3BMpaaMfhpfLTl8cTJ8mDK) | 3:26 |
-| 78 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 77 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 78 | [Rum & Red Bull](https://open.spotify.com/track/5mdtecC5n9oiC1WIPJDGa6) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Rum & Red Bull](https://open.spotify.com/album/3BMpaaMfhpfLTl8cTJ8mDK) | 3:26 |
 | 79 | [Matters To Me](https://open.spotify.com/track/1xH7om5np5FyqNF5cnXYzz) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:49 |
 | 80 | [If You Ever Come Back](https://open.spotify.com/track/4GD7mjIvLLZ9cgFNDwUxkU) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [If You Ever Come Back](https://open.spotify.com/album/5TETFQBznTHmqjhbaY96Zz) | 3:07 |
 | 81 | [Like I Do](https://open.spotify.com/track/2NHpE5U4QNOVCdVmY7FtSL) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Like I Do](https://open.spotify.com/album/6mr0iJfREskCb9S87Rfdgp) | 2:30 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 106 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 107 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `Abk2lgAAAACyNgb/pJXdpu8MRBUkIa7L`
+Snapshot ID: `Abk8XgAAAAA5VZLMgp8SWx52YNSCPGEn`

@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 145172,
+  "num_followers": 145183,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAABGVjzkD7jRxmFRXBvoYWiA",
+  "snapshot_id": "Z2dWgAAAAACETdiZXwwuU2DvLQRbTocg",
   "tracks": [
     {
       "added_at": null,
@@ -688,7 +688,7 @@
       "added_at": null,
       "album": {
         "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+        "url": "https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 152453,
-      "name": "Family Is Family",
-      "url": "https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc"
+      "duration_ms": 217880,
+      "name": "Late To The Party",
+      "url": "https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5"
     },
     {
       "added_at": null,
@@ -760,7 +760,7 @@
       "added_at": null,
       "album": {
         "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa"
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Late To The Party",
-      "url": "https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5"
+      "duration_ms": 152453,
+      "name": "Family Is Family",
+      "url": "https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc"
     },
     {
       "added_at": null,

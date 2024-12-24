@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 118580,
+  "num_followers": 118615,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Solo Aqu\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 247578,
-      "name": "Solo Aqui - En Vivo",
-      "url": "https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Roxana Porcellana (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
         "url": "https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 245699,
       "name": "Roxana Porcellana - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
       "url": "https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Solo Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Solo Aqui - En Vivo",
+      "url": "https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Todavia No Puedo Olvidarte (En Vivo)",
-        "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        },
-        {
-          "name": "Manuel Moretti",
-          "url": "https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk"
-        }
-      ],
-      "duration_ms": 246023,
-      "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
-      "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Luna en Obras (En Vivo)",
         "url": "https://open.spotify.com/album/66DKPufdxOw4bYcshbAjl4"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 163014,
       "name": "O No? - En Vivo",
       "url": "https://open.spotify.com/track/5sncjhKWpdlgwQDJtWTvDA"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Todavia No Puedo Olvidarte (En Vivo)",
+        "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        },
+        {
+          "name": "Manuel Moretti",
+          "url": "https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk"
+        }
+      ],
+      "duration_ms": 246023,
+      "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
+      "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "De No Olvidar (En Vivo)",
-        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "De No Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Nada Salvaje (En Vivo Estadio Obras)",
         "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 278984,
       "name": "Nada Salvaje (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "De No Olvidar (En Vivo)",
+        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "De No Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Vivo Luna Park, Pt. 1",
-        "url": "https://open.spotify.com/album/7sBEcYE2DKxzOXen11IgL4"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Desaparecer - Vivo en Luna Park",
-      "url": "https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Demonio Paraguayo (En Vivo)",
         "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 262014,
       "name": "Demonio Paraguayo - En Vivo",
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Vivo Luna Park, Pt. 1",
+        "url": "https://open.spotify.com/album/7sBEcYE2DKxzOXen11IgL4"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Desaparecer - Vivo en Luna Park",
+      "url": "https://open.spotify.com/track/3F8CMs1Pu6KmOuU31pgUtF"
     },
     {
       "added_at": "2024-12-20 03:00:01",

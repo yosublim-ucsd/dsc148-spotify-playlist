@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Amigos nunca devem",
+        "url": "https://open.spotify.com/album/7MGFyly48Gyz77J73B7jXh"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161738,
+      "name": "Amigos nunca devem",
+      "url": "https://open.spotify.com/track/2KNK4cM9bF5aGN1sYiQLPQ"
+    },
+    {
+      "album": {
         "name": "Amor Blindado",
         "url": "https://open.spotify.com/album/3GLGVjoaqz6JE1HoIZIPPs"
       },
@@ -676,7 +694,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 231723,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 189880,
       "name": "Notes From A Wrist",
       "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
@@ -1402,6 +1420,28 @@
       "duration_ms": 177077,
       "name": "Pq Vc Me Odeia Assim?",
       "url": "https://open.spotify.com/track/1Fvm656VZ9qfjhcrcqRKP5"
+    },
+    {
+      "album": {
+        "name": "Brisa De Domingo",
+        "url": "https://open.spotify.com/album/2Sey9AZyNtW7By104l6yTN"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182196,
+      "name": "Pudim",
+      "url": "https://open.spotify.com/track/6bAnkRCGOX7g5rT8WN5eci"
     },
     {
       "album": {

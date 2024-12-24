@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Klaas, Neptunica
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,966 likes - 79 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,964 likes - 79 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 70 | [MERRY GO ROUND](https://open.spotify.com/track/6QXYyXzntxPbusKpAC3tHx) | [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx), [Groove Coverage](https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW), [Master Blaster](https://open.spotify.com/artist/0x6v7KDiu5YRgHIx7d2Qkm) | [MERRY GO ROUND](https://open.spotify.com/album/10AvInApbkXB8RphEj6fFe) | 2:33 |
 | 71 | [OVERTIME](https://open.spotify.com/track/2H4yYzsmGrDWaJhXI8vcQc) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6) | [OVERTIME](https://open.spotify.com/album/4kwTR9MeK0e3sEHhw1Awz9) | 2:05 |
 | 72 | [Live Once](https://open.spotify.com/track/0pq16z3LHaEN95gpDYjlar) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [Live Once](https://open.spotify.com/album/6lLYty7XXkyl744PhBxnwd) | 2:24 |
-| 73 | [Never Tire](https://open.spotify.com/track/4DfCpIYnX48NbJhPVR6V1y) | [Audiosonik](https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob), [Pinjack](https://open.spotify.com/artist/3ccdOzIyZijfqtwEuzN7AR) | [Never Tire](https://open.spotify.com/album/24u8n8VpmKw2UCKk99oj6z) | 2:09 |
+| 73 | [Never Tire](https://open.spotify.com/track/4DfCpIYnX48NbJhPVR6V1y) | [Audiosonik](https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob), [Pinjack](https://open.spotify.com/artist/1jrbhTJJc9rfw5gdw51ayL) | [Never Tire](https://open.spotify.com/album/24u8n8VpmKw2UCKk99oj6z) | 2:09 |
 | 74 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
 | 75 | [Lost in My Mind](https://open.spotify.com/track/0Q4kPa4KpC0BlxkXdbYEta) | [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv), [Alaska](https://open.spotify.com/artist/2NnPfY5pPBuDYBBWSDqVpR) | [Lost in My Mind](https://open.spotify.com/album/22O9tQGyv8ApYVzHWyJAcT) | 2:33 |
 | 76 | [Aloha Heja He](https://open.spotify.com/track/26CvbxphbZx7WGns7gA8sj) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Aloha Heja He](https://open.spotify.com/album/6oUx7bexj29HUZNFAS5R0y) | 2:34 |

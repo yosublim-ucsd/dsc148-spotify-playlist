@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACs0+Wfuz598bb/l9oEtP3v",
+  "snapshot_id": "AAAAAAAAAABwC4gEFxSUpz4sbp6Fi5ex",
   "tracks": [
     {
       "added_at": "2024-12-20 03:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 119639,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
         "name": "\u8ee2\u304c\u308b\u5ca9\u3001\u541b\u306b\u671d\u304c\u964d\u308b - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/7yCKZEfFik3HVtIIpqfno2"
       },
@@ -111,18 +127,22 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "Santa Claus Is Coming To Town",
-        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
+        "name": "Saskimood",
+        "url": "https://open.spotify.com/album/7e4zVsqu6RtoTGhBob9hD0"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Mat\u00edas Saski",
+          "url": "https://open.spotify.com/artist/5j1KobiQU5nFxg2oU94psG"
+        },
+        {
+          "name": "Nosecuenta",
+          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
         }
       ],
-      "duration_ms": 119639,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
+      "duration_ms": 182954,
+      "name": "Astronom\u00eda",
+      "url": "https://open.spotify.com/track/2vKPkKlZ7pbaF0PJUAYuIF"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -151,26 +171,6 @@
       "duration_ms": 216584,
       "name": "Seasons \u00f8f Life",
       "url": "https://open.spotify.com/track/3J2f43S2gOqEOgz0Hi5tkQ"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Saskimood",
-        "url": "https://open.spotify.com/album/7e4zVsqu6RtoTGhBob9hD0"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Saski",
-          "url": "https://open.spotify.com/artist/5j1KobiQU5nFxg2oU94psG"
-        },
-        {
-          "name": "Nosecuenta",
-          "url": "https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8"
-        }
-      ],
-      "duration_ms": 182954,
-      "name": "Astronom\u00eda",
-      "url": "https://open.spotify.com/track/2vKPkKlZ7pbaF0PJUAYuIF"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -275,38 +275,6 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "copy/paste, vol. 1 (abridged)",
-        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 281212,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "In The Grey",
-        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
-      },
-      "artists": [
-        {
-          "name": "Shadows Fall",
-          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "In The Grey",
-      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/3CsxPkQH1eOpeNShl2O3KW"
       },
@@ -331,18 +299,18 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "Your Name In Lights",
-        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
+        "name": "copy/paste, vol. 1 (abridged)",
+        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
         }
       ],
-      "duration_ms": 219733,
-      "name": "Your Name In Lights",
-      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
+      "duration_ms": 281212,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -359,6 +327,38 @@
       "duration_ms": 214626,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/3kFNj29MB9I24jSJgjENVw"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
+        "name": "In The Grey",
+        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
+      },
+      "artists": [
+        {
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "In The Grey",
+      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
+        "name": "Your Name In Lights",
+        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Your Name In Lights",
+      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
         }
       ],
-      "duration_ms": 342500,
-      "name": "Lovers and Strangers",
-      "url": "https://open.spotify.com/track/57xBvgh1LKFkzcQtlSFvMt"
+      "duration_ms": 288005,
+      "name": "Some Dreams",
+      "url": "https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
+        "name": "Everything (Jaxx Club Vocal Mix)",
+        "url": "https://open.spotify.com/album/7dPLMtTuhbKFisRsg6IIzv"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 399546,
+      "name": "Everything - Jaxx Club Vocal",
+      "url": "https://open.spotify.com/track/5Ty2YC3d5UofL63SylhkRq"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
         "name": "Downfall (Dialective, Protoss & Short Circuit Remix)",
         "url": "https://open.spotify.com/album/2XbitQOjmcsWqiWZo4hqDZ"
       },
@@ -479,26 +499,6 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "Everything (Jaxx Club Vocal Mix)",
-        "url": "https://open.spotify.com/album/7dPLMtTuhbKFisRsg6IIzv"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 399546,
-      "name": "Everything - Jaxx Club Vocal",
-      "url": "https://open.spotify.com/track/5Ty2YC3d5UofL63SylhkRq"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
-        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Ring Out Solstice Bells - 2024 Remix",
-      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
         "name": "Sky Restaurant",
         "url": "https://open.spotify.com/album/19YoMXm7ZgGWv02k3VedU1"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 223933,
       "name": "Sky Restaurant",
       "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
+        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
+        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Ring Out Solstice Bells - 2024 Remix",
+      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -567,26 +567,6 @@
       "duration_ms": 210731,
       "name": "Buler\u00eda (feat. Matiah Chinaski)",
       "url": "https://open.spotify.com/track/0g5oUUZpgPE1zMznLdgdf8"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Breathless (Warren Remix)",
-        "url": "https://open.spotify.com/album/5p432Akx3FOjYQSY39A21E"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        },
-        {
-          "name": "Warren",
-          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
-        }
-      ],
-      "duration_ms": 189418,
-      "name": "Breathless - Warren Remix",
-      "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -631,42 +611,22 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
-        "name": "El Chucu Chucu",
-        "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
+        "name": "Breathless (Warren Remix)",
+        "url": "https://open.spotify.com/album/5p432Akx3FOjYQSY39A21E"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
         },
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+          "name": "Warren",
+          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
         }
       ],
-      "duration_ms": 163865,
-      "name": "El Chucu Chucu",
-      "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
-    },
-    {
-      "added_at": "2024-12-20 03:00:00",
-      "album": {
-        "name": "Navidad De Locos",
-        "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 176432,
-      "name": "Navidad De Locos",
-      "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
+      "duration_ms": 189418,
+      "name": "Breathless - Warren Remix",
+      "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
     },
     {
       "added_at": "2024-12-20 03:00:00",
@@ -691,6 +651,22 @@
     {
       "added_at": "2024-12-20 03:00:00",
       "album": {
+        "name": "Navidad De Locos",
+        "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 176432,
+      "name": "Navidad De Locos",
+      "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
         "name": "PROFE",
         "url": "https://open.spotify.com/album/1meRwsCIUwhOUI1RrYdymw"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 119192,
       "name": "Pareciera",
       "url": "https://open.spotify.com/track/7nmTxkvOlpU537aJoLAJex"
+    },
+    {
+      "added_at": "2024-12-20 03:00:00",
+      "album": {
+        "name": "El Chucu Chucu",
+        "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 163865,
+      "name": "El Chucu Chucu",
+      "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
     },
     {
       "added_at": "2024-12-20 03:00:00",

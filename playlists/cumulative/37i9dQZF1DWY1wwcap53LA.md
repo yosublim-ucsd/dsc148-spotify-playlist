@@ -2,7 +2,7 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: Shaboozey
+> Country music making waves\. Cover: Shaboozey + The War And Treaty
 
 220 songs - 11 hr 27 min
 

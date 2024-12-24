@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: White-B",
-  "num_followers": 43110,
+  "num_followers": 43113,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,18 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "These Walls (feat. Pierre de Maere)",
-        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
+        "name": "Mauvais Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
         }
       ],
-      "duration_ms": 217597,
-      "name": "These Walls (feat. Pierre de Maere)",
-      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
+      "duration_ms": 162706,
+      "name": "Mauvais Gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -219,18 +215,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "Mauvais Gar\u00e7on",
-        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
+        "name": "These Walls (feat. Pierre de Maere)",
+        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
       },
       "artists": [
         {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
         }
       ],
-      "duration_ms": 162706,
-      "name": "Mauvais Gar\u00e7on",
-      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
+      "duration_ms": 217597,
+      "name": "These Walls (feat. Pierre de Maere)",
+      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "Chaque seconde (Edition deluxe)",
+        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Adieu, nous deux",
+      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt"
       },
@@ -307,38 +323,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "Chaque seconde (Edition deluxe)",
-        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Adieu, nous deux",
-      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "La pluie",
-        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "La pluie",
-      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "Pyramide 2",
         "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 189569,
       "name": "La famine",
       "url": "https://open.spotify.com/track/2miptNhVu6KAZk5aaSUB3Y"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "La pluie",
+        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "La pluie",
+      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "BBL.00",
-        "url": "https://open.spotify.com/album/3cVUQkTMX95geb9vV6KXZ1"
-      },
-      "artists": [
-        {
-          "name": "Arma Jackson",
-          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
-        },
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "BBL.00",
-      "url": "https://open.spotify.com/track/5bNNfbBd4IWXxiuCa9Ahjs"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "AMOR\u00c9",
         "url": "https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 144394,
       "name": "AMOR\u00c9",
       "url": "https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "BBL.00",
+        "url": "https://open.spotify.com/album/3cVUQkTMX95geb9vV6KXZ1"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "BBL.00",
+      "url": "https://open.spotify.com/track/5bNNfbBd4IWXxiuCa9Ahjs"
     },
     {
       "added_at": "2024-12-13 05:00:20",

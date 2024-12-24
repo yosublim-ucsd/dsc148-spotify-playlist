@@ -9647,6 +9647,28 @@
     },
     {
       "album": {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30de\u30fc\u30e1\u30a4\u30c9 (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/0od3OEGKW7YjuV9YlaGWMH"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193620,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30de\u30fc\u30e1\u30a4\u30c9 (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/6CyopB09A1EzYKL7kkyEPQ"
+    },
+    {
+      "album": {
         "name": "\u30b0\u30c3\u30c9\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
         "url": "https://open.spotify.com/album/79hsEqxTrl5F8y5F5OYXgU"
       },
@@ -13384,7 +13406,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 331560,
       "name": "\u685c\u65e5\u548c\u3068\u30bf\u30a4\u30e0\u30de\u30b7\u30f3 with \u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY"

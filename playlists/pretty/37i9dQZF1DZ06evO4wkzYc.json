@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 144337,
+  "num_followers": 144515,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAAD/WSi9jJaKS3Naab2vnP0g",
+  "snapshot_id": "Z2dWgAAAAADJD+l1H67H8jvpOpIZzJrC",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 182299,
-      "name": "Delante De Mi",
-      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fea",
         "url": "https://open.spotify.com/album/7la4CbuvW3PdDFhRtALq6f"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 245035,
       "name": "La Fea",
       "url": "https://open.spotify.com/track/70sOEZiQQI6Ml0TFefmAle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 182299,
+      "name": "Delante De Mi",
+      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/3CR0d75jbVjA69ssyD2U9G"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 238779,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/0ac4sEU1SGqi5wbdrbLA4a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 237679,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 265899,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mejor Para Los Dos",
         "url": "https://open.spotify.com/album/3G8jIUQyVMtgpcm2w7gAch"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 158433,
       "name": "Mejor Para Los 2",
       "url": "https://open.spotify.com/track/6pNCkJBoyHMDdLp5BQqa1i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 265899,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "\ub2e4\uc591\ud55c \uc7a5\ub974\uc640 \uc545\uae30\uac00 \ub354\ud574\uc9c4 \ud4e8\uc804 \uad6d\uc545 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Enjoy fusion Korean national music with various genres and instruments added!)",
+  "description": "\ub2e4\uc591\ud55c \uc7a5\ub974\uc640 \uc545\uae30\uac00 \ub354\ud574\uc9c4 \ud4e8\uc804 \uad6d\uc545 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: Black String (\ube14\ub799\uc2a4\ud2b8\ub9c1)) (Enjoy fusion Korean national music with various genres and instruments added!)",
   "name": "\ud4e8\uc804 \uad6d\uc545 (Fusion Korean National)",
   "tracks": [
     {
@@ -286,6 +286,24 @@
       "duration_ms": 390555,
       "name": "Don't melt down",
       "url": "https://open.spotify.com/track/3L2GF5jxl1ZB67qX7gOnTr"
+    },
+    {
+      "album": {
+        "name": "Road Of Oasis",
+        "url": "https://open.spotify.com/album/5RDHnjCKmXCD7u8b2544gs"
+      },
+      "artists": [
+        {
+          "name": "Black String",
+          "url": "https://open.spotify.com/artist/4N1TfUASlxeKjUkL3omj99"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244440,
+      "name": "East Sea",
+      "url": "https://open.spotify.com/track/5UJZveOgpoldBO7PdYH0vu"
     },
     {
       "album": {
@@ -799,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Pheasant GangGang",
+        "url": "https://open.spotify.com/album/1o04bVkoGiZD4AYT6HNyAz"
+      },
+      "artists": [
+        {
+          "name": "KIM LEE DANG",
+          "url": "https://open.spotify.com/artist/6AoymB64kWmCMCahL1juvF"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141693,
+      "name": "Pheasant GangGang",
+      "url": "https://open.spotify.com/track/0MALDbb4ZNO8cAhopQv6AB"
+    },
+    {
+      "album": {
         "name": "ride the wind",
         "url": "https://open.spotify.com/album/2sHuTeFDcA5KegsWOc9hmz"
       },
@@ -818,6 +854,24 @@
       "duration_ms": 307126,
       "name": "ride the wind (feat. Blank!d)",
       "url": "https://open.spotify.com/track/0FrarKu8G7izoH2NuqPxDx"
+    },
+    {
+      "album": {
+        "name": "Road Of Oasis",
+        "url": "https://open.spotify.com/album/5RDHnjCKmXCD7u8b2544gs"
+      },
+      "artists": [
+        {
+          "name": "Black String",
+          "url": "https://open.spotify.com/artist/4N1TfUASlxeKjUkL3omj99"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601680,
+      "name": "Road of Oasis",
+      "url": "https://open.spotify.com/track/2B3425OhY6XX39gBKI2k33"
     },
     {
       "album": {
@@ -984,6 +1038,24 @@
       "duration_ms": 260790,
       "name": "Things that stop me",
       "url": "https://open.spotify.com/track/16SruDdMS9yjBVZa5G6PJy"
+    },
+    {
+      "album": {
+        "name": "Under The Moonlight",
+        "url": "https://open.spotify.com/album/6M0Z2vksoyDVMDvZOWV0tL"
+      },
+      "artists": [
+        {
+          "name": "DooMool",
+          "url": "https://open.spotify.com/artist/3eCiiGcIxsJhrwEjhIFVAW"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288763,
+      "name": "Under The Moonlight",
+      "url": "https://open.spotify.com/track/7jp8XdIIQx8m4L0uTvuDcP"
     },
     {
       "album": {

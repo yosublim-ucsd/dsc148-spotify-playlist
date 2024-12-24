@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152278,
+  "num_followers": 152288,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAADZ/45r2v+wBhcE9+yB9ix4",
+  "snapshot_id": "Z2dWgAAAAABpT4VeMHNflVbNG1zmMgwd",
   "tracks": [
     {
       "added_at": null,
@@ -690,35 +690,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
-        },
-        {
-          "name": "Amadito Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
         }
       ],
-      "duration_ms": 151720,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 168504,
-      "name": "Si una Vez",
-      "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": null,
@@ -751,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 168504,
+      "name": "Si una Vez",
+      "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nueva Tradici\u00f3n",
         "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
       },
@@ -774,27 +766,19 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
+        },
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        },
+        {
+          "name": "Amadito Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
         }
       ],
-      "duration_ms": 176365,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
+      "duration_ms": 151720,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 147235,
       "name": "Troca",
       "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 176365,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
     },
     {
       "added_at": null,

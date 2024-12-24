@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 79245,
+  "num_followers": 79264,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAABVouGizGmTmIl3YAv6WMqZ",
+  "snapshot_id": "Z2dWgAAAAADcq0uoT2YGk39TEA8ZV8Tf",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
-        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 132866,
-      "name": "We're Only Gonna Die",
-      "url": "https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 115826,
       "name": "True North",
       "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
+        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 132866,
+      "name": "We're Only Gonna Die",
+      "url": "https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 161546,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
+      "duration_ms": 227506,
+      "name": "Struck A Nerve",
+      "url": "https://open.spotify.com/track/7KxBCQf83H3G7EwrIRU2gq"
     },
     {
       "added_at": null,
@@ -708,25 +708,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 227506,
-      "name": "Struck A Nerve",
-      "url": "https://open.spotify.com/track/7KxBCQf83H3G7EwrIRU2gq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "The Approach",
-      "url": "https://open.spotify.com/track/5Oyt7rwRrplyyNyRSRjVc8"
+      "duration_ms": 161546,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 239813,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "The Approach",
+      "url": "https://open.spotify.com/track/5Oyt7rwRrplyyNyRSRjVc8"
     },
     {
       "added_at": null,

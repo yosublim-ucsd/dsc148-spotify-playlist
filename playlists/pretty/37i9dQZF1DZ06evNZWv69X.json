@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8138,
+  "num_followers": 8136,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAAAE5douskmHYaFGn08iAe2V",
+  "snapshot_id": "Z2dWgAAAAACeNjEyavDsumoi53Jee/uN",
   "tracks": [
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 273120,
-      "name": "El Rumbo del Mar",
-      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
+      "duration_ms": 347733,
+      "name": "Lo Que Tu Gesto Da",
+      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 347733,
-      "name": "Lo Que Tu Gesto Da",
-      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
+      "duration_ms": 273120,
+      "name": "El Rumbo del Mar",
+      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,631 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,624 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 83 | [Earth Move Edit](https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6) | [Daire](https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH) | [Earth Move Edit](https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O) | 2:42 |
 | 84 | [SAVE ME](https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [SAVE ME](https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l) | 3:36 |
 | 85 | [Paradise](https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Paradise](https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl) | 2:37 |
-| 86 | [FIREFLY](https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIREFLY](https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b) | 2:57 |
-| 87 | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5) | 4:05 |
+| 86 | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5) | 4:05 |
+| 87 | [FIREFLY](https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIREFLY](https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b) | 2:57 |
 | 88 | [Push That](https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn) | [Stoley](https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR) | [Push That](https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH) | 3:25 |
 | 89 | [The Miracle Makers \- Edit](https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [The Miracle Makers](https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44) | 3:30 |
 | 90 | [Dance With Me](https://open.spotify.com/track/6BAVulcFKGtQX4B6VGm42s) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Dance With Me](https://open.spotify.com/album/4etVqIE0bb6EWDd68nQWxD) | 3:38 |
-| 91 | [Mantra](https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Mantra](https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun) | 3:07 |
-| 92 | [Unconditional](https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu) | 3:04 |
+| 91 | [Unconditional](https://open.spotify.com/track/1926sS8UyXlm06zVDA3drx) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/7nRrREFeaUpxuDmClni2Mu) | 3:04 |
+| 92 | [Mantra](https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Mantra](https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun) | 3:07 |
 | 93 | [The Journey](https://open.spotify.com/track/6Jrrjgp9hvVCBKl3L0CF2T) | [Silva City](https://open.spotify.com/artist/2JJrzNukWHtw9I2SKAjL5j), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [The Journey](https://open.spotify.com/album/6K2yMO5pAWUO9MU7u68yvk) | 4:01 |
 | 94 | [Soul](https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Soul](https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c) | 2:37 |
 | 95 | [Promise](https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Promise](https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP) | 3:02 |

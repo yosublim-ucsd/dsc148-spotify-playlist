@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-326 songs - 18 hr 26 min
+327 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Kanashī](https://open.spotify.com/track/3C8THEDcmKmddbhzznTUbr) | [Yume.Play](https://open.spotify.com/artist/3ZEK7UZm6y7atorVFe86wE) | [Kanashī](https://open.spotify.com/album/7dKJrdXcKzoloyreDTxUDB) | 2:59 | 2024-07-02 |  |
 | [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 | 2023-07-17 | 2024-07-03 |
 | [Kodama](https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Kodama](https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG) | 3:06 | 2024-07-02 |  |
-| [Koi Lake](https://open.spotify.com/track/7f9oIe1k6vFJ4Tp5nA1yZe) | [Cotard Beatz](https://open.spotify.com/artist/7jmEQhBTQ9WVTdHmclo7GC), [Juurio](https://open.spotify.com/artist/4Qqyjqz2uXE8S8m5Mn5H1G) | [Koi Lake](https://open.spotify.com/album/1rTdevjdQR11A5GffklArF) | 2:10 | 2024-07-02 |  |
+| [Koi Lake](https://open.spotify.com/track/7f9oIe1k6vFJ4Tp5nA1yZe) | [Cotard Beatz](https://open.spotify.com/artist/7jmEQhBTQ9WVTdHmclo7GC), [Juurio](https://open.spotify.com/artist/4Qqyjqz2uXE8S8m5Mn5H1G) | [Koi Lake](https://open.spotify.com/album/1rTdevjdQR11A5GffklArF) | 2:10 | 2024-07-02 | 2024-12-24 |
 | [Koto Memories](https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Kyefii](https://open.spotify.com/artist/6jTxLqHhCNVbodPAJB77Sw) | [Koto Memories](https://open.spotify.com/album/4j8gPwwY6gBdMgky70xHTU) | 2:19 | 2024-07-02 |  |
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-07 | 2024-07-03 |
 | [Let's Go \(feat\. DA:ON, Gunjae & H!\)](https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [DA:ON](https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY), [Gunjae](https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [SEOULVIBES, GROCERY](https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX) | 2:51 | 2022-07-04 | 2023-04-21 |
@@ -231,6 +231,7 @@
 | [Sage](https://open.spotify.com/track/63yGlWei594l3Me8KaKF2G) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Sage](https://open.spotify.com/album/26BmBroNz25vIvfSXU5rwd) | 2:27 | 2024-07-02 |  |
 | [Sakai](https://open.spotify.com/track/2ZROj14YkoeoqWxDvphqb0) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Sakai](https://open.spotify.com/album/4sqbLBBQhZiFCNkDs01AvC) | 2:46 | 2024-07-02 |  |
 | [Sakura Season](https://open.spotify.com/track/690j6xy0m3P2lqX4u6ei1E) | [Simon Groß](https://open.spotify.com/artist/4pQcgEsdyEy5XTd0QMmjvD) | [Sakura Season](https://open.spotify.com/album/3zDAiR6CbwlH8Jodmi1VYQ) | 2:46 | 2024-07-02 |  |
+| [Sakura Temple](https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sakura Temple](https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3) | 2:48 | 2024-07-02 |  |
 | [Sakura Trees](https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Buena Vista](https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx) | 1:39 | 2024-07-02 |  |
 | [Sea Of Love](https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:15 | 2022-05-03 | 2024-07-03 |
 | [Secret Place](https://open.spotify.com/track/7nYSThKhGZuaOQ8zeKSm1X) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Harmony](https://open.spotify.com/album/7biuWedEj1S1VAkVovjzX1) | 4:27 | 2024-07-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 86556,
+  "num_followers": 86559,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAABYxd9xHbJgNOT3KjPJ/NwC",
+  "snapshot_id": "Z2dWgAAAAABpELl2OZJfwOX9jiPXAmn9",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 188891,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
         "url": "https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 141204,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
       "url": "https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 188891,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jonas Blue: Electronic Nature - The Mix 2017",
+        "url": "https://open.spotify.com/album/0zMLyv1kNV2B0LDGEK2RbB"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Mark Villa",
+          "url": "https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i"
+        }
+      ],
+      "duration_ms": 163356,
+      "name": "In Your Arms Tonight",
+      "url": "https://open.spotify.com/track/1frhPzQ2B7rM62INKyuLV7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hearts Ain't Gonna Lie (Remixes, Pt. 1)",
         "url": "https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 238451,
       "name": "Hearts Ain't Gonna Lie - Eden Prince Remix",
       "url": "https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jonas Blue: Electronic Nature - The Mix 2017",
-        "url": "https://open.spotify.com/album/0zMLyv1kNV2B0LDGEK2RbB"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Mark Villa",
-          "url": "https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i"
-        }
-      ],
-      "duration_ms": 163356,
-      "name": "In Your Arms Tonight",
-      "url": "https://open.spotify.com/track/1frhPzQ2B7rM62INKyuLV7"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billboard",
-        "url": "https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Tifa Chen",
-          "url": "https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW"
-        }
-      ],
-      "duration_ms": 172728,
-      "name": "Billboard",
-      "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6P1o32YYDNmuzAM7S8A1Ro"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 165120,
       "name": "Angles",
       "url": "https://open.spotify.com/track/1YIhmgvi4tTDD1VAiWQsIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billboard",
+        "url": "https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Tifa Chen",
+          "url": "https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW"
+        }
+      ],
+      "duration_ms": 172728,
+      "name": "Billboard",
+      "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
     },
     {
       "added_at": null,

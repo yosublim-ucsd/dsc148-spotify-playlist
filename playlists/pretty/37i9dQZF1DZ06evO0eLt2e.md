@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,593 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,607 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 41 | [Folsom Prison Blues \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 3:39 |
 | 42 | [Good Morning John](https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Closer to the Bone](https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz) | 2:50 |
 | 43 | [Angels Love Bad Men](https://open.spotify.com/track/4erMZWKJDVPko0AQtWD5ZR) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 3:32 |
-| 44 | [Once More With Feeling](https://open.spotify.com/track/609YKrV5yz6V9e876motcJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 2:50 |
+| 44 | [Jody and the Kid](https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 3:05 |
 | 45 | [The Best Of All Possible Worlds](https://open.spotify.com/track/1CM0IOUM1zYaX4ECXAPQZl) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 2:59 |
 | 46 | [Billy Dee](https://open.spotify.com/track/3YM7FRaoS3GhWqO1z0lh9A) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Silver Tongued Devil and I](https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw) | 2:58 |
 | 47 | [The Lonely Night \- Reprise Version](https://open.spotify.com/track/1RvndHj1xvKJVfe32aKgIv) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Reprise](https://open.spotify.com/album/1bqeVjo54gj4BjjOH8dC97) | 5:42 |
-| 48 | [Jody and the Kid](https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 3:05 |
+| 48 | [Once More With Feeling](https://open.spotify.com/track/609YKrV5yz6V9e876motcJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 2:50 |
 | 49 | [To Beat The Devil](https://open.spotify.com/track/0m3cgYxMSWkAXH42DnabTq) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:42 |
 | 50 | [Please Don't Tell Me How the Story Ends](https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 2:37 |
 | 51 | [Gettin' By, High and Strange](https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 2:34 |
 
-Snapshot ID: `Z2YFAAAAAAD4kxzoFd4XHhyn9ci+jgMM`
+Snapshot ID: `Z2dWgAAAAAAHLdjhrgk8dsszh08uge73`

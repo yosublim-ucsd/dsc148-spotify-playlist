@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 20831,
+  "num_followers": 20839,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Holy Ghost Zone",
-        "url": "https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x"
-      },
-      "artists": [
-        {
-          "name": "Budgie",
-          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
-        }
-      ],
-      "duration_ms": 107316,
-      "name": "Depend on U",
-      "url": "https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Rock With the Hot 8",
         "url": "https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+        "name": "Holy Ghost Zone",
+        "url": "https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
         }
       ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+      "duration_ms": 107316,
+      "name": "Depend on U",
+      "url": "https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 342000,
       "name": "Serve This Royalty",
       "url": "https://open.spotify.com/track/2v2ewUZjfOTWtKops0508z"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2022-10-01 16:00:00",

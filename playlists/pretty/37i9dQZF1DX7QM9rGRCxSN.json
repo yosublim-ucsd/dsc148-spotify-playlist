@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Vesica Piscis en portada.",
-  "num_followers": 33168,
+  "num_followers": 33182,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "casa de espejos",
-        "url": "https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 141484,
-      "name": "casa de espejos",
-      "url": "https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Simona",
         "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 228642,
       "name": "Cielo Negro",
       "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "casa de espejos",
+        "url": "https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 141484,
+      "name": "casa de espejos",
+      "url": "https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "reina de primavera",
-        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 245840,
-      "name": "reina de primavera",
-      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "reina de primavera",
+        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "reina de primavera",
+      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Fuera de Lugar",
         "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
       },
@@ -819,22 +819,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Stillness",
-        "url": "https://open.spotify.com/album/4c3lu3c9sTY23iK13rdjl7"
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
       },
       "artists": [
         {
-          "name": "Chris Koehn",
-          "url": "https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn"
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
         },
         {
-          "name": "Tessa Ia",
-          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+          "name": "Z.A.M.P.A",
+          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
         }
       ],
-      "duration_ms": 248968,
-      "name": "Stillness",
-      "url": "https://open.spotify.com/track/5tR2FyaJKP5pV3XgEQua46"
+      "duration_ms": 267019,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

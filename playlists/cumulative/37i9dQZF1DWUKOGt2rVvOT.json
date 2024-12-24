@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u5468\u8208\u54f2 (Eric Chou)",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u7406\u60f3\u6df7\u86cb (Bestards)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -78,6 +78,28 @@
       "duration_ms": 240217,
       "name": "500\u5929",
       "url": "https://open.spotify.com/track/3tHqubDUl1OHGgGz87YreF"
+    },
+    {
+      "album": {
+        "name": "\u53bb\u59b3\u7684\u5047\u65e5",
+        "url": "https://open.spotify.com/album/16NiqNJRrW8U5H7xKuMyze"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        },
+        {
+          "name": "\u5a41\u5cfb\u78a9",
+          "url": "https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Don\u2019t Waste My Love (feat. \u5a41\u5cfb\u78a9)",
+      "url": "https://open.spotify.com/track/4aDGuAcDPyJuLDR7bRGWQn"
     },
     {
       "album": {
@@ -371,6 +393,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u76f4\u90fd\u5728 (\u300a\u6211\u7684\u9ebb\u54094\u500b\u9b3c\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "\u4e00\u76f4\u90fd\u5728 - \u300a\u6211\u7684\u9ebb\u54094\u500b\u9b3c\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u522a",
         "url": "https://open.spotify.com/album/28mX38Svp099yUXf0qhqps"
       },
@@ -552,7 +592,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 369926,
       "name": "\u4e58\u8457\u7121\u4eba\u5149\u5f71\u7684\u9060\u884c",
       "url": "https://open.spotify.com/track/6OmeRpm2rmf3BoOboNexV0"
@@ -928,7 +968,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 247124,
       "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
@@ -1000,7 +1040,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 199310,
       "name": "\u5341\u5c40\u4e0a\u534a",
       "url": "https://open.spotify.com/track/3YCWozDHFG8NX6BNKnyx7w"
@@ -1232,6 +1272,28 @@
       "duration_ms": 233636,
       "name": "\u5728\u6c92\u6709\u4f60\u4ee5\u5f8c (feat. \u5f35\u667a\u6210)",
       "url": "https://open.spotify.com/track/4mDGkFRAqaYosoyWUI7QzM"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/1024AIZX8jeI3kr6pQo4FR"
+      },
+      "artists": [
+        {
+          "name": "Naiwen Yang",
+          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+        },
+        {
+          "name": "Buddha Jump",
+          "url": "https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258713,
+      "name": "\u58ae\u843d (feat. Buddha Jump \u4f5b\u8df3\u7246)",
+      "url": "https://open.spotify.com/track/1hT86g2KE4982nzi9NfrrO"
     },
     {
       "album": {
@@ -1824,7 +1886,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 226925,
       "name": "\u60c5\u52d2",
       "url": "https://open.spotify.com/track/5stKp2COHUza2lUl17xXRj"
@@ -1842,7 +1904,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 234000,
       "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
       "url": "https://open.spotify.com/track/6v0FGZ8ZcTi66gZejGjzz0"
@@ -1936,7 +1998,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 281237,
       "name": "\u611b\u6c92\u6709\u932f",
       "url": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
@@ -2080,7 +2142,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 255573,
       "name": "\u6211\u53cd\u82bb\u8457\u4f60\u7559\u4e0b\u7684\u5bc2\u5bde",
       "url": "https://open.spotify.com/track/3UrBBzW0iYXg579Qdbb53l"
@@ -2293,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "\u534a\u719f\u7406\u60f3",
+        "url": "https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255838,
+      "name": "\u6642\u9593\u8d70\u4e86\u4f46\u4f60\u6c92\u8d70",
+      "url": "https://open.spotify.com/track/76dwCdjz1zzooRtfFEbN86"
+    },
+    {
+      "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/6sl6IgAnkTvYcta5bOgt4B"
       },
@@ -2437,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "\u628a\u6240\u6709\u7684\u611b\u90fd\u63ee\u970d",
+        "url": "https://open.spotify.com/album/0wG64jKhXBFqzQ6yclsx7N"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229471,
+      "name": "\u6771\u4eac\u591c\u665a\u807d\u8457\u8001\u6d3e\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/4nRK2n0Ruxm9OhsFUmJ5Dy"
+    },
+    {
+      "album": {
         "name": "\u7b49\u5f85\u88ab\u7406\u89e3\u7684\u4eba",
         "url": "https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF"
       },
@@ -2488,6 +2586,24 @@
       "duration_ms": 280097,
       "name": "\u6c92\u6709\u7b2c\u4e09\u8005\u7684\u5206\u624b",
       "url": "https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw"
+    },
+    {
+      "album": {
+        "name": "\u6c92\u6709\u95dc\u4fc2",
+        "url": "https://open.spotify.com/album/56TgG6JFlQHeQFMbXDg4Wt"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160208,
+      "name": "\u6c92\u6709\u95dc\u4fc2",
+      "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
     },
     {
       "album": {
@@ -2712,7 +2828,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 266000,
       "name": "\u767d\u591c",
       "url": "https://open.spotify.com/track/2vC6yUemor24BSBW652MHI"
@@ -2752,6 +2868,24 @@
       "duration_ms": 208461,
       "name": "\u767d\u9e3d",
       "url": "https://open.spotify.com/track/3ZzjBnvlMgDpD4OH0LcGR4"
+    },
+    {
+      "album": {
+        "name": "Fly Machine",
+        "url": "https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243726,
+      "name": "\u771f\u5fc3\u8a71",
+      "url": "https://open.spotify.com/track/06Hci8wC8NSf2r5OHqhivw"
     },
     {
       "album": {
@@ -2986,6 +3120,28 @@
       "duration_ms": 192000,
       "name": "\u8774\u8776 - \u300a\u57fa\u56e0\u6c7a\u5b9a\u6211\u611b\u4f60\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ"
+    },
+    {
+      "album": {
+        "name": "\u53bb\u4f60\u7684\u5e73\u884c\u5b87\u5b99",
+        "url": "https://open.spotify.com/album/3qxj9rbcs9hdYDMxLJeuzs"
+      },
+      "artists": [
+        {
+          "name": "\u6668\u60a0 CHENYO",
+          "url": "https://open.spotify.com/artist/69HAncV59CvB16M51q77AI"
+        },
+        {
+          "name": "Nine Chen",
+          "url": "https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217547,
+      "name": "\u883b\u597d\u807d\u7684\u5176\u5be6 (feat. \u9673\u96f6\u4e5d)",
+      "url": "https://open.spotify.com/track/5mYSOXpz2TrVtOuUbr4eqS"
     },
     {
       "album": {
@@ -3373,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
+        "url": "https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np"
+      },
+      "artists": [
+        {
+          "name": "Mixer",
+          "url": "https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248619,
+      "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
+      "url": "https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5"
+    },
+    {
+      "album": {
         "name": "\u9577\u6210\u4ec0\u9ebc\u6a23\u5b50\u7b97\u611b\u60c5",
         "url": "https://open.spotify.com/album/2mi78WPBCsQtGV7MCTa6HK"
       },
@@ -3384,7 +3558,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 240624,
       "name": "\u9577\u6210\u4ec0\u9ebc\u6a23\u5b50\u7b97\u611b\u60c5",
       "url": "https://open.spotify.com/track/1J6M0Lw3Gyam7qL4ndlXbF"

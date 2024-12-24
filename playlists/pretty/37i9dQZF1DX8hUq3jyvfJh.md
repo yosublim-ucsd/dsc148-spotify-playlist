@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute no volume máximo as mulheres que marcaram a música em 2024!  Foto: Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,540 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,567 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 20 | [24hrs](https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [24hrs](https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91) | 2:20 |
 | 21 | [Se Não For Tu](https://open.spotify.com/track/3JVAHVJGGVqGeNMUTUa3dZ) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Daqui pra Sempre](https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa) | 3:08 |
 | 22 | [10 Minutos](https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 3:36 |
-| 23 | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 |
-| 24 | [Tapete Voador \- Ciganada](https://open.spotify.com/track/4oyPwwKJdETJqfIoQvgQom) | [Mãeana](https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE) | [mãeana canta JG](https://open.spotify.com/album/69gwUwHwo5doAwhWXd80uS) | 4:28 |
+| 23 | [Tapete Voador \- Ciganada](https://open.spotify.com/track/4oyPwwKJdETJqfIoQvgQom) | [Mãeana](https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE) | [mãeana canta JG](https://open.spotify.com/album/69gwUwHwo5doAwhWXd80uS) | 4:28 |
+| 24 | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 |
 | 25 | [Mil Perguntas](https://open.spotify.com/track/2bjIGfm603v9VSSa9gMRpP) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Mil Perguntas](https://open.spotify.com/album/5bjUFqJGPifw1055QQNCN6) | 3:32 |
 | 26 | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
 | 27 | [Má Influência](https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Intensa Até Demais](https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH) | 2:26 |
-| 28 | [Sexto Sentido](https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 1:44 |
-| 29 | [Espero Que Seja Feliz](https://open.spotify.com/track/4qWoFPOfxVjfcwrCNB3jJm) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Espero Que Seja Feliz](https://open.spotify.com/album/5zJxbQQUwXgUbf8tk5A6Qt) | 3:13 |
+| 28 | [Espero Que Seja Feliz](https://open.spotify.com/track/4qWoFPOfxVjfcwrCNB3jJm) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Espero Que Seja Feliz](https://open.spotify.com/album/5zJxbQQUwXgUbf8tk5A6Qt) | 3:13 |
+| 29 | [Sexto Sentido](https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 1:44 |
 | 30 | [só dessa vez](https://open.spotify.com/track/5vf3QAfhpDhAGWvQQYFVHl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [CÉU DA BOCA, a parte I](https://open.spotify.com/album/0l6qJ5iOm9jkYx6VEcRndN) | 2:54 |
 | 31 | [Cacau](https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 3:21 |
 | 32 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 45 | [LOVE COMMUNITY](https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:33 |
 | 46 | [PRIMAVERA NA SELVA](https://open.spotify.com/track/2uutN6hM3ZuZOvu7OoowRo) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96](https://open.spotify.com/album/7HVwretLZVvhXb2gApReVS) | 2:36 |
 | 47 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 |
-| 48 | [Dá Pra Imaginar](https://open.spotify.com/track/6ufCkTUS80Zxocucm14f5B) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:10 |
-| 49 | [Flor da Idade](https://open.spotify.com/track/7JOh9TwdEcsVkXN3EBGZS4) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [FLOR DA IDADE](https://open.spotify.com/album/7oQkwJk8yz86AoBqotZsdk) | 3:36 |
+| 48 | [Flor da Idade](https://open.spotify.com/track/7JOh9TwdEcsVkXN3EBGZS4) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [FLOR DA IDADE](https://open.spotify.com/album/7oQkwJk8yz86AoBqotZsdk) | 3:36 |
+| 49 | [Dá Pra Imaginar](https://open.spotify.com/track/6ufCkTUS80Zxocucm14f5B) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:10 |
 | 50 | [Sabão Em Pó](https://open.spotify.com/track/6LuRjiUDmLPXdmsyTIpdSr) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Na Rua](https://open.spotify.com/album/1mwtHw3jIqEmEKm0Mk5OAN) | 2:58 |
 
 Snapshot ID: `Z1BHxAAAAABKmIidGXmj3ZJAAPhs49d4`

@@ -3095,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Enamorarte",
+        "url": "https://open.spotify.com/album/0IqwNqNpCxvY4ctfiNPSQj"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Enamorarte",
+      "url": "https://open.spotify.com/track/2yokG8XuX62r9kNYIcvRYs"
+    },
+    {
+      "album": {
         "name": "Enfocado En El Presente",
         "url": "https://open.spotify.com/album/0eVgAy8121BjgFlE0pbW9G"
       },
@@ -4450,6 +4468,24 @@
       "duration_ms": 137941,
       "name": "La Original",
       "url": "https://open.spotify.com/track/3py6gppNmac3Lt6dq81hbp"
+    },
+    {
+      "album": {
+        "name": "Capitulo 2: El A\u00f1o Del Dragon",
+        "url": "https://open.spotify.com/album/038xP0ZpQuao8QBXZ14qAQ"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182812,
+      "name": "La Oveja Negra",
+      "url": "https://open.spotify.com/track/6bA5RoXzQE1M4BhiJreCBQ"
     },
     {
       "album": {
@@ -6554,7 +6590,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 145946,
       "name": "Peonia",
       "url": "https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif"
@@ -8846,7 +8882,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 212057,
       "name": "UNA LOKURA",
       "url": "https://open.spotify.com/track/3YEGRP2AvlsfopfqiHkVew"

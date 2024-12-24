@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-527 songs - 1 day 1 hr 12 min
+528 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Powerhouse \(Feat\. Sanjay Dutt\)](https://open.spotify.com/track/2cGtNmEJ0lwrUebjTzAio3) | [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Powerhouse \(Feat\. Sanjay Dutt\)](https://open.spotify.com/album/3PQQ2b6RbARcBU8NFESL0s) | 2:54 | 2024-12-10 |  |
 | [Powerplay](https://open.spotify.com/track/304NwJLBI13meQEv2gvoB0) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Powerplay](https://open.spotify.com/album/5uLNF8MhgDplsMBEeFftLE) | 3:24 | 2024-08-23 |  |
 | [Punjab](https://open.spotify.com/track/3rHWjldztRlz9qjmNBLIf5) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Punjab](https://open.spotify.com/album/7fUILa4pyo0qFQmfc1VXpZ) | 3:39 | 2024-07-26 | 2024-12-06 |
+| [Punjab](https://open.spotify.com/track/1inAjXPJ74BrbYnqrkN1oy) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Punjab](https://open.spotify.com/album/3x0dWg7gNfDbFmuxok0FVg) | 2:16 | 2024-12-23 |  |
 | [Puthe Kamm](https://open.spotify.com/track/4HYvIbn8pJfRuliUgAzPr5) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Janta Toor](https://open.spotify.com/artist/2vqw9iwCdfBW0CAKm2hc3K), [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Puthe Kamm](https://open.spotify.com/album/49pgzd02VxYIe6HfQBlIOo) | 2:40 | 2023-12-01 | 2023-12-08 |
 | [Puthi Matt](https://open.spotify.com/track/63Grzak4SE03nPhMkSzYSL) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Harf Kaur](https://open.spotify.com/artist/3onRJSddy3hsALa3ud6hPP) | [Puthi Matt](https://open.spotify.com/album/2GbcPJ0gnju3HMTm299ufa) | 3:30 | 2024-02-20 | 2024-04-23 |
 | [Putt Jattan De](https://open.spotify.com/track/2n3HUcwbuJbG24fyPDZb8J) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Putt Jattan De](https://open.spotify.com/album/3Z4MbkKMCrrY9YW1fZOM4q) | 2:43 | 2024-02-09 |  |

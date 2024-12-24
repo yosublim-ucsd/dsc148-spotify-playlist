@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Kayzo \\m/",
-  "num_followers": 337050,
+  "num_followers": 337085,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "BRAINDEAD",
-        "url": "https://open.spotify.com/album/4xACBGqzOhJ8A0YJzqAvEn"
-      },
-      "artists": [
-        {
-          "name": "Kill Dyll",
-          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cj6Ql1tVeHWUaNLF4K6Xy"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "The Catastrophists EP",
         "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "BRAINDEAD",
+        "url": "https://open.spotify.com/album/4xACBGqzOhJ8A0YJzqAvEn"
+      },
+      "artists": [
+        {
+          "name": "Kill Dyll",
+          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cj6Ql1tVeHWUaNLF4K6Xy"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2063,6 +2063,26 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "Round n' Round",
+        "url": "https://open.spotify.com/album/5TYEdOgG9hs13w8x7tPjab"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "Round n' Round",
+      "url": "https://open.spotify.com/track/3hWiZ3HbvygE8GSjVZklhw"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "Hold My Breath (Mazare Remix)",
         "url": "https://open.spotify.com/album/1L6AMJSGbd7dmYMk51Lj2B"
       },
@@ -2083,26 +2103,6 @@
       "duration_ms": 174797,
       "name": "Hold My Breath (Mazare Remix)",
       "url": "https://open.spotify.com/track/3P4ScFhRIuGduFKADkZHwE"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
-        "name": "Round n' Round",
-        "url": "https://open.spotify.com/album/5TYEdOgG9hs13w8x7tPjab"
-      },
-      "artists": [
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "Round n' Round",
-      "url": "https://open.spotify.com/track/3hWiZ3HbvygE8GSjVZklhw"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "Werewolf: Synthwave Edition",
         "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 211387,
       "name": "Werewolf: Synthwave Edition",
       "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 174800,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2423,26 +2423,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Brunt",
-        "url": "https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Nosphere",
-          "url": "https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "Brunt",
-      "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -2459,6 +2439,26 @@
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Brunt",
+        "url": "https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Nosphere",
+          "url": "https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td"
+        }
+      ],
+      "duration_ms": 205241,
+      "name": "Brunt",
+      "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
     },
     {
       "added_at": "2024-12-03 16:57:05",

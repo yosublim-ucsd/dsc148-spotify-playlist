@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 160266,
       "name": "Graduating Life",
       "url": "https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa"
@@ -2548,6 +2548,24 @@
       "duration_ms": 267546,
       "name": "Your Love (Has Ruined My Life)",
       "url": "https://open.spotify.com/track/10JEOrrLhzEGQm1HgFnrpN"
+    },
+    {
+      "album": {
+        "name": "No Need To Argue",
+        "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306426,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
     },
     {
       "album": {

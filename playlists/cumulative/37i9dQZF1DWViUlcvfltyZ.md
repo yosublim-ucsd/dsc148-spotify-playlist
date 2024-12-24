@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie, e punk dall'Italia 🎸 GIIN in cover
+> Rock, indie, e punk dall'Italia 🎸 GIIN in cover, e buon natale 🎄
 
-1,240 songs - 2 day 20 hr 57 min
+1,241 songs - 2 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Canzone 10](https://open.spotify.com/track/4kgotZC0lTFDC9VxshW705) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 10](https://open.spotify.com/album/0na7MpYLhqiienk3tW9uSg) | 4:18 | 2022-09-15 | 2023-01-27 |
 | [Canzone 7](https://open.spotify.com/track/71rPnASxvCbdfVyw7H7GZf) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 7](https://open.spotify.com/album/2AEHn0g8fL5e5ZzHzdZOtq) | 3:10 | 2022-09-01 | 2022-09-16 |
 | [Canzone 9](https://open.spotify.com/track/3Lkbk6U4UUyxdseqGmip1b) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Ologenesi](https://open.spotify.com/album/37CdwSrQ0Rexb7EVLfQppx) | 3:22 | 2022-10-06 | 2022-10-21 |
+| [Canzone Di Natale](https://open.spotify.com/track/0O6miCIqoviyvtvYIMvAr0) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Andate Tutti Affanculo](https://open.spotify.com/album/7pRRlzKW7dzUWzBDMuOqNz) | 6:54 | 2024-12-23 |  |
 | [Caosmosi](https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb) | [Caosmosi](https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP) | 5:03 | 2024-03-14 | 2024-06-28 |
 | [Capannone](https://open.spotify.com/track/2O8iMn5Ix5QMk0eyMDfRFg) | [Lepre](https://open.spotify.com/artist/5Trjt6t3hTEwDuczYiwJEx) | [Capannone](https://open.spotify.com/album/4HZgJLtlm0AyCzcXhDwQkh) | 3:06 | 2023-01-12 | 2023-02-24 |
 | [Capelli scarmigliati](https://open.spotify.com/track/0HLhUam366SqCMjtrazrue) | [Maremarcio](https://open.spotify.com/artist/1HkEEypIQJePOJGOEEJFH9) | [Maremarcio/Alas Split](https://open.spotify.com/album/1byaT6ElGVwRZPAyn14GUS) | 2:24 | 2023-10-05 | 2023-11-03 |
@@ -464,7 +465,7 @@
 | [Graphiti :\)](https://open.spotify.com/track/5xx9ZowEw4pbbdvI9qnNNP) | [Monday Comes Twice](https://open.spotify.com/artist/1v7zsqw6ZnRbq8nVDUuDru) | [Graphiti :\)](https://open.spotify.com/album/2QLcmqN7nP9zJRFhdXE3QR) | 3:16 | 2022-05-09 | 2022-05-13 |
 | [Grattacieli](https://open.spotify.com/track/6wgHODpq324HUhYl0BCNN0) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Kintsugi](https://open.spotify.com/album/2u6ZjRuK4C0bI0q7EpTH69) | 3:43 | 2024-02-22 | 2024-05-03 |
 | [Green Visitors](https://open.spotify.com/track/7lj6v3abp8qOfaW6dq6Et7) | [pearl moth](https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq) | [Green Visitors](https://open.spotify.com/album/1jrwVp6Bad69deU7M8t3IG) | 2:48 | 2024-03-14 | 2024-05-03 |
-| [Grigio marrone](https://open.spotify.com/track/5IiNbZdxDpSy3HCd20rDJg) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Grigio marrone](https://open.spotify.com/album/4wbNgXrLj53mYSfZhxJ6Tb) | 3:10 | 2024-10-10 |  |
+| [Grigio marrone](https://open.spotify.com/track/5IiNbZdxDpSy3HCd20rDJg) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Grigio marrone](https://open.spotify.com/album/4wbNgXrLj53mYSfZhxJ6Tb) | 3:10 | 2024-10-10 | 2024-12-24 |
 | [Grunge Morale](https://open.spotify.com/track/4ifzWdf99hgtG6YOPI7jy7) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Superluna Rock Music](https://open.spotify.com/album/6OEAw58eyguAaHQafIE354) | 2:58 | 2022-06-16 | 2022-07-08 |
 | [Guarda questo sasso](https://open.spotify.com/track/76DDq16ZXis1X114sV44qY) | [Cigarilla Disonasty](https://open.spotify.com/artist/3rTEGeGVcOA8fyji7HJTQS) | [Guarda questo sasso](https://open.spotify.com/album/0N2CWz24ocZwSLcitiyRNg) | 3:20 | 2024-05-23 | 2024-06-07 |
 | [Guerra & Pace](https://open.spotify.com/track/3gROXroNiBnk0UNKt5VwpR) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Guerra & Pace](https://open.spotify.com/album/6sJrXwcU50PePEpiPBrPgc) | 5:23 | 2024-01-25 | 2024-03-22 |

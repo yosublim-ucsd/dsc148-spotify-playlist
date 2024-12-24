@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour \ud83c\udf1e",
-  "num_followers": 547697,
+  "num_followers": 547713,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK"
+        "name": "Blame It All On Love",
+        "url": "https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Ben Browning",
+          "url": "https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH"
         }
       ],
-      "duration_ms": 153005,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b"
+      "duration_ms": 254906,
+      "name": "Ride With You",
+      "url": "https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1675,22 +1679,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Blame It All On Love",
-        "url": "https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW"
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Ben Browning",
-          "url": "https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 254906,
-      "name": "Ride With You",
-      "url": "https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF"
+      "duration_ms": 153005,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1829,20 +1829,20 @@
       "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-12-20 14:15:46",
       "album": {
-        "name": "IDK",
-        "url": "https://open.spotify.com/album/4Y83PvVhaZqBbAqusw4M85"
+        "name": "FINALLY OUT",
+        "url": "https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE"
       },
       "artists": [
         {
-          "name": "Vaarwell",
-          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
         }
       ],
-      "duration_ms": 163981,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/4y9wGKxahGfBmvBJM7nGGB"
+      "duration_ms": 196165,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW"
     }
   ],
   "unique_name": "golden hour",

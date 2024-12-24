@@ -5465,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "cute",
+        "url": "https://open.spotify.com/album/2Niz2n9lJqzXA7B33QhyLB"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/6dQVKR45PFeAS49FNeC1T3"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153658,
+      "name": "cute",
+      "url": "https://open.spotify.com/track/6F8naYLBFxmvkQan1e207P"
+    },
+    {
+      "album": {
         "name": "Da Wes Sht",
         "url": "https://open.spotify.com/album/2EBTIvmgYgyBaedPfL70ps"
       },
@@ -6092,7 +6110,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 106666,
       "name": "Divine steps",
       "url": "https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV"

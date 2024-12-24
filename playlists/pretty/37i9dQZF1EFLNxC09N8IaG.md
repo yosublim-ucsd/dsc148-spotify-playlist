@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,648 likes - 186 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,647 likes - 186 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 115 | [Yes I Am](https://open.spotify.com/track/6JX1b07GtvRuCivrLy8Yoc) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken \(Deluxe Edition\)](https://open.spotify.com/album/1TRvDpZjCWms0eUads1xP2) | 3:01 |
 | 116 | [It's Me](https://open.spotify.com/track/0lITQpaDtzpSUlVabqXCr2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Strength Of A Woman](https://open.spotify.com/album/4NbiqWISvtpKiWFwpmtzTF) | 4:30 |
 | 117 | [Horas y Horas \- Spotify Singles](https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Spotify Singles](https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV) | 3:53 |
-| 118 | [Heavenly](https://open.spotify.com/track/6L7VF0RCXiJUflrJDnunza) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:32 |
-| 119 | [Wax](https://open.spotify.com/track/4sJxHl826ztgX6POnBFNW8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:06 |
+| 118 | [Wax](https://open.spotify.com/track/4sJxHl826ztgX6POnBFNW8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:06 |
+| 119 | [Heavenly](https://open.spotify.com/track/6L7VF0RCXiJUflrJDnunza) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:32 |
 | 120 | [Check For Me \(feat\. Chris Brown\)](https://open.spotify.com/track/4M7R9QYjEgDViAei2MyvxH) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Chris Brown](https://open.spotify.com/artist/2IkNCClInttTF0ZyhbyOlk) | [Hate Love \(Deluxe\)](https://open.spotify.com/album/33GGRujNCK56n7wCnafmnf) | 3:14 |
 | 121 | [The Recipe \(with Muni Long\)](https://open.spotify.com/track/4xDoRWwnUASi910ArPewng) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:08 |
 | 122 | [Running](https://open.spotify.com/track/2BRmr1sQbbwbJSomLfxoTC) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The MF Life \(Deluxe Version\)](https://open.spotify.com/album/3PWwOV9kUSHZ4EvFFKWLLY) | 5:29 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 185 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 186 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `Abk2tAAAAAD74DtsNdL8lC2ZCw9JoFbA`
+Snapshot ID: `Abk8QAAAAADkbir73mzGZbOsv5cLSwRO`

@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "eat some pasta",
+        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141762,
+      "name": "eat some pasta",
+      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
+    },
+    {
+      "album": {
         "name": "effort in",
         "url": "https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi"
       },
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 154106,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"

@@ -202,7 +202,7 @@
 | [Yet](https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [Yet](https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft) | 5:02 | 2024-03-19 |  |
 | [You Are Good](https://open.spotify.com/track/3Sm9RiZX3E5ENZNqMuhE2q) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [You Are Good](https://open.spotify.com/album/4F0528pvPbAsCswccCm57R) | 5:11 | 2022-04-15 |  |
 | [You Are Good](https://open.spotify.com/track/3e09OboYspPxZ4OOrAUXss) | [Living Hope](https://open.spotify.com/artist/3G8NoFvD2M9zGEZFq3EfV3) | [There Is More](https://open.spotify.com/album/0xOWA1rEotFtNPxlj8RDiR) | 4:48 | 2024-03-19 |  |
-| [You Love Me](https://open.spotify.com/track/7g67o2O78IMYMzkmopN2e6) | [KJ](https://open.spotify.com/artist/71D8L6gZO2xM7SrFWCrddr) | [You Love Me](https://open.spotify.com/album/0IE9KpCYmg6YYy3jZxJNwE) | 4:11 | 2022-04-15 |  |
+| [You Love Me](https://open.spotify.com/track/7g67o2O78IMYMzkmopN2e6) | [KJ](https://open.spotify.com/artist/7v8caymX9Q7TnhDmXCUOh6) | [You Love Me](https://open.spotify.com/album/0IE9KpCYmg6YYy3jZxJNwE) | 4:11 | 2022-04-15 |  |
 | [Your Love](https://open.spotify.com/track/1o9yDhDTHFEQgk88JnnriX) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Your Love](https://open.spotify.com/album/664weT87LP5crWXjBEs18y) | 5:08 | 2022-04-15 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

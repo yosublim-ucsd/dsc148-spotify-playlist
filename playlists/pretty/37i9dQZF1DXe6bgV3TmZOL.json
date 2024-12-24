@@ -1,6 +1,6 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2420964,
+  "num_followers": 2421072,
   "original_name": "Heavy Workout",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
+        "name": "Lost in the Waves",
+        "url": "https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 224929,
+      "name": "Lost in a Wave",
+      "url": "https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC"
+    },
+    {
+      "added_at": "2024-11-26 17:56:10",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
-    },
-    {
-      "added_at": "2024-11-26 17:56:10",
-      "album": {
-        "name": "Lost in the Waves",
-        "url": "https://open.spotify.com/album/2nnAMneGs3RN6pkl9SxwDt"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 224929,
-      "name": "Lost in a Wave",
-      "url": "https://open.spotify.com/track/6Hye4TXeYUXzU0tWofYdhC"
     },
     {
       "added_at": "2024-11-26 17:56:10",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
+        "name": "If The Sky Came Down",
+        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 312406,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f"
+    },
+    {
+      "added_at": "2024-11-26 17:56:10",
+      "album": {
         "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
         "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 208054,
       "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
       "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
-    },
-    {
-      "added_at": "2024-11-26 17:56:10",
-      "album": {
-        "name": "If The Sky Came Down",
-        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 312406,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f"
     },
     {
       "added_at": "2024-11-26 17:56:10",

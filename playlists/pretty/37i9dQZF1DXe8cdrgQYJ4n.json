@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18409,
+  "num_followers": 18413,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Live My Life",
-      "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 177973,
       "name": "WE ARE YOUNG",
       "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "LUCKY MAN",
-        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
-      },
-      "artists": [
-        {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
-        }
-      ],
-      "duration_ms": 216806,
-      "name": "HeartBROKEN PlaYBoY",
-      "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 217595,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "LUCKY MAN",
+        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "duration_ms": 216806,
+      "name": "HeartBROKEN PlaYBoY",
+      "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
     },
     {
       "added_at": "2024-10-08 11:00:53",

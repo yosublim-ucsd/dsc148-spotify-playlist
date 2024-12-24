@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: <br/>BLASÉ\(블라세\)\)
 
-1,425 songs - 3 day 5 hr 25 min
+1,426 songs - 3 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [Lie \(Feat\. BIG Naughty\)](https://open.spotify.com/track/4B6lrEWB6NixTYhEJ5P2cT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lie \(Feat\. BIG Naughty\)](https://open.spotify.com/album/4goiWh21TYMnfxRkf3XsmB) | 3:35 | 2021-12-21 | 2022-07-04 |
 | [Life Goes On \(Feat\. pH\-1\)](https://open.spotify.com/track/7DNT98RushlHadPmT3qaiX) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Life Goes On \(Feat\. pH\-1\)](https://open.spotify.com/album/5WDXQ5ZLgRb7ckaKzk2AHw) | 3:04 | 2021-12-21 | 2022-07-03 |
 | [Life is a Bi…](https://open.spotify.com/track/4d79iPe88TzFewhFk2vrcy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Life is a Bi…](https://open.spotify.com/album/0VDb4oas0usbuPljrSZH5s) | 2:36 | 2021-12-18 | 2022-07-05 |
+| [Life Is A Movie \(Feat\. Jung Zi So\)](https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti) | [HANDS](https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU) | 3:10 | 2024-12-24 |  |
 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 | 2023-12-15 | 2023-12-27 |
 | [LIFE LOVE LAZY \(Feat\. CHOILB\)](https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [roaming.](https://open.spotify.com/album/6eLVFuisUwXug4uhRcQosX) | 3:09 | 2024-03-21 | 2024-06-05 |
 | [light it up \(feat\. LIL GIMCHI\)](https://open.spotify.com/track/36rFeJ4jO7QF895h211l2N) | [heroincity](https://open.spotify.com/artist/4Sl2QYei5nqAb8bDcccyEP), [Sadboy JB](https://open.spotify.com/artist/7g2bqT5lmeea6rpG3cbEYc), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:21 | 2022-04-18 | 2022-06-17 |

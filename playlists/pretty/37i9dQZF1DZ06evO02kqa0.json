@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 37071,
+  "num_followers": 37079,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAAC1MCHoLRAwvAzjF91pebWX",
+  "snapshot_id": "Z2dWgAAAAAC2WXqIB5txdNO/N2u62iDg",
   "tracks": [
     {
       "added_at": null,
@@ -359,30 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trois jours avec... Maria Callas - Les Grandes Heures",
-        "url": "https://open.spotify.com/album/3dIkjC9waSbv6Rhp3UzGPQ"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Choeur et orchestre du Th\u00e9\u00e2tre de la Scala de Milan",
-          "url": "https://open.spotify.com/artist/76kQOeDvmEDHCHo1iAWKHN"
-        }
-      ],
-      "duration_ms": 445933,
-      "name": "Extrait \"Casta Diva\"",
-      "url": "https://open.spotify.com/track/7B4Q37Q7t37yxqY8T47nFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lyric and Coloratura Arias",
         "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
       },
@@ -403,6 +379,30 @@
       "duration_ms": 292533,
       "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andr\u00f2 lontana",
       "url": "https://open.spotify.com/track/21GgDK5XhuAyUoenrKeTey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trois jours avec... Maria Callas - Les Grandes Heures",
+        "url": "https://open.spotify.com/album/3dIkjC9waSbv6Rhp3UzGPQ"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Choeur et orchestre du Th\u00e9\u00e2tre de la Scala de Milan",
+          "url": "https://open.spotify.com/artist/76kQOeDvmEDHCHo1iAWKHN"
+        }
+      ],
+      "duration_ms": 445933,
+      "name": "Extrait \"Casta Diva\"",
+      "url": "https://open.spotify.com/track/7B4Q37Q7t37yxqY8T47nFo"
     },
     {
       "added_at": null,
@@ -963,26 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romantic Callas",
-        "url": "https://open.spotify.com/album/4ko6iNgiWkk6XmihYtOpPj"
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
       },
       "artists": [
-        {
-          "name": "Nicola Rescigno",
-          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
-        },
-        {
-          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
-          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
-        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 310800,
-      "name": "Don Giovanni, K.527: Non mir dir",
-      "url": "https://open.spotify.com/track/6Q22FGOvAyOHjEuqCNkUMN"
+      "duration_ms": 121282,
+      "name": "Piangete voi",
+      "url": "https://open.spotify.com/track/15EM1Y7lvtVBOzz9jNgw8o"
     },
     {
       "added_at": null,
@@ -1019,18 +1011,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+        "name": "Romantic Callas",
+        "url": "https://open.spotify.com/album/4ko6iNgiWkk6XmihYtOpPj"
       },
       "artists": [
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         }
       ],
-      "duration_ms": 225581,
-      "name": "Qui la voce sua soave",
-      "url": "https://open.spotify.com/track/3GFA0ARfHs9nApXXCHAJ9y"
+      "duration_ms": 310800,
+      "name": "Don Giovanni, K.527: Non mir dir",
+      "url": "https://open.spotify.com/track/6Q22FGOvAyOHjEuqCNkUMN"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,22 @@
       "duration_ms": 202040,
       "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
       "url": "https://open.spotify.com/track/6f2q4uxbxX4fSotAk7tRxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 225581,
+      "name": "Qui la voce sua soave",
+      "url": "https://open.spotify.com/track/3GFA0ARfHs9nApXXCHAJ9y"
     },
     {
       "added_at": null,
@@ -1115,22 +1131,6 @@
       "duration_ms": 205826,
       "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
       "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 121282,
-      "name": "Piangete voi",
-      "url": "https://open.spotify.com/track/15EM1Y7lvtVBOzz9jNgw8o"
     },
     {
       "added_at": null,
@@ -1199,6 +1199,58 @@
       "duration_ms": 180293,
       "name": "Puccini: Madama Butterfly, Act 1: \"Ah! Ah! quanto cielo!\" - \"Ancora un passo or via\" (Coro, Butterfly, Sharpless)",
       "url": "https://open.spotify.com/track/3QgrBIFrguy9QkKhGw1Adr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Romantic Callas",
+        "url": "https://open.spotify.com/album/4ko6iNgiWkk6XmihYtOpPj"
+      },
+      "artists": [
+        {
+          "name": "Laura Zanini",
+          "url": "https://open.spotify.com/artist/5gJbY7e4Va0YzyPbA0rauQ"
+        },
+        {
+          "name": "Vito Susca",
+          "url": "https://open.spotify.com/artist/1vOoKV0D9TYqqZGzb0Z9Q3"
+        },
+        {
+          "name": "Orquesta Sinfonica del Teatro Nacional de Santa Carlos, Lisboa",
+          "url": "https://open.spotify.com/artist/7CR15gHtqlbn8WgRaz71WB"
+        },
+        {
+          "name": "Alvaro Malta",
+          "url": "https://open.spotify.com/artist/1JTCtnySOEp1cZp5OzuUgR"
+        },
+        {
+          "name": "Alessandro Maddalena",
+          "url": "https://open.spotify.com/artist/61BH6Zix11P6bn0yhcmTDN"
+        },
+        {
+          "name": "Alfredo Kraus",
+          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
+        },
+        {
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
+        },
+        {
+          "name": "Piero de Palma",
+          "url": "https://open.spotify.com/artist/7gxxE0IbP9hFZeJVwdWCSc"
+        },
+        {
+          "name": "Coro del Teatro Nacional de Santa Carlos, Lisboa",
+          "url": "https://open.spotify.com/artist/647hntQfDv0yrCYQrkEhSh"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "La Traviata: Libiamo, ne' lieti calici (Brindisi)",
+      "url": "https://open.spotify.com/track/4a5e6pHMFMqI5dM4BhQbVL"
     },
     {
       "added_at": null,
@@ -1419,54 +1471,6 @@
       "duration_ms": 191013,
       "name": "La traviata: Act I: Libiamo ne' lieti calici (Alfredo, Violetta, Chorus)",
       "url": "https://open.spotify.com/track/2bdKKTN86j06sD6LEvbYeJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Boh\u00e8me - Puccini",
-        "url": "https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Manuel Spatafora",
-          "url": "https://open.spotify.com/artist/5ZFns7yMY5of6B79gGAQJO"
-        },
-        {
-          "name": "Nicola Zaccaria",
-          "url": "https://open.spotify.com/artist/1wKLEotRPkbzZOv6CABJI7"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala Di Milan",
-          "url": "https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B"
-        }
-      ],
-      "duration_ms": 252706,
-      "name": "Puccini: La boh\u00e8me, Act 1: \"Ehi! Rodolfo! \u2026 O soave fanciulla, o dolce viso\" (Schaunard, Colline, Marcello, Rodolfo, Mimi)",
-      "url": "https://open.spotify.com/track/332vXZ7UCNUmNQn6xfGPYs"
     }
   ],
   "unique_name": "This Is Maria Callas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,605 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,645 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 3 | [SUN](https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:01 |
 | 4 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 |
 | 5 | [不思議](https://open.spotify.com/track/6NKn02oJDkUkRa9IHbMe3n) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [不思議](https://open.spotify.com/album/5s6klVSavspAWCCKSjDYCn) | 4:50 |
-| 6 | [Pop Virus](https://open.spotify.com/track/4hQ5tBCwPRkzhFB424U63U) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 3:02 |
-| 7 | [恋](https://open.spotify.com/track/1flvuaMS27JxpEBL0u2cWc) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 4:11 |
-| 8 | [Week End](https://open.spotify.com/track/4yBciZ52BnlfqsbwmRKKKp) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:30 |
-| 9 | [アイデア](https://open.spotify.com/track/7jgqNMnqAT9FghC1uSYTFF) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 4:40 |
-| 10 | [生命体](https://open.spotify.com/track/5cf45SvwLDUulsCDHH6osL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:13 |
-| 11 | [おともだち](https://open.spotify.com/track/68BmFo8k9wtaAXgQjRt51s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:12 |
-| 12 | [Beyond the Sequence](https://open.spotify.com/track/0q5bHv4FAaFK5bWYMucHar) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:25 |
-| 13 | [くだらないの中に](https://open.spotify.com/track/1HD7YyTYAQ4LPussdtj7Ui) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [エピソード](https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir) | 4:20 |
-| 14 | [さらしもの \(feat\. PUNPEE\)](https://open.spotify.com/track/0LXJ38MncJmqqVdeUhDIZv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Same Thing](https://open.spotify.com/album/2op3b4cWvxjWI3TlD9M8a3) | 3:50 |
-| 15 | [しかたなく踊る \(Live Session\)](https://open.spotify.com/track/0Ajxm63ciUR7KdbbBMN86s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:23 |
-| 16 | [地獄でなぜ悪い](https://open.spotify.com/track/61znEgS6PbjGHLmQcNr0xZ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 3:41 |
+| 6 | [地獄でなぜ悪い](https://open.spotify.com/track/61znEgS6PbjGHLmQcNr0xZ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 3:41 |
+| 7 | [Pop Virus](https://open.spotify.com/track/4hQ5tBCwPRkzhFB424U63U) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 3:02 |
+| 8 | [恋](https://open.spotify.com/track/1flvuaMS27JxpEBL0u2cWc) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 4:11 |
+| 9 | [Week End](https://open.spotify.com/track/4yBciZ52BnlfqsbwmRKKKp) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:30 |
+| 10 | [アイデア](https://open.spotify.com/track/7jgqNMnqAT9FghC1uSYTFF) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 4:40 |
+| 11 | [生命体](https://open.spotify.com/track/5cf45SvwLDUulsCDHH6osL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:13 |
+| 12 | [おともだち](https://open.spotify.com/track/68BmFo8k9wtaAXgQjRt51s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:12 |
+| 13 | [Beyond the Sequence](https://open.spotify.com/track/0q5bHv4FAaFK5bWYMucHar) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 3:25 |
+| 14 | [くだらないの中に](https://open.spotify.com/track/1HD7YyTYAQ4LPussdtj7Ui) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [エピソード](https://open.spotify.com/album/63gQEvQUZN16y0uROFo1ir) | 4:20 |
+| 15 | [さらしもの \(feat\. PUNPEE\)](https://open.spotify.com/track/0LXJ38MncJmqqVdeUhDIZv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Same Thing](https://open.spotify.com/album/2op3b4cWvxjWI3TlD9M8a3) | 3:50 |
+| 16 | [しかたなく踊る \(Live Session\)](https://open.spotify.com/track/0Ajxm63ciUR7KdbbBMN86s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:23 |
 | 17 | [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:46 |
 | 18 | [灯台 \(Live Session\)](https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:07 |
 | 19 | [仲間はずれ \(Live Session\)](https://open.spotify.com/track/1ntXyakVwav6cNBJRmYpH1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 1:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 69 | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/episode/2g2kFHrb2bFWdWe2I59IIM) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/show/0BLVSv3WdigtRGaZwaWnM9) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/album/0BLVSv3WdigtRGaZwaWnM9) | 5:15 |
 | 70 | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/episode/4Egod6HWtLiHMbepJg4B6Q) | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/show/1Sqer3M4kCCnAnl8AeQ1No) | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/album/1Sqer3M4kCCnAnl8AeQ1No) | 4:04 |
 
-Snapshot ID: `Z2ETAQAAAABj3t2OscK4elj+Za20CJ0C`
+Snapshot ID: `Z2kYjQAAAABeUArBhDwWSzlLCMH6XLc/`

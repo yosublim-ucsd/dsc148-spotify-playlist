@@ -4,7 +4,7 @@
 
 > 
 
-2,037 songs - 4 day 13 hr 18 min
+2,038 songs - 4 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1684,6 +1684,7 @@
 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2021-08-05 |  |
 | [Suffer With Me](https://open.spotify.com/track/3nfj9Fdbl30TvcZE9sU0Vx) | [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Suffer With Me](https://open.spotify.com/album/6G8FJ9OgqUFa5p7qxhAqki) | 3:27 | 2021-11-30 |  |
 | [Sugar](https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:33 | 2023-08-21 |  |
+| [Sugar Water Cyanide](https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Sugar Water Cyanide](https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm) | 2:54 | 2024-12-23 |  |
 | [Suicidal Disciples](https://open.spotify.com/track/4lCFdQo7DSP6OvpSAB4z66) | [Torchfvce](https://open.spotify.com/artist/5mKNKcQD06qvY7WFVmNY2E), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Undergrounds Most Hated](https://open.spotify.com/album/7E7PkaeHFQ9aQNrg4DO29G) | 4:39 | 2021-08-05 |  |
 | [Suicide](https://open.spotify.com/track/4VW4tznoAhLnwgjStIiILn) | [Devin Townsend Band](https://open.spotify.com/artist/571aCWzg7bObPJl5RAs0ZZ) | [Accelerated Evolution](https://open.spotify.com/album/49WiVhHrs9fhmp4MFkLD48) | 6:45 | 2022-08-08 |  |
 | [Suicide](https://open.spotify.com/track/6IdOssj6DmZ8KSQjpXoS1Y) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [Bad Vibes Forever](https://open.spotify.com/album/3FcN9VjRHVC8E7QWQ9ZaTq) | 1:41 | 2021-11-30 |  |

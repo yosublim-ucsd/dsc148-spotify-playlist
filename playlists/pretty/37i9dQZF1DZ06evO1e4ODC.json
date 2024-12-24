@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 198644,
+  "num_followers": 198668,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAABrbEBTPKOM5n9Kvozi/u1R",
+  "snapshot_id": "Z2dWgAAAAABK4TWF2k4Ehq6VUPpCMdN/",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve a Casa",
-        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
+        "name": "Colecci\u00f3n Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
       },
       "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 343746,
-      "name": "Ven, Te Necesito",
-      "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
+      "duration_ms": 327653,
+      "name": "Sum\u00e9rgeme",
+      "url": "https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD"
     },
     {
       "added_at": null,
@@ -115,18 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
+        "name": "Vuelve a Casa",
+        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
       },
       "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 327653,
-      "name": "Sum\u00e9rgeme",
-      "url": "https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD"
+      "duration_ms": 343746,
+      "name": "Ven, Te Necesito",
+      "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "Eras T\u00fa",
-      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
         "url": "https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 246040,
       "name": "No Hay Paredes",
       "url": "https://open.spotify.com/track/2j7FpHZDjUERGXxqL6Dzoi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Eras T\u00fa",
+      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
     },
     {
       "added_at": null,

@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Desperate Others",
+        "url": "https://open.spotify.com/album/2Lt0mEW4Rm53g2UIVYbmfU"
+      },
+      "artists": [
+        {
+          "name": "Same Eyes",
+          "url": "https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193731,
+      "name": "Desperate Others",
+      "url": "https://open.spotify.com/track/6l81uKx4RM53K8KpyOFMcw"
+    },
+    {
+      "album": {
         "name": "Did My Best",
         "url": "https://open.spotify.com/album/5Osm6Z5sBGots1YGx9pBt6"
       },
@@ -1736,6 +1754,24 @@
       "duration_ms": 207760,
       "name": "Do You Wanna Get High?",
       "url": "https://open.spotify.com/track/6JwesoWbzk5pjBi3gaMWjb"
+    },
+    {
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7dZ5Xwp3kmrd7nMpZKrXCM"
+      },
+      "artists": [
+        {
+          "name": "Same Eyes",
+          "url": "https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160041,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4EDN1wMNGoDyvkD6QlS8C1"
     },
     {
       "album": {

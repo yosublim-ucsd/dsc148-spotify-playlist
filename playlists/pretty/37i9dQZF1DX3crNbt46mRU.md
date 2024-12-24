@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,586 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,589 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 76 | [Brich mein Herz](https://open.spotify.com/track/0X2hATGOxLTSoX4NTvG8sL) | [Momo Chahine](https://open.spotify.com/artist/0qWh37EfLCSZDzri7wpi9n), [Seyed](https://open.spotify.com/artist/5iJuniDT0LFzXnMoLI1YFV) | [Brich mein Herz](https://open.spotify.com/album/7sbdTX9KrMB07q7A4raMUT) | 2:38 |
 | 77 | [Something](https://open.spotify.com/track/4trhV1TK0vl4KA9t8xZoSf) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Something](https://open.spotify.com/album/04zTk2sCLc9oFdZCrz1rWl) | 3:06 |
 | 78 | [Viento](https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Viento EP](https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV) | 3:37 |
-| 79 | [New Years Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
+| 79 | [New Year's Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
 | 80 | [PIECES](https://open.spotify.com/track/4DL0QeF9pZFlKN6X9hx5l6) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [PIECES](https://open.spotify.com/album/7q0tw1YCaIVCnnBfxMh4LR) | 2:54 |
 | 81 | [Woanders](https://open.spotify.com/track/4AHvdxfpMsFK4FOmYdB8t2) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS) | [Woanders](https://open.spotify.com/album/2z7vTrlCMTuwf3Z9ayQVEP) | 2:48 |
 | 82 | [Precious](https://open.spotify.com/track/1g0P8fkcvtCEGz9Nq4HH6I) | [Freya Arde](https://open.spotify.com/artist/7oizdx4Ik6jUKnjOqEeiMi) | [Precious](https://open.spotify.com/album/2MTPQkp9YhaiDxKKqLORRw) | 2:50 |

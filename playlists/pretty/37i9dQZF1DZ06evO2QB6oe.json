@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 66920,
+  "num_followers": 66934,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAACO+08JeTdWjzwBz/IRYGjG",
+  "snapshot_id": "Z2dWgAAAAADMJu2q0KcfBlsFiShZ6SAD",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 198839,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -455,6 +439,46 @@
       "duration_ms": 204413,
       "name": "Mar Chiquita",
       "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 198839,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Alguien Me Ve",
+        "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
+      },
+      "artists": [
+        {
+          "name": "DeMasters",
+          "url": "https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        }
+      ],
+      "duration_ms": 176289,
+      "name": "Si Alguien Me Ve",
+      "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
     },
     {
       "added_at": null,
@@ -559,30 +583,6 @@
       "duration_ms": 190836,
       "name": "A Tu Manera (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Alguien Me Ve",
-        "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
-      },
-      "artists": [
-        {
-          "name": "DeMasters",
-          "url": "https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        }
-      ],
-      "duration_ms": 176289,
-      "name": "Si Alguien Me Ve",
-      "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Qu\u00e9 Fuimos (feat. Matisse)",
-      "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palmeras",
         "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 162857,
       "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Qu\u00e9 Fuimos (feat. Matisse)",
+      "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Vibration - Vol. 1",
         "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
       },
@@ -807,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
       },
       "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 228280,
-      "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
+      "duration_ms": 238440,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
     },
     {
       "added_at": null,
@@ -847,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Para Ayudarte a Reir",
-      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbiana II",
         "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
       },
@@ -879,6 +843,42 @@
       "duration_ms": 193844,
       "name": "Pagamento",
       "url": "https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Para Ayudarte a Reir",
+      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUNAY",
         "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 198454,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/5ydWZFeCPA8GTrqlVJZ9h2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
     },
     {
       "added_at": null,
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 220106,
+      "name": "Would You Let Me Go",
+      "url": "https://open.spotify.com/track/6hvIfgaWt5jR1gsxfhEIR1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 176986,
       "name": "Reina de la Selva",
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 220106,
-      "name": "Would You Let Me Go",
-      "url": "https://open.spotify.com/track/6hvIfgaWt5jR1gsxfhEIR1"
     }
   ],
   "unique_name": "This Is Pedro Cap\u00f3",

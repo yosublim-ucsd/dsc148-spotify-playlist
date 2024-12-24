@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Cardellino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,553 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,555 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 53 | [OBSSD](https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [OBSSD](https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy) | 2:40 |
 | 54 | [Achachairú](https://open.spotify.com/track/7j6oBmJVXbdyUHAxXxkMLk) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Achachairú](https://open.spotify.com/album/0X81AVaN0AdhMwCZ9nryhk) | 2:20 |
 | 55 | [para siempre\(｡>﹏<\)](https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [para siempre\(｡>﹏<\)](https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi) | 2:30 |
-| 56 | [Ataúd](https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Ataúd](https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8) | 3:09 |
-| 57 | [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 |
-| 58 | [SAL](https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [SAL](https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh) | 3:21 |
+| 56 | [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 |
+| 57 | [SAL](https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [SAL](https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh) | 3:21 |
+| 58 | [Ataúd](https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Ataúd](https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8) | 3:09 |
 | 59 | [Polos Opuestos](https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Polos Opuestos](https://open.spotify.com/album/4GMF9CjlJMg2H76nOfjMS5) | 4:23 |
 | 60 | [FRANCISCA](https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Francisca](https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D) | 3:37 |
 | 61 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 64 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
 | 65 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |
 | 66 | [TU FAN](https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [TRUFFY](https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:02 |
-| 67 | [VALLADO 3](https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Joyas Del Barrio](https://open.spotify.com/album/4pDa0Jkg14v3coFy2DLuG0) | 2:55 |
-| 68 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
+| 67 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
+| 68 | [VALLADO 3](https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Joyas Del Barrio](https://open.spotify.com/album/4pDa0Jkg14v3coFy2DLuG0) | 2:55 |
 | 69 | [Tengo Una Nota](https://open.spotify.com/track/4JuwOGVCbYwoA9qWerWs5g) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Toda Época Tiene Su Encanto](https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt) | 2:38 |
 | 70 | [something bout u](https://open.spotify.com/track/0QCmFkO9tlG3wyP3Ch6gID) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [something bout u](https://open.spotify.com/album/56nwUA9BfAIDI9EqqKrOd2) | 2:51 |
 | 71 | [Corazón Extraño](https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn), [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Corazón Extraño](https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5) | 2:56 |

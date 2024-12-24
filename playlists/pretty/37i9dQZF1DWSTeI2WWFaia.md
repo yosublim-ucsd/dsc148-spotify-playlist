@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Roc Marciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,528 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,498 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 46 | [DBZ](https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [DBZ](https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S) | 3:11 |
 | 47 | [Dope Sellers](https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Dope Sellers](https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb) | 3:16 |
 | 48 | [Northside](https://open.spotify.com/track/0OtIhBOZpVAvLg2CzqA3Ny) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Once In A Blue Moon](https://open.spotify.com/album/3SXOskfMS4s97wcmyirHmF) | 3:09 |
-| 49 | [Ferraris In The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Ferraris in The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg) | 3:04 |
-| 50 | [Harvey Grant](https://open.spotify.com/track/3q9NyNkRJjiEfosJoGjMh3) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [The Bricktionary](https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P) | 2:27 |
+| 49 | [Dirty Dancing](https://open.spotify.com/track/46WPyviv37r22gwCI6TE29) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [whothehelliscarlo](https://open.spotify.com/artist/0Nijs9ipdrHUPc9OeM9vbl) | [Hidden in Plain Sight](https://open.spotify.com/album/48Y5EUlLMIw3Zt08fCP1HN) | 3:00 |
+| 50 | [Ferraris In The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Ferraris in The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg) | 3:04 |
 
 Snapshot ID: `Z2Tr0AAAAABnXV9DqBpu45K4VCcRO9yi`

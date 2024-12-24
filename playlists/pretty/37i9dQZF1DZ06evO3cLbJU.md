@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 
 > This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,723 likes - 48 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,755 likes - 48 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 29 | [Buscando Más Allá](https://open.spotify.com/track/7xlFGu8Xdu0OW1jEkiwi9t) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6) | 5:14 |
 | 30 | [Día de los Muertos \- Versión 2021](https://open.spotify.com/track/0LseNPvS1vJGmNsmdf4fQd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:33 |
 | 31 | [Chica Rutera](https://open.spotify.com/track/4R8l3l5PNUzPn3aS2ROOnI) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 3:58 |
-| 32 | [Guitarra Comunista](https://open.spotify.com/track/26WaUJaz1bUVKQ8tnKfxya) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 2:54 |
+| 32 | [Sábado](https://open.spotify.com/track/7r9zYfVUtLFacrkVyB0Ov2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:08 |
 | 33 | [Violencia](https://open.spotify.com/track/5yd0LDuANSZTnOGMozk2g1) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Violencia](https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC) | 3:27 |
 | 34 | [Noche Negra \- Versión 2021](https://open.spotify.com/track/1gq4FV6nuuzhW1hiou3QY7) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 2:26 |
 | 35 | [Postales Negras](https://open.spotify.com/track/60uaRxHbP2XSgiysI6QYAt) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6) | 2:36 |
-| 36 | [Sábado](https://open.spotify.com/track/7r9zYfVUtLFacrkVyB0Ov2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:08 |
+| 36 | [Guitarra Comunista](https://open.spotify.com/track/26WaUJaz1bUVKQ8tnKfxya) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 2:54 |
 | 37 | [Rucho](https://open.spotify.com/track/4dmVjUhluiYmeO9MKBSX4O) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Violencia](https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC) | 2:22 |
 | 38 | [Rey del Terror \- Versión 2021](https://open.spotify.com/track/0qlDZcp4EnX3sLqrkzbDnM) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 5:42 |
 | 39 | [Madre](https://open.spotify.com/track/2K3gYx9FgXewNWinYWcmlL) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6) | 2:41 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 47 | [El Rey de la Tv Italiana](https://open.spotify.com/track/55g3VSm0eR8VzszV5Uc4oP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 2:28 |
 | 48 | [La Celebración del Fuego](https://open.spotify.com/track/1U9PDBj6Pj8ZWghNZo7JnV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 2:47 |
 
-Snapshot ID: `Z2YFAAAAAADBF14N5IuUSPoaJXbGtP6V`
+Snapshot ID: `Z2dWgAAAAAA5qEHBH+LTMlMIfhLWj5N/`

@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Megra.",
-  "num_followers": 789552,
+  "num_followers": 793257,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 228688,
-      "name": "GEMINI",
-      "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 154225,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 228688,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
     },
     {
       "added_at": "2024-12-19 23:00:44",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 212325,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
         "name": "leavemealone (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ"
       },
@@ -999,22 +983,18 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
-        "name": "The lights on your face. (DROELOE Remix)",
-        "url": "https://open.spotify.com/album/1DmuirmdZ33y065q9ZD962"
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7"
       },
       "artists": [
         {
-          "name": "The Caracal Project",
-          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
-        },
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
         }
       ],
-      "duration_ms": 208555,
-      "name": "The lights on your face. - DROELOE Remix",
-      "url": "https://open.spotify.com/track/4vPR2m9tS4v7F7JXCqgdJU"
+      "duration_ms": 212325,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp"
     },
     {
       "added_at": "2024-12-19 23:00:44",
@@ -1051,6 +1031,26 @@
       "duration_ms": 207964,
       "name": "LIKE ME",
       "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
+        "name": "The lights on your face. (DROELOE Remix)",
+        "url": "https://open.spotify.com/album/1DmuirmdZ33y065q9ZD962"
+      },
+      "artists": [
+        {
+          "name": "The Caracal Project",
+          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
+        },
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 208555,
+      "name": "The lights on your face. - DROELOE Remix",
+      "url": "https://open.spotify.com/track/4vPR2m9tS4v7F7JXCqgdJU"
     },
     {
       "added_at": "2024-12-19 23:00:44",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/4JGhjPX4l9K4ituHcqNViT"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        },
+        {
+          "name": "Lucy Lucy",
+          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
+        }
+      ],
+      "duration_ms": 240454,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
         "name": "what is life?",
         "url": "https://open.spotify.com/album/3GaUmCnvDwAIhH8IvwH6J9"
       },
@@ -1315,30 +1339,6 @@
       "duration_ms": 209142,
       "name": "Water Sign (feat. Aluna)",
       "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/4JGhjPX4l9K4ituHcqNViT"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
-        },
-        {
-          "name": "Lucy Lucy",
-          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
-        }
-      ],
-      "duration_ms": 240454,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"
     },
     {
       "added_at": "2024-12-19 23:00:44",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
-        "name": "Things to Come",
-        "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 163944,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
         "name": "iwaly",
         "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 201866,
       "name": "iwaly",
       "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
+        "name": "Things to Come",
+        "url": "https://open.spotify.com/album/27vIEhBrsAL30xLMS41ZyA"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 163944,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
     },
     {
       "added_at": "2024-12-19 23:00:44",
@@ -1467,46 +1467,6 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
-        "name": "Finally (Remixes)",
-        "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 239576,
-      "name": "Finally (with Alicia Keys) - Killen. Remix",
-      "url": "https://open.spotify.com/track/5E93mFDjFxE2R2pHZxBe3t"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
-        "name": "GOD IS A GENTLEMAN",
-        "url": "https://open.spotify.com/album/53PuP9zRXP4d7e8VpC6XGU"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "GOD IS A GENTLEMAN",
-      "url": "https://open.spotify.com/track/7hGTUmwwBsKZNErW9chlll"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
         "name": "The Basement",
         "url": "https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr"
       },
@@ -1539,6 +1499,46 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
+        "name": "GOD IS A GENTLEMAN",
+        "url": "https://open.spotify.com/album/53PuP9zRXP4d7e8VpC6XGU"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "GOD IS A GENTLEMAN",
+      "url": "https://open.spotify.com/track/7hGTUmwwBsKZNErW9chlll"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
+        "name": "Finally (Remixes)",
+        "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 239576,
+      "name": "Finally (with Alicia Keys) - Killen. Remix",
+      "url": "https://open.spotify.com/track/5E93mFDjFxE2R2pHZxBe3t"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
         "name": "TALKING WALLS",
         "url": "https://open.spotify.com/album/023LW9WoSCeEDUwLBPIsHJ"
       },
@@ -1551,42 +1551,6 @@
       "duration_ms": 152380,
       "name": "TALKING WALLS",
       "url": "https://open.spotify.com/track/2EgVyvvuU95B3DqEZxbtj5"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
-        "name": "Figure This Out (feat. San Holo)",
-        "url": "https://open.spotify.com/album/6ilPiCiw8i9y3szG0fAvQN"
-      },
-      "artists": [
-        {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        },
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 169784,
-      "name": "Figure This Out (feat. San Holo)",
-      "url": "https://open.spotify.com/track/1ilvye6kjLKIzyJnlxuSzh"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
-        "name": "TURN YOUR HEART AROUND",
-        "url": "https://open.spotify.com/album/1HGSs2zPelvBSJ6TCvyUMw"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        }
-      ],
-      "duration_ms": 172305,
-      "name": "TURN YOUR HEART AROUND",
-      "url": "https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C"
     },
     {
       "added_at": "2024-12-19 23:00:44",
@@ -1615,6 +1579,26 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
+        "name": "Figure This Out (feat. San Holo)",
+        "url": "https://open.spotify.com/album/6ilPiCiw8i9y3szG0fAvQN"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 169784,
+      "name": "Figure This Out (feat. San Holo)",
+      "url": "https://open.spotify.com/track/1ilvye6kjLKIzyJnlxuSzh"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/366r6mv4J4Qsv5EunUmu9Z"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 195789,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/2WtJS2zwWmGVJr07XLhQDC"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
+        "name": "TURN YOUR HEART AROUND",
+        "url": "https://open.spotify.com/album/1HGSs2zPelvBSJ6TCvyUMw"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "duration_ms": 172305,
+      "name": "TURN YOUR HEART AROUND",
+      "url": "https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C"
     },
     {
       "added_at": "2024-12-19 23:00:44",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
+        "name": "Life of a Wallflower , Vol. 2",
+        "url": "https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 166158,
+      "name": "PLACE IN MY MIND (feat. shy martin)",
+      "url": "https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
         "name": "Finally (Remixes)",
         "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 196744,
       "name": "Finally (with Alicia Keys) - YARO Remix",
       "url": "https://open.spotify.com/track/2fyGtldDGBOAktZSstQxIM"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
-        "name": "Life of a Wallflower , Vol. 2",
-        "url": "https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 166158,
-      "name": "PLACE IN MY MIND (feat. shy martin)",
-      "url": "https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N"
     },
     {
       "added_at": "2024-12-19 23:00:44",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
-        "name": "The Sun Comes Up",
-        "url": "https://open.spotify.com/album/63se0MtSWVuGqFLXvSJGmO"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "1996Montana",
-          "url": "https://open.spotify.com/artist/1teoHuJcr4hgFFeC3FOPqD"
-        }
-      ],
-      "duration_ms": 171786,
-      "name": "Supercharger",
-      "url": "https://open.spotify.com/track/3tRJxF5eqEQnc47P1zLgRn"
-    },
-    {
-      "added_at": "2024-12-19 23:00:44",
-      "album": {
         "name": "Spaceman (ft. RIZ LA VIE)",
         "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 179104,
       "name": "Spaceman (ft. RIZ LA VIE)",
       "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
+    },
+    {
+      "added_at": "2024-12-19 23:00:44",
+      "album": {
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/63se0MtSWVuGqFLXvSJGmO"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "1996Montana",
+          "url": "https://open.spotify.com/artist/1teoHuJcr4hgFFeC3FOPqD"
+        }
+      ],
+      "duration_ms": 171786,
+      "name": "Supercharger",
+      "url": "https://open.spotify.com/track/3tRJxF5eqEQnc47P1zLgRn"
     },
     {
       "added_at": "2024-12-19 23:00:44",
@@ -2007,22 +2007,22 @@
     {
       "added_at": "2024-12-19 23:00:44",
       "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/7CKm52JVypwpu4AZUNDcCL"
+        "name": "We Are Making Out",
+        "url": "https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs"
       },
       "artists": [
         {
-          "name": "Bubble Love",
-          "url": "https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         },
         {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 279500,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/3DQHSzs0mtdCHXEPtH1KlQ"
+      "duration_ms": 170975,
+      "name": "We Are Making Out",
+      "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
     }
   ],
   "unique_name": "creamy",

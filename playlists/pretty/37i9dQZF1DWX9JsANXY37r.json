@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121690,
+  "num_followers": 121693,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-11-08 14:24:28",
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Dontcha",
+      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
+    },
+    {
+      "added_at": "2024-11-08 14:24:28",
+      "album": {
         "name": "Pressure (with SG Lewis)",
         "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 169411,
       "name": "Pressure (with SG Lewis)",
       "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
-    },
-    {
-      "added_at": "2024-11-08 14:24:28",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Dontcha",
-      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
     },
     {
       "added_at": "2024-11-08 14:24:28",

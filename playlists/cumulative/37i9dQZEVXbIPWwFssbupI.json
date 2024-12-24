@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -19430,7 +19430,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "J\u2019crois qu\u2019ils ont pas compris",
       "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
@@ -29055,6 +29055,24 @@
     },
     {
       "album": {
+        "name": "Ceinture noire",
+        "url": "https://open.spotify.com/album/1M6fzuQYFey2QmayH1Mb13"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235746,
+      "name": "O\u00f9 aller",
+      "url": "https://open.spotify.com/track/7jyKYXZGo4S8IQy3SrEyhD"
+    },
+    {
+      "album": {
         "name": "Ceinture noire (D\u00e9cennie)",
         "url": "https://open.spotify.com/album/3OBhICzlnZRR5zdQ9FzhYJ"
       },
@@ -29102,7 +29120,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/6m6DLvkfxlezevfiD8qD4B"
@@ -31428,7 +31446,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 219584,
       "name": "PROBATION",
       "url": "https://open.spotify.com/track/75j42uvZCRoUxBcGsEP9Mk"
@@ -37638,7 +37656,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"

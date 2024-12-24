@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAALg66MwID6wTjIFrjNILnrsg0ReB+m",
+  "snapshot_id": "AAALhdgMfMel8eNRwr+kS4j5ehB6XZIA",
   "tracks": [
     {
       "added_at": "2024-07-11 18:34:02",
@@ -6847,6 +6847,38 @@
       "duration_ms": 194333,
       "name": "No Offerings",
       "url": "https://open.spotify.com/track/13bCWzmT2Y7q4zH6E8x2ZA"
+    },
+    {
+      "added_at": "2024-12-23 20:44:02",
+      "album": {
+        "name": "Desperate Others",
+        "url": "https://open.spotify.com/album/2Lt0mEW4Rm53g2UIVYbmfU"
+      },
+      "artists": [
+        {
+          "name": "Same Eyes",
+          "url": "https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR"
+        }
+      ],
+      "duration_ms": 193731,
+      "name": "Desperate Others",
+      "url": "https://open.spotify.com/track/6l81uKx4RM53K8KpyOFMcw"
+    },
+    {
+      "added_at": "2024-12-23 20:48:55",
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7dZ5Xwp3kmrd7nMpZKrXCM"
+      },
+      "artists": [
+        {
+          "name": "Same Eyes",
+          "url": "https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR"
+        }
+      ],
+      "duration_ms": 160041,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4EDN1wMNGoDyvkD6QlS8C1"
     }
   ],
   "unique_name": "Ballads",

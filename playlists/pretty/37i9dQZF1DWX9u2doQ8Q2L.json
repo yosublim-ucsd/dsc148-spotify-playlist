@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 389537,
+  "num_followers": 389564,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-12-17 22:43:25",
       "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "lazy cat",
+      "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
+    },
+    {
+      "added_at": "2024-12-17 22:43:25",
+      "album": {
         "name": "Danger Danger",
         "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2024-12-17 22:43:25",
       "album": {
-        "name": "Under Blue",
-        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "lazy cat",
-      "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
-    },
-    {
-      "added_at": "2024-12-17 22:43:25",
-      "album": {
         "name": "\u4eca\u591c\u306f\u541b\u3068",
         "url": "https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 232134,
       "name": "\u4eca\u591c\u306f\u541b\u3068",
       "url": "https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH"
-    },
-    {
-      "added_at": "2024-12-17 22:43:25",
-      "album": {
-        "name": "RED OUT",
-        "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "RED OUT",
-      "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
     },
     {
       "added_at": "2024-12-17 22:43:25",
@@ -935,6 +919,22 @@
       "duration_ms": 268799,
       "name": "Luv Myself (feat. AKLO & KEIJU)",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "added_at": "2024-12-17 22:43:25",
+      "album": {
+        "name": "RED OUT",
+        "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "RED OUT",
+      "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
     },
     {
       "added_at": "2024-12-17 22:43:25",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-12-17 22:43:25",
       "album": {
+        "name": "\u6bce\u65e5 - Every Day",
+        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 182140,
+      "name": "\u6bce\u65e5 - Every Day",
+      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
+    },
+    {
+      "added_at": "2024-12-17 22:43:25",
+      "album": {
         "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 239625,
       "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
-    },
-    {
-      "added_at": "2024-12-17 22:43:25",
-      "album": {
-        "name": "\u6bce\u65e5 - Every Day",
-        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 182140,
-      "name": "\u6bce\u65e5 - Every Day",
-      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
     },
     {
       "added_at": "2024-12-17 22:43:25",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-12-17 22:43:25",
       "album": {
-        "name": "STARS",
-        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
-      },
-      "artists": [
-        {
-          "name": "w.o.d.",
-          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
-    },
-    {
-      "added_at": "2024-12-17 22:43:25",
-      "album": {
         "name": "\u6708\u3078\u884c\u3053\u3046",
         "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 198370,
       "name": "\u6708\u3078\u884c\u3053\u3046",
       "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
+    },
+    {
+      "added_at": "2024-12-17 22:43:25",
+      "album": {
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
+      },
+      "artists": [
+        {
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
     },
     {
       "added_at": "2024-12-17 22:43:25",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-12-17 22:43:25",
       "album": {
+        "name": "KJ SEASON2",
+        "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "duration_ms": 157026,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP"
+    },
+    {
+      "added_at": "2024-12-17 22:43:25",
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 161366,
       "name": "24/7 YOU...",
       "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
-    },
-    {
-      "added_at": "2024-12-17 22:43:25",
-      "album": {
-        "name": "KJ SEASON2",
-        "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
-      },
-      "artists": [
-        {
-          "name": "Kohjiya",
-          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
-        }
-      ],
-      "duration_ms": 157026,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP"
     },
     {
       "added_at": "2024-12-17 22:43:25",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-12-17 22:43:25",
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 191194,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c"
+    },
+    {
+      "added_at": "2024-12-17 22:43:25",
+      "album": {
         "name": "GAME OVER",
         "url": "https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 204000,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU"
-    },
-    {
-      "added_at": "2024-12-17 22:43:25",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 191194,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c"
     },
     {
       "added_at": "2024-12-17 22:43:25",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-12-17 22:43:25",
       "album": {
-        "name": "Better Days (Japanese Edition)",
-        "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Every Second - Japanese Version",
-      "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
-    },
-    {
-      "added_at": "2024-12-17 22:43:25",
-      "album": {
         "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
         "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 254291,
       "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
       "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
+    },
+    {
+      "added_at": "2024-12-17 22:43:25",
+      "album": {
+        "name": "Better Days (Japanese Edition)",
+        "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Every Second - Japanese Version",
+      "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
     },
     {
       "added_at": "2024-12-17 22:43:25",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-12-17 22:43:25",
       "album": {
+        "name": "\u751f\u547d\u4f53",
+        "url": "https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "\u751f\u547d\u4f53",
+      "url": "https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W"
+    },
+    {
+      "added_at": "2024-12-17 22:43:25",
+      "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 310133,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
-    },
-    {
-      "added_at": "2024-12-17 22:43:25",
-      "album": {
-        "name": "\u751f\u547d\u4f53",
-        "url": "https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "\u751f\u547d\u4f53",
-      "url": "https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W"
     },
     {
       "added_at": "2024-12-17 22:43:25",

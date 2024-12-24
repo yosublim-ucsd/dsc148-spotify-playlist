@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Moon Sujin(\ubb38\uc218\uc9c4))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: Jimmy Brown(\uc9c0\ubbf8 \ube0c\ub77c\uc6b4))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 165306,
       "name": "Alone Again (feat. THAMA)",
       "url": "https://open.spotify.com/track/1BrauT7ZpUxrqrOJSUgiFb"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 140040,
       "name": "Careless I Love You",
       "url": "https://open.spotify.com/track/4EnlWcJi1HfjeINcs5X6XT"
@@ -6115,6 +6115,24 @@
     },
     {
       "album": {
+        "name": "Hesitance",
+        "url": "https://open.spotify.com/album/7jJ3MqzFEJSWhLsx114Skp"
+      },
+      "artists": [
+        {
+          "name": "Kuonechan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Hesitance",
+      "url": "https://open.spotify.com/track/3NEMMUZ9oIV0HlzMSF75Jn"
+    },
+    {
+      "album": {
         "name": "SOULBYSEL Compilation 04",
         "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
       },
@@ -9210,7 +9228,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 183146,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
@@ -14581,6 +14599,28 @@
     },
     {
       "album": {
+        "name": "Goodbye 2024",
+        "url": "https://open.spotify.com/album/4hXeerjljJnzHAyekyPAzV"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210824,
+      "name": "Voyage (feat. Sonny Zero)",
+      "url": "https://open.spotify.com/track/1NNYxB4qccFju9XZ8kO43V"
+    },
+    {
+      "album": {
         "name": "VrVr",
         "url": "https://open.spotify.com/album/7ypRZ5ulYAKBHnzaPBYPgx"
       },
@@ -14928,7 +14968,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 179182,
       "name": "What Would You Do",
       "url": "https://open.spotify.com/track/3o2O6F7QfoEwhmUyAZfk9h"
@@ -15389,6 +15429,24 @@
     },
     {
       "album": {
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Wonderland (Carol ver.)",
+      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
+    },
+    {
+      "album": {
         "name": "Piece of space",
         "url": "https://open.spotify.com/album/38F3lt1f20fXN4paz2XF2X"
       },
@@ -15444,6 +15502,24 @@
       "duration_ms": 232374,
       "name": "Write & Draw",
       "url": "https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34"
+    },
+    {
+      "album": {
+        "name": "X-MAS TREE",
+        "url": "https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256653,
+      "name": "X-MAS TREE",
+      "url": "https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs"
     },
     {
       "album": {

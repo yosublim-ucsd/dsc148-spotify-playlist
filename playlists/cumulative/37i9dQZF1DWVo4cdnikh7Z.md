@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Kadhalikka Neramillai
 
-1,596 songs - 4 day 1 hr 0 min
+1,597 songs - 4 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Dhooram](https://open.spotify.com/track/7zt9YvDQDrJBdHGvNZ4hNX) | [Jhanu Chanthar](https://open.spotify.com/artist/2d1GlRGkn54i5fu2zI5rnc), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Vezham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0SD4vZliEXuuBk6RpMZbqr) | 4:34 | 2022-06-15 | 2022-06-30 |
 | [Dhooram \- From "Theeviram"](https://open.spotify.com/track/56Wd3XPXE27CgKl9l7IGwj) | [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [Shrenik Viswanathan](https://open.spotify.com/artist/2ldZSfmWKHeFJJ9sTSxjKn), [Kalacharan](https://open.spotify.com/artist/06Mrb07iYXhRA3KJP8KxEN) | [Dhooram \(From "Theeviram"\)](https://open.spotify.com/album/4xHCjRoMXuD4kSmeKebQFH) | 4:40 | 2023-01-04 | 2023-01-13 |
 | [Dhooram Pona](https://open.spotify.com/track/1H9eXVNViwIEQkOWVJ6w9F) | [Mark K Robin](https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [KSR](https://open.spotify.com/artist/2tojFy19VoFeFJud9Wvain) | [Ratchan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2g0FGxLQUfN7WpBCSqznsH) | 3:42 | 2022-10-06 | 2022-10-14 |
+| [Dhop \(From "Game Changer"\) \(Tamil\)](https://open.spotify.com/track/0d8qcb1FslP7TFgUifInjl) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Dhop \(From "Game Changer"\) \(Tamil\)](https://open.spotify.com/album/3Q4buHByrXMybfhycOIg1J) | 4:51 | 2024-12-23 |  |
 | [Dhrogam \- From "Agilan"](https://open.spotify.com/track/4plbhkGv5ozLn96lu9pdfc) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Sivam](https://open.spotify.com/artist/52yAITEPYVr5ZEQL0KJyQX), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Dhrogam \(From "Agilan"\)](https://open.spotify.com/album/4U21sIeJd7xabjCNLD8NZi) | 3:55 | 2023-02-28 | 2023-03-29 |
 | [Dippam Dappam](https://open.spotify.com/track/3LEMmV0BgtM7TaJk40PFZU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Kaathuvaakula Rendu Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz) | 3:29 | 2022-04-28 | 2022-10-11 |
 | [Disco Jillebi \(From "Janata Bar"\)](https://open.spotify.com/track/1OzYhut7m3aPFMSupmSBHj) | [Kaviya Isaivi](https://open.spotify.com/artist/5FaeBtVATUD8Zv2Yc3JAcA), [Vinod Yajamanya](https://open.spotify.com/artist/2owwjbhnbOYXcKtShHRrwR) | [Disco Jillebi \(From "Janata Bar"\)](https://open.spotify.com/album/42kdAvViFrl05WphFCDxku) | 4:06 | 2024-04-29 | 2024-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4e1uL7ct1eJLYsIEob5yEp">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007 likes - 76 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006 likes - 76 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 18 | [K.](https://open.spotify.com/track/321Az4ukixsUqmQZFCNbtR) | [Reece Miller](https://open.spotify.com/artist/4WGJkLUI7nU4LI7ny0hRzY) | [K.](https://open.spotify.com/album/6zsDT6LKPyTZOslyh6iON5) | 3:06 |
 | 19 | [almost](https://open.spotify.com/track/2pP9d8G9Hqht3TMPIUWusA) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/4AVmznFXGlNwaZ8E97xHKL) | 2:51 |
 | 20 | [all the way over](https://open.spotify.com/track/4kFoTDLdg7VjMPjWLdmqaC) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [All the Way Over](https://open.spotify.com/album/50ZpYz9MN9r17I9mMhC1d6) | 2:32 |
-| 21 | [mess without u](https://open.spotify.com/track/3m0MvTmpyAtL6CLhYwfZZg) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [mess without u](https://open.spotify.com/album/2fMYMGrySyyKME1LtgFRkz) | 3:14 |
-| 22 | [Top of My List](https://open.spotify.com/track/4SxUmLltcw9E4GX3LJUTZf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 2:22 |
+| 21 | [Top of My List](https://open.spotify.com/track/4SxUmLltcw9E4GX3LJUTZf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 2:22 |
+| 22 | [mess without u](https://open.spotify.com/track/3m0MvTmpyAtL6CLhYwfZZg) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [mess without u](https://open.spotify.com/album/2fMYMGrySyyKME1LtgFRkz) | 3:14 |
 | 23 | [Like You](https://open.spotify.com/track/7p5MI2KnFzTmY31nrGWxki) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Like You](https://open.spotify.com/album/0HzVZc17Up2e3QR7dB3yHD) | 2:45 |
 | 24 | [Give It All](https://open.spotify.com/track/7FpR0I8rasWqpct44KQBnR) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Give It All](https://open.spotify.com/album/5ghCLfm6BWAivnIQ3Jd0nD) | 3:12 |
 | 25 | [stockholm's a ghost town](https://open.spotify.com/track/7cdXnczyweF4F6v7lfB8xh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [stockholm's a ghost town](https://open.spotify.com/album/7yv0GU6bkJGMBxI0C4H6W1) | 2:50 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 75 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 76 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Abk2tAAAAAAiktOWZm55wyLmef7OjqYH`
+Snapshot ID: `Abk8QAAAAACJUg/vhWHpJBkWSg/4quZd`

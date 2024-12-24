@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 121335,
+  "num_followers": 121385,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
         }
       ],
-      "duration_ms": 209962,
-      "name": "Ya No Te Buscar\u00e9",
-      "url": "https://open.spotify.com/track/4A8c2GJnvpq9DIy85VW24v"
+      "duration_ms": 196265,
+      "name": "Asesina de Amor",
+      "url": "https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
         }
       ],
-      "duration_ms": 196265,
-      "name": "Asesina de Amor",
-      "url": "https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m"
+      "duration_ms": 209962,
+      "name": "Ya No Te Buscar\u00e9",
+      "url": "https://open.spotify.com/track/4A8c2GJnvpq9DIy85VW24v"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "A..estilo propio y jaranero",
-        "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos de Bambamarca",
-          "url": "https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m"
-        }
-      ],
-      "duration_ms": 365493,
-      "name": "La Chismosa",
-      "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
         "name": "Falso Amor",
         "url": "https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 246538,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
+        "name": "A..estilo propio y jaranero",
+        "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos de Bambamarca",
+          "url": "https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m"
+        }
+      ],
+      "duration_ms": 365493,
+      "name": "La Chismosa",
+      "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -539,22 +539,18 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Julio Jaramillo",
-        "url": "https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9"
+        "name": "Mejor Que Nunca...Sola Hay Una...!",
+        "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
       },
       "artists": [
         {
-          "name": "Papaya Dada",
-          "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
-        },
-        {
-          "name": "Cumbia Club",
-          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+          "name": "Agua Bella",
+          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
         }
       ],
-      "duration_ms": 143250,
-      "name": "Julio Jaramillo",
-      "url": "https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV"
+      "duration_ms": 243533,
+      "name": "Voy a Buscarme un Amor",
+      "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -575,18 +571,22 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Mejor Que Nunca...Sola Hay Una...!",
-        "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
+        "name": "Julio Jaramillo",
+        "url": "https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9"
       },
       "artists": [
         {
-          "name": "Agua Bella",
-          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
+          "name": "Papaya Dada",
+          "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
+        },
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Voy a Buscarme un Amor",
-      "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
+      "duration_ms": 143250,
+      "name": "Julio Jaramillo",
+      "url": "https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV"
     },
     {
       "added_at": "2024-12-05 22:29:07",

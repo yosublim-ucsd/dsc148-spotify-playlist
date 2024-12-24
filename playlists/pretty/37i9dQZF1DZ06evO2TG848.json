@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 22207,
+  "num_followers": 22213,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAACbSZvZQT9y7VX3Exkye5z5",
+  "snapshot_id": "Z2dWgAAAAADaqM/0wX7yeqN0v0KoQhvF",
   "tracks": [
     {
       "added_at": null,
@@ -594,11 +594,15 @@
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
         }
       ],
-      "duration_ms": 42197,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
+      "duration_ms": 86757,
+      "name": "Bravery",
+      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
     },
     {
       "added_at": null,
@@ -674,15 +678,27 @@
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
         }
       ],
-      "duration_ms": 86757,
-      "name": "Bravery",
-      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
+      "duration_ms": 42197,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 91480,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 300809,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 91480,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Cordon de Plata",
-      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brokeback Mountain Soundtrack",
         "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 152760,
       "name": "Brokeback Mountain 1",
       "url": "https://open.spotify.com/track/2MMboiwtvpKYz1jyB0FUnK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "Cordon de Plata",
+      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
     },
     {
       "added_at": null,
@@ -871,26 +871,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agradecida",
-        "url": "https://open.spotify.com/album/0MkR5Ipn5zLZ3CsaN5Gk0I"
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         },
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
         }
       ],
-      "duration_ms": 250514,
-      "name": "Agradecida",
-      "url": "https://open.spotify.com/track/3RpgEC753NQF0SjbIBsx12"
+      "duration_ms": 218213,
+      "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
+      "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
     },
     {
       "added_at": null,
@@ -940,9 +940,33 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 139906,
-      "name": "Lago Fr\u00edas",
-      "url": "https://open.spotify.com/track/4zce2MGBnswuQl9vqrGwgN"
+      "duration_ms": 158093,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agradecida",
+        "url": "https://open.spotify.com/album/0MkR5Ipn5zLZ3CsaN5Gk0I"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 250514,
+      "name": "Agradecida",
+      "url": "https://open.spotify.com/track/3RpgEC753NQF0SjbIBsx12"
     },
     {
       "added_at": null,
@@ -959,30 +983,6 @@
       "duration_ms": 164560,
       "name": "Sue\u00f1o del Matungo",
       "url": "https://open.spotify.com/track/6UYsBywcQnWSgRF6sEpXpN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Orozco-Barrientos",
-          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
-        }
-      ],
-      "duration_ms": 218213,
-      "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
-      "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
     },
     {
       "added_at": null,
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 158093,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
+      "duration_ms": 139906,
+      "name": "Lago Fr\u00edas",
+      "url": "https://open.spotify.com/track/4zce2MGBnswuQl9vqrGwgN"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

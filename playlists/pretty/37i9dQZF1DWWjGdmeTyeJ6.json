@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover artist: Jackie Hollander, Artwork: Isu Kim",
-  "num_followers": 1215363,
+  "num_followers": 1215290,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2BtqwAAAACprNYyPRTm12TsCTazQlzd",
+  "snapshot_id": "Z2mUEQAAAABXQvYYVAjzx4nIXT+V6jqS",
   "tracks": [
     {
       "added_at": "2024-12-11 20:58:00",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/4nMXpLZYke89xP4MV9ClGB"
     },
     {
+      "added_at": "2024-12-23 16:47:13",
+      "album": {
+        "name": "Wasted Chances",
+        "url": "https://open.spotify.com/album/5HkT6AnwJ40AZYAxFvgY8l"
+      },
+      "artists": [
+        {
+          "name": "Tyler Nance",
+          "url": "https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z"
+        }
+      ],
+      "duration_ms": 194900,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/5HNjPChYGGIbwNVwqGR5a2"
+    },
+    {
       "added_at": "2024-12-11 20:59:17",
       "album": {
         "name": "Contradiction",
@@ -159,6 +175,22 @@
       "duration_ms": 180520,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/11BDQHOvdJQOtMU2gOzXX7"
+    },
+    {
+      "added_at": "2024-12-23 16:47:13",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1Sgq82uJVQZwrjKvCCirAO"
+      },
+      "artists": [
+        {
+          "name": "Computer Kill",
+          "url": "https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof"
+        }
+      ],
+      "duration_ms": 208875,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2vnVcizVXgudJRqhIh2gKX"
     },
     {
       "added_at": "2024-12-11 20:59:17",
@@ -193,6 +225,22 @@
       "url": "https://open.spotify.com/track/6KthiBwozqytvwhxpJw9Sr"
     },
     {
+      "added_at": "2024-12-23 16:47:13",
+      "album": {
+        "name": "Black Train",
+        "url": "https://open.spotify.com/album/6KYBsUfmFBa45f0wUiXxd6"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 227584,
+      "name": "Black Train",
+      "url": "https://open.spotify.com/track/5YQBWtqEm1w42SugkEKU1u"
+    },
+    {
       "added_at": "2024-12-13 05:00:09",
       "album": {
         "name": "Death Spells",
@@ -207,6 +255,22 @@
       "duration_ms": 286315,
       "name": "Death Spells",
       "url": "https://open.spotify.com/track/1SqdwayfShRMtXk5YcVPiP"
+    },
+    {
+      "added_at": "2024-12-23 16:47:13",
+      "album": {
+        "name": "Up Down",
+        "url": "https://open.spotify.com/album/2bGWSh8Y0BvhDFiuKql7v4"
+      },
+      "artists": [
+        {
+          "name": "McCall",
+          "url": "https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT"
+        }
+      ],
+      "duration_ms": 148013,
+      "name": "Up Down",
+      "url": "https://open.spotify.com/track/5kaG5hDwUJgAiAnuO8CzID"
     },
     {
       "added_at": "2024-12-11 20:59:17",
@@ -241,6 +305,22 @@
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
     },
     {
+      "added_at": "2024-12-23 16:47:13",
+      "album": {
+        "name": "anything you do / never disappear",
+        "url": "https://open.spotify.com/album/6yrHnsWYJKZJvP3oMH4foC"
+      },
+      "artists": [
+        {
+          "name": "buffchick",
+          "url": "https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn"
+        }
+      ],
+      "duration_ms": 152158,
+      "name": "never disappear",
+      "url": "https://open.spotify.com/track/4ZI2p1lrbjhPSYvv9unbsl"
+    },
+    {
       "added_at": "2024-12-07 21:46:19",
       "album": {
         "name": "ii",
@@ -255,6 +335,38 @@
       "duration_ms": 131855,
       "name": "coldasice",
       "url": "https://open.spotify.com/track/6seMCDuceen9ne0l0jy8CJ"
+    },
+    {
+      "added_at": "2024-12-23 16:47:13",
+      "album": {
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/2belQTPoQzz17H8yvGVCy0"
+      },
+      "artists": [
+        {
+          "name": "Cannibal Kids",
+          "url": "https://open.spotify.com/artist/44Bvhjv0vxK3kGsHb2EoZT"
+        }
+      ],
+      "duration_ms": 275823,
+      "name": "Chiral",
+      "url": "https://open.spotify.com/track/2pHtMBcPfGUbfwggreahbA"
+    },
+    {
+      "added_at": "2024-12-23 16:47:13",
+      "album": {
+        "name": "kitchen fire",
+        "url": "https://open.spotify.com/album/415pmIWEzJ20hWNQ39EUWp"
+      },
+      "artists": [
+        {
+          "name": "Menea",
+          "url": "https://open.spotify.com/artist/3DN2ZxMkaxsq1tF386AqXU"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "kitchen fire",
+      "url": "https://open.spotify.com/track/1RXHgcu6M2jpe0bs4HItLy"
     },
     {
       "added_at": "2024-12-04 17:11:23",
@@ -305,6 +417,22 @@
       "url": "https://open.spotify.com/track/3IJVpV8WRXZMNqd6gJ1zhD"
     },
     {
+      "added_at": "2024-12-23 16:47:13",
+      "album": {
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/18HBkOC9QCxQ87zCTCSCQc"
+      },
+      "artists": [
+        {
+          "name": "Vaticanjail",
+          "url": "https://open.spotify.com/artist/7bJiw2Rku2rxQMPCuN8yQW"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/09oyGqMXGeIYxIsUkLesj0"
+    },
+    {
       "added_at": "2024-12-04 17:11:23",
       "album": {
         "name": "Does This Make Me A Bitter Woman?",
@@ -351,6 +479,26 @@
       "duration_ms": 264874,
       "name": "Alice",
       "url": "https://open.spotify.com/track/7go4whTIsUM6GirLCZ9bTe"
+    },
+    {
+      "added_at": "2024-12-23 16:47:13",
+      "album": {
+        "name": "we were never close",
+        "url": "https://open.spotify.com/album/1LesDvOS7j4H3rotKoCywh"
+      },
+      "artists": [
+        {
+          "name": "Lani Daye",
+          "url": "https://open.spotify.com/artist/1fYnA1IkOOJ3mtWl02xKk3"
+        },
+        {
+          "name": "amanda.",
+          "url": "https://open.spotify.com/artist/11phfxSrtYFAEuqINl4clm"
+        }
+      ],
+      "duration_ms": 164545,
+      "name": "we were never close",
+      "url": "https://open.spotify.com/track/5Mkh0kG7nsaPyb70nMqmOY"
     },
     {
       "added_at": "2024-12-04 17:11:23",

@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75038,
+  "num_followers": 75033,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Feel Like Clarity",
+        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
+      },
+      "artists": [
+        {
+          "name": "Gaudion",
+          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
+        }
+      ],
+      "duration_ms": 188004,
+      "name": "Feel Like Clarity",
+      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 210725,
       "name": "Without Your Love (feat. Julia Stone)",
       "url": "https://open.spotify.com/track/6fjLKdbtosUNaCfypOPqvn"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Feel Like Clarity",
-        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
-      },
-      "artists": [
-        {
-          "name": "Gaudion",
-          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
-        }
-      ],
-      "duration_ms": 188004,
-      "name": "Feel Like Clarity",
-      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Where'd You Go",
-        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 219479,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -767,8 +767,8 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+        "name": "Where'd You Go",
+        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
       },
       "artists": [
         {
@@ -776,25 +776,9 @@
           "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "nowhere fast",
-        "url": "https://open.spotify.com/album/6aISYSR3BEleXOUVOghsl1"
-      },
-      "artists": [
-        {
-          "name": "Neptune",
-          "url": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
-        }
-      ],
-      "duration_ms": 226388,
-      "name": "in these bones",
-      "url": "https://open.spotify.com/track/3VBQPeOhuoURFqP4GuzE1r"
+      "duration_ms": 219479,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 259250,
       "name": "By Way of the Sea",
       "url": "https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "nowhere fast",
+        "url": "https://open.spotify.com/album/6aISYSR3BEleXOUVOghsl1"
+      },
+      "artists": [
+        {
+          "name": "Neptune",
+          "url": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
+        }
+      ],
+      "duration_ms": 226388,
+      "name": "in these bones",
+      "url": "https://open.spotify.com/track/3VBQPeOhuoURFqP4GuzE1r"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Hit or Miss",
-        "url": "https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6"
-      },
-      "artists": [
-        {
-          "name": "Alexander Biggs",
-          "url": "https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Laundromat",
-      "url": "https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -947,22 +931,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Wasting Time",
-        "url": "https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp"
+        "name": "Hit or Miss",
+        "url": "https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6"
       },
       "artists": [
         {
-          "name": "MADDY MAY",
-          "url": "https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu"
-        },
-        {
-          "name": "Billy Otto",
-          "url": "https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH"
+          "name": "Alexander Biggs",
+          "url": "https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo"
         }
       ],
-      "duration_ms": 192627,
-      "name": "Wasting Time",
-      "url": "https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh"
+      "duration_ms": 235280,
+      "name": "Laundromat",
+      "url": "https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -979,6 +959,26 @@
       "duration_ms": 257786,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp"
+      },
+      "artists": [
+        {
+          "name": "MADDY MAY",
+          "url": "https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu"
+        },
+        {
+          "name": "Billy Otto",
+          "url": "https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH"
+        }
+      ],
+      "duration_ms": 192627,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh"
     },
     {
       "added_at": "2023-11-30 13:00:00",

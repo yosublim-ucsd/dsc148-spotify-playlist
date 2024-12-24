@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 102226,
+  "num_followers": 102270,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -55,22 +55,6 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160856,
-      "name": "ADI\u00d3S",
-      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 267826,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160856,
+      "name": "ADI\u00d3S",
+      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
       "artists": [
         {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 214120,
-      "name": "La resaka",
-      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
         }
       ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+      "duration_ms": 214120,
+      "name": "La resaka",
+      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -795,18 +795,22 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
+        "name": "Feliz Con Verte",
+        "url": "https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph"
       },
       "artists": [
         {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
+        },
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 188053,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
+      "duration_ms": 193636,
+      "name": "Feliz Con Verte",
+      "url": "https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -827,22 +831,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Feliz Con Verte",
-        "url": "https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph"
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
       "artists": [
         {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
-        },
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 193636,
-      "name": "Feliz Con Verte",
-      "url": "https://open.spotify.com/track/6zAHggor2cPFKGoaahcDEM"
+      "duration_ms": 188053,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Muero De Fr\u00edo",
-      "url": "https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
         "name": "Plato \u00danico Bailable",
         "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 298480,
       "name": "Ahora Qui\u00e9n",
       "url": "https://open.spotify.com/track/6orkKcLFfNacnV5J0xnFjJ"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Muero De Fr\u00edo",
+      "url": "https://open.spotify.com/track/3omcI65X80XkY0MqtQmZ73"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Te Mueve",
-        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
-      },
-      "artists": [
-        {
-          "name": "Garras de Amor",
-          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Caprichito",
-      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
         "name": "Plato \u00danico Bailable",
         "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
+        "name": "Te Mueve",
+        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+      },
+      "artists": [
+        {
+          "name": "Garras de Amor",
+          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Caprichito",
+      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
         "name": "Aquel Hotel",
         "url": "https://open.spotify.com/album/1p13W7kw4tvsqak4IDbbJr"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 190082,
       "name": "Pero No Puedo",
       "url": "https://open.spotify.com/track/7kfnYfv7tO6KrCdOS7uWCd"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
+        "name": "Afrorumba Chilenera",
+        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Callejero",
+      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1319,34 +1335,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Imperio de la Cumbia",
-        "url": "https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx"
+        "name": "Mil Amores",
+        "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
       },
       "artists": [
         {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
         }
       ],
-      "duration_ms": 287193,
-      "name": "La Carretera 1",
-      "url": "https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
-        "name": "Afrorumba Chilenera",
-        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Callejero",
-      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
+      "duration_ms": 181308,
+      "name": "Mil Amores",
+      "url": "https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1383,18 +1383,34 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Mil Amores",
-        "url": "https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy"
+        "name": "Imperio de la Cumbia",
+        "url": "https://open.spotify.com/album/1sfzCRMaEsnOO7STpsKswx"
       },
       "artists": [
         {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
         }
       ],
-      "duration_ms": 181308,
-      "name": "Mil Amores",
-      "url": "https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp"
+      "duration_ms": 287193,
+      "name": "La Carretera 1",
+      "url": "https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
+        "name": "Grupo Hechizo",
+        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "La Temporera",
+      "url": "https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1415,18 +1431,22 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "Grupo Hechizo",
-        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+        "name": "La Terrible Pulenta",
+        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
       },
       "artists": [
         {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        },
+        {
+          "name": "Pollo Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV"
         }
       ],
-      "duration_ms": 226173,
-      "name": "La Temporera",
-      "url": "https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH"
+      "duration_ms": 147226,
+      "name": "Cumbia de la G\u00fcena",
+      "url": "https://open.spotify.com/track/1CY7kMLypzLhj8vbBBmNGY"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1479,26 +1499,6 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "La Terrible Pulenta",
-        "url": "https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4"
-      },
-      "artists": [
-        {
-          "name": "La Combo Tortuga",
-          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
-        },
-        {
-          "name": "Pollo Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV"
-        }
-      ],
-      "duration_ms": 147226,
-      "name": "Cumbia de la G\u00fcena",
-      "url": "https://open.spotify.com/track/1CY7kMLypzLhj8vbBBmNGY"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
         "name": "Ahora Que Te Vas",
         "url": "https://open.spotify.com/album/2pajddBhVxUas3ioYXCyHL"
       },
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
+        "name": "De Fiesta Con Hechizo",
+        "url": "https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+        }
+      ],
+      "duration_ms": 209867,
+      "name": "Huellas de Amor",
+      "url": "https://open.spotify.com/track/6ITmr6F8sjiR7OzdI6wpxC"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
         "name": "Teatro Monumental (En Vivo)",
         "url": "https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 516187,
       "name": "Palomita / Olguita / Enga\u00f1adora / Mi Gran Amor (En Vivo)",
       "url": "https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
-        "name": "Dime Qu\u00e9 Pasa",
-        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 186848,
-      "name": "Bailando Como Mono",
-      "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
-        "name": "De Fiesta Con Hechizo",
-        "url": "https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf"
+        "name": "Dime Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
       },
       "artists": [
         {
-          "name": "Grupo Hechizo",
-          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
         }
       ],
-      "duration_ms": 209867,
-      "name": "Huellas de Amor",
-      "url": "https://open.spotify.com/track/6ITmr6F8sjiR7OzdI6wpxC"
+      "duration_ms": 186848,
+      "name": "Bailando Como Mono",
+      "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
     },
     {
       "added_at": "2024-12-06 19:03:54",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-12-06 19:03:54",
       "album": {
+        "name": "Grupo Hechizo",
+        "url": "https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hechizo",
+          "url": "https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "T\u00edmido",
+      "url": "https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed"
+    },
+    {
+      "added_at": "2024-12-06 19:03:54",
+      "album": {
         "name": "Intimo (Live)",
         "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 236448,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3zMTzQ8ABjdAYBUNIbKcwh"
-    },
-    {
-      "added_at": "2024-12-06 19:03:54",
-      "album": {
-        "name": "Saca La Casa Pal Mambo",
-        "url": "https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG"
-      },
-      "artists": [
-        {
-          "name": "El Bloque 8",
-          "url": "https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9"
-        }
-      ],
-      "duration_ms": 162084,
-      "name": "Saca La Casa Pal Mambo",
-      "url": "https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W"
     },
     {
       "added_at": "2024-12-06 19:03:54",

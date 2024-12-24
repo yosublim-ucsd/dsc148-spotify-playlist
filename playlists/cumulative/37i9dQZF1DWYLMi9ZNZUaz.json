@@ -130,7 +130,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 158154,
       "name": "29",
       "url": "https://open.spotify.com/track/5AsZiMkbxLlR68WM3HHKWZ"
@@ -696,6 +696,24 @@
       "duration_ms": 168774,
       "name": "B\u01b0\u1edbc Za \u0110i Xa",
       "url": "https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd"
+    },
+    {
+      "album": {
+        "name": "B\u1ea1ch Nguy\u1ec7t Quang",
+        "url": "https://open.spotify.com/album/0xPBHMALjFZNLWV6eig7RL"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1o",
+          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205753,
+      "name": "B\u1ea1ch Nguy\u1ec7t Quang",
+      "url": "https://open.spotify.com/track/0IbSn77m6lTkFyu6zKn7Fd"
     },
     {
       "album": {
@@ -1328,6 +1346,32 @@
       "duration_ms": 139813,
       "name": "C\u00e0ng Cua",
       "url": "https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri"
+    },
+    {
+      "album": {
+        "name": "C\u00e1 M\u1eadp Con",
+        "url": "https://open.spotify.com/album/14qCKKMXKpVIWkFz9q4U1l"
+      },
+      "artists": [
+        {
+          "name": "Mason Nguyen",
+          "url": "https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31"
+        },
+        {
+          "name": "24k.Right",
+          "url": "https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0"
+        },
+        {
+          "name": "Hipz",
+          "url": "https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0"
+        }
+      ],
+      "date_added": "2024-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175647,
+      "name": "C\u00e1 M\u1eadp Con",
+      "url": "https://open.spotify.com/track/2ZaNDguKgghsZ1LRlbCZNv"
     },
     {
       "album": {
@@ -3040,7 +3084,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 340724,
       "name": "Mu\u1ed1n anh \u0111au",
       "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
@@ -3858,7 +3902,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 205440,
       "name": "OUTTAMOVE",
       "url": "https://open.spotify.com/track/14Mh7VUXNukK5LQn5WzOKt"
@@ -5090,7 +5134,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 232989,
       "name": "T\u00ecnh C\u1edd (feat. CHARLES., Brown, KIMLONG & Duy S\u01a1n)",
       "url": "https://open.spotify.com/track/6u7HUAnyWxVjrKnFGYSQZp"

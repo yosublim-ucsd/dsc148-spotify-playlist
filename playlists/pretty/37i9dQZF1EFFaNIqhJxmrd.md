@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 79 | [Obscene](https://open.spotify.com/track/5o6pZbA04aNAe8rAPapFpO) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:49 |
 | 80 | [Ljuger för mig själv](https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Ljuger för mig själv](https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP) | 2:08 |
 | 81 | [Cherry](https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:30 |
-| 82 | [Pearls](https://open.spotify.com/track/6R6ArKEeJaNrFnSCM80KTn) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 2:47 |
-| 83 | [All I Know](https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [All I Know](https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp) | 2:39 |
+| 82 | [All I Know](https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [All I Know](https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp) | 2:39 |
+| 83 | [Pearls](https://open.spotify.com/track/6R6ArKEeJaNrFnSCM80KTn) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 2:47 |
 | 84 | [Imposter Syndrome](https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 |
 | 85 | [Follow Your Heart \(feat\. HILLARI\)](https://open.spotify.com/track/2exe3a0pDzkK3FEm806WeX) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 2:21 |
 | 86 | [Dum i huvet](https://open.spotify.com/track/39nFgriTt9iockfxEFn9cY) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Dum i huvet](https://open.spotify.com/album/38jCy2g30Nr3x8yksQDXKb) | 2:48 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 98 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 99 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `Abk2lgAAAABGKNkMF64cLDH9w9tIGGRZ`
+Snapshot ID: `Abk8NgAAAAAn67BqNfvu1554eYu06RrJ`

@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110455,
+  "num_followers": 110462,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
+        "name": "Cyrk",
+        "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Cyrk",
+      "url": "https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
         "name": "KONFETTI",
         "url": "https://open.spotify.com/album/4X1n6VXWFDTcknIWKAgHNy"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 137898,
       "name": "Tam czeka mnie dom",
       "url": "https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
-        "name": "Cyrk",
-        "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
-      },
-      "artists": [
-        {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Cyrk",
-      "url": "https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR"
     },
     {
       "added_at": "2024-12-09 10:33:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
+        "name": "Ostatni Dzie\u0144",
+        "url": "https://open.spotify.com/album/6eQIN34KYDbcINZcm6gyrO"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "duration_ms": 196594,
+      "name": "Ostatni Dzie\u0144",
+      "url": "https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
         "name": "Falling Back",
         "url": "https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 189560,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
-        "name": "Ostatni Dzie\u0144",
-        "url": "https://open.spotify.com/album/6eQIN34KYDbcINZcm6gyrO"
-      },
-      "artists": [
-        {
-          "name": "Dominik Dudek",
-          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
-        }
-      ],
-      "duration_ms": 196594,
-      "name": "Ostatni Dzie\u0144",
-      "url": "https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb"
     },
     {
       "added_at": "2024-12-09 10:33:00",

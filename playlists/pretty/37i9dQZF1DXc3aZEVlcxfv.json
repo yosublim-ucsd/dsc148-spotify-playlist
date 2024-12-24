@@ -1,6 +1,6 @@
 {
   "description": "I am blessed!",
-  "num_followers": 2056,
+  "num_followers": 2066,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
     },
     {
-      "added_at": "2024-11-15 00:01:00",
-      "album": {
-        "name": "Holy Spirit",
-        "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 351666,
-      "name": "Holy Spirit",
-      "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
-    },
-    {
       "added_at": "2024-09-27 00:01:00",
       "album": {
         "name": "Chapter Two",
@@ -591,6 +575,22 @@
       "duration_ms": 657912,
       "name": "Big God",
       "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
+    },
+    {
+      "added_at": "2024-11-15 00:01:00",
+      "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Ekwueme to the World Project",
-        "url": "https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Prospa Ochimana",
-          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
-        },
-        {
-          "name": "Osinachi Nwachukwu",
-          "url": "https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 417169,
-      "name": "Ekwueme",
-      "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -711,18 +707,22 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Ekwueme to the World Project",
+        "url": "https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        },
+        {
+          "name": "Osinachi Nwachukwu",
+          "url": "https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+      "duration_ms": 417169,
+      "name": "Ekwueme",
+      "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -977,20 +977,20 @@
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
+      "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+        "name": "ZOE",
+        "url": "https://open.spotify.com/album/3H9ke91YEz9p6m3Gj1QI6I"
       },
       "artists": [
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+      "duration_ms": 209403,
+      "name": "ZOE",
+      "url": "https://open.spotify.com/track/5hIs8axd88ghEVcfagZRqv"
     }
   ],
   "unique_name": "Blessed",

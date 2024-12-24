@@ -147,22 +147,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Somebody Else - Spotify Singles",
-        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 300341,
-      "name": "Somebody Else - Spotify Singles",
-      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "Weathervane",
         "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 224173,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Somebody Else - Spotify Singles",
+        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 300341,
+      "name": "Somebody Else - Spotify Singles",
+      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Ta med deg d\u00f8ra",
-        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 211810,
-      "name": "Ta med deg d\u00f8ra",
-      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "A Potion For Love",
         "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 216426,
       "name": "A Potion For Love",
       "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Ta med deg d\u00f8ra",
+        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 211810,
+      "name": "Ta med deg d\u00f8ra",
+      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "Catalonia",
+      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 226666,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Catalonia",
-      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "TORRES TIVOLI",
         "url": "https://open.spotify.com/album/1W3jGggBsdahWy19uKxYMj"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 151466,
       "name": "vinner",
       "url": "https://open.spotify.com/track/5hKZmsVhSmC56KXGpftOCu"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "Learning as I go",
         "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 167280,
       "name": "Learning as I go",
       "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -663,22 +663,22 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
-        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
+        "name": "leilo brenner (Spotify Studio It's Hits Recording)",
+        "url": "https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
         },
         {
-          "name": "Lars Vaular",
-          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 220333,
-      "name": "S\u00e5 easy",
-      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
+      "duration_ms": 143197,
+      "name": "leilo brenner - Spotify Studio It\u00b4s Hits Recording",
+      "url": "https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -703,22 +703,22 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "leilo brenner (Spotify Studio It's Hits Recording)",
-        "url": "https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi"
+        "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
+        "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
       },
       "artists": [
         {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
         },
         {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+          "name": "Lars Vaular",
+          "url": "https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2"
         }
       ],
-      "duration_ms": 143197,
-      "name": "leilo brenner - Spotify Studio It\u00b4s Hits Recording",
-      "url": "https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT"
+      "duration_ms": 220333,
+      "name": "S\u00e5 easy",
+      "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Over Deg",
-        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ"
       },
       "artists": [
         {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+          "name": "Sivert H\u00f8yem",
+          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
         }
       ],
-      "duration_ms": 147093,
-      "name": "Over Deg",
-      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
+      "duration_ms": 236333,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1011,6 +1011,22 @@
       "duration_ms": 176433,
       "name": "Happy Tears",
       "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Over Deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Over Deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1095,6 +1111,26 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
+        "name": "reasons why u should text me. (+1 (818) 643-6885)",
+        "url": "https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 147950,
+      "name": "shine.",
+      "url": "https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
         "name": "Har du glemt meg?",
         "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
       },
@@ -1123,42 +1159,6 @@
       "duration_ms": 192818,
       "name": "Head In My Hands",
       "url": "https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "reasons why u should text me. (+1 (818) 643-6885)",
-        "url": "https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi"
-      },
-      "artists": [
-        {
-          "name": "will hyde",
-          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 147950,
-      "name": "shine.",
-      "url": "https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ"
-      },
-      "artists": [
-        {
-          "name": "Sivert H\u00f8yem",
-          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
         "name": "Synd synd synd",
         "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 151893,
       "name": "Ikke lenger din",
       "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "D\u00e5rlig id\u00e9",
-        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 132616,
-      "name": "D\u00e5rlig id\u00e9",
-      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "Ti tusen",
         "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 180906,
       "name": "Ti tusen",
       "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "People Come And Go",
+        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 154076,
+      "name": "People Come And Go",
+      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 詩羽 × CENT
 
-781 songs - 1 day 20 hr 55 min
+782 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [ギンモクセイ](https://open.spotify.com/track/5fe3tm8tR3RogeeJ5XiTNh) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ギンモクセイ](https://open.spotify.com/album/4pNeEiY5zEgPlYg0plIkyE) | 3:09 | 2024-07-16 | 2024-10-02 |
 | [クズリ念](https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [虚仮の一念海馬に託す](https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr) | 3:55 | 2024-10-22 |  |
 | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 | 2024-12-10 |  |
+| [クリスマスマーメイド \(feat\. ひかり\)](https://open.spotify.com/track/6CyopB09A1EzYKL7kkyEPQ) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [クリスマスマーメイド \(feat\. ひかり\)](https://open.spotify.com/album/0od3OEGKW7YjuV9YlaGWMH) | 3:13 | 2024-12-23 |  |
 | [グッドミュージック](https://open.spotify.com/track/4Y1HKX8JNTNWikn3pl5uug) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [グッドミュージック](https://open.spotify.com/album/79hsEqxTrl5F8y5F5OYXgU) | 3:08 | 2023-11-23 | 2023-11-30 |
 | [ケタタマ \- feat\. Mori Calliope](https://open.spotify.com/track/2LHNdyP8WcDUi70Y7LHOmL) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [ケタタマ \(feat\. Mori Calliope\)](https://open.spotify.com/album/3tliDt4FKNpQ02aPI2Ftet) | 3:26 | 2023-11-23 | 2023-12-13 |
 | [コロンブス](https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [コロンブス](https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp) | 3:47 | 2024-06-11 | 2024-07-10 |
@@ -706,7 +707,7 @@
 | [有線ラジオで僕の歌が流れていたらしい](https://open.spotify.com/track/4uSA7MVSIiSPyNby6XHhcS) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [BOY & GIRLS](https://open.spotify.com/album/1DiYOvRSotct1CN2A4fwlT) | 3:25 | 2024-10-08 | 2024-11-13 |
 | [朝、月面も笑っている](https://open.spotify.com/track/5svU70lHljjQlAF57o9jii) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [朝、月面も笑っている](https://open.spotify.com/album/7xHEODL01FT1OzqZP0Riyd) | 3:26 | 2024-04-30 | 2024-06-05 |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-16 | 2024-08-23 |
-| [桜日和とタイムマシン with 初音ミク](https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [桜日和とタイムマシン with 初音ミク／初夏](https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg) | 5:31 | 2024-10-29 |  |
+| [桜日和とタイムマシン with 初音ミク](https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [桜日和とタイムマシン with 初音ミク／初夏](https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg) | 5:31 | 2024-10-29 | 2024-12-24 |
 | [歌うbot](https://open.spotify.com/track/2Ihf0kqtWi1bgCtqFJhfQE) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [歌うbot](https://open.spotify.com/album/3Hlwsnj1teoUk2NQGoCNmI) | 2:02 | 2024-05-21 | 2024-05-29 |
 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 | 2024-01-23 | 2024-04-10 |
 | [毎日 \- Every Day](https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [毎日 \- Every Day](https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978) | 3:02 | 2024-05-28 | 2024-07-31 |

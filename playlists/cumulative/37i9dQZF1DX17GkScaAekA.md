@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-122 songs - 7 hr 57 min
+123 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/1VsxTA8He1KckavTf8fNlh) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/1ejEKPKa3o0Y05f9hRFQWL) | 1:13 | 2021-11-09 | 2024-06-01 |
 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 | 2022-07-18 | 2024-04-19 |
 | [Merry\-Go\-Round of Life \- from 'Howl's Moving Castle'](https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 5:11 | 2021-11-09 | 2024-09-28 |
+| [Moments musicaux, Op\. 16: No\. 6 in C Major, Maestoso](https://open.spotify.com/track/2Cm68BHv3MzgNBez4QPW3t) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Vadim Chaimovich](https://open.spotify.com/artist/5EfeuEtilmCk8J49T35rqb) | [Rachmaninoff: Moments musicaux, Op\. 16: No\. 6 in C Major, Maestoso](https://open.spotify.com/album/3mlbcpvJOyok1Huh7l0yH6) | 5:38 | 2024-12-23 |  |
 | [Mozart: Fantasia in D Minor, K\. 397](https://open.spotify.com/track/1O0XZAJf8fIN7wRgXffL0P) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart](https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW) | 5:19 | 2023-11-21 | 2024-04-19 |
 | [Mozart: Requiem in D Minor, K\. 626: VIII\. Lacrimosa](https://open.spotify.com/track/1zPLpeOx6Xl7r7zeEtvOb0) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Pierre Génisson](https://open.spotify.com/artist/0tF4SmLJvn3gTurPM8TWC2), [Bruno Fontaine](https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp) | [Mozart 1791 \- Requiem in D Minor, K\. 626: VIII\. Lacrimosa](https://open.spotify.com/album/5pq2RfYxLtcTlqAGj87HY1) | 3:09 | 2023-10-13 | 2024-08-01 |
 | [Music for a While \(from Oedipus, Z\. 583\)](https://open.spotify.com/track/3ExGm8D3DUSezDEvPiRsYG) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF) | [Music for a While \(from Oedipus, Z\. 583\)](https://open.spotify.com/album/47DlK06Ua9XvSXOkYO8GMj) | 4:08 | 2022-03-28 | 2024-06-01 |

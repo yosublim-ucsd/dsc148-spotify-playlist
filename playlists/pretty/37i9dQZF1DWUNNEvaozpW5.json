@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Rulo, Coque Malla y Dani Mart\u00edn.",
-  "num_followers": 588637,
+  "num_followers": 588702,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-12-19 23:00:48",
       "album": {
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+      },
+      "artists": [
+        {
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
+    },
+    {
+      "added_at": "2024-12-19 23:00:48",
+      "album": {
         "name": "Ahora o nunca",
         "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 189600,
       "name": "Y volar (con los Caligaris)",
       "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
-    },
-    {
-      "added_at": "2024-12-19 23:00:48",
-      "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
-      },
-      "artists": [
-        {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2024-12-19 23:00:48",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-12-19 23:00:48",
       "album": {
-        "name": "Poes\u00eda B\u00e1sica",
-        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
-      },
-      "artists": [
-        {
-          "name": "Extrechinato y Tu",
-          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Rojitas",
-      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
-    },
-    {
-      "added_at": "2024-12-19 23:00:48",
-      "album": {
         "name": "Veneno En La Piel",
         "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 222013,
       "name": "Veneno en la Piel",
       "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+    },
+    {
+      "added_at": "2024-12-19 23:00:48",
+      "album": {
+        "name": "Poes\u00eda B\u00e1sica",
+        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
+      },
+      "artists": [
+        {
+          "name": "Extrechinato y Tu",
+          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Rojitas",
+      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
     },
     {
       "added_at": "2024-12-19 23:00:48",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-12-19 23:00:48",
       "album": {
-        "name": "Maneras De Vivir",
-        "url": "https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f1o",
-          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Maneras de Vivir (Single Estudio)",
-      "url": "https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB"
-    },
-    {
-      "added_at": "2024-12-19 23:00:48",
-      "album": {
         "name": "Jugar Al Gua",
         "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 262626,
       "name": "Flojos de pantal\u00f3n",
       "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
+    },
+    {
+      "added_at": "2024-12-19 23:00:48",
+      "album": {
+        "name": "Maneras De Vivir",
+        "url": "https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Maneras de Vivir (Single Estudio)",
+      "url": "https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB"
     },
     {
       "added_at": "2024-12-19 23:00:48",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-12-19 23:00:48",
       "album": {
-        "name": "Corre Corre",
-        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f1o",
-          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
-        }
-      ],
-      "duration_ms": 245440,
-      "name": "Sorprendente",
-      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
-    },
-    {
-      "added_at": "2024-12-19 23:00:48",
-      "album": {
         "name": "Vamos Tirando",
         "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
+    },
+    {
+      "added_at": "2024-12-19 23:00:48",
+      "album": {
+        "name": "Corre Corre",
+        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "duration_ms": 245440,
+      "name": "Sorprendente",
+      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
     },
     {
       "added_at": "2024-12-19 23:00:48",

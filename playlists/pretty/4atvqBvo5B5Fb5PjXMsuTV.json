@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Dec 19:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Dec 14:02 UTC.",
   "num_followers": 86,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOHNUtXfXNHBGykaBsvPz8e9Wv8jvt",
+  "snapshot_id": "AAAOHq49C+C2IRZ9UVjwyza/eh7Fsy6N",
   "tracks": [
+    {
+      "added_at": "2024-12-23 14:02:37",
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/4GKRgu7kLbEPjkOG3wiMhU"
+      },
+      "artists": [
+        {
+          "name": "Kim Kardashian",
+          "url": "https://open.spotify.com/artist/0VyNiaUWxot9V0efpoi0qt"
+        }
+      ],
+      "duration_ms": 209677,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1EITuSys8hwjL8f6CsajuA"
+    },
     {
       "added_at": "2024-12-22 09:03:03",
       "album": {
@@ -805,22 +821,6 @@
       "url": "https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD"
     },
     {
-      "added_at": "2024-12-21 04:02:36",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/0xzEUxhtT3GiwgpxBps7HS"
-      },
-      "artists": [
-        {
-          "name": "Holly Macve",
-          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "River",
-      "url": "https://open.spotify.com/track/4FhqI1mZkKpdAGtCiLIKHh"
-    },
-    {
       "added_at": "2024-12-22 04:03:01",
       "album": {
         "name": "not/lost",
@@ -835,6 +835,22 @@
       "duration_ms": 186251,
       "name": "not/lost",
       "url": "https://open.spotify.com/track/5EVqaXDACZZPYPbNwZOJA8"
+    },
+    {
+      "added_at": "2024-12-21 04:02:36",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/0xzEUxhtT3GiwgpxBps7HS"
+      },
+      "artists": [
+        {
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "River",
+      "url": "https://open.spotify.com/track/4FhqI1mZkKpdAGtCiLIKHh"
     },
     {
       "added_at": "2024-12-21 04:02:36",
@@ -867,22 +883,6 @@
       "duration_ms": 120927,
       "name": "red panda",
       "url": "https://open.spotify.com/track/18RRqgHdu6OGhDMXuQA99P"
-    },
-    {
-      "added_at": "2024-12-20 09:03:15",
-      "album": {
-        "name": "REINAS",
-        "url": "https://open.spotify.com/album/2TvQuekUEIeFUjBNYLh2x6"
-      },
-      "artists": [
-        {
-          "name": "Sonia Y Selena",
-          "url": "https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8"
-        }
-      ],
-      "duration_ms": 183027,
-      "name": "REINAS",
-      "url": "https://open.spotify.com/track/4UICvc2H3rrcTKleNC3c9Q"
     }
   ],
   "unique_name": "New Singles Now",

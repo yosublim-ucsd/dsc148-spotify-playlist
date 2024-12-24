@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 197673,
       "name": "Life Of Yazhini",
       "url": "https://open.spotify.com/track/2pkkLWCSG2IRDfVGhSpUkN"
@@ -6481,6 +6481,28 @@
     },
     {
       "album": {
+        "name": "Rani Mangamma",
+        "url": "https://open.spotify.com/album/0V6Jm0r56Apxm99IERLJO9"
+      },
+      "artists": [
+        {
+          "name": "Charan Kumar",
+          "url": "https://open.spotify.com/artist/6n6kEc69i5JYzfMzTJ4umU"
+        },
+        {
+          "name": "Udumalai Pravin S",
+          "url": "https://open.spotify.com/artist/1vZcI4zxPkPEQjKmci7XyV"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "Rani Mangamma",
+      "url": "https://open.spotify.com/track/4wcL5BUC0wH0EMouY1BYsK"
+    },
+    {
+      "album": {
         "name": "Rawberry",
         "url": "https://open.spotify.com/album/3DBSRW3AKEmMarwen6zTg1"
       },
@@ -7872,6 +7894,28 @@
       "duration_ms": 187368,
       "name": "Toxic Kadhal",
       "url": "https://open.spotify.com/track/1mTD4UxhM9A72ZQQ1oC8pn"
+    },
+    {
+      "album": {
+        "name": "Trippila",
+        "url": "https://open.spotify.com/album/0GazuCuHE6SvoJwFa7ssBv"
+      },
+      "artists": [
+        {
+          "name": "Supaveen",
+          "url": "https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt"
+        },
+        {
+          "name": "BSP",
+          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "Trippila",
+      "url": "https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3"
     },
     {
       "album": {

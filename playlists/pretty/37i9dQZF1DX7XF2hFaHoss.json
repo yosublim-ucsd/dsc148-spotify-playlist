@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Jessica Pratt",
-  "num_followers": 153238,
+  "num_followers": 153232,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -79,18 +79,18 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "folklore (deluxe version)",
-        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 252880,
-      "name": "invisible string",
-      "url": "https://open.spotify.com/track/2ehRU518I0hYqMGQnk4lDY"
+      "duration_ms": 217368,
+      "name": "Rockland",
+      "url": "https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+        "name": "folklore (deluxe version)",
+        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 217368,
-      "name": "Rockland",
-      "url": "https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF"
+      "duration_ms": 252880,
+      "name": "invisible string",
+      "url": "https://open.spotify.com/track/2ehRU518I0hYqMGQnk4lDY"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "About U: One Year On",
-        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 291538,
-      "name": "I Know A Place - Acoustic",
-      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "With You - A Sweet Little Love Song Demo",
         "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 154573,
       "name": "With You - A Sweet Little Love Song Demo",
       "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "About U: One Year On",
+        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 291538,
+      "name": "I Know A Place - Acoustic",
+      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Funeral for My Past",
-        "url": "https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8"
-      },
-      "artists": [
-        {
-          "name": "Liz Longley",
-          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "3 Crow",
-      "url": "https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 145361,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "Funeral for My Past",
+        "url": "https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8"
+      },
+      "artists": [
+        {
+          "name": "Liz Longley",
+          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "3 Crow",
+      "url": "https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P"
     },
     {
       "added_at": "2024-08-23 14:16:37",

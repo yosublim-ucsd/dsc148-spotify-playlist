@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 3314,
+  "num_followers": 3321,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Bundle By Bundle",
+        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bundle By Bundle",
+      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Sdakiwe Sbali (feat. Bless The Gentleman & DJ Kap)",
         "url": "https://open.spotify.com/album/3oMkqyzwVR5d5ao6sYMKd2"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 245740,
       "name": "Sdakiwe Sbali (feat. Bless The Gentleman & DJ Kap)",
       "url": "https://open.spotify.com/track/21fhgH4tjYcAKzkzCuYyr6"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Bundle By Bundle",
-        "url": "https://open.spotify.com/album/75qtq0pnrosaOm6iMHvQHI"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bundle By Bundle",
-      "url": "https://open.spotify.com/track/74Df4YOGkJsrUDsejV5qdh"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Disko",
+        "url": "https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo"
+      },
+      "artists": [
+        {
+          "name": "KODONGKLAN",
+          "url": "https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Disko",
+      "url": "https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Tabbu",
         "url": "https://open.spotify.com/album/5Qj0H4VqbtcwQ1wDxqqmTU"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 187559,
       "name": "Tabbu",
       "url": "https://open.spotify.com/track/4kIz5ju9JjYrN8IEJHxM5f"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Disko",
-        "url": "https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo"
-      },
-      "artists": [
-        {
-          "name": "KODONGKLAN",
-          "url": "https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Disko",
-      "url": "https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8"
     },
     {
       "added_at": "2024-12-19 13:12:01",

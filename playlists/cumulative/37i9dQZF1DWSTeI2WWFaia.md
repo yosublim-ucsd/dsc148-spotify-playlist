@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Roc Marciano
 
-738 songs - 1 day 15 hr 28 min
+739 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Different](https://open.spotify.com/track/4B9eAQnzraeMTZ2B0ioKQG) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [4\-Pack Fridays, Vol\. 2](https://open.spotify.com/album/1r3C3zQtoiMi4d9VL1QKoD) | 3:21 | 2022-03-25 | 2022-04-18 |
 | [Different League](https://open.spotify.com/track/3dEgWY6zXTVRFLFloNEhLr) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Termanology](https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl) | [Round Trip](https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9) | 3:21 | 2023-06-09 | 2023-06-17 |
 | [Dinosaur Jr.](https://open.spotify.com/track/10yyP7F6AKRaPWsQ2bT1ZJ) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv) | [Heads I Win, Tails You Lose](https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d) | 3:05 | 2024-04-19 | 2024-10-19 |
+| [Dirty Dancing](https://open.spotify.com/track/46WPyviv37r22gwCI6TE29) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [whothehelliscarlo](https://open.spotify.com/artist/0Nijs9ipdrHUPc9OeM9vbl) | [Hidden in Plain Sight](https://open.spotify.com/album/48Y5EUlLMIw3Zt08fCP1HN) | 3:00 | 2024-12-20 |  |
 | [Dirty Work](https://open.spotify.com/track/5UldJxuMst4yL1ONpNUylD) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Dirty Work](https://open.spotify.com/album/3jyq0LSSrc2pm7eclMhqqa) | 2:42 | 2022-03-18 | 2022-07-23 |
 | [Disobey](https://open.spotify.com/track/6mGNPrysaTQSGTkDym5d9v) | [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq) | [Disobey](https://open.spotify.com/album/5zMJ4I9w70x0x5C3GhPCTg) | 3:14 | 2022-03-25 | 2022-04-06 |
 | [Distance](https://open.spotify.com/track/3MAyUdrMUpwChbjUHd2UE0) | [Gavlyn](https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI), [Lean Low](https://open.spotify.com/artist/7A9q57PZ1UYY61rQVQKNUz), [DJ Dubplates](https://open.spotify.com/artist/3GLBKGIKOSjV9awed75pHA) | [Distance](https://open.spotify.com/album/4iYtBrRRFjNvxxKcqYOuMy) | 3:30 | 2022-04-01 | 2022-04-17 |
@@ -283,7 +284,7 @@
 | [Half A Bird](https://open.spotify.com/track/7zCgLfeoQqSMcRD1yCy2f2) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Half A Bird](https://open.spotify.com/album/3nqy0kf2d2tYGDASrSR8xM) | 2:44 | 2022-04-01 | 2022-04-19 |
 | [Hans Zimmer](https://open.spotify.com/track/6LJW7Yu0P0wvO4mieoRzcn) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Hans Zimmer](https://open.spotify.com/album/6wVYb95s2w6ZKQIY5xPP2a) | 3:50 | 2022-04-01 | 2022-07-29 |
 | [Harlem World 97 \(feat\. Estelle\)](https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Harlem World 97 \(feat\. Estelle\)](https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF) | 2:17 | 2023-08-11 | 2023-11-18 |
-| [Harvey Grant](https://open.spotify.com/track/3q9NyNkRJjiEfosJoGjMh3) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [The Bricktionary](https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P) | 2:27 | 2024-11-23 |  |
+| [Harvey Grant](https://open.spotify.com/track/3q9NyNkRJjiEfosJoGjMh3) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [The Bricktionary](https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P) | 2:27 | 2024-11-23 | 2024-12-24 |
 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 | 2022-03-04 | 2022-10-01 |
 | [HEAD SHOTS](https://open.spotify.com/track/1EFKZQ8T6EipEf1DxeZwl7) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [CINCORIGINALS](https://open.spotify.com/album/51m4cy5Ldy8hsBQQTGwA5c) | 3:12 | 2021-09-03 | 2022-07-17 |
 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 | 2021-09-03 | 2022-10-01 |

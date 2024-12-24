@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-262 songs - 15 hr 1 min
+265 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Lunatic Crazy](https://open.spotify.com/track/14miRMV78M1iWIr4hIUlel) | [lapix](https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC), [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1), [PANXI](https://open.spotify.com/artist/3Qk3X6M4odVeDUv8rr7arJ) | [Lunatic Crazy](https://open.spotify.com/album/2vAmVOCw26noicE9CmBQsE) | 3:06 | 2024-06-05 |  |
 | [Machina in the brain \(feat\. KAFU\)](https://open.spotify.com/track/41IgLoZErPsZzAixZ8Mk7s) | [Folicca](https://open.spotify.com/artist/5XIRgaAF0uYvbtnKQNPOoW), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [City in the Brain](https://open.spotify.com/album/5W9zumOT376LaVx9Dj23wR) | 2:24 | 2024-07-01 |  |
 | [Mass Destruction \-Reload\-](https://open.spotify.com/track/3m058FygvgfkxiUcLIDXKK) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/0ou89XjahTvTUm8mJu8go6) | 3:05 | 2024-04-11 |  |
+| [Mellow mellow Lily](https://open.spotify.com/track/68GkZrkZVZQlv9eXZofLL0) | [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO) | [ヤリチン☆ビッチ部 キャラクターソングシリーズ「いちご味」](https://open.spotify.com/album/5JiJPMzj7fN1UZzzWmghml) | 3:28 | 2024-12-24 |  |
 | [Memories of You \-Reload\-](https://open.spotify.com/track/3R0XM0PaKh2R7WYF8UJYe0) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 6:39 | 2024-06-03 |  |
 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 | 2024-06-03 |  |
 | [MOKA!](https://open.spotify.com/track/2aN0K87tjNGCdNRUKZ4qJ9) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [MOKA!](https://open.spotify.com/album/1kZWcaTRXJkn5jy0oawRsX) | 2:31 | 2024-04-06 |  |
@@ -210,6 +211,7 @@
 | [ラストリゾート](https://open.spotify.com/track/5HcOVExZgUjPubONiRs7JB) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [幽霊東京 \(digital edition\)](https://open.spotify.com/album/6nYldEYDHm0Qjd5Cxhv321) | 3:08 | 2024-09-16 |  |
 | [ラブカ？ \(feat\. Ado\)](https://open.spotify.com/track/5R3XD7aR25OcI6qimQU91Z) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ラブカ？ \(feat\. Ado\)](https://open.spotify.com/album/54t8GGGwqraTv779NBRZas) | 3:05 | 2023-12-04 |  |
 | [ラブコール](https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ラブコール](https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2) | 3:00 | 2024-03-10 |  |
+| [ラプラスショコラ](https://open.spotify.com/track/1peOsJELHn8Clf4kjX9g71) | [Kai](https://open.spotify.com/artist/3pstnSha9lNrdYVfFTUucR) | [ラプラスショコラ](https://open.spotify.com/album/7fRf7AoKjsuAMstix32dwX) | 2:17 | 2024-12-24 |  |
 | [ロウワー](https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ロウワー](https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup) | 3:50 | 2024-07-01 |  |
 | [ロストワンの号哭](https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:34 | 2022-08-27 |  |
 | [ワタシダケユウレイ](https://open.spotify.com/track/0NcF5dy25NReeUXi1bqzN6) | [SICK HACK](https://open.spotify.com/artist/6fnZR0smagz84PHCLRxpzg) | [ワタシダケユウレイ](https://open.spotify.com/album/0JY6ycA8JtdavRVGDj9uYB) | 3:22 | 2024-09-20 |  |
@@ -250,6 +252,7 @@
 | [砂糖じかけの電影街 \(feat\. GUMI\)](https://open.spotify.com/track/7woJbv6ZxTfNM2eqbTNxYH) | [月裏, ニャントンロン](https://open.spotify.com/artist/2PuJ8LNdrbEHA5yaLhlVR6) | [ゴー・トゥ・大都会](https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV) | 3:46 | 2023-07-17 |  |
 | [空と虚](https://open.spotify.com/track/3Qy7j6GkdY3ycf3E7dxfpJ) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [空と虚](https://open.spotify.com/album/5wWHRY5v0UHKbET4QAC1Hc) | 3:41 | 2023-10-25 |  |
 | [立ち入り禁止](https://open.spotify.com/track/4AYNpkK8TqYRBIyQucYr90) | [Ayase×Ado](https://open.spotify.com/artist/2lmiI0JL4f6cA0fQV5M5pI) | [まふまふ トリビュートアルバム 〜転生〜](https://open.spotify.com/album/137RNuQE8LmEcb4SWrTiss) | 3:28 | 2024-06-26 |  |
+| [終末ランデブー](https://open.spotify.com/track/3WFtirwUP1iD3bfd6tIt5y) | [KIBAKO](https://open.spotify.com/artist/52FeDz9u9qzZ6bUtQVXyJA), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [終末ランデブー](https://open.spotify.com/album/6yomWJFxoRLd0IuHlBBDJT) | 3:14 | 2024-12-24 |  |
 | [結んで開いて羅刹と骸 \- ORIGINAL](https://open.spotify.com/track/78CLS3KSLe3oYvJQ7qCEqj) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:25 | 2022-11-23 |  |
 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 | 2023-11-12 |  |
 | [絶頂讃歌](https://open.spotify.com/track/5Rqj6lHkIkKSD3OUgae6bw) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [審美眼](https://open.spotify.com/album/6lcOYc9c5u8zQ1Ojch6Jxi) | 3:03 | 2023-11-20 |  |

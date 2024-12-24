@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-638 songs - 1 day 8 hr 20 min
+639 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 | 2024-06-12 | 2024-09-12 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-11 | 2023-05-24 |
 | [La La La](https://open.spotify.com/track/3MvfsNpNDCKlu7RkYioz9U) | [Moai](https://open.spotify.com/artist/55zJGyCsiETTrBaXbHoGZn) | [Holiday Dance Wave](https://open.spotify.com/album/1u3GhpiuFUOP9igHxVe5cl) | 2:55 | 2024-12-18 |  |
+| [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2024-12-23 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-04-20 | 2023-05-24 |
 | [labyrinth \(sped up\)](https://open.spotify.com/track/5hNKOpGzXIU6pnGdW04H6R) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [labyrinth \(Remixes\)](https://open.spotify.com/album/6i5V0jE5qXmrRGPsB7wDH5) | 1:28 | 2023-04-11 | 2023-05-02 |
 | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 | 2024-03-21 |  |

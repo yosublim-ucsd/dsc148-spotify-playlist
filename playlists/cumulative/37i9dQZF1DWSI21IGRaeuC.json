@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/6beJ7OczdgHeqb2emAIO1G"
+      },
+      "artists": [
+        {
+          "name": "Ryan Resso",
+          "url": "https://open.spotify.com/artist/5kgvSiEt7OdyYrM0xLHXO9"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213015,
+      "name": "Blow Your Mind",
+      "url": "https://open.spotify.com/track/6eQ5Fmp7v23vRhzPWaOxu5"
+    },
+    {
+      "album": {
         "name": "Bocat (Michael Bibi Remix)",
         "url": "https://open.spotify.com/album/7eFCcNOJPqwfcHfdfygATF"
       },
@@ -1277,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/1E1TTctrsJ5ipkm7cAj9r3"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388396,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/7uzLbvyKiH5w0pyuttSpsh"
+    },
+    {
+      "album": {
         "name": "Connect the Dots",
         "url": "https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj"
       },
@@ -1412,6 +1448,24 @@
       "duration_ms": 357230,
       "name": "D.N.C.",
       "url": "https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo"
+    },
+    {
+      "album": {
+        "name": "DA BEAT",
+        "url": "https://open.spotify.com/album/7uBVx4rfStisvQfZ1LfgrA"
+      },
+      "artists": [
+        {
+          "name": "ChaseWest",
+          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341102,
+      "name": "DA BEAT",
+      "url": "https://open.spotify.com/track/0xSNKCxMBhDiGiAcDdjCOv"
     },
     {
       "album": {
@@ -1608,10 +1662,32 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 333750,
       "name": "Dirty Rave",
       "url": "https://open.spotify.com/track/7rAPaSYSMpc9uZ91Vr7oVh"
+    },
+    {
+      "album": {
+        "name": "DISCO BABY",
+        "url": "https://open.spotify.com/album/5B3tr0G64D6spmueYwp4Mi"
+      },
+      "artists": [
+        {
+          "name": "Jeff Sorkowitz",
+          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+        },
+        {
+          "name": "Javi Miramontes",
+          "url": "https://open.spotify.com/artist/3YUAdt52KXi5Nqut9HsRZG"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149767,
+      "name": "DISCO BABY",
+      "url": "https://open.spotify.com/track/4ZegxWLsKhpxSrsyidJEBI"
     },
     {
       "album": {
@@ -1938,7 +2014,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 393750,
       "name": "Energy Cycle - Original Mix",
       "url": "https://open.spotify.com/track/1HXgcCM0nzG8PVA2frKZC7"
@@ -2108,7 +2184,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 377142,
       "name": "Feel The Bass",
       "url": "https://open.spotify.com/track/5oHvb2k4wbH2BnaI7GeUEn"
@@ -3242,7 +3318,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 184615,
       "name": "How the Story Goes",
       "url": "https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8"
@@ -4101,6 +4177,24 @@
     },
     {
       "album": {
+        "name": "Mystic Night EP",
+        "url": "https://open.spotify.com/album/40YAAXoujQSwhXlvcjxYSD"
+      },
+      "artists": [
+        {
+          "name": "Di Chiara Brothers",
+          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/45yjPHECGDAkbo5lp2oItr"
+    },
+    {
+      "album": {
         "name": "Love No Limit - ReFreak",
         "url": "https://open.spotify.com/album/7yOIRhmL6SFqPycQsNFBxw"
       },
@@ -4706,7 +4800,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 257647,
       "name": "New Patterns",
       "url": "https://open.spotify.com/track/4hZ60kAX4dO1tCy2SsQGHe"
@@ -4844,7 +4938,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 424379,
       "name": "No Stoppin' That Rockin'",
       "url": "https://open.spotify.com/track/7doFdCLd8J7Nx7b2DwSRSj"
@@ -5530,6 +5624,24 @@
       "duration_ms": 516643,
       "name": "Purple Edge",
       "url": "https://open.spotify.com/track/0KX1WIkJABs6laxaMR4PzQ"
+    },
+    {
+      "album": {
+        "name": "Dance Energy 002",
+        "url": "https://open.spotify.com/album/1Cz6WP21NGLMwiSb7wPsgQ"
+      },
+      "artists": [
+        {
+          "name": "Vitess",
+          "url": "https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310375,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/4fHcDXpc5MYd75RvpQOLqL"
     },
     {
       "album": {
@@ -7447,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "The People's Rhythm",
+        "url": "https://open.spotify.com/album/2p44epzHG0sQbGe89ey14h"
+      },
+      "artists": [
+        {
+          "name": "Joss Dean",
+          "url": "https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371881,
+      "name": "The People's Rhythm",
+      "url": "https://open.spotify.com/track/3Zt3PHs6cb2ICbtiGo1b56"
+    },
+    {
+      "album": {
         "name": "The Rider",
         "url": "https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM"
       },
@@ -8692,7 +8822,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 362479,
       "name": "Your GF",
       "url": "https://open.spotify.com/track/2bWgOYs0dOHtsG9QenSvr9"

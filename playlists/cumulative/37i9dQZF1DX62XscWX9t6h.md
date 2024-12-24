@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-219 songs - 15 hr 30 min
+220 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [El Alma y el Cuerpo](https://open.spotify.com/track/5a8xzrQxVNRrQbgkzYCkTb) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/3hmKL47fvTuB0pDQP45aY4) | 5:01 | 2022-02-18 |  |
 | [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 | 2021-10-20 | 2024-06-19 |
 | [Eléctrico](https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Conquistador](https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O) | 3:37 | 2021-10-20 |  |
+| [Enkaz](https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Enkaz](https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH) | 3:20 | 2024-12-23 |  |
 | [Ew'aa](https://open.spotify.com/track/24ACpMa5jRoCWqLRn0iyE0) | [Tashkezar](https://open.spotify.com/artist/4cDDtvDYT5DwsQkmKpyvIC) | [Ew'aa](https://open.spotify.com/album/6mJ0Oja5FuhCIDwEovGNNQ) | 4:58 | 2024-06-14 | 2024-10-05 |
 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2021-10-20 |  |
 | [Faust](https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Faust](https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd) | 4:30 | 2024-06-21 | 2024-10-16 |
@@ -210,7 +211,7 @@
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-07-28 | 2024-10-16 |
 | [Whaya](https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Whaya](https://open.spotify.com/album/06th1woDk5Hwy8vK2lrs0t) | 3:46 | 2022-11-17 |  |
 | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/track/51B5lAKM1mZgwPUmRqjSRq) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Muyun Brothers](https://open.spotify.com/artist/2y2brohJLOwREBed1LdUMF) | [Worldly World \(Ohaa Uha Uha\)](https://open.spotify.com/album/6xfXvOTxevWLXbsbPO4xPR) | 3:06 | 2024-02-10 |  |
-| [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2021-10-20 |  |
+| [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2021-10-20 | 2024-12-24 |
 | [Ya Watan](https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Manara](https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG) | 2:50 | 2024-10-16 |  |
 | [Yabaal](https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Dur Dur of Somalia \- Vol\. 1, Vol\. 2 \(Analog Africa No\. 27\)](https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az) | 5:57 | 2024-01-05 |  |
 | [Yabaal](https://open.spotify.com/track/1npQHlmFEgK2wkXbQcWjia) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 1, Volume 2 & Previously Unreleased Tracks \(Analog Africa No\. 27\)](https://open.spotify.com/album/5SXL2zkX2Ry2cxwirtRNJE) | 5:57 | 2024-01-05 | 2024-04-19 |

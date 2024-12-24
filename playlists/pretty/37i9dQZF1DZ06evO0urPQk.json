@@ -1,12 +1,12 @@
 {
   "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
-  "num_followers": 27420,
+  "num_followers": 27422,
   "original_name": "This Is \u6c34\u6a39\u5948\u3005",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAAAcVuu5hvxQAK33fQ4N5fMz",
+  "snapshot_id": "Z2dWgAAAAACPAJgkypYPx9JB/GHn2gbu",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "innocent starter",
-        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 281133,
-      "name": "innocent starter",
-      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 239013,
       "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "innocent starter",
+        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "innocent starter",
+      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STARTING NOW!",
-        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 306985,
-      "name": "\u604b\u60f3\u82b1\u706b",
-      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ADRENALIZED",
         "url": "https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 200126,
       "name": "sympathy",
       "url": "https://open.spotify.com/track/3mbnIQdoRv6fmObdReIPKm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STARTING NOW!",
+        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 306985,
+      "name": "\u604b\u60f3\u82b1\u706b",
+      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POP MASTER",
-        "url": "https://open.spotify.com/album/5yNAlfpRUPwD26kBaeY3eS"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "UNBREAKABLE",
-      "url": "https://open.spotify.com/track/3IY2GIqcVAYhaM2zn5r3vh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALIVE&KICKING",
         "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 250506,
       "name": "Take a shot",
       "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POP MASTER",
+        "url": "https://open.spotify.com/album/5yNAlfpRUPwD26kBaeY3eS"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "UNBREAKABLE",
+      "url": "https://open.spotify.com/track/3IY2GIqcVAYhaM2zn5r3vh"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IMPACT EXCITER",
-        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 270866,
-      "name": "\u56da\u308f\u308c\u306eBabel",
-      "url": "https://open.spotify.com/track/1low37x2FWfAv57ISuPKGO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERNAL LIBERTY",
         "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 213194,
       "name": "\u30a2\u30f3\u30c6\u30a3\u30d5\u30a9\u30fc\u30ca",
       "url": "https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IMPACT EXCITER",
+        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "\u56da\u308f\u308c\u306eBabel",
+      "url": "https://open.spotify.com/track/1low37x2FWfAv57ISuPKGO"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TIME SPACE EP",
-        "url": "https://open.spotify.com/album/1nXz5slmtuHiLbOBYZltHB"
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 205613,
-      "name": "\u6642\u7a7a\u30b5\u30d5\u30a1\u30a4\u30a2",
-      "url": "https://open.spotify.com/track/6sLCTc6T0HosiGAlzignp8"
+      "duration_ms": 217915,
+      "name": "DNA -Dance 'n' Amuse-",
+      "url": "https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr"
     }
   ],
   "unique_name": "This Is \u6c34\u6a39\u5948\u3005",

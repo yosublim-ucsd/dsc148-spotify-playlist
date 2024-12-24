@@ -1367,6 +1367,28 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: Swan Lake, Op. 20: Dance of the Four Swans (Arr. Wild for Piano)",
+        "url": "https://open.spotify.com/album/4sIbyfOUmbWR6KhcxXM31c"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89853,
+      "name": "Swan Lake, Op. 20: Dance of the Four Swans (Arr. Wild for Piano)",
+      "url": "https://open.spotify.com/track/3StysTPY6u60aPKxaT01sx"
+    },
+    {
+      "album": {
         "name": "Ballet Highlights - The Nutcracker, Romeo & Juliet, Swan Lake",
         "url": "https://open.spotify.com/album/4OIaXexWOfirCq7u5nQKtR"
       },
@@ -1832,6 +1854,32 @@
       "duration_ms": 352293,
       "name": "The Sleeping Beauty, Op. 66/66a: Act 1, No. 8, Adagio \u2013 Pas d\u2019Action - Arr. for Orchestra by Santtu-Matias Rouvali",
       "url": "https://open.spotify.com/track/1JEmPu2vt0hQkfPqXGfwfk"
+    },
+    {
+      "album": {
+        "name": "Verdi: Otello - Ballet Music",
+        "url": "https://open.spotify.com/album/4CFHQXj6hqidF1tzpugiig"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Ivan Repu\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/2GLao6Mv2NfD7dl0gD0qS1"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338609,
+      "name": "Verdi: Ballet (Otello): Verdi: Ballet (Otello)",
+      "url": "https://open.spotify.com/track/5BvZr9XN0BVFvArCwLsEwi"
     },
     {
       "album": {

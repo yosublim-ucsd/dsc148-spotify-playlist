@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-306 songs - 15 hr 52 min
+307 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,11 +277,12 @@
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-04-10 |  |
 | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/track/4QVS8YCpK71R4FsxSMCjhP) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/album/69t8rpgBN1ov5kCU6LDMuR) | 3:38 | 2021-12-03 | 2022-04-21 |
 | [Tokyo](https://open.spotify.com/track/5GRf6zSrCi8gErdN6CyRJT) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Tokyo](https://open.spotify.com/album/00vH1F6IQIDDDOeodKDD2k) | 2:54 | 2021-12-03 | 2022-05-26 |
-| [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-09-20 |  |
+| [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-09-20 | 2024-12-24 |
 | [Trampoline \- Jauz Remix](https://open.spotify.com/track/68Rnp6Cev6ESnEwlpQI2Ll) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Trampoline \(Jauz Remix\)](https://open.spotify.com/album/0zEgfSceFqevzVPCzcQDb0) | 3:56 | 2021-12-03 | 2022-04-21 |
 | [Trench](https://open.spotify.com/track/0KS9J9OECRseMt98OFMRwf) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga EP](https://open.spotify.com/album/4c4cElNGk6clbEo3HMSiC4) | 2:57 | 2023-02-08 | 2023-02-27 |
 | [Trench](https://open.spotify.com/track/3HTiVEVhV1YPbja4nas7iR) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga EP](https://open.spotify.com/album/7Iv5I1zjAnUcxzkKJ4g38V) | 2:57 | 2023-02-08 | 2023-07-07 |
 | [Tshwala Bam \(feat\. S.N.E, EeQue\) \- Radio Edit](https://open.spotify.com/track/5dyB3aZaRLnaLtdO73wJkc) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E, EeQue\) \[Radio Edit\]](https://open.spotify.com/album/6qaekf4OFdsz1C2cAe8mLJ) | 4:23 | 2024-04-02 | 2024-04-06 |
+| [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 | 2024-12-23 |  |
 | [U Are My High](https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [U Are My High](https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq) | 3:00 | 2021-12-03 | 2022-10-11 |
 | [UCKERS](https://open.spotify.com/track/3CFPJGktOC1KpxwvDjIHfL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [UCKERS](https://open.spotify.com/album/6QSYoJYxiaD5884cvGrytt) | 1:55 | 2021-12-03 | 2022-04-20 |
 | [Umbrella \(with Marnik\)](https://open.spotify.com/track/20PbUoGyGk7jJgLAgqlauh) | [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Umbrella \(with Marnik\)](https://open.spotify.com/album/47sAd2DEvtYTrkS3YPmPGj) | 3:00 | 2021-12-03 | 2022-04-21 |

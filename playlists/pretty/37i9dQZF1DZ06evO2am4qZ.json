@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4630,
+  "num_followers": 4632,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAADT9Lnf3aA37xIeK53BSXSk",
+  "snapshot_id": "Z2dWgAAAAADkTcja7c23iKzChSWvRoe/",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Flip",
-        "url": "https://open.spotify.com/album/4Y4gWDCCetjIMn5dXTCPkG"
-      },
-      "artists": [
-        {
-          "name": "Malia Civetz",
-          "url": "https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Love Thing (feat. Yung Baby Tate )",
-      "url": "https://open.spotify.com/track/2O4FkPICvTd1c8pW3KiwwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hot One",
         "url": "https://open.spotify.com/album/3OiT0FaZLif2i9uflNRgMs"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 176445,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/7EdeHorFYn5dXW4lKCQNwC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Flip",
+        "url": "https://open.spotify.com/album/4Y4gWDCCetjIMn5dXTCPkG"
+      },
+      "artists": [
+        {
+          "name": "Malia Civetz",
+          "url": "https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Love Thing (feat. Yung Baby Tate )",
+      "url": "https://open.spotify.com/track/2O4FkPICvTd1c8pW3KiwwZ"
     },
     {
       "added_at": null,
@@ -927,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 250774,
-      "name": "What's Love",
-      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
+      "duration_ms": 196154,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv"
     },
     {
       "added_at": null,
@@ -959,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+        "name": "What's Love / Sl*t Him Out",
+        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 196154,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv"
+      "duration_ms": 250774,
+      "name": "What's Love",
+      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
     },
     {
       "added_at": null,

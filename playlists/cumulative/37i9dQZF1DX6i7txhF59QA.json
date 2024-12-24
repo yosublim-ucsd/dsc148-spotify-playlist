@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Let's party with cheerful Korean trot medley. Cover: Kim Hong Nam(\uae40\ud64d\ub0a8) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Let's party with cheerful Korean trot medley. Cover: MYTRO(\ub9c8\uc774\ud2b8\ub85c) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-Trot Stars",
   "tracks": [
     {
@@ -1700,6 +1700,24 @@
       "duration_ms": 160053,
       "name": "Blues of Tears",
       "url": "https://open.spotify.com/track/0ARPsutZUoA1n9zrf9I2d6"
+    },
+    {
+      "album": {
+        "name": "LOVESTRUCK SISTERS Episode 5",
+        "url": "https://open.spotify.com/album/5bH5jDdREPIt5uxyGx955M"
+      },
+      "artists": [
+        {
+          "name": "MYTRO",
+          "url": "https://open.spotify.com/artist/03hzPQyRS7Rd6v6oGnYTzZ"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207040,
+      "name": "Bomb Bomb Bomb",
+      "url": "https://open.spotify.com/track/2rnmV5epJdodKpmFVJmbDL"
     },
     {
       "album": {
@@ -3918,7 +3936,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 145946,
       "name": "Father and daughter",
       "url": "https://open.spotify.com/track/6jJoTiNLZbNPc4nqCQsDza"
@@ -5756,7 +5774,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 217026,
       "name": "I am a man",
       "url": "https://open.spotify.com/track/2B25J3FLTUkmpyhKGt1OGc"
@@ -6596,7 +6614,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 233293,
       "name": "IN MY LIFE",
       "url": "https://open.spotify.com/track/03Qy66RXuPUyWhaF0yD845"
@@ -7778,7 +7796,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 263075,
       "name": "Love Christmas(feat.\ud574\uc131\uc0ac\ub791)",
       "url": "https://open.spotify.com/track/5kXPsXmF5SKQsRqSK0xuvN"
@@ -7854,6 +7872,24 @@
       "duration_ms": 267693,
       "name": "Love for a thousand years",
       "url": "https://open.spotify.com/track/2TKTPsdxbjblibyITIH25A"
+    },
+    {
+      "album": {
+        "name": "LOVESTRUCK SISTERS Episode Final",
+        "url": "https://open.spotify.com/album/354GwECXtfUdnyTyylP1Z9"
+      },
+      "artists": [
+        {
+          "name": "MYTRO",
+          "url": "https://open.spotify.com/artist/03hzPQyRS7Rd6v6oGnYTzZ"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158693,
+      "name": "Love Hate",
+      "url": "https://open.spotify.com/track/1qJm7dEvPMBL3SjeKgyoix"
     },
     {
       "album": {
@@ -13568,7 +13604,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 154680,
       "name": "Turn",
       "url": "https://open.spotify.com/track/7nx7ExJ2PUYEBZ05atB5aq"
@@ -15938,7 +15974,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 206640,
       "name": "\uadf8\ub0e5\uac00\uba74 \uc5b4\uca4c\ub098",
       "url": "https://open.spotify.com/track/1mfRRKUEDFGUkThMP7sGlf"

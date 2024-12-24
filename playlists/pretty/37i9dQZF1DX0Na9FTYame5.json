@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Morpheuz",
-  "num_followers": 585419,
+  "num_followers": 585416,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "pass auf mein herz auf",
-        "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 156143,
-      "name": "mit dir ist es anders",
-      "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
         "name": "wie du manchmal fehlst",
         "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 131773,
       "name": "wie du manchmal fehlst",
       "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
+        "name": "pass auf mein herz auf",
+        "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 156143,
+      "name": "mit dir ist es anders",
+      "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
+        "name": "Weg zu weit",
+        "url": "https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag"
+      },
+      "artists": [
+        {
+          "name": "Paves 16",
+          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+        }
+      ],
+      "duration_ms": 151999,
+      "name": "Weg zu weit",
+      "url": "https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
         "name": "Mein Type",
         "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 216201,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
-        "name": "Weg zu weit",
-        "url": "https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag"
-      },
-      "artists": [
-        {
-          "name": "Paves 16",
-          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
-        }
-      ],
-      "duration_ms": 151999,
-      "name": "Weg zu weit",
-      "url": "https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
+        "name": "LEUCHTTURM",
+        "url": "https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 153270,
+      "name": "LEUCHTTURM",
+      "url": "https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
-        "name": "LEUCHTTURM",
-        "url": "https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 153270,
-      "name": "LEUCHTTURM",
-      "url": "https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Breaking your heart",
-        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
       "artists": [
         {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
         }
       ],
-      "duration_ms": 170579,
-      "name": "Breaking your heart",
-      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
+      "duration_ms": 160226,
+      "name": "Passion (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Majestic",
-        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+        "name": "Breaking your heart",
+        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
       },
       "artists": [
         {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Passion (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
+      "duration_ms": 170579,
+      "name": "Breaking your heart",
+      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Pflaster",
-        "url": "https://open.spotify.com/album/6C8d69W6aVlkUg9cDbqkw2"
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
       },
       "artists": [
         {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        },
-        {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
         }
       ],
-      "duration_ms": 133355,
-      "name": "Pflaster",
-      "url": "https://open.spotify.com/track/62rSz1cp8u66zl9CkieV7v"
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+        "name": "Pflaster",
+        "url": "https://open.spotify.com/album/6C8d69W6aVlkUg9cDbqkw2"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        },
+        {
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
         }
       ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+      "duration_ms": 133355,
+      "name": "Pflaster",
+      "url": "https://open.spotify.com/track/62rSz1cp8u66zl9CkieV7v"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "L\u00fcg mich nicht an",
-        "url": "https://open.spotify.com/album/0i5bmeRJeIQpNQwqFaEWnM"
-      },
-      "artists": [
-        {
-          "name": "FANJI",
-          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "L\u00fcg mich nicht an",
-      "url": "https://open.spotify.com/track/4QOcHsWgyt5be1NqIw5iH6"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
         "name": "Elbe",
         "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 195653,
       "name": "Elbe",
       "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
+        "name": "L\u00fcg mich nicht an",
+        "url": "https://open.spotify.com/album/0i5bmeRJeIQpNQwqFaEWnM"
+      },
+      "artists": [
+        {
+          "name": "FANJI",
+          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "L\u00fcg mich nicht an",
+      "url": "https://open.spotify.com/track/4QOcHsWgyt5be1NqIw5iH6"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
+        "name": "W\u00c4NDE AUS ZEMENT",
+        "url": "https://open.spotify.com/album/0lcuJTNhXrd55zxjeayd7J"
+      },
+      "artists": [
+        {
+          "name": "Takt32",
+          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
+        }
+      ],
+      "duration_ms": 220597,
+      "name": "W\u00c4NDE AUS ZEMENT",
+      "url": "https://open.spotify.com/track/72GCg37yQ4CZv7HHODylX7"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
         "name": "Etage 3 (feat. Bausa)",
         "url": "https://open.spotify.com/album/3sczb1THK9mTeiQTx8od59"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "W\u00c4NDE AUS ZEMENT",
-        "url": "https://open.spotify.com/album/0lcuJTNhXrd55zxjeayd7J"
+        "name": "Bei Nacht",
+        "url": "https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B"
       },
       "artists": [
         {
-          "name": "Takt32",
-          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
         }
       ],
-      "duration_ms": 220597,
-      "name": "W\u00c4NDE AUS ZEMENT",
-      "url": "https://open.spotify.com/track/72GCg37yQ4CZv7HHODylX7"
+      "duration_ms": 174000,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1467,22 +1483,6 @@
       "duration_ms": 177142,
       "name": "Schwarze Wolke",
       "url": "https://open.spotify.com/track/5Y1KFSz4b4b27mVwtAdnUV"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
-        "name": "Bei Nacht",
-        "url": "https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B"
-      },
-      "artists": [
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Bei Nacht",
-      "url": "https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s"
+      },
+      "artists": [
+        {
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        }
+      ],
+      "duration_ms": 164687,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
         "name": "Haare trocknen",
         "url": "https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF"
       },
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s"
+        "name": "Fieber / Glatteis",
+        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
       },
       "artists": [
         {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 164687,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO"
+      "duration_ms": 202709,
+      "name": "Glatteis",
+      "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1607,22 +1623,6 @@
       "duration_ms": 157147,
       "name": "Feuer",
       "url": "https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
-        "name": "Fieber / Glatteis",
-        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 202709,
-      "name": "Glatteis",
-      "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
     },
     {
       "added_at": "2024-12-16 12:50:55",

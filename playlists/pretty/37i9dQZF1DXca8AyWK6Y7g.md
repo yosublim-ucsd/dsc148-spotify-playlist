@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > All of my friends are hot, hot, hot! cover: Beth McCarthy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,469 likes - 130 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549,418 likes - 130 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

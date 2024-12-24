@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 305050,
+  "num_followers": 305071,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "kinda smacks",
         "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+        "name": "\"good guy\"",
+        "url": "https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4"
       },
       "artists": [
         {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
         }
       ],
-      "duration_ms": 207409,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+      "duration_ms": 208052,
+      "name": "\"good guy\"",
+      "url": "https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -347,22 +363,6 @@
       "duration_ms": 262000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "\"good guy\"",
-        "url": "https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 208052,
-      "name": "\"good guy\"",
-      "url": "https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "See you soon",
-        "url": "https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 218283,
-      "name": "See you soon",
-      "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "The CARR Show",
         "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 246909,
       "name": "ghost",
       "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "See you soon",
+        "url": "https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "See you soon",
+      "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Friends In Low Places",
+        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Friends In Low Places",
+      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "Terrible Things (feat. Ashley McBryde)",
         "url": "https://open.spotify.com/album/2eplD0qk51Hs52ngmjwRl2"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 165510,
       "name": "Don't",
       "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "Friends In Low Places",
-        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Friends In Low Places",
-      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Cherry Picking",
-        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
-      },
-      "artists": [
-        {
-          "name": "poutyface",
-          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
-        }
-      ],
-      "duration_ms": 150736,
-      "name": "Cherry Picking",
-      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Call Me Later",
         "url": "https://open.spotify.com/album/526HT2ENrJdZsyqoxe6zm6"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 180099,
       "name": "Call Me Later",
       "url": "https://open.spotify.com/track/6Uc7A8PeGszMyQ9XPvR6ZT"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Cherry Picking",
+        "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
+      },
+      "artists": [
+        {
+          "name": "poutyface",
+          "url": "https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f"
+        }
+      ],
+      "duration_ms": 150736,
+      "name": "Cherry Picking",
+      "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 206667,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Together We Are One, You and I",
         "url": "https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
       },
       "artists": [
         {
-          "name": "Holy Wars",
-          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
         }
       ],
-      "duration_ms": 198123,
-      "name": "CULT CLASSIC",
-      "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
+      "duration_ms": 206667,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1279,6 +1263,22 @@
       "duration_ms": 214226,
       "name": "Hate You When You Party",
       "url": "https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "duration_ms": 198123,
+      "name": "CULT CLASSIC",
+      "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Big Bite",
-        "url": "https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI"
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk"
       },
       "artists": [
         {
-          "name": "Hannah Cole",
-          "url": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY"
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Big Bite",
-      "url": "https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY"
+      "duration_ms": 151240,
+      "name": "Shock Value",
+      "url": "https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW"
     }
   ],
   "unique_name": "Fierce Femmes",

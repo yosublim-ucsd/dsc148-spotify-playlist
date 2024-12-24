@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto:  Kappa Jotta, Bispo
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,420 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,427 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 61 | [CorDaPele](https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CorDaPele](https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA) | 2:58 |
 | 62 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
 | 63 | [Contigo](https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Contigo](https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb) | 3:28 |
-| 64 | [NADA É COMO ANTES](https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [NADA É COMO ANTES](https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv) | 3:05 |
+| 64 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 65 | [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 |
-| 66 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 66 | [NADA É COMO ANTES](https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [NADA É COMO ANTES](https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv) | 3:05 |
 | 67 | [Priceless](https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0) | [Priceless](https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb) | 3:32 |
 | 68 | [Falei](https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn), [Dj Verigal](https://open.spotify.com/artist/2LcsmbSSktQ6RYj5VvUQfO), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI), [Kastro Songz](https://open.spotify.com/artist/55B8Gbt3M3EMDbn7gQa3Mr) | [Falei](https://open.spotify.com/album/5YN1UrwqwBwsarG7Y7WUv4) | 2:57 |
 | 69 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |

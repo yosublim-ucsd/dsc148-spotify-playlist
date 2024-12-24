@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Jean Tassy
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,290 likes - 89 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,294 likes - 89 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 28 | [ESTANTE DE LIVROS](https://open.spotify.com/track/4IFIDMqYhdC7aVd8QbudX6) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g) | [ESTANTE DE LIVROS](https://open.spotify.com/album/1QsCjSE0pz021Mg7jOYfRc) | 3:33 |
 | 29 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 |
 | 30 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 |
-| 31 | [último romântico](https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinho](https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9) | 3:03 |
-| 32 | [Mina Sereia](https://open.spotify.com/track/73huppxeXhwI3TmQFo29DI) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Mina Sereia](https://open.spotify.com/album/72g0VNPFmBYc49hVGY9knn) | 2:45 |
+| 31 | [Mina Sereia](https://open.spotify.com/track/73huppxeXhwI3TmQFo29DI) | [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Mina Sereia](https://open.spotify.com/album/72g0VNPFmBYc49hVGY9knn) | 2:45 |
+| 32 | [último romântico](https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinho](https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9) | 3:03 |
 | 33 | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO) | [Maipê](https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Pedro Schin](https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P), [Dias Bruno](https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk) | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u) | 2:38 |
 | 34 | [Carta Branca](https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Carta Branca](https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU) | 3:41 |
 | 35 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 |

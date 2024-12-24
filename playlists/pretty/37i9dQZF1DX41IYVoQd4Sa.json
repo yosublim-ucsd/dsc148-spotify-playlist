@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e7\u05d5\u05ea\u05d9\u05de\u05d0\u05df ,\u05ea\u05d5\u05de\u05e8 \u05d9\u05d5\u05e1\u05e3 ",
-  "num_followers": 31051,
+  "num_followers": 31056,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-19 22:00:26",
       "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
         "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
         "url": "https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 234477,
       "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
       "url": "https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
     },
     {
       "added_at": "2024-12-19 22:00:26",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-12-19 22:00:26",
       "album": {
-        "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
-        "url": "https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        },
-        {
-          "name": "\u05e8\u05e2\u05e9 \u05dc\u05d1\u05df",
-          "url": "https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
-      "url": "https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
         "name": "Water on Water",
         "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
       },
@@ -911,22 +891,6 @@
       "duration_ms": 308093,
       "name": "Carry me home",
       "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
-        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
-      },
-      "artists": [
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 245100,
-      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
     },
     {
       "added_at": "2024-12-19 22:00:26",
@@ -947,94 +911,6 @@
       "duration_ms": 256812,
       "name": "Bitter Moon - \u05d9\u05e8\u05d7 \u05de\u05e8",
       "url": "https://open.spotify.com/track/3FSLyEUXnmUKPJU93ACRdD"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
-        "name": "\u05e7\u05d4\u05dc\u05ea \u05e4\u05e8\u05e7 \u05d8\u05f3",
-        "url": "https://open.spotify.com/album/13Gu91gVZ6j4llq2Fi6M4B"
-      },
-      "artists": [
-        {
-          "name": "Yehudit Ravitz",
-          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
-        }
-      ],
-      "duration_ms": 188485,
-      "name": "\u05e7\u05d4\u05dc\u05ea \u05e4\u05e8\u05e7 \u05d8\u05f3",
-      "url": "https://open.spotify.com/track/0v8xvuvOzRC5Y6S351PLLN"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
-        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
-      },
-      "artists": [
-        {
-          "name": "Ilan Peled",
-          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
-        "name": "\u05dc\u05d7\u05e1\u05d3 \u05d5\u05d2\u05d0\u05d5\u05dc\u05d4 \u05d4\u05de\u05e9\u05da \u05d9\u05e9\u05e8",
-        "url": "https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8"
-      },
-      "artists": [
-        {
-          "name": "Aya Korem",
-          "url": "https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25"
-        }
-      ],
-      "duration_ms": 257663,
-      "name": "\u05dc\u05d7\u05d6\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea\u05d4",
-      "url": "https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
-        "name": "\u05d9\u05e0\u05d9\u05d1",
-        "url": "https://open.spotify.com/album/0ARNB2ea95YtPyljVOzh7Y"
-      },
-      "artists": [
-        {
-          "name": "Tomer Yeshayahu",
-          "url": "https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q"
-        }
-      ],
-      "duration_ms": 238867,
-      "name": "\u05d9\u05e0\u05d9\u05d1",
-      "url": "https://open.spotify.com/track/17x2UNi0ffC16WCvfw6Ysc"
-    },
-    {
-      "added_at": "2024-12-19 22:00:26",
-      "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/6vZJrvASnU4myYv8AStp54"
-      },
-      "artists": [
-        {
-          "name": "Roy Avital",
-          "url": "https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP"
-        },
-        {
-          "name": "Grape",
-          "url": "https://open.spotify.com/artist/0laLw89C3JXrpvVEFTr78S"
-        }
-      ],
-      "duration_ms": 158641,
-      "name": "Wednesdays",
-      "url": "https://open.spotify.com/track/7xzvAial1zgnpSNF17NP3J"
     },
     {
       "added_at": "2024-12-19 22:00:26",
@@ -1067,18 +943,142 @@
     {
       "added_at": "2024-12-19 22:00:26",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
+        "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
+        "url": "https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH"
       },
       "artists": [
         {
-          "name": "Yael Deckelbaum",
-          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        },
+        {
+          "name": "\u05e8\u05e2\u05e9 \u05dc\u05d1\u05df",
+          "url": "https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Only Love is Real",
-      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
+      "duration_ms": 218000,
+      "name": "\u2060\u05e4\u05ea\u05d0\u05d5\u05dd \u05d4\u05d2\u05d9\u05e2 \u05e1\u05ea\u05d9\u05d5",
+      "url": "https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
+      },
+      "artists": [
+        {
+          "name": "Ilan Peled",
+          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "\u05e7\u05d4\u05dc\u05ea \u05e4\u05e8\u05e7 \u05d8\u05f3",
+        "url": "https://open.spotify.com/album/13Gu91gVZ6j4llq2Fi6M4B"
+      },
+      "artists": [
+        {
+          "name": "Yehudit Ravitz",
+          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
+        }
+      ],
+      "duration_ms": 188485,
+      "name": "\u05e7\u05d4\u05dc\u05ea \u05e4\u05e8\u05e7 \u05d8\u05f3",
+      "url": "https://open.spotify.com/track/0v8xvuvOzRC5Y6S351PLLN"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "\u05dc\u05d7\u05e1\u05d3 \u05d5\u05d2\u05d0\u05d5\u05dc\u05d4 \u05d4\u05de\u05e9\u05da \u05d9\u05e9\u05e8",
+        "url": "https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8"
+      },
+      "artists": [
+        {
+          "name": "Aya Korem",
+          "url": "https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25"
+        }
+      ],
+      "duration_ms": 257663,
+      "name": "\u05dc\u05d7\u05d6\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea\u05d4",
+      "url": "https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/6vZJrvASnU4myYv8AStp54"
+      },
+      "artists": [
+        {
+          "name": "Roy Avital",
+          "url": "https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP"
+        },
+        {
+          "name": "Grape",
+          "url": "https://open.spotify.com/artist/0laLw89C3JXrpvVEFTr78S"
+        }
+      ],
+      "duration_ms": 158641,
+      "name": "Wednesdays",
+      "url": "https://open.spotify.com/track/7xzvAial1zgnpSNF17NP3J"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "\u05d9\u05e0\u05d9\u05d1",
+        "url": "https://open.spotify.com/album/0ARNB2ea95YtPyljVOzh7Y"
+      },
+      "artists": [
+        {
+          "name": "Tomer Yeshayahu",
+          "url": "https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q"
+        }
+      ],
+      "duration_ms": 238867,
+      "name": "\u05d9\u05e0\u05d9\u05d1",
+      "url": "https://open.spotify.com/track/17x2UNi0ffC16WCvfw6Ysc"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 245100,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
+    },
+    {
+      "added_at": "2024-12-19 22:00:26",
+      "album": {
+        "name": "\u05dc\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u05dc\u05d9\u05df",
+      "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,025 songs - 4 day 12 hr 34 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,026 songs - 4 day 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2033,5 +2033,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2023 | [As Long As](https://open.spotify.com/track/2ZtG5j7RXpCGBJOjXY2V6q) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:27 |
 | 2024 | [Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:01 |
 | 2025 | [Alice](https://open.spotify.com/track/7e4Jb6T2CVM8GoUBS1It1I) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Alice](https://open.spotify.com/album/2ngzamcbAFveP9OLRGUOry) | 2:05 |
+| 2026 | [Sugar Water Cyanide](https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Sugar Water Cyanide](https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm) | 2:54 |
 
-Snapshot ID: `AAADo7D5iyMq4bmQW6AF0rUoV1eOl8ff`
+Snapshot ID: `AAADpKkUrkPj8EGBYduf8lpqami7sUZL`

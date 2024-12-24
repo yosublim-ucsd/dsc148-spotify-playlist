@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-535 songs - 1 day 9 hr 36 min
+536 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2020-12-22 | 2024-04-19 |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-13 | 2024-05-11 |
 | [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 | 2020-12-22 |  |
+| [Gonna Be Good](https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [FINALLY OUT](https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE) | 3:16 | 2024-12-20 |  |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2020-12-22 | 2024-01-27 |
 | [Gooey](https://open.spotify.com/track/5b9iBVhfYxDF4JJcHrNIx5) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA \(Deluxe\)](https://open.spotify.com/album/2ipSXAsBLmvEeVKKbRAL7i) | 4:49 | 2020-12-22 | 2022-07-29 |
 | [Grapefruit](https://open.spotify.com/track/128Mqrtw03Mo3eR9bOwJsx) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Grapefruit \- Single](https://open.spotify.com/album/7JWvl53t1wjgGTQNB45oVb) | 4:43 | 2020-12-22 | 2022-07-29 |
@@ -219,7 +220,7 @@
 | [I'm In Love With You](https://open.spotify.com/track/3jtiNEzJr6NrM6dau9YPov) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Ampersounds](https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl) | [I'm In Love With You](https://open.spotify.com/album/5A0bq3cr9A306ABKJd3RGG) | 3:37 | 2024-01-05 | 2024-04-21 |
 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 | 2021-03-19 | 2024-06-08 |
 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-11-10 |  |
-| [IDK](https://open.spotify.com/track/4y9wGKxahGfBmvBJM7nGGB) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [IDK](https://open.spotify.com/album/4Y83PvVhaZqBbAqusw4M85) | 2:43 | 2023-04-07 |  |
+| [IDK](https://open.spotify.com/track/4y9wGKxahGfBmvBJM7nGGB) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [IDK](https://open.spotify.com/album/4Y83PvVhaZqBbAqusw4M85) | 2:43 | 2023-04-07 | 2024-12-24 |
 | [If We Go Down](https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG) | [If We Go Down](https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY) | 3:25 | 2024-12-06 |  |
 | [In the Garden](https://open.spotify.com/track/0mYb0BPh3rC1YuAVBtr6Di) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [In the Garden](https://open.spotify.com/album/2vOAHsQ1zmVnJgE9y0SgCx) | 3:40 | 2021-10-01 | 2022-07-20 |
 | [In The Genes](https://open.spotify.com/track/7qmfoJOvyf8FgUxFpKTyKq) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Love Music](https://open.spotify.com/album/6Vic53TolsMk2phqGftC3p) | 8:00 | 2020-12-22 | 2022-04-18 |

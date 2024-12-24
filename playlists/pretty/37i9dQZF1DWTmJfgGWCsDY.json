@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 4750,
+  "num_followers": 4760,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-12-19 23:59:17",
       "album": {
+        "name": "Penzi Jipya",
+        "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
+      },
+      "artists": [
+        {
+          "name": "Gigy Money",
+          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
+        },
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "Penzi Jipya",
+      "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
+    },
+    {
+      "added_at": "2024-12-19 23:59:17",
+      "album": {
         "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
         "url": "https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 292437,
       "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
       "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
-    },
-    {
-      "added_at": "2024-12-19 23:59:17",
-      "album": {
-        "name": "Penzi Jipya",
-        "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
-      },
-      "artists": [
-        {
-          "name": "Gigy Money",
-          "url": "https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e"
-        },
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
-        }
-      ],
-      "duration_ms": 314493,
-      "name": "Penzi Jipya",
-      "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
     },
     {
       "added_at": "2024-12-19 23:59:17",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-12-19 23:59:17",
       "album": {
-        "name": "Wapo",
-        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
-      },
-      "artists": [
-        {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
-        }
-      ],
-      "duration_ms": 243997,
-      "name": "Wapo",
-      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
-    },
-    {
-      "added_at": "2024-12-19 23:59:17",
-      "album": {
         "name": "Upwii",
         "url": "https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 187706,
       "name": "Upwii",
       "url": "https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH"
+    },
+    {
+      "added_at": "2024-12-19 23:59:17",
+      "album": {
+        "name": "Wapo",
+        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
+      },
+      "artists": [
+        {
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+        }
+      ],
+      "duration_ms": 243997,
+      "name": "Wapo",
+      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
     },
     {
       "added_at": "2024-12-19 23:59:17",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-12-19 23:59:17",
       "album": {
+        "name": "Chura Wangu",
+        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 187895,
+      "name": "Chura Wangu",
+      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
+    },
+    {
+      "added_at": "2024-12-19 23:59:17",
+      "album": {
         "name": "Kwanini",
         "url": "https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 275680,
       "name": "Kwanini",
       "url": "https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc"
-    },
-    {
-      "added_at": "2024-12-19 23:59:17",
-      "album": {
-        "name": "Chura Wangu",
-        "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Chura Wangu",
-      "url": "https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g"
     },
     {
       "added_at": "2024-12-19 23:59:17",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-12-19 23:59:17",
       "album": {
-        "name": "Kwetu",
-        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
-      },
-      "artists": [
-        {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Kwetu",
-      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
-    },
-    {
-      "added_at": "2024-12-19 23:59:17",
-      "album": {
         "name": "Pamoja V Sisso (Singeli Sound)",
         "url": "https://open.spotify.com/album/0Owu6KAD2puOplJsCeRoSk"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 234336,
       "name": "NINAASILA",
       "url": "https://open.spotify.com/track/6EyFCSjskAxCdtUartv446"
+    },
+    {
+      "added_at": "2024-12-19 23:59:17",
+      "album": {
+        "name": "Kwetu",
+        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Kwetu",
+      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
     },
     {
       "added_at": "2024-12-19 23:59:17",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-12-19 23:59:17",
       "album": {
+        "name": "Umedorola",
+        "url": "https://open.spotify.com/album/4krdJKrFET6dPGk8vfT8TL"
+      },
+      "artists": [
+        {
+          "name": "Asanoo",
+          "url": "https://open.spotify.com/artist/75VYC0xCWRZYFp64NnYwQD"
+        }
+      ],
+      "duration_ms": 246748,
+      "name": "Umedorola",
+      "url": "https://open.spotify.com/track/41GbxDGQxBxTYsL9hxJuPl"
+    },
+    {
+      "added_at": "2024-12-19 23:59:17",
+      "album": {
         "name": "Kuchi Kuchi",
         "url": "https://open.spotify.com/album/43svCQme17PS5C9uI9kT0w"
       },
@@ -1359,26 +1375,6 @@
       "duration_ms": 219350,
       "name": "Ofisi Yangu",
       "url": "https://open.spotify.com/track/0arYg5tM4QXUrqXzYGWg86"
-    },
-    {
-      "added_at": "2024-12-19 23:59:17",
-      "album": {
-        "name": "Happy birthday",
-        "url": "https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp"
-      },
-      "artists": [
-        {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
-        },
-        {
-          "name": "Kidakizo mc",
-          "url": "https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N"
-        }
-      ],
-      "duration_ms": 211957,
-      "name": "Happy birthday",
-      "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
     }
   ],
   "unique_name": "Singeli Sounds",

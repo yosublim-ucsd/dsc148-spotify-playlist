@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Wijaya 80
 
-895 songs - 2 day 6 hr 5 min
+897 songs - 2 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [1\-800\-hot\-n\-fun](https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:53 | 2024-09-18 | 2024-10-23 |
 | [10 Minutes](https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [Stylish…](https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b) | 3:56 | 2024-04-11 | 2024-06-06 |
 | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:47 | 2024-10-23 | 2024-12-13 |
+| [2112](https://open.spotify.com/track/5Gxwk3TSekI4GVMpFvPBEc) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [What Do You Really Know?](https://open.spotify.com/album/7gOhCvJD152GWf16fhs7Gp) | 5:56 | 2024-12-23 |  |
 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2023-09-21 | 2023-10-20 |
-| [33x](https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 7:14 | 2024-10-23 |  |
+| [33x](https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 7:14 | 2024-10-23 | 2024-12-24 |
 | [3D \(feat\. Jack Harlow\) \(Clean Ver.\)](https://open.spotify.com/track/0TaaG2kxjzSjVbmmiiSZEa) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:22 | 2023-10-18 | 2023-11-17 |
 | [8 Letters](https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2024-11-13 | 2024-12-06 |
 | [A Day](https://open.spotify.com/track/7KxDaaCFPOm6p8Hg4CIhQ6) | [Jong Ho](https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0) | [Lovely Runner, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/65AEs9BXA3RiN3hJEe7SbY) | 3:52 | 2024-05-21 | 2024-06-27 |
@@ -542,6 +543,7 @@
 | [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 | 2024-06-13 | 2024-07-27 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-12-11 |  |
 | [O Ya](https://open.spotify.com/track/3XxBabUCVJOgYxMuMhFb2W) | [Tika Ramlan](https://open.spotify.com/artist/0nakE0sr2S86UEoSn2peQX) | [Lebih Baik](https://open.spotify.com/album/2RrABaoK8SXePVFHUrLA1t) | 3:22 | 2023-03-23 | 2023-04-21 |
+| [o,Tuan](https://open.spotify.com/track/2WXXgjU6foIi4FBIPDMf9t) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Membangun & Menghancurkan](https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86) | 5:05 | 2024-12-23 |  |
 | [Obati Rinduku](https://open.spotify.com/track/6BJ5LJafJYwe3i8wqY4Js6) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN), [Ageng Music](https://open.spotify.com/artist/5wQ9yvLZzJGUvyuRx6crIB) | [Obati Rinduku](https://open.spotify.com/album/2IcCPsv6xICW4vHvnub9rF) | 5:58 | 2024-06-06 | 2024-07-10 |
 | [Oh Mymy : 7s](https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Oh Mymy : 7s](https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40) | 3:09 | 2024-01-24 | 2024-02-20 |
 | [Oh! Asmara](https://open.spotify.com/track/4rFsxbbkLBh8jswH4HxD7a) | [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [Oh! Asmara](https://open.spotify.com/album/1Pe6hwJhNAFD85FQtToXzO) | 4:07 | 2023-05-04 | 2023-06-16 |
@@ -867,7 +869,7 @@
 | [Why Can't I](https://open.spotify.com/track/5umoaDBuH6bIV7oazLwouw) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [Why Can't I](https://open.spotify.com/album/335eRtnoExauLL8Zbj0MoK) | 3:20 | 2024-01-10 | 2024-05-28 |
 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 | 2023-11-09 | 2024-04-19 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-06-06 |  |
-| [wildflower](https://open.spotify.com/track/0u7Shj9zotYlZR1HTV04CX) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [wildflower](https://open.spotify.com/album/3K4cEd76AbffzMtu8bEfz9) | 2:55 | 2024-12-11 |  |
+| [wildflower](https://open.spotify.com/track/0u7Shj9zotYlZR1HTV04CX) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [wildflower](https://open.spotify.com/album/3K4cEd76AbffzMtu8bEfz9) | 2:55 | 2024-12-11 | 2024-12-24 |
 | [Will U?](https://open.spotify.com/track/37NHeXSJ86rPJoseHnR91V) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Will U?](https://open.spotify.com/album/7yW3BRzqcGO0yvSeKA6876) | 3:26 | 2023-10-05 | 2023-11-17 |
 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 | 2024-12-18 |  |
 | [Wirang](https://open.spotify.com/track/31CJowm1yKm0GMKEEcODtP) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Wirang](https://open.spotify.com/album/4SckpzyjbJpKjXnWBxxWGs) | 5:18 | 2023-12-14 | 2024-02-20 |

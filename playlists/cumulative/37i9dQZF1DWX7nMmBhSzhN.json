@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 415666,
       "name": "Dil Kehta Hai (From \"Akele Hum Akele Tum\")",
       "url": "https://open.spotify.com/track/4xx4olj0y8KxA1oVXe4fBL"
@@ -2142,6 +2142,24 @@
       "duration_ms": 409040,
       "name": "Yaad Teri Aati Hai",
       "url": "https://open.spotify.com/track/5yEZ6GrqXy4gl8Y0y5OLar"
+    },
+    {
+      "album": {
+        "name": "Aa Gale Lag Jaa",
+        "url": "https://open.spotify.com/album/0rZKx9oFhid1VxNACHScB0"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324910,
+      "name": "Yaad Teri Aati Hai",
+      "url": "https://open.spotify.com/track/6WiXvdlgadp8xbZr1Iou2A"
     },
     {
       "album": {

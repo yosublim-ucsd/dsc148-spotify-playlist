@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 36533,
+  "num_followers": 36563,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Rebotando",
-        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "El Taqui Taqui - Original Mix",
-      "url": "https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Rey Sabanero",
         "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 231890,
       "name": "Entre Rejas",
       "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Rebotando",
+        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "El Taqui Taqui - Original Mix",
+      "url": "https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -459,22 +459,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Senta Danada",
-        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+          "name": "La Familia Andr\u00e9",
+          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
         }
       ],
-      "duration_ms": 172621,
-      "name": "Senta Danada",
-      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
+      "duration_ms": 279613,
+      "name": "De Oro",
+      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -499,18 +495,38 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE"
+        "name": "Senta Danada",
+        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
       },
       "artists": [
         {
-          "name": "La Familia Andr\u00e9",
-          "url": "https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
         }
       ],
-      "duration_ms": 279613,
-      "name": "De Oro",
-      "url": "https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP"
+      "duration_ms": 172621,
+      "name": "Senta Danada",
+      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Otra Noche (Another Night)",
+      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -531,22 +547,6 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Otra Noche (Another Night)",
-      "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "16 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        }
-      ],
-      "duration_ms": 212138,
-      "name": "Dime Qu\u00e9 Paso",
-      "url": "https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Afrosound",
         "url": "https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 243054,
       "name": "Ag\u00fcita e Coco - Instrumental",
       "url": "https://open.spotify.com/track/0dwH1sfUCF7U6ZwaU9XoId"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "16 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        }
+      ],
+      "duration_ms": 212138,
+      "name": "Dime Qu\u00e9 Paso",
+      "url": "https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "16 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        }
-      ],
-      "duration_ms": 199918,
-      "name": "Sobre las Olas",
-      "url": "https://open.spotify.com/track/23jhtHHCIv6TrxLTCjqt2h"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Nosotros",
         "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "16 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        }
+      ],
+      "duration_ms": 199918,
+      "name": "Sobre las Olas",
+      "url": "https://open.spotify.com/track/23jhtHHCIv6TrxLTCjqt2h"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "16 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Piper Pimienta Diaz",
-          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
-        }
-      ],
-      "duration_ms": 277636,
-      "name": "Busc\u00e1ndote",
-      "url": "https://open.spotify.com/track/70eAth7yT2CClU6AD8INk1"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/7CsmHsSsuGjCr3FyMZDkMd"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "16 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+        }
+      ],
+      "duration_ms": 277636,
+      "name": "Busc\u00e1ndote",
+      "url": "https://open.spotify.com/track/70eAth7yT2CClU6AD8INk1"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Latin Brothers",
-        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "Fuma el Barco",
-      "url": "https://open.spotify.com/track/5JldI8C9KpyQTOxtX181Nb"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 242224,
       "name": "Encanto",
       "url": "https://open.spotify.com/track/3AxARmSZAUeLbeXNfEAYFv"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de Latin Brothers",
+        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Fuma el Barco",
+      "url": "https://open.spotify.com/track/5JldI8C9KpyQTOxtX181Nb"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+        "name": "Historia Musical de Latin Brothers",
+        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
       },
       "artists": [
         {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
         }
       ],
-      "duration_ms": 271189,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
+      "duration_ms": 286120,
+      "name": "Las Calaveras",
+      "url": "https://open.spotify.com/track/1JpeagoyT9ax1fZlGyXrCR"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+      },
+      "artists": [
+        {
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        }
+      ],
+      "duration_ms": 271189,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Latin Brothers",
-        "url": "https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        }
-      ],
-      "duration_ms": 286120,
-      "name": "Las Calaveras",
-      "url": "https://open.spotify.com/track/1JpeagoyT9ax1fZlGyXrCR"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
         "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
       },
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 155946,
+      "name": "Se Me Perdi\u00f3 la Cadenita",
+      "url": "https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
       },
@@ -1235,26 +1251,6 @@
       "duration_ms": 218400,
       "name": "Caliventura",
       "url": "https://open.spotify.com/track/5P1vcUYy4BxJA1jWpSXPia"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
-      },
-      "artists": [
-        {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
-        },
-        {
-          "name": "Elkin Serna",
-          "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Qu\u00e9 Lindo Es Quererte",
-      "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1279,22 +1275,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
-        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
         },
         {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Elkin Serna",
+          "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
         }
       ],
-      "duration_ms": 315087,
-      "name": "El Amor Es Perd\u00f3n y Algo Mas",
-      "url": "https://open.spotify.com/track/2mWKz1tLyXlEbjzy9yrwFj"
+      "duration_ms": 234231,
+      "name": "Qu\u00e9 Lindo Es Quererte",
+      "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1311,22 +1307,6 @@
       "duration_ms": 266410,
       "name": "Usted Es la Culpable",
       "url": "https://open.spotify.com/track/6ssKSM4HcodzZ1OIxAyq63"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 155946,
-      "name": "Se Me Perdi\u00f3 la Cadenita",
-      "url": "https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1383,18 +1363,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
+        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
       "artists": [
         {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 239375,
-      "name": "Mi Amor Es Grande",
-      "url": "https://open.spotify.com/track/2hjosXarCRUTxxIexYV9v1"
+      "duration_ms": 315087,
+      "name": "El Amor Es Perd\u00f3n y Algo Mas",
+      "url": "https://open.spotify.com/track/2mWKz1tLyXlEbjzy9yrwFj"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1431,6 +1415,22 @@
       "duration_ms": 209266,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+      },
+      "artists": [
+        {
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        }
+      ],
+      "duration_ms": 239375,
+      "name": "Mi Amor Es Grande",
+      "url": "https://open.spotify.com/track/2hjosXarCRUTxxIexYV9v1"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Cordobesa",
-        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
       "artists": [
         {
-          "name": "La Sonora Cordobesa",
-          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
         }
       ],
-      "duration_ms": 160606,
-      "name": "Bocachico Sinuano",
-      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
+      "duration_ms": 209084,
+      "name": "Bacano",
+      "url": "https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de la Sonora Cordobesa",
+        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Cordobesa",
+          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+        }
+      ],
+      "duration_ms": 160606,
+      "name": "Bocachico Sinuano",
+      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de Afrosound: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM"
       },
@@ -1571,38 +1587,6 @@
       "duration_ms": 174705,
       "name": "La Danza de los Mirlos - Instrumental",
       "url": "https://open.spotify.com/track/7HHFSKXG3UIaJDdVkkrI3c"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Costa Alegre",
-        "url": "https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Salamanca",
-          "url": "https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI"
-        }
-      ],
-      "duration_ms": 163108,
-      "name": "El Escorpi\u00f3n",
-      "url": "https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        }
-      ],
-      "duration_ms": 209084,
-      "name": "Bacano",
-      "url": "https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1623,6 +1607,22 @@
       "duration_ms": 242346,
       "name": "El Ausente",
       "url": "https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Costa Alegre",
+        "url": "https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Salamanca",
+          "url": "https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI"
+        }
+      ],
+      "duration_ms": 163108,
+      "name": "El Escorpi\u00f3n",
+      "url": "https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Nemus del Pac\u00edfico",
-        "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
-      },
-      "artists": [
-        {
-          "name": "Los Nemus Del Pacifico",
-          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "El Debilitao",
-      "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de Fruko: \u00c9xitos",
         "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 219352,
       "name": "Tania",
       "url": "https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Nemus del Pac\u00edfico",
+        "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
+      },
+      "artists": [
+        {
+          "name": "Los Nemus Del Pacifico",
+          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "El Debilitao",
+      "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

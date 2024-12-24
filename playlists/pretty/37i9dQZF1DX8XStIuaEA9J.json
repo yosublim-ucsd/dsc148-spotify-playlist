@@ -1,12 +1,12 @@
 {
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u8a69\u7fbd \u00d7 CENT",
-  "num_followers": 182367,
+  "num_followers": 182379,
   "original_name": "Teen Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2GR9AAAAACoIat5vWz8jLVu2k22CsxU",
+  "snapshot_id": "Z2jf9wAAAAC6azEYnX8T+gruSRoLsqCN",
   "tracks": [
     {
       "added_at": "2024-12-17 15:00:04",
@@ -291,6 +291,26 @@
       "duration_ms": 191238,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f COCKTAIL SOUNDS MIX",
       "url": "https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4"
+    },
+    {
+      "added_at": "2024-12-23 03:58:47",
+      "album": {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30de\u30fc\u30e1\u30a4\u30c9 (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/0od3OEGKW7YjuV9YlaGWMH"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30de\u30fc\u30e1\u30a4\u30c9 (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/6CyopB09A1EzYKL7kkyEPQ"
     },
     {
       "added_at": "2024-12-17 15:00:04",
@@ -1283,26 +1303,6 @@
       "duration_ms": 261333,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/7k3UFhBKsTNvKC19jIRfw7"
-    },
-    {
-      "added_at": "2024-12-17 15:00:04",
-      "album": {
-        "name": "\u685c\u65e5\u548c\u3068\u30bf\u30a4\u30e0\u30de\u30b7\u30f3 with \u521d\u97f3\u30df\u30af\uff0f\u521d\u590f",
-        "url": "https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 331560,
-      "name": "\u685c\u65e5\u548c\u3068\u30bf\u30a4\u30e0\u30de\u30b7\u30f3 with \u521d\u97f3\u30df\u30af",
-      "url": "https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY"
     },
     {
       "added_at": "2024-12-17 15:00:04",

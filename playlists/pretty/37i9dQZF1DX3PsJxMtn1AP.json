@@ -1,13 +1,29 @@
 {
   "description": "A sonic wonderland of the latest mesmerizing tunes...",
-  "num_followers": 75155,
+  "num_followers": 75153,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2UH6AAAAADEmz8moN1kSxGVNljh5Rl4",
+  "snapshot_id": "Z2mRrwAAAAD8wjEmVbp3pDwH0SDagCTq",
   "tracks": [
+    {
+      "added_at": "2024-12-23 16:37:03",
+      "album": {
+        "name": "To Unknownia",
+        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 243872,
+      "name": "To Unknownia",
+      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
+    },
     {
       "added_at": "2024-11-28 14:39:10",
       "album": {
@@ -45,20 +61,36 @@
       "url": "https://open.spotify.com/track/00nk5f2eHeKQpmXCJY1Hll"
     },
     {
-      "added_at": "2024-12-20 06:00:08",
+      "added_at": "2024-12-23 16:34:56",
       "album": {
-        "name": "Todos Nacen Gritando",
-        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
+        "name": "Enkaz",
+        "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Hombre Roto",
-      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
+      "duration_ms": 200120,
+      "name": "Enkaz",
+      "url": "https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4"
+    },
+    {
+      "added_at": "2024-12-23 16:34:56",
+      "album": {
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/4mojyb6RxQOj1dVTolkccN"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 200799,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/3A78WpoH8cs834OAPZbyqj"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -163,22 +195,6 @@
       "duration_ms": 204615,
       "name": "Gold Filigree",
       "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
-    },
-    {
-      "added_at": "2024-10-23 05:46:43",
-      "album": {
-        "name": "Deux Paradis",
-        "url": "https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 273897,
-      "name": "Deux Paradis",
-      "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
     },
     {
       "added_at": "2024-10-24 20:20:58",
@@ -321,6 +337,22 @@
       "url": "https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9"
     },
     {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Todos Nacen Gritando",
+        "url": "https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Hombre Roto",
+      "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
+    },
+    {
       "added_at": "2024-10-24 20:37:14",
       "album": {
         "name": "Rose Main Reading Room",
@@ -351,38 +383,6 @@
       "duration_ms": 401125,
       "name": "Give it Back",
       "url": "https://open.spotify.com/track/7y7GePCjc1mqoLAvbjmAvK"
-    },
-    {
-      "added_at": "2024-10-08 18:30:46",
-      "album": {
-        "name": "Soft Tissue",
-        "url": "https://open.spotify.com/album/69QCiIiLoFQdecwRzsgu5s"
-      },
-      "artists": [
-        {
-          "name": "Tindersticks",
-          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
-        }
-      ],
-      "duration_ms": 227704,
-      "name": "New World - Edit",
-      "url": "https://open.spotify.com/track/48NhzGZmcxW2cGw3RN33JD"
-    },
-    {
-      "added_at": "2024-10-08 18:30:46",
-      "album": {
-        "name": "Esfera",
-        "url": "https://open.spotify.com/album/0bIlVh4N9g9NkWhez98eG4"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 226910,
-      "name": "Esfera",
-      "url": "https://open.spotify.com/track/43OncoXjYE1JS3YMv0D66y"
     },
     {
       "added_at": "2024-12-20 06:00:08",

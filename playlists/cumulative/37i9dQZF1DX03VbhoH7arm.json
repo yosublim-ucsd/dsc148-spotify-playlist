@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142309,
+      "name": "Capa De Revista",
+      "url": "https://open.spotify.com/track/0PNwMRlZgwoWVe0idfGQPH"
+    },
+    {
+      "album": {
         "name": "Carinha de Beb\u00ea",
         "url": "https://open.spotify.com/album/3rUoVCrA04JXWIrpOQqZhl"
       },
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -5069,6 +5087,24 @@
     },
     {
       "album": {
+        "name": "Numa Ilha",
+        "url": "https://open.spotify.com/album/3iWRG01i6PWGpA7cADfovj"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249096,
+      "name": "Numa Ilha",
+      "url": "https://open.spotify.com/track/2MitriRScA3ZKpVd1lXAbm"
+    },
+    {
+      "album": {
         "name": "Nuvem de Testemunhas - Spotify Singles",
         "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
       },
@@ -5080,7 +5116,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 93377,
       "name": "Nuvem de Testemunhas - Spotify Singles",
       "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,540 likes - 81 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,603 likes - 81 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Main Titles \- The Little Mermaid](https://open.spotify.com/track/09HBvmj0dUeQYHGbKJefR5) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:26 |
 | 2 | [A Whole New World \- From "Aladdin"](https://open.spotify.com/track/7pJ4qUAXYKIObqrHpN09Ds) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Whole New World \(From "Aladdin"\)](https://open.spotify.com/album/3QKlFrb003pEc0I321wmSt) | 2:43 |
 | 3 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/13GQAPoUkyZTE8oJV3Uy2L) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:46 |
-| 4 | [Colors of the Wind \- From "Pocahontas"](https://open.spotify.com/track/7x63W1DjKHdw02s6JyC0jt) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Colors of the Wind \(From "Pocahontas"\)](https://open.spotify.com/album/5ZWCfX6VPczkF2pqWX6cYc) | 3:28 |
-| 5 | [Beyond \(Instrumental\)](https://open.spotify.com/track/1vZEwelI2gSwLxd1WkcfMz) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk), [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma) | 3:58 |
+| 4 | [Beyond \(Instrumental\)](https://open.spotify.com/track/1vZEwelI2gSwLxd1WkcfMz) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk), [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma) | 3:58 |
+| 5 | [Colors of the Wind \- From "Pocahontas"](https://open.spotify.com/track/7x63W1DjKHdw02s6JyC0jt) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Colors of the Wind \(From "Pocahontas"\)](https://open.spotify.com/album/5ZWCfX6VPczkF2pqWX6cYc) | 3:28 |
 | 6 | [Go The Distance \- From "Hercules"](https://open.spotify.com/track/0O3o5L6SHXCjYvE5KY72bl) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Go The Distance \(From "Hercules"\)](https://open.spotify.com/album/5F5ibk9DFIhMSxUJVJiVFj) | 4:22 |
 | 7 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 |
 | 8 | [How Far I'll Go \- From "Moana"](https://open.spotify.com/track/6VChVf3NAbBtJzvSVEwqJ3) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:48 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 80 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 |
 | 81 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 |
 
-Snapshot ID: `Z07aKwAAAABv/o2RP17apvRdRQH5I+YP`
+Snapshot ID: `Z2lngwAAAADlbPIpRdaxht5JIEdzZ0Ci`

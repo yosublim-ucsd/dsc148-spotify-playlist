@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 22 Dec 19:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Dec 14:02 UTC.
 
-3,855 songs - 8 day 21 hr 52 min
+3,856 songs - 8 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2684,7 +2684,7 @@
 | [Redshift](https://open.spotify.com/track/1kXwc02M6g1OhRb7SVsKJA) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Redshift](https://open.spotify.com/album/1H4dtkYGscdjYNjPTjFVEY) | 3:43 | 2024-11-13 | 2024-11-26 |
 | [REEKYOD](https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [REEKYOD](https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy) | 2:36 | 2024-05-01 | 2024-05-03 |
 | [REGALSTAR](https://open.spotify.com/track/0YVHIlCYvjwVm7HzbosHFs) | [Willyynova](https://open.spotify.com/artist/19uBisMOURG4hDkkWhapO9) | [REGALSTAR](https://open.spotify.com/album/1CAnQK04jtDz5QomB290Ue) | 2:00 | 2024-05-17 | 2024-05-21 |
-| [REINAS](https://open.spotify.com/track/4UICvc2H3rrcTKleNC3c9Q) | [Sonia Y Selena](https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8) | [REINAS](https://open.spotify.com/album/2TvQuekUEIeFUjBNYLh2x6) | 3:03 | 2024-12-20 |  |
+| [REINAS](https://open.spotify.com/track/4UICvc2H3rrcTKleNC3c9Q) | [Sonia Y Selena](https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8) | [REINAS](https://open.spotify.com/album/2TvQuekUEIeFUjBNYLh2x6) | 3:03 | 2024-12-20 | 2024-12-24 |
 | [Rejection](https://open.spotify.com/track/6lRglAtqAXeKu1a7ANWVpC) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [Rejection](https://open.spotify.com/album/5yj1oDrLds462bneqdG65U) | 4:10 | 2024-10-10 | 2024-10-12 |
 | [Relay](https://open.spotify.com/track/0ljPTtEY5jTIZ9g7FwJQpQ) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Relay](https://open.spotify.com/album/7JncfaUqSBjKb7c15yy37J) | 2:24 | 2024-10-28 | 2024-10-31 |
 | [REMAINS](https://open.spotify.com/track/4BPPPRElbcsEcTYV1gBDCk) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3), [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [REMAINS](https://open.spotify.com/album/2HrHvcarrmgckZ8rs1pxLI) | 2:27 | 2024-06-21 | 2024-06-25 |
@@ -2798,6 +2798,7 @@
 | [Sandman](https://open.spotify.com/track/5w0e7sRMMTKgJphpfr11oF) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Sandman](https://open.spotify.com/album/0AQpexEpqOXWsGeKBmnb9F) | 3:42 | 2024-10-10 | 2024-10-11 |
 | [Sans Limites](https://open.spotify.com/track/1HUeBpI4otaokLQPIGnKee) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Sans Limites](https://open.spotify.com/album/4fFXbhBxCW3sITCgg9XFKE) | 5:07 | 2024-06-20 | 2024-06-22 |
 | [Sans visage](https://open.spotify.com/track/5wiFUVh9aB0MQh4n2AHCwK) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Sans visage](https://open.spotify.com/album/7sIEiWP721eUrnOD9E6AAS) | 4:12 | 2024-08-28 | 2024-08-31 |
+| [Santa Baby](https://open.spotify.com/track/1EITuSys8hwjL8f6CsajuA) | [Kim Kardashian](https://open.spotify.com/artist/0VyNiaUWxot9V0efpoi0qt) | [Santa Baby](https://open.spotify.com/album/4GKRgu7kLbEPjkOG3wiMhU) | 3:29 | 2024-12-23 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii) | 1:59 | 2024-12-17 | 2024-12-21 |
 | [Sarah](https://open.spotify.com/track/6siUZs2SqXH9yCOGBFY2Jn) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Sarah](https://open.spotify.com/album/4ON19xY4W0bXx117hpelen) | 2:33 | 2024-07-26 | 2024-07-31 |
 | [Saraiman](https://open.spotify.com/track/79O1Cgf7etB3qAB7Qde5rN) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Saraiman](https://open.spotify.com/album/07N3hzOAgBnFB9N8BEZqaW) | 4:12 | 2024-06-06 | 2024-06-10 |

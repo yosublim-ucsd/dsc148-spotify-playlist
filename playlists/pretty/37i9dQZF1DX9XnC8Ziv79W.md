@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XnC8Ziv79W.md) - [plain]
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,472 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,476 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

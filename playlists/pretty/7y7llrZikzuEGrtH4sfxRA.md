@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,660 likes - 20 songs - 1 hr 8 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,663 likes - 20 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [4U \- Edu Campos Remix](https://open.spotify.com/track/4U9f50xOGsxa4aFPkU2pxQ) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:00 |
-| 2 | [4U \- Buitano Remix](https://open.spotify.com/track/2h8wPu5QdjQ6LYWLJLG2py) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:41 |
+| 1 | [4U \- Edu Campos Remix](https://open.spotify.com/track/4U9f50xOGsxa4aFPkU2pxQ) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0), [Edu Campos](https://open.spotify.com/artist/2RvoRUjBaJOEHIlfjs9V2J) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:00 |
+| 2 | [4U \- Buitano Remix](https://open.spotify.com/track/2h8wPu5QdjQ6LYWLJLG2py) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:41 |
 | 3 | [4U](https://open.spotify.com/track/3QE2gfRNuXj1WFDKY0992J) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:00 |
 | 4 | [Elektro](https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Elektro](https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll) | 2:25 |
 | 5 | [Brava](https://open.spotify.com/track/7zL9EbGsI8KKLUxUWT0ump) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. II\)](https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP) | 5:27 |

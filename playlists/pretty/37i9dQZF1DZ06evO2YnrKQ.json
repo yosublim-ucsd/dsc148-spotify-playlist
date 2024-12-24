@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 22752,
+  "num_followers": 22756,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2YFAAAAAAA7h6RVHdrcQem9Ne/UIyCx",
+  "snapshot_id": "Z2dWgAAAAACwC4Ec5huCUxboJbOxCiCs",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 257106,
-      "name": "Old Crows",
-      "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
+      "duration_ms": 201373,
+      "name": "Sons of Privilege",
+      "url": "https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 201373,
-      "name": "Sons of Privilege",
-      "url": "https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6"
+      "duration_ms": 257106,
+      "name": "Old Crows",
+      "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
     },
     {
       "added_at": null,

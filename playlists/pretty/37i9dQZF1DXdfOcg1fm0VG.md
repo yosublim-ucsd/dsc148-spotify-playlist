@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,498 likes - 140 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,580 likes - 140 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 14 | [Secunda \(Transcr\. Trifonov for Piano\) \- From "The Elder Scrolls: Skyrim"](https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Soule: Secunda \(Transcr\. Trifonov for Piano\) \[From "The Elder Scrolls: Skyrim"\]](https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9) | 2:27 |
 | 15 | [Divine Overture \(Main Theme\)](https://open.spotify.com/track/6eXw5tf0oLrJRowzaOetc0) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk) | [SMITE 2 \(Official Game Soundtrack\)](https://open.spotify.com/album/3rqJtPHoRHCMQ4iv06UHfk) | 2:49 |
 | 16 | [Mirage Theme \- From Assassin's Creed Mirage](https://open.spotify.com/track/17D3bYY9JJJjH1TUAruBJr) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Mirage Theme \(From Assassin's Creed Mirage\)](https://open.spotify.com/album/5zqIzGbR9wAkZFSLRkndlK) | 3:32 |
-| 17 | [Enthroned on Mount Olympus](https://open.spotify.com/track/7hVKcAyshAzCL16kJAdji1) | [Winifred Phillips](https://open.spotify.com/artist/3WdyhLLusqZPFr1coSYNnA) | [God of War \(2005\) \(Original Soundtrack from the Video Game\)](https://open.spotify.com/album/2oLqmz9UT44WeCDuUc5Uvr) | 1:57 |
-| 18 | [Into the Starfield \(Main Theme\)](https://open.spotify.com/track/325hdqkyHBRYu6ZOZt5Yrh) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [Starfield: Original Game Soundtrack](https://open.spotify.com/album/1XXC0nK0M6T3UCGCdm7UQG) | 2:49 |
-| 19 | [The Lost Crown \(Prince of Persia\)](https://open.spotify.com/track/116jZYVgxrFurFTmo6pDgv) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Joznez](https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs), [Kataem](https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil) | [The Lost Crown \(Original Music for Prince of Persia\)](https://open.spotify.com/album/4LNnzY4srbB8ytC7Tb3PFS) | 3:19 |
+| 17 | [Zelda's Lullaby \(Arr\. Clements for Vocal Ensemble & Harp\)](https://open.spotify.com/track/3EljV7yUSuuVcUQAzZSCtE) | [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Lise Vandersmissen](https://open.spotify.com/artist/0iMnYfFwxNUFp45FxlSpuC) | [Zelda's Lullaby \(Arr\. Clements for Vocal Ensemble & Harp\)](https://open.spotify.com/album/0y54gIwJbHdScbz7dJWAWh) | 2:59 |
+| 18 | [Enthroned on Mount Olympus](https://open.spotify.com/track/7hVKcAyshAzCL16kJAdji1) | [Winifred Phillips](https://open.spotify.com/artist/3WdyhLLusqZPFr1coSYNnA) | [God of War \(2005\) \(Original Soundtrack from the Video Game\)](https://open.spotify.com/album/2oLqmz9UT44WeCDuUc5Uvr) | 1:57 |
+| 19 | [Into the Starfield \(Main Theme\)](https://open.spotify.com/track/325hdqkyHBRYu6ZOZt5Yrh) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [Starfield: Original Game Soundtrack](https://open.spotify.com/album/1XXC0nK0M6T3UCGCdm7UQG) | 2:49 |
 | 20 | [Emmett's Theme](https://open.spotify.com/track/21e8VPZa4lRxAt2Ra772f9) | [Christopher Lennertz](https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5) | [Starhawk \(Original Video Game Soundtrack\)](https://open.spotify.com/album/1J9tC37IDPGMaZTKqd7VXO) | 2:08 |
 | 21 | [Elden Ring](https://open.spotify.com/track/2iiJOgkKOCyb7ZPeqUNpud) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 1:38 |
 | 22 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 139 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 140 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `ZzcvCQAAAADTiiCOTISMY25txL4auOy3`
+Snapshot ID: `Z2lq1gAAAABDkVf2Qn7UMPvhs0qeoQUi`

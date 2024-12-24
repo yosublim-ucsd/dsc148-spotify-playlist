@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,743 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,742 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 19 | [One for My Baby](https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [Meet Me Around Midnight](https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO) | 3:49 |
 | 20 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 |
 | 21 | [Omission](https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Omission](https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm) | 3:26 |
-| 22 | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB) | 4:43 |
-| 23 | [Limbo Jazz](https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:15 |
+| 22 | [Limbo Jazz](https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:15 |
+| 23 | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB) | 4:43 |
 | 24 | [Spring Waltz](https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Spring Waltz](https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO) | 3:26 |
 | 25 | [Spring Is in the Air](https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [In a Deeper Sense](https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1) | 4:48 |
 | 26 | [Japanese Folk Song](https://open.spotify.com/track/5H91eWhSKcawShPDWN1Sxw) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Straight, No Chaser](https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ) | 16:40 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 33 | [There'll Be Another Spring](https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:40 |
 | 34 | [When the Sun Comes Out](https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 4:07 |
 | 35 | [It Must Be Love](https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Complete Bill Evans On Verve](https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU) | 3:57 |
-| 36 | [I'm In The Mood For Love \- Take 3 / Alternate Take](https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:34 |
-| 37 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |
-| 38 | [You Must Believe In Spring](https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse) | [Estelle Perrault](https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP) | [Dare That Dream](https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB) | 4:16 |
+| 36 | [You Must Believe In Spring](https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse) | [Estelle Perrault](https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP) | [Dare That Dream](https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB) | 4:16 |
+| 37 | [I'm In The Mood For Love \- Take 3 / Alternate Take](https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:34 |
+| 38 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |
 | 39 | [Here I'll Stay](https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:00 |
 | 40 | [April Come She Will](https://open.spotify.com/track/1VpjU6LnYh3IPH5et04Vj3) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 3:14 |
 | 41 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 |

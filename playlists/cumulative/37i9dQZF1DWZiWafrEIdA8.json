@@ -3891,6 +3891,28 @@
     },
     {
       "album": {
+        "name": "20th Anniversary Edition \u2018Dark Hole\u2019",
+        "url": "https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        },
+        {
+          "name": "Jamie",
+          "url": "https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270906,
+      "name": "Sick enough to die (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm"
+    },
+    {
+      "album": {
         "name": "MANTA BIPOLAR, Pt. 2",
         "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
       },
@@ -4294,7 +4316,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 195942,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"

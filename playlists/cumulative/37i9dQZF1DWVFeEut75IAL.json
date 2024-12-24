@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "Liszt: 3 Liebestr\u00e4ume, S. 541/3: No. 3, O lieb, so lang du lieben kannst (Arr. for Harp by Nora von Marschall)",
+        "url": "https://open.spotify.com/album/1NoXqEH1tDoXByWr3qxCxM"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Nora von Marschall",
+          "url": "https://open.spotify.com/artist/5By8kJBrn6lYKCVKHJSyts"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310344,
+      "name": "3 Liebestr\u00e4ume, S. 541/3: No. 3, O lieb, so lang du lieben kannst (Arr. for Harp by Nora von Marschall)",
+      "url": "https://open.spotify.com/track/4IsoCqXixbkRFLnIv0K2WY"
+    },
+    {
+      "album": {
         "name": "Penderecki: Sinfoniettas - Oboe Capriccio",
         "url": "https://open.spotify.com/album/5vxlxBQQkkzP0Voa3gFFOu"
       },
@@ -918,6 +940,28 @@
       "duration_ms": 187293,
       "name": "By the Still Waters, Op. 114",
       "url": "https://open.spotify.com/track/3qLZnIVAiGexuNuG8Aptrq"
+    },
+    {
+      "album": {
+        "name": "Pachelbel: Canon in D Major, P. 37/1 (Arr. Coates & Lawson for Harp)",
+        "url": "https://open.spotify.com/album/6EPyc1L35hClQ9gHDv22cx"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255061,
+      "name": "Canon in D Major, P. 37/1 (Arr. Coates & Lawson for Harp)",
+      "url": "https://open.spotify.com/track/1DWoBGJYcPhsXKGRtvSuWV"
     },
     {
       "album": {
@@ -2387,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Ocean Sonata For Harp",
+        "url": "https://open.spotify.com/album/6fCXKF0TxDdjQJjPNvpbw0"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119446,
+      "name": "Ocean Sonata For Harp",
+      "url": "https://open.spotify.com/track/2BtNSFBVrY9QTSPwGCFJ7N"
+    },
+    {
+      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -2788,6 +2850,28 @@
       "duration_ms": 216061,
       "name": "Pr\u00e9ludes / Book 2, L. 123: 5. Bruy\u00e8res - Home Session",
       "url": "https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7"
+    },
+    {
+      "album": {
+        "name": "The Complete Debussy: Pr\u00e9ludes pour solo piano",
+        "url": "https://open.spotify.com/album/7lRTB8X2ZkzxD8hxfDcMtX"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Anna Tsybuleva",
+          "url": "https://open.spotify.com/artist/5KR6Fiu20JZXyqLH7PHn8N"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165920,
+      "name": "Pr\u00e9ludes, Book 1: VIII. La Fille Aux Cheveux de Lin",
+      "url": "https://open.spotify.com/track/0g6Lm1d1FcfzV7ZkCzy8aP"
     },
     {
       "album": {

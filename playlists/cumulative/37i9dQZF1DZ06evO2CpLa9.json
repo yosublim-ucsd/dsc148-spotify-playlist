@@ -1107,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "No Me Dijeron",
+        "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187768,
+      "name": "No Me Dijeron",
+      "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
+    },
+    {
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -1458,7 +1480,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 243428,
       "name": "SANGRE X SANGRE",
       "url": "https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7"

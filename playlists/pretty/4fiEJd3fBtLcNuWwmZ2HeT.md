@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 259 songs - 14 hr 47 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 262 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,5 +267,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 257 | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/track/4wdZoFvA5zpxVglDuESYJ3) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev) | 4:40 |
 | 258 | [WHEELER\-DEALER](https://open.spotify.com/track/2UlgPL6t8KjTwcozqVsXuK) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [WHEELER\-DEALER](https://open.spotify.com/album/5v2fdO3vboOeuBCZU5VA68) | 4:31 |
 | 259 | [Haunted Dance](https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2) | [Mr\. Asyu](https://open.spotify.com/artist/1RJXUJYZGrX9fGK92SjecX) | [Tone Sphere Ultra Service](https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz) | 3:32 |
+| 260 | [終末ランデブー](https://open.spotify.com/track/3WFtirwUP1iD3bfd6tIt5y) | [KIBAKO](https://open.spotify.com/artist/52FeDz9u9qzZ6bUtQVXyJA), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [終末ランデブー](https://open.spotify.com/album/6yomWJFxoRLd0IuHlBBDJT) | 3:14 |
+| 261 | [ラプラスショコラ](https://open.spotify.com/track/1peOsJELHn8Clf4kjX9g71) | [Kai](https://open.spotify.com/artist/3pstnSha9lNrdYVfFTUucR) | [ラプラスショコラ](https://open.spotify.com/album/7fRf7AoKjsuAMstix32dwX) | 2:17 |
+| 262 | [Mellow mellow Lily](https://open.spotify.com/track/68GkZrkZVZQlv9eXZofLL0) | [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO) | [ヤリチン☆ビッチ部 キャラクターソングシリーズ「いちご味」](https://open.spotify.com/album/5JiJPMzj7fN1UZzzWmghml) | 3:28 |
 
-Snapshot ID: `AAAI4BTN59ZAJmtOUzaVRlc1ocGrstdU`
+Snapshot ID: `AAAI4yqdsT3CgyQ+eYOzPeVfXupBzTWW`

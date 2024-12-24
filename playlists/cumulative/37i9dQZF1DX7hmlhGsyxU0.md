@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-175 songs - 9 hr 27 min
+176 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,5 +183,6 @@
 | [Your Spell](https://open.spotify.com/track/5U1D092cYFEXTZVjvIXLuF) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Your Spell](https://open.spotify.com/album/41mEdEldNGAyFDFIX5RJQq) | 2:52 | 2024-11-15 |  |
 | [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 | 2022-06-24 |  |
 | [Zerachiel](https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF) | 3:11 | 2023-06-27 | 2024-04-19 |
+| [Étude No\. 8: Through the Window \(C.B\. Rework\)](https://open.spotify.com/track/7hx4S1uSWXIs1eA84Ae9fy) | [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ) | [Étude No\. 8: Through the Window \(C.B\. Rework\)](https://open.spotify.com/album/6vFC1wTArDQF6MQJke7cEH) | 4:49 | 2024-12-23 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

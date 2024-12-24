@@ -1379,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "Rachmaninoff: Moments musicaux, Op. 16: No. 6 in C Major, Maestoso",
+        "url": "https://open.spotify.com/album/3mlbcpvJOyok1Huh7l0yH6"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Vadim Chaimovich",
+          "url": "https://open.spotify.com/artist/5EfeuEtilmCk8J49T35rqb"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Moments musicaux, Op. 16: No. 6 in C Major, Maestoso",
+      "url": "https://open.spotify.com/track/2Cm68BHv3MzgNBez4QPW3t"
+    },
+    {
+      "album": {
         "name": "Mozart",
         "url": "https://open.spotify.com/album/2xetV0B6kIvioqH52Q6JFW"
       },

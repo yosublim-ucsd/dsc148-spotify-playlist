@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, El Frizian en portada.
 
-632 songs - 1 day 9 hr 30 min
+633 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [El Mejor De Mis Días](https://open.spotify.com/track/2TiaN5xxTHxUT2jdKAJyP5) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [El Mejor de Mis Días](https://open.spotify.com/album/0GFG1VqrFrdhhZLqxQWZPF) | 3:01 | 2024-06-21 | 2024-08-17 |
 | [El Mejor del Mundo \- En Vivo](https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mejor del Mundo \(En Vivo\)](https://open.spotify.com/album/3SQSVXheDF238LrACCxEwE) | 3:04 | 2023-12-15 | 2024-01-13 |
 | [El Mero Jefe](https://open.spotify.com/track/7x8zB0fCcGX2Laz7aOdX8d) | [Grupo DH](https://open.spotify.com/artist/1hsSik9MaFxsUbimuleDxZ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Mero Jefe](https://open.spotify.com/album/7I18KlTao7kD9zzaiHJA0U) | 2:50 | 2023-01-13 | 2023-01-21 |
+| [El Mochomo \- Live](https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Mochomo \(Live\)](https://open.spotify.com/album/3xGn4cLF44Yx2B9ujTCy3H) | 2:56 | 2024-12-20 |  |
 | [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 | 2023-09-08 | 2024-03-23 |
 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 | 2023-05-26 | 2023-09-22 |
 | [El Pescuezo Del Pollo \(En Vivo\)](https://open.spotify.com/track/0N3dAhEqj3zTeHJcDuA5fB) | [Los Juniors de La Montaña](https://open.spotify.com/artist/304T5qiPITdwBthiURWORg) | [El Pescuezo Del Pollo \(En Vivo\)](https://open.spotify.com/album/24X2SfIgfDI6fBWDM9OaHy) | 4:24 | 2023-04-14 | 2023-06-08 |
@@ -312,7 +313,7 @@
 | [La del Pendejo](https://open.spotify.com/track/7DKx66HCif9PZeUh5oNQML) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [La del Pendejo](https://open.spotify.com/album/6ilsQw6Zw27ElN7DFxvZnN) | 2:52 | 2022-07-01 | 2022-07-29 |
 | [La Era de Hielo](https://open.spotify.com/track/4R4FuabnmYK4I4D3OrpPTX) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [La Era de Hielo](https://open.spotify.com/album/2LHB7Gd2kXnql2xv7TsYOT) | 4:03 | 2022-07-01 | 2022-07-29 |
 | [La Esquina Del Mall](https://open.spotify.com/track/3uZZNQXbx91jY6xoALZHUX) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [La Esquina Del Mall](https://open.spotify.com/album/5b95NBKefFnjEIQOHTZeOy) | 3:28 | 2024-06-21 | 2024-08-31 |
-| [La Fiesta](https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Fiesta](https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz) | 3:09 | 2024-08-16 |  |
+| [La Fiesta](https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Fiesta](https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz) | 3:09 | 2024-08-16 | 2024-12-24 |
 | [La Guerita](https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Guerita](https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct) | 3:04 | 2024-04-26 | 2024-11-23 |
 | [La Hija Del Sr.](https://open.spotify.com/track/3uSnklocXnasLoqWMMMurP) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [1X1](https://open.spotify.com/album/1GsbrXF9wVjtvZR4aP33j5) | 3:33 | 2023-12-01 | 2023-12-09 |
 | [La Indicada](https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 3:43 | 2024-10-18 |  |

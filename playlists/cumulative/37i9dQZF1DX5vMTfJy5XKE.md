@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-847 songs - 1 day 21 hr 11 min
+850 songs - 1 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Bringin’ Back Christmas](https://open.spotify.com/track/2j4B4lbGBmdNHPDlCEnMFJ) | [Ryan Reynolds](https://open.spotify.com/artist/53I1cGdcv6KJ8wzitujYLG), [The Spirited Ensemble](https://open.spotify.com/artist/530twC3JUk9JEpR1PH4FVm) | [Bringin’ Back Christmas \[From Spirited \(Soundtrack from the Apple Original Film\)\]](https://open.spotify.com/album/3WxidTxS0s5AAzgEK7tPm2) | 3:53 | 2022-11-11 | 2023-10-04 |
 | [Broke Christmas](https://open.spotify.com/track/2PrTOuCSGN9mbQLMq9QIbS) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Broke Christmas](https://open.spotify.com/album/07bgrmLpLG1N138pZBVAc3) | 1:47 | 2023-11-10 | 2024-08-31 |
 | [California Christmas](https://open.spotify.com/track/2LCiyuBIDpFNNShsqNsyKg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [this is our Christmas album](https://open.spotify.com/album/6wBted9sjsgGSoGhELXaBC) | 4:34 | 2022-11-11 | 2023-10-04 |
+| [California Winter](https://open.spotify.com/track/06jxamUibvOt93vC9bC265) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [California Winter](https://open.spotify.com/album/1R3Bw4NDXDHYmByoDBKfo8) | 4:02 | 2024-12-23 |  |
 | [Call Me Irresponsible \(feat\. Ray Perry\)](https://open.spotify.com/track/6yWv7SxgX1JfxsGBilIwXt) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf), [Ray Perry](https://open.spotify.com/artist/7Mf5asPyqcl5ZrFxScutTw) | [The Season 3](https://open.spotify.com/album/19WHVFUxoC46P4c2GxypNw) | 3:04 | 2024-11-08 |  |
 | [Can I Spend Christmas with You](https://open.spotify.com/track/5wwKDO9xBOfJyS7dQ5ttrT) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [Can I Spend Christmas with You](https://open.spotify.com/album/03Pdd1R3Mkn61hf9kNqmNL) | 4:06 | 2023-12-01 | 2024-08-31 |
 | [Can't Wait](https://open.spotify.com/track/2tS3PopXI5ECG1E1AQGlai) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Can't Wait](https://open.spotify.com/album/2mGdw7yFDkid8TGma9Sesa) | 3:23 | 2024-11-29 |  |
@@ -612,6 +613,7 @@
 | [Run Run Rudolph](https://open.spotify.com/track/2ientVFqXRuL5VmZqSfZP6) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Koe Wetzel Presents..\. Wetzel's Wonderland Chapter 2](https://open.spotify.com/album/5GmCyt6pFMtFKkqHHIuYUz) | 3:16 | 2024-12-09 |  |
 | [Running Wild \(Holiday Remix\)](https://open.spotify.com/track/6X6b1RQFCkzhUCpHQlbOiW) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:33 | 2024-12-03 |  |
 | [Santa](https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Santa](https://open.spotify.com/album/5GVLfhHDPRPpHrUCMEY3vI) | 3:00 | 2022-12-02 | 2023-10-10 |
+| [Santa Baby](https://open.spotify.com/track/1EITuSys8hwjL8f6CsajuA) | [Kim Kardashian](https://open.spotify.com/artist/0VyNiaUWxot9V0efpoi0qt) | [Santa Baby](https://open.spotify.com/album/4GKRgu7kLbEPjkOG3wiMhU) | 3:29 | 2024-12-23 |  |
 | [Santa Baby](https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/2zPZAQ0uXCGLODxYGQyFqZ) | 3:02 | 2024-11-04 |  |
 | [Santa Baby](https://open.spotify.com/track/2fCX6eq74UXcmHbEFav7zx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Santa Baby](https://open.spotify.com/album/3ZyfuZTFiASHBZG6HTSffI) | 3:51 | 2023-11-17 | 2024-10-19 |
 | [santa baby](https://open.spotify.com/track/4RAVnFrYEAsI0C3blilR1Z) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [santa baby](https://open.spotify.com/album/1fqQ3f6kH5mvh6mK1XWGVt) | 3:25 | 2022-11-04 | 2023-10-04 |
@@ -643,6 +645,7 @@
 | [Santa Tell Me](https://open.spotify.com/track/6DEK5az4ryRqR4kXCLNwPv) | [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC) | [Santa Tell Me](https://open.spotify.com/album/4jpOHryCaRS1N3cyDvmV0e) | 3:15 | 2024-11-04 |  |
 | [Santa Visits Everyone](https://open.spotify.com/track/2ScrK8ptkddDk998DLu9sr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/2gfErXBICi3AIaEPBrideo) | 3:08 | 2021-12-24 | 2022-09-28 |
 | [Santa why are you so late?](https://open.spotify.com/track/2NzSFSItoBGq8uhFlAIR7S) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Santa why are you so late?](https://open.spotify.com/album/3Ge8P2TnWLIuCcLqYOltMv) | 2:36 | 2024-12-13 |  |
+| [Santa Won't You Bring Me](https://open.spotify.com/track/7lyzIWbbOzgTgZhFPFweuv) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [California Winter](https://open.spotify.com/album/1R3Bw4NDXDHYmByoDBKfo8) | 2:20 | 2024-12-23 |  |
 | [Santa's Night](https://open.spotify.com/track/1lrvAMRIFKAbM3oBJ9q7KV) | [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX), [Jason Kelce](https://open.spotify.com/artist/11RtainpIFozRURWgPJxFL) | [A Philly Special Christmas Special](https://open.spotify.com/album/1SgdvaJEvhlYEvm6eNja7i) | 3:04 | 2023-12-01 | 2024-08-31 |
 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 | 2021-12-24 | 2022-11-12 |
 | [Seat At The Table](https://open.spotify.com/track/0OhlmucNUv1KsJcm4rYU7o) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Seat At The Table](https://open.spotify.com/album/5BEAFUm1QHZrzYeEXTCS1r) | 3:11 | 2022-11-18 | 2023-10-10 |

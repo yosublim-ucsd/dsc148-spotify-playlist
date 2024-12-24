@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,338 likes - 60 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,390 likes - 60 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

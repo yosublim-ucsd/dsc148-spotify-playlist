@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36864,
+  "num_followers": 36869,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
+        "name": "Rollen in den Norden",
+        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 150648,
+      "name": "Rollen in den Norden",
+      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
         "name": "oxygen",
         "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 214404,
       "name": "Fcuk!",
       "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
-        "name": "Rollen in den Norden",
-        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 150648,
-      "name": "Rollen in den Norden",
-      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Ready For It All",
         "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 152816,
       "name": "Ready For It All",
       "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "Marius Bear",
-          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
-        }
-      ],
-      "duration_ms": 189310,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "fire",
         "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
@@ -611,18 +591,22 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Marius Bear",
+          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
         }
       ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+      "duration_ms": 189310,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -695,18 +679,34 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
       "artists": [
         {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Counting Days",
-        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 164501,
-      "name": "Counting Days",
-      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Julia?",
         "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 224464,
       "name": "Julia?",
       "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Counting Days",
+        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 164501,
+      "name": "Counting Days",
+      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 163712,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Long Year",
         "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 196246,
       "name": "Long Year",
       "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 163712,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "all night",
-        "url": "https://open.spotify.com/album/19WyumxNi7EgpvCspY2t0F"
-      },
-      "artists": [
-        {
-          "name": "outofhere",
-          "url": "https://open.spotify.com/artist/5Tfwoxw3tFQX7FWxTcX2Rf"
-        }
-      ],
-      "duration_ms": 129190,
-      "name": "all night",
-      "url": "https://open.spotify.com/track/1eCdTHsE0dek7lKGavN9Z9"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 162836,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "all night",
+        "url": "https://open.spotify.com/album/19WyumxNi7EgpvCspY2t0F"
+      },
+      "artists": [
+        {
+          "name": "outofhere",
+          "url": "https://open.spotify.com/artist/5Tfwoxw3tFQX7FWxTcX2Rf"
+        }
+      ],
+      "duration_ms": 129190,
+      "name": "all night",
+      "url": "https://open.spotify.com/track/1eCdTHsE0dek7lKGavN9Z9"
     },
     {
       "added_at": "2024-12-20 07:32:03",

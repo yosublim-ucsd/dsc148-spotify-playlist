@@ -1,6 +1,6 @@
 {
   "description": "chefin rei da tropa do mais novo ataca no funk",
-  "num_followers": 1403626,
+  "num_followers": 1403737,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -499,30 +499,6 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
-        "name": "Fala na Cara",
-        "url": "https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "DJ Ak beats",
-          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Fala na Cara",
-      "url": "https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto (feat. Veigh & Niink)",
       "url": "https://open.spotify.com/track/5Bp7TFENcgsdLCL8fMOSKs"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
+        "name": "Fala na Cara",
+        "url": "https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "Fala na Cara",
+      "url": "https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6"
     },
     {
       "added_at": "2024-12-20 03:03:02",
@@ -775,54 +775,6 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 135165,
-      "name": "N\u00e3o Temos Medo",
-      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "DJ Negret",
-          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Nois J\u00e1 T\u00e1 Rico",
-      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
       },
@@ -879,6 +831,54 @@
       "duration_ms": 615810,
       "name": "Ritmista 1.0",
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "DJ Negret",
+          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Nois J\u00e1 T\u00e1 Rico",
+      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 135165,
+      "name": "N\u00e3o Temos Medo",
+      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
     },
     {
       "added_at": "2024-12-20 03:03:02",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
-        "name": "bala e fogo",
-        "url": "https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 227552,
-      "name": "bala e fogo",
-      "url": "https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
         "name": "Banco do Carona",
         "url": "https://open.spotify.com/album/2asMgD4QCIQOJ8OiaB9Brw"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 450410,
       "name": "Banco do Carona",
       "url": "https://open.spotify.com/track/7bz3kEKKtEONtzxB6jrnb5"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
+        "name": "bala e fogo",
+        "url": "https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 227552,
+      "name": "bala e fogo",
+      "url": "https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp"
     },
     {
       "added_at": "2024-12-20 03:03:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Zakir Hussain
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,812 likes - 47 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,829 likes - 47 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 35 | [Mumbai](https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 4:32 |
 | 36 | [Khandam](https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [The Sound of Indian Tabla](https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU) | 3:42 |
 | 37 | [Tabla](https://open.spotify.com/track/3H5cOjtgzcmqibnmYxxuIU) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da), [Suman Sarkar](https://open.spotify.com/artist/0YKkpqAbai806ElUCqVpc0), [Helmut Weber](https://open.spotify.com/artist/3OyyuzAEaz2ZXWEjlBxlXL) | [Heaven On Earth](https://open.spotify.com/album/3MmALvzReDtQbeX9EEE3rn) | 4:59 |
-| 38 | [Ardha Jai Taal \(Tabla solo in 6.5 beats\)](https://open.spotify.com/track/3EvGdsfkKcUChBnEuWCed1) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Ardha Jai Taal \(Tabla solo in 6.5 beats\)](https://open.spotify.com/album/3nSESdpvZodJSBiGPwHSN0) | 9:04 |
-| 39 | [Sargam Crossing](https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 5:00 |
+| 38 | [Sargam Crossing](https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 5:00 |
+| 39 | [Ardha Jai Taal \(Tabla solo in 6.5 beats\)](https://open.spotify.com/track/3EvGdsfkKcUChBnEuWCed1) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Ardha Jai Taal \(Tabla solo in 6.5 beats\)](https://open.spotify.com/album/3nSESdpvZodJSBiGPwHSN0) | 9:04 |
 | 40 | [Ananta \(Tabla & Sitar\)](https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4), [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:56 |
 | 41 | [Delirio de Ale](https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3) | [Fausto Palma](https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q) | [Lagrima](https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J) | 2:39 |
 | 42 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |

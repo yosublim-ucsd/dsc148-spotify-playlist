@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1353573,
+  "num_followers": 1353761,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
+        "name": "Wicked Ones",
+        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
         }
       ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
+      "duration_ms": 172516,
+      "name": "Wicked Ones",
+      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 217626,
       "name": "Fancy Drones (Fracture Me)",
       "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Wicked Ones",
-        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 172516,
-      "name": "Wicked Ones",
-      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Smoke Rising",
-      "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Reskinned",
         "url": "https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 222733,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Smoke Rising",
+      "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
     },
     {
       "added_at": "2024-08-23 15:39:31",

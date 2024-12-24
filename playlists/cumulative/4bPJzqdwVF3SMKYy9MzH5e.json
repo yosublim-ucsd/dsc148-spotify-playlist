@@ -31713,6 +31713,24 @@
     },
     {
       "album": {
+        "name": "Sugar Water Cyanide",
+        "url": "https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174296,
+      "name": "Sugar Water Cyanide",
+      "url": "https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN"
+    },
+    {
+      "album": {
         "name": "Undergrounds Most Hated",
         "url": "https://open.spotify.com/album/7E7PkaeHFQ9aQNrg4DO29G"
       },

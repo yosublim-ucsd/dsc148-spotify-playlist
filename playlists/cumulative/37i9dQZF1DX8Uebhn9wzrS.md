@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,182 songs - 3 day 11 hr 10 min
+2,184 songs - 3 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Blue and Yellow](https://open.spotify.com/track/0wcWZTGYcsExq65e7Yexf1) | [Scarabeetz](https://open.spotify.com/artist/5Jh56uhWBGydHRgEwCMjqr) | [Blue and Yellow](https://open.spotify.com/album/17J7VL0I0YDggyq0QRaMzU) | 2:16 | 2022-09-09 | 2022-12-24 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Blue Boy](https://open.spotify.com/track/68nWg04z2NP3WLgfNk2RWG) | [Robin Slap](https://open.spotify.com/artist/65bnWo5d8B3pl5DfAeIVtW) | [Arabian Nights](https://open.spotify.com/album/1kUcEbPsImFojP0O8DuBwN) | 1:20 | 2022-04-15 | 2022-05-27 |
-| [Blue Drift](https://open.spotify.com/track/2BG75ETrZOMSmEwbpARLJi) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Blue Drift](https://open.spotify.com/album/6m8DL0g10o1CWWc9szlvDM) | 2:48 | 2024-03-22 |  |
+| [Blue Drift](https://open.spotify.com/track/2BG75ETrZOMSmEwbpARLJi) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Blue Drift](https://open.spotify.com/album/6m8DL0g10o1CWWc9szlvDM) | 2:48 | 2024-03-22 | 2024-12-24 |
 | [Blue Moon Boys](https://open.spotify.com/track/0OkPqjJ4mJNZZbcwW1pzzv) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Blue Moon Boys](https://open.spotify.com/album/6fTZl1fGfyGQx88rUCWOaJ) | 2:54 | 2022-11-11 |  |
 | [Blue Oceans](https://open.spotify.com/track/4FpQ21uYnLxIIOkalwjA76) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Blue Oceans](https://open.spotify.com/album/6bG1J0xfnwhntPq1aMulDe) | 2:06 | 2022-06-03 | 2023-03-09 |
 | [Blue Orchids](https://open.spotify.com/track/4U78uBnxWdIaP8DFWBFaGC) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Blue Orchids](https://open.spotify.com/album/7GEGxtHdQtuP04wodEjbID) | 1:34 | 2022-10-28 | 2023-01-20 |
@@ -851,6 +851,7 @@
 | [Highway to Shell](https://open.spotify.com/track/1h9AZqUiuQWbnpbUiR3olP) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Highway to Shell](https://open.spotify.com/album/61ClakUBMQ1Efqa4wolbNs) | 2:20 | 2023-01-13 |  |
 | [hinode](https://open.spotify.com/track/0hXCVcGMmVBrSpZjVSkMcQ) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [jibun](https://open.spotify.com/artist/22kLc50HOBzYluhCniwkNs) | [no collision](https://open.spotify.com/album/5MvMlfLZdH5wmmUD2UtpjD) | 2:03 | 2022-06-17 | 2022-08-12 |
 | [Hinode](https://open.spotify.com/track/0kAXBA7ZLIK6TxHPqCbDRu) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Hinode](https://open.spotify.com/album/5yJDZPiyHZAjvOoQkryexl) | 1:42 | 2024-07-26 | 2024-08-11 |
+| [Hip2Hip](https://open.spotify.com/track/4ippc5Br0DAG0aCCM5koqG) | [Conson](https://open.spotify.com/artist/38UPBZIZ83p8qJjAIyWJ3l) | [Hip2Hip](https://open.spotify.com/album/58qiQ91wlTpB6sVptjv6hc) | 2:15 | 2024-12-20 |  |
 | [hjortron](https://open.spotify.com/track/1eGHzlNpyXAsi4qKfm5z27) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [hjortron](https://open.spotify.com/album/5sANFRqIeEJUz1aVPmgEjA) | 2:09 | 2024-06-15 |  |
 | [hoj ti to](https://open.spotify.com/track/2qzjYqTA8dwy99L6Mhp91n) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [hoj ti to](https://open.spotify.com/album/2UuKxvayuxXBjzi5iSVuFO) | 1:50 | 2022-04-15 | 2023-08-18 |
 | [Hokkaido Breeze](https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Hokkaido Breeze](https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x) | 2:20 | 2023-10-13 |  |
@@ -1033,6 +1034,7 @@
 | [Lens Flare](https://open.spotify.com/track/3BPDxsdq20JHIsDPpZJzbO) | [gCoope](https://open.spotify.com/artist/0VyTdP8A5VGuLAxSzJHind), [Lxpse](https://open.spotify.com/artist/031Vp2J0KxdRPynrvxlx6r) | [Lens Flare](https://open.spotify.com/album/5ahcWCFCydgEdSgrOPuCbQ) | 1:54 | 2022-08-05 | 2022-08-12 |
 | [Lepricorn Ride](https://open.spotify.com/track/2YO5oyN7TcyRMlytlKxLmr) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Magicos](https://open.spotify.com/album/1ji6VCa1jsz9wQ6cTX5Y0E) | 2:03 | 2022-09-02 |  |
 | [less\-than\-flattering](https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [less\-than\-flattering](https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj) | 2:07 | 2023-10-13 |  |
+| [Let Go](https://open.spotify.com/track/0l7PixkEwUvYnikKYK4pdx) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Let Go](https://open.spotify.com/album/5scOTunWFcMKdYjhZWPpVk) | 2:58 | 2024-12-20 |  |
 | [Let It Go](https://open.spotify.com/track/3gBnmlTKVkAL0JnclQuz8s) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Let It Go](https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA) | 2:35 | 2022-08-19 | 2022-12-09 |
 | [Let It Out](https://open.spotify.com/track/0JEU96lgzuk1xe5OOdK0H8) | [Mist Ant](https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC) | [Let It Out](https://open.spotify.com/album/5u538MJifK76tpNupA01jk) | 3:06 | 2022-08-12 |  |
 | [Let Me Go](https://open.spotify.com/track/6yfAOgJsACIP8UwkxFeOyH) | [The Timberkids](https://open.spotify.com/artist/0JTTJTRYbWL8aQfuk0y20H) | [Let Me Go](https://open.spotify.com/album/20Qb081N1ZKNv4CegBQxjp) | 1:54 | 2024-01-12 | 2024-05-10 |
@@ -1770,7 +1772,7 @@
 | [Special Juice](https://open.spotify.com/track/5m4bEYyJh1G7TxlWYBDx31) | [Wally Woo](https://open.spotify.com/artist/3XVKC5nfhl73bqsvMz9coN) | [Special Juice](https://open.spotify.com/album/16VeFUhnt3jgHG8zVNvuK7) | 2:16 | 2022-04-15 | 2022-12-17 |
 | [Specs](https://open.spotify.com/track/5oTOrR69wkWoJbKElUhmRA) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/14nqrIOs4msbZoxrQUa92c) | 1:53 | 2022-08-19 | 2022-11-21 |
 | [Specs](https://open.spotify.com/track/6atHVHvVI6N0TJGGdgFTLR) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/37zmqkX5JDc19MVZMBj21w) | 1:53 | 2022-11-18 | 2022-12-24 |
-| [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2022-09-16 |  |
+| [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2022-09-16 | 2024-12-24 |
 | [spellbounds](https://open.spotify.com/track/5XtH4864ouLpUJx3rzBeOS) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [spellbounds](https://open.spotify.com/album/5QR42b7gHmNPuK2IqkpDD9) | 3:29 | 2023-01-06 | 2024-07-30 |
 | [Spicy Zest](https://open.spotify.com/track/5KFq0sLS7aBkcaARm2OpeR) | [Casino Bianco](https://open.spotify.com/artist/5X7OxBWmTg024LLmavducM) | [Spicy Zest](https://open.spotify.com/album/33zMRhxJCGGkweKfdPvQfR) | 2:30 | 2024-01-05 |  |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |

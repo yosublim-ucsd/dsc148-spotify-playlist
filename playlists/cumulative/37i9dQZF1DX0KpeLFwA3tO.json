@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Death By Unga Bunga ",
+  "description": "The best new music from the wide world of punk. Cover: The Velveteers",
   "name": "All New Punk",
   "tracks": [
     {
@@ -504,6 +504,24 @@
       "duration_ms": 177209,
       "name": "3 Days Sober",
       "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
+    },
+    {
+      "album": {
+        "name": "30 Moons",
+        "url": "https://open.spotify.com/album/6JchpmAeComIWPrRDsedFy"
+      },
+      "artists": [
+        {
+          "name": "Letterbombs",
+          "url": "https://open.spotify.com/artist/3BTpUmfVOeZqlkreMwpysy"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73384,
+      "name": "30 Moons",
+      "url": "https://open.spotify.com/track/5JleAjQmp8pI3p5ioscZ9I"
     },
     {
       "album": {
@@ -25243,6 +25261,24 @@
     },
     {
       "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/1smjM1eRoFGGHWJjtq4hrO"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146576,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/3yGvuM7ZiPgjGbicd90rty"
+    },
+    {
+      "album": {
         "name": "ON CUM",
         "url": "https://open.spotify.com/album/6InVgPYngkkYtQXzZ9Ke2C"
       },
@@ -40262,6 +40298,24 @@
       "duration_ms": 193281,
       "name": "Yo Me Estreso",
       "url": "https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw"
+    },
+    {
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222317,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
     },
     {
       "album": {

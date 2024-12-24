@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADmw01RcJazRosuQtH4hpw7",
+  "snapshot_id": "AAAAAAAAAAC2Oq4iTArAYhGg6sGi4aR8",
   "tracks": [
     {
       "added_at": "2024-12-20 05:00:00",
@@ -51,6 +51,38 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
         "name": "Asteroids II (Bars Over Everything)",
         "url": "https://open.spotify.com/album/1T1dUOblwJkjeQ68mMn59h"
       },
@@ -71,22 +103,6 @@
       "duration_ms": 194999,
       "name": "Asteroids II (Bars Over Everything)",
       "url": "https://open.spotify.com/track/5YEx7q6mAAiU7qte8pKGt1"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -115,18 +131,22 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Una Velita",
-        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+        "name": "on it",
+        "url": "https://open.spotify.com/album/0ZrGT1ZgfGdb0rnOElztCx"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "CPRCRN",
+          "url": "https://open.spotify.com/artist/3N7feSJ5L5LiXyBvcFVUPm"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Una Velita",
-      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+      "duration_ms": 81104,
+      "name": "on it",
+      "url": "https://open.spotify.com/track/4rVk3Rax1Rswbzz2W8fqEv"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -163,26 +183,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "on it",
-        "url": "https://open.spotify.com/album/0ZrGT1ZgfGdb0rnOElztCx"
-      },
-      "artists": [
-        {
-          "name": "CPRCRN",
-          "url": "https://open.spotify.com/artist/3N7feSJ5L5LiXyBvcFVUPm"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 81104,
-      "name": "on it",
-      "url": "https://open.spotify.com/track/4rVk3Rax1Rswbzz2W8fqEv"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "The Bells",
         "url": "https://open.spotify.com/album/4OVxBEb9hRNx4dHlWCJtHm"
       },
@@ -195,6 +195,30 @@
       "duration_ms": 164666,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/5M2gEWB0q7TPKFTroTpbPi"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Lift Me Up (feat. Moby)",
+        "url": "https://open.spotify.com/album/7m8lcfk9BYuSx2I4dqDfv7"
+      },
+      "artists": [
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 215652,
+      "name": "Lift Me Up (feat. Moby)",
+      "url": "https://open.spotify.com/track/1J74X8rQajxmXyJ1N6sF3P"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -227,26 +251,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "CANT FIND A WAY OUT",
-        "url": "https://open.spotify.com/album/2fLcIV9cFvdWYsw49LYkEi"
-      },
-      "artists": [
-        {
-          "name": "5Fortyproductions",
-          "url": "https://open.spotify.com/artist/6W7UjfdKpgeRnfoxWAcRZe"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 280615,
-      "name": "CANT FIND A WAY OUT",
-      "url": "https://open.spotify.com/track/6VUUzPLZgLO9j80Sf7mXkp"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "Viking Juice (The Butcher Mix)",
         "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
       },
@@ -267,26 +271,22 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Lift Me Up (feat. Moby)",
-        "url": "https://open.spotify.com/album/7m8lcfk9BYuSx2I4dqDfv7"
+        "name": "CANT FIND A WAY OUT",
+        "url": "https://open.spotify.com/album/2fLcIV9cFvdWYsw49LYkEi"
       },
       "artists": [
         {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+          "name": "5Fortyproductions",
+          "url": "https://open.spotify.com/artist/6W7UjfdKpgeRnfoxWAcRZe"
         },
         {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 215652,
-      "name": "Lift Me Up (feat. Moby)",
-      "url": "https://open.spotify.com/track/1J74X8rQajxmXyJ1N6sF3P"
+      "duration_ms": 280615,
+      "name": "CANT FIND A WAY OUT",
+      "url": "https://open.spotify.com/track/6VUUzPLZgLO9j80Sf7mXkp"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -383,34 +383,34 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/68JPjllP8VCzvVpOSqJLHv"
+        "name": "Wait Til I Get My Money Up",
+        "url": "https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl"
       },
       "artists": [
         {
-          "name": "Riff Wood",
-          "url": "https://open.spotify.com/artist/7oXwujbsaxe9NN4RTYLWcO"
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
         }
       ],
-      "duration_ms": 168694,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/4p0jMYKo77atWbW4oeXZIR"
+      "duration_ms": 158872,
+      "name": "Doublewide",
+      "url": "https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV"
     },
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 225247,
-      "name": "Too Deep for the Intro",
-      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
+      "duration_ms": 202937,
+      "name": "Hymn to Virgil",
+      "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 249000,
-      "name": "It's Christmas",
-      "url": "https://open.spotify.com/track/3CDuJCa3NEJplspA0eKpZJ"
+      "duration_ms": 219000,
+      "name": "Live In Love",
+      "url": "https://open.spotify.com/track/6ZBiQ0S0ZCHTOcflZAEfVd"
     },
     {
       "added_at": "2024-12-20 05:00:00",

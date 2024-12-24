@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "In Paradisum",
+        "url": "https://open.spotify.com/album/7aBPTOIQycGBJDZHGjAV7d"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "In Paradisum",
+      "url": "https://open.spotify.com/track/0tIEXct4Pv3TikqvkYR4CM"
+    },
+    {
+      "album": {
         "name": "Jesu, Joy of Man's Desiring",
         "url": "https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR"
       },

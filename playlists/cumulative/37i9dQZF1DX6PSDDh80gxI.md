@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Delicatoni in cover della playlist con il meglio dell’indie italiano!
+> Delicatoni in cover della playlist con il meglio dell’indie italiano! 🎄
 
-171 songs - 8 hr 49 min
+172 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [La mia preghiera \(feat\. Sick Tamburo\)](https://open.spotify.com/track/7bG4rA1Jnr9jbEb0asntQ3) | [España Circo Este](https://open.spotify.com/artist/76pubHNMZnrWQ721Fy8SRq), [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [La mia preghiera \(feat\. Sick Tamburo\)](https://open.spotify.com/album/7E5wvDTv3sh4PPeltBtfyo) | 3:14 | 2024-11-14 | 2024-12-06 |
 | [La Nostra Malinconia](https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [La Nostra Malinconia](https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA) | 3:18 | 2024-11-07 |  |
 | [LA SIGNORA DEI BACI](https://open.spotify.com/track/2bL4gstmJxmxWQw0MRUUrs) | [SAMUEL COSTA](https://open.spotify.com/artist/1DE8FISOdzyiTkQuYahig2) | [LA SIGNORA DEI BACI](https://open.spotify.com/album/4jzO6ZLB4nIFxpFz4iVRSk) | 1:22 | 2024-09-26 | 2024-10-11 |
+| [La vigilia di Natale](https://open.spotify.com/track/4C4b2h6uzR4y5dgdjSyhd3) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Il Cammino di Santiago in taxi, Vol\. 3](https://open.spotify.com/album/3FS98ulawqbmL6vzYQn2Yq) | 3:55 | 2024-12-23 |  |
 | [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 | 2024-06-27 | 2024-09-14 |
 | [Le parole più grandi](https://open.spotify.com/track/3i4rci1J95OdMxer9kxjqW) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Niente che non va](https://open.spotify.com/album/633YqTzw4kncLmIwFfsP0K) | 3:44 | 2024-06-27 |  |
 | [Lily](https://open.spotify.com/track/0GhVyHeFbIj8v2s5SjAV3V) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [Lily](https://open.spotify.com/album/3BzZ4rNEMK02aMd9OmumJN) | 1:55 | 2024-09-19 | 2024-12-06 |

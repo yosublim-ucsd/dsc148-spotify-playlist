@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Najlepsze utwory EQUAL Polska w 2024 według naszej redakcji\. Słuchaj kobiet na cały głos! Cover: Bletka
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,757 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,777 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 66 | [Oh Happy Day](https://open.spotify.com/track/53sa32UDi5PwI891slKSLL) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:57 |
 | 67 | [Misty Christmas](https://open.spotify.com/track/6JHj791EzrLyGjkKNyt7uV) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas With You](https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR) | 5:05 |
 | 68 | [Round N Round](https://open.spotify.com/track/4aYpNLWSGWcI2nuS16ajNx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:07 |
-| 69 | [Hurts My Brain](https://open.spotify.com/track/2r3RWI7rhI07Kv2k0qyi18) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 3:04 |
-| 70 | [Ghetto Earth](https://open.spotify.com/track/5NfgQXvYnftognhelAZtR8) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart, The Mind, The Soul](https://open.spotify.com/album/014ic5Pp0IrYiDZRty0wKB) | 3:31 |
+| 69 | [Ghetto Earth](https://open.spotify.com/track/5NfgQXvYnftognhelAZtR8) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart, The Mind, The Soul](https://open.spotify.com/album/014ic5Pp0IrYiDZRty0wKB) | 3:31 |
+| 70 | [Hurts My Brain](https://open.spotify.com/track/2r3RWI7rhI07Kv2k0qyi18) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 3:04 |
 | 71 | [24th & Lake \(feat\. Cory Henry & Robert Sput Searight\)](https://open.spotify.com/track/6uPjhxRjo2uNf9EnFyOi8B) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Curly](https://open.spotify.com/artist/5FcFMOPCujvzUitpDwm8dp), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert ‘Sput’ Searight](https://open.spotify.com/artist/4RYnjtmOhFE1ok8vBW3yun) | [Curly](https://open.spotify.com/album/2nU5t7MkLCpkq07YkJv6vf) | 5:49 |
 | 72 | [Good Times](https://open.spotify.com/track/2HUafm46qkFywY670cGk4e) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 3:42 |
 | 73 | [Dreaming Of](https://open.spotify.com/track/46l1Wgtbzy74JDQ4Wkylwq) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:52 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 96 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 97 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `Abk2qgAAAADdnrB9+t6GKUAgYqITt/56`
+Snapshot ID: `Abk8NgAAAADYI0aWYq3K7gzSbslSc1fX`

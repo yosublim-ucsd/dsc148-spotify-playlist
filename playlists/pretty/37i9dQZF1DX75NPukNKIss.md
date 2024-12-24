@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Cover: Cash Cobain and Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,981 likes - 74 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,381 likes - 74 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

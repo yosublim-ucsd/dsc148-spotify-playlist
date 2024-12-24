@@ -1,6 +1,6 @@
 {
   "description": "the sound of a new generation ",
-  "num_followers": 282652,
+  "num_followers": 282853,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 123316,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 236157,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
-        "name": "Sucker",
-        "url": "https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 123316,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
         "name": "DNA (Loving You) [feat. Hannah Boleyn]",
         "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
-        "name": "A Little Closer",
-        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "A Little Closer",
-      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -351,18 +351,22 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "How I Fell in Love",
-        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
+        "name": "Yosemite",
+        "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
       },
       "artists": [
         {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
         }
       ],
-      "duration_ms": 112551,
-      "name": "How I Fell in Love",
-      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+      "duration_ms": 266375,
+      "name": "Yosemite",
+      "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -387,22 +391,18 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Yosemite",
-        "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
+        "name": "How I Fell in Love",
+        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
         }
       ],
-      "duration_ms": 266375,
-      "name": "Yosemite",
-      "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
+      "duration_ms": 112551,
+      "name": "How I Fell in Love",
+      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121771,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
         "name": "90s Bitch",
         "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 196258,
       "name": "90s Bitch",
       "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 121771,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "duration_ms": 144081,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 129860,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
-      },
-      "artists": [
-        {
-          "name": "Sacha Harland",
-          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
-        }
-      ],
-      "duration_ms": 144081,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Uh Na Na",
-        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 120033,
-      "name": "Uh Na Na",
-      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
         "name": "Jet Plane",
         "url": "https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 182409,
       "name": "Jet Plane",
       "url": "https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "Uh Na Na",
+        "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 120033,
+      "name": "Uh Na Na",
+      "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
+        "name": "SEXY",
+        "url": "https://open.spotify.com/album/2mvBle8cY9KZwcS4QsnnHu"
+      },
+      "artists": [
+        {
+          "name": "Para\u00e7ek",
+          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
+        },
+        {
+          "name": "CARGO",
+          "url": "https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe"
+        }
+      ],
+      "duration_ms": 196583,
+      "name": "SEXY",
+      "url": "https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
         "name": "I WANT YOUR LOVE",
         "url": "https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 122008,
       "name": "I WANT YOUR LOVE",
       "url": "https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
-        "name": "SEXY",
-        "url": "https://open.spotify.com/album/2mvBle8cY9KZwcS4QsnnHu"
-      },
-      "artists": [
-        {
-          "name": "Para\u00e7ek",
-          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
-        },
-        {
-          "name": "CARGO",
-          "url": "https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe"
-        }
-      ],
-      "duration_ms": 196583,
-      "name": "SEXY",
-      "url": "https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/4PQub1Epc03quRvoxeT4OQ"
-      },
-      "artists": [
-        {
-          "name": "Malugi",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/7kBYPyaxF3oE9EgjOMpGKs"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4PQub1Epc03quRvoxeT4OQ"
+      },
+      "artists": [
+        {
+          "name": "Malugi",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/7kBYPyaxF3oE9EgjOMpGKs"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 142103,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
+        "name": "ULTRAKUNST",
+        "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 280226,
+      "name": "JE N'EXISTE PAS",
+      "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -1343,18 +1359,30 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
-        "name": "ULTRAKUNST",
-        "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
+        "name": "Global Awakening",
+        "url": "https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Dr. Phil Omanski",
+          "url": "https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD"
+        },
+        {
+          "name": "DJ Weirdo",
+          "url": "https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc"
         }
       ],
-      "duration_ms": 280226,
-      "name": "JE N'EXISTE PAS",
-      "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
+      "duration_ms": 173500,
+      "name": "Young Birds",
+      "url": "https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU"
     },
     {
       "added_at": "2024-12-19 23:00:37",
@@ -1403,6 +1431,22 @@
     {
       "added_at": "2024-12-19 23:00:37",
       "album": {
+        "name": "It Ain't Over",
+        "url": "https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "duration_ms": 215096,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG"
+    },
+    {
+      "added_at": "2024-12-19 23:00:37",
+      "album": {
         "name": "Whatcha Say",
         "url": "https://open.spotify.com/album/5avrElnK0zHZvzW77xBnsN"
       },
@@ -1423,50 +1467,6 @@
       "duration_ms": 139401,
       "name": "Whatcha Say",
       "url": "https://open.spotify.com/track/4SPTxHzln31EU9u45IjgMU"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
-        "name": "It Ain't Over",
-        "url": "https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya"
-      },
-      "artists": [
-        {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        }
-      ],
-      "duration_ms": 215096,
-      "name": "It Ain't Over",
-      "url": "https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG"
-    },
-    {
-      "added_at": "2024-12-19 23:00:37",
-      "album": {
-        "name": "Global Awakening",
-        "url": "https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
-          "name": "Dr. Phil Omanski",
-          "url": "https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD"
-        },
-        {
-          "name": "DJ Weirdo",
-          "url": "https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Young Birds",
-      "url": "https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU"
     },
     {
       "added_at": "2024-12-19 23:00:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa emma & matilda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,429 likes - 61 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,424 likes - 61 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 51 | [Syyllinen syksyyn](https://open.spotify.com/track/39JntBIke9N6IncNf0t8e2) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Syyllinen syksyyn](https://open.spotify.com/album/68o9s4ZHwgOq81AWkDkY9B) | 3:11 |
 | 52 | [Spider Lilly](https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [Spider Lilly](https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK) | 4:34 |
 | 53 | [Rakkauden Haamu](https://open.spotify.com/track/58wVAZTNwpXIDRtyHhxeAG) | [kaipuu](https://open.spotify.com/artist/31WpuOj9ZXuZCVyU2icUwT) | [Rakkauden Haamu](https://open.spotify.com/album/0JWNaSyCLJJVgU3hbvSKjO) | 3:12 |
-| 54 | [New Years Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
+| 54 | [New Year's Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
 | 55 | [The Final Straw](https://open.spotify.com/track/0V2G4OMFtXsUMzWZBvYJas) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [The Final Straw](https://open.spotify.com/album/24GDSBE6IJN4q3WXzQJc1A) | 3:11 |
 | 56 | [What we said](https://open.spotify.com/track/5Y4aw2gcV037p1riWrghOb) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [What we said](https://open.spotify.com/album/6j2186lsxzwtnEEeDA76tm) | 3:52 |
 | 57 | [armor](https://open.spotify.com/track/2lEJr7hB3LunkHSJFvX17z) | [r1](https://open.spotify.com/artist/16UN1X6J3owogXWB5Vt4i7) | [keho ja mieli // armor](https://open.spotify.com/album/5fD0tYRz6qZQlNnrFYV14u) | 2:47 |

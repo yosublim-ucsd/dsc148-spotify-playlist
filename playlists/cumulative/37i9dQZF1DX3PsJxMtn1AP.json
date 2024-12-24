@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/4mojyb6RxQOj1dVTolkccN"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200799,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/3A78WpoH8cs834OAPZbyqj"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 273897,
       "name": "Deux Paradis",
       "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
@@ -2349,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Enkaz",
+        "url": "https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200120,
+      "name": "Enkaz",
+      "url": "https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4"
+    },
+    {
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -2382,7 +2418,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 226910,
       "name": "Esfera",
       "url": "https://open.spotify.com/track/43OncoXjYE1JS3YMv0D66y"
@@ -4928,7 +4964,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 227704,
       "name": "New World - Edit",
       "url": "https://open.spotify.com/track/48NhzGZmcxW2cGw3RN33JD"
@@ -7330,6 +7366,24 @@
       "duration_ms": 174727,
       "name": "Thunderdome [W.T.A.] (feat. Black Thought & Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y"
+    },
+    {
+      "album": {
+        "name": "To Unknownia",
+        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243872,
+      "name": "To Unknownia",
+      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
     },
     {
       "album": {

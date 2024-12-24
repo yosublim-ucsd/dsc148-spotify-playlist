@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,458 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,526 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 61 | [Money Fever](https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Money Fever](https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN) | 2:31 |
 | 62 | [Call Me \(feat\. Stefflon Don\)](https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:50 |
 | 63 | [Turn Up](https://open.spotify.com/track/2bf0Lhhrv3ZUGaO9FMj7Dk) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0) | [Turn Up](https://open.spotify.com/album/3kPls8TKkU0uoBNkYODLIi) | 2:50 |
-| 64 | [Instruction \(Gallong Gyal\)](https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Instruction \(Gallong Gyal\)](https://open.spotify.com/album/32ilBI5QkdTWpgVSqIGtiD) | 2:51 |
+| 64 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
 | 65 | [Mad Out](https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Mad Out](https://open.spotify.com/album/5aAuB9NOM8eG4JdQbVWthA) | 2:07 |
-| 66 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
+| 66 | [Instruction \(Gallong Gyal\)](https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Instruction \(Gallong Gyal\)](https://open.spotify.com/album/32ilBI5QkdTWpgVSqIGtiD) | 2:51 |
 | 67 | [Dumpling \- Toddla T Remix](https://open.spotify.com/track/0YLdHkSOh05jocGjQ8mpfc) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Dumpling \(Toddla T Remix\)](https://open.spotify.com/album/4FxgvtP89Ep5lFOPSNB6pw) | 2:39 |
 | 68 | [No Rampin \(feat\. Moelogo & Nadia Rose\)](https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 2:36 |
 | 69 | [Budum](https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Budum](https://open.spotify.com/album/63u5t3q4Bxvpy2DTvOWaVo) | 2:45 |

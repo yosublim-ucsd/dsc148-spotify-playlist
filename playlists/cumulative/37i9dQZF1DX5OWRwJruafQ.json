@@ -8433,6 +8433,24 @@
     },
     {
       "album": {
+        "name": "Punjab",
+        "url": "https://open.spotify.com/album/3x0dWg7gNfDbFmuxok0FVg"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136438,
+      "name": "Punjab",
+      "url": "https://open.spotify.com/track/1inAjXPJ74BrbYnqrkN1oy"
+    },
+    {
+      "album": {
         "name": "Puthe Kamm",
         "url": "https://open.spotify.com/album/49pgzd02VxYIe6HfQBlIOo"
       },

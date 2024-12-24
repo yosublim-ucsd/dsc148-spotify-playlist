@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Kim Mi Jeong\(김미정\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: pH\-1\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-738 songs - 1 day 15 hr 46 min
+739 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Last Night \(feat\. DD7\)](https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [DD7](https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230) | [Last Night \(feat\. DD7\)](https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW) | 3:04 | 2023-01-25 | 2023-02-16 |
 | [Last Pure Luv](https://open.spotify.com/track/6URA9fyuaEgiVyC706jElA) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Last Pure Luv](https://open.spotify.com/album/2W4sJVKg3dAA7DbffsoFFh) | 3:06 | 2023-01-25 | 2023-02-16 |
 | [Last Waltz](https://open.spotify.com/track/32Q54GVSCwmiFdkHrtq8tV) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Last Waltz](https://open.spotify.com/album/68ZbbysYxUQsq7smjVaajg) | 3:11 | 2022-04-21 | 2022-07-27 |
-| [Late Night Flaneur](https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Late Night Flaneur](https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx) | 2:27 | 2024-11-29 |  |
+| [Late Night Flaneur](https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Late Night Flaneur](https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx) | 2:27 | 2024-11-29 | 2024-12-24 |
 | [LATELY \(Feat\. Hoody\)](https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [LATELY](https://open.spotify.com/album/5TWPlHZkZ55l3zBaSrtSRk) | 3:51 | 2022-04-01 |  |
 | [Latency](https://open.spotify.com/track/5Wk7aW0Ev88nRDU9Qhjqc3) | [CMBY](https://open.spotify.com/artist/7a3cKDQSaO1C3bIBXq3xA2), [Chanakorea](https://open.spotify.com/artist/7wCyFwjqvcUNzc0Iy7S5LU) | [Latency](https://open.spotify.com/album/7rwOleO1zSJ4790Da3pVkb) | 2:38 | 2022-04-01 | 2022-04-21 |
 | [Lay Back \(feat\. Nucksal & Layone\)](https://open.spotify.com/track/3X9zf06EBlvABBNvfeeydj) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Lay Back](https://open.spotify.com/album/7muPnaAg1hNoEq0EaTSGwA) | 3:13 | 2022-05-05 | 2022-06-07 |
@@ -368,6 +368,7 @@
 | [LiAr](https://open.spotify.com/track/1vOvHNRKQs8sriDTok0TC5) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:57 | 2022-05-05 | 2022-05-22 |
 | [Lie \(Feat\. BIG Naughty\)](https://open.spotify.com/track/592btZI19k4gKx51tkJfll) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:35 | 2022-05-11 | 2022-07-15 |
 | [Life Goes On \(Feat\. pH\-1\)](https://open.spotify.com/track/7DNT98RushlHadPmT3qaiX) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Life Goes On \(Feat\. pH\-1\)](https://open.spotify.com/album/5WDXQ5ZLgRb7ckaKzk2AHw) | 3:04 | 2022-04-21 | 2022-07-10 |
+| [Life Is A Movie \(Feat\. Jung Zi So\)](https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti) | [HANDS](https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU) | 3:10 | 2024-12-24 |  |
 | [Like Me](https://open.spotify.com/track/5KdY5Yn4hNRRf7vEWS57BD) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 3:10 | 2023-03-22 | 2023-04-19 |
 | [Like Nothing \(Feat\. YOUHA, Kim Seungmin\)](https://open.spotify.com/track/0rSra7zqW05TvIVnJMSVo7) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Like Nothing](https://open.spotify.com/album/3IBZkXFy4uNDKowRztNFYf) | 2:51 | 2024-09-13 | 2024-10-09 |
 | [Like that](https://open.spotify.com/track/0Aw7g546aoFdcaq5X5SsxT) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like that](https://open.spotify.com/album/49i3C9ZMmMAXUBL0xbfrO3) | 2:36 | 2024-06-07 | 2024-10-17 |

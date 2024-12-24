@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 111413,
+  "num_followers": 111412,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
+        "name": "Mirkelam",
+        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
+      },
+      "artists": [
+        {
+          "name": "Mirkelam",
+          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Tavla",
+      "url": "https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
         "name": "Unuttum Derdimi",
         "url": "https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 229787,
       "name": "Unuttum Derdimi",
       "url": "https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
-        "name": "Mirkelam",
-        "url": "https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf"
-      },
-      "artists": [
-        {
-          "name": "Mirkelam",
-          "url": "https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Tavla",
-      "url": "https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -323,26 +323,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Bildi\u011fim Gibi",
-        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Nilipek.",
-          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Bildi\u011fim Gibi",
-      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Sen Istersin",
         "url": "https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 212608,
       "name": "Hissettin mi",
       "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Bildi\u011fim Gibi",
+        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Nilipek.",
+          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Bildi\u011fim Gibi",
+      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
     },
     {
       "added_at": "2024-07-08 08:26:10",

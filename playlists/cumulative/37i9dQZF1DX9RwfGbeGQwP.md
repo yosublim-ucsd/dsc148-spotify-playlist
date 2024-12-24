@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,518 songs - 2 day 9 hr 11 min
+1,519 songs - 2 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Crépuscule](https://open.spotify.com/track/49hM4gDmHiEuVfGxA0Vphz) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Crépuscule](https://open.spotify.com/album/7MgEfkPgcdO1YWmCZMk0E2) | 2:20 | 2023-01-13 | 2023-10-20 |
 | [Cuban Link](https://open.spotify.com/track/0wohiRsLuovE99ljlavw9l) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Cuban Link](https://open.spotify.com/album/66KnQ7hFtOzpc3E8xTZaxr) | 2:20 | 2022-01-27 | 2022-05-14 |
 | [cup of tea](https://open.spotify.com/track/5Y8v5zLDeZScavCNJgtUGj) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [cup of tea](https://open.spotify.com/album/04haX32duXxjRwN5zDWQEL) | 2:15 | 2022-09-09 | 2023-09-16 |
+| [cute](https://open.spotify.com/track/6F8naYLBFxmvkQan1e207P) | [ao](https://open.spotify.com/artist/6dQVKR45PFeAS49FNeC1T3) | [cute](https://open.spotify.com/album/2Niz2n9lJqzXA7B33QhyLB) | 2:33 | 2024-12-20 |  |
 | [Da Wes Sht](https://open.spotify.com/track/2WOugRtzn1QKmCarSqavnM) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Da Wes Sht](https://open.spotify.com/album/2EBTIvmgYgyBaedPfL70ps) | 2:19 | 2022-01-27 | 2022-07-01 |
 | [Daily Bugle](https://open.spotify.com/track/3zl1UJj9XWrySsSVAVYzNv) | [BiRdy SanJazz](https://open.spotify.com/artist/1VnKyzdYClAVXSfEuRhUZh), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Daily Bugle](https://open.spotify.com/album/373W626dMhPnVyzDvUcTnN) | 2:14 | 2022-08-05 | 2022-11-21 |
 | [Daily Bugle](https://open.spotify.com/track/2yX8thYOQU0xs2iTHFQ2tQ) | [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH), [BiRdy SanJazz](https://open.spotify.com/artist/1VnKyzdYClAVXSfEuRhUZh) | [Daily Bugle](https://open.spotify.com/album/0WdsqIpIiWorkEugtQYTtd) | 2:14 | 2022-11-11 | 2023-01-07 |
@@ -326,7 +327,7 @@
 | [Distance](https://open.spotify.com/track/7uQuR9ix1B7X8rFuTzOv29) | [Last Memories](https://open.spotify.com/artist/3UHYSVL2r6kB0niINk2097) | [Distance](https://open.spotify.com/album/1AfMrUInGVyCcKrGV0dC5k) | 2:43 | 2022-01-27 | 2022-05-27 |
 | [Distant Stars](https://open.spotify.com/track/1a5lJhsf5g5FAumPtuFycB) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:00 | 2022-11-11 | 2022-11-26 |
 | [Distant Stars](https://open.spotify.com/track/5eF05n2gqGMhPPaylRsrrU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Distant Stars](https://open.spotify.com/album/0oHLMLJCT9ojmIs0EZW7RL) | 2:00 | 2022-05-13 | 2022-11-20 |
-| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 |  |
+| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 | 2024-12-24 |
 | [Do It Again](https://open.spotify.com/track/0jLLFyVz52mRyhHxZztxf0) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Do It Again](https://open.spotify.com/album/3ofJPttUwGpEpwkcPypb8D) | 2:07 | 2023-09-22 | 2023-11-08 |
 | [Don Done](https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W) | 2:11 | 2023-01-13 | 2023-02-16 |
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |

@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 160036,
       "name": "ALONE.",
       "url": "https://open.spotify.com/track/5ywFatfzeyOwa4RxCcJUFz"
@@ -11896,7 +11896,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 217500,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6lKAnrIdt7GRhuPiglldXV"
@@ -12952,7 +12952,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 138826,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/3f8km6ORmu1OhqhjGyOhdB"
@@ -21075,6 +21075,24 @@
     },
     {
       "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/61Yvzu0ty5dIPNnmE8ZIIa"
+      },
+      "artists": [
+        {
+          "name": "Milo Gege",
+          "url": "https://open.spotify.com/artist/6eieMZUwXVzoWHhVIQnYsW"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251300,
+      "name": "El Camino",
+      "url": "https://open.spotify.com/track/6rJvhx5erQPu7mogQIfqeC"
+    },
+    {
+      "album": {
         "name": "El Efectivo",
         "url": "https://open.spotify.com/album/4kw3OLTzF70nrOJOAHC8bX"
       },
@@ -27066,7 +27084,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 140985,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/759uyHAEpho3GYAcZFCYbI"
@@ -38927,6 +38945,24 @@
     },
     {
       "album": {
+        "name": "LA CALLE",
+        "url": "https://open.spotify.com/album/3kInPIE2zrLcHakFmR6neb"
+      },
+      "artists": [
+        {
+          "name": "Jonny Jonny Boy",
+          "url": "https://open.spotify.com/artist/0TDVnfS6wFphljMwKWd6ui"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132048,
+      "name": "LA CALLE",
+      "url": "https://open.spotify.com/track/1JNN66HwuRmKCCVCXMmo09"
+    },
+    {
+      "album": {
         "name": "Pop Hitz (16)",
         "url": "https://open.spotify.com/album/4f0DJRLtuNpExYY4P3SuLF"
       },
@@ -44680,7 +44716,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 169898,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/7vp0Dpp8uwfGr1gHGrsrRP"
@@ -45925,6 +45961,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas Darling",
+        "url": "https://open.spotify.com/album/16xz0Dd0Jku1E2GEpAfyPl"
+      },
+      "artists": [
+        {
+          "name": "Steve Stout",
+          "url": "https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188159,
+      "name": "Merry Christmas Darling",
+      "url": "https://open.spotify.com/track/02eqqkTcPZhY38FSC27o2U"
+    },
+    {
+      "album": {
         "name": "Merry Christmas, Lucy",
         "url": "https://open.spotify.com/album/5MivrvUSIRHY5Fq7l0WrlS"
       },
@@ -46784,7 +46838,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 205500,
       "name": "MISTLETOE",
       "url": "https://open.spotify.com/track/7fiSWTplZdt2lCE21by8TI"
@@ -49208,6 +49262,24 @@
       "duration_ms": 216520,
       "name": "Neighbors",
       "url": "https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy"
+    },
+    {
+      "album": {
+        "name": "Nena Buena",
+        "url": "https://open.spotify.com/album/7INaq6QKVaIwtTmxC8TETd"
+      },
+      "artists": [
+        {
+          "name": "Easy",
+          "url": "https://open.spotify.com/artist/1CjM05OWsJKFj4hDxIHzx3"
+        }
+      ],
+      "date_added": "2024-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259596,
+      "name": "Nena Buena",
+      "url": "https://open.spotify.com/track/30Qrmdv990RJPB8iA1V5CE"
     },
     {
       "album": {
@@ -51852,7 +51924,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 198112,
       "name": "Ojos Marrones - Cover",
       "url": "https://open.spotify.com/track/5j2Z0KfI0Ta4jKPLKd1pBI"
@@ -56474,7 +56546,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 215111,
       "name": "PROBLEMA",
       "url": "https://open.spotify.com/track/52gPU083BmsLJDyR1T5fYu"
@@ -59024,7 +59096,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 286939,
       "name": "Right Here, Right Now",
       "url": "https://open.spotify.com/track/0VgrD6wa10IDOYT4ThHrNA"
@@ -59856,7 +59928,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 196767,
       "name": "Rudolf the Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/3P5Mi5dXjuV2V29spfUMJI"
@@ -79148,7 +79220,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-24",
       "duration_ms": 236178,
       "name": "While we're young",
       "url": "https://open.spotify.com/track/5ryj5AaELa08Msklvhnpfq"
