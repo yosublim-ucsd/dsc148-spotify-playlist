@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 11239,
+  "num_followers": 11240,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABeHAxhlgXBZFCwr5t/oMLs",
+  "snapshot_id": "Z2ioAAAAAABeiZrwifGAO+EreEis4a9c",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 101280,
-      "name": "Most High God (Lude)",
-      "url": "https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 248573,
       "name": "No Way (The G.A. Chant)",
       "url": "https://open.spotify.com/track/796T4AcNsk8eFPrJRViYMX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 101280,
+      "name": "Most High God (Lude)",
+      "url": "https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 307266,
-      "name": "Still Have Joy - Live",
-      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fearless (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 307266,
+      "name": "Still Have Joy - Live",
+      "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 257733,
-      "name": "Let Us Worship",
-      "url": "https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm"
+      "duration_ms": 282786,
+      "name": "Stand Out",
+      "url": "https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 282786,
-      "name": "Stand Out",
-      "url": "https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR"
+      "duration_ms": 257733,
+      "name": "Let Us Worship",
+      "url": "https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-149 songs - 8 hr 5 min
+150 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [The Beach \(Instrumental\)](https://open.spotify.com/track/5cDNzcok72q3HC0Lw6FyAR) | [mxpheebz](https://open.spotify.com/artist/2WU2zdyBSJwYeG8GPH17Rl) | [The Beach \(Instrumental\)](https://open.spotify.com/album/6qOJD0XTJIv1knNHELSHAm) | 3:50 | 2023-09-21 |  |
 | [The Comfort of a Laugh Track](https://open.spotify.com/track/7y81xCrjzEDA5DLKfIT0h8) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I'm Not Here to Make Friends](https://open.spotify.com/album/3DjTiR2VRYtZgPeK660iO8) | 4:52 | 2024-01-01 |  |
 | [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2023-09-23 |  |
+| [The Quiet Between Us](https://open.spotify.com/track/5IgCdFscdQEWarHWqPNAEj) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB) | [Silent Rooms](https://open.spotify.com/album/7tuLWi8OBxW7nrYiKSl8oc) | 3:54 | 2024-12-24 |  |
 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 | 2024-09-11 |  |
 | [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 | 2024-03-13 |  |
 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 | 2023-01-16 |  |

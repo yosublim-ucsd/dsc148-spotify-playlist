@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,094 likes - 83 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,096 likes - 83 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 17 | [Idontknow](https://open.spotify.com/track/7nSBHckG4tTFkp0xqNZDs5) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/1OuBffTkjBqwVVfj9I8hHr) | 5:21 |
 | 18 | [Woke](https://open.spotify.com/track/2WrFUeSUtemEzTolOVCc9e) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Woke EP](https://open.spotify.com/album/1O7mBSSxgoCpicpWmb43cN) | 5:07 |
 | 19 | [Aura](https://open.spotify.com/track/6OwXSaMnwy8TfYt5bXL0X5) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0) | [Aura](https://open.spotify.com/album/02gm2V70CFoW4FD9EfYXT0) | 4:03 |
-| 20 | [Relax Your Body \- Extended Version](https://open.spotify.com/track/2YYKceRKqTvbsxtzDQYDyR) | [D.F.X.](https://open.spotify.com/artist/37gdtKSJPZunsIa4R5j9BX) | [Relax Your Body](https://open.spotify.com/album/7ENaKDIWqGEql0w6jHIlOm) | 6:38 |
+| 20 | [Relax Your Body \- Extended Version](https://open.spotify.com/track/2YYKceRKqTvbsxtzDQYDyR) | [DFX](https://open.spotify.com/artist/707ObA8cam6YRcrjKBOkNs) | [Relax Your Body](https://open.spotify.com/album/7ENaKDIWqGEql0w6jHIlOm) | 6:38 |
 | 21 | [Manhattan](https://open.spotify.com/track/1uoRuvdSaTTx53DJLN0s7P) | [Bartholomew Kind](https://open.spotify.com/artist/7da7ejb5ArwzmbnYQEsYF9) | [Breaks 'N' Pieces, Vol.2](https://open.spotify.com/album/3SZuXvROLZFSTKThsRdEas) | 3:37 |
 | 22 | [Dreaming a Dream \(Disco\) \(Disco\)](https://open.spotify.com/track/7h38sI79UuSOtIJ65dKyDQ) | [Crown Heights Affair](https://open.spotify.com/artist/3X9xSaKYs3EY8l74Hgy5rz) | [Dreaming a Dream](https://open.spotify.com/album/0qQz0P2SdfFMHWHsnfPbkd) | 3:52 |
 | 23 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 |

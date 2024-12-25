@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "\"Panda\"virus-Special Package-",
+        "url": "https://open.spotify.com/album/7A24oxuHcD4HIbcS0zkBDH"
+      },
+      "artists": [
+        {
+          "name": "Kid P",
+          "url": "https://open.spotify.com/artist/3ZpU4v2TxHDybEBEh0Y15U"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254119,
+      "name": "\"Panda\"virus-2024 SP Edit- (feat. \u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/7Mbxq5rYf71ycOBDHMnHiX"
+    },
+    {
+      "album": {
         "name": "Picaresque",
         "url": "https://open.spotify.com/album/0yRCbzANQJq1TAMVaiscR6"
       },
@@ -1450,7 +1472,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 268153,
       "name": "Mikunologie X",
       "url": "https://open.spotify.com/track/0JXdkDV4sbFq4Y70DRDgS3"
@@ -1562,7 +1584,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 218106,
       "name": "Orion",
       "url": "https://open.spotify.com/track/3zvVD5oQBACKYHFlr4BZBI"
@@ -2570,7 +2592,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 361343,
       "name": "\u30a2\u30a4\u30f3\u30fb\u30b7\u30e5\u30bf\u30a4\u30f3\u30fb\u30bf\u30f3\u30b8\u30a7\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5i6nI0YSVyptWLQ7Np3kPY"
@@ -2709,6 +2731,32 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30ef\u30bb\u30ab\u30ac\u30df",
+        "url": "https://open.spotify.com/album/6byDeDqXa2Cg5eGxDB23N5"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u304b\u3081",
+          "url": "https://open.spotify.com/artist/7crr5vdYpti00MTNz9YDzQ"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "\u30a2\u30ef\u30bb\u30ab\u30ac\u30df (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/3WqBS8rdDpDvyfUyU4VHp1"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30b9\u30ab\u30d4\u30ba\u30e0",
         "url": "https://open.spotify.com/album/194RTP9CALb2BosPOamLxl"
       },
@@ -2720,7 +2768,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 133000,
       "name": "\u30a8\u30b9\u30ab\u30d4\u30ba\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/77WKDMGpJsGJP6lHYTjvBB"
@@ -3833,6 +3881,28 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30f3\u306eTearfulEyes!!",
+        "url": "https://open.spotify.com/album/6HEuAeUkdJtZhHhB9qMQoj"
+      },
+      "artists": [
+        {
+          "name": "JevanniP",
+          "url": "https://open.spotify.com/artist/4Si9FZdT3Mvgq1fmFhcRxD"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249375,
+      "name": "\u30ea\u30f3\u306eTearfulEyes!! (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3h09mnB9u9XlSpoludQFv8"
+    },
+    {
+      "album": {
         "name": "\u30eb\u30fc\u30ad\u30fc",
         "url": "https://open.spotify.com/album/4iawMpsBfti38ekcmhbTQB"
       },
@@ -4438,7 +4508,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 199199,
       "name": "\u865a\u7121\u4eee\u8aac (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/18lSryI0ZY6Ny0NtiF3uzj"
@@ -4464,6 +4534,28 @@
       "duration_ms": 189890,
       "name": "\u88cf\u4e16\u754c (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/3gL3JVapoPtw8gJvmNraXZ"
+    },
+    {
+      "album": {
+        "name": "MIRLORISM",
+        "url": "https://open.spotify.com/album/249M0p1Z1pPH9wnPweYzs5"
+      },
+      "artists": [
+        {
+          "name": "\u3054\u3081\u3093\u306a\u3055\u3044\u304c\u8a00\u3048\u306a\u304f\u3066",
+          "url": "https://open.spotify.com/artist/3L0Tv3JqnHftZVEAq2P3xv"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206956,
+      "name": "\u898b\u3048\u306a\u3044 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3DYmlU1SU2GktyA75gzrcc"
     },
     {
       "album": {
@@ -4584,6 +4676,28 @@
       "duration_ms": 279782,
       "name": "\u9752\u6625\u30d1\u30f3\u30af\u30ed\u30c3\u30af\u30c6\u30af\u30ce",
       "url": "https://open.spotify.com/track/4wz8FDl4AFXjHfsJ8xmZ03"
+    },
+    {
+      "album": {
+        "name": "\u9759\u8108\u7684\u30aa\u30c8\u30ca",
+        "url": "https://open.spotify.com/album/0N97VPJz262rhNBHU3n5n1"
+      },
+      "artists": [
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155833,
+      "name": "\u9759\u8108\u7684\u30aa\u30c8\u30ca (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/1ohVnKNU4Kpqu59m04Os0M"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Amyl & The Sniffers
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,475 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,476 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 30 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
 | 31 | [All This Time](https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [All This Time](https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30) | 2:48 |
 | 32 | [Pretty Good To Feel Something](https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Pretty Good To Feel Something](https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw) | 3:06 |
-| 33 | [Waiting Room](https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Waiting Room](https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS) | 3:14 |
+| 33 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
 | 34 | [Big Dick Energy](https://open.spotify.com/track/2qEUv2v5mAqUZuZeluhA3F) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Big Dick Energy](https://open.spotify.com/album/4zIY0BCNtGj3qoJnvomEDR) | 4:16 |
-| 35 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
+| 35 | [Waiting Room](https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Waiting Room](https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS) | 3:14 |
 | 36 | [Mirage](https://open.spotify.com/track/486JaB4ZK017faPW9kNpje) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Mirage](https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa) | 2:52 |
 | 37 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 |
 | 38 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 52 | [1800\-PAINLESS](https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE), [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [1800\-PAINLESS](https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o) | 3:23 |
 | 53 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
 | 54 | [The Sacrifice](https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:28 |
-| 55 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 |
-| 56 | [5168 Days](https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [5168 Days](https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg) | 3:15 |
+| 55 | [5168 Days](https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [5168 Days](https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg) | 3:15 |
+| 56 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 |
 | 57 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 |
-| 58 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 |
-| 59 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
-| 60 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
-| 61 | [Cry Your Eyes Out](https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 2:25 |
+| 58 | [Cry Your Eyes Out](https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 2:25 |
+| 59 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 |
+| 60 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
+| 61 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
 | 62 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
 | 63 | [DOWN N OUT](https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [DOWN N OUT](https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98) | 2:23 |
 | 64 | [Demolition Man](https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Demolition Man](https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8) | 2:45 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 73 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
 | 74 | [Elster Stares the Desert Down](https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Elster Stares the Desert Down](https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3) | 3:41 |
 | 75 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
-| 76 | [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 |
-| 77 | [Gravity](https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Sentiment Valley](https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR) | 3:06 |
-| 78 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |
+| 76 | [Gravity](https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Sentiment Valley](https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR) | 3:06 |
+| 77 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |
+| 78 | [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 |
 | 79 | [Ultimatum](https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Ultimatum](https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP) | 3:26 |
-| 80 | [Stop Living & Don't Dream](https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 2:22 |
+| 80 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
 
 Snapshot ID: `ZzcczwAAAABxI/3hFRNI85ycTKl2b/2r`

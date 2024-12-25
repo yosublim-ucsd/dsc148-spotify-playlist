@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2501,
+  "num_followers": 2502,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAAeWGQzTzTpU827qPxj3FwB",
+  "snapshot_id": "Z2ioAAAAAACsAiFxGPkwEuKowwCG8Uxe",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Calentura",
-        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "La Calentura",
-      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Regreso Es Por Ti",
         "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
       },
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+        "name": "La Calentura",
+        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 211466,
-      "name": "El Zorro y el Sabueso",
-      "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
+      "duration_ms": 184693,
+      "name": "La Calentura",
+      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "El Zorro y el Sabueso",
+      "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revoluci\u00f3n Tecno 2021",
         "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 168677,
       "name": "Zapatos Viejos",
       "url": "https://open.spotify.com/track/2l6iFXyafbKbdp5pa6jXpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Estas Corazon",
-        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 196291,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donde Estas Corazon",
+        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 196291,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revoluci\u00f3n Tecno 2021",
         "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
       },
@@ -599,54 +599,6 @@
       "duration_ms": 207642,
       "name": "Gracias por Ser Mi Mujer",
       "url": "https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Borracho Y Loco",
-        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 197738,
-      "name": "Hasta El Fondo Del Abismo",
-      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "El Fon",
-      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Con un poquito de amor",
-      "url": "https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O"
     },
     {
       "added_at": null,
@@ -667,6 +619,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "Con un poquito de amor",
+      "url": "https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "El Fon",
+      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revoluci\u00f3n Tecno 2021",
         "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
       },
@@ -679,6 +663,38 @@
       "duration_ms": 165214,
       "name": "El Taladro",
       "url": "https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Borracho Y Loco",
+        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 197738,
+      "name": "Hasta El Fondo Del Abismo",
+      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Clases de baile",
+      "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
       "duration_ms": 206067,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Clases de baile",
-      "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
     },
     {
       "added_at": null,

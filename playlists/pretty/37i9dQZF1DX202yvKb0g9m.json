@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 130223,
+  "num_followers": 130273,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Better Living Through Chemistry (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 281815,
       "name": "Do You Feel The Same?",
       "url": "https://open.spotify.com/track/2OasvzxZ0R52l0I7TG8mlI"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4"
     },
     {
       "added_at": "2024-07-10 08:16:23",

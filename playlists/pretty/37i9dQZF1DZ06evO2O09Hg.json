@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1618375,
+  "num_followers": 1618716,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADQ3Y8OSd/Rg8ksKz+KdLb/",
+  "snapshot_id": "Z2ioAAAAAABAV/GBYAyjA/UK94tHCdKZ",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 152183,
-      "name": "Cavalier",
-      "url": "https://open.spotify.com/track/3GqB3q2lYK3qsvhghx92rS"
+      "duration_ms": 197428,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 197428,
-      "name": "Both Ways",
-      "url": "https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U"
+      "duration_ms": 152183,
+      "name": "Cavalier",
+      "url": "https://open.spotify.com/track/3GqB3q2lYK3qsvhghx92rS"
     },
     {
       "added_at": null,
@@ -719,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+        "name": "The Pre-Party (Extended)",
+        "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
       },
       "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 181688,
-      "name": "GO (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
+      "duration_ms": 155711,
+      "name": "World Tour (Aquafina)",
+      "url": "https://open.spotify.com/track/42GhSb1Rca49SbHhunbc0z"
     },
     {
       "added_at": null,
@@ -755,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pre-Party (Extended)",
-        "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
       "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 155711,
-      "name": "World Tour (Aquafina)",
-      "url": "https://open.spotify.com/track/42GhSb1Rca49SbHhunbc0z"
+      "duration_ms": 181688,
+      "name": "GO (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
     },
     {
       "added_at": null,

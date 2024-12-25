@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,816 likes - 293 songs - 17 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,817 likes - 293 songs - 17 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 103 | [Of All Things \(feat\. Too $hort\)](https://open.spotify.com/track/26jrY21NkSefFPxpndtu4z) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 3:33 |
 | 104 | [I Wanna Rock \(feat\. Gunna\)](https://open.spotify.com/track/5bzaS5tAni5oUpW7bWVdtY) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Scary Nights](https://open.spotify.com/album/77Q0xwlCfFLhUNO1Sh8ORM) | 2:43 |
 | 105 | [Nowhere To Run](https://open.spotify.com/track/72XxzjvIBR0TKljL0ETcGQ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Nowhere To Run](https://open.spotify.com/album/0FblLlqUsJImmPkaKqEkz5) | 3:41 |
-| 106 | [Chronicles \(feat\. H.E.R\. & Lil Durk\)](https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:32 |
-| 107 | [Do It Right](https://open.spotify.com/track/4qiBiP5cXKG6JZD1sW28u5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:54 |
+| 106 | [Do It Right](https://open.spotify.com/track/4qiBiP5cXKG6JZD1sW28u5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:54 |
+| 107 | [Chronicles \(feat\. H.E.R\. & Lil Durk\)](https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:32 |
 | 108 | [Only U](https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:55 |
 | 109 | [5 Am in Toronto](https://open.spotify.com/track/0FnxK9FEAQyPJ284QcieNb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 3:25 |
 | 110 | [Scarred](https://open.spotify.com/track/5PSYn0XVImstXPFFDtajEK) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:58 |
@@ -215,14 +215,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 205 | [I Need More](https://open.spotify.com/track/36fwOQjsEFesQvfEybK2Ei) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:52 |
 | 206 | [On This Way \(feat\. The Game & Iyla\)](https://open.spotify.com/track/20AUSGH3hwXA5FAujtcq8w) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [Evolution](https://open.spotify.com/album/3erY5XSpTKh0GfNf5FJuT2) | 4:39 |
 | 207 | [Rollin Around](https://open.spotify.com/track/2CNQJvz0b6VWBx7XHwctZW) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [The Sunset Tapes: A Cool Tape Story](https://open.spotify.com/album/5SEBhuhm9MbbRg3YOOuaCR) | 2:48 |
-| 208 | [Unfortunate](https://open.spotify.com/track/6fb4HkiYfRe8JlHPX0TbZd) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:49 |
-| 209 | [SKYAMI \(feat\. Mango Foo\)](https://open.spotify.com/track/1bEwAeGJvobpPDTkw1mnb3) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:33 |
+| 208 | [SKYAMI \(feat\. Mango Foo\)](https://open.spotify.com/track/1bEwAeGJvobpPDTkw1mnb3) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:33 |
+| 209 | [Unfortunate](https://open.spotify.com/track/6fb4HkiYfRe8JlHPX0TbZd) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:49 |
 | 210 | [Selfish](https://open.spotify.com/track/4LkAzufjnvMdolFuVnlZCt) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 1:37 |
 | 211 | [I Don't Really Care](https://open.spotify.com/track/0pETxJHPurwOfi6Iaw4Esx) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:40 |
 | 212 | [Nothing but Net](https://open.spotify.com/track/0Kuuk3DYQwNsD6qWA3EmPV) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [We Run This, Vol\. 13 \(Mixed by Mr\. E\)](https://open.spotify.com/album/34wToEA3gR8J6qez359k39) | 3:31 |
 | 213 | [Too Much](https://open.spotify.com/track/54DLSGZBdEiK4WKMfpkhPj) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Too Much](https://open.spotify.com/album/3FvLcPYFfHk5KkGrFqTY6c) | 2:49 |
-| 214 | [Save Me Now](https://open.spotify.com/track/7mWO4OfLGrElqWC4e0Ym5G) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [SAY](https://open.spotify.com/album/59VTzGT8wFh1DAThgrIGS9) | 2:40 |
-| 215 | [Touch Down](https://open.spotify.com/track/6jB56tohVWjdqkfNv4RS7s) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:55 |
+| 214 | [Touch Down](https://open.spotify.com/track/6jB56tohVWjdqkfNv4RS7s) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:55 |
+| 215 | [Save Me Now](https://open.spotify.com/track/7mWO4OfLGrElqWC4e0Ym5G) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [SAY](https://open.spotify.com/album/59VTzGT8wFh1DAThgrIGS9) | 2:40 |
 | 216 | [Put It Down](https://open.spotify.com/track/5qKETQwkxK8I05yYfg13Az) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 4:32 |
 | 217 | [My Reality](https://open.spotify.com/track/0Q9HulJie8Hxe2mx1q4nCy) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:09 |
 | 218 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
@@ -302,4 +302,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 292 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 293 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Abk8NgAAAADpscguYwfPFiSkGf9gsBqD`
+Snapshot ID: `AblBzAAAAABDvQsBHulKIQ5O8sVh5xqZ`

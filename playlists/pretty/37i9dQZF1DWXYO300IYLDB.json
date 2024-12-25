@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 101182,
+  "num_followers": 101183,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-12-12 15:00:05",
       "album": {
-        "name": "Massachusetts",
-        "url": "https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 218954,
-      "name": "Massachusetts",
-      "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
-    },
-    {
-      "added_at": "2024-12-12 15:00:05",
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 199573,
       "name": "Girl from the North Country",
       "url": "https://open.spotify.com/track/739sLmfUkVFoyPtb0C3263"
+    },
+    {
+      "added_at": "2024-12-12 15:00:05",
+      "album": {
+        "name": "Massachusetts",
+        "url": "https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 218954,
+      "name": "Massachusetts",
+      "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
     },
     {
       "added_at": "2024-12-12 15:00:05",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-12-12 15:00:05",
       "album": {
-        "name": "Rebel Soul",
-        "url": "https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Rebel Soul",
-      "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
-    },
-    {
-      "added_at": "2024-12-12 15:00:05",
-      "album": {
         "name": "Adore You (Acoustic)",
         "url": "https://open.spotify.com/album/2QvW21dkK5Wp3Od7DiHOZo"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 181250,
       "name": "Adore You - Acoustic",
       "url": "https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u"
+    },
+    {
+      "added_at": "2024-12-12 15:00:05",
+      "album": {
+        "name": "Rebel Soul",
+        "url": "https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Rebel Soul",
+      "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
     },
     {
       "added_at": "2024-12-12 15:00:05",

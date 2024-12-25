@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,335 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,365 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 43 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
 | 44 | [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 |
 | 45 | [Big God](https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson](https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi) | [Chapter Two](https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm) | 10:57 |
-| 46 | [Worship Through It](https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Worship Through It](https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg) | 3:40 |
-| 47 | [The Story I'll Tell \- Live](https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 11:53 |
-| 48 | [He Wants It All](https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 3:27 |
-| 49 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 |
+| 46 | [The Story I'll Tell \- Live](https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 11:53 |
+| 47 | [Worship Through It](https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Worship Through It](https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg) | 3:40 |
+| 48 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 |
+| 49 | [He Wants It All](https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 3:27 |
 | 50 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
 
 Snapshot ID: `Z2SzwwAAAAAgtyQO6pjE8jdjs0afrI4k`

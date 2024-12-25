@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 209731,
+  "num_followers": 209773,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Late December",
+        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
+      },
+      "artists": [
+        {
+          "name": "Mathias Gundhus",
+          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+        }
+      ],
+      "duration_ms": 179545,
+      "name": "Late December",
+      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "When You Touch The Sky",
         "url": "https://open.spotify.com/album/3g37CMgco7Cock6BsoSAJO"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 179273,
       "name": "When You Touch The Sky",
       "url": "https://open.spotify.com/track/0bxlJWWvXMV83KNgb543uQ"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Have This Dance",
-        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 214380,
-      "name": "Have This Dance",
-      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Late December",
-        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
+        "name": "Have This Dance",
+        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
       },
       "artists": [
         {
-          "name": "Mathias Gundhus",
-          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
         }
       ],
-      "duration_ms": 179545,
-      "name": "Late December",
-      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
+      "duration_ms": 214380,
+      "name": "Have This Dance",
+      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
     },
     {
       "added_at": "2024-12-05 23:00:00",

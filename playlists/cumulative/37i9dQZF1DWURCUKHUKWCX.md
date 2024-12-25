@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-209 songs - 11 hr 31 min
+214 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [For Stormboy](https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp) | [Rhiannon Bannenberg](https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy) | [Ambrosia \(Official Soundtrack\)](https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU) | 1:36 | 2021-12-10 | 2023-01-04 |
 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 | 2021-12-10 |  |
 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-10-14 |  |
+| [Galaxy](https://open.spotify.com/track/1KOxdPguXunJrrBFWgqR3i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Galaxy](https://open.spotify.com/album/1Y9mn9slMJf0N35vPweEc0) | 3:42 | 2024-12-24 |  |
 | [Globes](https://open.spotify.com/track/0oT5AOdk4IUqVDOaIN86ng) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Globes](https://open.spotify.com/album/3fMs5z9oLrJ2unce2K05Xt) | 2:34 | 2021-12-10 |  |
 | [Halston](https://open.spotify.com/track/7AbVRoHrQB3JMHC8J1P3Hi) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Halston](https://open.spotify.com/album/6XflbsoG89kmcH3on1bu9R) | 5:07 | 2021-12-10 |  |
 | [Himitsu](https://open.spotify.com/track/17DJuwGNugAo1UzfyA7On8) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [By the Border](https://open.spotify.com/album/2ahyKR00M06DOvnNfXeGmd) | 2:38 | 2021-12-10 |  |
@@ -175,10 +176,12 @@
 | [saman](https://open.spotify.com/track/5Gum48Pt0QSd9rAkFejduF) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Peaceful Piano 2022](https://open.spotify.com/album/6cqlCqunHip9bIHuA5ir3N) | 2:11 | 2022-10-28 | 2022-11-14 |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2022-07-22 | 2024-04-19 |
 | [saman](https://open.spotify.com/track/7iiOQHrIPuafVip6E9hIqZ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [saman](https://open.spotify.com/album/4vBnwCup5n0lu4I8Az6lrS) | 2:11 | 2021-12-10 |  |
+| [SCORPIO “The Mysterious”](https://open.spotify.com/track/5C5QA7wrrJguvgycFvTTia) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [SCORPIO “The Mysterious”](https://open.spotify.com/album/3hzc1uMqhq3HwYaQAY4hBb) | 3:14 | 2024-12-24 |  |
 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 | 2021-12-10 | 2023-01-04 |
 | [Silhouette](https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Silhouette](https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A) | 2:23 | 2021-12-10 | 2023-03-15 |
 | [Solomeo](https://open.spotify.com/track/1FWA5vw5kvSjnOPS1fPZTD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Intercosmia Vol\. 1](https://open.spotify.com/album/3y5tT5o4of6SEyndkccXMI) | 3:34 | 2024-11-08 |  |
 | [Some](https://open.spotify.com/track/28gRlopNz7IIWwiH32poAb) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Solo](https://open.spotify.com/album/1pvK662Ezwrn0ofOxHZOcP) | 4:14 | 2021-12-10 | 2023-01-04 |
+| [Sonatine, M\. 40: I\. Modéré](https://open.spotify.com/track/4BkANQwjj7buotJeAXS0c7) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Ravel: Sonatine, M\. 40: I\. Modéré](https://open.spotify.com/album/1rCB2MRut3uRPnOBEVyTVE) | 4:40 | 2024-12-24 |  |
 | [Spartacus Love Theme](https://open.spotify.com/track/6VtKjjaeZIsGIf7pqXJDoA) | [Alex North](https://open.spotify.com/artist/2x2WoBP4HIXYCxxNzfGG34), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 3:36 | 2024-10-11 |  |
 | [Stars Light Up The Water](https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stars Light Up The Water](https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ) | 2:16 | 2021-12-10 |  |
 | [Stella de Oro](https://open.spotify.com/track/0nf1kFIPnMpPgZaCWTYuUx) | [Yana](https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA) | [Solace](https://open.spotify.com/album/3DsKkabaqsYGKSriLuHHRl) | 4:10 | 2022-04-01 |  |
@@ -213,9 +216,11 @@
 | [Water Variations and Theme: Variation II](https://open.spotify.com/track/26SHCfkRzsns4BVbpbr0Av) | [Oliver Davis](https://open.spotify.com/artist/3BRizPspINkIYljgzP1x6J), [Beth & Flo](https://open.spotify.com/artist/6vHrGcot7nJR1zRBBK2Io7) | [Oliver Davis: Blue](https://open.spotify.com/album/2GNj9tUmqEH2EK1vTmRM99) | 2:19 | 2024-09-06 |  |
 | [Wavering Heart](https://open.spotify.com/track/01Obe4SWMXoUKak13Uue71) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Wavering Heart](https://open.spotify.com/album/6Te7V9eLNY1300KEYrosRk) | 2:21 | 2021-12-10 | 2023-01-04 |
 | [When Orange is the Sky](https://open.spotify.com/track/17xaw9sDx8gyw1ZAOUb1Ns) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [When Orange is the Sky](https://open.spotify.com/album/2OCteDOA3yS9yKZqVjxpZv) | 1:39 | 2021-12-10 |  |
+| [Wilderness House](https://open.spotify.com/track/5SkfuTaEb1bRH9rNlBuKZG) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Stellar](https://open.spotify.com/album/7GgKzRZKi9JFcD9EMG1IwT) | 2:59 | 2024-12-24 |  |
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-12-10 | 2023-01-04 |
 | [You Name It \(Paris\)](https://open.spotify.com/track/11UzclAxRYv3zNqEVd7ci1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [You Name It \(Paris\)](https://open.spotify.com/album/1NWW3unIQGqIgVGpruCzIU) | 3:28 | 2024-11-26 |  |
 | [æfre](https://open.spotify.com/track/2irbT1BSYaIEF44PlyKaoM) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [æfre](https://open.spotify.com/album/4qvfeDEPDNmJFIJdOjGoaW) | 3:06 | 2021-12-10 |  |
+| [Étude No\. 8: Through the Window \(C.B\. Rework\)](https://open.spotify.com/track/7hx4S1uSWXIs1eA84Ae9fy) | [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ) | [Étude No\. 8: Through the Window \(C.B\. Rework\)](https://open.spotify.com/album/6vFC1wTArDQF6MQJke7cEH) | 4:49 | 2024-12-24 |  |
 | […And at the Hour of Death](https://open.spotify.com/track/1gU5jNTPxkrF52O7vUTWzR) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 1\)](https://open.spotify.com/album/2SpKHUMv3voHKHsmNhuD38) | 2:32 | 2021-12-10 | 2023-01-04 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

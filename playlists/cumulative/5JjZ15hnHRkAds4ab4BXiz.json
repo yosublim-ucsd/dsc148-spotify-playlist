@@ -2517,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "The Last King Of Pop",
+        "url": "https://open.spotify.com/album/6KAJNoi7chqjEHaIe1Q8cS"
+      },
+      "artists": [
+        {
+          "name": "The Housemartins",
+          "url": "https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141346,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/051GBUYL8OPi6QZOu1hTDH"
+    },
+    {
+      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },

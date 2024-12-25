@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 92865,
+  "num_followers": 92863,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 259096,
+      "name": "Tjue \u00e5r",
+      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 226666,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 259096,
-      "name": "Tjue \u00e5r",
-      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ"
       },
       "artists": [
         {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+          "name": "Sivert H\u00f8yem",
+          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
         }
       ],
-      "duration_ms": 162930,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
+      "duration_ms": 236333,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -915,6 +915,22 @@
       "duration_ms": 205655,
       "name": "Mamma sa det ordne se for snille piker",
       "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -983,18 +999,18 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ"
+        "name": "Over Deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
       },
       "artists": [
         {
-          "name": "Sivert H\u00f8yem",
-          "url": "https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG"
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN"
+      "duration_ms": 147093,
+      "name": "Over Deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1011,22 +1027,6 @@
       "duration_ms": 176433,
       "name": "Happy Tears",
       "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "Over Deg",
-        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Over Deg",
-      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
+        "name": "reasons why u should text me. (+1 (818) 643-6885)",
+        "url": "https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 147950,
+      "name": "shine.",
+      "url": "https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
         "name": "Hva vi kunne bli",
         "url": "https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 200531,
       "name": "Hvalfangerbyen",
       "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "reasons why u should text me. (+1 (818) 643-6885)",
-        "url": "https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi"
-      },
-      "artists": [
-        {
-          "name": "will hyde",
-          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 147950,
-      "name": "shine.",
-      "url": "https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Thunder in my heart (music from the series)",
-        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Thunder in my heart (music from the series)",
-      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "December (honey, honey)",
         "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 175392,
       "name": "December (honey, honey)",
       "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Thunder in my heart (music from the series)",
+        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Thunder in my heart (music from the series)",
+      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
         "name": "Sommer i Norge",
         "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 169248,
       "name": "Sommer i Norge",
       "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
       "added_at": "2024-12-19 23:00:50",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Klisje",
-        "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        },
-        {
-          "name": "Celine Madelen",
-          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
-        }
-      ],
-      "duration_ms": 138632,
-      "name": "Klisje",
-      "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "Marilyn Monroe",
         "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
       },
@@ -1399,22 +1379,6 @@
     {
       "added_at": "2024-12-19 23:00:50",
       "album": {
-        "name": "Demo",
-        "url": "https://open.spotify.com/album/5gAl4ca58g7eJk5FkP2HuA"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 150346,
-      "name": "Demo",
-      "url": "https://open.spotify.com/track/7M0fpWZdYVNQkg5nAurAlG"
-    },
-    {
-      "added_at": "2024-12-19 23:00:50",
-      "album": {
         "name": "Nakna",
         "url": "https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B"
       },
@@ -1447,6 +1411,42 @@
       "duration_ms": 180906,
       "name": "Ti tusen",
       "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/5gAl4ca58g7eJk5FkP2HuA"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "duration_ms": 150346,
+      "name": "Demo",
+      "url": "https://open.spotify.com/track/7M0fpWZdYVNQkg5nAurAlG"
+    },
+    {
+      "added_at": "2024-12-19 23:00:50",
+      "album": {
+        "name": "Klisje",
+        "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "Celine Madelen",
+          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
+        }
+      ],
+      "duration_ms": 138632,
+      "name": "Klisje",
+      "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
     },
     {
       "added_at": "2024-12-19 23:00:50",

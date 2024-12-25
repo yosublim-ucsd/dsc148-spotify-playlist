@@ -4,7 +4,7 @@
 
 > This is U2\. The essential tracks, all in one playlist.
 
-92 songs - 6 hr 45 min
+93 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Gloria \- Remastered 2008](https://open.spotify.com/track/2HAJf8ZoSXeHfmcC8mS7nj) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 4:12 | 2024-06-30 | 2024-07-21 |
 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 | 2024-10-31 | 2024-12-07 |
 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 | 2022-10-24 |  |
-| [I Don't Wanna See You Smile](https://open.spotify.com/track/4dYVLivRLdGpSPqsvZ2HVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Re\-Assemble An Atomic Bomb](https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ) | 3:17 | 2024-12-06 |  |
+| [I Don't Wanna See You Smile](https://open.spotify.com/track/4dYVLivRLdGpSPqsvZ2HVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Re\-Assemble An Atomic Bomb](https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ) | 3:17 | 2024-12-06 | 2024-12-25 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 | 2022-10-24 |  |
 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 | 2022-10-24 |  |
 | [I'll Go Crazy If I Don't Go Crazy Tonight](https://open.spotify.com/track/6Bxd6SGnWO0bTWCDYh4ZWk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 4:13 | 2022-10-24 | 2022-11-15 |
@@ -85,6 +85,7 @@
 | [The Miracle \(Of Joey Ramone\) \- Songs Of Surrender](https://open.spotify.com/track/3IfReU5MI9ApiJy95ZVCZH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 3:29 | 2023-04-14 | 2023-04-16 |
 | [The Saints Are Coming](https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The Saints Are Coming](https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il) | 3:22 | 2022-10-24 | 2024-12-22 |
 | [The Unforgettable Fire \- Remastered 2009](https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 4:54 | 2022-10-24 |  |
+| [Theme From 'The Batman'](https://open.spotify.com/track/54nPhznuQ4wFu5HDHoVvHY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Re\-Assemble An Atomic Bomb](https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ) | 1:43 | 2024-12-25 |  |
 | [Tryin’ To Throw Your Arms Around The World \- ZOO TV Live In Dublin, 1993](https://open.spotify.com/track/72gDOAoAkBKq0QLaXrg7Ox) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [ZOO TV Live In Dublin 1993 EP](https://open.spotify.com/album/03qRoidfH8PEvybfKfWyZm) | 4:12 | 2024-09-06 | 2024-09-16 |
 | [Ultra Violet \(Light My Way\)](https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:30 | 2022-10-24 |  |
 | [Until The End Of The World](https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:38 | 2022-10-24 |  |

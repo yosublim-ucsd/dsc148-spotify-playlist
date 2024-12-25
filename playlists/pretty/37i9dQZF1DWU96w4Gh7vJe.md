@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,406 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,412 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 42 | [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 |
 | 43 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |
 | 44 | [Sakote](https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d) | [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v) | [Sakote](https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy) | 4:49 |
-| 45 | [Baliw](https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Baliw](https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue) | 3:38 |
-| 46 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 |
+| 45 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 |
+| 46 | [Baliw](https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Baliw](https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue) | 3:38 |
 | 47 | [Could Be Something](https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Could Be Something](https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI) | 3:16 |
 | 48 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 |
 | 49 | [Mula sa Malayo](https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8) | [Mula sa Malayo](https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z) | 2:44 |

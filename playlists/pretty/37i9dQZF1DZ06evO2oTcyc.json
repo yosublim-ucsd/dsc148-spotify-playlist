@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 211860,
+  "num_followers": 211908,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABNmRTdI0bRriBjgNObiM2b",
+  "snapshot_id": "Z2ioAAAAAADETB2mDm6vIlDe0C+hkGEw",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169344,
-      "name": "Transportin'",
-      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evil Genius",
         "url": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 203161,
       "name": "Wake Up in the Sky",
       "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169344,
+      "name": "Transportin'",
+      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 182833,
+      "name": "Corrlinks and JPay",
+      "url": "https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Skii",
         "url": "https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 183491,
       "name": "7 AM in Munich (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/0gCyzW9xyAWSGtyHZ9g9bE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 182833,
-      "name": "Corrlinks and JPay",
-      "url": "https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trill Bill",
-        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "Cherish The Moment",
-      "url": "https://open.spotify.com/track/6CnU6dQJJVtUyCuFfdKkQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 164038,
       "name": "MoshPit (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trill Bill",
+        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "Cherish The Moment",
+      "url": "https://open.spotify.com/track/6CnU6dQJJVtUyCuFfdKkQd"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trill Bill",
-        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/703XjTTpdiUnUfiKMt7HV8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trill Bill",
+        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/703XjTTpdiUnUfiKMt7HV8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lil Big Pac",
         "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 240274,
       "name": "Purp",
       "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dieuson Octave",
-        "url": "https://open.spotify.com/album/5MMgxR8kqI7CFzQRvGiKHj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Harlem Nights",
-      "url": "https://open.spotify.com/track/7f5FgKkeLMeDEwsbvmVsrn"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
       "duration_ms": 130929,
       "name": "If I'm Lyin', I'm Flyin'",
       "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dieuson Octave",
+        "url": "https://open.spotify.com/album/5MMgxR8kqI7CFzQRvGiKHj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Harlem Nights",
+      "url": "https://open.spotify.com/track/7f5FgKkeLMeDEwsbvmVsrn"
     },
     {
       "added_at": null,
@@ -983,18 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dieuson Octave",
-        "url": "https://open.spotify.com/album/5MMgxR8kqI7CFzQRvGiKHj"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 135111,
-      "name": "Drive The Boat",
-      "url": "https://open.spotify.com/track/2EeaJokLoMX2e3ZAGraQaY"
+      "duration_ms": 160266,
+      "name": "how you did that (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
     }
   ],
   "unique_name": "This Is Kodak Black",

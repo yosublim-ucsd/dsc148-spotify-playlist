@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 
 > This Hanukkah playlist features all the classics and the funny favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,448 likes - 56 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,688 likes - 56 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 | 7 | [Dreidel](https://open.spotify.com/track/0LFUSNvMSxhoF7RuKreZ6X) | [Erran Baron Cohen](https://open.spotify.com/artist/1CrSNBDckO546hf8QKPd1g), [Jules Brookes](https://open.spotify.com/artist/3gz8x3xWuGQEIqCOxBBgqF) | [Erran Baron Cohen Presents: Songs In the Key of Hanukkah](https://open.spotify.com/album/1iQWquieh3HJnOGATSJkIo) | 3:15 |
 | 8 | [The Chanukah Song](https://open.spotify.com/track/6doSV1UQjyKxiNCnBnDTeG) | [Adam Sandler](https://open.spotify.com/artist/2LB9H0px4qWbCHg9Axzhga) | [What the Hell Happened to Me?](https://open.spotify.com/album/3Yfv7YSzNFCkAFkrg0YaPp) | 3:43 |
 | 9 | [Light](https://open.spotify.com/track/5uhbrT3dZtv6WgbqfZrkvC) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Light \- Single](https://open.spotify.com/album/0fI6mkRXY1NxjPQRTtzUpv) | 3:04 |
-| 10 | [We Are Lights](https://open.spotify.com/track/1k4L0MtkbyRahJAWwBfGF1) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [HAPPINESS is…Christmas!](https://open.spotify.com/album/6CMgL701fxsN5Qb6pZN49j) | 4:24 |
-| 11 | [A Wicked Chanukah](https://open.spotify.com/track/0tBg0f183GHl1BecYqfk1D) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [A Wicked Chanukah](https://open.spotify.com/album/5zSYE8VuuxuFBvfvpi31hB) | 4:32 |
-| 12 | [Light Up the Night](https://open.spotify.com/track/2BcqTpsSH72Ugoe7R4DIEi) | [Jacob Spike Kraus](https://open.spotify.com/artist/5FZ2jGx0E4jcL6XQH0KcJZ) | [Light Up the Night](https://open.spotify.com/album/7M7zicPJM8fEOyQ6GzzPIf) | 3:30 |
+| 10 | [Light Up the Night](https://open.spotify.com/track/2BcqTpsSH72Ugoe7R4DIEi) | [Jacob Spike Kraus](https://open.spotify.com/artist/5FZ2jGx0E4jcL6XQH0KcJZ) | [Light Up the Night](https://open.spotify.com/album/7M7zicPJM8fEOyQ6GzzPIf) | 3:30 |
+| 11 | [We Are Lights](https://open.spotify.com/track/1k4L0MtkbyRahJAWwBfGF1) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [HAPPINESS is…Christmas!](https://open.spotify.com/album/6CMgL701fxsN5Qb6pZN49j) | 4:24 |
+| 12 | [A Wicked Chanukah](https://open.spotify.com/track/0tBg0f183GHl1BecYqfk1D) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [A Wicked Chanukah](https://open.spotify.com/album/5zSYE8VuuxuFBvfvpi31hB) | 4:32 |
 | 13 | [Ocho Kandelikas](https://open.spotify.com/track/6YIgAkok2YBMlyheciDhS6) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Christmas: A Season Of Love](https://open.spotify.com/album/2iaVsgsBIrCnxTksOl0Muz) | 3:17 |
 | 14 | [How Do You Spell Channukkahh?](https://open.spotify.com/track/3ZjCGpTXLUpg7cAaZzgwBP) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 4:54 |
 | 15 | [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 | 55 | [Hanukkah](https://open.spotify.com/track/2kSlZjr1loCtrmOkOnn9Ns) | [The Living Sisters](https://open.spotify.com/artist/53tm77lKt6nFAbGVqEB3Vi) | [Harmony Is Real: Songs For A Happy Holiday](https://open.spotify.com/album/4P187y5vUyKIvc0M3OKTM8) | 4:08 |
 | 56 | [Watch Me \(Spin / Drey Drey\)](https://open.spotify.com/track/7uj6s6UffjBA4FQlOBLboG) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 2:54 |
 
-Snapshot ID: `Z2jq0QAAAACTvOLMAkr78V7YQJdQZsgC`
+Snapshot ID: `Z2oxugAAAABghcz84mfMArL1pDwsxFGE`

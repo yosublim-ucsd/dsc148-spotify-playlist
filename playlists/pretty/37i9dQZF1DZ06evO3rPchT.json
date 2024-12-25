@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 74012,
+  "num_followers": 74019,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAACAvtpB+TH2L8wIEF3/zbcI",
+  "snapshot_id": "Z2ioAAAAAADMIzYOYevhb+KE7LHs7DiM",
   "tracks": [
     {
       "added_at": null,
@@ -100,13 +100,13 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         },
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 205767,
-      "name": "red (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX"
+      "duration_ms": 277659,
+      "name": "wait in the truck",
+      "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
     },
     {
       "added_at": null,
@@ -184,13 +184,13 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         },
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 277659,
-      "name": "wait in the truck",
-      "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
+      "duration_ms": 205767,
+      "name": "red (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/6GBXOabwqSAI5A75F3FruX"
     },
     {
       "added_at": null,

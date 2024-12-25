@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "GIANT",
+        "url": "https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/6kc4TYfDwwxd5ihBAxVF9L"
+    },
+    {
+      "album": {
         "name": "Christmas Magic",
         "url": "https://open.spotify.com/album/3XuJwiCfSfXzbgKBh93BGJ"
       },
@@ -3397,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "winter wishes",
+        "url": "https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205240,
+      "name": "old fashioned christmas",
+      "url": "https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg"
+    },
+    {
+      "album": {
         "name": "One I've Been Missing",
         "url": "https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg"
       },
@@ -3852,6 +3888,24 @@
       "duration_ms": 267600,
       "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
       "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119639,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
     },
     {
       "album": {

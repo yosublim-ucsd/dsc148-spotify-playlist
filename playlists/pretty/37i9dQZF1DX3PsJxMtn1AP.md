@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,153 likes - 29 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,156 likes - 29 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 5 | [Amapola](https://open.spotify.com/track/3A78WpoH8cs834OAPZbyqj) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Amapola](https://open.spotify.com/album/4mojyb6RxQOj1dVTolkccN) | 3:20 |
 | 6 | [light dark light](https://open.spotify.com/track/3Vy7CVpqU7QVCkxRV4iV9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [light dark light](https://open.spotify.com/album/1IEciM4FXTPO7mdfKuOCIB) | 3:06 |
 | 7 | [Dance on the World](https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dance on the World](https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d) | 3:34 |
-| 8 | [Diamond Jubilee](https://open.spotify.com/track/3FiWyXNYJPqTbPXyzjDYYm) | [Cindy Lee](https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA) | [Diamond Jubilee](https://open.spotify.com/album/56AnBpwjok0M4gUhgMRLxi) | 5:22 |
-| 9 | [em2500 M253X \[London 03.06.17\]](https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 1:52 |
-| 10 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 |
-| 11 | [Gold Filigree](https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Gold Filigree](https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq) | 3:24 |
-| 12 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
-| 13 | [Like I Say \(I runaway\) \- MorMor X Lesser Remix](https://open.spotify.com/track/1YRfArfO4Be7TKKmMpISkZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [My Method Actor \- The Remixes](https://open.spotify.com/album/13kCgRTFjpF9vERKk9J6Zs) | 5:15 |
-| 14 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 |
-| 15 | [RUFF RIDE](https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [RUFF RIDE](https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2) | 2:36 |
-| 16 | [In Love We Know Ourselves](https://open.spotify.com/track/44WuGH7v0DkjwUIcroKxl1) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Minha Vida \- Hope](https://open.spotify.com/album/1e8s9etJoiLcpjtVyTos4V) | 3:17 |
-| 17 | [Ataque de Pánico](https://open.spotify.com/track/3qoUZtR9H0TSdbqoeUsfs4) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Ataque de Pánico](https://open.spotify.com/album/6muMyNYTYIChMTn790YxZI) | 3:45 |
-| 18 | [Indoor Sport](https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Indoor Sport](https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO) | 3:07 |
+| 8 | [I Don’t Wanna](https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 3:04 |
+| 9 | [REAL MOVE TOUCH](https://open.spotify.com/track/3PISUiCZILLzJJSp3c3GhE) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 4:11 |
+| 10 | [Diamond Jubilee](https://open.spotify.com/track/3FiWyXNYJPqTbPXyzjDYYm) | [Cindy Lee](https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA) | [Diamond Jubilee](https://open.spotify.com/album/56AnBpwjok0M4gUhgMRLxi) | 5:22 |
+| 11 | [em2500 M253X \[London 03.06.17\]](https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 1:52 |
+| 12 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 |
+| 13 | [Gold Filigree](https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Gold Filigree](https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq) | 3:24 |
+| 14 | [Like I Say \(I runaway\) \- MorMor X Lesser Remix](https://open.spotify.com/track/1YRfArfO4Be7TKKmMpISkZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [My Method Actor \- The Remixes](https://open.spotify.com/album/13kCgRTFjpF9vERKk9J6Zs) | 5:15 |
+| 15 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 |
+| 16 | [RUFF RIDE](https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [RUFF RIDE](https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2) | 2:36 |
+| 17 | [In Love We Know Ourselves](https://open.spotify.com/track/44WuGH7v0DkjwUIcroKxl1) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Minha Vida \- Hope](https://open.spotify.com/album/1e8s9etJoiLcpjtVyTos4V) | 3:17 |
+| 18 | [Ataque de Pánico](https://open.spotify.com/track/3qoUZtR9H0TSdbqoeUsfs4) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Ataque de Pánico](https://open.spotify.com/album/6muMyNYTYIChMTn790YxZI) | 3:45 |
 | 19 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
 | 20 | [Hombre Roto](https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 3:21 |
 | 21 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 28 | [Rapid Fire](https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Laima](https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr) | [Rapid Fire / Kaitlyn Aurelia Smith Remix](https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2) | 5:34 |
 | 29 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
 
-Snapshot ID: `Z2mRrwAAAAD8wjEmVbp3pDwH0SDagCTq`
+Snapshot ID: `Z2slNAAAAAAsk/FeO3d+BRIam/bkgzwr`

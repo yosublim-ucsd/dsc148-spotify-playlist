@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,117 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,393 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 49 | [El Amor \(feat\. Jenni Rivera\)](https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:08 |
 | 50 | [Pedacito de Mí](https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 3:30 |
 
-Snapshot ID: `Z2dWgAAAAAASddYM9xdmy+0nN7DHizVc`
+Snapshot ID: `Z2ioAAAAAAA/MFE5lfOFBt6Z8vGU5dt+`

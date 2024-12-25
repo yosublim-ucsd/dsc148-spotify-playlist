@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,822 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,881 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 58 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 |
 | 59 | [We Can Always Come Back To This](https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3) | [Brian Tyree Henry](https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK) | [We Can Always Come Back To This \(Music From The Series This Is Us\)](https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN) | 4:14 |
 | 60 | [Electric Fever](https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg) | [Them Vibes](https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664) | [Electric Fever](https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5) | 3:47 |
-| 61 | [I'll Be Your Fool \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [I'll Be Your Fool \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8) | 3:35 |
-| 62 | [Hands on the Radio](https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G) | [The Weeks](https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j) | [Hands on the Radio](https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS) | 3:32 |
+| 61 | [Hands on the Radio](https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G) | [The Weeks](https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j) | [Hands on the Radio](https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS) | 3:32 |
+| 62 | [I'll Be Your Fool \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [I'll Be Your Fool \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8) | 3:35 |
 | 63 | [Something In The Water](https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Something In The Water](https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM) | 3:23 |
-| 64 | [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 |
-| 65 | [Trouble in Mind](https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61) | [The Bumper Jacksons](https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN) | [Too Big World](https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2) | 4:37 |
+| 64 | [Trouble in Mind](https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61) | [The Bumper Jacksons](https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN) | [Too Big World](https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2) | 4:37 |
+| 65 | [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 |
 | 66 | [What You Don't Do](https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [What You Don't Do](https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF) | 3:40 |
 | 67 | [King of Bohemia](https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy) | [Betty & Oswald](https://open.spotify.com/artist/3Z8uzX8UEtNGYskkZJ9Acp) | [King of Bohemia](https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0) | 3:38 |
 | 68 | [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 83 | [Sideman](https://open.spotify.com/track/2f1SbP60TOdOSugoPWLJgS) | [Freddy & Francine](https://open.spotify.com/artist/3wA2OWembkibX1Og8rZ0gp) | [Gung Ho](https://open.spotify.com/album/5jBhs0DnTMJcge55rzftFA) | 2:48 |
 | 84 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 |
 | 85 | [Rolling Over Me](https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Rolling Over Me](https://open.spotify.com/album/63oxuPBkp987wX1y353urb) | 4:49 |
-| 86 | [Candid](https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3) | [MICKY](https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH) | [Candid](https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav) | 3:29 |
-| 87 | [What Does It Mean to Be](https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563) | [American Babies](https://open.spotify.com/artist/5VCANg5vJdUmB2GyD6A7iF) | [An Epic Battle Between Light and Dark](https://open.spotify.com/album/2oU1UJK8nE7HmL5EooMy1q) | 3:21 |
+| 86 | [What Does It Mean to Be](https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563) | [American Babies](https://open.spotify.com/artist/5VCANg5vJdUmB2GyD6A7iF) | [An Epic Battle Between Light and Dark](https://open.spotify.com/album/2oU1UJK8nE7HmL5EooMy1q) | 3:21 |
+| 87 | [Candid](https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3) | [MICKY](https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH) | [Candid](https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav) | 3:29 |
 | 88 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 |
 | 89 | [Better Broken](https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:29 |
 | 90 | [Living Water](https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j) | [Liz Brasher](https://open.spotify.com/artist/4IkjxZEL41t30RVaxrnoab) | [Painted Image](https://open.spotify.com/album/7hpHTYklBroOzIjIwXs4CI) | 2:59 |

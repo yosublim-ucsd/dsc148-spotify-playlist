@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-147 songs - 7 hr 51 min
+148 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [How Can I Make You Stay](https://open.spotify.com/track/7tefLyHHCenSPKMfZ1jgDl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Truly Yours, Isak](https://open.spotify.com/album/1AcV0nmpenJzOStQBprXiV) | 3:09 | 2024-09-26 |  |
 | [Hurts](https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Hurts](https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6) | 3:20 | 2024-06-27 | 2024-10-28 |
 | [Hus utan speglar](https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Hus utan speglar](https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe) | 2:44 | 2024-06-27 |  |
-| [Händerna Mot Himlen \- Acoustic](https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [And The Story Goes](https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9) | 4:35 | 2024-06-27 |  |
+| [Händerna Mot Himlen \- Acoustic](https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [And The Story Goes](https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9) | 4:35 | 2024-06-27 | 2024-12-25 |
 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 | 2024-08-22 |  |
 | [I mina armar](https://open.spotify.com/track/75gZKsfo18ifT3NmAOwFOh) | [Stjärnfamiljen](https://open.spotify.com/artist/2r4Pb3a2tCSI6KNA0juZaz), [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I mina armar](https://open.spotify.com/album/4ROTWkloGXBZy2KmpC5mIQ) | 3:23 | 2024-09-05 | 2024-11-03 |
 | [If You Died Today](https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X) | 2:42 | 2024-06-27 |  |
@@ -155,5 +155,6 @@
 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 | 2024-10-24 |  |
 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2024-06-27 |  |
 | [Ängel](https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ängel](https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2) | 3:29 | 2024-06-27 | 2024-10-31 |
+| [Ännu mer](https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ännu mer](https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O) | 3:04 | 2024-11-21 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

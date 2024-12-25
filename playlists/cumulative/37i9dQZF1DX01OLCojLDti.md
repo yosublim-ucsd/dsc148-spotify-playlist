@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-120 songs - 7 hr 42 min
+121 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,13 +86,14 @@
 | [シェキラ☆☆☆](https://open.spotify.com/track/6kO083O2vEVcuwpR4WdVnR) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA) | 4:22 | 2024-01-09 | 2024-12-11 |
 | [シェキラ☆☆☆](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 | 2024-01-09 |  |
 | [スター宣言](https://open.spotify.com/track/2NXZ1iOG0zV0petFHEc3iG) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:42 | 2022-10-18 | 2024-05-21 |
+| [スーパースター!!](https://open.spotify.com/track/5advyz09kWU8YaumAT5QV8) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [スーパースター!!](https://open.spotify.com/album/6eX46XN7ENPio7gIiQCFjo) | 3:51 | 2024-12-24 |  |
 | [ノンフィクション!!](https://open.spotify.com/track/0wmhZDwpQ5GrHmUw0gptpB) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/5rh6WW5CgGcvHVbPrxG8xp) | 3:23 | 2024-01-09 | 2024-12-11 |
 | [ノンフィクション!!](https://open.spotify.com/track/2MdKm0P7WVSW4sOy7C7gvG) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/1WL0ewJxIVf0dvOEhHxyfL) | 3:23 | 2022-10-18 | 2024-04-19 |
 | [パレードはいつも \- 米女メイ Ver.](https://open.spotify.com/track/3dnba4vbNNqYf6Y6arfiup) | [米女メイ \(CV.薮島朱音\)](https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:37 | 2022-10-25 |  |
 | [パレードはいつも \- 若菜四季 Ver.](https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF) | [若菜四季 \(CV.大熊和奏\)](https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:38 | 2022-10-25 |  |
 | [ビギナーズRock!!](https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu) | [桜小路きな子 \(CV.鈴原希実\)](https://open.spotify.com/artist/5YhJfeXFPB1cuhpR7pJAx2) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:14 | 2023-03-14 |  |
 | [ビタミンSUMMER！](https://open.spotify.com/track/2J3Ysm4IPXulMfvwP7em3s) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ビタミンSUMMER！ / Chance Day, Chance Way！ \(第6話盤\)](https://open.spotify.com/album/2amqKXVS3ZZ6G3RMGnikXF) | 3:29 | 2022-10-18 |  |
-| [ファイティングコール](https://open.spotify.com/track/1Qmpzifdz5LvVBk3kKTI64) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第3話盤】](https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG) | 4:34 | 2024-12-10 |  |
+| [ファイティングコール](https://open.spotify.com/track/1Qmpzifdz5LvVBk3kKTI64) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第3話盤】](https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG) | 4:34 | 2024-12-10 | 2024-12-25 |
 | [プライム・アドベンチャー](https://open.spotify.com/track/2y9YOgeTpwkpbqNZwdMGCQ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:16 | 2022-10-25 | 2023-03-15 |
 | [ミッドナイトラプソディ](https://open.spotify.com/track/0VVOwXxpiB4Uzvszq02L9H) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/1ZwrD5fxfsdjr0CsHjPk0f) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:50 | 2023-03-14 |  |
 | [ユニゾン](https://open.spotify.com/track/750OwgK8AhKJHp4Br78uqD) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:05 | 2022-10-18 | 2023-03-15 |

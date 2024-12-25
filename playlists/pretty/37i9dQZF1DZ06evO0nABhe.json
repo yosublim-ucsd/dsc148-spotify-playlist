@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 10402,
+  "num_followers": 10404,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADMMC6jWbQP3G6/CgWp1oZC",
+  "snapshot_id": "Z2ioAAAAAAAKwg2Sqa4bHdaMZLUTIS0e",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 268870,
-      "name": "Can Anybody Hear Me",
-      "url": "https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p"
+      "duration_ms": 205903,
+      "name": "How Can We Go On",
+      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 205903,
-      "name": "How Can We Go On",
-      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
+      "duration_ms": 268870,
+      "name": "Can Anybody Hear Me",
+      "url": "https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Holding On To You",
-      "url": "https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA"
+      "duration_ms": 232453,
+      "name": "The Dream Is Over",
+      "url": "https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 232453,
-      "name": "The Dream Is Over",
-      "url": "https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA"
+      "duration_ms": 223546,
+      "name": "Holding On To You",
+      "url": "https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA"
     },
     {
       "added_at": null,

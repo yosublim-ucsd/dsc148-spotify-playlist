@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,918 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,923 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 71 | [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 |
 | 72 | [Love Like This](https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Love Like This](https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0) | 3:20 |
 | 73 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
-| 74 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
-| 75 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
+| 74 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
+| 75 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
 | 76 | [Here for You](https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Here for You](https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl) | 2:32 |
 | 77 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Beasley](https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
 | 78 | [SAFE](https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [SAFE](https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq) | 3:51 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 82 | [The One Out The Friendzone \- Kevin Aleksander Remix](https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [The One Out The Friendzone \(Kevin Aleksander Remix\)](https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC) | 3:00 |
 | 83 | [Wait](https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 2:31 |
 | 84 | [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 |
-| 85 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
-| 86 | [Me + You = Pi](https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Me + You = Pi](https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p) | 2:49 |
-| 87 | [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 |
-| 88 | [fall \(when we fell in love\)](https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [fall \(when we fell in love\)](https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm) | 2:37 |
-| 89 | [We Can Be More](https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [J.R.](https://open.spotify.com/artist/1gkN5N1Npacwm1QsSsVonK) | [Lions and Liars](https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX) | 3:12 |
+| 85 | [Me + You = Pi](https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Me + You = Pi](https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p) | 2:49 |
+| 86 | [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 |
+| 87 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
+| 88 | [We Can Be More](https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [J.R.](https://open.spotify.com/artist/1gkN5N1Npacwm1QsSsVonK) | [Lions and Liars](https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX) | 3:12 |
+| 89 | [fall \(when we fell in love\)](https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [fall \(when we fell in love\)](https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm) | 2:37 |
 | 90 | [2nd Happy](https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [2nd Happy](https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s) | 3:45 |
 | 91 | [Can we…?](https://open.spotify.com/track/3vC0yAxytKeY7cteZV63QL) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Can we…?](https://open.spotify.com/album/6xhNzjJT8YnzxQLhtspRYX) | 2:23 |
 | 92 | [Be Yourself](https://open.spotify.com/track/6P0actEG7h74NHvxqRB321) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [FEVER / SKY](https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip) | 3:22 |

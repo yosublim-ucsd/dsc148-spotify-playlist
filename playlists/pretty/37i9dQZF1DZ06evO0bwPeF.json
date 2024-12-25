@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8725,
+  "num_followers": 8729,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABvi/C/IGqrm2BwLyEo4qaQ",
+  "snapshot_id": "Z2ioAAAAAACoCZf71CmnZ/Pp7LIqZ6Gg",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Left",
-        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 199280,
-      "name": "Dislocated",
-      "url": "https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA"
+      "duration_ms": 349453,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 349453,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl"
+      "duration_ms": 221360,
+      "name": "E.T.I.",
+      "url": "https://open.spotify.com/track/5bSAktMI7dZ91EIPrAQn9j"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 101539,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD"
+      "duration_ms": 199280,
+      "name": "Dislocated",
+      "url": "https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 154214,
-      "name": "NYC Tough Guy",
-      "url": "https://open.spotify.com/track/69hbQdjcPhITOxVBuIApkL"
+      "duration_ms": 101539,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD"
     },
     {
       "added_at": null,
@@ -680,25 +680,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 221360,
-      "name": "E.T.I.",
-      "url": "https://open.spotify.com/track/5bSAktMI7dZ91EIPrAQn9j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Left",
-        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 163808,
-      "name": "Tell Me Again",
-      "url": "https://open.spotify.com/track/5e5X4a7JK1wUVivxxMZB0G"
+      "duration_ms": 189333,
+      "name": "I'm Only Sleeping",
+      "url": "https://open.spotify.com/track/1ikveMBbbi2DVWbfKdsxWz"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 34112,
+  "num_followers": 34114,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAD42GP5qXuQ25k+Lg8Mv+Fi",
+  "snapshot_id": "Z2ioAAAAAABdOOq0wZwvvA8T6tI+n/cp",
   "tracks": [
     {
       "added_at": null,
@@ -608,13 +608,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 278203,
-      "name": "Follow - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S"
+      "duration_ms": 1209226,
+      "name": "Agnus Dei - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6u2N3zMvMTe2nLiG8xwkQw"
     },
     {
       "added_at": null,
@@ -688,13 +688,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
         }
       ],
-      "duration_ms": 1209226,
-      "name": "Agnus Dei - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6u2N3zMvMTe2nLiG8xwkQw"
+      "duration_ms": 278203,
+      "name": "Follow - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn Bright",
-        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 340572,
-      "name": "Yesterday, Today And Forever - Live From Passion 2022",
-      "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Awakening (Live)",
         "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
       },
@@ -923,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "duration_ms": 378412,
+      "name": "Gratitude - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call on Heaven (Live)",
         "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
       },
@@ -939,6 +939,26 @@
       "duration_ms": 351817,
       "name": "How Great Is Your Name - Live From Passion 2024",
       "url": "https://open.spotify.com/track/2FUcVo7f064SqyjXWqkT6Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 340572,
+      "name": "Yesterday, Today And Forever - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
     },
     {
       "added_at": null,
@@ -987,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Witnessed It (Live)",
-        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        }
-      ],
-      "duration_ms": 378412,
-      "name": "Gratitude - Live From Passion 2023",
-      "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chris Tomlin Collection",
         "url": "https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT"
       },
@@ -1047,8 +1047,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Heart (Live)",
-        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
       },
       "artists": [
         {
@@ -1056,13 +1056,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 526306,
-      "name": "Great Are You Lord - Live",
-      "url": "https://open.spotify.com/track/5IUBzdrhj5rFz87PJjLpQH"
+      "duration_ms": 258872,
+      "name": "Bendizei ao Senhor",
+      "url": "https://open.spotify.com/track/5R7O5g2NRfj4IcnRToWeb4"
     }
   ],
   "unique_name": "This Is Passion",

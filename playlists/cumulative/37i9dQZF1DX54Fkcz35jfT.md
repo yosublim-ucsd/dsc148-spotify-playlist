@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Mr.FanTastiC
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: 打首獄門同好会
 
-357 songs - 20 hr 31 min
+358 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 | 2024-01-30 |  |
 | [Dancer in the Dark](https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Dancer in the Dark](https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh) | 2:55 | 2023-07-20 | 2023-08-10 |
 | [Danger Danger](https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [icy](https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3) | [Danger Danger](https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri) | 3:41 | 2024-01-09 |  |
+| [Dansharhythm](https://open.spotify.com/track/0bnfOJO4mKt6aUbkbNKZmM) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Dansharhythm](https://open.spotify.com/album/4xTFljDOdjSAGiDDU7uggg) | 3:09 | 2024-12-24 |  |
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-07-20 | 2024-07-24 |
 | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-26 |  |
 | [Dear Life](https://open.spotify.com/track/6gsr8v2ZGPMzMegnJ05byK) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [SOUNDSCAPE](https://open.spotify.com/album/5q53vO8tjeMQ1hICEqjvDS) | 3:43 | 2023-08-15 | 2023-10-04 |
@@ -140,7 +141,7 @@
 | [L.A.M.N \(feat\. Bobby Wolfgang\)](https://open.spotify.com/track/4Y0bWul4BEzGVFVftvG0zi) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N \(feat\. Bobby Wolfgang\)](https://open.spotify.com/album/3a1i5zU4viYmWgMKwaZmqO) | 2:44 | 2024-04-18 | 2024-04-24 |
 | [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-07-20 | 2023-07-26 |
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-07-20 | 2023-07-26 |
-| [LEAVE IT ALL BEHIND](https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bodyslam](https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR) | 4:07 | 2024-04-18 |  |
+| [LEAVE IT ALL BEHIND](https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bodyslam](https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR) | 4:07 | 2024-04-18 | 2024-12-25 |
 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6OuMeKOWACC0acKVleXvTC) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bodyslam](https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/1MIXnmRStAxYzf7qufHpLR) | 4:07 | 2024-03-19 | 2024-04-19 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-21 | 2023-12-06 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW) | 2:42 | 2023-12-07 | 2024-04-19 |

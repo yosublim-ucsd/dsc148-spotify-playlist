@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Yami Safdie y Lasso en portada.",
-  "num_followers": 541337,
+  "num_followers": 541358,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Fantas\u00edas",
+        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 226336,
+      "name": "Fantas\u00edas",
+      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Compa\u00f1era",
         "url": "https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 193208,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Fantas\u00edas",
-        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
-      },
-      "artists": [
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 226336,
-      "name": "Fantas\u00edas",
-      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
         "name": "Mi Alma Gemela Muri\u00f3",
         "url": "https://open.spotify.com/album/46J4AvKqh2ObGqi02wmv9r"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 195728,
       "name": "Mi Alma Gemela Muri\u00f3",
       "url": "https://open.spotify.com/track/0U47POZTC0KCkaQBveFgyk"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
     },
     {
       "added_at": "2024-12-06 17:29:46",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-12-06 17:29:46",
       "album": {
-        "name": "Bailando Bonito",
-        "url": "https://open.spotify.com/album/7rxzzbpTZ8xAJPnLFN88EW"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 243983,
-      "name": "Bailando Bonito",
-      "url": "https://open.spotify.com/track/2C47Ri3AXxD67NH8VLnprW"
-    },
-    {
-      "added_at": "2024-12-06 17:29:46",
-      "album": {
         "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
         "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2024-12-06 17:29:46",
+      "album": {
+        "name": "Bailando Bonito",
+        "url": "https://open.spotify.com/album/7rxzzbpTZ8xAJPnLFN88EW"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 243983,
+      "name": "Bailando Bonito",
+      "url": "https://open.spotify.com/track/2C47Ri3AXxD67NH8VLnprW"
     },
     {
       "added_at": "2024-12-06 17:29:46",

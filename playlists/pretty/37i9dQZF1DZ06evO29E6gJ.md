@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,789 likes - 47 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,794 likes - 47 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 22 | [carta jugada](https://open.spotify.com/track/50rr7toY0hwRzLCHEmt1BB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [ANORANZA NORTENA](https://open.spotify.com/album/6626gtmDfSGPNkce5p8kfF) | 2:45 |
 | 23 | [Porque Te Quiero](https://open.spotify.com/track/3CFVyZA39o7RnGcQoOadZ5) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Éxitos de los Alegres de Terán, Vol\. 2](https://open.spotify.com/album/3UCqW7jOFnJl6DDwOz7eth) | 2:23 |
 | 24 | [Sea por Dios](https://open.spotify.com/track/5Ws6Td0ZpsJYQpGvQThwll) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:20 |
-| 25 | [Entre Copa y Copa](https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 2:43 |
-| 26 | [Hay Mujeres Ingratas en la Vida \[Ranchera\]](https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [FOGATA NORTENA](https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy) | 2:49 |
+| 25 | [Hay Mujeres Ingratas en la Vida \[Ranchera\]](https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [FOGATA NORTENA](https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy) | 2:49 |
+| 26 | [Entre Copa y Copa](https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 2:43 |
 | 27 | [La Cárcel De Cananea](https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:52 |
 | 28 | [Prisionero de Tus Brazos](https://open.spotify.com/track/6KqyjEEo57j3VHTNLv1BsC) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:31 |
 | 29 | [Por El Amor A Mi Madre](https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Frente a Frente Los Alegres de Terán vs Los Invasores de Nuevo León](https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf) | 2:48 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 46 | [Arnulfo Gonzalez](https://open.spotify.com/track/3crxQKluxTRyJE4l5JQ7YM) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:17 |
 | 47 | [Te Vas Angel Mío](https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Latin Classics](https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ) | 2:22 |
 
-Snapshot ID: `Z2dWgAAAAAAA7eNBrkby6zHMdSub21pS`
+Snapshot ID: `Z2ioAAAAAAA/5q/ENLFbqmzfOpdkd/Af`

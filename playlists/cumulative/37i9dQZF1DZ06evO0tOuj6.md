@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0tOuj6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0tOuj6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0tOuj6)
 
-### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
+### [This Is 東京スカパラダイスオーケストラ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
+> This is 東京スカパラダイスオーケストラ\. The essential tracks, all in one playlist.
 
 85 songs - 5 hr 35 min
 
@@ -13,7 +13,7 @@
 | [Blues In The Wind](https://open.spotify.com/track/3h4tEYHzsrlDxC2zCfqgsu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Takuma \(10\-FEET\)](https://open.spotify.com/artist/6MJbQmwV3YSEQnO3EnVsy6) | [Blues In The Wind](https://open.spotify.com/album/2KcZMoEkaGMyRzRLSO6gWB) | 5:03 | 2024-05-08 | 2024-06-04 |
 | [Break into the Light〜約束の帽子〜](https://open.spotify.com/track/58XinNr00MVez9TV323KJZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Break into the Light 〜約束の帽子〜/The Sharing Song 〜トリコのテーマ〜](https://open.spotify.com/album/2JBiEFSXLCs6NKsyktYOaW) | 3:40 | 2023-01-14 | 2023-03-20 |
 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/4deHviaMO5PAecTlfJUOLL) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 2:43 | 2023-01-14 |  |
-| [Departure](https://open.spotify.com/track/45XhQVKn0bKC74OAtcGu3m) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 4:11 | 2024-11-10 | 2024-12-21 |
+| [Departure](https://open.spotify.com/track/45XhQVKn0bKC74OAtcGu3m) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 4:11 | 2024-11-10 |  |
 | [Diamond In Your Heart](https://open.spotify.com/track/7aqiDKiC83zDz54vzp0QtV) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Diamond In Your Heart](https://open.spotify.com/album/579Nh3mt3qtwk9q3jRNkNC) | 5:37 | 2023-01-14 |  |
 | [DOWN BEAT STOMP](https://open.spotify.com/track/3orD5C1CKx2oGtLgSQOEhB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:15 | 2023-01-14 |  |
 | [Freak It!](https://open.spotify.com/track/0U9rOURjZlunqFlm5TWgX0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 3:04 | 2023-01-14 |  |
@@ -37,7 +37,7 @@
 | [Te Quiero con Bugalú](https://open.spotify.com/track/19AG2FmshFkNm5FVTDZj0E) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Glorious](https://open.spotify.com/album/1sshEtkwfrCyY8kJWojThg) | 4:11 | 2023-02-13 | 2023-02-15 |
 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 | 2024-02-10 | 2024-10-19 |
 | [Utakatarattara](https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Utakatarattara](https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK) | 3:08 | 2023-09-15 | 2023-11-11 |
-| [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 | 2023-01-14 |  |
+| [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 | 2023-01-14 | 2024-12-25 |
 | [Wings Of Phoenix](https://open.spotify.com/track/7sxuNxmyl7qdsBfpn3q3q4) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:05 | 2024-11-12 | 2024-12-19 |
 | [あの夏のあいまいME \- feat.SUPER EIGHT](https://open.spotify.com/track/4b4allsuWsgn2rILWGICJO) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [あの夏のあいまいME \(feat.SUPER EIGHT\)](https://open.spotify.com/album/1q4MepMNAMAztrLxXYrlvm) | 3:53 | 2024-08-10 |  |
 | [しらけちまうぜ](https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 3:53 | 2023-01-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,279 likes - 51 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,296 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 10 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 |
 | 11 | [El Señor De La Montaña](https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7) | [Pityn Toys](https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Señor De La Montaña](https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl) | 2:25 |
 | 12 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 |
-| 13 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 |
-| 14 | [Ismael](https://open.spotify.com/track/0S2oq25O61zqlWrxMv5lGu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:16 |
+| 13 | [Ismael](https://open.spotify.com/track/0S2oq25O61zqlWrxMv5lGu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:16 |
+| 14 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 |
 | 15 | [El Rápido \- En vivo](https://open.spotify.com/track/130anijBVOTasF32ZHwuJi) | [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Rápido \(En vivo\)](https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef) | 3:28 |
 | 16 | [Ya No Puedo Con Esto](https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX) | 2:29 |
 | 17 | [El Yuko \(En vivo\)](https://open.spotify.com/track/2lc60LnmhcgHEPkEabgmMs) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 3:09 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 50 | [El De La Aldea](https://open.spotify.com/track/4KHsDU8PPw2MvXTQrjsOr2) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:20 |
 | 51 | [El Enamorado \(En vivo\)](https://open.spotify.com/track/3JChPn2sVzhbsd5ZCWLFIB) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [El Enamorado \(En vivo\)](https://open.spotify.com/album/0ZdZWuMLUKmWQ6W7I0iYCD) | 2:52 |
 
-Snapshot ID: `Z2dWgAAAAABsd/GgRcmtpZ51QfO11iaY`
+Snapshot ID: `Z2ioAAAAAAAjGTtxmhjx884JxpRayIT3`

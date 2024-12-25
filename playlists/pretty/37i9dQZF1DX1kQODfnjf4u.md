@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover: Calin
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,391 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,465 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

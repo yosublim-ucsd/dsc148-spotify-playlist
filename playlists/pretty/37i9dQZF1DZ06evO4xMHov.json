@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 61751,
+  "num_followers": 61754,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAACe9+Wi2qUQlzhoGW5dFcvL",
+  "snapshot_id": "Z2ioAAAAAAA0Jk9OUDatKcTHjxYt97yw",
   "tracks": [
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 826880,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vem (Ao Vivo)",
         "url": "https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 571013,
       "name": "Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ousado Amor",
-        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 826880,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
     },
     {
       "added_at": null,

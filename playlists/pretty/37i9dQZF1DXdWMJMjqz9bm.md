@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,821 likes - 42 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,824 likes - 42 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 4 | [EVERYTIME](https://open.spotify.com/track/6H1tgszM6u4Q62qpqZyhop) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [EVERYTIME](https://open.spotify.com/album/0vRHjWxollDMNFKeJqHiAa) | 2:35 |
 | 5 | [Sweet](https://open.spotify.com/track/4GPlVxGyUFfuuZExYPp4mP) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Sweet](https://open.spotify.com/album/5vaYdxmwVwmKXpXRWX3oQp) | 2:15 |
 | 6 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 |
-| 7 | [Don’t HMU](https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv) | [Anella](https://open.spotify.com/artist/6R7tmfQRRfndnDIWXVJ4lZ) | [Season 3: I Made You](https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8) | 1:38 |
+| 7 | [Don’t HMU](https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 3: I Made You](https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8) | 1:38 |
 | 8 | [Best Friend](https://open.spotify.com/track/2WJXlmZ5ZgFkUjcs3798sc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Best Friend](https://open.spotify.com/album/3tFee3xnJ2I9vWAmAEC93x) | 2:35 |
 | 9 | [IOU](https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [IOU](https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa) | 3:11 |
 | 10 | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/track/1hDtQHr9OveHVpE4RlvM9G) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/album/2UoHIfIrdKTAsbS9dcB72k) | 3:21 |

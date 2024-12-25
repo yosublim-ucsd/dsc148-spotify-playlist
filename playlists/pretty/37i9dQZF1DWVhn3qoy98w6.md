@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Las mejores canciones de Fresh Finds España este año\. Foto: ANADIE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,997 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,002 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

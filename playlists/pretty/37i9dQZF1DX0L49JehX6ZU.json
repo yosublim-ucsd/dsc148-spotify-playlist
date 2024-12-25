@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 132995,
+  "num_followers": 133013,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-12-17 07:33:03",
       "album": {
+        "name": "Nit Nit",
+        "url": "https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "duration_ms": 246136,
+      "name": "Nit Nit",
+      "url": "https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd"
+    },
+    {
+      "added_at": "2024-12-17 07:33:03",
+      "album": {
         "name": "Baaraat",
         "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 222096,
       "name": "Baaraat",
       "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
-    },
-    {
-      "added_at": "2024-12-17 07:33:03",
-      "album": {
-        "name": "Nit Nit",
-        "url": "https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        }
-      ],
-      "duration_ms": 246136,
-      "name": "Nit Nit",
-      "url": "https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd"
     },
     {
       "added_at": "2024-12-17 07:33:03",

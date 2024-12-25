@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 852495,
+  "num_followers": 852749,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -831,30 +831,6 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
         "name": "My Love (2024)",
         "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
       },
@@ -875,6 +851,30 @@
       "duration_ms": 184949,
       "name": "My Love (2024)",
       "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1139,34 +1139,22 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
       "artists": [
         {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1195,6 +1183,38 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
       },
@@ -1219,22 +1239,26 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "NO HAY VERANO SIN GORDO",
-        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
+        "name": "Sauti",
+        "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Olvidarte (feat. Emilia)",
-      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+      "duration_ms": 208770,
+      "name": "Sauti",
+      "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1259,26 +1283,18 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "Sauti",
-        "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
+        "name": "MERTHER",
+        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Faul & Wad",
-          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
-        },
-        {
-          "name": "African Children's Choir",
-          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 208770,
-      "name": "Sauti",
-      "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
+      "duration_ms": 189405,
+      "name": "MERTHER",
+      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1315,22 +1331,6 @@
       "duration_ms": 230945,
       "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "MERTHER",
-        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 189405,
-      "name": "MERTHER",
-      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
         "name": "TRIPPIN",
         "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 202881,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2024-12-20 05:00:27",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-12-20 05:00:27",
       "album": {
+        "name": "C'mon Look! (feat. Asake)",
+        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "C'mon Look! (feat. Asake)",
+      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
+    },
+    {
+      "added_at": "2024-12-20 05:00:27",
+      "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
-    },
-    {
-      "added_at": "2024-12-20 05:00:27",
-      "album": {
-        "name": "C'mon Look! (feat. Asake)",
-        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "C'mon Look! (feat. Asake)",
-      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
     },
     {
       "added_at": "2024-12-20 05:00:27",

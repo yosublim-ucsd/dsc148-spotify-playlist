@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de El High, Zaider, Rafa Pabön y Key Key.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,459 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,468 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 12 | [TE FALLÉ](https://open.spotify.com/track/2stYCm7UAyZ4srGFrI4MNX) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 3:39 |
 | 13 | [Trakata](https://open.spotify.com/track/5YQDQrhCQQqjG8nBqYMrPJ) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [Trakata](https://open.spotify.com/album/0tDnBrjWnAqAohPcU0wK0i) | 2:50 |
 | 14 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 |
-| 15 | [MAS LOCO QUE TU](https://open.spotify.com/track/3VV1vrtcicdnst83mWFPnW) | [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [MAS LOCO QUE TU](https://open.spotify.com/album/4FwoHjtqk0VAt4eJaW0prH) | 3:40 |
+| 15 | [MAS LOCO QUE TU](https://open.spotify.com/track/3VV1vrtcicdnst83mWFPnW) | [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [El Pepo Show](https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB) | [MAS LOCO QUE TU](https://open.spotify.com/album/4FwoHjtqk0VAt4eJaW0prH) | 3:40 |
 | 16 | [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 |
 | 17 | [Papelito](https://open.spotify.com/track/4do9SGv2DQ1irWpwqxXANJ) | [La Pardo](https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU) | [Papelito](https://open.spotify.com/album/0wcWlYYFJc6TjDDPv6iLFH) | 2:18 |
 | 18 | [MR\. MOONDIAL](https://open.spotify.com/track/67LKV40NfSSGIJnm0xz6fi) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 2:45 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 49129,
+  "num_followers": 49133,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABHTfMCU7vBR/QkyPjPSeir",
+  "snapshot_id": "Z2ioAAAAAAD1EfuLtuPhoeKIxyYB4PGs",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 225200,
+      "name": "Mean Old Frisco Blues",
+      "url": "https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 183880,
       "name": "Mad Love (I Want You To Love Me) - Single Version",
       "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 225200,
-      "name": "Mean Old Frisco Blues",
-      "url": "https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3174,
+  "num_followers": 3178,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAAvGFqG9vMKNhuYV8P70zuJ",
+  "snapshot_id": "Z2ioAAAAAADGYrpZZJzRC3XzsyOq+L38",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 1)",
-        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 116288,
-      "name": "Record Straight",
-      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clock It",
         "url": "https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212210,
       "name": "Clock It",
       "url": "https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 116288,
+      "name": "Record Straight",
+      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
     },
     {
       "added_at": null,

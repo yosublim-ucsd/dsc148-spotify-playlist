@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,040 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,070 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 47 | [Infatuation](https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:17 |
 | 48 | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy) | 4:08 |
 | 49 | [Save Me from Myself](https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:13 |
-| 50 | [Tell Me \(feat\. Christina Aguilera\)](https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Press Play](https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h) | 4:06 |
+| 50 | [Steppin' Out with My Baby \(with Christina Aguilera\)](https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Viva Duets](https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv) | 2:02 |
 
-Snapshot ID: `Z2dWgAAAAABHiun6rkVz5O+PCxBPkP6P`
+Snapshot ID: `Z2ioAAAAAADmpCtsRCyd2Z+GqtB06e/j`

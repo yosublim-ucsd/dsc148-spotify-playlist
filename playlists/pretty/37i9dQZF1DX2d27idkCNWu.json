@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259263,
+  "num_followers": 259266,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Girassol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 65059,
+      "name": "Girassol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -487,18 +503,18 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Girassol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
       },
       "artists": [
         {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 65059,
-      "name": "Girassol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -515,22 +531,6 @@
       "duration_ms": 291960,
       "name": "All of Me - Live from Spotify Milan",
       "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "You Learn - Live / Unplugged",
-      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -556,22 +556,6 @@
       "added_at": "2024-11-22 15:03:16",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
       },
       "artists": [
@@ -583,6 +567,22 @@
       "duration_ms": 173680,
       "name": "Mad World - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Boyfriend - Acoustic Version",
+      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Meant to Be (Acoustic)",
         "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 187680,
-      "name": "Boyfriend - Acoustic Version",
-      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -699,22 +715,6 @@
       "duration_ms": 182906,
       "name": "Nothing But a Song - Bonus Acoustic Version",
       "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "Elastic Heart - Live from The Village",
+      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 194884,
       "name": "South of the Border (feat. Camila Cabello) - Acoustic",
       "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "Elastic Heart - Live from The Village",
-      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Dancing On My Own (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 230553,
-      "name": "Dancing On My Own - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
         "url": "https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 132727,
       "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
       "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 191953,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 191953,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 222270,
+      "name": "Attention - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "Maia Sessions",
         "url": "https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 137960,
       "name": "Cigana (Maia Sessions)",
       "url": "https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 222270,
-      "name": "Attention - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
     },
     {
       "added_at": "2024-11-22 15:03:16",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
+        "name": "Daisies (Acoustic)",
+        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Daisies - Acoustic",
+      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
+    },
+    {
+      "added_at": "2024-11-22 15:03:16",
+      "album": {
         "name": "GUPE - PP sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K"
       },
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Ozu Vivo (Live)",
-        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 187936,
-      "name": "Del Mar - Acustico",
-      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
-    },
-    {
-      "added_at": "2024-11-22 15:03:16",
-      "album": {
         "name": "Blame It On Me (Acoustic)",
         "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-11-22 15:03:16",
       "album": {
-        "name": "Daisies (Acoustic)",
-        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
+        "name": "Ozu Vivo (Live)",
+        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Daisies - Acoustic",
-      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
+      "duration_ms": 187936,
+      "name": "Del Mar - Acustico",
+      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
     },
     {
       "added_at": "2024-11-22 15:03:16",

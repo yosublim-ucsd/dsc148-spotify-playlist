@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,156 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,181 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,18 +47,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 37 | [No Pasa Nada](https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 3:03 |
 | 38 | [Mala Fama \- Remix](https://open.spotify.com/track/1H3o2Pde9RlIa0V2crN3kb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Andrés Saavedra](https://open.spotify.com/artist/5KG8PVgup7Rd3VJ3SGTVvN) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
 | 39 | [Que me quiera](https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:34 |
-| 40 | [I Love You \(432 Hz\) \(with Greeicy\)](https://open.spotify.com/track/1ICUVPtaZlWQ45aQCtmW2y) | [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [I Love You \(432 Hz\) \(with Greeicy\)](https://open.spotify.com/album/3HI2xAgLyGEw4w66lmwUQk) | 2:51 |
-| 41 | [Contigo](https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 2:51 |
+| 40 | [Contigo](https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 2:51 |
+| 41 | [I Love You \(432 Hz\) \(with Greeicy\)](https://open.spotify.com/track/1ICUVPtaZlWQ45aQCtmW2y) | [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [I Love You \(432 Hz\) \(with Greeicy\)](https://open.spotify.com/album/3HI2xAgLyGEw4w66lmwUQk) | 2:51 |
 | 42 | [Si Superamos Esta Noche](https://open.spotify.com/track/6bzOf2vhI5j3KAnOtDhd8X) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 2:52 |
 | 43 | [Tal vez](https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:09 |
-| 44 | [Error](https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Error](https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u) | 3:29 |
-| 45 | [Ganas](https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:36 |
+| 44 | [Ganas](https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:36 |
+| 45 | [Error](https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Error](https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u) | 3:29 |
 | 46 | [Antídoto](https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Antídoto](https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd) | 3:26 |
 | 47 | [De a poco](https://open.spotify.com/track/2mgtIhE33xF9llZ49xoqck) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:58 |
-| 48 | [Jacuzzi](https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Jacuzzi](https://open.spotify.com/album/6hourrBLixE67puzTocZUh) | 3:04 |
-| 49 | [A Mí No](https://open.spotify.com/track/5UJ0ekAw8exus0fvaUWSZ8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:09 |
+| 48 | [A Mí No](https://open.spotify.com/track/5UJ0ekAw8exus0fvaUWSZ8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:09 |
+| 49 | [Jacuzzi](https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Jacuzzi](https://open.spotify.com/album/6hourrBLixE67puzTocZUh) | 3:04 |
 | 50 | [Domingo \(Reykon, Cosculluela, Greeicy & Rauw Alejandro\) \- Remix](https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Domingo \(Reykon, Cosculluela, Greeicy & Rauw Alejandro\) \[Remix\]](https://open.spotify.com/album/3hqnnuMqi7Q5CTWLHnnnVD) | 4:12 |
 | 51 | [I Try For You](https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:16 |
 | 52 | [Si te hubiera](https://open.spotify.com/track/5d7IxEBgNeHsJaR3IO4DQV) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 1:42 |
 
-Snapshot ID: `Z2dWgAAAAADhEFIzXQGUNIxOKVU4eWjH`
+Snapshot ID: `Z2ioAAAAAADyY+eOxsxxOLbT9bxL8F4o`

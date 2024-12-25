@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 321800,
       "name": "Sign",
       "url": "https://open.spotify.com/track/5ZLkGLEYYDlgcDXK6A2vYO"
@@ -3224,6 +3224,24 @@
       "duration_ms": 172481,
       "name": "\u305a\u3063\u3068",
       "url": "https://open.spotify.com/track/1mQTJB6OXyW857irRIB2LT"
+    },
+    {
+      "album": {
+        "name": "\u305a\u3063\u3068\u524d\u304b\u3089\u541b\u306b\u604b\u3057\u3066\u308b",
+        "url": "https://open.spotify.com/album/062n4VMq8mOi5SHYHL34CX"
+      },
+      "artists": [
+        {
+          "name": "\u30b1\u30d7\u30e9",
+          "url": "https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248027,
+      "name": "\u305a\u3063\u3068\u524d\u304b\u3089\u541b\u306b\u604b\u3057\u3066\u308b",
+      "url": "https://open.spotify.com/track/3yU9LJ8C3szUxYxoXZixBJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,821 likes - 250 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,869 likes - 250 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 23 | [Better With Time](https://open.spotify.com/track/5sWZxqtE53cJshzmqV21Sk) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [4Now](https://open.spotify.com/album/7JSgKSRwtyc0gnLPyKpzF1) | 3:04 |
 | 24 | [This Black Girl](https://open.spotify.com/track/59DK3XgB4qcfwRvHVX0I0q) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [This Black Girl](https://open.spotify.com/album/09FAndoWYvZ5SMmPVMHiOG) | 4:32 |
 | 25 | [Hard to Ignore](https://open.spotify.com/track/1HyNAtoJPZ8YSF9mpeJlRq) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Hard to Ignore](https://open.spotify.com/album/4ahYLn0SikBur0bRcqFeJv) | 3:04 |
-| 26 | [T.M.B\. \(feat\. Eric Bellinger\)](https://open.spotify.com/track/2yakZEbGKCiSjRAqutstxL) | [Kenneth Paige](https://open.spotify.com/artist/6nu1nWf6YmvybE7FapCy1l), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [T.M.B\. \(feat\. Eric Bellinger\)](https://open.spotify.com/album/3wQyHTbOKaZnG38VNE8W4U) | 2:13 |
+| 26 | [T.M.B.](https://open.spotify.com/track/2yakZEbGKCiSjRAqutstxL) | [Kenneth Paige](https://open.spotify.com/artist/6nu1nWf6YmvybE7FapCy1l), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [T.M.B.](https://open.spotify.com/album/3wQyHTbOKaZnG38VNE8W4U) | 2:13 |
 | 27 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
 | 28 | [STAIN\. \(Golden Tears\)](https://open.spotify.com/track/6c5gVdxYZZFGHHxnKF44FD) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [STAIN\. \(Golden Tears\)](https://open.spotify.com/album/2DeMi7HcPgh2svwiUlMzvZ) | 4:27 |
 | 29 | [Complicated](https://open.spotify.com/track/5sHtBHGfFEp8pU2J6rcpZe) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Complicated](https://open.spotify.com/album/3IN7hgs45fy2lRxq1jfIF2) | 2:47 |

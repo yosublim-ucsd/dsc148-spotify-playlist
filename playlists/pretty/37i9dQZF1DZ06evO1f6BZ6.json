@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 118104,
+  "num_followers": 118113,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAC3uKg7qMK/4nIgiQ//PyDE",
+  "snapshot_id": "Z2ioAAAAAACBkcdJENOu1Rbr2nhxPcOT",
   "tracks": [
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Do You Like Me Now?!",
-        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "She Only Gets That Way With Me",
-      "url": "https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Walkin'",
         "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
       },
@@ -823,22 +807,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rodeo Rock And Roll Collection",
-        "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
+        "name": "How Do You Like Me Now?!",
+        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
       },
       "artists": [
-        {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
-        },
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 163666,
-      "name": "Copenhagen",
-      "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
+      "duration_ms": 150706,
+      "name": "She Only Gets That Way With Me",
+      "url": "https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Honkytonk U",
+      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
     },
     {
       "added_at": null,
@@ -875,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+        "name": "Rodeo Rock And Roll Collection",
+        "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
       },
       "artists": [
+        {
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        },
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 214920,
-      "name": "Honkytonk U",
-      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
+      "duration_ms": 163666,
+      "name": "Copenhagen",
+      "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
     },
     {
       "added_at": null,

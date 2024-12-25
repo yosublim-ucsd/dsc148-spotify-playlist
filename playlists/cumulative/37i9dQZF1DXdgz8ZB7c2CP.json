@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 211343,
       "name": "Body Heat",
       "url": "https://open.spotify.com/track/7LAbPwr8looSaWBL26pxLV"
@@ -7554,6 +7554,24 @@
       "duration_ms": 153913,
       "name": "Holoban",
       "url": "https://open.spotify.com/track/0hjJoQN4xIsUQr5tJU6mTM"
+    },
+    {
+      "album": {
+        "name": "holy ghost",
+        "url": "https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152678,
+      "name": "holy ghost",
+      "url": "https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV"
     },
     {
       "album": {

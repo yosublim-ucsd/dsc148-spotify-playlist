@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,724 likes - 139 songs - 7 hr 16 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,033,713 likes - 139 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 7 | [We Rise](https://open.spotify.com/track/7uSZPbd8DxdkmSauCKnITY) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [We Rise](https://open.spotify.com/album/1fgSS7d1R3fin79TUkhuxW) | 4:26 |
 | 8 | [we r who we r \(glitter on my eyes\)](https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz) | [pk](https://open.spotify.com/artist/2sdEBoxNYMB610EyPA0CcS) | [we r who we r \(glitter on my eyes\)](https://open.spotify.com/album/1f8xq5C1WDAbmKVAlZCQnj) | 3:31 |
 | 9 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
-| 10 | [Don't Let Me Down \(feat\. Daya\) \- Illenium Remix](https://open.spotify.com/track/15BlympuVSfZFROojEMY2M) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Don't Let Me Down \(Remixes\) \(feat\. Daya\)](https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ) | 3:38 |
+| 10 | [Don't Let Me Down \- Illenium Remix](https://open.spotify.com/track/15BlympuVSfZFROojEMY2M) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Don't Let Me Down \(Remixes\)](https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ) | 3:38 |
 | 11 | [My Name](https://open.spotify.com/track/33wXe2PIOqYZ4lI0eNRTdW) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [My Name](https://open.spotify.com/album/77ykc4hJTGuICmMOjovmXt) | 3:50 |
 | 12 | [Keep It Mello \(feat\. Omar LinX\)](https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Omar LinX](https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6) | [Joytime](https://open.spotify.com/album/6opKASPALOkPwCfHvqIS9H) | 4:03 |
 | 13 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |

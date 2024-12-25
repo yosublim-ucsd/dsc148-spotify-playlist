@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 291199,
+  "num_followers": 291227,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAB7ISmBPkUrroqbXg439TYa",
+  "snapshot_id": "Z2ioAAAAAADR8QyW0sp4D9iqhR0Vlfmc",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 197992,
-      "name": "You Ain't Ready",
-      "url": "https://open.spotify.com/track/1v0031VtKGsWfPDkKzGV3s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unleashed Beyond (Special Edition)",
         "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 232813,
       "name": "Breaking Free (feat. Lacey Sturm)",
       "url": "https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 197992,
+      "name": "You Ain't Ready",
+      "url": "https://open.spotify.com/track/1v0031VtKGsWfPDkKzGV3s"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/7oc2wH81jpU45L5H2JnThI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unleashed Beyond (Special Edition)",
         "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 229200,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awake (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/7oc2wH81jpU45L5H2JnThI"
     },
     {
       "added_at": null,

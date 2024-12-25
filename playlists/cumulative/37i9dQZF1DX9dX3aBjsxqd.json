@@ -195,6 +195,32 @@
     },
     {
       "album": {
+        "name": "Bach, JS: Cello Suite No. 6, BWV 1012: IV. Sarabande",
+        "url": "https://open.spotify.com/album/52Pxea64tzSFSBED3l02zM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Abel Selaocoe",
+          "url": "https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU"
+        },
+        {
+          "name": "Manchester Collective",
+          "url": "https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Bach, JS: Cello Suite No. 6 in D Major, BWV 1012: IV. Sarabande (Arr. Thomas for Cello & String Orchestra)",
+      "url": "https://open.spotify.com/track/35Nkur803O8nkEH5EK3xzk"
+    },
+    {
+      "album": {
         "name": "Cantabile, MS 109/Op. 17 (Arr. for Cello and Guitar)",
         "url": "https://open.spotify.com/album/6L7xIHRkidZRM3mVCFhSct"
       },
@@ -1881,6 +1907,32 @@
     },
     {
       "album": {
+        "name": "Schumann",
+        "url": "https://open.spotify.com/album/6hcMLKpFnZoEgUpZ2ZhqI5"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "Myrten, Op. 25: No. 1, Widmung (Transcr. Soltani for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1H9NHR1msgb9qUqxJLNnw7"
+    },
+    {
+      "album": {
         "name": "Cello Adagios",
         "url": "https://open.spotify.com/album/54yVFnQPOXihCOaufZBImk"
       },
@@ -2431,6 +2483,36 @@
     },
     {
       "album": {
+        "name": "Rococo",
+        "url": "https://open.spotify.com/album/6sRM5rPMc3O9eYlzRa1PcD"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Edgar Moreau",
+          "url": "https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0"
+        },
+        {
+          "name": "Michael Sanderling",
+          "url": "https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ"
+        },
+        {
+          "name": "Luzerner Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547746,
+      "name": "Rachmaninoff: 14 Romances, Op. 34: No. 14, Vocalise (Version for Cello and Orchestra)",
+      "url": "https://open.spotify.com/track/6XCEiUN3LU8P62o83hUF5x"
+    },
+    {
+      "album": {
         "name": "The Ayoub Sisters",
         "url": "https://open.spotify.com/album/6xgX0nIL4jNuHCaAJTVgPZ"
       },
@@ -2738,6 +2820,32 @@
       "duration_ms": 190080,
       "name": "Sicilienne (Arr. by S\u00f6llscher)",
       "url": "https://open.spotify.com/track/1AGU38ju2r3eEdVKyOGxWY"
+    },
+    {
+      "album": {
+        "name": "Sicilienne, Op. 78",
+        "url": "https://open.spotify.com/album/52UFY4THcVp1PTPLFaUYt2"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219186,
+      "name": "Sicilienne, Op. 78",
+      "url": "https://open.spotify.com/track/63WAGVk3YHoFIV4WXhtiJD"
     },
     {
       "album": {
@@ -3406,7 +3514,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 359266,
       "name": "Vocalise, Op 34, No. 14",
       "url": "https://open.spotify.com/track/0NbzmSCxQ5ShO8KxfB8osi"

@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 360033,
+  "num_followers": 360015,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "B\u00e6rum Bitches (Mannschaft)",
-        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te og Rare Gutter",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "B\u00e6rum Bitches (Mannschaft)",
-      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 205880,
       "name": "ALARMA!",
       "url": "https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "B\u00e6rum Bitches (Mannschaft)",
+        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "B\u00e6rum Bitches (Mannschaft)",
+      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Vill du ligga med mig?",
         "url": "https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 142017,
       "name": "Vill du ligga med mig?",
       "url": "https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
       "added_at": "2024-06-13 22:00:00",

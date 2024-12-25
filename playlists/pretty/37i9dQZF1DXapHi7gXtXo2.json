@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 88148,
+  "num_followers": 88152,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Ojitos de Md (Remix)",
+        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 170192,
+      "name": "Ojitos de Md - Remix",
+      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "El Tesoro - Picnic En el Piso Doce",
         "url": "https://open.spotify.com/album/5ChGm7ffNc5DUPp9qjLhDj"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 242911,
       "name": "El Tesoro - Picnic En el Piso Doce",
       "url": "https://open.spotify.com/track/32MBMGvoLp04yGrHnkNEh4"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Ojitos de Md (Remix)",
-        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Ojitos de Md - Remix",
-      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+      "duration_ms": 161617,
+      "name": "Ni\u00f1o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
         "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Ni\u00f1o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 182782,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "CURSI",
+        "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "CURSI",
+      "url": "https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "CURSI",
-        "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
         }
       ],
-      "duration_ms": 181813,
-      "name": "CURSI",
-      "url": "https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK"
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "El Rio",
+        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 134884,
+      "name": "El Rio",
+      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 119443,
       "name": "El Problema \u96e3\u984c",
       "url": "https://open.spotify.com/track/7yL28cV1mfIB9679CzGVdd"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "El Rio",
-        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 134884,
-      "name": "El Rio",
-      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     }
   ],
   "unique_name": "Radio Indie",

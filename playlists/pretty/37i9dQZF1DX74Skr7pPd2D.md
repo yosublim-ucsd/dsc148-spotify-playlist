@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,360 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,366 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 60 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
 | 61 | [The Barbara Song](https://open.spotify.com/track/1mnhCmPsFNpUxJWKE5J20M) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Individualism Of Gil Evans](https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms) | 9:59 |
 | 62 | [BR Blues](https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 3:09 |
-| 63 | [Gettin' To It](https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:30 |
-| 64 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:06 |
+| 63 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:06 |
+| 64 | [Gettin' To It](https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:30 |
 | 65 | [Brother? Can You Spare A Dime?](https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [You Gotta Pay The Band](https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP) | 6:45 |
 | 66 | [The Nearness Of You](https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Pleasures Of The Night](https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP) | 7:19 |
 | 67 | [Willow Weep For Me](https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Lonely One](https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL) | 4:40 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 70 | [You Need To Rock](https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 5:51 |
 | 71 | [Brian's Bounce](https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Family](https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU) | 4:56 |
 | 72 | ['S Wonderful](https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Buddy DeFranco](https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y) | [Buddy Defranco And Oscar Peterson Play George Gershwin](https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3) | 4:21 |
-| 73 | [Stars Fell On Alabama](https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:23 |
-| 74 | [Conversation With A Baby](https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Wholly Earth](https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE) | 6:37 |
+| 73 | [Conversation With A Baby](https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Wholly Earth](https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE) | 6:37 |
+| 74 | [Stars Fell On Alabama](https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:23 |
 | 75 | [I Can't Get Started](https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1) | [Dizzy Gillespie Sextet](https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 2:55 |
 | 76 | [People Get Ready](https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Goodies](https://open.spotify.com/album/2cW0MlQhy163FpGhbzKiB6) | 4:14 |
 | 77 | [Ad Lib Blues](https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 5:53 |

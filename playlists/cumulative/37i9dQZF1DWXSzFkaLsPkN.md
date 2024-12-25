@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Aditya Rikhari
 
-247 songs - 13 hr 41 min
+248 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dhal Jaun](https://open.spotify.com/track/5RMEne2PneLrQebp1oWhJJ) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Dhal Jaun](https://open.spotify.com/album/4G73BUPoSOxaNdCtH3WNEn) | 3:43 | 2024-08-30 | 2024-11-16 |
 | [Dheema Dheema](https://open.spotify.com/track/33RgO0FvvPTYHUF4blQnlZ) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR) | [Zindagi Jahaan Le Jaaye](https://open.spotify.com/album/4CQ831WVa61uapP1b2kgK8) | 4:02 | 2024-02-19 | 2024-03-28 |
 | [Dil](https://open.spotify.com/track/0AcjYkz8h6XhmASAoaHgBY) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Dil](https://open.spotify.com/album/0cbPgz6gaYyUp2eCn8WpS4) | 3:08 | 2023-05-02 | 2023-07-19 |
+| [Dil Na Lage](https://open.spotify.com/track/48gCcasMHX3AtrDO8HmHFl) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96) | [Jaana](https://open.spotify.com/album/2VNjjiOf1WNiYJcjuk88it) | 2:35 | 2024-12-20 |  |
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-16 | 2024-01-14 |
 | [Do Kadam](https://open.spotify.com/track/0GN8vE4lQHbU1Npof7bJEP) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Sujeet Anahata Thakur](https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu) | [Do Kadam](https://open.spotify.com/album/5gdlekH5mS8FdPA4jwtiu1) | 3:28 | 2024-06-11 | 2024-08-13 |
 | [Dobara](https://open.spotify.com/track/17Pq9HfBwWbqUnwJlO2boO) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Leher](https://open.spotify.com/album/0B6idJAabcGHQTdjFN2zgo) | 4:36 | 2024-07-12 | 2024-08-31 |
@@ -180,7 +181,7 @@
 | [Piya Se Mila De](https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo) | [Ujwal Nagar](https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc), [Anindo Bose](https://open.spotify.com/artist/1G2v9z0cxtBy5FMHvZB5Hr) | [Piya Se Mila De](https://open.spotify.com/album/6Kr7joSInnPV3gWBRj5xN2) | 4:26 | 2024-01-09 | 2024-02-27 |
 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 | 2023-05-02 |  |
 | [Qissa](https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Qissa](https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6) | 2:05 | 2023-08-09 | 2023-11-02 |
-| [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-15 |  |
+| [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-15 | 2024-12-25 |
 | [Raaton Mein Ojhal](https://open.spotify.com/track/2Y4JIYsQApYzzmvCWo9r2z) | [Antara Ansuna](https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq) | [Raaton Mein Ojhal](https://open.spotify.com/album/3dpOjEIxsKy5hn3DzbcEvs) | 3:50 | 2024-02-15 | 2024-06-12 |
 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 | 2023-05-02 | 2024-10-12 |
 | [Raintalk](https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Raintalk](https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi) | 3:17 | 2024-07-17 |  |

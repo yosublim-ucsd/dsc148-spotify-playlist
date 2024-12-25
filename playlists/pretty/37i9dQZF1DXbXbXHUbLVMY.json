@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28355,
+  "num_followers": 28352,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Kaja Gunnufsen",
-          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "BIPOLAR",
-      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 171948,
       "name": "E.T.A",
       "url": "https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Kaja Gunnufsen",
+          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -463,50 +463,18 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
         }
       ],
-      "duration_ms": 160106,
-      "name": "Tenke Sj\u00e6l",
-      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 154043,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+      "duration_ms": 128880,
+      "name": "NEPOBABY",
+      "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -535,18 +503,50 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
       },
       "artists": [
         {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
         }
       ],
-      "duration_ms": 128880,
-      "name": "NEPOBABY",
-      "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Tenke Sj\u00e6l",
+      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 110373,
-      "name": "Schnogodidougudugidoubudibow",
-      "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "Matrisen",
         "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 195577,
       "name": "Matrisen",
       "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 110373,
+      "name": "Schnogodidougudugidoubudibow",
+      "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "Det Regner Penger (Allez Allez)",
+        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "duration_ms": 93830,
+      "name": "Det Regner Penger (Allez Allez)",
+      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "Takket v\u00e6re livet",
         "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "I Care",
         "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "MANDANA",
-        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 123149,
-      "name": "MANDANA",
-      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
         "name": "2X SPEKTRUM FREESTYLE",
         "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 322431,
       "name": "2X SPEKTRUM FREESTYLE",
       "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "MANDANA",
+        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 123149,
+      "name": "MANDANA",
+      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
+        "name": "Veien",
+        "url": "https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1"
       },
       "artists": [
         {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
         }
       ],
-      "duration_ms": 165570,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
+      "duration_ms": 187083,
+      "name": "Veien",
+      "url": "https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1115,22 +1115,34 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "V\u00c5GA",
-        "url": "https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ"
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
       },
       "artists": [
         {
-          "name": "Awave",
-          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
-        },
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
         }
       ],
-      "duration_ms": 153053,
-      "name": "Uno Dos Tres",
-      "url": "https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi"
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1163,18 +1175,22 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+        "name": "V\u00c5GA",
+        "url": "https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Awave",
+          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
         }
       ],
-      "duration_ms": 179480,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
+      "duration_ms": 153053,
+      "name": "Uno Dos Tres",
+      "url": "https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1259,22 +1275,6 @@
       "duration_ms": 147013,
       "name": "Palmerna",
       "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "Veien",
-        "url": "https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 187083,
-      "name": "Veien",
-      "url": "https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c"
     },
     {
       "added_at": "2024-12-19 23:00:52",
@@ -1403,6 +1403,30 @@
     {
       "added_at": "2024-12-19 23:00:52",
       "album": {
+        "name": "YOUNG THUG P\u00c5 1M",
+        "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "DAN",
+          "url": "https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp"
+        }
+      ],
+      "duration_ms": 145797,
+      "name": "YOUNG THUG P\u00c5 1M",
+      "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
+    },
+    {
+      "added_at": "2024-12-19 23:00:52",
+      "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
@@ -1431,30 +1455,6 @@
       "duration_ms": 151121,
       "name": "Varig m\u00e9n",
       "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
-    },
-    {
-      "added_at": "2024-12-19 23:00:52",
-      "album": {
-        "name": "YOUNG THUG P\u00c5 1M",
-        "url": "https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        },
-        {
-          "name": "DAN",
-          "url": "https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp"
-        }
-      ],
-      "duration_ms": 145797,
-      "name": "YOUNG THUG P\u00c5 1M",
-      "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
     },
     {
       "added_at": "2024-12-19 23:00:52",

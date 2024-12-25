@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 47401,
+  "num_followers": 47405,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABhhECTqNYmqOXVw9RXop1/",
+  "snapshot_id": "Z2ioAAAAAAA2SbKO0I/YrvhNdXWKFKNt",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 55000,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/3aynUU0UifcUPzOSssR1Pk"
+      "duration_ms": 182640,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3qyuXDvMWjZLVPwbjWpGaq"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 182640,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3qyuXDvMWjZLVPwbjWpGaq"
+      "duration_ms": 55000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/3aynUU0UifcUPzOSssR1Pk"
     },
     {
       "added_at": null,

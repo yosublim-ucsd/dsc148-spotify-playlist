@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61778,
+  "num_followers": 61772,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "I'll Give You My Heartache",
-        "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
-      },
-      "artists": [
-        {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
-        }
-      ],
-      "duration_ms": 227202,
-      "name": "I'll Give You My Heartache",
-      "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
         "name": "The Great Ennui",
         "url": "https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 244866,
       "name": "Sous Le Ciel De Paris",
       "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
+        "name": "I'll Give You My Heartache",
+        "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 227202,
+      "name": "I'll Give You My Heartache",
+      "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "A Hundred Dreams from Now",
-        "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
-      },
-      "artists": [
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 294586,
       "name": "Doubts 2",
       "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
+        "name": "A Hundred Dreams from Now",
+        "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "return to casual",
-        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
-      },
-      "artists": [
-        {
-          "name": "Walter Smith III",
-          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
-        }
-      ],
-      "duration_ms": 247253,
-      "name": "Mother Stands for Comfort",
-      "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
         "name": "And Suddenly There Was Love",
         "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 267142,
       "name": "And Suddenly There Was Love",
       "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
+        "name": "return to casual",
+        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Mother Stands for Comfort",
+      "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
     },
     {
       "added_at": "2024-12-23 02:05:54",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-12-23 02:05:54",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 387733,
-      "name": "Surprises",
-      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
-    },
-    {
-      "added_at": "2024-12-23 02:05:54",
-      "album": {
         "name": "Tranquillo II",
         "url": "https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 212640,
       "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
       "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
+    },
+    {
+      "added_at": "2024-12-23 02:05:54",
+      "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 387733,
+      "name": "Surprises",
+      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
     },
     {
       "added_at": "2024-12-23 02:05:54",

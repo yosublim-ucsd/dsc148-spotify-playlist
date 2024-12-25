@@ -4,7 +4,7 @@
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-421 songs - 1 day 2 hr 54 min
+423 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All I Remember](https://open.spotify.com/track/1ePTixXXx9O4GqH0laeKQi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Eno \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs) | 3:52 | 2024-03-22 | 2024-07-30 |
 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 | 2024-08-21 | 2024-12-21 |
 | [Aloha Baby](https://open.spotify.com/track/3PdE82quKvFzUdBTd9NWyG) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paris\-Hawaï](https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B) | 6:05 | 2023-05-24 | 2024-01-12 |
-| [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-24 |  |
+| [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-24 | 2024-12-25 |
 | [Always a Stranger](https://open.spotify.com/track/4kdL2AM5Smw3eTrVeefwlz) | [Tindersticks](https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5) | [Always a Stranger](https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI) | 5:57 | 2024-09-01 | 2024-12-21 |
 | [Amanecer \(Remix\)](https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Nereidas](https://open.spotify.com/artist/3p22S9AiD01Izt8PBnGM94) | [Amanecer \(Remix\)](https://open.spotify.com/album/6ZbUkmIv5ERQf4oBE3yeR9) | 4:18 | 2023-03-15 | 2023-10-25 |
 | [Amapola](https://open.spotify.com/track/3A78WpoH8cs834OAPZbyqj) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Amapola](https://open.spotify.com/album/4mojyb6RxQOj1dVTolkccN) | 3:20 | 2024-12-23 |  |
@@ -176,6 +176,7 @@
 | [Home To Another One](https://open.spotify.com/track/2diyn0LGRfXprGer1atyMH) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:29 | 2024-07-11 | 2024-07-21 |
 | [Honey](https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:23 | 2023-02-01 | 2023-04-01 |
 | [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 | 2024-07-11 | 2024-12-21 |
+| [I Don’t Wanna](https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 3:04 | 2024-12-24 |  |
 | [I Go Meow](https://open.spotify.com/track/0ewurUrBfHTTWGlBurGUNo) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG) | [I Go Meow](https://open.spotify.com/album/0hASQvKpWjWLjpsKU7igfR) | 2:11 | 2024-05-29 | 2024-08-23 |
 | [I Play My Bass Loud](https://open.spotify.com/track/2tdLhnzLh9zknYf8bjIN93) | [Gina Birch](https://open.spotify.com/artist/6Uf8GS97rZbMv6vUFKhWft) | [I Play My Bass Loud](https://open.spotify.com/album/7DQY6bwfrs58VTGKQh4MGg) | 4:27 | 2023-01-20 | 2023-04-01 |
 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-04-14 | 2023-05-24 |
@@ -183,7 +184,7 @@
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2024-08-29 | 2024-12-21 |
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-31 | 2024-01-12 |
 | [In Love We Know Ourselves](https://open.spotify.com/track/44WuGH7v0DkjwUIcroKxl1) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Minha Vida \- Hope](https://open.spotify.com/album/1e8s9etJoiLcpjtVyTos4V) | 3:17 | 2024-12-20 |  |
-| [Indoor Sport](https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Indoor Sport](https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO) | 3:07 | 2024-10-24 |  |
+| [Indoor Sport](https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Indoor Sport](https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO) | 3:07 | 2024-10-24 | 2024-12-25 |
 | [Interstellar](https://open.spotify.com/track/65EFPZLRMqYM8VvHoTr7LE) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Interstellar](https://open.spotify.com/album/3N5KIKMpAXi8Qf9P9Gpimv) | 4:37 | 2023-11-10 | 2024-01-04 |
 | [It's In Our Hands](https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Women Against The Bomb](https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85) | 3:32 | 2023-06-02 | 2023-07-19 |
 | [Its me \( g 8 \)](https://open.spotify.com/track/2aYOhvPxurV3vVHMxKuY6a) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [LXXXVIII](https://open.spotify.com/album/4jMtRqpTc30H2oEPDbnKC4) | 5:17 | 2024-01-11 | 2024-03-06 |
@@ -305,6 +306,7 @@
 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 | 2023-06-14 | 2024-01-06 |
 | [Rapid Fire](https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Laima](https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr) | [Rapid Fire / Kaitlyn Aurelia Smith Remix](https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2) | 5:34 | 2024-12-20 |  |
 | [Ready To Ball](https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Ready To Ball](https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp) | 3:27 | 2023-03-23 | 2023-04-01 |
+| [REAL MOVE TOUCH](https://open.spotify.com/track/3PISUiCZILLzJJSp3c3GhE) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 4:11 | 2024-12-24 |  |
 | [Reeling](https://open.spotify.com/track/0Rza0707umVystLQcavtSp) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Reeling / Don't You Dare Stop](https://open.spotify.com/album/2HFVMUEIfaPQUJt5v1Jg7m) | 3:42 | 2023-06-02 | 2023-12-21 |
 | [Regresar \(Vibes4YourSoul Remix\)](https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vibes4YourSoul](https://open.spotify.com/artist/2z0Od7adlbPJRlM6pyFZZV) | [Regresar \(Vibes4YourSoul Remix\)](https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA) | 4:11 | 2023-02-28 | 2023-04-14 |
 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 | 2023-03-24 | 2023-05-18 |

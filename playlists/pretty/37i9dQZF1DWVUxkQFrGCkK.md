@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Maria Mariaaaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,255 likes - 397 songs - 1 day 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,393 likes - 397 songs - 1 day 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

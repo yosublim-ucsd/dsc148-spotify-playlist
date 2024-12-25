@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 16 | [All Summer](https://open.spotify.com/track/0RREmioXzocBQXxZOep4Rf) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 2:51 |
 | 17 | [Interlude \(Full Length\)](https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:19 |
 | 18 | [Sorry Mom](https://open.spotify.com/track/0IfDwgb4tyUyQcahEAnyeW) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:35 |
-| 19 | [Where There’s Smoke](https://open.spotify.com/track/4RPjAv4rV1xypsuBd7EiMi) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts) | 2:42 |
-| 20 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 19 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 20 | [Where There’s Smoke](https://open.spotify.com/track/4RPjAv4rV1xypsuBd7EiMi) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts) | 2:42 |
 | 21 | [Penthouse \(Healed Version\) \- Live](https://open.spotify.com/track/0CWzAubKh2XcmGVdGZfJTV) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 4:20 |
 | 22 | [One Too](https://open.spotify.com/track/7AQhTq4M6yXNX6inQC1op5) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Dallas Smith](https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B) | 3:21 |
 | 23 | [DOIN' MY BEST](https://open.spotify.com/track/2XZ2iNsKb70iobqOYqcnpw) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:37 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 65 | [Come Here Cowboy](https://open.spotify.com/track/2hBzDI176FXjOyCiNuvifG) | [Bunnie Xo](https://open.spotify.com/artist/56Dw1CLlqjQuQkBLm25hHP) | [Come Here Cowboy](https://open.spotify.com/album/4xeFm14IBvxCjYdOZutcAA) | 2:04 |
 | 66 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 
-Snapshot ID: `Abk8NgAAAAAje7AVUk4LSxIm7Cdb+x0Z`
+Snapshot ID: `AblB1gAAAABWgzDLvE7NH68sbbTBRIh0`

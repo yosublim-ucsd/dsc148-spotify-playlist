@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,515 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,683 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 46 | [Mejor Para Los 2](https://open.spotify.com/track/6pNCkJBoyHMDdLp5BQqa1i) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mejor Para Los Dos](https://open.spotify.com/album/3G8jIUQyVMtgpcm2w7gAch) | 2:38 |
 | 47 | [Gracias](https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Gracias](https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5) | 4:25 |
 | 48 | [Jimmy Neutron](https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:15 |
-| 49 | [Recuerdos Del 1](https://open.spotify.com/track/3W79DIintC1GZeDs010tLa) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 3:23 |
-| 50 | [La Super Del Barril](https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [La Super Del Barril](https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo) | 3:17 |
+| 49 | [Promesa Cumplida](https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 5:38 |
+| 50 | [Recuerdos Del 1](https://open.spotify.com/track/3W79DIintC1GZeDs010tLa) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 3:23 |
 
-Snapshot ID: `Z2dWgAAAAADJD+l1H67H8jvpOpIZzJrC`
+Snapshot ID: `Z2ioAAAAAACG/XDpv++M+nW4sCOmpL18`

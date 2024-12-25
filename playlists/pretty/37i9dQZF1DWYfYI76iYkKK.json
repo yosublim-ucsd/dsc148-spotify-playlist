@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 127810,
+  "num_followers": 127817,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-12-21 04:15:28",
       "album": {
-        "name": "\u5922\u60f3\u5bb6 The Dreamer",
-        "url": "https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD"
-      },
-      "artists": [
-        {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
-        }
-      ],
-      "duration_ms": 236343,
-      "name": "\u56de\u7559",
-      "url": "https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX"
-    },
-    {
-      "added_at": "2024-12-21 04:15:28",
-      "album": {
         "name": "Face II \u771f\u30fb\u88cf",
         "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 269990,
       "name": "\u6700\u7f8e\u7684\u907a\u61be",
       "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
+    },
+    {
+      "added_at": "2024-12-21 04:15:28",
+      "album": {
+        "name": "\u5922\u60f3\u5bb6 The Dreamer",
+        "url": "https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD"
+      },
+      "artists": [
+        {
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+        }
+      ],
+      "duration_ms": 236343,
+      "name": "\u56de\u7559",
+      "url": "https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX"
     },
     {
       "added_at": "2024-12-21 04:15:28",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-12-21 04:15:28",
       "album": {
+        "name": "Say You\u2019re Sorry",
+        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Say You\u2019re Sorry",
+      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
+    },
+    {
+      "added_at": "2024-12-21 04:15:28",
+      "album": {
         "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
         "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 300215,
       "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
       "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
-    },
-    {
-      "added_at": "2024-12-21 04:15:28",
-      "album": {
-        "name": "Say You\u2019re Sorry",
-        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
-      },
-      "artists": [
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Say You\u2019re Sorry",
-      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
     },
     {
       "added_at": "2024-12-21 04:15:28",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-12-21 04:15:28",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6yjyYKA3hVLAIMRi5rsDdk"
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
       "artists": [
         {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 233380,
-      "name": "Love You & Your Friends - Spotify Singles",
-      "url": "https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS"
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
     },
     {
       "added_at": "2024-12-21 04:15:28",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-12-21 04:15:28",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6yjyYKA3hVLAIMRi5rsDdk"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
         }
       ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+      "duration_ms": 233380,
+      "name": "Love You & Your Friends - Spotify Singles",
+      "url": "https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS"
     },
     {
       "added_at": "2024-12-21 04:15:28",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-12-21 04:15:28",
       "album": {
-        "name": "\u4e0d\u8981\u64d4\u5fc3\u6211, \u4f60\u8981\u597d\u597d\u904e",
-        "url": "https://open.spotify.com/album/6RtDQF4V1F70QWj8cfc68D"
-      },
-      "artists": [
-        {
-          "name": "Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "\u4e0d\u8981\u64d4\u5fc3\u6211, \u4f60\u8981\u597d\u597d\u904e",
-      "url": "https://open.spotify.com/track/0FJUAlDVXA9HJZz3W7dwqc"
-    },
-    {
-      "added_at": "2024-12-21 04:15:28",
-      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 310933,
       "name": "\u966a\u8457\u4f60",
       "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
+    },
+    {
+      "added_at": "2024-12-21 04:15:28",
+      "album": {
+        "name": "\u4e0d\u8981\u64d4\u5fc3\u6211, \u4f60\u8981\u597d\u597d\u904e",
+        "url": "https://open.spotify.com/album/6RtDQF4V1F70QWj8cfc68D"
+      },
+      "artists": [
+        {
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "\u4e0d\u8981\u64d4\u5fc3\u6211, \u4f60\u8981\u597d\u597d\u904e",
+      "url": "https://open.spotify.com/track/0FJUAlDVXA9HJZz3W7dwqc"
     },
     {
       "added_at": "2024-12-21 04:15:28",

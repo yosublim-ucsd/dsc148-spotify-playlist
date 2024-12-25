@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/3nT5EK7WTRbRZ5vtWg5irD.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [To Sir with Love](https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG) | [Lulú](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [To Sir With Love](https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3) | 2:46 |
+| 1 | [To Sir with Love](https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [To Sir With Love](https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3) | 2:46 |
 | 2 | [The Letter](https://open.spotify.com/track/6RJK553YhstRzyKA4mug09) | [The Box Tops](https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr) | [The Letter/Neon Rainbow](https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs) | 1:52 |
 | 3 | [Windy \(Re\-Recorded\)](https://open.spotify.com/track/5UP6vEGxMMXpNPdTiSl8oP) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [60s Classics](https://open.spotify.com/album/3w6MFLPPc56ilMeY4zwoim) | 2:42 |
 | 4 | [I'm a Believer](https://open.spotify.com/track/1CSLeVCXmetBh8IkTPMFdL) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Best of The Monkees](https://open.spotify.com/album/338yWfNJWW2SXxVfIdczUD) | 2:45 |

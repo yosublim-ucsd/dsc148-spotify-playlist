@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-165 songs - 8 hr 14 min
+166 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 |  |
 | [cause of death](https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [cause of death](https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs) | 2:28 | 2024-10-18 | 2024-12-21 |
 | [Champions](https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [Champions](https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT) | 2:32 | 2024-06-27 | 2024-09-28 |
+| [Chlorine](https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D) | [Sivilian](https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI) | [Chlorine](https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY) | 3:00 | 2024-12-20 |  |
 | [Coastline](https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV) | [Shem Thomas](https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw) | [Coastline](https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn) | 2:44 | 2024-10-03 |  |
 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 | 2024-06-27 |  |
 | [Coo Ca Choo](https://open.spotify.com/track/3zoU5ulfZ9SKSnqPwS1LCZ) | [Lovebugs](https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89) | [Coo Ca Choo](https://open.spotify.com/album/2xL4LTdktNIGrYRnYq5cHU) | 3:36 | 2024-12-20 |  |
@@ -139,7 +140,7 @@
 | [silver lining](https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [silver lining](https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5) | 3:42 | 2024-06-27 | 2024-10-04 |
 | [Since You Left Me](https://open.spotify.com/track/0UfcxYW66XV0svQw73D2nR) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Since You Left Me](https://open.spotify.com/album/2rpoWA4DCH3qCpem8aWnd3) | 2:31 | 2024-07-04 | 2024-09-07 |
 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 | 2024-10-03 |  |
-| [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 | 2024-06-27 |  |
+| [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 | 2024-06-27 | 2024-12-25 |
 | [Soft](https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Soft](https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn) | 3:03 | 2024-10-18 | 2024-12-18 |
 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 | 2024-06-27 |  |
 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 | 2024-06-27 | 2024-10-04 |

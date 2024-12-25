@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,817 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,818 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 8 | [Si exceptionnel](https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW) | [Andrée Watters](https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H) | [AW](https://open.spotify.com/album/658WdTob3JXKse2edU1PiH) | 3:49 |
 | 9 | [Feels](https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE) | [Lili Fatale](https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW) | [Lili Fatale](https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv) | 4:04 |
 | 10 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
-| 11 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
-| 12 | [Sa craque au soleil](https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Minimiser les dégâts](https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU) | 2:59 |
+| 11 | [Sa craque au soleil](https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Minimiser les dégâts](https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU) | 2:59 |
+| 12 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
 | 13 | [Mystère aérosol](https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu) | [Projet Orange](https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF) | [Projet Orange](https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM) | 3:56 |
 | 14 | [Joyeus'ment désespéré](https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA) | [La Chango Family](https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8) | [La Chango Family](https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd) | 3:26 |
 | 15 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,367 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,438 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 45 | [Bubba Jones](https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Smoke From The Chimney](https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1) | 4:26 |
 | 46 | [All Your Love \(I Miss Loving\)](https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Double Trouble](https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf) | 2:37 |
 | 47 | [Thanks, But No Thanks](https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 4:17 |
-| 48 | [A Apolitical Blues](https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X) | [Little](https://open.spotify.com/artist/3wBL2AcBIVUzzA3xXv0IKo) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 3:28 |
-| 49 | [Reconsider Baby](https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Reconsider Baby](https://open.spotify.com/album/4A8C7S4wtpKwwNVdFDnEyL) | 3:10 |
+| 48 | [Reconsider Baby](https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Reconsider Baby](https://open.spotify.com/album/4A8C7S4wtpKwwNVdFDnEyL) | 3:10 |
+| 49 | [A Apolitical Blues](https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X) | [Little](https://open.spotify.com/artist/3wBL2AcBIVUzzA3xXv0IKo) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 3:28 |
 | 50 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 |
-| 51 | [Five Long Years](https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Outta' Season](https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg) | 3:22 |
-| 52 | [Somewhere](https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Somewhere](https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9) | 3:30 |
+| 51 | [Somewhere](https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Somewhere](https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9) | 3:30 |
+| 52 | [Five Long Years](https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Outta' Season](https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg) | 3:22 |
 | 53 | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6) | 3:12 |
 | 54 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 |
 | 55 | [Don't Deal With The Devil](https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r) | [Sean Stephen](https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp) | [Shadows and Ghosts](https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa) | 3:50 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 57 | [Your Lies](https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Your Lies](https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB) | 3:13 |
 | 58 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
 | 59 | [Love on the Rocks](https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA) | 3:42 |
-| 60 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 |
-| 61 | [I Hate These Doggone Blues](https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:38 |
+| 60 | [I Hate These Doggone Blues](https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:38 |
+| 61 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 |
 | 62 | [Laundromat Blues \- Mono Mix](https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 3:08 |
 | 63 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 |
 | 64 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 97 | [Make It Rain](https://open.spotify.com/track/0P1KkEJ2Po1qsK5HfP39wo) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Make It Rain](https://open.spotify.com/album/19oYKgecHcGwzChitj9GEJ) | 6:41 |
 | 98 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 |
 | 99 | [Blues On The Bay](https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 2:47 |
-| 100 | [Mean Blues](https://open.spotify.com/track/1Q57HueU3dO9hZB5ALMlPh) | [Floyd Lee Band](https://open.spotify.com/artist/4jSXw5yTDrfBBjnlwBMVud) | [Mean Blues](https://open.spotify.com/album/3rmhmQt2WqS7rhwalTlGBS) | 4:57 |
+| 100 | [\(I'm Your\) Hoochie Coochie Man](https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1947 To 1956 \- The Chess 50th Anniversary Collection \(Reissue\)](https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f) | 2:50 |
 
 Snapshot ID: `ZlYiowAAAADN4oXt1kLs1JQwKIqODiyd`

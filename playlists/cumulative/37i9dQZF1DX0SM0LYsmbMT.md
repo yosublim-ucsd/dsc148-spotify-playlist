@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,315 songs - 6 day 20 hr 28 min
+4,316 songs - 6 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1628,6 +1628,7 @@
 | [Hoody Allen](https://open.spotify.com/track/0dADUiNsDP1Os9bYAuEL2D) | [Dabey](https://open.spotify.com/artist/5PlbCXGclhKsbKfOtuzmVM), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Hoody Allen](https://open.spotify.com/album/1osOj1I6vVQr2LUlss92Xt) | 2:34 | 2021-01-29 | 2021-05-28 |
 | [Hook Up \- Instrumental](https://open.spotify.com/track/45vkCCNZVFqxk2RThqpe1Y) | [Kuchenmann](https://open.spotify.com/artist/3t68oahCiTB0Dat0rhHVLW), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Hook Up](https://open.spotify.com/album/2pynidpCBkQFaH3XVwykzm) | 2:27 | 2020-06-05 | 2020-08-07 |
 | [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 | 2023-12-21 | 2024-02-16 |
+| [Hope](https://open.spotify.com/track/3ohEcXhu9VOX7T3yKsTrhL) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Hope](https://open.spotify.com/album/4XTJYG8rjsBdq8w3M0OdXM) | 2:03 | 2024-12-16 |  |
 | [Hope](https://open.spotify.com/track/0jXpKI2b7ZL8wCwY3IP5qA) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL) | [Hope](https://open.spotify.com/album/79ev9Q1ACQmC7c1nlcR6TI) | 2:17 | 2021-07-31 | 2021-08-27 |
 | [Hopeful](https://open.spotify.com/track/4p5yTJaQge6qsL2kuwsKih) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Hopeful](https://open.spotify.com/album/4xRrsYTwW8TrOgNfpdNarf) | 2:09 | 2024-12-16 |  |
 | [Hopeful](https://open.spotify.com/track/1QiMh9bqgpv4ePfcld40Hn) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Hopeful](https://open.spotify.com/album/3uZO3qHEya4d4hp4aqnB9S) | 2:28 | 2021-04-02 | 2021-05-14 |
@@ -4300,7 +4301,7 @@
 | [Your Love](https://open.spotify.com/track/1ehlPAd9LL7wTbA2mRNkzq) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [1973](https://open.spotify.com/album/58pBJEPnNvKwR2IrKiQiW3) | 2:18 | 2022-11-17 | 2023-03-03 |
 | [Your Love](https://open.spotify.com/track/3xom10uoqJkepRQVRuXzKM) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [1973](https://open.spotify.com/album/5I5QLxHhtAG4XZAMwrLECe) | 2:18 | 2022-03-24 | 2022-11-20 |
 | [Yucca](https://open.spotify.com/track/2l2VhcUOu7reM8FuefmYot) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Yucca](https://open.spotify.com/album/1HNrE1zGLz0WakaGj0J0ry) | 2:08 | 2021-06-05 | 2022-04-01 |
-| [Yugen](https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Yugen](https://open.spotify.com/album/3KzCaYMJFkvEtPDPbWrxhw) | 1:55 | 2022-06-23 |  |
+| [Yugen](https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Yugen](https://open.spotify.com/album/3KzCaYMJFkvEtPDPbWrxhw) | 1:55 | 2022-06-23 | 2024-12-25 |
 | [Yume](https://open.spotify.com/track/00MqUOs251nhIMylhkHr8K) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Yume](https://open.spotify.com/album/1ChtM7N6WHf5Lyq37IwszZ) | 1:41 | 2022-07-21 | 2022-09-23 |
 | [Yuna](https://open.spotify.com/track/0myPNIeqjElCgxGy1NrnJO) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [lost echoes](https://open.spotify.com/artist/4qEfsqgimyar3YYKEUQpWN) | [Yuna](https://open.spotify.com/album/0XrFcg4EQXssbvgGDtwCQZ) | 2:03 | 2023-11-23 |  |
 | [z](https://open.spotify.com/track/1eWiV1OR3IGbInORESHF66) | [Jopez](https://open.spotify.com/artist/3qooMZibvBeHw1K1hfm5vz) | [z](https://open.spotify.com/album/366KfG46QfihcMKsPnyr0U) | 2:29 | 2020-12-01 | 2021-01-04 |

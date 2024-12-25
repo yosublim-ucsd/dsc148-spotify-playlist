@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Nautilus
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 窪田 ひかり
 
-368 songs - 1 day 5 hr 30 min
+369 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 | 2022-09-06 | 2023-12-27 |
 | [Origin of the Stars](https://open.spotify.com/track/36ZtX4TSpnk8eeKi2S8vc1) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Trinfinity](https://open.spotify.com/album/3yNyw8u7ok8oLcne4vkbVf) | 6:42 | 2024-01-23 | 2024-01-31 |
 | [PARASITE SYSTEM](https://open.spotify.com/track/0ngU1XVZgsQWUc0RNytmk7) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [PARASITE SYSTEM](https://open.spotify.com/album/0HpUhq1DuTNFOTGJziaRd0) | 6:22 | 2023-08-15 | 2023-09-06 |
+| [path](https://open.spotify.com/track/0Ssnsve8Zj16FrN7ImqZhI) | [窪田ひかり](https://open.spotify.com/artist/3VY5fhcEPI6M1JrH1yFvMO) | [path](https://open.spotify.com/album/5FCmV7iPZfSYuOV5UN7SW3) | 4:19 | 2024-12-24 |  |
 | [Pathos](https://open.spotify.com/track/55kHKJPafkM9HynXY0oozI) | [川嶋哲郎](https://open.spotify.com/artist/7HYO9BWP2sgKxAF1VbCwCM), [CHAKA STRING QUARTET](https://open.spotify.com/artist/6bZSpfaWtn36aiqdRyakh2) | [A Walk in Life](https://open.spotify.com/album/66a5UKnW2qZdFmItUgReg3) | 8:05 | 2024-03-12 | 2024-07-24 |
 | [PATIO](https://open.spotify.com/track/4MMniEzwkS2fg0JcaTVsfJ) | [Satoru Shionoya](https://open.spotify.com/artist/2EgHsuNzwgFaVrPgjzHNpe) | [ARROW OF TIME](https://open.spotify.com/album/773UYnDHqToyTj9ML5lgrH) | 5:03 | 2024-02-20 | 2024-04-19 |
 | [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 | 2024-11-12 |  |
@@ -354,7 +355,7 @@
 | [宵宵雪花](https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [宵宵雪花](https://open.spotify.com/album/6JxehKWtAhIAiMWzkSpVrR) | 3:52 | 2023-01-03 | 2023-02-18 |
 | [恋の予感 \- The Handoors version](https://open.spotify.com/track/2APXmeWh7KQ1ssXVCMSKeD) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love / 恋の予感 \(The Handoors version\)](https://open.spotify.com/album/05p4lqNQFjYvjkCnUNNtnV) | 4:38 | 2023-06-06 | 2023-08-23 |
 | [愛しのバタフライ](https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [愛しのバタフライ](https://open.spotify.com/album/3bXouFomasJnoi0Rwyt3FT) | 5:24 | 2023-07-25 | 2023-07-27 |
-| [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 | 2024-03-12 |  |
+| [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 | 2024-03-12 | 2024-12-25 |
 | [愛は花、君はその種子（おもひでぽろぽろ）](https://open.spotify.com/track/18RThNYLEtcq3Kma7yeVYR) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:03 | 2024-09-17 | 2024-12-16 |
 | [懐かしき日々 \(Dear Memories\)](https://open.spotify.com/track/3svIR9AT7XEHjOuwi7fPfI) | [佐藤允彦](https://open.spotify.com/artist/3bwiUTynrQmanFXBFFqNbF), [類家心平](https://open.spotify.com/artist/2jflfJoKsw26yXhJDp2p4L), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [坂井紅介](https://open.spotify.com/artist/6pBzDUB3nApIQ3aMVCm0QP) | [懐かしき日々 \(Dear Memories\) ～ SONG FOR KEN\-SAN](https://open.spotify.com/album/0PPBVzijMpFm2T78PqrtK7) | 8:52 | 2024-01-16 | 2024-02-07 |
 | [星の海に眠る宝石箱](https://open.spotify.com/track/6cEYcSgw0cNwF5uCOgNBLU) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [星の海に眠る宝石箱](https://open.spotify.com/album/6X09lzYJoQ9C2NFiNQ2JNQ) | 3:03 | 2024-06-04 | 2024-08-14 |

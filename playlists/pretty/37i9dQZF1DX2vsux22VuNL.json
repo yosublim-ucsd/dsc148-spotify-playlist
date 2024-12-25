@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293294,
+  "num_followers": 293287,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Maria do Olho Verde",
-      "url": "https://open.spotify.com/track/6c5AQO3llPWxeAK4b3cAut"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Minha Arte",
         "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 223912,
       "name": "Minha Arte",
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Maria do Olho Verde",
+      "url": "https://open.spotify.com/track/6c5AQO3llPWxeAK4b3cAut"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Busco Romance Love Show",
-        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 175219,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/0TAmnhrPdszarSeKh2nvBy"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Teu Sorriso",
         "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 175219,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/0TAmnhrPdszarSeKh2nvBy"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "O Som do Litoral",
+        "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Lucas Baha",
+          "url": "https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v"
+        },
+        {
+          "name": "Prodbythb",
+          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
+        }
+      ],
+      "duration_ms": 174064,
+      "name": "Espa\u00e7o Aberto",
+      "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
         "url": "https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m"
       },
@@ -1103,30 +1127,6 @@
       "duration_ms": 364195,
       "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
       "url": "https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "O Som do Litoral",
-        "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
-      },
-      "artists": [
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Lucas Baha",
-          "url": "https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v"
-        },
-        {
-          "name": "Prodbythb",
-          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
-        }
-      ],
-      "duration_ms": 174064,
-      "name": "Espa\u00e7o Aberto",
-      "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "ele diz que me ama s2",
-        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Bi\u00e9",
-          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
-        },
-        {
-          "name": "Perimnobeat",
-          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "ele diz que me ama s2",
-      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Tudo Passa",
         "url": "https://open.spotify.com/album/0hZ8eIHTD4avxESiFNI89m"
       },
@@ -1535,6 +1511,30 @@
       "duration_ms": 265862,
       "name": "Tudo Passa",
       "url": "https://open.spotify.com/track/2TgLIOWRhFToItn8YhgQrw"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "ele diz que me ama s2",
+        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        },
+        {
+          "name": "Perimnobeat",
+          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "ele diz que me ama s2",
+      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
       },
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Acordo Cedo",
         "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
@@ -1751,26 +1751,6 @@
       "duration_ms": 125186,
       "name": "Acordo Cedo",
       "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "AINDA T\u00d4 NO PROCESSO",
-        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        },
-        {
-          "name": "SEST",
-          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
-        }
-      ],
-      "duration_ms": 211647,
-      "name": "AINDA T\u00d4 NO PROCESSO",
-      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1791,6 +1771,26 @@
       "duration_ms": 115763,
       "name": "Naturalmente",
       "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "AINDA T\u00d4 NO PROCESSO",
+        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        },
+        {
+          "name": "SEST",
+          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
+        }
+      ],
+      "duration_ms": 211647,
+      "name": "AINDA T\u00d4 NO PROCESSO",
+      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
     },
     {
       "added_at": "2024-12-20 03:25:46",

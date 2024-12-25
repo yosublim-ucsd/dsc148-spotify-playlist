@@ -823,6 +823,28 @@
     },
     {
       "album": {
+        "name": "Sakamoto: solari",
+        "url": "https://open.spotify.com/album/5pweojtaklLhDo7qdNVEBr"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165693,
+      "name": "Sakamoto: solari",
+      "url": "https://open.spotify.com/track/1yp9xapvzXJ6b7jin86HjO"
+    },
+    {
+      "album": {
         "name": "Edge of Tomorrow: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0OLSUkWKfruT1g96p466lP"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,385 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,420 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 52 | [Born To Be Blue](https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl) | [Beverly Kenney](https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT) | [Born To Be Blue](https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv) | 3:31 |
 | 53 | [In A Sentimental Mood](https://open.spotify.com/track/26BECFXVYWMwjDgxHLj5BI) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 4:57 |
 | 54 | [Beware My Heart](https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 5:08 |
-| 55 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
-| 56 | [After You've Gone](https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [At The End Of The Day](https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs) | 4:22 |
+| 55 | [After You've Gone](https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [At The End Of The Day](https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs) | 4:22 |
+| 56 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
 | 57 | [Autumn Leaves](https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
 | 58 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 |
 | 59 | [If I Had You](https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [All For You \(A Dedication To The Nat King Cole Trio\)](https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg) | 4:57 |

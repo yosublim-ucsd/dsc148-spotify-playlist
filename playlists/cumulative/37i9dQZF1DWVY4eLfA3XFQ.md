@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Chris Lorenzo 👽👽 50% techno, 50% house
 
-1,885 songs - 4 day 8 hr 45 min
+1,886 songs - 4 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1781,7 +1781,7 @@
 | [Virus](https://open.spotify.com/track/0jMyDN8P41tn4trFqdWXel) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Virus](https://open.spotify.com/album/3FS3baaVmYrTCRITC5uMMf) | 3:18 | 2023-02-17 | 2023-03-05 |
 | [Vogue](https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Vogue](https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz) | 3:12 | 2023-09-08 | 2024-08-10 |
 | [Voicemail](https://open.spotify.com/track/05aj6znylffDdZiwnTgCRj) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Voicemail](https://open.spotify.com/album/4M3KYXtqTM9RH9iuFXSGO5) | 2:53 | 2023-06-09 | 2023-07-02 |
-| [Voodoo](https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Voodoo](https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7) | 3:05 | 2024-09-20 |  |
+| [Voodoo](https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Voodoo](https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7) | 3:05 | 2024-09-20 | 2024-12-25 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-03-10 | 2023-08-12 |
 | [Vowlume](https://open.spotify.com/track/6wMVISAUvgKhGLDKn93S5m) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Vowlume EP](https://open.spotify.com/album/0cNvSUxNhcoKTwWIn8V9uz) | 3:17 | 2022-09-23 | 2022-10-29 |
 | [Voy](https://open.spotify.com/track/7eVAueNTldeMplUKSlOKs9) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL) | [Voy](https://open.spotify.com/album/5vBQCLIMqBMZ1zyoidUtm7) | 3:05 | 2022-11-11 | 2023-04-09 |
@@ -1861,6 +1861,7 @@
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-07-08 | 2022-10-01 |
 | [Wormhole](https://open.spotify.com/track/4IDUZtryCyknQNNa9D61Rb) | [Dillon Marinez](https://open.spotify.com/artist/1M1DknkrhbuC17RUTHcOXC) | [Wormhole](https://open.spotify.com/album/0xKStQRWOfYN8CebSyHGX1) | 5:39 | 2022-05-13 | 2022-05-28 |
 | [Worship Technology](https://open.spotify.com/track/6pRJ9VO7XB7W0CIcrOFmDy) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Skonka](https://open.spotify.com/artist/7prWNv2plXHCHWTkQa4dDM), [TheConnect](https://open.spotify.com/artist/4iHQEWytJI7gcqaNLsyLn0) | [Worship Technology](https://open.spotify.com/album/59BIcecdsJYLnQEnu0ihZ5) | 3:48 | 2024-01-12 | 2024-02-29 |
+| [Wrong Feels Right](https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy) | [Format:B](https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux) | [Wrong Feels Right](https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5) | 2:35 | 2024-11-08 |  |
 | [Wrop](https://open.spotify.com/track/5Fqu16jHDbR0fNrYkAp9LX) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Wrop](https://open.spotify.com/album/7uLfUrSKlyq6Jii0C05JaH) | 5:43 | 2023-11-17 | 2023-11-25 |
 | [WTF](https://open.spotify.com/track/7KghlrJKm7Kz67AxyITAgb) | [CVMPANILE](https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [WTF](https://open.spotify.com/album/4dwN2SEgXaagfaDfHt7Yuq) | 2:30 | 2023-07-21 | 2023-08-17 |
 | [WTF](https://open.spotify.com/track/0HfwmVJGd0kzoVXLB6g7cX) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [WTF](https://open.spotify.com/album/4Lg781foL2p5Ws6A64t8z8) | 3:35 | 2023-10-06 | 2023-12-02 |

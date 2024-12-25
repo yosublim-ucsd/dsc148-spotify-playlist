@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,528 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,615 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 45 | [Un Paro de Compas](https://open.spotify.com/track/0TeXv8uLdYvB8perDrv5ZW) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Un Paro de Compas](https://open.spotify.com/album/06uan3WECvzE09VBRJAQk7) | 3:41 |
 | 46 | [Pa' Que No Me Cuenten](https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Pa' Que No Me Cuenten](https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa) | 2:07 |
 | 47 | [Cuadra los Parientes \- En Vivo](https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:55 |
-| 48 | [Gallo Jugado](https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Gallo Jugado](https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY) | 2:53 |
-| 49 | [Nomas las Mujeres Quedan \- En Vivo](https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 |
+| 48 | [Nomas las Mujeres Quedan \- En Vivo](https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 |
+| 49 | [Gallo Jugado](https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Gallo Jugado](https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY) | 2:53 |
 | 50 | [El Dorado Fue Cobre](https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Dorado Fue Cobre](https://open.spotify.com/album/6QCg0x55bd55x6KzmSLUc4) | 3:20 |
 
-Snapshot ID: `Z2dWgAAAAACnXOZYDqo2NBPapgnzz6qU`
+Snapshot ID: `Z2ioAAAAAADNL0yaDG6Ing2FhejQynq7`

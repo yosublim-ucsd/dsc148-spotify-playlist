@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack to your girl dinner. cover: Charli XCX",
-  "num_followers": 159545,
+  "num_followers": 159674,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Peggy",
+        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "duration_ms": 159336,
+      "name": "Peggy",
+      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Peggy",
-        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
-      },
-      "artists": [
-        {
-          "name": "Ceechynaa",
-          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
-        }
-      ],
-      "duration_ms": 159336,
-      "name": "Peggy",
-      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
         "name": "Aquamarine",
         "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 162814,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -739,22 +755,6 @@
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
         "name": "cinderella's dead",
         "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "New Bottega",
-        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        },
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 188915,
-      "name": "New Bottega",
-      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
         "name": "Sweetest Pie",
         "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
+        "name": "New Bottega",
+        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "New Bottega",
+      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
     },
     {
       "added_at": "2024-12-17 13:01:13",

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat! 🔁 Pinguini Tattici Nucleari in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,428 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,470 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amaro](https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:33 |
 | 2 | [GLI SBANDATI HANNO PERSO](https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:14 |
-| 3 | [POSTO MIO](https://open.spotify.com/track/3Npk1eTTxSkRNYet4PW2yY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CASA GOSPEL](https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh) | 3:20 |
-| 4 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 |
-| 5 | [GRANDINE \(feat\. mew\)](https://open.spotify.com/track/0liQcHfCU5zKeSEdIYfGIP) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP), [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [GRANDINE \(feat\. mew\)](https://open.spotify.com/album/3GFXDDau3jmZ2RdrkJ3HTy) | 3:07 |
-| 6 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
-| 7 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 |
-| 8 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 |
+| 3 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 |
+| 4 | [GRANDINE \(feat\. mew\)](https://open.spotify.com/track/0liQcHfCU5zKeSEdIYfGIP) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP), [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [GRANDINE \(feat\. mew\)](https://open.spotify.com/album/3GFXDDau3jmZ2RdrkJ3HTy) | 3:07 |
+| 5 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
+| 6 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 |
+| 7 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 |
+| 8 | [POSTO MIO](https://open.spotify.com/track/3Npk1eTTxSkRNYet4PW2yY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CASA GOSPEL](https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh) | 3:20 |
 | 9 | [Tu sei per me](https://open.spotify.com/track/05mlLQhbyQ9CCdtIt4jHVS) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [Tu sei per me](https://open.spotify.com/album/3DLTemze01u5fUf613DTh4) | 3:18 |
 | 10 | [POSTI VUOTI](https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [POSTI VUOTI](https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC) | 3:16 |
 | 11 | [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 |
@@ -52,16 +52,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 42 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 |
 | 43 | [Solo se sbagli \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/2ihva8k3wxg1gg1kKFTq92) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [FREE LOVE](https://open.spotify.com/album/0Cq38Zz480QZY50o7XwSJS) | 3:54 |
 | 44 | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/track/51miOIJTThgonu4p9QcSVJ) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/album/3KFHE2HOL9PNuEAP9VcFOl) | 3:19 |
-| 45 | [Non è vero che sto bene](https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Non è vero che sto bene](https://open.spotify.com/album/3aMmvKIfghs4i3i0uFVzYk) | 3:40 |
-| 46 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 |
-| 47 | [PUNK LOVE STORIA](https://open.spotify.com/track/76axnsywKEligswiOVYW2M) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 |
-| 48 | [TUTTO SBAGLIATO](https://open.spotify.com/track/6pPkVfg3452NhPCMjc4XK0) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [TUTTO SBAGLIATO](https://open.spotify.com/album/5lIw3K8KT6gMkpcrm4yZez) | 2:39 |
-| 49 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 |
-| 50 | [Piccolo](https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL) | 3:03 |
+| 45 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 |
+| 46 | [PUNK LOVE STORIA](https://open.spotify.com/track/76axnsywKEligswiOVYW2M) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 |
+| 47 | [TUTTO SBAGLIATO](https://open.spotify.com/track/6pPkVfg3452NhPCMjc4XK0) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [TUTTO SBAGLIATO](https://open.spotify.com/album/5lIw3K8KT6gMkpcrm4yZez) | 2:39 |
+| 48 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 |
+| 49 | [Piccolo](https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL) | 3:03 |
+| 50 | [Non è vero che sto bene](https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Non è vero che sto bene](https://open.spotify.com/album/3aMmvKIfghs4i3i0uFVzYk) | 3:40 |
 | 51 | [oh my god](https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [oh my god](https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye) | 3:03 |
 | 52 | [Montecristo](https://open.spotify.com/track/5Mug8werT9EigkfO7dr5ld) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Montecristo](https://open.spotify.com/album/0FhHrmeDZA5RpNtxBP15hM) | 3:56 |
 | 53 | [Il morso di Tyson](https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Il morso di Tyson](https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ) | 4:00 |
 | 54 | [figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 |
 | 55 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 |
 
-Snapshot ID: `Z2SlxwAAAADdGW2tI5aC+4ayg27B9/kK`
+Snapshot ID: `Z2q3wQAAAADd8H431w9e1yvPirWIYmop`

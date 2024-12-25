@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,889 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,896 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 42 | [Switches & Dracs \(with Lil Durk feat\. EST Gee\)](https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:13 |
 | 43 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 |
 | 44 | [Least Ian Lie](https://open.spotify.com/track/2xxGU6YRlvN9yuvmW0KoJZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:46 |
-| 45 | [SUM TO HATE ON](https://open.spotify.com/track/01kWYHc8Y9Aw3byAlTjunA) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:38 |
-| 46 | [SPEAK](https://open.spotify.com/track/3kZTs4DX113J0YjNl6e6H1) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:19 |
+| 45 | [SPEAK](https://open.spotify.com/track/3kZTs4DX113J0YjNl6e6H1) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:19 |
+| 46 | [SUM TO HATE ON](https://open.spotify.com/track/01kWYHc8Y9Aw3byAlTjunA) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:38 |
 | 47 | [Ain't See It Coming \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Welcome to O'Block](https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp) | 2:43 |
 | 48 | [50/50 \(Moneybagg Yo\)](https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:08 |
 | 49 | [Type A N\*\*\*a](https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ) | [Nino Breeze](https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Type A N\*\*\*a](https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU) | 4:06 |
 | 50 | [Feel The Same Way \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5nh5iMaYliOmgrhohSNOtJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hunger Games 3](https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za) | 3:32 |
 | 51 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 |
 
-Snapshot ID: `Z2dWgAAAAACyxEoIkMMSG5Qb5zmVVLLS`
+Snapshot ID: `Z2ioAAAAAAA/nIUX1df5aEtl3IVAmZxm`

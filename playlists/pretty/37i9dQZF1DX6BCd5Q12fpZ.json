@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65604,
+  "num_followers": 65605,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Sound of Silence",
-        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
-      },
-      "artists": [
-        {
-          "name": "Dami Im",
-          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
-        }
-      ],
-      "duration_ms": 195479,
-      "name": "Sound of Silence",
-      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Rockefeller Street - Single",
         "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 192992,
       "name": "Rockefeller Street",
       "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Sound of Silence",
+        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
+      },
+      "artists": [
+        {
+          "name": "Dami Im",
+          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
+        }
+      ],
+      "duration_ms": 195479,
+      "name": "Sound of Silence",
+      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Moustache (Eurovision 2014)",
-        "url": "https://open.spotify.com/album/6AMLDrreLMmEvFYPUbBHh7"
-      },
-      "artists": [
-        {
-          "name": "Twin Twin",
-          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
-        }
-      ],
-      "duration_ms": 169181,
-      "name": "Moustache",
-      "url": "https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 264013,
       "name": "Parlez-vous francais?",
       "url": "https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Moustache (Eurovision 2014)",
+        "url": "https://open.spotify.com/album/6AMLDrreLMmEvFYPUbBHh7"
+      },
+      "artists": [
+        {
+          "name": "Twin Twin",
+          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
+        }
+      ],
+      "duration_ms": 169181,
+      "name": "Moustache",
+      "url": "https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV"
     },
     {
       "added_at": "2023-05-05 17:20:54",

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,128 songs - 11 day 6 hr 12 min
+7,129 songs - 11 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1302,6 +1302,7 @@
 | [complains](https://open.spotify.com/track/39iUre5jY5mKqi9EFFsiWw) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [complains](https://open.spotify.com/album/3oGXBiXKemBd3PW15S804X) | 1:30 | 2023-01-06 | 2023-10-20 |
 | [Complete](https://open.spotify.com/track/1iKafONIrGrPtZf5R4zXAh) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Complete](https://open.spotify.com/album/3ui55ZOYWJ4WF1UCjAGGD6) | 3:37 | 2022-10-28 | 2023-02-14 |
 | [Complicated](https://open.spotify.com/track/5KVS2foZldAiNpGt2uZvuf) | [Not Yourself](https://open.spotify.com/artist/0sGOM5G1Z48iL0YueoOmDr) | [Sessions Vol.3](https://open.spotify.com/album/5XQ8D2u9xL8Pvj6EHrE6jN) | 1:52 | 2021-07-29 | 2022-03-12 |
+| [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 | 2024-12-20 |  |
 | [con leche](https://open.spotify.com/track/5ORMaylKqIYBtAFedOVIXD) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [con leche](https://open.spotify.com/album/63NdYIgJpX3pH8mUTRucY8) | 2:58 | 2024-01-12 | 2024-04-27 |
 | [Conclusion](https://open.spotify.com/track/1e92VSkCg0HIFwyxnDCfje) | [AGM](https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg) | [Conclusion](https://open.spotify.com/album/1QHbjd2FcrvYH0R0znTDsz) | 2:05 | 2019-05-26\* | 2019-09-08 |
 | [Concrete Edges](https://open.spotify.com/track/6RMBqK1mOJvFSTgOp10d2s) | [Niebieski](https://open.spotify.com/artist/5UAuF0nlkpdqktgrW7SqaG) | [Concrete Edges](https://open.spotify.com/album/63cQVmDIpOWTCMLLYnbCmx) | 2:16 | 2021-07-29 | 2022-03-12 |
@@ -4686,7 +4687,7 @@
 | [Past Midnight](https://open.spotify.com/track/2XrxEdsGEB1S6igoZ0oZlV) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Past Midnight](https://open.spotify.com/album/6kXkkeT5hZaPXGVqqckxWd) | 2:17 | 2023-04-05 | 2023-04-12 |
 | [Past Times](https://open.spotify.com/track/6b207l48x2DXQhujXZWhPl) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Past Times](https://open.spotify.com/album/6LSZ7fHAwI80b8uwIxsq68) | 1:50 | 2023-05-23 | 2023-07-14 |
 | [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 | 2023-04-27 | 2023-09-16 |
-| [path\-not\-taken](https://open.spotify.com/track/5Wib385Q50uwRxnZ2KQRaM) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [path\-not\-taken](https://open.spotify.com/album/2BAybKwnMczwjaCagLmCv1) | 2:22 | 2024-01-05 |  |
+| [path\-not\-taken](https://open.spotify.com/track/5Wib385Q50uwRxnZ2KQRaM) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [path\-not\-taken](https://open.spotify.com/album/2BAybKwnMczwjaCagLmCv1) | 2:22 | 2024-01-05 | 2024-12-25 |
 | [pathless](https://open.spotify.com/track/2twCuhMf8cmQGMMC1Wlbde) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [pathless](https://open.spotify.com/album/2B3BIn4tvmPClpXWxczkwh) | 1:44 | 2020-08-30 | 2021-10-02 |
 | [Patience](https://open.spotify.com/track/0AVSwVpQbGNpKyJexA8Rp4) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Patience](https://open.spotify.com/album/7FI6gU3CuWU3I9gXA9gENu) | 1:30 | 2021-11-05 | 2022-06-03 |
 | [Patient Stabilized](https://open.spotify.com/track/0CK0jsUUNtHeQDJBiAzU70) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Patient Stabilized](https://open.spotify.com/album/76wOv3egSEYkYHDitky9JA) | 2:49 | 2023-01-13 | 2023-04-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 195246,
+  "num_followers": 195293,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
     },
     {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
+    },
+    {
       "added_at": "2024-03-05 06:00:54",
       "album": {
         "name": "a.s.o.",
@@ -323,22 +339,6 @@
       "duration_ms": 174893,
       "name": "Go On",
       "url": "https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh"
-    },
-    {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2024-09-18 13:52:43",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
-      "added_at": "2024-10-23 05:15:10",
-      "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
-    },
-    {
       "added_at": "2024-04-15 18:24:59",
       "album": {
         "name": "Love in Constant Spectacle",
@@ -487,6 +471,22 @@
       "duration_ms": 257226,
       "name": "Love in Constant Spectacle",
       "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
+    },
+    {
+      "added_at": "2024-10-23 05:15:10",
+      "album": {
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "added_at": "2023-01-04 00:57:30",
@@ -585,6 +585,26 @@
       "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
+      "added_at": "2024-11-12 18:12:40",
+      "album": {
+        "name": "Music for Peace and Harmony",
+        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        },
+        {
+          "name": "Keeley Forsyth",
+          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
+        }
+      ],
+      "duration_ms": 275194,
+      "name": "Billowing",
+      "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
+    },
+    {
       "added_at": "2023-10-22 04:22:10",
       "album": {
         "name": "Suono Assente",
@@ -613,26 +633,6 @@
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
     },
     {
-      "added_at": "2024-11-12 18:12:40",
-      "album": {
-        "name": "Music for Peace and Harmony",
-        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
-      },
-      "artists": [
-        {
-          "name": "Hiro Ama",
-          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
-        },
-        {
-          "name": "Keeley Forsyth",
-          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
-        }
-      ],
-      "duration_ms": 275194,
-      "name": "Billowing",
-      "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
-    },
-    {
       "added_at": "2023-10-13 15:35:55",
       "album": {
         "name": "Afternoon X",
@@ -647,6 +647,22 @@
       "duration_ms": 246466,
       "name": "Afternoon X",
       "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -671,22 +687,6 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
-      "added_at": "2024-03-22 00:00:20",
-      "album": {
-        "name": "Follow The Light",
-        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 159054,
-      "name": "Follow The Light",
-      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
-    },
-    {
       "added_at": "2023-12-20 04:44:18",
       "album": {
         "name": "Agitprop Alterna",
@@ -823,6 +807,22 @@
       "duration_ms": 314059,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
+    },
+    {
+      "added_at": "2024-03-22 00:00:20",
+      "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 159054,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -867,22 +867,6 @@
       "duration_ms": 276045,
       "name": "Sus Dog",
       "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
-    },
-    {
-      "added_at": "2024-06-13 00:32:04",
-      "album": {
-        "name": "Me Gustas Pero No Te Quiero",
-        "url": "https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd"
-      },
-      "artists": [
-        {
-          "name": "RONCO",
-          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
-        }
-      ],
-      "duration_ms": 210912,
-      "name": "Me Gustas Pero No Te Quiero",
-      "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
     },
     {
       "added_at": "2023-06-02 00:41:12",
@@ -935,6 +919,22 @@
       "duration_ms": 290026,
       "name": "Dawn blessings",
       "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
+    },
+    {
+      "added_at": "2024-06-13 00:32:04",
+      "album": {
+        "name": "Me Gustas Pero No Te Quiero",
+        "url": "https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd"
+      },
+      "artists": [
+        {
+          "name": "RONCO",
+          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
+        }
+      ],
+      "duration_ms": 210912,
+      "name": "Me Gustas Pero No Te Quiero",
+      "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
-      "added_at": "2024-07-09 04:26:27",
-      "album": {
-        "name": "Bang (Peanut Butter Wolf Remix)",
-        "url": "https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 248312,
-      "name": "Bang - Peanut Butter Wolf Remix",
-      "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
-    },
-    {
       "added_at": "2023-06-02 00:24:20",
       "album": {
         "name": "Open the Gates",
@@ -1099,6 +1083,22 @@
       "duration_ms": 159093,
       "name": "Open the Gates",
       "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
+    },
+    {
+      "added_at": "2024-07-09 04:26:27",
+      "album": {
+        "name": "Bang (Peanut Butter Wolf Remix)",
+        "url": "https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 248312,
+      "name": "Bang - Peanut Butter Wolf Remix",
+      "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
     },
     {
       "added_at": "2024-09-18 13:52:43",
@@ -1149,6 +1149,22 @@
       "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
     },
     {
+      "added_at": "2024-10-25 00:44:14",
+      "album": {
+        "name": "Modern Meta Physic",
+        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 321509,
+      "name": "Art Today",
+      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
+    },
+    {
       "added_at": "2024-07-18 21:58:08",
       "album": {
         "name": "Taste The Air (Julia Holter Mix)",
@@ -1167,22 +1183,6 @@
       "duration_ms": 203031,
       "name": "Taste The Air - Julia Holter Mix",
       "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
-    },
-    {
-      "added_at": "2024-10-25 00:44:14",
-      "album": {
-        "name": "Modern Meta Physic",
-        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 321509,
-      "name": "Art Today",
-      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
     },
     {
       "added_at": "2023-09-25 01:38:39",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
-      "added_at": "2024-10-23 05:15:10",
-      "album": {
-        "name": "Video Music",
-        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 129554,
-      "name": "Video Music",
-      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
-    },
-    {
       "added_at": "2023-08-24 03:26:17",
       "album": {
         "name": "RPG",
@@ -1381,6 +1365,22 @@
       "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
     },
     {
+      "added_at": "2023-10-23 19:41:11",
+      "album": {
+        "name": "Pearlies",
+        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
+      },
+      "artists": [
+        {
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1401,20 +1401,20 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2023-10-23 19:41:11",
+      "added_at": "2023-01-03 23:48:36",
       "album": {
-        "name": "Pearlies",
-        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
       },
       "artists": [
         {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
         }
       ],
-      "duration_ms": 215733,
-      "name": "The Presence",
-      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2023-06-07 04:10:00",
@@ -1433,20 +1433,20 @@
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
-      "added_at": "2023-01-03 23:48:36",
+      "added_at": "2024-10-23 05:15:10",
       "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+        "name": "Video Music",
+        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
       },
       "artists": [
         {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+      "duration_ms": 129554,
+      "name": "Video Music",
+      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1629,22 +1629,6 @@
       "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
     },
     {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Eleg\u00eda",
-        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
-      },
-      "artists": [
-        {
-          "name": "Siniestra Pandora",
-          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
-        }
-      ],
-      "duration_ms": 227178,
-      "name": "Pagano",
-      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
-    },
-    {
       "added_at": "2024-03-05 06:00:54",
       "album": {
         "name": "An Embroidery",
@@ -1659,6 +1643,22 @@
       "duration_ms": 249208,
       "name": "An Embroidery",
       "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Eleg\u00eda",
+        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
+      },
+      "artists": [
+        {
+          "name": "Siniestra Pandora",
+          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
+        }
+      ],
+      "duration_ms": 227178,
+      "name": "Pagano",
+      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
     },
     {
       "added_at": "2024-03-05 06:00:54",

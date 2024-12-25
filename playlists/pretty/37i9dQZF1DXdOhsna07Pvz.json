@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 84181,
+  "num_followers": 84277,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Roda de Funk",
-        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
+        "name": "Realce",
+        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
       },
       "artists": [
         {
-          "name": "Funk Como Le Gusta",
-          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 191560,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
+      "duration_ms": 284093,
+      "name": "Realce",
+      "url": "https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -971,18 +967,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Realce",
-        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
+        "name": "Roda de Funk",
+        "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Funk Como Le Gusta",
+          "url": "https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
         }
       ],
-      "duration_ms": 284093,
-      "name": "Realce",
-      "url": "https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW"
+      "duration_ms": 191560,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
+        "name": "Nem Vem Que N\u00e3o Tem",
+        "url": "https://open.spotify.com/album/2T4SgxLYyvVJxqwWGk4Pjq"
       },
       "artists": [
         {
-          "name": "Joutro Mundo",
-          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        },
+        {
+          "name": "Som Tres",
+          "url": "https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV"
         }
       ],
-      "duration_ms": 304144,
-      "name": "Nao Force",
-      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
+      "duration_ms": 152680,
+      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5G5uIDkQytLq7yOacUcjJ9"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Nem Vem Que N\u00e3o Tem",
-        "url": "https://open.spotify.com/album/2T4SgxLYyvVJxqwWGk4Pjq"
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
       "artists": [
         {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        },
-        {
-          "name": "Som Tres",
-          "url": "https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV"
+          "name": "Joutro Mundo",
+          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
         }
       ],
-      "duration_ms": 152680,
-      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5G5uIDkQytLq7yOacUcjJ9"
+      "duration_ms": 304144,
+      "name": "Nao Force",
+      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Extra",
-        "url": "https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 354813,
-      "name": "Extra",
-      "url": "https://open.spotify.com/track/3GS0CICQvKGCQcI7lNalcT"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 232937,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Extra",
+        "url": "https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 354813,
+      "name": "Extra",
+      "url": "https://open.spotify.com/track/3GS0CICQvKGCQcI7lNalcT"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Quanta Gente Veio Ver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/06JfHnCfOV97JfH5eDSXFJ"
+        "name": "Braseiro",
+        "url": "https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
         }
       ],
-      "duration_ms": 316853,
-      "name": "A Novidade - Ao Vivo",
-      "url": "https://open.spotify.com/track/3kfVaxBqV2N72sgldCr1zB"
+      "duration_ms": 233426,
+      "name": "Pelas Tabelas",
+      "url": "https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA"
     }
   ],
   "unique_name": "Baile Maravilha",

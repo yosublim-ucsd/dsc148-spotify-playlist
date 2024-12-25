@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Cabelinho, Ivete Sangalo, Tarcísio do Acordeon e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,981,068 likes - 63 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,981,469 likes - 63 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 26 | [Vida de Bebo \- Ao Vivo](https://open.spotify.com/track/64Bt3BdUdGZLH7faQoiHmB) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X) | [Vida de Bebo \(Ao Vivo\)](https://open.spotify.com/album/5zHyV1otZJWXQ03nirfFff) | 2:28 |
 | 27 | [Amor Turista \- Ao Vivo](https://open.spotify.com/track/6FAlJf7Uv5PszvSsOIubpA) | [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Amor Turista \(Ao Vivo\)](https://open.spotify.com/album/0PaGFqckTTjZ95kMidWsfE) | 2:41 |
 | 28 | [Balanço Da Lambada \- Ao Vivo](https://open.spotify.com/track/2BeoDkheGM6kIV9xr6tdiG) | [João Pedro e Fellipe](https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN) | [Balanço Da Lambada \(Ao Vivo\)](https://open.spotify.com/album/6TBZKnI6VsCicpNbw5Af8y) | 2:58 |
-| 29 | [Vaqueirinha 10/10](https://open.spotify.com/track/6UroDJNlmVNzDYi7SHogf4) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [Forró do Vaqueiro 2.0](https://open.spotify.com/album/7z5vbufprUz3wIxy7pk8RE) | 2:32 |
+| 29 | [Vaqueirinha 10 de 10](https://open.spotify.com/track/6UroDJNlmVNzDYi7SHogf4) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [Forró do Vaqueiro 2.0](https://open.spotify.com/album/7z5vbufprUz3wIxy7pk8RE) | 2:32 |
 | 30 | [Na Pegada Americana](https://open.spotify.com/track/76gsM7Y52WokYQ2P7fdZiW) | [Grandão Vaqueiro](https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH) | [Na Pegada Americana](https://open.spotify.com/album/05i8tRQxxn37If3kaYMmk1) | 2:31 |
 | 31 | [Fica \(Ao Vivo\)](https://open.spotify.com/track/1KFzFzgVnDaof3rmxzXBUM) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Retrô, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7wK7or0Oegdvq5TkQ8gLg8) | 3:15 |
 | 32 | [Debaixo de Sol ou Chuva \- Ao Vivo](https://open.spotify.com/track/4tTR7LHx2pJeiGwjraGD47) | [Thiago Aquino](https://open.spotify.com/artist/7yPoxj2lXWy7J4ixQHVubk) | [Debaixo de Sol ou Chuva \(Ao Vivo\)](https://open.spotify.com/album/04WLnXZpQ4rS5zg4fGcDWu) | 3:30 |

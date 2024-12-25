@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Elyanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,926 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,940 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 12 | [Ekhtisar](https://open.spotify.com/track/1Av47fzk2dSeJJGrcyodMN) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ekhtisar](https://open.spotify.com/album/4VsKu058hl6R9XH7ZsocV3) | 5:13 |
 | 13 | [Akhaf Admank](https://open.spotify.com/track/79VV7tQBOrBBmZRhtuCeSn) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Akhaf Admank](https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH) | 3:32 |
 | 14 | [Ya Haram Maalesh](https://open.spotify.com/track/0vgyrEuecF6Rg2w1oLT0FW) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya 7aram Ma3lesh](https://open.spotify.com/album/40nFsEEjJ6aUQwosrbyAQy) | 3:25 |
-| 15 | [Al Aalam Ant](https://open.spotify.com/track/4aUODuciPbGIodFqOmY0Gs) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Aalam Ant](https://open.spotify.com/album/2Wp5D6EUFjUmW2HNqnGJv3) | 6:42 |
+| 15 | [Al Aalam Ant](https://open.spotify.com/track/4aUODuciPbGIodFqOmY0Gs) | [Nawal](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Aalam Ant](https://open.spotify.com/album/2Wp5D6EUFjUmW2HNqnGJv3) | 6:42 |
 | 16 | [Allah Ysebak](https://open.spotify.com/track/13MbVH6RJCRDWT08j3Ke9R) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Allah Ysebak](https://open.spotify.com/album/5ow6JCJpJnOWNfJFxS7Zrl) | 4:19 |
 | 17 | [Deat Menk](https://open.spotify.com/track/5890i2V2TKXVFEJsqpCaDX) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Deat Menk](https://open.spotify.com/album/0hZgNTfbtNBOrwLQXAiKeh) | 3:56 |
 | 18 | [Tawaak Galbek](https://open.spotify.com/track/7CvVm3ZVBm5JkjncF81qf5) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Tawaak Galbek](https://open.spotify.com/album/15b9P4HH0B7iEchlgr819B) | 3:40 |

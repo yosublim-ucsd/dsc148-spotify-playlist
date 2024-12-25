@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Melons in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,135 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,133 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 2 | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/track/6qNCZ0Ysk6TD3oJ6DRqvYP) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [BISEX](https://open.spotify.com/album/58v5Q9JRtuSs8URAEO0wL1) | 2:37 |
 | 3 | [IO ODIO IL GOVERNO!](https://open.spotify.com/track/7hJNjETbz8fNswSXQizENZ) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [ASPETTANDO LA FINE DELLA GUERRA \(Strettamente\)](https://open.spotify.com/album/6JCwE35AVItM5U2SX095oO) | 4:06 |
 | 4 | [X Un Errore \(feat\. Quentin40\)](https://open.spotify.com/track/3W8kS4r8WIlaySIShUYUch) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [X Un Errore \(feat\. Quentin40\)](https://open.spotify.com/album/2CVMUoVsJkibFp2Y4fHuSZ) | 3:50 |
-| 5 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 |
-| 6 | [SOLTANTO SE](https://open.spotify.com/track/6Szjif4uGa4pPhIyFVfHVJ) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [SOLTANTO SE](https://open.spotify.com/album/59p0X0Ig5TsELzz4VvsDbn) | 2:47 |
-| 7 | [Lane Splitter](https://open.spotify.com/track/5kb4x7yrC5ZE0XBPYUnUTQ) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Cattivissimo Rap](https://open.spotify.com/album/7uxVytwhE6QNuAUbQM7c2B) | 2:17 |
-| 8 | [2 Minuti Di Notorietà](https://open.spotify.com/track/31P9lOdF02wAQBjK0Cl5lR) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [2 Minuti Di Notorietà](https://open.spotify.com/album/2WWbeTcqamn9iaOtJPKgwI) | 2:01 |
-| 9 | [L'ODIO](https://open.spotify.com/track/0j4mqZ20hc7FnMCKlGGn6Q) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [BISHA](https://open.spotify.com/album/4s1b2WEZ7veqh7QcxrQGxx) | 3:06 |
-| 10 | [COCAINA NERA](https://open.spotify.com/track/0ImelN0NRIsjaXZjUjKR0g) | [Ski & Wok](https://open.spotify.com/artist/0r1S7BCoaU5uGAgAWptbl9), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [COCAINA NERA](https://open.spotify.com/album/1hNK3knF1r9dRWp2lN2HYD) | 2:17 |
-| 11 | [Calibro](https://open.spotify.com/track/4Pd8GRxfNPqKWi2NLtvQ03) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Calibro](https://open.spotify.com/album/4KmXO8dmMzd1yXeFVE2uCZ) | 3:30 |
-| 12 | [Boxer](https://open.spotify.com/track/0Sp6AOrAlVmKRIzmQGjLS8) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Boxer](https://open.spotify.com/album/4hGlykzGH7FVDXcLp6BuqZ) | 2:20 |
-| 13 | [Sfogo](https://open.spotify.com/track/5znjqaGVtwv00NPdE9PAxI) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ), [Gransta MSV](https://open.spotify.com/artist/47TJtqEyW7NkvzWaoNWixW) | [Sfogo](https://open.spotify.com/album/4HxWs1zJywTa02l7khycBG) | 1:57 |
-| 14 | [BADMAN](https://open.spotify.com/track/0vtdvW8tXcuLHFk7sGfJZx) | [Malsho](https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811) | [BADMAN](https://open.spotify.com/album/2JBeITbHiwTPWAi5Pofqjl) | 2:12 |
+| 5 | [Lane Splitter](https://open.spotify.com/track/5kb4x7yrC5ZE0XBPYUnUTQ) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Cattivissimo Rap](https://open.spotify.com/album/7uxVytwhE6QNuAUbQM7c2B) | 2:17 |
+| 6 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 |
+| 7 | [SOLTANTO SE](https://open.spotify.com/track/6Szjif4uGa4pPhIyFVfHVJ) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [SOLTANTO SE](https://open.spotify.com/album/59p0X0Ig5TsELzz4VvsDbn) | 2:47 |
+| 8 | [L'ODIO](https://open.spotify.com/track/0j4mqZ20hc7FnMCKlGGn6Q) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [BISHA](https://open.spotify.com/album/4s1b2WEZ7veqh7QcxrQGxx) | 3:06 |
+| 9 | [BADMAN](https://open.spotify.com/track/0vtdvW8tXcuLHFk7sGfJZx) | [Malsho](https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811) | [BADMAN](https://open.spotify.com/album/2JBeITbHiwTPWAi5Pofqjl) | 2:12 |
+| 10 | [2 Minuti Di Notorietà](https://open.spotify.com/track/31P9lOdF02wAQBjK0Cl5lR) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [2 Minuti Di Notorietà](https://open.spotify.com/album/2WWbeTcqamn9iaOtJPKgwI) | 2:01 |
+| 11 | [COCAINA NERA](https://open.spotify.com/track/0ImelN0NRIsjaXZjUjKR0g) | [Ski & Wok](https://open.spotify.com/artist/0r1S7BCoaU5uGAgAWptbl9), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [COCAINA NERA](https://open.spotify.com/album/1hNK3knF1r9dRWp2lN2HYD) | 2:17 |
+| 12 | [Calibro](https://open.spotify.com/track/4Pd8GRxfNPqKWi2NLtvQ03) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Calibro](https://open.spotify.com/album/4KmXO8dmMzd1yXeFVE2uCZ) | 3:30 |
+| 13 | [Boxer](https://open.spotify.com/track/0Sp6AOrAlVmKRIzmQGjLS8) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Boxer](https://open.spotify.com/album/4hGlykzGH7FVDXcLp6BuqZ) | 2:20 |
+| 14 | [Sfogo](https://open.spotify.com/track/5znjqaGVtwv00NPdE9PAxI) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ), [Gransta MSV](https://open.spotify.com/artist/47TJtqEyW7NkvzWaoNWixW) | [Sfogo](https://open.spotify.com/album/4HxWs1zJywTa02l7khycBG) | 1:57 |
 | 15 | [POTO \(feat\. Néza\)](https://open.spotify.com/track/4gB1d7kVZamGTOy7TeBvNM) | [Boyka](https://open.spotify.com/artist/5osiBkJhu6mLTbUdjXiGbK), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [POTO \(feat\. Néza\)](https://open.spotify.com/album/0bCL2qxvq00ObrawwM8C8q) | 2:34 |
 | 16 | [COWBOY \(ndo quatteri\)](https://open.spotify.com/track/32BJl46s43KsRK7CDIi4kV) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [COWBOY \(ndo quatteri\)](https://open.spotify.com/album/1RfYXky1pe3tagLWOGCHMm) | 2:08 |
 | 17 | [FACCIAMO METÀ](https://open.spotify.com/track/38nSHtULA6wbGyyNtj6xj2) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [FACCIAMO METÀ](https://open.spotify.com/album/6n00nz7agFyF4VbENt1loo) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 74 | [TiP TAP TOE](https://open.spotify.com/track/7w7aSYmcpQcQlLWhAC07fe) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE) | [TiP TAP TOE](https://open.spotify.com/album/5LZk42GY11ZurXvPyOPrwp) | 2:17 |
 | 75 | [Cuore Cucito](https://open.spotify.com/track/4P6ht10pbEVu2gT7If6lE3) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT) | [Cuore Cucito](https://open.spotify.com/album/5d2ojB5dz1bvRLjUYmbxmv) | 2:12 |
 
-Snapshot ID: `Z2Vv/QAAAADe/l1e1pKyTe7w2xeJmnRo`
+Snapshot ID: `Z2q4fwAAAAC2D0EZMsNb0oYGpQNQ+HvL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 
 > This is The White Stripes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,292 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,305 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 15 | [St\. James Infirmary Blues](https://open.spotify.com/track/0ujFmyKkSXQnlVMBz4plMM) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:24 |
 | 16 | [Catch Hell Blues](https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:18 |
 | 17 | [Black Math](https://open.spotify.com/track/47daaR9V5NnoSo68Geb8wm) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:03 |
-| 18 | [Passive Manipulation](https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 0:35 |
-| 19 | [Little Room](https://open.spotify.com/track/1ltf1XEP18QMCMRRQtFbAl) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 0:50 |
+| 18 | [Little Room](https://open.spotify.com/track/1ltf1XEP18QMCMRRQtFbAl) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 0:50 |
+| 19 | [Passive Manipulation](https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 0:35 |
 | 20 | [You Don't Know What Love Is \(You Just Do as You're Told\)](https://open.spotify.com/track/2PVq6RRjQpycXb6yQEkHHt) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 3:54 |
 | 21 | [In The Cold, Cold Night](https://open.spotify.com/track/0U3iqYVmE62HzF50ydBd05) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 2:58 |
 | 22 | [You're Pretty Good Looking \(For a Girl\)](https://open.spotify.com/track/5OjQHOLMSzm9gkcIhtsgMO) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 1:49 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 30 | [Death Letter](https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 4:29 |
 | 31 | [Conquest](https://open.spotify.com/track/53ofSOPSvejQkQQLhpEN6X) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 2:48 |
 | 32 | [Take, Take, Take](https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 4:22 |
-| 33 | [When I Hear My Name](https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 1:54 |
+| 33 | [One More Cup of Coffee](https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:13 |
 | 34 | [Truth Doesn't Make a Noise](https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 3:14 |
 | 35 | [I'm Slowly Turning Into You](https://open.spotify.com/track/3MsWy7Is42kx8OImv41rUG) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:34 |
 | 36 | [Hand Springs](https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Hand Springs](https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa) | 2:56 |
-| 37 | [One More Cup of Coffee](https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:13 |
+| 37 | [When I Hear My Name](https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 1:54 |
 | 38 | [Good To Me](https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 2:06 |
 | 39 | [Stones In My Passway \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:40 |
 | 40 | [Lafayette Blues](https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Lafayette Blues](https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA) | 2:15 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 47 | [Ashtray Heart](https://open.spotify.com/track/3jUXDyGRhU0y4IUdtjUVMU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:45 |
 | 48 | [Lovesick \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3UKeA8QpDcYCfSSwP129Sw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 3:50 |
 
-Snapshot ID: `Z2dWgAAAAABz19HcT3vlT4wDFY+STVZx`
+Snapshot ID: `Z2ioAAAAAADyuUU20hv2bnEDro8y//6+`

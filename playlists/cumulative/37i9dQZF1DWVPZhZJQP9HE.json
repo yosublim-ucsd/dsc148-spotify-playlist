@@ -4323,6 +4323,32 @@
     },
     {
       "album": {
+        "name": "Kadhal AI",
+        "url": "https://open.spotify.com/album/5uygOxwin4fXQgKuC9jNjT"
+      },
+      "artists": [
+        {
+          "name": "Guru B",
+          "url": "https://open.spotify.com/artist/42J6TeraKObd9lXzqbH7sp"
+        },
+        {
+          "name": "Sunitha Sarathy",
+          "url": "https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B"
+        },
+        {
+          "name": "Pravin Mani",
+          "url": "https://open.spotify.com/artist/2ccgDZHHVlcOssv1y8AkOc"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212870,
+      "name": "Kadhal AI",
+      "url": "https://open.spotify.com/track/0JTvL42E0RkcFN29Sybgl5"
+    },
+    {
+      "album": {
         "name": "Kadhal Alaiye",
         "url": "https://open.spotify.com/album/1ilP7gB9SYitSuKnbcl7Du"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1303952,
+  "num_followers": 1303941,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAAJ1Wjdu4vbxQiErOLYrktb",
+  "snapshot_id": "Z2ioAAAAAACOwjDPadgH36BoF9STONPa",
   "tracks": [
     {
       "added_at": null,
@@ -362,15 +362,11 @@
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 191186,
-      "name": "A Veces (feat. Feid)",
-      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
+      "duration_ms": 213120,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/3dRfUIZFlwHB2l8pWbgQzp"
     },
     {
       "added_at": null,
@@ -434,11 +430,15 @@
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 213120,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/3dRfUIZFlwHB2l8pWbgQzp"
+      "duration_ms": 191186,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
     },
     {
       "added_at": null,

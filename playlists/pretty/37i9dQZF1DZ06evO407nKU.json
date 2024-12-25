@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50564,
+  "num_followers": 50574,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAACg038B+Htuu+g9vdfFmyD+",
+  "snapshot_id": "Z2ioAAAAAAAEwzBShKf3pVoxiqj6O5XO",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo Un Problema",
-        "url": "https://open.spotify.com/album/1l2wGXbYBOC0f6tRvrUDIf"
+        "name": "En Vivo Desde Los Mochis",
+        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
       },
       "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 183872,
-      "name": "Tengo Un Problema",
-      "url": "https://open.spotify.com/track/6KZimZRdGSWbsNwCRzue9Y"
+      "duration_ms": 303297,
+      "name": "Popurri Cumbias - En Vivo",
+      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
     },
     {
       "added_at": null,
@@ -487,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Los Mochis",
-        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
+        "name": "Tengo Un Problema",
+        "url": "https://open.spotify.com/album/1l2wGXbYBOC0f6tRvrUDIf"
       },
       "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 303297,
-      "name": "Popurri Cumbias - En Vivo",
-      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+      "duration_ms": 183872,
+      "name": "Tengo Un Problema",
+      "url": "https://open.spotify.com/track/6KZimZRdGSWbsNwCRzue9Y"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenas Vibras",
-        "url": "https://open.spotify.com/album/5lgKDYGS1i8aA4EKutIWjs"
+        "name": "Dariel Party, Vol. 1",
+        "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
       },
       "artists": [
         {
@@ -620,13 +620,13 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         },
         {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
         }
       ],
-      "duration_ms": 132843,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/6NitwyL3pVexKaktxYneNf"
+      "duration_ms": 243885,
+      "name": "Conv\u00e9nceme (En Vivo)",
+      "url": "https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dariel Party, Vol. 1",
-        "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
+        "name": "Buenas Vibras",
+        "url": "https://open.spotify.com/album/5lgKDYGS1i8aA4EKutIWjs"
       },
       "artists": [
         {
@@ -660,13 +660,13 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         },
         {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
         }
       ],
-      "duration_ms": 243885,
-      "name": "Conv\u00e9nceme (En Vivo)",
-      "url": "https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO"
+      "duration_ms": 132843,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/6NitwyL3pVexKaktxYneNf"
     },
     {
       "added_at": null,

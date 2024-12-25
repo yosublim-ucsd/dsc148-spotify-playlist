@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 79264,
+  "num_followers": 79267,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADcq0uoT2YGk39TEA8ZV8Tf",
+  "snapshot_id": "Z2ioAAAAAAACmGi5Y4n0pue6eh6BnAIe",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "All There Is",
-      "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recipe For Hate",
         "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 227506,
       "name": "Struck A Nerve",
       "url": "https://open.spotify.com/track/7KxBCQf83H3G7EwrIRU2gq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "All There Is",
+      "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
-        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 95875,
-      "name": "Along The Way",
-      "url": "https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recipe For Hate",
         "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 161546,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
+        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 95875,
+      "name": "Along The Way",
+      "url": "https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr"
     },
     {
       "added_at": null,

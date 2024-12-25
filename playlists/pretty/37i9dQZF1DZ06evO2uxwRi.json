@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 40924,
+  "num_followers": 40926,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAAFigY/VSWIqaPDfcciqpWV",
+  "snapshot_id": "Z2ioAAAAAACj3KBb70gYzZWTUadUIGD9",
   "tracks": [
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 188253,
-      "name": "This Disaster",
-      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
+      "duration_ms": 231240,
+      "name": "Failure's Not Flattering",
+      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Failure's Not Flattering",
-      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
+      "duration_ms": 188253,
+      "name": "This Disaster",
+      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
     },
     {
       "added_at": null,

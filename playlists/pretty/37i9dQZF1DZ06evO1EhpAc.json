@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9171,
+  "num_followers": 9176,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABkdBCjM9ikbeG8/QbyWtPy",
+  "snapshot_id": "Z2ioAAAAAABu/9ggmASHk+Ql+8pC9ZO6",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 340199,
+      "name": "Guap",
+      "url": "https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 185366,
       "name": "Pink Ponies",
       "url": "https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 340199,
-      "name": "Guap",
-      "url": "https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 145568,
+  "num_followers": 145594,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -91,26 +91,6 @@
     {
       "added_at": "2024-12-02 19:12:34",
       "album": {
-        "name": "M4",
-        "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "M4",
-      "url": "https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy"
-    },
-    {
-      "added_at": "2024-12-02 19:12:34",
-      "album": {
         "name": "Pecado Capital",
         "url": "https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 185310,
       "name": "Lux\u00faria",
       "url": "https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm"
+    },
+    {
+      "added_at": "2024-12-02 19:12:34",
+      "album": {
+        "name": "M4",
+        "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "M4",
+      "url": "https://open.spotify.com/track/07AQkmp456NpEnT8HR7WLy"
     },
     {
       "added_at": "2024-12-02 19:12:34",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2024-12-02 19:12:34",
       "album": {
-        "name": "O Menino do Cabelo Rosa",
-        "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
-      },
-      "artists": [
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 224491,
-      "name": "Esqueceu Seu Brinco",
-      "url": "https://open.spotify.com/track/29s3cKc0N9nS08Kc6Zv06B"
-    },
-    {
-      "added_at": "2024-12-02 19:12:34",
-      "album": {
         "name": "A Cunhada",
         "url": "https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf"
       },
@@ -1247,6 +1223,30 @@
       "duration_ms": 167937,
       "name": "A Cunhada",
       "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
+    },
+    {
+      "added_at": "2024-12-02 19:12:34",
+      "album": {
+        "name": "O Menino do Cabelo Rosa",
+        "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 224491,
+      "name": "Esqueceu Seu Brinco",
+      "url": "https://open.spotify.com/track/29s3cKc0N9nS08Kc6Zv06B"
     },
     {
       "added_at": "2024-12-02 19:12:34",

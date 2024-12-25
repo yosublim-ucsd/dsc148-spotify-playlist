@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 1950562,
+  "num_followers": 1951070,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 102813,
+      "name": "Girl With The Tattoo Enter.lewd",
+      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 247160,
       "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
       "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 102813,
-      "name": "Girl With The Tattoo Enter.lewd",
-      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "BABYDOLL",
         "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 196235,
       "name": "BABYDOLL",
       "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 153294,
-      "name": "Still Don't Know My Name",
-      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 171692,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Not Around",
-        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
-      },
-      "artists": [
-        {
-          "name": "Nova",
-          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Not Around",
-      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "East Atlanta Love Letter",
         "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 240341,
       "name": "Pretty Little Fears (feat. J. Cole)",
       "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Not Around",
+        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
+      },
+      "artists": [
+        {
+          "name": "Nova",
+          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Not Around",
+      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "FREE 6LACK",
-        "url": "https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "PRBLMS",
-      "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "close with desires (right person wrong timing)",
         "url": "https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 203144,
       "name": "close with desires (right person wrong timing)",
       "url": "https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "FREE 6LACK",
+        "url": "https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "PRBLMS",
+      "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
     },
     {
       "added_at": "2024-08-02 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a la Generación 2024 de RADAR México\. CHOCA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,123 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,137 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 59 | [Amor Perdido](https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Amor Perdido](https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1) | 3:20 |
 | 60 | [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 |
 | 61 | [Dime Ya](https://open.spotify.com/track/14jfifo7CTWMWiogwX5UK2) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [Jasiel Ayon](https://open.spotify.com/artist/0CfIdkJumeeRu6I61IIL8S) | [Dime Ya](https://open.spotify.com/album/59bw7STmN2fRL5jqvdMNuX) | 3:20 |
-| 62 | [El Brillo De Tus Ojitos](https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL) | [Dorian Guerra](https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP) | [El Brillo De Tus Ojitos](https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr) | 2:59 |
-| 63 | [Fumar Beber](https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Fumar Beber](https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw) | 3:14 |
+| 62 | [Fumar Beber](https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Fumar Beber](https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw) | 3:14 |
+| 63 | [El Brillo De Tus Ojitos](https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL) | [Dorian Guerra](https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP) | [El Brillo De Tus Ojitos](https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr) | 2:59 |
 | 64 | [Vampiro](https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Zapandú](https://open.spotify.com/album/7peyVHwdincY9AkNJv0VY0) | 4:56 |
 | 65 | [Peda Con Cupido](https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Peda Con Cupido](https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc) | 2:30 |
 | 66 | [La Favorita](https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [La Favorita](https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I) | 2:25 |

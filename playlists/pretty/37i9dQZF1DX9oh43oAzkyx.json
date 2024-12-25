@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2722343,
+  "num_followers": 2722646,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-12-06 04:00:00",
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": "2024-12-06 04:00:00",
-      "album": {
         "name": "Big Dawgs (Remix) [with A$AP Rocky]",
         "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 236666,
       "name": "Big Dawgs (Remix) [with A$AP Rocky]",
       "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
+    },
+    {
+      "added_at": "2024-12-06 04:00:00",
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": "2024-12-06 04:00:00",

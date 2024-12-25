@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,134 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,148 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 43 | [Tonight](https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Tonight \(12' Inch\)](https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y) | 4:15 |
 | 44 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
 | 45 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 |
-| 46 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
-| 47 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
+| 46 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
+| 47 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 48 | [Gay Dentists](https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 3:38 |
 | 49 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
 | 50 | [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 66 | [Beeper](https://open.spotify.com/track/0V2gjJB54qHeA3CDCMZU3N) | [The Count](https://open.spotify.com/artist/3XU5UXslhtah4HGOcZpD9O), [Sinden](https://open.spotify.com/artist/2ocxN5hH10NHQ8vNR7VkSi), [Kid Sister](https://open.spotify.com/artist/3FTzn86WmApHmwBMGVSEXE) | [Mega Mega Mega and Mega Remixes](https://open.spotify.com/album/1ntbRWmw3ELtUHcwpeU6o9) | 4:43 |
 | 67 | [To the Bobmobile](https://open.spotify.com/track/5RtHhF7VOGimztBk2NFXUx) | [Bobmo](https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq) | [Let's Go Bobmo ! \- EP](https://open.spotify.com/album/0iGyMe8t2opNPCeergmsgO) | 3:43 |
 | 68 | [Brenda](https://open.spotify.com/track/792NaHTl4bJqdxMXSdhNij) | [Pablo J](https://open.spotify.com/artist/2L4145zftGoC6kL337sTIS), [The Lobsterettes](https://open.spotify.com/artist/1r8rok8grW3DHojFnylc62) | [Dance Till Dawn](https://open.spotify.com/album/7hbbhPthcCqbv5YG6MDDm5) | 3:40 |
-| 69 | [Bongo Song](https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [Bongo Song](https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u) | 5:14 |
-| 70 | [Are You The One? \- Simian Mobile Disco Remix](https://open.spotify.com/track/1AWb20qRRJ5R2d25qcm16z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX), [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Re\-Sets](https://open.spotify.com/album/2ozdqRxqlbblhJVzCtPyaf) | 5:20 |
+| 69 | [Are You The One? \- Simian Mobile Disco Remix](https://open.spotify.com/track/1AWb20qRRJ5R2d25qcm16z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX), [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Re\-Sets](https://open.spotify.com/album/2ozdqRxqlbblhJVzCtPyaf) | 5:20 |
+| 70 | [Bongo Song](https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [Bongo Song](https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u) | 5:14 |
 | 71 | [Forever \(Van She Tech Remix\)](https://open.spotify.com/track/22OFfgww7iv1fYhSC3A8w3) | [Walter Meego](https://open.spotify.com/artist/2JfrljViGl4PxMfa3Fd6kS) | [Indie\_structable](https://open.spotify.com/album/05Xl91MDBtpibflg0EmHrg) | 4:20 |
 | 72 | [Disco Shoes \- Electrixx Mix](https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo) | [Acid Jacks](https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w) | [Disco Shoes](https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT) | 5:41 |
 | 73 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 |

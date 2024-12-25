@@ -6,8 +6,116 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAENwcEVCJS9qGxhjtahfHS+Dia8tg+",
+  "snapshot_id": "AAAERoCC67opYGmntfBrR2YxTaC1WMnC",
   "tracks": [
+    {
+      "added_at": "2024-12-24 06:35:39",
+      "album": {
+        "name": "\u4e8c\u91cd\u3089\u305b\u3093",
+        "url": "https://open.spotify.com/album/6SvkbnbGwxJeS9VGVRYJtK"
+      },
+      "artists": [
+        {
+          "name": "Hikarisyuyo",
+          "url": "https://open.spotify.com/artist/10CcaFt45OqB7FyU0VrUCT"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "\u4e8c\u91cd\u3089\u305b\u3093 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3AyC86PBRZiX0B2MlgYFC9"
+    },
+    {
+      "added_at": "2024-12-24 06:35:51",
+      "album": {
+        "name": "\u30aa\u30fc\u30d0\u30fc\u30fb\u30b6\u30fb\u30bb\u30fc\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/2CuxJEsCERcQgNnl7ib4tW"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30de\u30ae\u30b7\u30b3\u30fc\u30b8",
+          "url": "https://open.spotify.com/artist/1qHX4qNXPDGWLQKXAkxFbZ"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "\u30aa\u30fc\u30d0\u30fc\u30fb\u30b6\u30fb\u30bb\u30fc\u30e9\u30fc (feat. \u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/0X5UP7LCdjGzyB5DUBLmr3"
+    },
+    {
+      "added_at": "2024-12-24 06:36:10",
+      "album": {
+        "name": "Show The Time",
+        "url": "https://open.spotify.com/album/4pC8C18IaYkt7tRMjzB9ed"
+      },
+      "artists": [
+        {
+          "name": "\u6cb9\u6027",
+          "url": "https://open.spotify.com/artist/0AxUCpQCsjgVZaMOcsgbcj"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 159605,
+      "name": "Show The Time (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/083eoj84WTqCOyHGI232U3"
+    },
+    {
+      "added_at": "2024-12-24 06:36:39",
+      "album": {
+        "name": "\u4e5d\u9f8d\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0",
+        "url": "https://open.spotify.com/album/0wDGrWzqLisq5hZl5RRks5"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u5b88\u6587\u5b66",
+          "url": "https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 169155,
+      "name": "\u4e5d\u9f8d\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/7dwtDJQZ6iXOsQxeMNnDkc"
+    },
+    {
+      "added_at": "2024-12-24 06:36:49",
+      "album": {
+        "name": "\u30b4\u30fc\u30b4\u30fc\u30dd\u30f3\u30b3\u30c4\u30ed\u30b1\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/0A6MdrEXdnSoB5kCjX4IOb"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30b7\u30c9",
+          "url": "https://open.spotify.com/artist/7eg5X3kd4WuiLhPmufCNdI"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "\u30b4\u30fc\u30b4\u30fc\u30dd\u30f3\u30b3\u30c4\u30ed\u30b1\u30c3\u30c8 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/2WbPMuSSKtSHkdaYNnF4sI"
+    },
     {
       "added_at": "2024-12-10 07:21:39",
       "album": {
@@ -743,98 +851,6 @@
       "duration_ms": 206101,
       "name": "\u7528\u6cd5\u5bb9\u91cf\u3092\u304a\u307e\u3082\u308a\u304f\u3060\u3055\u3044 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7u7X7TrtWuH5ZqbFT9XbwC"
-    },
-    {
-      "added_at": "2024-10-08 08:05:58",
-      "album": {
-        "name": "Aqua Crystal",
-        "url": "https://open.spotify.com/album/5cBTudTFjLNaKRt9tAfMwN"
-      },
-      "artists": [
-        {
-          "name": "Twinfield",
-          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 209538,
-      "name": "\u590f\u306b\u900f\u660e (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3L4XnKcSt2r7vVUptLwQ3U"
-    },
-    {
-      "added_at": "2024-10-08 08:06:10",
-      "album": {
-        "name": "\u68d8",
-        "url": "https://open.spotify.com/album/6JyfqKwOUB8UhF4YgUjHai"
-      },
-      "artists": [
-        {
-          "name": "Otomania",
-          "url": "https://open.spotify.com/artist/5u409bNeWLTpcXnwusQdfx"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 400178,
-      "name": "\u68d8 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4X6vnZZXPJolCnj3P1ip0R"
-    },
-    {
-      "added_at": "2024-10-08 08:15:16",
-      "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/5KSCbb8pFhmMpyOdY88CYD"
-      },
-      "artists": [
-        {
-          "name": "oQ",
-          "url": "https://open.spotify.com/artist/6HtRqmL3rKEekaXCLkSgbT"
-        }
-      ],
-      "duration_ms": 190888,
-      "name": "ANIMAL (feat. \u93e1\u97f3\u30ec\u30f3)",
-      "url": "https://open.spotify.com/track/3j55hXObPaoslK2aKufh1X"
-    },
-    {
-      "added_at": "2024-10-08 08:06:35",
-      "album": {
-        "name": "Residue",
-        "url": "https://open.spotify.com/album/00TTNuR1dlaI4AplIi5X9y"
-      },
-      "artists": [
-        {
-          "name": "otetsu",
-          "url": "https://open.spotify.com/artist/6nSvLYzj4aHpB31o9fpxZQ"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "\u5e7b\u60f3\u3068\u7f85\u91dd\u76e4 (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/6btsw8Gbmr7myOAz3JZJB4"
-    },
-    {
-      "added_at": "2024-10-08 08:06:44",
-      "album": {
-        "name": "#palettemuse",
-        "url": "https://open.spotify.com/album/2moTnPfopB5bow4Eu4MfnA"
-      },
-      "artists": [
-        {
-          "name": "Capchii",
-          "url": "https://open.spotify.com/artist/6UA1sjVZZizfk3vb4TJqLQ"
-        },
-        {
-          "name": "\u590f\u8272\u82b1\u68a8",
-          "url": "https://open.spotify.com/artist/7FbEkAd1ocwATHXfNIT4fU"
-        }
-      ],
-      "duration_ms": 189789,
-      "name": "Old Fashion (feat. \u590f\u8272\u82b1\u68a8)",
-      "url": "https://open.spotify.com/track/0ZBh3WECxgP19HT9YRXm6y"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

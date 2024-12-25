@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 43 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 |
 | 44 | [crutches](https://open.spotify.com/track/2uYrwng9hHkJzUSfA2DyEq) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [last one standing](https://open.spotify.com/album/6Z9jGoHDJ1Uaw5PXK35AoV) | 2:30 |
 | 45 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
-| 46 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
-| 47 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
+| 46 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
+| 47 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
 | 48 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
 | 49 | [Music Box](https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Music Box](https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf) | 4:25 |
 | 50 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 85 | [Sophia](https://open.spotify.com/track/093KMwH96ZwZRZn2lKoX9Z) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:51 |
 | 86 | [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 |
 | 87 | [Count On Me](https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 3:16 |
-| 88 | [Over the Moon](https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Over the Moon](https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef) | 4:16 |
-| 89 | [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 |
+| 88 | [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 |
+| 89 | [Over the Moon](https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Over the Moon](https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef) | 4:16 |
 | 90 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
 | 91 | [You Look Like You Can't Swim](https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [You Look Like You Can't Swim](https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n) | 2:48 |
 | 92 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 95 | [Funeral \(feat\. James Bay\)](https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Funeral \(feat\. James Bay\)](https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr) | 2:34 |
 | 96 | [forever friend](https://open.spotify.com/track/2zuY0M2PM6VCrJaQWBwkzm) | [Palmer](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [forever friend](https://open.spotify.com/album/1rS9qKqnMhytpjPHoiRMux) | 3:11 |
 | 97 | [Louise](https://open.spotify.com/track/0fdYaOG3Dp8t6fhW5Cel84) | [Big Brutus](https://open.spotify.com/artist/4RmuiXslqkcgFa0oZ1epVi) | [The Odd Willow](https://open.spotify.com/album/6beLTdJjPsKEWYVQJGHXB6) | 4:04 |
-| 98 | [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 |
-| 99 | [id pick up flowers](https://open.spotify.com/track/09WQVlwnpbyw2krszInbkN) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [id pick up flowers](https://open.spotify.com/album/0cSvl50AIv3lXZc2pJb2pe) | 3:47 |
+| 98 | [id pick up flowers](https://open.spotify.com/track/09WQVlwnpbyw2krszInbkN) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [id pick up flowers](https://open.spotify.com/album/0cSvl50AIv3lXZc2pJb2pe) | 3:47 |
+| 99 | [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 |
 | 100 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 
 Snapshot ID: `Z2BvKQAAAAAEB+pFkGg1MCacTW+O7oHz`

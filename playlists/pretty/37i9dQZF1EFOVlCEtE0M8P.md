@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217 likes - 238 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218 likes - 238 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 37 | [Doing Better](https://open.spotify.com/track/1k7jAhbUihs1zx3rbhWgj0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:33 |
 | 38 | [Can I Get Your Number](https://open.spotify.com/track/6jrjTqvniDSdk0jQPrdPIu) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:20 |
 | 39 | [Great Escape](https://open.spotify.com/track/0yApo58nPL6UVpkWfc01j8) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI \(Martina Stoessel\) \[Deluxe Edition\]](https://open.spotify.com/album/2pFtQ4nD1Dq1ESF4w7wk3Q) | 4:07 |
-| 40 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
-| 41 | [GOLD](https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9) | 3:07 |
+| 40 | [GOLD](https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9) | 3:07 |
+| 41 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
 | 42 | [Cry](https://open.spotify.com/track/3xtdJnI5fEMtNB6nDqvwyy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:35 |
 | 43 | [Forever Tonight](https://open.spotify.com/track/4v8YZd1fBv9nSmq4fFPn8h) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:38 |
 | 44 | [White Eyes](https://open.spotify.com/track/4oRWA9Hp9V6etd3WtlX1f4) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/1NAmvOOfwFLfOFmpX7Suh8) | 4:13 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 62 | [Revolution \- EP Version](https://open.spotify.com/track/71jr6tYkIteQX0PuR7cbUe) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Galantis EP](https://open.spotify.com/album/2MhV8VxLYe6jSC6Z14MxfW) | 3:49 |
 | 63 | [Fighter](https://open.spotify.com/track/2rCp1guc98g6pxqWELfh2b) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:41 |
 | 64 | [Bones](https://open.spotify.com/track/3aAmODvCT7Mf2c94zMOCGN) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 4:00 |
-| 65 | [good for it](https://open.spotify.com/track/3uJnrjozwZjtElWVYkwX41) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:54 |
-| 66 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
+| 65 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
+| 66 | [good for it](https://open.spotify.com/track/3uJnrjozwZjtElWVYkwX41) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:54 |
 | 67 | [Joyride](https://open.spotify.com/track/73pkKcumGPXXdLaBWvdRzW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 3:04 |
 | 68 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 |
 | 69 | [The Heart That I'm Hearing \- EP Version](https://open.spotify.com/track/6oivtl7UDICrq4KeZMCJGS) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Galantis EP](https://open.spotify.com/album/2MhV8VxLYe6jSC6Z14MxfW) | 3:35 |
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 214 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 |
 | 215 | [Change Shape](https://open.spotify.com/track/1yACHR8xRXry3MlbjVKY0E) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Flying Machines](https://open.spotify.com/album/1OsnCpUBHZO95dN9vOefuz) | 3:41 |
 | 216 | [After the Party Ends](https://open.spotify.com/track/2wI5fUOIy8CBbyCmggzPWR) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Lemoncholy](https://open.spotify.com/album/13g4jcDiWCFYH8KbFDnyW4) | 3:10 |
-| 217 | [Summer](https://open.spotify.com/track/7yngj1TR9pugGvRRkSwym8) | [Brandon Skeie](https://open.spotify.com/artist/2sOt97Yq2UX8ff4Eo8ff18) | [Summer](https://open.spotify.com/album/3g63iBBXiMx2QpkCsRGXyw) | 2:28 |
-| 218 | [Where Do You Wanna Go?](https://open.spotify.com/track/2KwGv6hVjzJWng0NrWn7I9) | [Fantastically Great Women](https://open.spotify.com/artist/2lI6OvhOdgOtTxFjQy7KFE), [Renée Lamb](https://open.spotify.com/artist/3nl3Ok4MCLC1gZhmi2OGBs), [Jade Kennedy](https://open.spotify.com/artist/2YCruzLCWtvJpweNckjR96), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Fantastically Great Women Who Changed The World \(Studio Cast Recording\)](https://open.spotify.com/album/2jGOKOM3XjP9Lq3T1SEUag) | 4:26 |
+| 217 | [Where Do You Wanna Go?](https://open.spotify.com/track/2KwGv6hVjzJWng0NrWn7I9) | [Fantastically Great Women](https://open.spotify.com/artist/2lI6OvhOdgOtTxFjQy7KFE), [Renée Lamb](https://open.spotify.com/artist/3nl3Ok4MCLC1gZhmi2OGBs), [Jade Kennedy](https://open.spotify.com/artist/2YCruzLCWtvJpweNckjR96), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Fantastically Great Women Who Changed The World \(Studio Cast Recording\)](https://open.spotify.com/album/2jGOKOM3XjP9Lq3T1SEUag) | 4:26 |
+| 218 | [Summer](https://open.spotify.com/track/7yngj1TR9pugGvRRkSwym8) | [Brandon Skeie](https://open.spotify.com/artist/2sOt97Yq2UX8ff4Eo8ff18) | [Summer](https://open.spotify.com/album/3g63iBBXiMx2QpkCsRGXyw) | 2:28 |
 | 219 | [Against The Time](https://open.spotify.com/track/6p2LimQV9g83taNMnafoxX) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 4:10 |
 | 220 | [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 |
 | 221 | [Last First Kiss](https://open.spotify.com/track/2BkTfuyjLkLn9uA45nRu5H) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Forever](https://open.spotify.com/album/3XZSdDA1pUrZaDpK1QSjgq) | 3:14 |
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 237 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 238 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `Abk8NgAAAAARKhN8OAW7gXf+sbQ5zfBc`
+Snapshot ID: `AblB1gAAAACYF0eejeUZ4HPnf6DdvMNI`

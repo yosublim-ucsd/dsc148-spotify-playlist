@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1047560,
+  "num_followers": 1047822,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABRfrZitsFhwnh/Fe04AyUV",
+  "snapshot_id": "Z2ioAAAAAAA6JtL4AXXitR1LeS8g+QW0",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlet 2 CLAUDE",
-        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 152653,
-      "name": "URRRGE!!!!!!!!!! (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dick (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/5gH9EDMWWiLEplNCLb1r7l"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 175238,
       "name": "Dick (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 152653,
+      "name": "URRRGE!!!!!!!!!! (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlet 2 CLAUDE",
-        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "OKLOSER",
-      "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 195573,
       "name": "Demons",
       "url": "https://open.spotify.com/track/6vb4kCEIM7zrwuHlxFbfeB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "OKLOSER",
+      "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlet 2 CLAUDE",
-        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "HEADHIGH",
-      "url": "https://open.spotify.com/track/29pWNRvG3sugJEr05GgqlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 176840,
       "name": "Gun",
       "url": "https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "HEADHIGH",
+      "url": "https://open.spotify.com/track/29pWNRvG3sugJEr05GgqlQ"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlet 2 CLAUDE",
-        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "DISRESPECTFUL",
-      "url": "https://open.spotify.com/track/7y73txStcKSdfI7smRFfIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 187400,
       "name": "Shutcho",
       "url": "https://open.spotify.com/track/4rjQxlKAIXbEqHzjrnYZ7x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "DISRESPECTFUL",
+      "url": "https://open.spotify.com/track/7y73txStcKSdfI7smRFfIE"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Go Off",
+      "url": "https://open.spotify.com/track/032UZ3KVrzII6AE9Abnj7z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 205933,
       "name": "MASC (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "Go Off",
-      "url": "https://open.spotify.com/track/032UZ3KVrzII6AE9Abnj7z"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlet 2 CLAUDE",
-        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "ACKNOWLEDGE ME",
-      "url": "https://open.spotify.com/track/2Ke8xquzK9JyPt6OPGBVTI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 235360,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/5ZyQqAgrPr0cVm0VfM69Np"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 190613,
+      "name": "ACKNOWLEDGE ME",
+      "url": "https://open.spotify.com/track/2Ke8xquzK9JyPt6OPGBVTI"
     }
   ],
   "unique_name": "This Is Doja Cat",

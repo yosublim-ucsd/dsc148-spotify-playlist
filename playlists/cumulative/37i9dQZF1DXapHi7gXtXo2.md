@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 | 2024-06-07 |  |
+| [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 | 2024-06-07 | 2024-12-25 |
 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 | 2023-12-01 | 2024-06-08 |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2023-12-01 |  |
 | [A Veces](https://open.spotify.com/track/7KKd6mLczxaz1Jjnu6ZLBh) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 2:45 | 2023-12-01 | 2024-04-19 |
@@ -40,7 +40,7 @@
 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-12-01 |  |
 | [Corazón Licántropo](https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 4:09 | 2024-07-25 |  |
 | [Cuando Estamos los Dos](https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Portales](https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd) | 3:17 | 2023-12-01 |  |
-| [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 | 2024-09-20 | 2024-12-20 |
+| [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 | 2024-09-20 |  |
 | [Cuando Quieras Llegar](https://open.spotify.com/track/0VzlIcd7HVC1VDqwx4Ry9y) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI) | 3:28 | 2023-12-01 | 2024-04-19 |
 | [CURSI](https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [CURSI](https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd) | 3:01 | 2023-12-01 |  |
 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 | 2024-06-14 |  |

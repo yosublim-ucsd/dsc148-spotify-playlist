@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,257 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,359 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 34 | [Eres Tu](https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 6:12 |
 | 35 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
 | 36 | [Atrae Mi Corazón](https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [Toma Tu Lugar](https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo) | 7:05 |
-| 37 | [Hay Poder](https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 7:04 |
-| 38 | [Gloria al Rey](https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Gloria al Rey](https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz) | 4:24 |
+| 37 | [Gloria al Rey](https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Gloria al Rey](https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz) | 4:24 |
+| 38 | [Hay Poder](https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 7:04 |
 | 39 | [Merecedor de Alabanza](https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:27 |
 | 40 | [Muerte Por Vida](https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH) | [Belen Losa](https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw) | [Muerte Por Vida](https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg) | 6:08 |
 | 41 | [Aquella Cruz](https://open.spotify.com/track/2azhse6GOi0eFATf9uQw9g) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Spanish\)](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 5:27 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 53 | [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 |
 | 54 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 |
 | 55 | [Inmenso Amor](https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:51 |
-| 56 | [El Dios Que Cambia Nombre](https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b) | [Héctor Delgado](https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [El Dios Que Cambia Nombre](https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO) | 3:39 |
-| 57 | [Encontré Mi Lugar](https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Encontré Mi Lugar](https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf) | 4:56 |
+| 56 | [Encontré Mi Lugar](https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Encontré Mi Lugar](https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf) | 4:56 |
+| 57 | [El Dios Que Cambia Nombre](https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b) | [Héctor Delgado](https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [El Dios Que Cambia Nombre](https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO) | 3:39 |
 | 58 | [Porque Él Vive](https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6) | [Rudy Pérez](https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv) | [Porque Él Vive](https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn) | 4:19 |
 | 59 | [Barra Libre](https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [Mariana Michelle](https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU) | [Barra Libre](https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ) | 3:26 |
 | 60 | [Glorioso Eres Tú](https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 4:24 |

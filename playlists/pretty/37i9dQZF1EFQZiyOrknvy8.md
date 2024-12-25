@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 93 | [Stronger](https://open.spotify.com/track/6SEewo2CNMGzl2BoD19RA6) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 3:09 |
 | 94 | [On My Mind](https://open.spotify.com/track/3yCcr891zvCOIlaadGZKuo) | [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [On My Mind](https://open.spotify.com/album/2YoQ5WtQ3MClSxDuLElMHw) | 2:50 |
 | 95 | [Jedes Mal](https://open.spotify.com/track/1RGO7qy0nZgDy5ylWfqoql) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [No Rich Parents](https://open.spotify.com/album/6JQc9QbzSBNGbI2jykffIx) | 2:36 |
-| 96 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
-| 97 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 |
+| 96 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 |
+| 97 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
 | 98 | [Dein Shirt](https://open.spotify.com/track/0JGWoliqXaxHzPdbYocc7V) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Dein Shirt](https://open.spotify.com/album/12LQ0U03tUdlIJtUzdcSsE) | 2:45 |
 | 99 | [Like A Fool](https://open.spotify.com/track/0iSVVvnXgiAcdS8tZPjZeR) | [Joana Kesenci](https://open.spotify.com/artist/4ZaUXNaebEQrSWFq4att4m) | [Like A Fool](https://open.spotify.com/album/4cIl8a2elDYzGIN8Xeje50) | 3:32 |
 | 100 | [Immer Juli](https://open.spotify.com/track/6cnTg5INasYZIP3yXridcS) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Immer Juli](https://open.spotify.com/album/2YebsTq2mKaDhJxvGW9Son) | 2:47 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 140 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 141 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `Abk8NgAAAAAxAQPu4XyprQxtrOACpKj9`
+Snapshot ID: `AblB1gAAAABixG7Qc3hnx8RgDy2IH8Tn`

@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Emis Killa",
-  "num_followers": 124135,
+  "num_followers": 124142,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-12-22 14:14:38",
       "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 203100,
-      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
-    },
-    {
-      "added_at": "2024-12-22 14:14:38",
-      "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
       },
@@ -959,22 +939,6 @@
     {
       "added_at": "2024-12-22 14:14:38",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
-    },
-    {
-      "added_at": "2024-12-22 14:14:38",
-      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -991,6 +955,42 @@
       "duration_ms": 202600,
       "name": "LEI (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
+    },
+    {
+      "added_at": "2024-12-22 14:14:38",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+    },
+    {
+      "added_at": "2024-12-22 14:14:38",
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 203100,
+      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
     },
     {
       "added_at": "2024-12-22 14:14:38",

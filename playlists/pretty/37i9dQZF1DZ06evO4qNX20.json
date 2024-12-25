@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 317036,
+  "num_followers": 317195,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAACKmsGEk86guMbYCFP6N6mm",
+  "snapshot_id": "Z2ioAAAAAABH4lYDlBJtbXREg8Y/Hnp6",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pela Vacas",
-        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 160473,
-      "name": "Juli\u00e1n Del Real",
-      "url": "https://open.spotify.com/track/2DLUM884fJVwsb5uaZ4QBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros \u00c9xitos de Colecci\u00f3n!",
         "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 190706,
       "name": "Las Uvas",
       "url": "https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pela Vacas",
+        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 160473,
+      "name": "Juli\u00e1n Del Real",
+      "url": "https://open.spotify.com/track/2DLUM884fJVwsb5uaZ4QBe"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pela Vacas",
-        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 189939,
-      "name": "Dinast\u00eda De Los Ochoa",
-      "url": "https://open.spotify.com/track/6GgeIf39nDpOnyQg8MNUue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 \u00c9xitos Con El Inolvidable",
         "url": "https://open.spotify.com/album/6AJUpJae80XvlVI2Mrrlsb"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 213507,
       "name": "Nieves De Enero (A Dueto Con Chalino S\u00e1nchez)",
       "url": "https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pela Vacas",
+        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 189939,
+      "name": "Dinast\u00eda De Los Ochoa",
+      "url": "https://open.spotify.com/track/6GgeIf39nDpOnyQg8MNUue"
     },
     {
       "added_at": null,

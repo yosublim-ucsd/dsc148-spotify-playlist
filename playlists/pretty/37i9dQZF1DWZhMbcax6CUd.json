@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 64425,
+  "num_followers": 64440,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,30 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
+        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        }
+      ],
+      "duration_ms": 51506,
+      "name": "Ravel: Valses nobles et sentimentales, M. 61: No. 6, Vif",
+      "url": "https://open.spotify.com/track/6KIjIDrwYJNmctIiftBpNS"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
         "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
       },
@@ -387,30 +411,6 @@
       "duration_ms": 208133,
       "name": "Mother Goose: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/5tvyeqj6MRZkL2rprxqpVn"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
-        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        }
-      ],
-      "duration_ms": 51506,
-      "name": "Ravel: Valses nobles et sentimentales, M. 61: No. 6, Vif",
-      "url": "https://open.spotify.com/track/6KIjIDrwYJNmctIiftBpNS"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -559,6 +559,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
+        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Ivo Pogorelich",
+          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
         "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 593000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: I. Asie",
       "url": "https://open.spotify.com/track/6vohiiyefE8oiG9KnN73P2"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
-        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Ivo Pogorelich",
-          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -731,46 +731,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Satie Debussy Ravel : La Nouvelle Vague",
-        "url": "https://open.spotify.com/album/3xdfvOQqWxpxGuzYZWGPsS"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "duration_ms": 110333,
-      "name": "Menuet sur le nom de Haydn",
-      "url": "https://open.spotify.com/track/01iLEjyIRCmZ1Dr17kUhZ7"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: String Quartet; Violin Sonata; Piano Trio",
-        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Beaux Arts Trio",
-          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Piano Trio in A minor, M. 67: 4. Final (Anim\u00e9)",
-      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel/Shostakovich: Piano Trios",
         "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
       },
@@ -791,6 +751,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Satie Debussy Ravel : La Nouvelle Vague",
+        "url": "https://open.spotify.com/album/3xdfvOQqWxpxGuzYZWGPsS"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "duration_ms": 110333,
+      "name": "Menuet sur le nom de Haydn",
+      "url": "https://open.spotify.com/track/01iLEjyIRCmZ1Dr17kUhZ7"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel and Shostakovich: Piano Trios",
         "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 475146,
       "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
       "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: String Quartet; Violin Sonata; Piano Trio",
+        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Beaux Arts Trio",
+          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Piano Trio in A minor, M. 67: 4. Final (Anim\u00e9)",
+      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -975,6 +975,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel: Int\u00e9grale de l'\u0153uvre pour piano",
+        "url": "https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "S\u00e9r\u00e9nade Grotesque, M. 5",
+      "url": "https://open.spotify.com/track/0Fyohy2Xo5Q5Zii9hN7bms"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Mikko Franck Plays Ravel",
         "url": "https://open.spotify.com/album/6c3oGoxumzF4FILKCMwWUy"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 149693,
       "name": "L'enfant et les sortil\u00e8ges, M. 71, Tab. I: \"J'ai pas envie de faire ma page\" (L'enfant)",
       "url": "https://open.spotify.com/track/2SN7i9WR8xdfgzWioHMfFK"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: Int\u00e9grale de l'\u0153uvre pour piano",
-        "url": "https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "S\u00e9r\u00e9nade Grotesque, M. 5",
-      "url": "https://open.spotify.com/track/0Fyohy2Xo5Q5Zii9hN7bms"
     },
     {
       "added_at": "2022-06-27 09:54:23",

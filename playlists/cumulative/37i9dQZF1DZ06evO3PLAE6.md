@@ -4,13 +4,13 @@
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 31 min
+77 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Bit Lonesome](https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:59 | 2023-06-17 |  |
 | [A Love Like Springsteen](https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:40 | 2024-10-07 |  |
-| [A New Day Has Come](https://open.spotify.com/track/5OKOAdVF5dI77baGK4U4H6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 5:22 | 2024-11-29 |  |
+| [A New Day Has Come](https://open.spotify.com/track/5OKOAdVF5dI77baGK4U4H6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 5:22 | 2024-11-29 | 2024-12-25 |
 | [Adam and Eve](https://open.spotify.com/track/2zqvygijtFwaeOtiohdu81) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 3:05 | 2023-06-17 | 2024-10-08 |
 | [Ain't No Little Girl](https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 4:17 | 2023-06-17 |  |
 | [Arlo](https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:25 | 2024-10-07 | 2024-12-24 |
@@ -28,7 +28,7 @@
 | [Dart n Feather](https://open.spotify.com/track/2TNR9F58sNXu11tVezcnGh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 4:42 | 2024-10-07 | 2024-10-28 |
 | [Devil On Your Back](https://open.spotify.com/track/0sXG3AwAmMq4IlC0A5Tupj) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:22 | 2023-12-24 | 2024-05-14 |
 | [F U Cancer](https://open.spotify.com/track/31LIWxlhD7bnCBBRk7oITh) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG), [Lyn Bowtell](https://open.spotify.com/artist/25rD775DJJ1JuBZfYYPxKK), [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH), [Wesley Dean](https://open.spotify.com/artist/4KvLfhBh83ARBAQ8Ynm5HI), [Wendy Matthews](https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm) | [F U Cancer](https://open.spotify.com/album/5ho3Zka2kZ3gDnoR8RvZcA) | 2:50 | 2023-06-17 | 2024-10-07 |
-| [For Better or Worse](https://open.spotify.com/track/70uwxVJoSk8rvFgJk4OP4Q) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 4:18 | 2024-10-08 | 2024-11-23 |
+| [For Better or Worse](https://open.spotify.com/track/70uwxVJoSk8rvFgJk4OP4Q) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 4:18 | 2024-10-08 |  |
 | [Freight Train](https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU) | 2:46 | 2024-01-27 |  |
 | [Freight Train \- Remastered / 2019](https://open.spotify.com/track/7zObzpCaTfCjxk93ITIETS) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain \(Deluxe Edition\)](https://open.spotify.com/album/4ig3Pw8bB9sPz2XeB2dsfe) | 2:43 | 2023-06-17 | 2024-01-22 |
 | [Georgia Brown](https://open.spotify.com/track/3Jwm0yvkmn8IoRVXIOsc3p) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 1:45 | 2023-06-17 | 2024-10-16 |
@@ -44,6 +44,7 @@
 | [Like A River](https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 3:56 | 2023-06-17 |  |
 | [Little Bird](https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:30 | 2023-06-17 |  |
 | [Little Red Riding Hood](https://open.spotify.com/track/1H7dK3x6NmRG7c2MyC5Wst) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 4:35 | 2024-10-11 | 2024-10-19 |
+| [Lonely](https://open.spotify.com/track/3JZ8rQYABS9jkTloBvPc5w) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [True Colours](https://open.spotify.com/album/2vlKm70T2lTLawrgDGaK7v) | 3:28 | 2024-12-25 |  |
 | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC) | 8:14 | 2023-06-17 |  |
 | [Love Like A Hurricane](https://open.spotify.com/track/4CrJxr4egNEYhniSDNITy4) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:09 | 2023-06-17 | 2024-10-07 |
 | [Luka](https://open.spotify.com/track/6JlFTEQrVMz4uVDfhVk2gk) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 3:33 | 2023-06-17 | 2023-07-16 |

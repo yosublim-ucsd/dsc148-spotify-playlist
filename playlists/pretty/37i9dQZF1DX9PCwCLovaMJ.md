@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 23 | [Veins](https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Veins](https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS) | 2:40 |
 | 24 | [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 |
 | 25 | [Show Me The Sky](https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM) | [Tommy Holohan](https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy), [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Show Me The Sky](https://open.spotify.com/album/2EnEIl36mvSSz0iMNtPawb) | 5:04 |
-| 26 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
-| 27 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 |
-| 28 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 |
-| 29 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 |
-| 30 | [Du flög iväg](https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Du flög iväg](https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM) | 2:35 |
-| 31 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
+| 26 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 |
+| 27 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
+| 28 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 |
+| 29 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 |
+| 30 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
+| 31 | [Du flög iväg](https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Du flög iväg](https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM) | 2:35 |
 | 32 | [Bättre dar](https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Bättre dar](https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo) | 2:41 |
 | 33 | [Håll om mig](https://open.spotify.com/track/1LfdHoC7x7kECo4I9CGzzT) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Håll om mig](https://open.spotify.com/album/7dFZX0d5gXDqDygckfzdNj) | 2:06 |
 | 34 | [Önskar det vore så enkelt](https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Önskar det vore så enkelt](https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8) | 2:17 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 44 | [Without Calling](https://open.spotify.com/track/65M5rwETpwZenkeSyCBgjI) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Without Calling](https://open.spotify.com/album/2seZnoNRl94w7Qfrwgwn6x) | 3:04 |
 | 45 | [Wa Nibi](https://open.spotify.com/track/7jZESJkAP1efDTqaDTJXBi) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Wa Nibi](https://open.spotify.com/album/30SFFOEsMJKrTink00To4d) | 2:34 |
 | 46 | [Nightrun](https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 4:24 |
-| 47 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
-| 48 | [Don't Wanna Be Saved](https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Don't Wanna Be Saved](https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts) | 3:00 |
+| 47 | [Don't Wanna Be Saved](https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Don't Wanna Be Saved](https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts) | 3:00 |
+| 48 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 |
 | 49 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 |
 | 50 | [Restart](https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Restart](https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL) | 2:36 |
 | 51 | [Spooky](https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg), [Denzel Himself](https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ) | [Spooky](https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS) | 2:49 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 64 | [Fiend](https://open.spotify.com/track/3FD3wtFJt1BWkWMdv8CCky) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Fiend](https://open.spotify.com/album/1cPJEqvAueKOOVHnVg5MrV) | 3:07 |
 | 65 | [Bellyaches](https://open.spotify.com/track/7byx1GmBeV3kdKmGZNdAAO) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/3ba5g3qPbEVz7nSBwEKrSY) | 2:45 |
 | 66 | [Daylight](https://open.spotify.com/track/21pV7pVxzTI0aKDaIxVhw8) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Daylight](https://open.spotify.com/album/6YRz01Ww7ByZ3E3ZcHQhY1) | 2:07 |
-| 67 | [High Heels On Oceans](https://open.spotify.com/track/3IvxVbsuOA6pbmz37Y1Yqm) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [High Heels On Oceans](https://open.spotify.com/album/0LBsyH1jNcdwz6LATVC3De) | 2:36 |
-| 68 | [Yangtze](https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Yangtze](https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2) | 3:06 |
+| 67 | [Yangtze](https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Yangtze](https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2) | 3:06 |
+| 68 | [High Heels On Oceans](https://open.spotify.com/track/3IvxVbsuOA6pbmz37Y1Yqm) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [High Heels On Oceans](https://open.spotify.com/album/0LBsyH1jNcdwz6LATVC3De) | 2:36 |
 | 69 | [Tu Mirada](https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Silk City](https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV) | 3:15 |
 | 70 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 |
 | 71 | [devoted](https://open.spotify.com/track/41tN4yZSKJeVIDXQFdvex9) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [devoted](https://open.spotify.com/album/2sGo4EvvruyJSYKQNdtC59) | 3:15 |

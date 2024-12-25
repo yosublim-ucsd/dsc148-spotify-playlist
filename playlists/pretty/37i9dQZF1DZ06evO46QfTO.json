@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 73638,
+  "num_followers": 73635,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABIhtBSKzvBGGNy0X7GmOvA",
+  "snapshot_id": "Z2ioAAAAAACO120M2nbvf6BjdfpsAnUR",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Still Show Up",
-        "url": "https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 172719,
-      "name": "People Still Show Up",
-      "url": "https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -535,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope i never fall in love",
-        "url": "https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz"
+        "name": "People Still Show Up",
+        "url": "https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4"
       },
       "artists": [
         {
@@ -544,25 +528,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 216818,
-      "name": "i hope i never fall in love",
-      "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "To Hell & Back",
-      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
+      "duration_ms": 172719,
+      "name": "People Still Show Up",
+      "url": "https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA"
     },
     {
       "added_at": null,
@@ -583,6 +551,38 @@
       "duration_ms": 208186,
       "name": "Line By Line (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "To Hell & Back",
+      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope i never fall in love",
+        "url": "https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "i hope i never fall in love",
+      "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intermission",
-        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 167253,
-      "name": "because, of course",
-      "url": "https://open.spotify.com/track/3ME0Q21e8o9ZUciGZjOAYw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dancing with Myself",
         "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 251309,
       "name": "Dancing with Myself",
       "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 167253,
+      "name": "because, of course",
+      "url": "https://open.spotify.com/track/3ME0Q21e8o9ZUciGZjOAYw"
     },
     {
       "added_at": null,

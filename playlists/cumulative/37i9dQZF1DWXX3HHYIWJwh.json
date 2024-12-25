@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -1430,6 +1430,24 @@
       "duration_ms": 210500,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/4IIqjuGiKhNqzZIQ0wONuT"
+    },
+    {
+      "album": {
+        "name": "No.\u2160 (Deluxe)",
+        "url": "https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160994,
+      "name": "HIRAKEGOMA",
+      "url": "https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ"
     },
     {
       "album": {

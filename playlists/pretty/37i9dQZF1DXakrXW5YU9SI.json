@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 334393,
+  "num_followers": 334419,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
         "name": "Wynalazek Filipa Golarza",
         "url": "https://open.spotify.com/album/3Q19KxzahiApKSwqFb1CGz"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 228000,
       "name": "Wynalazek Filipa Golarza",
       "url": "https://open.spotify.com/track/2PrnvpGByWnjgt5jEk7XqG"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -347,38 +347,6 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
-        "name": "Cats on the Ceiling",
-        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Cats on the Ceiling",
-      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
         "name": "diament",
         "url": "https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W"
       },
@@ -407,6 +375,38 @@
       "duration_ms": 190714,
       "name": "Latawce",
       "url": "https://open.spotify.com/track/4LlmrFWkS7N8b53CZdxs6J"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
+        "name": "Cats on the Ceiling",
+        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Cats on the Ceiling",
+      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
+        "name": "Ta\u0144ce na Modlinie",
+        "url": "https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf"
+      },
+      "artists": [
+        {
+          "name": "evelina ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "duration_ms": 240396,
+      "name": "Ta\u0144ce na Modlinie",
+      "url": "https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
         "name": "Dobrostan",
         "url": "https://open.spotify.com/album/7ceGAAkYLx3kIppeHjuibV"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 185063,
       "name": "Pr\u00f3ba",
       "url": "https://open.spotify.com/track/5spcXc9GLGoxb2VHhyF2zT"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
-        "name": "Ta\u0144ce na Modlinie",
-        "url": "https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf"
-      },
-      "artists": [
-        {
-          "name": "evelina ross",
-          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
-        }
-      ],
-      "duration_ms": 240396,
-      "name": "Ta\u0144ce na Modlinie",
-      "url": "https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu"
     },
     {
       "added_at": "2024-12-19 23:00:53",

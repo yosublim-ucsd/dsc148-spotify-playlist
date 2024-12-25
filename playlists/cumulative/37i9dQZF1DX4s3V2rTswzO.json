@@ -852,7 +852,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 216284,
       "name": "Fr\u00fchlingsglaube (Arr. Franz Liszt)",
       "url": "https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L"
@@ -1103,6 +1103,32 @@
     },
     {
       "album": {
+        "name": "Schumann",
+        "url": "https://open.spotify.com/album/6hcMLKpFnZoEgUpZ2ZhqI5"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "Myrten, Op. 25: No. 1, Widmung (Transcr. Soltani for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1H9NHR1msgb9qUqxJLNnw7"
+    },
+    {
+      "album": {
         "name": "French Piano and Choral Music",
         "url": "https://open.spotify.com/album/450awPFJQcqiSbgiuRyN2z"
       },
@@ -1144,6 +1170,24 @@
       "duration_ms": 268426,
       "name": "Nocturne en Mi B\u00e9mol Majeur, Op. 9 No. 2",
       "url": "https://open.spotify.com/track/7n92QzQomRCLlciO14X0kd"
+    },
+    {
+      "album": {
+        "name": "Nocturne II - After Dawn",
+        "url": "https://open.spotify.com/album/5lYT3LFBYCqSpB2YqYyUoY"
+      },
+      "artists": [
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "Nocturne II - After Dawn",
+      "url": "https://open.spotify.com/track/525ryQdhkG7si9Eyky3PGM"
     },
     {
       "album": {
@@ -2262,6 +2306,28 @@
       "duration_ms": 115946,
       "name": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude (Transcr. for Guitar)",
       "url": "https://open.spotify.com/track/79TcGoLB19MBED0O2YZLtn"
+    },
+    {
+      "album": {
+        "name": "Newman: Theme (From \"American Beauty\")",
+        "url": "https://open.spotify.com/album/2BB8KvmXDHz69BVSpFI6Pb"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231944,
+      "name": "Theme - From \"American Beauty\"",
+      "url": "https://open.spotify.com/track/0YjaC9peYewdRxCTCNd3hX"
     },
     {
       "album": {

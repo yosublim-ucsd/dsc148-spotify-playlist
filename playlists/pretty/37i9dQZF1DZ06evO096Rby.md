@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,175 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,222 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 27 | [Sentimientos De Carton \- En Vivo](https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 3:21 |
 | 28 | [Se Cansó \- En Vivo](https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Se Cansó \(En Vivo\)](https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM) | 3:14 |
 | 29 | [Soy el Pirata](https://open.spotify.com/track/4r6VsjYXzkgaxUtE0s22Cm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:54 |
-| 30 | [El Humo De Mi Gallo](https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Humo De Mi Gallo](https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN) | 2:24 |
-| 31 | [Botecitos](https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Botecitos](https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk) | 3:08 |
+| 30 | [Botecitos](https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Botecitos](https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk) | 3:08 |
+| 31 | [El Humo De Mi Gallo](https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Humo De Mi Gallo](https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN) | 2:24 |
 | 32 | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn) | 2:51 |
 | 33 | [Me Cambio la Suerte](https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Me Cambio la Suerte](https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV) | 2:51 |
 | 34 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 45 | [Ebrio De Amor](https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:31 |
 | 46 | [Alto y Piel Morena](https://open.spotify.com/track/4o6ZOfHlmVUxofni1mK6IG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 3:22 |
 | 47 | [El Barbas \(En Vivo\)](https://open.spotify.com/track/5cuWYXL7VlVhyzz8k5TfuK) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Culiacan \(En Vivo\)](https://open.spotify.com/album/0x6SrFfU6i6DPPE1Di854Z) | 3:15 |
-| 48 | [No Me Trates De Engañar](https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 2:37 |
-| 49 | [Muchachita De Ojos Tristes \- En Vivo](https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:44 |
+| 48 | [Muchachita De Ojos Tristes \- En Vivo](https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:44 |
+| 49 | [No Me Trates De Engañar](https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 2:37 |
 | 50 | [Golpe De Suerte](https://open.spotify.com/track/3fLlygEeJBcDW1kPxCAIVp) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 2:48 |
 | 51 | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Danny Morales](https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Danny De Chicali \(En Vivo\)](https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK) | 2:30 |
 
-Snapshot ID: `Z2dWgAAAAADssxXdFXbOwiijicoJV/JJ`
+Snapshot ID: `Z2ioAAAAAAD5rlUAHwAfOuDxCg5XpQxT`

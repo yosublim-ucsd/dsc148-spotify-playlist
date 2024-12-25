@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 31202,
+  "num_followers": 31248,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "Z2baUgAAAAAO0jDnRCpQHSrdkqLBWZBG",
   "tracks": [
-    {
-      "added_at": "2024-12-21 15:10:10",
-      "album": {
-        "name": "Piece of My Heart (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 259354,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
-    },
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2024-12-21 15:10:10",
+      "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
     },
     {
       "added_at": "2024-12-21 15:10:10",
@@ -663,6 +663,26 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2024-12-21 15:10:10",
+      "album": {
         "name": "It'll All Make Sense Later",
         "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
       },
@@ -699,26 +719,6 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
-        "name": "JABO",
-        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "JABO",
-      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
-    },
-    {
-      "added_at": "2024-12-21 15:10:10",
-      "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Pinterest",
-      "url": "https://open.spotify.com/track/3tBWJXPBzqYGkE8I4K7suN"
-    },
-    {
-      "added_at": "2024-12-21 15:10:10",
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 158833,
       "name": "Pier 46",
       "url": "https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO"
+    },
+    {
+      "added_at": "2024-12-21 15:10:10",
+      "album": {
+        "name": "Full Time Job",
+        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "duration_ms": 230016,
+      "name": "Pinterest",
+      "url": "https://open.spotify.com/track/3tBWJXPBzqYGkE8I4K7suN"
     },
     {
       "added_at": "2024-12-21 15:10:10",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
+        "name": "ARABAMBI",
+        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "ARABAMBI",
+      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+    },
+    {
+      "added_at": "2024-12-21 15:10:10",
+      "album": {
         "name": "Mentali",
         "url": "https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 150278,
       "name": "Mentali",
       "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
-    },
-    {
-      "added_at": "2024-12-21 15:10:10",
-      "album": {
-        "name": "ARABAMBI",
-        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "ARABAMBI",
-      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
     },
     {
       "added_at": "2024-12-21 15:10:10",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
-    },
-    {
-      "added_at": "2024-12-21 15:10:10",
-      "album": {
         "name": "Dis Kain Luv",
         "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 152565,
       "name": "Dis Kain Luv",
       "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
+    },
+    {
+      "added_at": "2024-12-21 15:10:10",
+      "album": {
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
     },
     {
       "added_at": "2024-12-21 15:10:10",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 129576,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
+    },
+    {
+      "added_at": "2024-12-21 15:10:10",
+      "album": {
         "name": "If I Dey Lie (with Crayon)",
         "url": "https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 169411,
       "name": "If I Dey Lie (with Crayon)",
       "url": "https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw"
-    },
-    {
-      "added_at": "2024-12-21 15:10:10",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 129576,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9"
     },
     {
       "added_at": "2024-12-21 15:10:10",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
-        "name": "LOVE POTION",
-        "url": "https://open.spotify.com/album/6gRcRXz1b8wjUPc1PTwYeN"
-      },
-      "artists": [
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        },
-        {
-          "name": "Falana",
-          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "LOVE POTION",
-      "url": "https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP"
-    },
-    {
-      "added_at": "2024-12-21 15:10:10",
-      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/4JELfmz4hgyPzBmkM2u3NE"
       },
@@ -1383,6 +1363,26 @@
     {
       "added_at": "2024-12-21 15:10:10",
       "album": {
+        "name": "LOVE POTION",
+        "url": "https://open.spotify.com/album/6gRcRXz1b8wjUPc1PTwYeN"
+      },
+      "artists": [
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        },
+        {
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
+        }
+      ],
+      "duration_ms": 199862,
+      "name": "LOVE POTION",
+      "url": "https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP"
+    },
+    {
+      "added_at": "2024-12-21 15:10:10",
+      "album": {
         "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
         "url": "https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab"
       },
@@ -1395,26 +1395,6 @@
       "duration_ms": 243000,
       "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
       "url": "https://open.spotify.com/track/648h77piOsFhlzniWDHqBo"
-    },
-    {
-      "added_at": "2024-12-21 15:10:10",
-      "album": {
-        "name": "What Happens After",
-        "url": "https://open.spotify.com/album/374kRLUEswPACwvirpCPG1"
-      },
-      "artists": [
-        {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh"
     },
     {
       "added_at": "2024-12-21 15:10:10",
@@ -1439,6 +1419,26 @@
       "duration_ms": 170195,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/2orP9huOYuU3PvcPTfZHh8"
+    },
+    {
+      "added_at": "2024-12-21 15:10:10",
+      "album": {
+        "name": "What Happens After",
+        "url": "https://open.spotify.com/album/374kRLUEswPACwvirpCPG1"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh"
     },
     {
       "added_at": "2024-12-21 15:10:10",

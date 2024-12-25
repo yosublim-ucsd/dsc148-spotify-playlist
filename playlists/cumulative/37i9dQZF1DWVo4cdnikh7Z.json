@@ -151,6 +151,36 @@
     },
     {
       "album": {
+        "name": "Aaga Indha Raathiri - Tamil Version",
+        "url": "https://open.spotify.com/album/3EkjTH8uAIunkiAwiMmawE"
+      },
+      "artists": [
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        },
+        {
+          "name": "Dharan Kumar",
+          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Aaga Indha Raathiri - Tamil Version",
+      "url": "https://open.spotify.com/track/1IW4nVmW8fcsSleTwOFDiB"
+    },
+    {
+      "album": {
         "name": "Babu (No.1 Bullshit Guy) - Tamil",
         "url": "https://open.spotify.com/album/4RKEOsSvaD0EaKZg0u6Ghw"
       },
@@ -10304,6 +10334,36 @@
       "duration_ms": 105000,
       "name": "Hope of Shambala (From \"Kalki 2898 AD\") (Tamil)",
       "url": "https://open.spotify.com/track/7kpgS4PmzPFVL1jyABjiJX"
+    },
+    {
+      "album": {
+        "name": "Hot'tu Mamma (From \"Max\") (Tamil)",
+        "url": "https://open.spotify.com/album/4OduR1NeG0fRsRbt5g4aI1"
+      },
+      "artists": [
+        {
+          "name": "B.Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Vijay Kartikeyaa",
+          "url": "https://open.spotify.com/artist/1f9mvJjMvHo8wur1MpSio1"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183408,
+      "name": "Hot'tu Mamma (From \"Max\") (Tamil)",
+      "url": "https://open.spotify.com/track/6ePYYH0wZLtRbcUleR9O24"
     },
     {
       "album": {
@@ -32280,7 +32340,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 72103,
       "name": "The Real Og",
       "url": "https://open.spotify.com/track/6huPrSB8DvaSpfzgsr5VUD"
@@ -35926,7 +35986,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 98018,
       "name": "Vaanam Thembi",
       "url": "https://open.spotify.com/track/7pFaE9DVshIUFmoZJPzatp"

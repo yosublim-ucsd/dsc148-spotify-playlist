@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 163301,
+  "num_followers": 163326,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABNpWhOwp4M8pD/7vUwe+3R",
+  "snapshot_id": "Z2ioAAAAAADg561xGoxUZ9kK9ScWQeew",
   "tracks": [
     {
       "added_at": null,
@@ -474,11 +474,15 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
         }
       ],
-      "duration_ms": 163544,
-      "name": "Entendi Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ"
+      "duration_ms": 169084,
+      "name": "Lado Insano - Ao Vivo",
+      "url": "https://open.spotify.com/track/6oV23GAoNGnhkYj1xOTr41"
     },
     {
       "added_at": null,
@@ -959,6 +963,26 @@
       "duration_ms": 128781,
       "name": "Furduncin",
       "url": "https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chelas",
+        "url": "https://open.spotify.com/album/1f4GKTogkgEWUjcqDhBRMz"
+      },
+      "artists": [
+        {
+          "name": "Sara Correia",
+          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Chelas",
+      "url": "https://open.spotify.com/track/1F5fQlcfAXZelz5Y47MQbJ"
     },
     {
       "added_at": null,

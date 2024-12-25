@@ -1,6 +1,6 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 11017,
+  "num_followers": 11060,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
+        "name": "Vete y Dile",
+        "url": "https://open.spotify.com/album/6nudGjOlFRKCC2YFcaP2US"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 291781,
+      "name": "Vete y Dile",
+      "url": "https://open.spotify.com/track/3XKNq4sd6UXmu1dKwIfhL5"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
         "name": "Juntos Con Sus \u00c9xitos",
         "url": "https://open.spotify.com/album/0lKVudDiHqax3e3sj3AHrb"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 257426,
       "name": "Mi Tonto Amor",
       "url": "https://open.spotify.com/track/59v5xM3ExyPEMx62PDAlNm"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
-        "name": "Los A\u00f1os Dorados de Sergio Vargas",
-        "url": "https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Acabando!",
-        "url": "https://open.spotify.com/album/6xSWCwybltm1cIL74pE5xg"
+        "name": "Los A\u00f1os Dorados de Sergio Vargas",
+        "url": "https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7"
       },
       "artists": [
         {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 238160,
-      "name": "Borr\u00f3n y Cuenta Nueva",
-      "url": "https://open.spotify.com/track/7EpStg3XDydJ7F9iVfED27"
+      "duration_ms": 284866,
+      "name": "Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Vete y Dile",
-        "url": "https://open.spotify.com/album/6nudGjOlFRKCC2YFcaP2US"
+        "name": "Acabando!",
+        "url": "https://open.spotify.com/album/6xSWCwybltm1cIL74pE5xg"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 291781,
-      "name": "Vete y Dile",
-      "url": "https://open.spotify.com/track/3XKNq4sd6UXmu1dKwIfhL5"
+      "duration_ms": 238160,
+      "name": "Borr\u00f3n y Cuenta Nueva",
+      "url": "https://open.spotify.com/track/7EpStg3XDydJ7F9iVfED27"
     },
     {
       "added_at": "2024-09-24 21:27:06",

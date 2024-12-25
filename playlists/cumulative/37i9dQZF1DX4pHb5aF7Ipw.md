@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-307 songs - 14 hr 19 min
+308 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [AnyTime](https://open.spotify.com/track/7phKH2yeyd0ceJeQatRgdF) | [Guri Sarao](https://open.spotify.com/artist/5DALhQm1b4YpkCJ3ZRjFZt) | [AnyTime](https://open.spotify.com/album/7oWh8bdG3uExbxZpTd8Yae) | 2:52 | 2024-10-01 | 2024-11-12 |
 | [Area 46](https://open.spotify.com/track/4FvpUiLWxotcm9h3vYcbgV) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj), [Sangar](https://open.spotify.com/artist/5wjEpEmoBwVZXueIJgk31C) | [Area 46](https://open.spotify.com/album/7ldJuCRt6KtKkyGSOewFuH) | 2:51 | 2024-10-21 | 2024-11-12 |
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2023-03-18 | 2024-09-14 |
-| [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 | 2024-10-24 |  |
+| [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 | 2024-10-24 | 2024-12-25 |
 | [ASTARR](https://open.spotify.com/track/1jFtGMCWES8Z9UfivWVhuy) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [4 Da Gang](https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH) | 3:15 | 2024-11-21 |  |
 | [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 | 2024-01-04 |
 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 | 2024-09-06 | 2024-11-20 |
@@ -279,6 +279,7 @@
 | [Tere Sher](https://open.spotify.com/track/2QsH4fYTyCjamaBBUQP41z) | [Preet Sidhu](https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz) | [Tere Sher](https://open.spotify.com/album/1O3G72Xx0uu0TlKBPPuiOy) | 2:02 | 2024-09-10 | 2024-10-22 |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-05-26 | 2024-09-12 |
 | [The Flow](https://open.spotify.com/track/1Pk7D9aRHKhfu9A5BN18Jf) | [Gurjas Sidhu](https://open.spotify.com/artist/5PG1p5BLA6PsBFu2V2nC6y), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [The Flow](https://open.spotify.com/album/21ZSpe7ee0L2wQz9PRoJXg) | 2:10 | 2024-12-12 |  |
+| [The Singh Anthem](https://open.spotify.com/track/3jf41pbEadrfqfbf58LdDo) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Warriors Honour](https://open.spotify.com/album/5iNzw2rmrjRPgoB4p9CbgN) | 3:44 | 2024-12-24 |  |
 | [They Don't Know](https://open.spotify.com/track/3rQmvM91VG7Yq3gqQXq6nu) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:42 | 2024-09-05 | 2024-10-01 |
 | [Threat Call](https://open.spotify.com/track/1iLwI5W2dGRnnTf9g6qlsj) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [LOCKED IN](https://open.spotify.com/album/5OcVtSXrIo6XSew4OUdWfa) | 2:20 | 2024-09-16 | 2024-11-08 |
 | [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 | 2024-09-20 | 2024-11-12 |

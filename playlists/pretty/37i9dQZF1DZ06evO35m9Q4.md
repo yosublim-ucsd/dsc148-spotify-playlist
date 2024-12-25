@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,045 likes - 48 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,065 likes - 48 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 47 | [Texas Flood \- Remastered 2024](https://open.spotify.com/track/1UJTPt48XBuPpk35yHdK3Y) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Remastered 2024\)](https://open.spotify.com/album/7aZJyyT4SnGYlreZDTlYsW) | 20:01 |
 | 48 | [Pep Talk \- Remastered 2024](https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 0:58 |
 
-Snapshot ID: `Z2dWgAAAAACzrT5d8Nucp4M78zCRJ2oR`
+Snapshot ID: `Z2ioAAAAAABEIk9HTNMx6Thub/Wm5F99`

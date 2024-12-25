@@ -1,12 +1,12 @@
 {
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
-  "num_followers": 2248,
+  "num_followers": 2250,
   "original_name": "This Is Terry Riley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADYvBMPCVFbAvOPrmPq1KbR",
+  "snapshot_id": "Z2ioAAAAAACRsliTgEMytXfbiZPMGPr+",
   "tracks": [
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Persian Surgery Dervishes",
-        "url": "https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH"
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 1249000,
-      "name": "Performance One - Part 1",
-      "url": "https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA"
+      "duration_ms": 306013,
+      "name": "Francesco en Paraiso",
+      "url": "https://open.spotify.com/track/6PU7ov0CYZzsEOWoFlRFBK"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+        "name": "Persian Surgery Dervishes",
+        "url": "https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 306013,
-      "name": "Francesco en Paraiso",
-      "url": "https://open.spotify.com/track/6PU7ov0CYZzsEOWoFlRFBK"
+      "duration_ms": 1249000,
+      "name": "Performance One - Part 1",
+      "url": "https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
-        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 3108333,
-      "name": "Descending Moonshine Dervishes",
-      "url": "https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf"
+      "duration_ms": 364960,
+      "name": "Remember This",
+      "url": "https://open.spotify.com/track/21rumctdL8MYeZKpv3T2gz"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
+        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 364960,
-      "name": "Remember This",
-      "url": "https://open.spotify.com/track/21rumctdL8MYeZKpv3T2gz"
+      "duration_ms": 3108333,
+      "name": "Descending Moonshine Dervishes",
+      "url": "https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 347906,
+      "name": "Crucifixion Voices",
+      "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riley: The Harp of New Albion",
         "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
       },
@@ -511,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Tango Ladeado",
+      "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
         "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
       },
@@ -535,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 347906,
-      "name": "Crucifixion Voices",
-      "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Riley: The Harp of New Albion",
         "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
       },
@@ -567,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Padova Concert",
+        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Land's End",
+      "url": "https://open.spotify.com/track/6vF5EhJM7nnovxzL2tz0kN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
@@ -576,29 +608,41 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Tango Ladeado",
-      "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
+      "duration_ms": 273746,
+      "name": "Quijote",
+      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cadenza On The Night Plain And Other String Quartets (1985 Version)",
-        "url": "https://open.spotify.com/album/0q7dOR7FSB9efKo1VRUXrq"
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
         }
       ],
-      "duration_ms": 613746,
-      "name": "Sunrise Of The Planetary Dream Collector - 1985 Version",
-      "url": "https://open.spotify.com/track/5RQlKEz672VrGewNyimvbs"
+      "duration_ms": 146613,
+      "name": "Acension Final Chord Rising",
+      "url": "https://open.spotify.com/track/1Y0UxXqGBwZXxymLFCNNrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1293666,
+      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
+      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
     },
     {
       "added_at": null,
@@ -631,86 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 1293666,
-      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
-      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Quijote",
-      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Padova Concert",
-        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 256040,
-      "name": "Land's End",
-      "url": "https://open.spotify.com/track/6vF5EhJM7nnovxzL2tz0kN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "Acension Final Chord Rising",
-      "url": "https://open.spotify.com/track/1Y0UxXqGBwZXxymLFCNNrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 585933,
-      "name": "The Harp of New Albion: IX. Circle of Wolves",
-      "url": "https://open.spotify.com/track/0TckD7ISMjg0kZ9flglQcs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
@@ -723,22 +687,6 @@
       "duration_ms": 276146,
       "name": "Llanto",
       "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For the Birds: The Birdsong Project, Vol. I",
-        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 289346,
-      "name": "St. Francis and the Birds",
-      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
     },
     {
       "added_at": null,
@@ -779,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cadenza On The Night Plain And Other String Quartets (1985 Version)",
+        "url": "https://open.spotify.com/album/0q7dOR7FSB9efKo1VRUXrq"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "duration_ms": 613746,
+      "name": "Sunrise Of The Planetary Dream Collector - 1985 Version",
+      "url": "https://open.spotify.com/track/5RQlKEz672VrGewNyimvbs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
@@ -791,22 +759,6 @@
       "duration_ms": 592026,
       "name": "Zamorra",
       "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're Nogood",
-        "url": "https://open.spotify.com/album/45yDhxNW3kC8ezn2iN9KGZ"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 1230506,
-      "name": "You're Nogood",
-      "url": "https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw"
     },
     {
       "added_at": null,
@@ -840,9 +792,25 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 566400,
-      "name": "The Harp of New Albion: VIII. The Magic Knot Waltz",
-      "url": "https://open.spotify.com/track/07Ug3dg1bkX12uUrmioMKj"
+      "duration_ms": 585933,
+      "name": "The Harp of New Albion: IX. Circle of Wolves",
+      "url": "https://open.spotify.com/track/0TckD7ISMjg0kZ9flglQcs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Nogood",
+        "url": "https://open.spotify.com/album/45yDhxNW3kC8ezn2iN9KGZ"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1230506,
+      "name": "You're Nogood",
+      "url": "https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw"
     },
     {
       "added_at": null,
@@ -863,6 +831,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "For the Birds: The Birdsong Project, Vol. I",
+        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 289346,
+      "name": "St. Francis and the Birds",
+      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 396160,
+      "name": "The Harp of New Albion: V. Premonition Rag",
+      "url": "https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
+        "url": "https://open.spotify.com/album/3cFjiTCXi7SYwyoEii2ERi"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 2388746,
+      "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
+      "url": "https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atlantis Nath",
         "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
       },
@@ -872,29 +888,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 279133,
-      "name": "Gha Ten In Darbari",
-      "url": "https://open.spotify.com/track/1qGRUrhjIFl2xAcW0kihtX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Autodreamographical Tales",
-        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Bang On A Can All-Stars",
-          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
-        }
-      ],
-      "duration_ms": 162785,
-      "name": "Dwarf",
-      "url": "https://open.spotify.com/track/0r3u5kfZhNaIDOYEtcYhul"
+      "duration_ms": 367426,
+      "name": "Only A Day",
+      "url": "https://open.spotify.com/track/3l2b6VxY68bD0Dw6qKI6pj"
     }
   ],
   "unique_name": "This Is Terry Riley",

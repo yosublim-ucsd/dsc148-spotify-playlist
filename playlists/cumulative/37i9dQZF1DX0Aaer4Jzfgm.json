@@ -847,6 +847,32 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Pavane, Op. 50 (Version for Orchestra)",
+        "url": "https://open.spotify.com/album/7HMYojUWxclX6g488PsKrt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Orchestre de Chambre de Lausanne",
+          "url": "https://open.spotify.com/artist/0yYltyXzxr0Jqn9jM1Firq"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361746,
+      "name": "Pavane, Op. 50 (Version for Orchestra)",
+      "url": "https://open.spotify.com/track/13KYgHAybnAfCnBUPjZcs2"
+    },
+    {
+      "album": {
         "name": "Grieg: Peer Gynt (Incidental Music)",
         "url": "https://open.spotify.com/album/2tDISkhmARbjVfMT4YZ4bz"
       },
@@ -1837,6 +1863,44 @@
     },
     {
       "album": {
+        "name": "Boccherini: String Quintet in E Major, Op. 11/5, G. 275: III. Minuetto \u2013 Trio \u2013 Minuetto da capo",
+        "url": "https://open.spotify.com/album/1CR6xv0hs0SYYooNWNlaqo"
+      },
+      "artists": [
+        {
+          "name": "Luigi Boccherini",
+          "url": "https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Ir\u00e8ne Duval",
+          "url": "https://open.spotify.com/artist/2snwhfZz37aeeDhbqgMiFq"
+        },
+        {
+          "name": "Jonian Ilias Kadesha",
+          "url": "https://open.spotify.com/artist/7CIJ6ydfq7qLU46U1EuMOT"
+        },
+        {
+          "name": "Eivind Ringstad",
+          "url": "https://open.spotify.com/artist/20RHsFSSKBbfJLnNPntcOF"
+        },
+        {
+          "name": "Tim Posner",
+          "url": "https://open.spotify.com/artist/3acPw1WfbGf11bwTDHWHcA"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "String Quintet in E Major, Op. 11/5, G. 275: III. Minuetto \u2013 Trio \u2013 Minuetto da capo",
+      "url": "https://open.spotify.com/track/0XvH8JNvFeqUCYsu4Qk6Mr"
+    },
+    {
+      "album": {
         "name": "Debussy: Greatest Hits",
         "url": "https://open.spotify.com/album/29YTaazNt7syTiaNwbUVfo"
       },
@@ -2006,6 +2070,68 @@
       "duration_ms": 501733,
       "name": "The Planets, Op. 32: II. Venus, the Bringer of Peace",
       "url": "https://open.spotify.com/track/2CW400VV1JC9W3bOx8QYNp"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Seasons, Op. 37a: V. May. White Nights",
+        "url": "https://open.spotify.com/album/2B6u9mmc3lOT5c3cCMP1bx"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279640,
+      "name": "The Seasons, Op. 37a: V. May. White Nights",
+      "url": "https://open.spotify.com/track/7EK8nkGRRaaVyd2u8Bmpv6"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Seasons, Op. 37a: VI. June. Barcarolle",
+        "url": "https://open.spotify.com/album/1n1EFvyLZ1j5H7D2qMTXDA"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329280,
+      "name": "The Seasons, Op. 37a: VI. June. Barcarolle",
+      "url": "https://open.spotify.com/track/5PJv9lOarcROmaA9hDmdnJ"
+    },
+    {
+      "album": {
+        "name": "Tra Bo Dau (Arr. Huws for Harp)",
+        "url": "https://open.spotify.com/album/62SAjTcSXYdVsQpG8cF5h1"
+      },
+      "artists": [
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231853,
+      "name": "Tra Bo Dau (Arr. Huws for Harp)",
+      "url": "https://open.spotify.com/track/5ccmxu51xA4WPkaKtf5ZZz"
     },
     {
       "album": {
@@ -2188,6 +2314,24 @@
       "duration_ms": 159320,
       "name": "Young Birches, Op. 128, No. 2",
       "url": "https://open.spotify.com/track/4VVEfBXep7FdOt524jkfLF"
+    },
+    {
+      "album": {
+        "name": "\u00c9tudes M\u00e9lodiques",
+        "url": "https://open.spotify.com/album/4KKe8rGFDtCL8Jy4tA7Dl5"
+      },
+      "artists": [
+        {
+          "name": "Marie Awadis",
+          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374493,
+      "name": "\u00c9tude No. 12: Unveiled",
+      "url": "https://open.spotify.com/track/7hiOEDPwMUjMbvfuQF9dOY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Aaer4Jzfgm"

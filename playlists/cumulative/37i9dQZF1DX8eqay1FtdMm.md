@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Onestar\(임한별\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Lee Young Hyun\(이영현\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-585 songs - 1 day 14 hr 15 min
+586 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Just Look for you](https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A) | 3:41 | 2022-07-25 | 2024-01-10 |
 | [Just Look for you](https://open.spotify.com/track/1rP25u8w92R4rq1UttWSeq) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate,Pt.5\(Original Television Soundtrack\)](https://open.spotify.com/album/2AZ7tXHNJnGDT1Q7n4L1Yz) | 3:41 | 2021-12-20 | 2022-04-20 |
 | [Just Look for you](https://open.spotify.com/track/21Kpv5vg4jtgfgIBgAqm2U) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/04B0uLq5aKWhjVmA8Vrj8I) | 3:41 | 2024-01-17 | 2024-04-19 |
+| [JUST LOVE](https://open.spotify.com/track/0MdOgF705YiQELMS29p4gz) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [PRIVATE](https://open.spotify.com/album/4sgGVKKF38GTPJOK15Es6p) | 3:38 | 2024-12-24 |  |
 | [Kaze](https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA Studio Live Album 'MINDSET'](https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi) | 5:31 | 2023-05-10 | 2024-12-23 |
 | [La Vie Rosée](https://open.spotify.com/track/77EJqUi8w6kstvE53TFxnw) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 5:14 | 2024-04-25 | 2024-05-19 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-04-01 | 2022-05-17 |
@@ -331,7 +332,7 @@
 | [My Blooming Heart](https://open.spotify.com/track/0idORy7zZ4pKim6wzJTndW) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [My Blooming Heart](https://open.spotify.com/album/3zUxwx9UMZ0F0VJ0pwZ4f3) | 3:54 | 2024-09-13 | 2024-11-29 |
 | [My Dream](https://open.spotify.com/track/5XKo813PRaLwH1yHWP674c) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung 신입사관 구해령 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3IIHBgXFIt3yvPYDqsl8qp) | 3:54 | 2022-04-01 | 2022-04-19 |
 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 | 2022-09-06 | 2024-04-16 |
-| [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 | 2022-12-14 | 2023-01-13 |
+| [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 | 2022-12-14 |  |
 | [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-21 |  |
 | [MY OCEAN](https://open.spotify.com/track/7hRHXvvVKgPHIml5Semtor) | [Jeong Young Eun](https://open.spotify.com/artist/2XX6AOq6HuYXNj4l9FQTJ1) | [MY OCEAN](https://open.spotify.com/album/5YhzIq7UftXN1fwluhNgXV) | 3:49 | 2022-03-31 | 2022-04-17 |
 | [My Only One](https://open.spotify.com/track/3wbPvkTGox700oY5oDJPzY) | [2BiC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [Calendar Of 2BIC \(August\)](https://open.spotify.com/album/3c8FoccgwEnlIVbF2fSItA) | 4:36 | 2022-02-10 | 2022-04-21 |
@@ -510,7 +511,7 @@
 | [We Should've Been Friends](https://open.spotify.com/track/6UHNQXx91lUEULQty8XgJR) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [We Should've Been Friends](https://open.spotify.com/album/1hV0jEXi9ZEtwSoUkv1wgv) | 4:31 | 2022-04-21 | 2022-06-28 |
 | [What If](https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [What If](https://open.spotify.com/album/0IXJjQbwEaAx1asY1fWiVR) | 4:32 | 2023-05-03 | 2023-07-12 |
 | [What's Not To Love](https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih) | [L \(INFINITE\)](https://open.spotify.com/artist/2Vm2JJpUJzLoBEYQEVrmdV) | [24/7](https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6) | 3:26 | 2024-08-09 | 2024-10-13 |
-| [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 | 2023-12-01 |  |
+| [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 | 2023-12-01 | 2024-12-25 |
 | [When I look at you](https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [When I look at you](https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys) | 3:09 | 2022-08-18 | 2022-10-20 |
 | [When I was Into You](https://open.spotify.com/track/4hLFSM2k7gX7pBZuIM3CHW) | [ZISU](https://open.spotify.com/artist/3zNBTnNYtztKwdB5uYApom) | [When I was Into You](https://open.spotify.com/album/0AdlXPc0vo43GEMz9i4QIE) | 2:59 | 2022-07-04 | 2022-07-14 |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2021-12-20 |  |
@@ -586,7 +587,7 @@
 | [우주의 전설](https://open.spotify.com/track/6ABWK6E3RDzCJS7X8wdvIP) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 3:58 | 2022-08-12 | 2022-10-06 |
 | [이 또한 지나가리라](https://open.spotify.com/track/5xpJOKLD5Zsm8ihVxpeK1N) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [TO...](https://open.spotify.com/album/2kpy6VCOSDfuus42rg7Ic6) | 3:45 | 2022-10-24 | 2022-11-24 |
 | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\)](https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\) \- Single](https://open.spotify.com/album/4laMaViU0DAsIz0iNdXxcI) | 3:39 | 2021-12-20 | 2022-07-24 |
-| [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/track/0BeyMR83qdrHlIM52jprNC) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/album/5ijS3IJtIUrqhioDNEJmu6) | 3:33 | 2024-11-29 |  |
+| [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/track/0BeyMR83qdrHlIM52jprNC) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/album/5ijS3IJtIUrqhioDNEJmu6) | 3:33 | 2024-11-29 | 2024-12-25 |
 | [중독된 사랑](https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [Love](https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf) | 4:26 | 2023-12-01 |  |
 | [친구라도 될 걸 그랬어](https://open.spotify.com/track/7zc83ZD1QNkFMwj7sLpK8v) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Gummy Unplugged](https://open.spotify.com/album/1kSeUKxPi2vcrvKbwdh6z5) | 5:15 | 2023-12-01 | 2023-12-14 |
 | [파란 봄](https://open.spotify.com/track/0KpXBGMi5TPHu8cJGWvNBb) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Dunia \- Into A New World, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5zfvPWlLE1LpYewbAejTgX) | 4:11 | 2021-12-20 | 2023-07-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 144515,
+  "num_followers": 144683,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADJD+l1H67H8jvpOpIZzJrC",
+  "snapshot_id": "Z2ioAAAAAACG/XDpv++M+nW4sCOmpL18",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 338511,
+      "name": "Promesa Cumplida",
+      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Playball",
         "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
       },
@@ -827,26 +843,6 @@
       "duration_ms": 203480,
       "name": "Recuerdos Del 1",
       "url": "https://open.spotify.com/track/3W79DIintC1GZeDs010tLa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Super Del Barril",
-        "url": "https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 197151,
-      "name": "La Super Del Barril",
-      "url": "https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4"
     }
   ],
   "unique_name": "This Is Edicion Especial",

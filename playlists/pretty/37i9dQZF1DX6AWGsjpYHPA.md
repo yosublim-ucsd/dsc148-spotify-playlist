@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,980 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,066 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 63 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
 | 64 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 65 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 |
-| 66 | [Diego](https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego](https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq) | 2:48 |
-| 67 | [Perfidia \(feat\. Igino\) \(Severino Panzetta & Ray Mang Remix\) \- Mixed](https://open.spotify.com/track/6K4PH1SZDRVWJCPoXt6qdq) | [Alien Alien](https://open.spotify.com/artist/2wmXd1MnJoH55Hatt4h7lf), [Igino](https://open.spotify.com/artist/7ww3zaYvvVXV4a3VTOG8YR), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2), [Severino Panzetta](https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m) | [All Back To: Horse Meat Disco](https://open.spotify.com/album/5qKpC14xG5Kb6ful0FOuon) | 3:47 |
+| 66 | [Perfidia \(feat\. Igino\) \(Severino Panzetta & Ray Mang Remix\) \- Mixed](https://open.spotify.com/track/6K4PH1SZDRVWJCPoXt6qdq) | [Alien Alien](https://open.spotify.com/artist/2wmXd1MnJoH55Hatt4h7lf), [Igino](https://open.spotify.com/artist/7ww3zaYvvVXV4a3VTOG8YR), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2), [Severino Panzetta](https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m) | [All Back To: Horse Meat Disco](https://open.spotify.com/album/5qKpC14xG5Kb6ful0FOuon) | 3:47 |
+| 67 | [Diego](https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego](https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq) | 2:48 |
 | 68 | [19\-6 Paris](https://open.spotify.com/track/1gCf5UhZ7J5Ca4raMR9kE3) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [19\-6 Paris](https://open.spotify.com/album/4joXEYLxWU6CDTjPBWmNbK) | 4:32 |
 | 69 | [God Knows We Tried](https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [Metamorphosis](https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n) | 6:13 |
-| 70 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 |
-| 71 | [I'm Back For More](https://open.spotify.com/track/1Fg71dcYDegFwGLfjy00ks) | [Leo's Sunshipp](https://open.spotify.com/artist/4EekqrO6EowqVZsapOHOPF) | [We Need Each Other](https://open.spotify.com/album/2gwtUQfKm4CBPWbdTx5kWD) | 5:05 |
+| 70 | [I'm Back For More](https://open.spotify.com/track/1Fg71dcYDegFwGLfjy00ks) | [Leo's Sunshipp](https://open.spotify.com/artist/4EekqrO6EowqVZsapOHOPF) | [We Need Each Other](https://open.spotify.com/album/2gwtUQfKm4CBPWbdTx5kWD) | 5:05 |
+| 71 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 |
 | 72 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 |
 | 73 | [Fair Chance \- Floating Points Remix](https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Fair Chance \(Floating Points Remix\)](https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB) | 5:08 |
 | 74 | [Girl](https://open.spotify.com/track/7o1s0OJBJj2PvBTVNBMM3P) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 4:01 |
 | 75 | [Safe In My Arms](https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 3:38 |
 
-Snapshot ID: `ZqMfQAAAAABpwc5WcRDxCiqc8RxJS2Fp`
+Snapshot ID: `Z2o/3gAAAAD6rHVeHy4Duf0YhoSAtIAe`

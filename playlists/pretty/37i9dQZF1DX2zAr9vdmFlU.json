@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437608,
+  "num_followers": 437642,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        },
-        {
-          "name": "Melo G\u00eda",
-          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
-        }
-      ],
-      "duration_ms": 221111,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Todos Tenemos un Amor",
         "url": "https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 224317,
       "name": "Todos Tenemos un Amor",
       "url": "https://open.spotify.com/track/6vH11o55aRZCZqvF7SycPq"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
+      },
+      "artists": [
+        {
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        },
+        {
+          "name": "Melo G\u00eda",
+          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
+        }
+      ],
+      "duration_ms": 221111,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 355019,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 219807,
       "name": "Casa en el \u00e1rbol",
       "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 355019,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 224261,
-      "name": "Price of Life",
-      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Grietas",
         "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 313750,
       "name": "Grietas",
       "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 224261,
+      "name": "Price of Life",
+      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Grecia",
-        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 200118,
-      "name": "Grecia",
-      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Latin Jazz, Vol. 3",
         "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
       },
@@ -1207,6 +1183,30 @@
       "duration_ms": 302962,
       "name": "Si estuvieras aqu\u00ed",
       "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 200118,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Nobreza",
-        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
+        "name": "La del bar",
+        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
       },
       "artists": [
         {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+          "name": "G\u00e8rard",
+          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
         }
       ],
-      "duration_ms": 201364,
-      "name": "Nobreza",
-      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
+      "duration_ms": 154378,
+      "name": "La del bar",
+      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "La del bar",
-        "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
+        "name": "Nobreza",
+        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
       },
       "artists": [
         {
-          "name": "G\u00e8rard",
-          "url": "https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z"
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
         }
       ],
-      "duration_ms": 154378,
-      "name": "La del bar",
-      "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
+      "duration_ms": 201364,
+      "name": "Nobreza",
+      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
     },
     {
       "added_at": "2024-10-25 04:00:00",

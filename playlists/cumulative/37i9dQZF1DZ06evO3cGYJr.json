@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "better than i was",
+        "url": "https://open.spotify.com/album/35FKhwMBDOty1ocIqwfU1y"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "better than i was",
+      "url": "https://open.spotify.com/track/0JQkCncxcmSROtUx48oEPb"
+    },
+    {
+      "album": {
         "name": "bewildered",
         "url": "https://open.spotify.com/album/5PwallTBqFYwPL2INf0LxT"
       },

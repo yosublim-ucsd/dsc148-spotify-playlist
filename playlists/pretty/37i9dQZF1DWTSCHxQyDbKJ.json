@@ -1,6 +1,6 @@
 {
   "description": "Our editor's top picks from LGBTQIA+ tracks released in 2024 from the UK & Ireland. Cover: SOPHIE",
-  "num_followers": 32404,
+  "num_followers": 32403,
   "original_name": "Best of GLOW UK & Ireland 2024",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Good Bi",
         "url": "https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 194005,
       "name": "Good Bi",
       "url": "https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Big Man",
+        "url": "https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "duration_ms": 253057,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Ever New",
         "url": "https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO"
       },
@@ -419,26 +439,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Big Man",
-        "url": "https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb"
-      },
-      "artists": [
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        },
-        {
-          "name": "Moonchild Sanelly",
-          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
-        }
-      ],
-      "duration_ms": 253057,
-      "name": "Big Man",
-      "url": "https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Smitten",
         "url": "https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 214245,
       "name": "Glasgow",
       "url": "https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -479,22 +495,6 @@
       "duration_ms": 253114,
       "name": "Get Me Away From Here, I'm Dying",
       "url": "https://open.spotify.com/track/4ksAJMoTryW6BTsZpKdoMk"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
-      },
-      "artists": [
-        {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "early twenties",
+        "url": "https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/1v7LEUvEgss8nm2Ix0Y4Qv"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 235000,
       "name": "Is It Cold In The Water?",
       "url": "https://open.spotify.com/track/7m9ZK3DmPbA5IY3FpVaMIq"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "early twenties",
-        "url": "https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/1v7LEUvEgss8nm2Ix0Y4Qv"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Jennifer's Body",
-        "url": "https://open.spotify.com/album/1U4Mcmu6Lvbw9rruv9yGJO"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 117430,
-      "name": "Jennifer's Body",
-      "url": "https://open.spotify.com/track/4LAvOwuLHkr13HseCOmGQ9"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Name Your Sorrow",
         "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 199376,
       "name": "Like A Lesson",
       "url": "https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Jennifer's Body",
+        "url": "https://open.spotify.com/album/1U4Mcmu6Lvbw9rruv9yGJO"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 117430,
+      "name": "Jennifer's Body",
+      "url": "https://open.spotify.com/track/4LAvOwuLHkr13HseCOmGQ9"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "ABOMINATION",
+        "url": "https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr"
+      },
+      "artists": [
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 198549,
+      "name": "ABOMINATION",
+      "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Prism of Pleasure",
         "url": "https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ABOMINATION",
-        "url": "https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr"
+        "name": "That Golden Time",
+        "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
       },
       "artists": [
         {
-          "name": "Lynks",
-          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 198549,
-      "name": "ABOMINATION",
-      "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
+      "duration_ms": 215631,
+      "name": "I Want What I Don't Need",
+      "url": "https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -759,22 +775,6 @@
       "duration_ms": 143079,
       "name": "number one lover",
       "url": "https://open.spotify.com/track/4tbNJjyuDVltnO1HbQntoi"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "That Golden Time",
-        "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 215631,
-      "name": "I Want What I Don't Need",
-      "url": "https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "The Warping",
+        "url": "https://open.spotify.com/album/4sdNDQaXa1x15gsFUbUMXd"
+      },
+      "artists": [
+        {
+          "name": "Walt Disco",
+          "url": "https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I"
+        }
+      ],
+      "duration_ms": 219332,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/2QQP5JWmFGiI6qINAQ2rGC"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "The Warping",
-        "url": "https://open.spotify.com/album/4sdNDQaXa1x15gsFUbUMXd"
+        "name": "Digital Heartifacts",
+        "url": "https://open.spotify.com/album/1DzhKoFw6wH2f0SUQXy4Gz"
       },
       "artists": [
         {
-          "name": "Walt Disco",
-          "url": "https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I"
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
         }
       ],
-      "duration_ms": 219332,
-      "name": "Come Undone",
-      "url": "https://open.spotify.com/track/2QQP5JWmFGiI6qINAQ2rGC"
+      "duration_ms": 172288,
+      "name": "If I Don't Laugh I'll Cry",
+      "url": "https://open.spotify.com/track/4K3CoRfaby61VVNoDS6xjJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 170107,
       "name": "Second Best",
       "url": "https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Digital Heartifacts",
-        "url": "https://open.spotify.com/album/1DzhKoFw6wH2f0SUQXy4Gz"
-      },
-      "artists": [
-        {
-          "name": "L Devine",
-          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "If I Don't Laugh I'll Cry",
-      "url": "https://open.spotify.com/track/4K3CoRfaby61VVNoDS6xjJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",

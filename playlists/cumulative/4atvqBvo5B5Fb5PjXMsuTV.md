@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Dec 14:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 24 Dec 04:02 UTC.
 
-3,856 songs - 8 day 21 hr 56 min
+3,857 songs - 8 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1242,6 +1242,7 @@
 | [Friday Night Song](https://open.spotify.com/track/3QAX9e3nAhSMSiMQ40LSDx) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Friday Night Song](https://open.spotify.com/album/6eTVXZGe0fCUiizxq6UGKQ) | 4:04 | 2024-09-27 | 2024-10-02 |
 | [Friendly](https://open.spotify.com/track/24rugivInJ0ZVcMHsyl8CN) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Friendly](https://open.spotify.com/album/1DyMr2lzHwRu3n9Z6CILeK) | 2:39 | 2024-07-19 | 2024-07-21 |
 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-07-05 | 2024-07-09 |
+| [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 | 2024-12-24 |  |
 | [from the back](https://open.spotify.com/track/3uSOCYtU434wB38bMoVIee) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [from the back](https://open.spotify.com/album/2SMbi07p3T8Jq77wWIwbFS) | 3:56 | 2024-06-29 | 2024-07-03 |
 | [From The Morning](https://open.spotify.com/track/0ci3p5jGoKblSMwK5ZHrBB) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [From The Morning](https://open.spotify.com/album/72xSZFdH5jQKwqMMFWM6hZ) | 2:39 | 2024-09-25 | 2024-09-28 |
 | [Frosty the Snowman](https://open.spotify.com/track/5T4QBeGFvDOvMs1Uc7IRO8) | [Xiu Xiu](https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9) | [Frosty the Snowman](https://open.spotify.com/album/64hCSr58sctlOabnKuyLZj) | 3:48 | 2024-10-10 | 2024-10-12 |
@@ -2680,7 +2681,7 @@
 | [Red Brick](https://open.spotify.com/track/5hOy5UDI9YE8eXTDiJnLit) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Red Brick](https://open.spotify.com/album/7DrmPKiSSLjaPg411J0WXC) | 3:43 | 2024-08-06 | 2024-08-08 |
 | [Red Fibres](https://open.spotify.com/track/6koytEr9q7i6xreFg7V1bQ) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Red Fibres](https://open.spotify.com/album/7LMb3NorMKnQoap9LHs6T8) | 5:06 | 2024-05-23 | 2024-05-25 |
 | [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-08 | 2024-08-10 |
-| [red panda](https://open.spotify.com/track/18RRqgHdu6OGhDMXuQA99P) | [blxty](https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p) | [red panda](https://open.spotify.com/album/641mC5Q1ZDkkiCtIgdGKJT) | 2:00 | 2024-12-21 |  |
+| [red panda](https://open.spotify.com/track/18RRqgHdu6OGhDMXuQA99P) | [blxty](https://open.spotify.com/artist/6xCkHWTLdUoEckl5YD0S7p) | [red panda](https://open.spotify.com/album/641mC5Q1ZDkkiCtIgdGKJT) | 2:00 | 2024-12-21 | 2024-12-25 |
 | [Redshift](https://open.spotify.com/track/1kXwc02M6g1OhRb7SVsKJA) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Redshift](https://open.spotify.com/album/1H4dtkYGscdjYNjPTjFVEY) | 3:43 | 2024-11-13 | 2024-11-26 |
 | [REEKYOD](https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [REEKYOD](https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy) | 2:36 | 2024-05-01 | 2024-05-03 |
 | [REGALSTAR](https://open.spotify.com/track/0YVHIlCYvjwVm7HzbosHFs) | [Willyynova](https://open.spotify.com/artist/19uBisMOURG4hDkkWhapO9) | [REGALSTAR](https://open.spotify.com/album/1CAnQK04jtDz5QomB290Ue) | 2:00 | 2024-05-17 | 2024-05-21 |

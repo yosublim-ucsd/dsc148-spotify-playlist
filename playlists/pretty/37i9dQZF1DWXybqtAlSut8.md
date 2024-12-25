@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,726 likes - 72 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,780 likes - 72 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 53 | [And Can It Be That I Should Gain \- Piano](https://open.spotify.com/track/7ahdNh4B5iAAS4Rt32CPQH) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:24 |
 | 54 | [Day by Day](https://open.spotify.com/track/416VjmRTwxW7rXTijTMN3y) | [Everlasting Harmony](https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx) | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4) | 3:03 |
 | 55 | [Pass Me Not, O Gentle Savior \- Piano](https://open.spotify.com/track/5i8g9ufImKIKSr3I4cCMBR) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Gentle Hymns of Faith \(Piano\)](https://open.spotify.com/album/3iFIcO1GgxdNfk1dJ90yL9) | 2:11 |
-| 56 | [o how wonderful \- Instrumental](https://open.spotify.com/track/7MKEZuJngdoyAE8EPnpUFZ) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT) | [Ambient Piano \(Instrumental\)](https://open.spotify.com/album/3Z9bELfk7Ac0sxYNfwdhzv) | 1:43 |
+| 56 | [o how wonderful \- Instrumental](https://open.spotify.com/track/7MKEZuJngdoyAE8EPnpUFZ) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT) | [o how wonderful \(Instrumental\)](https://open.spotify.com/album/3Z9bELfk7Ac0sxYNfwdhzv) | 1:43 |
 | 57 | [To God Be the Glory \- Piano](https://open.spotify.com/track/4JTguoVmnJnvYU7Tr3UXcZ) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Glorious Peaceful Hymns \(Piano\)](https://open.spotify.com/album/6zG36CBTmA4hX6Gmqoglb7) | 2:29 |
 | 58 | [Awakening](https://open.spotify.com/track/1vaIoBWMdNDI2qccIqA9Li) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:54 |
 | 59 | [A Thousand Hallelujahs \(Peaceful Piano\)](https://open.spotify.com/track/5aOYmTTULpBeMXaolacarM) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT), [David Lindner](https://open.spotify.com/artist/6MVj3DhruXo4DDagJbp0fw) | [A Thousand Hallelujahs \(Peaceful Piano\)](https://open.spotify.com/album/6ZMIhTKsvR2YFF3jtotThe) | 3:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Sam Austins
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,318 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,330 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,17 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 32 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
 | 33 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 |
 | 34 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 |
-| 35 | [seventeen](https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [seventeen](https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY) | 3:39 |
-| 36 | [Magnetic](https://open.spotify.com/track/46BIkntVmeG382rIo93J3d) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Magnetic](https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG) | 2:30 |
+| 35 | [Magnetic](https://open.spotify.com/track/46BIkntVmeG382rIo93J3d) | [Tunde Adebimpe](https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9) | [Magnetic](https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG) | 2:30 |
+| 36 | [seventeen](https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [seventeen](https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY) | 3:39 |
 | 37 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 |
 | 38 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
-| 39 | [RökKOut](https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [RökKOut](https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY) | 3:52 |
-| 40 | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/track/1NWaYdISmPkmGaWCIEz6kb) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/album/2xMIyNXGHO2RJLtcZqnMVn) | 2:44 |
+| 39 | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/track/1NWaYdISmPkmGaWCIEz6kb) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/album/2xMIyNXGHO2RJLtcZqnMVn) | 2:44 |
+| 40 | [RökKOut](https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [RökKOut](https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY) | 3:52 |
 | 41 | [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 |
 | 42 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 |
 | 43 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 |
-| 44 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
-| 45 | [gimme all ur luv](https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:52 |
+| 44 | [gimme all ur luv](https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:52 |
+| 45 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 |
 | 46 | [You're Bleeding Everywhere](https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:46 |
 | 47 | [Undecided](https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Undecided](https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG) | 2:25 |
 | 48 | [PULL UP](https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [PULL UP](https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9) | 2:20 |

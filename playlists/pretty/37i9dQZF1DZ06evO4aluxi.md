@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,982 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,985 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 35 | [Big Yellow Taxi](https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 3:01 |
 | 36 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 |
 | 37 | [Power In The Blood](https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 3:51 |
-| 38 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
-| 39 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
+| 38 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
+| 39 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
 | 40 | [Could I Have This Dance](https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Duets: Friends & Legends](https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd) | 3:18 |
 | 41 | [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1o9k7YwiHeUh00RO5n0CY9) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 4:27 |
 | 42 | [All I Ever Have To Be](https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Never Alone \(Remastered\)](https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | [Find A Way](https://open.spotify.com/track/0szU1fWxpXgr47uB6ezphl) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unguarded](https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp) | 3:28 |
 | 50 | [I'm With You \(Ruth & Naomi\)](https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 4:14 |
 
-Snapshot ID: `Z2dWgAAAAABon8Be54+CPBQxmXpgEF82`
+Snapshot ID: `Z2ioAAAAAAA1Qoi+lmVzFPs2oqlVgIoZ`

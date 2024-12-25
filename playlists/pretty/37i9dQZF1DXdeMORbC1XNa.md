@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,078 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,212 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 41 | [WAHALA \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [WAHALA \(FEAT\. OLAMIDE\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 |
 | 42 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 |
 | 43 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
-| 44 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 |
-| 45 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 |
+| 44 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 |
+| 45 | [ONOME](https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg) | 3:18 |
 | 46 | [yawa](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [yawa](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
 | 47 | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA) | 2:52 |
 | 48 | [5am in OJO Freestyle](https://open.spotify.com/track/4czmIR4NZXlwq8LABaetrc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [5am in OJO Freestyle](https://open.spotify.com/album/3v4zTqtzlr0fcDiHT4SSI6) | 2:43 |

@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Chris Lorenzo \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 641222,
+  "num_followers": 641276,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1281,6 +1281,22 @@
       "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ready 2 Go",
+        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Ready 2 Go",
+      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
+    },
+    {
       "added_at": "2024-11-01 05:19:33",
       "album": {
         "name": "Percolator (Chris Lake & Bontan Remixes)",
@@ -1299,22 +1315,6 @@
       "duration_ms": 199714,
       "name": "Percolator - Chris Lake Remix",
       "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Ready 2 Go",
-        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Ready 2 Go",
-      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1485,20 +1485,20 @@
       "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Time To Go",
-        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
+        "name": "As The Beat Goes Onnn",
+        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         }
       ],
-      "duration_ms": 202380,
-      "name": "Time To Go",
-      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
+      "duration_ms": 159283,
+      "name": "As The Beat Goes Onnn",
+      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
     },
     {
       "added_at": "2024-11-29 05:26:04",
@@ -1525,20 +1525,20 @@
       "url": "https://open.spotify.com/track/0Ey54LmdxIxdXQSqG2LsZW"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "As The Beat Goes Onnn",
-        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
+        "name": "Time To Go",
+        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
       },
       "artists": [
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 159283,
-      "name": "As The Beat Goes Onnn",
-      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
+      "duration_ms": 202380,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
     },
     {
       "added_at": "2024-06-05 04:04:17",
@@ -1593,6 +1593,22 @@
       "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Snus (Tony Romera Remix)",
@@ -1633,22 +1649,6 @@
       "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Needle On The Record",
-        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Needle On The Record",
-      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Vibrate / On The Ground",
@@ -1669,26 +1669,6 @@
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Slow Down / Pink Dave",
-        "url": "https://open.spotify.com/album/7EFeoVZvu9en0AANT1PmER"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 178926,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "All Night",
@@ -1707,6 +1687,26 @@
       "duration_ms": 177096,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3vUcG8qu1KgThYYEYHWIti"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Slow Down / Pink Dave",
+        "url": "https://open.spotify.com/album/7EFeoVZvu9en0AANT1PmER"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 178926,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1753,26 +1753,6 @@
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
-      "added_at": "2024-11-29 05:26:04",
-      "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Grant Nelson",
-          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
-        }
-      ],
-      "duration_ms": 204843,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "GETAWAY",
@@ -1793,6 +1773,26 @@
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
     },
     {
+      "added_at": "2024-11-29 05:26:04",
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Grant Nelson",
+          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+        }
+      ],
+      "duration_ms": 204843,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Heard About Me",
@@ -1807,6 +1807,22 @@
       "duration_ms": 183711,
       "name": "Heard About Me",
       "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Let The Bassline",
+        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 183234,
+      "name": "Let The Bassline",
+      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1827,22 +1843,6 @@
       "duration_ms": 210909,
       "name": "Mezcal Bounce",
       "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Let The Bassline",
-        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 183234,
-      "name": "Let The Bassline",
-      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1881,26 +1881,6 @@
       "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
     },
     {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
-      },
-      "artists": [
-        {
-          "name": "Meck",
-          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 215540,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "FUKINASTY / Look, Alright",
@@ -1923,6 +1903,26 @@
       "duration_ms": 177923,
       "name": "FUKINASTY",
       "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
+      },
+      "artists": [
+        {
+          "name": "Meck",
+          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 215540,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2029,6 +2029,26 @@
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Jet Setter",
+        "url": "https://open.spotify.com/album/59CWlHTdKkVuLT9LcDdO8U"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Yeah Boy",
+          "url": "https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au"
+        }
+      ],
+      "duration_ms": 174890,
+      "name": "Jet Setter",
+      "url": "https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc"
+    },
+    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "The Unexplained",
@@ -2051,26 +2071,6 @@
       "duration_ms": 220298,
       "name": "Okay Fine",
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Jet Setter",
-        "url": "https://open.spotify.com/album/59CWlHTdKkVuLT9LcDdO8U"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Yeah Boy",
-          "url": "https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au"
-        }
-      ],
-      "duration_ms": 174890,
-      "name": "Jet Setter",
-      "url": "https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2281,6 +2281,26 @@
       "url": "https://open.spotify.com/track/4aPdbCnM9rUD6njBcmku9B"
     },
     {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Control It",
+        "url": "https://open.spotify.com/album/2Q7iqxF7OISCmS6WR2AQca"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Winnie Ama",
+          "url": "https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "Control It",
+      "url": "https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN"
+    },
+    {
       "added_at": "2024-11-29 05:26:04",
       "album": {
         "name": "Go Deep",
@@ -2321,26 +2341,6 @@
       "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Control It",
-        "url": "https://open.spotify.com/album/2Q7iqxF7OISCmS6WR2AQca"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Winnie Ama",
-          "url": "https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "Control It",
-      "url": "https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Don't You Leave",
@@ -2357,20 +2357,20 @@
       "url": "https://open.spotify.com/track/12e3jjH2mTSIITNrLSvIRj"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7"
+        "name": "Wrong Feels Right",
+        "url": "https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5"
       },
       "artists": [
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "Format:B",
+          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
+      "duration_ms": 155000,
+      "name": "Wrong Feels Right",
+      "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
     },
     {
       "added_at": "2024-12-13 05:00:15",

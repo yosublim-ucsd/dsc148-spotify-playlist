@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,227 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,269 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 99 | [Asleep \- 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 4:13 |
 | 100 | [Every Feeling](https://open.spotify.com/track/0C2PTGRyAe4WxnMzqE2k1H) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 2:46 |
 | 101 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 |
-| 102 | [The Yodel Song](https://open.spotify.com/track/6SM7Hy4j6zRRFo73wDBg8i) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Alive In America](https://open.spotify.com/album/1UpM0djsCEho7GfRZFrT49) | 6:30 |
+| 102 | [The Yodel Song](https://open.spotify.com/track/6SM7Hy4j6zRRFo73wDBg8i) | [Dr\. Hook & The Medicine Show](https://open.spotify.com/artist/2bzW7pcKSWn1ipzIsXxc6I) | [Alive In America](https://open.spotify.com/album/1UpM0djsCEho7GfRZFrT49) | 6:30 |
 | 103 | [A Kiss To Build A Dream On](https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 4:31 |
 | 104 | [Nancy Drew](https://open.spotify.com/track/5U5AZIJdDTmsModlp9AK65) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Try Not to Freak Out](https://open.spotify.com/album/4DkXNndpQAoGUo2aFv9zAl) | 3:15 |
 | 105 | [When You're Young And In Love](https://open.spotify.com/track/1w9aAAqRAVunR4jXhgzwZu) | [The Flying Pickets](https://open.spotify.com/artist/41A6Xdil8qhaD2DcS4X1wA) | [The Best Of The Flying Pickets](https://open.spotify.com/album/31smZgJzugRPHvUhAWO4ch) | 3:24 |

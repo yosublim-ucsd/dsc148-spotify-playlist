@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,962 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,060 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 18 | [What Are You Listening To?](https://open.spotify.com/track/3KZw9g7PNBBx66sHNqme6Z) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [What Are You Listening To?](https://open.spotify.com/album/7DQVMB8uAJyLF7lyvY7j1n) | 4:05 |
 | 19 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
 | 20 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
-| 21 | [Sweet Symphony \(feat\. Chris Stapleton\)](https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:48 |
-| 22 | [Hard Livin'](https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 2:59 |
+| 21 | [Hard Livin'](https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 2:59 |
+| 22 | [Sweet Symphony \(feat\. Chris Stapleton\)](https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:48 |
 | 23 | [I Bet You Think About Me \(feat\. Chris Stapleton\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:45 |
 | 24 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 |
 | 25 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 48 | [Honky Tonk Hall Of Fame](https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Cowboys And Dreamers](https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ) | 3:09 |
 | 49 | [Amanda \(feat\. Morgane Stapleton\)](https://open.spotify.com/track/31N3agcx1BKlLkYBXAx1Ax) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX) | [Gentle Giants: The Songs of Don Williams](https://open.spotify.com/album/4Fa6HWiSqDPsa7E27BOUdt) | 3:02 |
 
-Snapshot ID: `Z2dWgAAAAAA4LrVVkSxEvq775526Z9S5`
+Snapshot ID: `Z2ioAAAAAAAG+R92xZ0TGPcPAYum0Vox`

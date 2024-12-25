@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 402896,
       "name": "Amabhoza",
       "url": "https://open.spotify.com/track/3Aw4XtR8BopVdvJ1dGnevM"
@@ -9490,7 +9490,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 218274,
       "name": "Dali (feat. Bless The Gentleman & DJ Kap)",
       "url": "https://open.spotify.com/track/6ZiPVgBrULcpN0n9qQ3XO4"
@@ -18844,7 +18844,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 351200,
       "name": "Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",
       "url": "https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W"
@@ -24010,7 +24010,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -29948,6 +29948,32 @@
       "duration_ms": 361528,
       "name": "Nkao Tempela",
       "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
+    },
+    {
+      "album": {
+        "name": "Nkombela I Chuza",
+        "url": "https://open.spotify.com/album/2S27pW9TmSqA9AsBQMLLu9"
+      },
+      "artists": [
+        {
+          "name": "Lekker Stylist",
+          "url": "https://open.spotify.com/artist/5ms4S9gw00iz0ycIJkyUsw"
+        },
+        {
+          "name": "J JOHN THE BIG BABY",
+          "url": "https://open.spotify.com/artist/68xbB2jR45GGTyGHIH9lwX"
+        },
+        {
+          "name": "Salani The Producer",
+          "url": "https://open.spotify.com/artist/06yxTLQpdHGW33Pb5yz011"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260310,
+      "name": "Nkombela I Chuza",
+      "url": "https://open.spotify.com/track/7AGLBIb0r1jDTHIV6N2mGa"
     },
     {
       "album": {
@@ -43546,7 +43572,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -43802,7 +43828,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 368699,
       "name": "Uhambe Wrongo (feat. Mr. Maker)",
       "url": "https://open.spotify.com/track/40zr1pQlSaIWUYyR8APyy2"
@@ -45962,7 +45988,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 285034,
       "name": "Wadibusa (feat. Royal MusiQ, OHP Sage, & Pcee)",
       "url": "https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI"

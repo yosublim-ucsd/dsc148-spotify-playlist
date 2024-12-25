@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,435 likes - 75 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,494 likes - 75 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 68 | [July Matham](https://open.spotify.com/track/33YNTB6DdLOub76BwkWkBj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Chandralekha Annupamaa](https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv) | [Pudhiya Mugam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41C2DoK8FZqe2rtg4KAxm5) | 4:28 |
 | 69 | [Thoda Thoda](https://open.spotify.com/track/5WhghgcVQSIhFgGTYdtCTO) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Indira](https://open.spotify.com/album/0WA88rP1L6ZbZOYjv4dAqt) | 5:08 |
 | 70 | [EMPEARU PADAIYAPPA](https://open.spotify.com/track/2KymsRETufVngoXJe1ZzY2) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [A.R.RAHMAN VIBRATION](https://open.spotify.com/album/2xcX4329gzbTfJu6xc0Kui) | 5:25 |
-| 71 | [Rukkumani Rukkumani](https://open.spotify.com/track/7HHNlCp1VXGqu960Z7ECcu) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 5:53 |
-| 72 | [Errani Kurrathanni \(Koli Kunju\)](https://open.spotify.com/track/5KIqSUol7yUXvf7rosJXMA) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Kaadhalan](https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT) | 5:09 |
+| 71 | [Errani Kurrathanni \(Koli Kunju\)](https://open.spotify.com/track/5KIqSUol7yUXvf7rosJXMA) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Kaadhalan](https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT) | 5:09 |
+| 72 | [Rukkumani Rukkumani](https://open.spotify.com/track/7HHNlCp1VXGqu960Z7ECcu) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Roja](https://open.spotify.com/album/4aLMaanVxHRKd9Mf4KJo2H) | 5:53 |
 | 73 | [Odakaara](https://open.spotify.com/track/4dU3raXOoNoQE8wPlksNbb) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sirkazhi G\. Sivachidambaram](https://open.spotify.com/artist/2qiqvIseQQw7vvb8STzQEA) | [Indira](https://open.spotify.com/album/0WA88rP1L6ZbZOYjv4dAqt) | 4:21 |
 | 74 | [Minnalea En Vazhvin](https://open.spotify.com/track/6078vTOfNPOHZDuyzzsMLx) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:36 |
 | 75 | [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 |

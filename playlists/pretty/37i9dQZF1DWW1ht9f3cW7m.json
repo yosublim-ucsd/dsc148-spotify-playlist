@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29419,
+  "num_followers": 29423,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "She Likes a Boy",
-        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
       "artists": [
         {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 129056,
-      "name": "She Likes a Boy",
-      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
+      "duration_ms": 172007,
+      "name": "New Love",
+      "url": "https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+        "name": "She Likes a Boy",
+        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
         }
       ],
-      "duration_ms": 172007,
-      "name": "New Love",
-      "url": "https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO"
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 237117,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Quiet & Perfect",
-        "url": "https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn"
-      },
-      "artists": [
-        {
-          "name": "Essence Martins",
-          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
-        }
-      ],
-      "duration_ms": 218367,
-      "name": "Quiet & Perfect",
-      "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Bunny",
         "url": "https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm"
       },
@@ -839,22 +823,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "The End of the Contender",
-        "url": "https://open.spotify.com/album/0wInWtAoFAQtzg9Pp4G91n"
-      },
-      "artists": [
-        {
-          "name": "Everything Everything",
-          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "The End of the Contender",
-      "url": "https://open.spotify.com/track/2LpNomwbgz7bAIDdqvX5bq"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Crashmat",
         "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
       },
@@ -867,6 +835,38 @@
       "duration_ms": 220908,
       "name": "Crashmat",
       "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Quiet & Perfect",
+        "url": "https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "duration_ms": 218367,
+      "name": "Quiet & Perfect",
+      "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "The End of the Contender",
+        "url": "https://open.spotify.com/album/0wInWtAoFAQtzg9Pp4G91n"
+      },
+      "artists": [
+        {
+          "name": "Everything Everything",
+          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "The End of the Contender",
+      "url": "https://open.spotify.com/track/2LpNomwbgz7bAIDdqvX5bq"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 192444,
       "name": "Boys",
       "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Compliment Strike",
-        "url": "https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC"
-      },
-      "artists": [
-        {
-          "name": "Sarah Crean",
-          "url": "https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0"
-        }
-      ],
-      "duration_ms": 204381,
-      "name": "Compliment Strike",
-      "url": "https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Now That I Know You",
         "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 226240,
       "name": "Now That I Know You",
       "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Compliment Strike",
+        "url": "https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Crean",
+          "url": "https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0"
+        }
+      ],
+      "duration_ms": 204381,
+      "name": "Compliment Strike",
+      "url": "https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV"
     },
     {
       "added_at": "2024-09-20 11:39:59",

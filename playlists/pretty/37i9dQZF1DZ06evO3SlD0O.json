@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 26179,
+  "num_followers": 26195,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADTk9PNl09izwTOy656yaWV",
+  "snapshot_id": "Z2ioAAAAAACXbUuvf9Otwbh3F/MfxqEJ",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "La Paga",
-      "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Amores Ni Deudas",
         "url": "https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 184000,
       "name": "Tres Por Una",
       "url": "https://open.spotify.com/track/7961JijxsrpZXUzWkquseT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "La Paga",
+      "url": "https://open.spotify.com/track/062yrpH0fP3Mz5cWyb5DYP"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 185760,
-      "name": "Corazon Viejo",
-      "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
+      "duration_ms": 176533,
+      "name": "Ultimo Amor, Ultimo Due\u00f1o",
+      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 176533,
-      "name": "Ultimo Amor, Ultimo Due\u00f1o",
-      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
+      "duration_ms": 185760,
+      "name": "Corazon Viejo",
+      "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 168520,
-      "name": "El Divorcio",
-      "url": "https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d"
+      "duration_ms": 125133,
+      "name": "El Conejito",
+      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 125133,
-      "name": "El Conejito",
-      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
+      "duration_ms": 168520,
+      "name": "El Divorcio",
+      "url": "https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d"
     },
     {
       "added_at": null,

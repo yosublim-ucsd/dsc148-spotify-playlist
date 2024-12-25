@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,184 songs - 3 day 11 hr 15 min
+2,185 songs - 3 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -771,7 +771,7 @@
 | [Go to sleep](https://open.spotify.com/track/5BjcGj8GGtrnk0E0IGFqvD) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Go to sleep](https://open.spotify.com/album/2KPWKG9c1ZMKVWeGy45oJ5) | 2:24 | 2024-10-11 | 2024-11-16 |
 | [Goemon](https://open.spotify.com/track/7gfFlcWn0kNXi7oqTjkvTe) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Goemon](https://open.spotify.com/album/0GuzjoM2X7sGfV3VWcTduF) | 2:27 | 2023-08-03 | 2023-10-06 |
 | [Goes Around Comes Around](https://open.spotify.com/track/5FAGCFR3IUYJfOC4VCys8b) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Goes Around Comes Around](https://open.spotify.com/album/2wucS65hsTvv8WIVhLTJb1) | 2:31 | 2022-08-19 | 2022-12-17 |
-| [going home](https://open.spotify.com/track/1CP8ak51uQUi1G3MwBCYFk) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [going home](https://open.spotify.com/album/6loXdEyhzQlGIuDc1A96pO) | 2:03 | 2022-10-28 |  |
+| [going home](https://open.spotify.com/track/1CP8ak51uQUi1G3MwBCYFk) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [going home](https://open.spotify.com/album/6loXdEyhzQlGIuDc1A96pO) | 2:03 | 2022-10-28 | 2024-12-25 |
 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 | 2023-02-13 |  |
 | [golden ratio](https://open.spotify.com/track/4F5FPoDTBsuFmwkmIiDypZ) | [russki dilemma](https://open.spotify.com/artist/7Mo8ORceX8Hw7BdLKRso4J) | [golden ratio](https://open.spotify.com/album/2K2SqemhUZ9RO6ZWNr6sjZ) | 2:23 | 2022-04-15 | 2023-08-18 |
 | [Good As You](https://open.spotify.com/track/4r0wRQ7pw3ACGqNAKst3vB) | [Olle NB](https://open.spotify.com/artist/5HpbRGf62WXEBZbbMBCx80) | [Phases](https://open.spotify.com/album/01BpB45Lmbt3hZzurYa3It) | 1:39 | 2022-09-02 | 2024-05-25 |
@@ -1913,6 +1913,7 @@
 | [Tender Tales](https://open.spotify.com/track/2vDJwbZllSZlvrC5G9MfCO) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Tender Tales](https://open.spotify.com/album/3N2jyy1OZY4bSNp9g9E50C) | 2:05 | 2023-06-06 | 2024-05-14 |
 | [Tender Times](https://open.spotify.com/track/6ctX10iWWXVvTM4vOnXAwc) | [Chuttersnap](https://open.spotify.com/artist/3AMiRynEiWSUzZ5yNkV4ku) | [Tender Times](https://open.spotify.com/album/1ej8XQjJ9AxClxwCqyIZZp) | 2:41 | 2024-02-09 | 2024-12-07 |
 | [Tequila Sunrise](https://open.spotify.com/track/5jS2VBynvsmlw1T7eJE6UI) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Tequila Sunrise](https://open.spotify.com/album/6o0k1gVG5kor4c0U3dTLvU) | 2:15 | 2022-12-09 | 2023-02-07 |
+| [textiles](https://open.spotify.com/track/3pMd3EokAaiyt7zK8kpj37) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [textiles](https://open.spotify.com/album/1Vai20DgfuW1cHKUbs1jPi) | 2:34 | 2024-12-20 |  |
 | [Textures](https://open.spotify.com/track/7M1kcElpSjJe28fUC3UGXq) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Textures](https://open.spotify.com/album/6eRV6jqU3EWIFSAAtWGyJv) | 1:28 | 2022-07-08 | 2022-12-03 |
 | [that old lick](https://open.spotify.com/track/01pPzpTbSyIqi9vgVjDqpO) | [efedrin](https://open.spotify.com/artist/0XghY48i09UXnmTiQcnE1p) | [it came from the desert](https://open.spotify.com/album/69AKTWMJ44wbayjX4vjaUb) | 1:24 | 2022-04-15 | 2022-09-09 |
 | [That's My Jam](https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [That's My Jam](https://open.spotify.com/album/0WWP9a6jvXdvStIu9tAvme) | 2:32 | 2023-12-22 |  |

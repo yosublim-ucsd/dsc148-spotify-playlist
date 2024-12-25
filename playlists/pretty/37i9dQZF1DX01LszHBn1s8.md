@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > jinx<3
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,249 likes - 1,006 songs - 2 day 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,284 likes - 1,006 songs - 2 day 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 18 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 19 | [Armani](https://open.spotify.com/track/5avYou6QKMsC1nnbOkqqm9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [YEMAYA](https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx) | 3:02 |
 | 20 | [The Hangover Song \(feat\. Snooki\)](https://open.spotify.com/track/7yR2RvT5ooC6YemNnB3CgZ) | [Jake Shane](https://open.spotify.com/artist/3ynls30g8t6RFmqcrfn0CW), [Snooki](https://open.spotify.com/artist/2VbVUqMdp87LFyVdAamdnc) | [Puss & Poems](https://open.spotify.com/album/3hC5jDX8N8Vn9wLcmBqptl) | 3:22 |
-| 21 | [Don’t HMU](https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv) | [Anella](https://open.spotify.com/artist/6R7tmfQRRfndnDIWXVJ4lZ) | [Season 3: I Made You](https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8) | 1:38 |
+| 21 | [Don’t HMU](https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 3: I Made You](https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8) | 1:38 |
 | 22 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 |
 | 23 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 |
 | 24 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 |

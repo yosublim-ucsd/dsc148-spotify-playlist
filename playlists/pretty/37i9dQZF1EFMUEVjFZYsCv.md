@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 82 | [Is It Alright?](https://open.spotify.com/track/3fXvARTUbGQ25DegAOBZDd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:44 |
 | 83 | [Roses](https://open.spotify.com/track/3exRCJnBrKSRhGXR4kcakZ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 4:14 |
 | 84 | [Ride](https://open.spotify.com/track/2Az99n5ipF0IxlwTwYR4yF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:48 |
-| 85 | [4000 Miles](https://open.spotify.com/track/0PlLtt2CJaVkkFJUzzlHMt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:08 |
-| 86 | [Ruthless](https://open.spotify.com/track/4MGkRLnl4ooV9TvvAlJklt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:12 |
+| 85 | [Ruthless](https://open.spotify.com/track/4MGkRLnl4ooV9TvvAlJklt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:12 |
+| 86 | [4000 Miles](https://open.spotify.com/track/0PlLtt2CJaVkkFJUzzlHMt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:08 |
 | 87 | [Nothing In The Way Of Us](https://open.spotify.com/track/55t3fgRMsDdmCy8PWJ1rQg) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 3:12 |
 | 88 | [Comeback Kid](https://open.spotify.com/track/2TKDsoGfxdpuD8lgFsk4ea) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:53 |
 | 89 | [Religion](https://open.spotify.com/track/0XQkjNLEQYts6XYvyUDZqt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 3:29 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 96 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
 | 97 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `Abk8LAAAAAAwVZIaG9zvrdvT6XpKSv6e`
+Snapshot ID: `AblB/gAAAACU0DXXPqsTeSmZqdi+1AzP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,609 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,608 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 44 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 |
 | 45 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
 | 46 | [counting crimes](https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [counting crimes](https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW) | 3:02 |
-| 47 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
-| 48 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 |
+| 47 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 |
+| 48 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
 | 49 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 |
 | 50 | [Tears on the dancefloor](https://open.spotify.com/track/0OXC7IGzv3OmxZBXhtC522) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Tears on the dancefloor](https://open.spotify.com/album/7eiXcxepPal5LmfLfX2hqj) | 2:53 |
 | 51 | [the me i was](https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:00 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 63 | [Pink Convertible](https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:41 |
 | 64 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 |
 | 65 | [Own Worst Enemy](https://open.spotify.com/track/6hOHtSDgThl9APiEWnaPI6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Own Worst Enemy](https://open.spotify.com/album/10yQR0XNy1taL1jRqoNvfN) | 3:00 |
-| 66 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 |
-| 67 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 66 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
+| 67 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 |
 | 68 | [Hypocrite](https://open.spotify.com/track/4V1P86yQsSLuixD5K8wCbU) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hypocrite](https://open.spotify.com/album/2pkpcOD7miiipAVKr5OyqP) | 2:43 |
 | 69 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 |
 | 70 | [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 |

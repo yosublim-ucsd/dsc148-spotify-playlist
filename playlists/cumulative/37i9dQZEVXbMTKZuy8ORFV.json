@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112848,
+      "name": "Ah\u00ed Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y"
+    },
+    {
+      "album": {
         "name": "Ai Cowboy (BeM Interior, Ao Vivo)",
         "url": "https://open.spotify.com/album/0QuBrXPaGTtgVgPocJmvIk"
       },
@@ -3525,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -3934,7 +3970,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 176250,
       "name": "COLOCARTELO",
       "url": "https://open.spotify.com/track/4xXvGEiTkoaIkOMWa4u3Mn"
@@ -4160,7 +4196,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 162446,
       "name": "Corazon Partio",
       "url": "https://open.spotify.com/track/2OsAAhXEfoYjqiwujtPmPd"
@@ -4350,7 +4386,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 155789,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/5eM2ZJRU1fu0AlHLto7EWj"
@@ -5551,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "EL CL\u00faB",
+        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
+    },
+    {
+      "album": {
         "name": "La la Love You Bonus",
         "url": "https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb"
       },
@@ -5894,7 +5948,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 183243,
       "name": "En El Pr\u00f3ximo Big Bang",
       "url": "https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez"
@@ -6174,6 +6228,40 @@
       "duration_ms": 411729,
       "name": "Estoy Convencido - En vivo",
       "url": "https://open.spotify.com/track/3tibAhUL1rTJjnqipgRwgl"
+    },
+    {
+      "album": {
+        "name": "Private Suite (Vol. 2)",
+        "url": "https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462561,
+      "name": "ETA - RMX",
+      "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
     },
     {
       "album": {
@@ -9203,6 +9291,32 @@
     },
     {
       "album": {
+        "name": "La Cumbita",
+        "url": "https://open.spotify.com/album/7wKvrO3R1UJ9jo1WX706oi"
+      },
+      "artists": [
+        {
+          "name": "Ale Cardozo",
+          "url": "https://open.spotify.com/artist/3aSGLLlHSFCNgt6Kc7rG3V"
+        },
+        {
+          "name": "Tamb\u00f3 Tamb\u00f3",
+          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+        },
+        {
+          "name": "Diego Mujica",
+          "url": "https://open.spotify.com/artist/0XrY718ShuGTAb7tzNH2H2"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201207,
+      "name": "La Cumbita",
+      "url": "https://open.spotify.com/track/2GO3ALudFF6LawOozeyklR"
+    },
+    {
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -9736,6 +9850,28 @@
       "duration_ms": 188680,
       "name": "Lejos De La Ciudad",
       "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
+    },
+    {
+      "album": {
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
       "album": {
@@ -10484,7 +10620,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -11360,6 +11496,28 @@
       "duration_ms": 237605,
       "name": "Mi peor enemigo",
       "url": "https://open.spotify.com/track/2icnkjMudyHcjCHbxvYo2l"
+    },
+    {
+      "album": {
+        "name": "Mi Refe",
+        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159404,
+      "name": "Mi Refe",
+      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
       "album": {
@@ -12248,7 +12406,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 197031,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/7sd6zMrgGpEa7NkQm9TRrg"
@@ -13405,6 +13563,28 @@
     },
     {
       "album": {
+        "name": "UGH / OTROS LUGARES",
+        "url": "https://open.spotify.com/album/0XhIxz89H75DGG7ku4T1FU"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201672,
+      "name": "OTROS LUGARES",
+      "url": "https://open.spotify.com/track/2UmxXelTCIFuaUF8TGuaJj"
+    },
+    {
+      "album": {
         "name": "Our Love (From the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1tIhcMv442xiVxVs9ryq62"
       },
@@ -13907,6 +14087,24 @@
     },
     {
       "album": {
+        "name": "Pero Te Quiero",
+        "url": "https://open.spotify.com/album/4QMR1aUJuisPOeqGGDDBa7"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185834,
+      "name": "Pero Te Quiero",
+      "url": "https://open.spotify.com/track/2BPqm5yVZhXpQmZhoAw6Ql"
+    },
+    {
+      "album": {
         "name": "GURUNDANGA",
         "url": "https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA"
       },
@@ -14344,7 +14542,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 208278,
       "name": "Porqu\u00e9 Te Vas",
       "url": "https://open.spotify.com/track/1ph6hH4i17D5QKeTtFzxv4"
@@ -14588,6 +14786,24 @@
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+    },
+    {
+      "album": {
+        "name": "Quiero Estar Contigo",
+        "url": "https://open.spotify.com/album/2yp2Jxuw9cBUOj7lLxITQy"
+      },
+      "artists": [
+        {
+          "name": "Nano Morris",
+          "url": "https://open.spotify.com/artist/5syRgser653FgMvgQ0Zl3P"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185898,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/5XuyXCNKKjAHTkxyW75z6I"
     },
     {
       "album": {
@@ -15371,6 +15587,24 @@
     },
     {
       "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
+    },
+    {
+      "album": {
         "name": "Happy - :') (Remixes)",
         "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
       },
@@ -15872,7 +16106,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 257364,
       "name": "SESSIONS #1 Un siglo sin ti, Mil preguntas, \u00c1mame",
       "url": "https://open.spotify.com/track/389CGQ4SL2mE70HcEhAwT4"
@@ -17275,6 +17509,28 @@
     },
     {
       "album": {
+        "name": "Sufro",
+        "url": "https://open.spotify.com/album/4JdfIzG9Y8GMm3qwHbyVNB"
+      },
+      "artists": [
+        {
+          "name": "Bonny Lovy",
+          "url": "https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1"
+        },
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195857,
+      "name": "Sufro",
+      "url": "https://open.spotify.com/track/6XUZKr0XN1mTe4auwLUPC1"
+    },
+    {
+      "album": {
         "name": "Super Tuna",
         "url": "https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT"
       },
@@ -17694,6 +17950,28 @@
       "duration_ms": 264880,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/0eJGouVmEGxPktWPSTfpuI"
+    },
+    {
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "J Abecia",
+          "url": "https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147451,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
     },
     {
       "album": {
@@ -18480,7 +18758,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 164925,
       "name": "Tristeza de la Ciudad",
       "url": "https://open.spotify.com/track/3AtcbS73lAe6PheNzSXKol"
@@ -18782,7 +19060,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 289131,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
@@ -19202,7 +19480,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 162947,
       "name": "UWAIE - versi\u00f3n cumbia",
       "url": "https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR"
@@ -19954,7 +20232,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 161133,
       "name": "Wasteland (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5r9OlaHzqlOKkFAv0q5Gm3"
@@ -21104,7 +21382,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 117192,
       "name": "Zn Fod\u00e1stica 2",
       "url": "https://open.spotify.com/track/4ftmzFb6Rq6fBODm9qUnFE"

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 936903,
+  "num_followers": 936918,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 172800,
       "name": "Welcome To The Future",
       "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/0oPhuMXsKIxAzc6mqartCz"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 166399,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/1v5IFYrqslFhjqqHpBebAg"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2024-12-06 05:00:00",

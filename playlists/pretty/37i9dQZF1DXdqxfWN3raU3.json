@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256748,
+  "num_followers": 256753,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 220000,
       "name": "Estetograma",
       "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232804,
-      "name": "Young Rich & In Love - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Ukiyo",
-        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 149667,
-      "name": "Ukiyo",
-      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "POR TI",
         "url": "https://open.spotify.com/album/0M47gcDDiE1RX0nMTsaGLH"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 184242,
       "name": "POR TI",
       "url": "https://open.spotify.com/track/5QpfbG5nGJ5qAOQGbEvDmi"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "Ukiyo",
+        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 149667,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "LUNAR",
-        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 186787,
-      "name": "LUNAR",
-      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 223643,
       "name": "Wiken",
       "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "LUNAR",
+        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "YE YE",
-        "url": "https://open.spotify.com/album/6CoUCIlyLE6YFVCVDadC7B"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 161986,
-      "name": "YE YE",
-      "url": "https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "Makin Money",
         "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 188737,
       "name": "Makin Money",
       "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "YE YE",
+        "url": "https://open.spotify.com/album/6CoUCIlyLE6YFVCVDadC7B"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 161986,
+      "name": "YE YE",
+      "url": "https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "LA PRIMERA VEZ",
-        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 171826,
-      "name": "LA PRIMERA VEZ",
-      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
+      "duration_ms": 159465,
+      "name": "ADI\u00d3S AMOR",
+      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
         }
       ],
-      "duration_ms": 159465,
-      "name": "ADI\u00d3S AMOR",
-      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/4mmd9jED8GQlXTkCVfisY6"
-      },
-      "artists": [
-        {
-          "name": "Lee Eye",
-          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
-        }
-      ],
-      "duration_ms": 166815,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/7LThzTLxMenP3WKcoGXind"
-    },
-    {
-      "added_at": "2024-12-13 06:00:12",
-      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-12-13 06:00:12",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4mmd9jED8GQlXTkCVfisY6"
+      },
+      "artists": [
+        {
+          "name": "Lee Eye",
+          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+        }
+      ],
+      "duration_ms": 166815,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7LThzTLxMenP3WKcoGXind"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "Caballo Negro",
-        "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
+        "name": "DAYDRMN / MOTION",
+        "url": "https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9"
       },
       "artists": [
         {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
         }
       ],
-      "duration_ms": 177548,
-      "name": "Caballo Negro",
-      "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
+      "duration_ms": 139500,
+      "name": "DAYDRMN",
+      "url": "https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP"
     },
     {
       "added_at": "2024-12-13 06:00:12",
@@ -1751,22 +1755,18 @@
     {
       "added_at": "2024-12-13 06:00:12",
       "album": {
-        "name": "DAYDRMN / MOTION",
-        "url": "https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9"
+        "name": "Caballo Negro",
+        "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
       },
       "artists": [
         {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        },
-        {
-          "name": "luvKMI",
-          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 139500,
-      "name": "DAYDRMN",
-      "url": "https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP"
+      "duration_ms": 177548,
+      "name": "Caballo Negro",
+      "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
     },
     {
       "added_at": "2024-12-13 06:00:12",

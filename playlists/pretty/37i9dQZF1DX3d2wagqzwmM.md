@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx & Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,279 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,548 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 64 | [Pull Me In](https://open.spotify.com/track/6YJFwZR6mxp8bU38WB3HeX) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Pull Me In](https://open.spotify.com/album/0HpxpO57kgacGm4dSkBdjP) | 2:27 |
 | 65 | [Gonna Dance with Somebody](https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj) | [Gonna Dance with Somebody](https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh) | 3:07 |
 | 66 | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4), [Hi\-Gate](https://open.spotify.com/artist/3b2xWHAlRoTooJKEnhc2cv) | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ) | 2:41 |
-| 67 | [Rock The House](https://open.spotify.com/track/7u95bREFrttCYkHUEARwYG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Rock The House](https://open.spotify.com/album/14CcOmDbh7oVvFJgXLIx63) | 2:17 |
-| 68 | [Judgement Day](https://open.spotify.com/track/3xW9EidN1zXYV7rPAYUNXd) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Judgement Day](https://open.spotify.com/album/2i8Lfne8ZaZxEtp11MCTrc) | 3:10 |
+| 67 | [Judgement Day](https://open.spotify.com/track/3xW9EidN1zXYV7rPAYUNXd) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Judgement Day](https://open.spotify.com/album/2i8Lfne8ZaZxEtp11MCTrc) | 3:10 |
+| 68 | [Rock The House](https://open.spotify.com/track/7u95bREFrttCYkHUEARwYG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Rock The House](https://open.spotify.com/album/14CcOmDbh7oVvFJgXLIx63) | 2:17 |
 | 69 | [Samba De Janeiro](https://open.spotify.com/track/43PYXbv72SNt7dS5eEzmI7) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba De Janeiro](https://open.spotify.com/album/4JeaZAgY2Z83xKTc7Elk9M) | 2:24 |
 | 70 | [The Way](https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [The Way](https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co) | 2:39 |
 | 71 | [Seven Nation Army](https://open.spotify.com/track/7BFwwCduDBbDG9fk9SlAYm) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [KRAIZ](https://open.spotify.com/artist/5RbgNkBwfYSM8yIYXn0Gwk) | [Seven Nation Army](https://open.spotify.com/album/3CPKAtHz1wxfXacap7HbDk) | 2:37 |

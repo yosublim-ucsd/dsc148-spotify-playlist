@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: X:IN
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: CLASS:y
 
-504 songs - 1 day 2 hr 25 min
+505 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 |  |
 | [Abracadabra](https://open.spotify.com/track/3OL3ZJ6YEJpTTxFENVK3L8) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Abracadabra \[THE SEASONS: Red Carpet with Lee Hyo Ri\]](https://open.spotify.com/album/7a81w6Jk4mMnDC6NL36zao) | 3:02 | 2024-03-11 | 2024-04-03 |
 | [ACACIA](https://open.spotify.com/track/5skqcVEBZpXIEICB0yj3XI) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [ACACIA](https://open.spotify.com/album/0hwx9RAwQqLMt5gCDrC49w) | 3:32 | 2022-05-28 | 2022-05-31 |
-| [ACHA \(%\)](https://open.spotify.com/track/3AOrAgpqLi6JR504vqmkY5) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [ACHA \(%\)](https://open.spotify.com/album/4k90iuUsaiLML9wS1t4Ue2) | 3:01 | 2024-12-13 |  |
+| [ACHA \(%\)](https://open.spotify.com/track/3AOrAgpqLi6JR504vqmkY5) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [ACHA \(%\)](https://open.spotify.com/album/4k90iuUsaiLML9wS1t4Ue2) | 3:01 | 2024-12-13 | 2024-12-25 |
 | [Addicted](https://open.spotify.com/track/2ffVhWaUuu5IRaoogJOGFz) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Fairyforest : Temptation](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) | 3:17 | 2021-10-13 | 2022-04-12 |
 | [Adios](https://open.spotify.com/track/5uHl2eYaITSX6xEX8bmaXy) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [HUSH](https://open.spotify.com/album/7tMpbKXDLlHPSCoPdF2OBv) | 3:09 | 2020-10-20 | 2022-04-21 |
 | [Adios](https://open.spotify.com/track/07IlTJZln2vfZtJ7vR4IMf) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Departure](https://open.spotify.com/album/3lj9479k4MvQckJEzhlZL7) | 3:20 | 2021-02-28 | 2022-04-18 |
@@ -138,7 +138,7 @@
 | [Egotistic](https://open.spotify.com/track/1JlZyCE3I7DWW28CBZEWuw) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [Queendom < Cover Contest >, Pt\. 1](https://open.spotify.com/album/6KEK9ix3xkhj7yqB3vZFtX) | 3:35 | 2020-10-20 | 2022-04-18 |
 | [Egotistic](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [RED MOON](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) | 3:16 | 2021-02-06 | 2022-04-12 |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-26 | 2023-10-05 |
-| [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-02 | 2024-12-09 |
+| [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-02 |  |
 | [EMPIRE \- Korean Version](https://open.spotify.com/track/1WwHt7pr5sOCLTbqp8ppIO) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [EMPIRE](https://open.spotify.com/album/2I8zuxlL9KuFAGRsSq9mTT) | 3:02 | 2021-01-15 | 2022-04-18 |
 | [ESPER](https://open.spotify.com/track/1zJRBZUlkdfvSP1071YkZF) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [ESPER](https://open.spotify.com/album/6A2dUUgMfNcqklkYq7ehTo) | 3:12 | 2022-03-10 | 2022-05-28 |
 | [ESPRESSO](https://open.spotify.com/track/61iEzLnJzBnMwumWtn0nFp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2021-11-19 | 2022-04-17 |
@@ -350,6 +350,7 @@
 | [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Poppy \(Korean Ver.\)](https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu) | 2:58 | 2023-02-03 | 2023-02-15 |
 | [pporappippam 보라빛 밤](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam 보라빛 밤](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 | 2020-10-13\* | 2022-06-16 |
 | [Psycho](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:30 | 2020-10-20 |  |
+| [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 | 2024-12-24 |  |
 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 | 2021-07-02 | 2022-10-01 |
 | [Purple](https://open.spotify.com/track/1vTnqL5pQuOkT6smX8ntCP) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | ["WISH"](https://open.spotify.com/album/0D6cvNG4C3o2Yxyf7iQnoA) | 2:56 | 2021-10-09 | 2022-06-21 |
 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 | 2022-05-28 | 2022-06-04 |
@@ -390,7 +391,7 @@
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2024-05-08 |
 | [Silent Movie](https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:20 | 2021-02-26 | 2022-04-16 |
 | [SLAY](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ALL MY GIRLS](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) | 3:40 | 2023-08-18 | 2023-09-26 |
-| [Sleigh](https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Christmas Promises](https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1) | 3:08 | 2024-12-04 |  |
+| [Sleigh](https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Christmas Promises](https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1) | 3:08 | 2024-12-04 | 2024-12-25 |
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-02-27 |  |
 | [Snapping](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:33 | 2020-10-20 | 2022-07-28 |
 | [So I Lie](https://open.spotify.com/track/6W3dOxHtG9BGSkCsIHZRVI) | [YerY](https://open.spotify.com/artist/4RnDWh3zemdMGubIQLeT6H) | [So I Lie](https://open.spotify.com/album/2KGPPS4bKfNA8ObCMx8jk1) | 3:00 | 2021-10-03 | 2022-04-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,273 likes - 94 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,287 likes - 94 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 11 | [Fábulas](https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6) | [Alumine](https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3) | [Fábulas](https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX) | 4:19 |
 | 12 | [El Efecto Calma](https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6) | [Alumine](https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3) | [El Efecto Calma](https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp) | 4:06 |
 | 13 | [Fool Times](https://open.spotify.com/track/1V5Rk0zJFtw3Fz6DnRxIQf) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD) | [Big Bombo Mamma](https://open.spotify.com/album/2mUnAYErozFk0gn4V8noY8) | 3:56 |
-| 14 | [CAFE NEGRO](https://open.spotify.com/track/2tsyisOIKxVARnkZ4mMTjl) | [Militantes del Climax](https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv) | [NUEVA SANGRE](https://open.spotify.com/album/2T5tZZuvVcTpBIVFxFPplr) | 3:16 |
+| 14 | [Ultra\-Funk](https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The New Sound of the Venezuelan Gozadera](https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh) | 3:38 |
 | 15 | [Solo Quiero \(funk\)](https://open.spotify.com/track/3PJ99tQgPE8ORNxs7DqniW) | [Tiger Mood](https://open.spotify.com/artist/3HFKC76u3isQMK8Ahy4C5r) | [La Semilla](https://open.spotify.com/album/5KB8vJGorzz68q7Ei2xZyk) | 3:23 |
-| 16 | [Ultra\-Funk](https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The New Sound of the Venezuelan Gozadera](https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh) | 3:38 |
+| 16 | [CAFE NEGRO](https://open.spotify.com/track/2tsyisOIKxVARnkZ4mMTjl) | [Militantes del Climax](https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv) | [NUEVA SANGRE](https://open.spotify.com/album/2T5tZZuvVcTpBIVFxFPplr) | 3:16 |
 | 17 | [Fiestas en las Nubes](https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn) | [INTI GARCIA](https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL) | [Fiestas en las Nubes](https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A) | 2:42 |
 | 18 | [1000 Días](https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 3:42 |
 | 19 | [Good to Know](https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m) | [Grace & Badlove](https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE) | [Good to Know](https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ) | 3:57 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 41 | [Tal para Cual](https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 3:29 |
 | 42 | [Negra Monamour](https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 3:32 |
 | 43 | [Croto](https://open.spotify.com/track/2ux0J745Hy92t4iSLF9qMc) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Especies](https://open.spotify.com/album/4hPlGM0VqF1tmjVtkKyKo7) | 3:13 |
-| 44 | [Coconut Boogaloo](https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 3:57 |
-| 45 | [Sinestesia](https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Sinestesia](https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT) | 4:27 |
+| 44 | [Sinestesia](https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Sinestesia](https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT) | 4:27 |
+| 45 | [Coconut Boogaloo](https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 3:57 |
 | 46 | [Baila el Funk](https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0) | [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6), [Wirchi](https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1) | [RE$FRIADO](https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5) | 3:23 |
 | 47 | [Vos No](https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vos No](https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief) | 3:40 |
 | 48 | [Bienvenidos al Presente](https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 4:19 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 72 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 |
 | 73 | [Best Of Us](https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq), [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Best Of Us](https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH) | 3:05 |
 | 74 | [Therapy](https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Therapy](https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn) | 3:50 |
-| 75 | [Get Porn](https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D) | [Free Anguila](https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN) | [Get Porn](https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh) | 5:43 |
+| 75 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
 | 76 | [Todo Atrás](https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8) | [Fonky Taxi](https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre) | [La Nave](https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk) | 4:32 |
-| 77 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
+| 77 | [Get Porn](https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D) | [Free Anguila](https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN) | [Get Porn](https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh) | 5:43 |
 | 78 | [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 |
-| 79 | [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 |
+| 79 | [Nada Sería Igual](https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Nada Sería Igual](https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw) | 3:23 |
 | 80 | [Beast in You](https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 5:15 |
-| 81 | [Nada Sería Igual](https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Nada Sería Igual](https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw) | 3:23 |
+| 81 | [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 |
 | 82 | [De Antes](https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [De Antes](https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl) | 3:28 |
 | 83 | [Twice](https://open.spotify.com/track/3VKdesoESiJOCohefJctj3) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Twice](https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527) | 3:36 |
 | 84 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |

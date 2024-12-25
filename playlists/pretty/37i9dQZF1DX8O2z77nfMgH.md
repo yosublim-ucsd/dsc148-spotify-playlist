@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Arcángel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,099 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,144 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 28 | [VEN DEVORAME OTRA VEZ](https://open.spotify.com/track/0cdKJgwwt2HeVJkiTX8wpl) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Aguinaldo](https://open.spotify.com/album/1NIulGAguTLJxREWCVe3QH) | 6:06 |
 | 29 | [La Gata Bajo La Lluvia \- En Vivo](https://open.spotify.com/track/0TEYDwtrQs3qbA6xTNOa3B) | [Brenda K\. Starr](https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B) | [BarCode Sessions \(En Vivo\)](https://open.spotify.com/album/2AOi4vr0aIpuBsd1uGlu7J) | 5:03 |
 | 30 | [Costa](https://open.spotify.com/track/5mMBb2qFfu3IH1oolQXlch) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [C.O.P](https://open.spotify.com/album/3NSUt0YHfmhaj1K1RptnKL) | 3:29 |
-| 31 | [MAS LOCO QUE TU](https://open.spotify.com/track/3VV1vrtcicdnst83mWFPnW) | [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [MAS LOCO QUE TU](https://open.spotify.com/album/4FwoHjtqk0VAt4eJaW0prH) | 3:40 |
+| 31 | [MAS LOCO QUE TU](https://open.spotify.com/track/3VV1vrtcicdnst83mWFPnW) | [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [El Pepo Show](https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB) | [MAS LOCO QUE TU](https://open.spotify.com/album/4FwoHjtqk0VAt4eJaW0prH) | 3:40 |
 | 32 | [MODO SPORT](https://open.spotify.com/track/1p4BVC11HlRaD3UYUfz224) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [BLESSS THE ALBUM](https://open.spotify.com/album/1y02bk1KS6PXRJDvxHdAen) | 1:57 |
 | 33 | [Dime Que Ves](https://open.spotify.com/track/3hL8TU1LlIx53LwH81O3zl) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [LuisRa](https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY) | [De Amor](https://open.spotify.com/album/5AwXkrPz1SIt86WkdWjD9w) | 3:00 |
 | 34 | [Rulay](https://open.spotify.com/track/3dqJJ2o12aqMArDLs7v9nu) | [Kiko Rivera](https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87) | [Rulay](https://open.spotify.com/album/301x93rh9EiZPusi4gDwNU) | 2:31 |

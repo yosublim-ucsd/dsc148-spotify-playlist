@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Songs to keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,324,513 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,324,419 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 127 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |
 | 128 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 |
 | 129 | [In The Kitchen](https://open.spotify.com/track/44EmuDeJW0Io8HIUUIdgIR) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone \(Deluxe\)](https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX) | 3:47 |
-| 130 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 |
-| 131 | [Crying My Eyes Out](https://open.spotify.com/track/1FXS09ZtlsCHvDBWWuqsnp) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Crying My Eyes Out](https://open.spotify.com/album/0sldlbNtOFnq3BkSyfTpt2) | 2:55 |
+| 130 | [Crying My Eyes Out](https://open.spotify.com/track/1FXS09ZtlsCHvDBWWuqsnp) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Crying My Eyes Out](https://open.spotify.com/album/0sldlbNtOFnq3BkSyfTpt2) | 2:55 |
+| 131 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 |
 | 132 | [Skyscraper](https://open.spotify.com/track/2FhWY5qi1omQgkjuIlEiiU) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/2gvjoyajBJe7RPyE8UidmP) | 3:41 |
 | 133 | [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 |
 | 134 | [Come Home](https://open.spotify.com/track/0bJfgUyjfPJYqRgUxb12Eh) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:21 |

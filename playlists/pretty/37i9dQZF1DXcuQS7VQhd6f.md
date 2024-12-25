@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,282 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,357 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 70 | [Speak to My Heart](https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Donnie McClurkin](https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn) | 5:22 |
 | 71 | [I Almost Let Go](https://open.spotify.com/track/7mg2zRCXpQG4kAGBlZrT7W) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3) | 5:40 |
 | 72 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 |
-| 73 | [I Told The Storm](https://open.spotify.com/track/2sZGeLC3p0vIBMWp4g2dxL) | [Greg O'Quin 'N Joyful Noyze](https://open.spotify.com/artist/4R4zqM6Mn6jgyE59Q7ZCMd) | [I Told The Storm](https://open.spotify.com/album/1yPqi2wuhnCZrnfCsD6hQR) | 4:30 |
-| 74 | [If He Did It Before....Same God \- Live](https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 4:05 |
+| 73 | [If He Did It Before....Same God \- Live](https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 4:05 |
+| 74 | [I Told The Storm](https://open.spotify.com/track/2sZGeLC3p0vIBMWp4g2dxL) | [Greg O'Quin 'N Joyful Noyze](https://open.spotify.com/artist/4R4zqM6Mn6jgyE59Q7ZCMd) | [I Told The Storm](https://open.spotify.com/album/1yPqi2wuhnCZrnfCsD6hQR) | 4:30 |
 | 75 | [Nobody Greater](https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Triumphant](https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y) | 6:09 |
 | 76 | [I Need You To Survive](https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 7:31 |
 | 77 | [You Are The Living Word \(Live\)](https://open.spotify.com/track/5X2jIyGY95YNF3kmeOg1V1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Purpose By Design](https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA) | 5:27 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 | 83 | [My Name is Victory](https://open.spotify.com/track/5SDnSsuRRQXmIIU75neTAG) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Right Now Praise](https://open.spotify.com/album/5bXz7wIK9dCdP5Ua5WxSox) | 6:32 |
 | 84 | [It Ain't Over](https://open.spotify.com/track/7bGft4bG3evhX1ptBtSclF) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [The Dream](https://open.spotify.com/album/6a93AkkgChGuCFDY2U4e0S) | 6:51 |
 | 85 | [Love Him Like I Do](https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Revealed](https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD) | 3:18 |
-| 86 | [I Will Bless the Lord \- Live](https://open.spotify.com/track/5Kt3OBConX9X0FSHZt39tI) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [An Invitation To Worship](https://open.spotify.com/album/7H9wB5xoMmttsEGEVimIPm) | 5:17 |
-| 87 | [Great Is Your Mercy \- Live](https://open.spotify.com/track/62DNye6dXRsmZNVJaXZYc5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 8:04 |
+| 86 | [Great Is Your Mercy \- Live](https://open.spotify.com/track/62DNye6dXRsmZNVJaXZYc5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 8:04 |
+| 87 | [I Will Bless the Lord \- Live](https://open.spotify.com/track/5Kt3OBConX9X0FSHZt39tI) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [An Invitation To Worship](https://open.spotify.com/album/7H9wB5xoMmttsEGEVimIPm) | 5:17 |
 | 88 | [Let It Rain](https://open.spotify.com/track/6L3o6xf3aR5rF1WKN46IuG) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk) | [Bishop Paul Morton \- Let It Rain](https://open.spotify.com/album/1qsnkRCuP9AQD4tKHordO0) | 8:29 |
 | 89 | [Jesus Be a Fence Around Me \(Live\)](https://open.spotify.com/track/55XwQUPN08JYyxvULNPUk7) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Purpose By Design](https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA) | 7:30 |
 | 90 | [My Life Is In Your Hands](https://open.spotify.com/track/58b4jrSFpBMXdNFZFGPbrj) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:35 |

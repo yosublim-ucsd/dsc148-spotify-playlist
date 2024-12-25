@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 179041,
       "name": "Casa Melhor",
       "url": "https://open.spotify.com/track/0vfN1RYc1aDmf46CpE7EsC"
@@ -7942,6 +7942,28 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
+    },
+    {
+      "album": {
+        "name": "2T Na Levada",
+        "url": "https://open.spotify.com/album/1epohEdKycc956pIE204lC"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "E A\u00ed Como Que T\u00e1 ?",
+      "url": "https://open.spotify.com/track/44BehH5rk8B5K4OtRxqpez"
     },
     {
       "album": {
@@ -15976,7 +15998,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 172366,
       "name": "Ma Ch\u00e9rie",
       "url": "https://open.spotify.com/track/1aIJLbvrWSW7NGLlprGhBo"
@@ -17240,7 +17262,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 194602,
       "name": "Miracle Dream Come True",
       "url": "https://open.spotify.com/track/6BehlhDxnHcFmnXMfxl7Fs"
@@ -17320,7 +17342,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -27082,7 +27104,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"

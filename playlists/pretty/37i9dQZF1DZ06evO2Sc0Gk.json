@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19711,
+  "num_followers": 19713,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADGSm9NhGPX5KmiR4DCWbkB",
+  "snapshot_id": "Z2ioAAAAAACDPdwdvYI13v2s2bSbajhp",
   "tracks": [
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Mo-T",
-          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Property",
-      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e0\u00e0j\u00ed",
         "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 149741,
       "name": "F\u00e0\u00e0j\u00ed",
       "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
     },
     {
       "added_at": null,
@@ -875,18 +875,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+        "name": "Sekkle & Bop",
+        "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
       },
       "artists": [
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 149387,
-      "name": "Panadol",
-      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
+      "duration_ms": 156327,
+      "name": "Sekkle & Bop (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
     },
     {
       "added_at": null,
@@ -919,26 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sekkle & Bop",
-        "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
       "artists": [
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dre Skull",
-          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 156327,
-      "name": "Sekkle & Bop (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
+      "duration_ms": 149387,
+      "name": "Panadol",
+      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
     },
     {
       "added_at": null,

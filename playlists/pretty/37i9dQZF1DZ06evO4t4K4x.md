@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 > This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,278 likes - 41 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281 likes - 41 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 23 | [The Pattern Emerges](https://open.spotify.com/track/1CG4YEEQpvYe8aEUXf1mvu) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 2:55 |
 | 24 | [A New View of Politics](https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:41 |
 | 25 | [Hannett and Delia synth exchanges track 5](https://open.spotify.com/track/70uqGMtFCdPxNxRQQfjMWf) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 3:40 |
-| 26 | [The Afterlife, Pt\. 1](https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 1:48 |
-| 27 | [Delia's Dream](https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Standard Music Library](https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 0:40 |
+| 26 | [Delia's Dream](https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Standard Music Library](https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 0:40 |
+| 27 | [The Afterlife, Pt\. 1](https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 1:48 |
 | 28 | [Know Your Car \(Get out and Get Under\)](https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:59 |
 | 29 | [Hannett and Delia synth exchanges track 3](https://open.spotify.com/track/1xI597kDPd4Z7eZHZaaJ9L) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Martin Hannett](https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb) | [The Synth And Electronic Recording Exchanges](https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks) | 2:43 |
 | 30 | [Falling, From the Dreams \- Radio Version 1964](https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol\. 1](https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v) | 8:46 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 40 | [Delia's Psychadelian Waltz](https://open.spotify.com/track/3NmsD9RDuyEcrodadErSMk) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Standard Music Library](https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS) | [Electronic](https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS) | 0:35 |
 | 41 | [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 |
 
-Snapshot ID: `Z2dWgAAAAABI3PsrUf1NS21xECi+OcJZ`
+Snapshot ID: `Z2ioAAAAAAAMlyRCCf/IyzajtCCQBt8o`

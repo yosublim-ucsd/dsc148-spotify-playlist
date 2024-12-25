@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: Ichika Nito
 
-1,165 songs - 3 day 4 hr 59 min
+1,168 songs - 3 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Boys Jump The Midnight](https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9) | [The Cro\-magnons](https://open.spotify.com/artist/2zznlBwNMFL1nlABMoqq0b) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 3:55 | 2023-03-21 | 2023-07-26 |
 | [Boys Jump The Midnight](https://open.spotify.com/track/3VW1vYhEHtz3NqszJuBSHA) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:31 | 2023-03-21 | 2023-04-09 |
 | [Boys Jump The Midnight](https://open.spotify.com/track/3yLXnO1XfG5XwgOLBLhgDa) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [天使たち](https://open.spotify.com/album/6fgVI73rX1mCalLT6OqxXb) | 4:32 | 2023-03-21 | 2023-03-23 |
+| [BRAINWASH](https://open.spotify.com/track/1rBh478tPcaqibTVzzH0sI) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [BRAINWASH](https://open.spotify.com/album/1W8Z3zbB0C4Fl8z0tcKOqQ) | 3:04 | 2024-12-24 |  |
 | [Brainy](https://open.spotify.com/track/1WgN2szYODur4O2MP9U6F9) | [brainchild's](https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE) | [Brainy](https://open.spotify.com/album/6RAwYJgvKf2WJCgtn4RP0L) | 3:18 | 2022-05-12 | 2022-07-28 |
 | [Brand New Day](https://open.spotify.com/track/6tdE7Z3wCnX4goZU4veUDI) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [Brand New Day](https://open.spotify.com/album/5B0JQ9N6hSi8jKa8izbV18) | 3:14 | 2023-08-08 | 2023-08-23 |
 | [BREATH](https://open.spotify.com/track/1NWqikUVTGltcoddedObxO) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [BREATH](https://open.spotify.com/album/0LwNWDQDwQyRucOKOTCBl2) | 3:29 | 2022-05-24 | 2022-06-19 |
@@ -283,7 +284,7 @@
 | [KARMA](https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [KARMA](https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L) | 4:05 | 2022-05-12 | 2022-07-22 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-18 |  |
 | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/track/0qjWX3mtR845RXlbrt9RJS) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/album/47fiiDihH7dce4HLaz9c57) | 7:02 | 2023-12-05 | 2023-12-13 |
-| [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 | 2024-11-13 |  |
+| [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 | 2024-11-13 | 2024-12-25 |
 | [Kizukeyo Baby](https://open.spotify.com/track/3EEaEEltAaQAp0EhIwJEaK) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:13 | 2023-08-01 | 2023-11-22 |
 | [Koino Mega Lover](https://open.spotify.com/track/2FGJsygiQplOyghzm99BWZ) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 5:27 | 2024-04-23 | 2024-10-01 |
 | [Kowareso](https://open.spotify.com/track/3Z3RDXIcMsCQ3GJB32Q5qg) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 3:55 | 2022-11-01 | 2024-01-24 |
@@ -511,7 +512,7 @@
 | [SEVENTEEN](https://open.spotify.com/track/0JJ1bCVoFAh9T5M0g80BzX) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [海になりたい part.3](https://open.spotify.com/album/7FhnLBi4ao88WF2guGYjXU) | 3:30 | 2023-02-01 | 2023-02-02 |
 | [SEVENTEEN](https://open.spotify.com/track/67iNt98UJRDjlwxdGvo2qJ) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Umi ni Naritai part.3](https://open.spotify.com/album/7r3FOYP2u5wyfUXp7XPWA1) | 3:30 | 2023-02-01 | 2023-02-22 |
 | [Shadow](https://open.spotify.com/track/5m70CJ7y4FjrUPj8zyFdGs) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Shadow](https://open.spotify.com/album/0oy7XrLSJERwIw3emEE4Ne) | 3:34 | 2023-12-12 | 2023-12-20 |
-| [Shadow](https://open.spotify.com/track/0vVZoAjGceLDFaYMfsNwsc) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [FOCUS](https://open.spotify.com/album/5mY2DtMPWLkxk9CoQlIfvs) | 3:37 | 2024-11-26 |  |
+| [Shadow](https://open.spotify.com/track/0vVZoAjGceLDFaYMfsNwsc) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [FOCUS](https://open.spotify.com/album/5mY2DtMPWLkxk9CoQlIfvs) | 3:37 | 2024-11-26 | 2024-12-25 |
 | [Shake](https://open.spotify.com/track/10sPBoUKctG07bmRmhgcr6) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Shake](https://open.spotify.com/album/1SfH4Io6Q518rAV3rmqoU1) | 3:59 | 2024-01-09 | 2024-04-19 |
 | [SHAKE](https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SHAKE](https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe) | 3:59 | 2024-01-09 | 2024-11-16 |
 | [Shangri\-Ra](https://open.spotify.com/track/5EbXeDHm7LEZwo995W8Uty) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6) | [Shangri\-Ra](https://open.spotify.com/album/1lfI8BKatDabAwkQLbe0Ot) | 4:25 | 2023-08-01 | 2023-08-16 |
@@ -525,7 +526,7 @@
 | [Silhouette](https://open.spotify.com/track/1QdGtH513X4JGGjuLKsUl1) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Silhouette](https://open.spotify.com/album/4y8XGDlXX8HNqaEZrPNIaW) | 3:37 | 2022-05-19 | 2022-06-22 |
 | [Silver Lining](https://open.spotify.com/track/2j7AIjrvfx9hpMhZ5oQGb9) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Silver Lining](https://open.spotify.com/album/2NLxbBx2W8DpuypxMiZ5y3) | 3:37 | 2023-09-05 | 2023-10-04 |
 | [Ska Fandango!](https://open.spotify.com/track/6mqLEDj098UYHbpc87WaI8) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:35 | 2024-10-22 | 2024-12-04 |
-| [SKILLAWAKE](https://open.spotify.com/track/1fycgoG1JYggpd8Kr6le4c) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [SKILLAWAKE](https://open.spotify.com/album/4pYctGdMDsCT71ODKGNUQH) | 3:51 | 2024-12-17 |  |
+| [SKILLAWAKE](https://open.spotify.com/track/1fycgoG1JYggpd8Kr6le4c) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [SKILLAWAKE](https://open.spotify.com/album/4pYctGdMDsCT71ODKGNUQH) | 3:51 | 2024-12-17 | 2024-12-25 |
 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 | 2023-12-12 |  |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-23 | 2023-06-22 |
 | [Slow Dance](https://open.spotify.com/track/1j8b2kx4h4JIpSw600rxeQ) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [Slow Dance](https://open.spotify.com/album/027kJFq2aEKN1y53MFq1LZ) | 4:23 | 2022-05-19 | 2022-07-27 |
@@ -892,6 +893,7 @@
 | [ブラッドサーキュレーター](https://open.spotify.com/track/2sFBiCSUNc3ptKrCR8JABx) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG 2 \(2012\-2018\)](https://open.spotify.com/album/1z1fiHGAKZmCXcZCRH1fma) | 3:42 | 2023-06-27 | 2023-07-12 |
 | [ブルーサンダー](https://open.spotify.com/track/4lOab1TvV4llY5kvFliKU9) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 3:31 | 2024-01-23 | 2024-01-31 |
 | [ブレイクスルー](https://open.spotify.com/track/5dYz0z2oEr4jnzgort0quj) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [ブレイクスルー](https://open.spotify.com/album/7wkmbAsdhTrQ8ThQVs5gMf) | 4:04 | 2024-04-23 | 2024-05-29 |
+| [ブンブンフライ](https://open.spotify.com/track/2jDXGpBVAbFn0FwJjgJR2d) | [Buzzed Monkey](https://open.spotify.com/artist/2U727j8eBv6M93jaIuqofG) | [BUZZED MONKEY](https://open.spotify.com/album/0NmpGUaecu7Omwj6CAqkER) | 3:53 | 2024-12-24 |  |
 | [プラネタリア](https://open.spotify.com/track/1m0rRTBTKBCiXDkNdEKbYo) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [プラネタリア](https://open.spotify.com/album/17uYpGkXy9NB1RBzHVB7Ri) | 4:33 | 2023-10-10 | 2024-02-29 |
 | [プラネタリア](https://open.spotify.com/track/0NAk5DY9rv3pAOvif090av) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [PORTRAIT](https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg) | 4:34 | 2024-02-27 | 2024-03-06 |
 | [プログレッシブ](https://open.spotify.com/track/10v3G61N0AiAdSKH9r3h7m) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [YF 下](https://open.spotify.com/album/2K5jyDDqgCrrdZgsLps6Pl) | 3:44 | 2022-05-19 | 2022-06-10 |
@@ -1082,6 +1084,7 @@
 | [狂詩曲](https://open.spotify.com/track/305CVeZiltZSwVH9EJhwif) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [狂詩曲](https://open.spotify.com/album/26NaRLMvQdxjGhJbFQr2Is) | 4:14 | 2024-10-01 | 2024-11-13 |
 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-08 | 2024-04-30 |
 | [瓶に入れた手紙](https://open.spotify.com/track/7EhW8U2IXJKE9eOIOu1NEx) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:46 | 2022-12-20 | 2023-03-27 |
+| [生活 \- re\-recording](https://open.spotify.com/track/0cqnVkquugRkIAcFPsk2DG) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [生活 \(re\-recording\)](https://open.spotify.com/album/5ToRSlA1uamWEJC382q0G5) | 4:12 | 2024-12-24 |  |
 | [疾風怒濤](https://open.spotify.com/track/4JYrIuBfx1G0PjkMgapzsj) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [疾風怒濤](https://open.spotify.com/album/4dTOxbXSDpVGs4tR6ByCZQ) | 3:56 | 2022-05-10 | 2022-07-28 |
 | [痣花](https://open.spotify.com/track/6QfvqC4DiR8beMeRlh03o8) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [痣花](https://open.spotify.com/album/4rQf0w3pw3xTheLURpi0bB) | 5:52 | 2023-07-18 | 2023-07-20 |
 | [白](https://open.spotify.com/track/6v8y2xwJ1fEWfwYzO2BMeu) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3) | [白](https://open.spotify.com/album/5CWAEKiWrNq2lvQ87R4TcD) | 5:03 | 2022-05-22 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gunna,  J\. Cole, NLE Choppa and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,187 likes - 39 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,293 likes - 39 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

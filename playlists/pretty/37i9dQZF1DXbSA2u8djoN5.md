@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Vlad Dobrescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,517 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,519 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 17 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 |
 | 18 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
 | 19 | [Fricile](https://open.spotify.com/track/2xPuPrusdRIPTZp6wb3Wun) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Fricile](https://open.spotify.com/album/0cUlR98YmXvQMUrrFg3wrf) | 3:31 |
-| 20 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |
-| 21 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
+| 20 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
+| 21 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |
 | 22 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
 | 23 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 |
 | 24 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 45 | [Faruri](https://open.spotify.com/track/7Ka8Irg6Q8AsmxIltryCmr) | [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B), [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Faruri](https://open.spotify.com/album/4thVbOF7oQWm7CNkSRWelg) | 3:10 |
 | 46 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 |
 | 47 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 |
-| 48 | [\*exemplu](https://open.spotify.com/track/3yXWiBSCBr4BausXaijxhD) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [\*exemplu](https://open.spotify.com/album/2eCyWtFQJ77L554JDvAZiy) | 4:01 |
-| 49 | [ÎNPAI](https://open.spotify.com/track/2Ltwedxz1aSahjXER3LIEA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ÎNPAI](https://open.spotify.com/album/0hdybSBVj1H0CAlP02cKRa) | 2:49 |
+| 48 | [ÎNPAI](https://open.spotify.com/track/2Ltwedxz1aSahjXER3LIEA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ÎNPAI](https://open.spotify.com/album/0hdybSBVj1H0CAlP02cKRa) | 2:49 |
+| 49 | [\*exemplu](https://open.spotify.com/track/3yXWiBSCBr4BausXaijxhD) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [\*exemplu](https://open.spotify.com/album/2eCyWtFQJ77L554JDvAZiy) | 4:01 |
 | 50 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 |
 
 Snapshot ID: `Z1tc5AAAAADPyIm+yxX7mQ8J1G5JBz0j`

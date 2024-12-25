@@ -1,6 +1,6 @@
 {
   "description": "a strictly smooth mood...cover: Kehlani",
-  "num_followers": 122415,
+  "num_followers": 122428,
   "original_name": "Raw Silk ",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "added_at": "2024-12-20 20:52:50",
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 220133,
       "name": "LVL",
       "url": "https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4"
-    },
-    {
-      "added_at": "2024-12-20 20:52:50",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 278277,
-      "name": "30 For 30 (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
       "added_at": "2024-12-20 20:52:50",
@@ -163,18 +163,18 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 201573,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
+      "duration_ms": 140637,
+      "name": "Chill Baby",
+      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
     },
     {
       "added_at": "2024-12-20 20:52:50",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
-        "name": "Tailor Swif",
-        "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
+        "name": "So High",
+        "url": "https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 155391,
-      "name": "Tailor Swif",
-      "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
+      "duration_ms": 201573,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR"
     },
     {
       "added_at": "2024-12-20 20:52:50",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+        "name": "Tailor Swif",
+        "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 140637,
-      "name": "Chill Baby",
-      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
+      "duration_ms": 155391,
+      "name": "Tailor Swif",
+      "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
     },
     {
       "added_at": "2024-12-20 20:52:50",
@@ -327,26 +327,6 @@
       "duration_ms": 130500,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9"
-    },
-    {
-      "added_at": "2024-12-20 20:52:50",
-      "album": {
-        "name": "HIGHJACK",
-        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 190074,
-      "name": "HIGHJACK",
-      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
     },
     {
       "added_at": "2024-12-20 20:52:50",
@@ -415,6 +395,26 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
+        "name": "HIGHJACK",
+        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 190074,
+      "name": "HIGHJACK",
+      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
+    },
+    {
+      "added_at": "2024-12-20 20:52:50",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "F o r C e r t a i n",
-      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
-    },
-    {
-      "added_at": "2024-12-20 20:52:50",
-      "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/0UtnpKaReKUg2GquaSxCyD"
+    },
+    {
+      "added_at": "2024-12-20 20:52:50",
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "F o r C e r t a i n",
+      "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
     },
     {
       "added_at": "2024-12-20 20:52:50",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 88186,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
-    },
-    {
-      "added_at": "2024-12-20 20:52:50",
-      "album": {
         "name": "Change & Remain",
         "url": "https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+      "duration_ms": 88186,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7aVKQJZwdqyEPkvKSyEuxj"
     },
     {
       "added_at": "2024-12-20 20:52:50",
@@ -699,6 +683,22 @@
       "duration_ms": 156645,
       "name": "Survivor\u2019s Remorse",
       "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
+    },
+    {
+      "added_at": "2024-12-20 20:52:50",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2024-12-20 20:52:50",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 344680,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
-    },
-    {
-      "added_at": "2024-12-20 20:52:50",
-      "album": {
         "name": "WYA",
         "url": "https://open.spotify.com/album/7I5lABeFEjFJcdgrVltGr7"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 136418,
       "name": "WYA",
       "url": "https://open.spotify.com/track/0pWe6arB3oGxI8msYHObbA"
+    },
+    {
+      "added_at": "2024-12-20 20:52:50",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 344680,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
       "added_at": "2024-12-20 20:52:50",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-20 20:52:50",
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
-    },
-    {
-      "added_at": "2024-12-20 20:52:50",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2024-12-20 20:52:50",
+      "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2024-12-20 20:52:50",

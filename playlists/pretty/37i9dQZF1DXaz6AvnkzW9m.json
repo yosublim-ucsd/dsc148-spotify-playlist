@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Justin Morales en portada.",
-  "num_followers": 136378,
+  "num_followers": 136404,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
-        "name": "Seguimos Laborando",
-        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
-      },
-      "artists": [
-        {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Seguimos Laborando",
-      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
         "name": "El Boss",
         "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 225212,
       "name": "El Boss",
       "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
+        "name": "Seguimos Laborando",
+        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
+      },
+      "artists": [
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Seguimos Laborando",
+      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2024-11-08 16:28:41",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
+        "name": "Bien Tony Montana",
+        "url": "https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 166127,
+      "name": "Bien Tony Montana",
+      "url": "https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
         "name": "2pa2 (Remix)",
         "url": "https://open.spotify.com/album/3eSxismvYDBEIhGdDH4BXD"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 214218,
       "name": "2pa2 (Remix)",
       "url": "https://open.spotify.com/track/0pgOUN91P21GM313kz1QGj"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
-        "name": "Bien Tony Montana",
-        "url": "https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 166127,
-      "name": "Bien Tony Montana",
-      "url": "https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM"
     },
     {
       "added_at": "2024-11-08 16:28:41",
@@ -1327,30 +1327,6 @@
     {
       "added_at": "2024-11-08 16:28:41",
       "album": {
-        "name": "Oye Cantinero",
-        "url": "https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 196111,
-      "name": "Oye Cantinero",
-      "url": "https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN"
-    },
-    {
-      "added_at": "2024-11-08 16:28:41",
-      "album": {
         "name": "Plush",
         "url": "https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1"
       },
@@ -1383,6 +1359,30 @@
       "duration_ms": 167130,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
+    },
+    {
+      "added_at": "2024-11-08 16:28:41",
+      "album": {
+        "name": "Oye Cantinero",
+        "url": "https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 196111,
+      "name": "Oye Cantinero",
+      "url": "https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN"
     },
     {
       "added_at": "2024-11-08 16:28:41",

@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 413940,
+  "num_followers": 413966,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 366133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Trouble Maker",
+        "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 407333,
+      "name": "Trouble Maker",
+      "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
       },
@@ -515,6 +531,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+      },
+      "artists": [
+        {
+          "name": "New Fossils",
+          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "On the Second Day",
         "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
       },
@@ -527,38 +559,6 @@
       "duration_ms": 272794,
       "name": "On The Second Day",
       "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Trouble Maker",
-        "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 407333,
-      "name": "Trouble Maker",
-      "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
       },
       "artists": [
         {
-          "name": "New Fossils",
-          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 171397,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
+      },
+      "artists": [
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Abiyoyo",
+      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "The Velvet Blues",
         "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 276040,
       "name": "Somewhere over the Rainbow",
       "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Homeward Bound",
-        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
-      },
-      "artists": [
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Abiyoyo",
-      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 283266,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2024-11-22 09:27:14",

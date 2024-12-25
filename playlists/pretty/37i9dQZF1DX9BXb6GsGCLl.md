@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,024 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,067 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 68 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 |
 | 69 | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ) | 2:36 |
 | 70 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 |
-| 71 | [All the Time](https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [All the Time](https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV) | 3:48 |
-| 72 | [Just Got Paid](https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Just Got Paid](https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB) | 3:38 |
+| 71 | [Just Got Paid](https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Just Got Paid](https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB) | 3:38 |
+| 72 | [All the Time](https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [All the Time](https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV) | 3:48 |
 | 73 | [Summer Feeling](https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Summer Feeling](https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY) | 3:00 |
 | 74 | [Alane](https://open.spotify.com/track/2u6Jm2klS4yvAlbSHlxUwI) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Wes](https://open.spotify.com/artist/3tXUeiWOSod3mSQ2lOautf) | [Alane](https://open.spotify.com/album/537cgkkJUqMb46JUSNh0n7) | 2:55 |
 | 75 | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2lYTJK94hb0fd1LQtb6Dhk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Don't Leave Me Alone \(feat\. Anne\-Marie\)](https://open.spotify.com/album/4sqrDaJcbCIo6aeqO26maj) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,761 likes - 145 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,759 likes - 145 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 67 | [Sex Lies \(feat\. Lil Baby\)](https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
 | 68 | [Big Slimes \(feat\. Gunna & Lil Duke\)](https://open.spotify.com/track/4dhZy7EbsbhwIS7C6Ct8mI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 5:27 |
 | 69 | [Shadows \(with Kehlani\)](https://open.spotify.com/track/2iPnYQRutwTQopudwgkIfm) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:53 |
-| 70 | [Ride For You \(feat\. Kehlani\)](https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:02 |
-| 71 | [Mamushi \(Remix\) \[feat\. TWICE\]](https://open.spotify.com/track/0DanydI1wKqKkKjn0qKoVR) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:35 |
+| 70 | [Mamushi \(Remix\) \[feat\. TWICE\]](https://open.spotify.com/track/0DanydI1wKqKkKjn0qKoVR) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:35 |
+| 71 | [Ride For You \(feat\. Kehlani\)](https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:02 |
 | 72 | [Cana \(feat\. 24hrs\)](https://open.spotify.com/track/3gVIlKXz1sgc0phx1QypkB) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Cana \(feat\. 24hrs\)](https://open.spotify.com/album/1A0fPJwHRTA1ONRXdt718E) | 4:05 |
 | 73 | [I Ain't Tryin'](https://open.spotify.com/track/54DcdSHsTvcDwGc4no7kX4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 3:53 |
 | 74 | [Mixy \(feat\. Summer Walker\)](https://open.spotify.com/track/1qMnyfVxKKlAxYrFPYTuph) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:30 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 144 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 | 145 | [Really Rare](https://open.spotify.com/track/3Vfj5HwBqHN1tBE7hMOmaj) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Estrella](https://open.spotify.com/album/1ffizbY37d01taYetGPW2i) | 2:36 |
 
-Snapshot ID: `Abk8NgAAAADHVOxx6MkoSEYka8DD2Ypf`
+Snapshot ID: `AblB1gAAAABopY7GQSFeAC1v9nlnMOCs`

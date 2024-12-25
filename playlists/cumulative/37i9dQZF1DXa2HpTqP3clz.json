@@ -3968,7 +3968,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 208226,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
@@ -9302,6 +9302,24 @@
       "duration_ms": 225941,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+    },
+    {
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225946,
+      "name": "Smoky Mountain Girl",
+      "url": "https://open.spotify.com/track/0np7pLWzNJcW06dIil3fWp"
     },
     {
       "album": {

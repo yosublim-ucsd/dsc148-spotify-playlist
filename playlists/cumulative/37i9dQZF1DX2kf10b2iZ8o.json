@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 295120,
       "name": "Because",
       "url": "https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 248240,
       "name": "Secret Ornament",
       "url": "https://open.spotify.com/track/6nSVJPehM47RC9E4IjI4qg"
@@ -2250,13 +2250,13 @@
       },
       "artists": [
         {
-          "name": "Frame",
-          "url": "https://open.spotify.com/artist/5qydKuymRhyMaVPUfIqh8C"
+          "name": "FRAME",
+          "url": "https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 289360,
       "name": "SOOTHING PLACE",
       "url": "https://open.spotify.com/track/2JMIDYzClNE2cxT5ZkNHaO"
@@ -2484,7 +2484,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 253920,
       "name": "Teatime Clich\u00e9",
       "url": "https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt"
@@ -3464,7 +3464,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 228333,
       "name": "\u30ea\u30d3\u30f3\u30b0\u30a2\u30a4\u30ba\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/1lfwRXGtNgLirpV3F1W8Wz"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 301426,
       "name": "\u60f3\u3044\u306fETERNITY",
       "url": "https://open.spotify.com/track/6dxGtSsLh5i5KUUmkIe9UI"

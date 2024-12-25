@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,743 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,751 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 19 | [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 |
 | 20 | [7OB BAS EH](https://open.spotify.com/track/0vBOuyqWiVpARtV1Nh1w36) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [7OB BAS EH](https://open.spotify.com/album/2bN1FzC6pFqTayMEKJmszE) | 2:55 |
 | 21 | [MONW3AT 2019](https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 4:36 |
-| 22 | [\( Saudi \) حزين الوقت](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [\( Saudi \) حزين الوقت](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
-| 23 | [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 |
+| 22 | [3la Wara2a](https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Nubi](https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [3la Wara2a](https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND) | 2:52 |
+| 23 | [\( Saudi \) حزين الوقت](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [\( Saudi \) حزين الوقت](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
 | 24 | [NATARQA](https://open.spotify.com/track/361FgPnhdBh4y4l4uIuKW9) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:01 |
 | 25 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
 | 26 | [Papiers](https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 2:44 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 41 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |
 | 42 | [YA RAYEH](https://open.spotify.com/track/1uzGViEs42FcNS1KfqhaIT) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [YA RAYEH](https://open.spotify.com/album/3J3ZKCjqKeyDA3Dx9JJgNo) | 2:50 |
 | 43 | [Ducati](https://open.spotify.com/track/0OC2UpjodBLVz1xFHt0a1H) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Ducati](https://open.spotify.com/album/7gaCM4sEj6b9OD55PNoXH4) | 3:06 |
-| 44 | [Fein El Dawa](https://open.spotify.com/track/003TuuUc1rrAiuq6Nora4X) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [SULTAN](https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M) | 2:41 |
+| 44 | [Khalsana 2 \(Intro\)](https://open.spotify.com/track/7thLS840COKt4I1eY2kvkO) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 2:07 |
 | 45 | [Seeb Nafsak](https://open.spotify.com/track/4EGLEkMzmO7pau2CGQnCYS) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:58 |
-| 46 | [Khalsana 2 \(Intro\)](https://open.spotify.com/track/7thLS840COKt4I1eY2kvkO) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 2:07 |
+| 46 | [Fein El Dawa](https://open.spotify.com/track/003TuuUc1rrAiuq6Nora4X) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [SULTAN](https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M) | 2:41 |
 | 47 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 |
 | 48 | [WELAD ELMAGANEN](https://open.spotify.com/track/5BLk1nq9Z0Fj9hIFA4FYOx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:18 |
 | 49 | [RAKMY YKHOD](https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:56 |

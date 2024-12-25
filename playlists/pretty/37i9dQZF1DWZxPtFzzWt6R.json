@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Luciano Camargo",
-  "num_followers": 90934,
+  "num_followers": 91003,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "Mais que Vencedor (feat. Carlos Henrique)",
-        "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
-      },
-      "artists": [
-        {
-          "name": "Kleuder Le\u00e3o",
-          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
-        },
-        {
-          "name": "Carlos Henrique",
-          "url": "https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r"
-        }
-      ],
-      "duration_ms": 215099,
-      "name": "Mais que Vencedor (feat. Carlos Henrique)",
-      "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
         "name": "GBArrai\u00e1",
         "url": "https://open.spotify.com/album/3W6Q8yEjt11yOG4qgNWTOx"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 238208,
       "name": "Noites Trai\u00e7oeiras",
       "url": "https://open.spotify.com/track/7A1XdisC4ySlYz7kMjivwa"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "Mais que Vencedor (feat. Carlos Henrique)",
+        "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
+      },
+      "artists": [
+        {
+          "name": "Kleuder Le\u00e3o",
+          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
+        },
+        {
+          "name": "Carlos Henrique",
+          "url": "https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r"
+        }
+      ],
+      "duration_ms": 215099,
+      "name": "Mais que Vencedor (feat. Carlos Henrique)",
+      "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
     },
     {
       "added_at": "2024-12-13 12:32:13",

@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 91760,
       "name": "Golden Slumbers - Remastered 2009",
       "url": "https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 151875,
       "name": "I've Got My Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/4vpZ39U9F1jyw2bAHv1HUY"
@@ -4171,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "Holidays Are Here / Merry Christmas Baby",
+        "url": "https://open.spotify.com/album/69igKKumVMT9Xt56ZzXkDN"
+      },
+      "artists": [
+        {
+          "name": "Zach McPhee",
+          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209521,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/6zM6jd0UXIPazvyU1tivdv"
+    },
+    {
+      "album": {
         "name": "Merry Christmas Everybody",
         "url": "https://open.spotify.com/album/1yupCayowArixzFoXupKoz"
       },
@@ -4540,6 +4558,24 @@
       "duration_ms": 223266,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/3PJWrzeVy0zQIEN1WlyCxo"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/70FFfdqrZ3Hh5DsroqVeZj"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247295,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/6Bo5petkqjBTaUK1RLC2BG"
     },
     {
       "album": {

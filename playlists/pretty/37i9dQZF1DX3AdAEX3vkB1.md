@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,683 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,781 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 39 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 |
 | 40 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 41 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
-| 42 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |
-| 43 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
+| 42 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
+| 43 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |
 | 44 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
 | 45 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
 | 46 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 |
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 85 | [How Do You Do It? \- Mono](https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [At Abbey Road](https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR) | 1:54 |
 | 86 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
 | 87 | [Let's Dance](https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo) | [Chris Montez](https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA) | [The Hits](https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW) | 2:29 |
-| 88 | [Walkin' Back to Happiness](https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:31 |
-| 89 | [Last Train to Clarksville \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq) | 2:44 |
+| 88 | [Last Train to Clarksville \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq) | 2:44 |
+| 89 | [Walkin' Back to Happiness](https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:31 |
 | 90 | [It's In The Kiss \(The Shoop Shoop Song\)](https://open.spotify.com/track/35hfuechuOqaW31ogdauO7) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [No Place To Hide](https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q) | 2:09 |
 | 91 | [Happy Birthday, Sweet Sixteen](https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:37 |
 | 92 | [Speedy Gonzales](https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:33 |
 | 93 | [Things](https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Things & Other Things](https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3) | 2:31 |
-| 94 | [Shout](https://open.spotify.com/track/317IZhdCGvInrl3vcmxOlq) | [Lulú](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [The EP Collection](https://open.spotify.com/album/1bCXn9wG3R40gzR5hwRWmP) | 2:52 |
+| 94 | [Shout](https://open.spotify.com/track/317IZhdCGvInrl3vcmxOlq) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [The EP Collection](https://open.spotify.com/album/1bCXn9wG3R40gzR5hwRWmP) | 2:52 |
 | 95 | [River Deep \- Mountain High](https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 4:04 |
 | 96 | [You're Sixteen, You're Beautiful \(And You're Mine\)](https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4) | [Johnny Burnette](https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl) | [Johnny Burnette's Hits And Other Favorites](https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs) | 1:59 |
 | 97 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Collections](https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o) | 2:16 |

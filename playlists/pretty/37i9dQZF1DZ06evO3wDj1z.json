@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 103236,
+  "num_followers": 103265,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAACzCg1jBrdU5ncl2QPAe9zv",
+  "snapshot_id": "Z2ioAAAAAAChBI3ZRBEq32F/zmymRxVg",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 254640,
-      "name": "El Maestro",
-      "url": "https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR"
+      "duration_ms": 213693,
+      "name": "Me Vas A Doler",
+      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Me Vas A Doler",
-      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
+      "duration_ms": 254640,
+      "name": "El Maestro",
+      "url": "https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Exitos Con El Shaka",
-        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
+        "name": "Serie Top Ten",
+        "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 171240,
-      "name": "Dos Botellas De Mezcal",
-      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
+      "duration_ms": 173532,
+      "name": "El Licenciado",
+      "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serie Top Ten",
-        "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
       },
       "artists": [
         {
@@ -568,25 +568,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 173532,
-      "name": "El Licenciado",
-      "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recordando A El Shaka",
-        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "Zapatos Nuevos",
-      "url": "https://open.spotify.com/track/4vSysCCv3X0TEGalKGXPu5"
+      "duration_ms": 171240,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
       "duration_ms": 182946,
       "name": "El Bitachero",
       "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "Zapatos Nuevos",
+      "url": "https://open.spotify.com/track/4vSysCCv3X0TEGalKGXPu5"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plaza Nueva",
-        "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "Arcoiris",
-      "url": "https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Jefe De Las Plazas",
         "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
       },
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+        "name": "Plaza Nueva",
+        "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 118746,
-      "name": "No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7AfzFp2S1yIDHjTjXnMXJs"
+      "duration_ms": 218120,
+      "name": "Arcoiris",
+      "url": "https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5"
     },
     {
       "added_at": null,
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A El Shaka",
-        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
       "artists": [
         {
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 190026,
-      "name": "La Maestra - Ranchera Version",
-      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
+      "duration_ms": 118746,
+      "name": "No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7AfzFp2S1yIDHjTjXnMXJs"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
       "duration_ms": 194146,
       "name": "El Santo De La Palma",
       "url": "https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "La Maestra - Ranchera Version",
+      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A El Shaka",
-        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Mu\u00f1equita - Balada Version",
-      "url": "https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Jefe De Las Plazas",
         "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 146040,
       "name": "La Captura",
       "url": "https://open.spotify.com/track/79RyBdM6shRCcdYIFtyWoo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Mu\u00f1equita - Balada Version",
+      "url": "https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6"
     },
     {
       "added_at": null,

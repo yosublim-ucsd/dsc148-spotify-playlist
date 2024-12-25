@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,212 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,408 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 31 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
 | 32 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
 | 33 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
-| 34 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
-| 35 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
+| 34 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
+| 35 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 36 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
 | 37 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
 | 38 | [Naarm's Sunset \- Edit](https://open.spotify.com/track/67DDyKQj4OR5xqp3MPnvvr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Naarm's Sunset](https://open.spotify.com/album/00KRDJrwKBXMW3aZcmgkYv) | 4:12 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 42 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 43 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 44 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 |
-| 45 | [Calling](https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Calling / Like A Train](https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p) | 3:12 |
-| 46 | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY) | 3:05 |
+| 45 | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY) | 3:05 |
+| 46 | [Calling](https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Calling / Like A Train](https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p) | 3:12 |
 | 47 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
 | 48 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
-| 49 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
-| 50 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 |
+| 49 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 |
+| 50 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 |
 
 Snapshot ID: `ZvXncAAAAACE0CjTCIyogjcmpFd1Gxe7`

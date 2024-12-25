@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 107196,
+  "num_followers": 107245,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Patrullando",
-        "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Patrullando",
-      "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Tributos",
         "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 213097,
       "name": "Tributos",
       "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Patrullando",
+        "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Patrullando",
+      "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Rap da Rap quita",
-        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 289649,
-      "name": "Rap da Rap quita",
-      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 276307,
       "name": "Singular (feat. El Chojin)",
       "url": "https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Rap da Rap quita",
+        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 289649,
+      "name": "Rap da Rap quita",
+      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Aire para Vivir",
-        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
+        "name": "Esquirlas",
+        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
       },
       "artists": [
         {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
+        },
+        {
+          "name": "Montebel",
+          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
         }
       ],
-      "duration_ms": 223512,
-      "name": "Aire para Vivir",
-      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+      "duration_ms": 220000,
+      "name": "Esquirlas",
+      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Esquirlas",
-        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
+        "name": "Aire para Vivir",
+        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
       "artists": [
         {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        },
-        {
-          "name": "Montebel",
-          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Esquirlas",
-      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
+      "duration_ms": 223512,
+      "name": "Aire para Vivir",
+      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf"
+      },
+      "artists": [
+        {
+          "name": "Facto",
+          "url": "https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Soy Pueblo",
+      "url": "https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Escorpi\u00f3n",
         "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 172925,
       "name": "Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "P\u00f3lvora",
-        "url": "https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf"
-      },
-      "artists": [
-        {
-          "name": "Facto",
-          "url": "https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Soy Pueblo",
-      "url": "https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71"
     },
     {
       "added_at": "2024-09-06 06:00:00",

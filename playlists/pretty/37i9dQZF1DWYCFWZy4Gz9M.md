@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Ancient North African rhythms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,745 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,771 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 5 | [Yalla Yé](https://open.spotify.com/track/5Mm7HIvY2KsD5W6TqOQue4) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Tariq Hmitti](https://open.spotify.com/artist/4VfCms8XPx6e5diHuVrRaH) | [King Of Gnawa](https://open.spotify.com/album/5pjwENIKs1xLXLWXPQINCq) | 2:43 |
 | 6 | [Katib Allah](https://open.spotify.com/track/2govhtf5ki65fhzPo54r8x) | [Hassan Boussou](https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 0:44 |
 | 7 | [Baba Al Arabi](https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 4:14 |
-| 8 | [Guembrified](https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Guembrified](https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY) | 3:54 |
-| 9 | [Marhaba \- Les Mlouks](https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 4:51 |
+| 8 | [Marhaba \- Les Mlouks](https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 4:51 |
+| 9 | [Guembrified](https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Guembrified](https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY) | 3:54 |
 | 10 | [Hamdouchia](https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 4:09 |
 | 11 | [Chalaba](https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E) | [Gnawa de Marrakech](https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj), [Maalem Mahjoub](https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp) | [Lila](https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq) | 6:37 |
 | 12 | [Goumari](https://open.spotify.com/track/3JDC2CqjkLvuRTNFelfZks) | [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [Sidi Kmmy](https://open.spotify.com/album/4R9ejsPkbyxzaPvuGS8MTR) | 4:01 |

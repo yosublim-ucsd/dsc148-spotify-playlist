@@ -243,6 +243,84 @@
     },
     {
       "album": {
+        "name": "Carl Philipp Emanuel Bach: Cello Concerto in B-Flat Major, H. 436, Wq. 171: III. Allegro assai",
+        "url": "https://open.spotify.com/album/3ZrYV3wlhcO1GTuKPkhuqp"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Jean-Guihen Queyras",
+          "url": "https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8"
+        },
+        {
+          "name": "Ensemble Resonanz",
+          "url": "https://open.spotify.com/artist/1iVYBsAuXpphPzqD1PQLKK"
+        },
+        {
+          "name": "Riccardo Minasi",
+          "url": "https://open.spotify.com/artist/4uYezrzLeI9Y2Q8AnwO5ey"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388226,
+      "name": "Cello Concerto in B-Flat Major, H. 436, Wq. 171: III. Allegro assai",
+      "url": "https://open.spotify.com/track/2O5gzR0SXdH6QV7MSkUQ3c"
+    },
+    {
+      "album": {
+        "name": "Boccherini: Cello Concerto No. 6 in D Major, G. 479: II. Adagio",
+        "url": "https://open.spotify.com/album/4kIuVpREuPlpIbWyTGRJAK"
+      },
+      "artists": [
+        {
+          "name": "Luigi Boccherini",
+          "url": "https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314333,
+      "name": "Cello Concerto No. 6 in D Major, G. 479: II. Adagio",
+      "url": "https://open.spotify.com/track/28f5jsDdsTFdnsogwPbN3d"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Cello Suite No. 2 in D Minor, BWV 1008: III. Courante",
+        "url": "https://open.spotify.com/album/6BodS37ZZiicXIbokoMsDw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Anja Lechner",
+          "url": "https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133746,
+      "name": "Cello Suite No. 2 in D Minor, BWV 1008: III. Courante",
+      "url": "https://open.spotify.com/track/0QFWuS6woPDDdXayRmfpnU"
+    },
+    {
+      "album": {
         "name": "Jacquet de la Guerre: Chamber Music",
         "url": "https://open.spotify.com/album/0dgplHDUVPyDimnP6k8Kk2"
       },
@@ -336,6 +414,40 @@
       "duration_ms": 232626,
       "name": "Ciaccona (I)",
       "url": "https://open.spotify.com/track/28wd6znS35wQOE2YCLFZs2"
+    },
+    {
+      "album": {
+        "name": "Concerto for 2 oboes, strings & continuo in C Major, RV 534: I. Allegro",
+        "url": "https://open.spotify.com/album/5UdPBi5bv13nABAWhxBrHb"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "La Serenissima",
+          "url": "https://open.spotify.com/artist/15PIcAgtP1zCipRK3sniUN"
+        },
+        {
+          "name": "Rachel Chaplin",
+          "url": "https://open.spotify.com/artist/3bt1UpjgSeQ46NNWMirkis"
+        },
+        {
+          "name": "Mark Baigent",
+          "url": "https://open.spotify.com/artist/2zAoPpxnq54ya39QmptYRK"
+        },
+        {
+          "name": "Adrian Chandler",
+          "url": "https://open.spotify.com/artist/7qJsLLT3iv2Uc0XbpnmEKz"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Concerto for 2 oboes, strings & continuo in C Major, RV 534: I. Allegro",
+      "url": "https://open.spotify.com/track/5NSfHZwG3AweEBX2LT9plw"
     },
     {
       "album": {
@@ -949,6 +1061,36 @@
     },
     {
       "album": {
+        "name": "Bach: Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+        "url": "https://open.spotify.com/album/5fKR1nc9CrnBATmWvQvfzF"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tianqi Du",
+          "url": "https://open.spotify.com/artist/5wtqiSQ6EJ2e953Vb4zMia"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Jonathan Bloxham",
+          "url": "https://open.spotify.com/artist/6prHdp2XYpJbkxLmox1Qlh"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228948,
+      "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+      "url": "https://open.spotify.com/track/6hNH42041qQHLHB68FjBTg"
+    },
+    {
+      "album": {
         "name": "W.F. Bach: Piano Works",
         "url": "https://open.spotify.com/album/6cxrMdnJcMkQwxws9Ao0Ek"
       },
@@ -994,6 +1136,32 @@
       "duration_ms": 87960,
       "name": "L'Orfeo - Prologo: Toccata",
       "url": "https://open.spotify.com/track/4Csfmh2DSCAZmTg1B4ISKA"
+    },
+    {
+      "album": {
+        "name": "Le quattro stagioni, Violin Concerto in F Minor, Op. 8 No. 4, RV 297, \u201cL\u2019inverno\u201d (Winter): I. Allegro non molto",
+        "url": "https://open.spotify.com/album/4neN9cXPyDxWlgVjTeFhLS"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "La Serenissima",
+          "url": "https://open.spotify.com/artist/15PIcAgtP1zCipRK3sniUN"
+        },
+        {
+          "name": "Adrian Chandler",
+          "url": "https://open.spotify.com/artist/7qJsLLT3iv2Uc0XbpnmEKz"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Le quattro stagioni, Violin Concerto in F Minor, Op. 8 No. 4, RV 297, \u201cL\u2019inverno\u201d (Winter): I. Allegro non molto",
+      "url": "https://open.spotify.com/track/0VdVbXAH9HOTWfnuJGhSlV"
     },
     {
       "album": {
@@ -1713,6 +1881,58 @@
     },
     {
       "album": {
+        "name": "Haydn: Late Symphonies, Vol. 4",
+        "url": "https://open.spotify.com/album/3bsZQu96SCB7OBoYaXZ1vp"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Danish Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/0TGh7JK1IY9ncwFSNmTUhF"
+        },
+        {
+          "name": "\u00c1d\u00e1m Fischer",
+          "url": "https://open.spotify.com/artist/7gJ6WicsJlOOcrHrjtzJ5w"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392013,
+      "name": "Symphony No. 104 in D Major, Hob. I:104 \"Salomon\": IV. Finale. Spiritoso",
+      "url": "https://open.spotify.com/track/046QXrgXyqsKfccoAlL4E2"
+    },
+    {
+      "album": {
+        "name": "Haydn: Symphony No. 43 in E-Flat Major, Hob. I:43 \"Mercury\" & Symphony No. 49 in F Minor, Hob. I:49 \"La passione\"",
+        "url": "https://open.spotify.com/album/4ZpFgpBD1e6RmsVBwVhXZo"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Tafelmusik Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4yscD4NQlCKXEpUvBV3nj8"
+        },
+        {
+          "name": "Rachel Podger",
+          "url": "https://open.spotify.com/artist/15Z3Bkemf6mvB3IkOBvJOn"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416307,
+      "name": "Symphony No. 43 in E-Flat Major, Hob. I:43 \"Mercury\": I. Allegro",
+      "url": "https://open.spotify.com/track/3cIHYRhgYUQGXUWKwb3FVo"
+    },
+    {
+      "album": {
         "name": "Telemann: Banquet Music in three Parts",
         "url": "https://open.spotify.com/album/6d48XBWoeqga60rlrxbYwJ"
       },
@@ -1830,12 +2050,64 @@
           "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
         }
       ],
-      "date_added": "2021-06-16",
+      "date_added": "2024-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213253,
+      "name": "The Four Seasons - Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "url": "https://open.spotify.com/track/7q1N1ch3W2vQknJPEX3FTC"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: The Four Seasons",
+        "url": "https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-12-25",
       "duration_ms": 204146,
       "name": "The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": I. Allegro non molto",
       "url": "https://open.spotify.com/track/64ZxBE1ZgK4C0lGljXzDcG"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: The Four Seasons",
+        "url": "https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108013,
+      "name": "The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": II. Largo",
+      "url": "https://open.spotify.com/track/1VIPloT2xEb9KExrtKHNoI"
     },
     {
       "album": {

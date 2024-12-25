@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,048 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,089 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 52 | [Pura Droga Sin Cortar](https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 6:14 |
 | 53 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
 | 54 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
-| 55 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
-| 56 | [El Idioma De Los Dioses](https://open.spotify.com/track/0Qb4S8BHqevwscp4rfvQZq) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:13 |
+| 55 | [El Idioma De Los Dioses](https://open.spotify.com/track/0Qb4S8BHqevwscp4rfvQZq) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:13 |
+| 56 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
 | 57 | [Ninguna Chavala Tiene Dueño \- Porque Ella Me Lo Dijo](https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vicios y Virtudes](https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY) | 4:29 |
 | 58 | [Humo en la Trampa 2](https://open.spotify.com/track/065JTu6FDKNlE9g5sUt1sh) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [Humo en la Trampa 2](https://open.spotify.com/album/48081X2ns6kHKFS84IowXl) | 4:10 |
-| 59 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
-| 60 | [Homer el Mero Mero 24/Siempre](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [24/Siempre, Vol\. 1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 |
+| 59 | [Homer el Mero Mero 24/Siempre](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [24/Siempre, Vol\. 1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 |
+| 60 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
 | 61 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
 | 62 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |
 | 63 | [Blondapetit](https://open.spotify.com/track/6VnTJEOE3PlAG8plyOmldd) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Accion Sanchez](https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs), [Gordo Master](https://open.spotify.com/artist/5y1Ia0TH2oNXKLkKNOdjZQ) | [Lista de Invitados](https://open.spotify.com/album/2hVyIvwrZs10yqHYfGXtFd) | 4:52 |

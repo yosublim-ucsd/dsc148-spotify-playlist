@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: WANIMA
 
-803 songs - 1 day 18 hr 43 min
+804 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [grasp](https://open.spotify.com/track/3yJ0cJV9vuck34ZVrmxr84) | [tact](https://open.spotify.com/artist/6UB1bq3uHbizha44REbJDL) | [dawning](https://open.spotify.com/album/6YGlPSQbU1z1VlTOSnCHxN) | 2:29 | 2023-11-07 | 2023-12-20 |
 | [Hang a Combat master Detonics](https://open.spotify.com/track/7ijeLjKSfusg4355Z5NFJG) | [HARD CORE DUDE](https://open.spotify.com/artist/5sxrRJgTakYBRhfmOij0Cs) | [Highstandard Custom Derringer](https://open.spotify.com/album/6PgABLhd0BV5VXM0eeFYES) | 1:44 | 2023-11-07 | 2023-11-22 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/5NqAeabxsFbgyRxJGfdKM0) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 2:44 | 2023-10-24 | 2023-11-01 |
-| [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 |  |
+| [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 | 2024-12-25 |
 | [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 |  |
 | [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 | 2022-10-05 |
 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-08-23 |
@@ -493,6 +493,7 @@
 | [SURF](https://open.spotify.com/track/7dXGfbpC6nEAClhgMSYXEZ) | [Track's](https://open.spotify.com/artist/7iBZYT8fyfa1J3EGTLHVGx) | [SURF](https://open.spotify.com/album/4Gz58i1XggFiaRFLwGCOv3) | 1:28 | 2022-05-19 | 2022-11-14 |
 | [SURFPUNK](https://open.spotify.com/track/6sIpZ2Vlz1JJ8jR8kdRDmu) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [SURFPUNK](https://open.spotify.com/album/3k9kELIoJxA8JHDqd9Hw8y) | 2:29 | 2022-05-12 | 2022-07-24 |
 | [Sweet8beat](https://open.spotify.com/track/6Zs9nJ3th9ExyzygXdSfjJ) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [Sweet8beat](https://open.spotify.com/album/64Nc3eTnqRlwRoiVmDLlm8) | 3:58 | 2022-05-12 | 2022-07-06 |
+| [Takatsuki](https://open.spotify.com/track/50Aujeorhvlr5BhLqmirF4) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [Takatsuki](https://open.spotify.com/album/0ySP8BeXswdbrLZKv314te) | 3:23 | 2024-12-24 |  |
 | [Take Off!!](https://open.spotify.com/track/5KOyDAveuaIds6qRoU0M26) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [SCREAM ON THE BOARD!!](https://open.spotify.com/album/7dnFrpMSja30CeY70L8dPQ) | 2:07 | 2022-05-17 | 2022-07-22 |
 | [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/track/1kpjvp5Nimd33RlMYaJQCr) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/album/2ff0DpDkWqdXwwH4h9DZzJ) | 3:07 | 2023-08-08 | 2023-09-10 |
 | [Teijidekaero feat\. TOTALFAT](https://open.spotify.com/track/4wDxFbhE4oNwlHMAcqNnUO) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [P.T.](https://open.spotify.com/album/1quyn6g2gIrwLJ2VmgI8Jx) | 3:07 | 2023-09-07 | 2023-10-04 |

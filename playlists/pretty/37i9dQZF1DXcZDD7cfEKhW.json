@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Addison Rae",
-  "num_followers": 4091039,
+  "num_followers": 4091036,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Girl, so confusing featuring lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "Girl, so confusing featuring lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Memories (feat. Kid Cudi) [2021 Remix]",
         "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 162992,
       "name": "Memories (feat. Kid Cudi) - 2021 Remix",
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Girl, so confusing featuring lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 205938,
+      "name": "Girl, so confusing featuring lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -343,6 +343,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 151929,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -395,30 +419,6 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Perfect (Exceeder)",
-        "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 151929,
-      "name": "Perfect (Exceeder)",
-      "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -525,28 +525,24 @@
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
-        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
+        "name": "feelslikeimfallinginlove (Zerb x Coldplay)",
+        "url": "https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         }
       ],
-      "duration_ms": 211428,
-      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
-      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
+      "duration_ms": 236612,
+      "name": "feelslikeimfallinginlove - Zerb x Coldplay",
+      "url": "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -573,24 +569,28 @@
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "feelslikeimfallinginlove (Zerb x Coldplay)",
-        "url": "https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI"
+        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 236612,
-      "name": "feelslikeimfallinginlove - Zerb x Coldplay",
-      "url": "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt"
+      "duration_ms": 211428,
+      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
       "added_at": "2024-07-26 04:00:00",

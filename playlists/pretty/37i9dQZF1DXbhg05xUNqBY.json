@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348317,
+  "num_followers": 348296,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Be Still and Know",
+        "url": "https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 283346,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "God You Are",
         "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 265286,
       "name": "God You Are (feat. Josh Baldwin)",
       "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Be Still and Know",
-        "url": "https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "Be Still and Know",
-      "url": "https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "At the Table",
-        "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
-      },
-      "artists": [
-        {
-          "name": "Creative Culture Co.",
-          "url": "https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi"
-        },
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 217088,
-      "name": "Just Come",
-      "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "I Don't Have Much (Acoustic)",
         "url": "https://open.spotify.com/album/1NWhJAP7xaX57Vu8LXIn3m"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 259875,
       "name": "I Don't Have Much - Acoustic",
       "url": "https://open.spotify.com/track/3GhH76hVaJTOVGSBR683Vi"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "At the Table",
+        "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
+      },
+      "artists": [
+        {
+          "name": "Creative Culture Co.",
+          "url": "https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 217088,
+      "name": "Just Come",
+      "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "The Lord's Prayer",
+        "url": "https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 176852,
+      "name": "The Lord's Prayer",
+      "url": "https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Sing Over Me",
         "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 254007,
       "name": "Sing Over Me",
       "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "The Lord's Prayer",
-        "url": "https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 176852,
-      "name": "The Lord's Prayer",
-      "url": "https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Nothing but the Blood of Jesus",
+        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
+      },
+      "artists": [
+        {
+          "name": "Lou Fellingham",
+          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
+        }
+      ],
+      "duration_ms": 313146,
+      "name": "Nothing but the Blood of Jesus",
+      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Nothing but the Blood of Jesus",
-        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
-      },
-      "artists": [
-        {
-          "name": "Lou Fellingham",
-          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
-        }
-      ],
-      "duration_ms": 313146,
-      "name": "Nothing but the Blood of Jesus",
-      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "What I Wish For You",
         "url": "https://open.spotify.com/album/3GGO4M95Dcp1aGxMjUrLIu"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Be Still and Know",
-        "url": "https://open.spotify.com/album/3TXcaiiumNrakisWU7UFv1"
-      },
-      "artists": [
-        {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
-        }
-      ],
-      "duration_ms": 304347,
-      "name": "Be Still and Know",
-      "url": "https://open.spotify.com/track/4HYualIRbm2DhNTEvjMzKJ"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Where the Light Dances",
         "url": "https://open.spotify.com/album/1R5UZG8Phvv6Y77R2mrfuP"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 218965,
       "name": "Where the Light Dances",
       "url": "https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Be Still and Know",
+        "url": "https://open.spotify.com/album/3TXcaiiumNrakisWU7UFv1"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        }
+      ],
+      "duration_ms": 304347,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/4HYualIRbm2DhNTEvjMzKJ"
     },
     {
       "added_at": "2024-07-26 09:52:44",

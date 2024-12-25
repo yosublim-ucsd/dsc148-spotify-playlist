@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Thaíde
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,349 likes - 78 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,353 likes - 78 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 21 | [Not Bad Boy](https://open.spotify.com/track/30g6Q7eLE2yHgcmOiHmkDq) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Fernandinho Beat Box](https://open.spotify.com/artist/05LPSp743MO2geOYjoA17i) | [Not Bad Boy](https://open.spotify.com/album/5WWFo7oGUUoO6VGWa8yZRq) | 4:31 |
 | 22 | [Vida Loka, Pt\. 1](https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:03 |
 | 23 | [Calabouço](https://open.spotify.com/track/4r7hAL0YBd7knlDbNjAZh0) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2) | [Calabouço](https://open.spotify.com/album/5lFpFDdsKZxhIWoRP8c88Q) | 3:14 |
-| 24 | [Seu Pesadelo Continua](https://open.spotify.com/track/2MB5bNanBf3Y6pvpYzOxqe) | [Detentos do Rap](https://open.spotify.com/artist/7BUfNHoRQsXyJrIP1iIrAI), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Seu Pesadelo Continua](https://open.spotify.com/album/1mqc77D4LodMdzs187qoKi) | 4:05 |
+| 24 | [Seu Pesadelo Continua](https://open.spotify.com/track/2MB5bNanBf3Y6pvpYzOxqe) | [Detentos do Rap](https://open.spotify.com/artist/7BUfNHoRQsXyJrIP1iIrAI), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Seu Pesadelo Continua](https://open.spotify.com/album/1mqc77D4LodMdzs187qoKi) | 4:05 |
 | 25 | [Favela Sinistra](https://open.spotify.com/track/3G8gF1ClzlQBV66fz6S6JB) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Us Fracu Num Tem Veiz](https://open.spotify.com/album/0biw33bgZqGqmrxjGp0e3b) | 3:35 |
 | 26 | [Só Sangue Bom, Pt.3](https://open.spotify.com/track/4jUFFvH5CMEq5xAB9JZf4h) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF), [DMN](https://open.spotify.com/artist/3uyCb9gtdnzyXxdActGeJN), [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Só Sangue Bom, Pt.3](https://open.spotify.com/album/0AZPtRuZ0lHTZPUGmf2Ead) | 7:16 |
 | 27 | [Minha Cota](https://open.spotify.com/track/34ttcDOpcaiEfj4PRn3LfB) | [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr) | [Anunak](https://open.spotify.com/album/21YMupsMicZtl262PUTIE0) | 1:18 |

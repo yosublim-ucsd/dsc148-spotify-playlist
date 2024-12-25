@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,250 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,293 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 7 | [Tumse Milke Dil Ka](https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sabri Brothers](https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI) | [Main Hoon Na](https://open.spotify.com/album/2QyR1r0XwtvljXEZs9I3ge) | 5:59 |
 | 8 | [Hawayein](https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 4:49 |
 | 9 | [Main Yahaan Hoon](https://open.spotify.com/track/3OAFzjwWionh8OfM4kgf2R) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 4:55 |
-| 10 | [Dildaara \(Stand By Me\)](https://open.spotify.com/track/6ZoCBDOB308GqUdt2AJrV2) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 4:09 |
-| 11 | [Kal Ho Naa Ho](https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:21 |
+| 10 | [Kal Ho Naa Ho](https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:21 |
+| 11 | [Dildaara \(Stand By Me\)](https://open.spotify.com/track/6ZoCBDOB308GqUdt2AJrV2) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 4:09 |
 | 12 | [Haule Haule](https://open.spotify.com/track/2UKK9UEbKlykbmLVP1zWIQ) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Rab Ne Bana Di Jodi](https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca) | 4:23 |
 | 13 | [Ae Kash Ke Hum](https://open.spotify.com/track/1qyib2Wb5YTbNzZi7QMhEY) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kabhi Haan Kabhi Naa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bW1RcnpO5GNXNLo6qCgrh) | 5:10 |
 | 14 | [Chaiyya Chaiyya](https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 6:56 |

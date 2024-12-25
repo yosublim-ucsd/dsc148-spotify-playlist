@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUp3K8hq5o.md) - [plain]
 
 > Big rock tracks from 2017\. Cover: Imagine Dragons
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,269 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,295 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUp3K8hq5o.md) - [plain]
 | 57 | [The Last Of The Real Ones](https://open.spotify.com/track/1f6xYh2HSx8ttCjl4Pckep) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:50 |
 | 58 | [Best Friends](https://open.spotify.com/track/1CmhkiXegdbj3Ewizvdg2Q) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Best Friends](https://open.spotify.com/album/2PXgQvDa1D8SHIzko5a1pP) | 2:59 |
 | 59 | [Ricochet](https://open.spotify.com/track/1ocR8gUE4fBfNJZtBr0TFQ) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 5:10 |
-| 60 | [Up All Night](https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:10 |
+| 60 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
 
 Snapshot ID: `ZIsUVwAAAABHrLsPnh3oxMH02+qiGmHy`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADYBHxoj12E1P77MIIskU0D",
+  "snapshot_id": "Z2ioAAAAAADphQ3c8MHe8c76kZvDSx3s",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culichi Vibes",
-        "url": "https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 189351,
-      "name": "Culichi Vibes",
-      "url": "https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romeo y Julieta",
         "url": "https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 152464,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culichi Vibes",
+        "url": "https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 189351,
+      "name": "Culichi Vibes",
+      "url": "https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Gusto El Estilo",
-        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Perfil SS",
-          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
-        }
-      ],
-      "duration_ms": 179141,
-      "name": "Nos Gusto El Estilo",
-      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Vago",
         "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 177050,
       "name": "El Vago",
       "url": "https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nos Gusto El Estilo",
+        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Perfil SS",
+          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Nos Gusto El Estilo",
+      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 110256,
+      "name": "RZR Rojo - En Vivo",
+      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Faramaya",
         "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 144303,
       "name": "Sin Faramaya",
       "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 110256,
-      "name": "RZR Rojo - En Vivo",
-      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is The End (En Vivo)",
-        "url": "https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Hector Rubio",
-          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
-        }
-      ],
-      "duration_ms": 196414,
-      "name": "This Is The End - En Vivo",
-      "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA Live Session",
         "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 170282,
       "name": "Botecitos Destapando - En Vivo",
       "url": "https://open.spotify.com/track/7j2U6s8PNveSUBwDJfFz5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is The End (En Vivo)",
+        "url": "https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Hector Rubio",
+          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
+        }
+      ],
+      "duration_ms": 196414,
+      "name": "This Is The End - En Vivo",
+      "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
     },
     {
       "added_at": null,
@@ -979,22 +979,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Modo Freson",
-        "url": "https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji"
+        "name": "LA Live Session",
+        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Al Modo Freson",
-      "url": "https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm"
+      "duration_ms": 170368,
+      "name": "El De La Misma L\u00ednea - En Vivo",
+      "url": "https://open.spotify.com/track/5xH8sGBGGyHEZuGgL7EGsq"
     }
   ],
   "unique_name": "This Is Alex Favela",

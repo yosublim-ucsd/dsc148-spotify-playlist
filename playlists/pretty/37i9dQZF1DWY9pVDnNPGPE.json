@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 6496,
+  "num_followers": 6498,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "DEPEND ON YOU",
+      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
         "name": "HAAN X Chan : Synergy",
         "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 194625,
       "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
       "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "DEPEND ON YOU",
-      "url": "https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
-        "name": "A N E W",
-        "url": "https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP"
-      },
-      "artists": [
-        {
-          "name": "EJel",
-          "url": "https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "New Reels (Feat. pH-1)",
-      "url": "https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 213377,
       "name": "Thief (Feat. MINNIE of (G)I-DLE)",
       "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
+        "name": "A N E W",
+        "url": "https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP"
+      },
+      "artists": [
+        {
+          "name": "EJel",
+          "url": "https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "New Reels (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG"
     },
     {
       "added_at": "2024-11-21 05:25:44",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-11-21 05:25:44",
       "album": {
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S"
+    },
+    {
+      "added_at": "2024-11-21 05:25:44",
+      "album": {
         "name": "Me and U",
         "url": "https://open.spotify.com/album/0cJCVdokJ6fahSURKcZWm6"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 173373,
       "name": "By Your Side (feat. Ashley Alisha)",
       "url": "https://open.spotify.com/track/1cBbrsza3fkHgtE6F16aQv"
-    },
-    {
-      "added_at": "2024-11-21 05:25:44",
-      "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S"
     },
     {
       "added_at": "2024-11-21 05:25:44",

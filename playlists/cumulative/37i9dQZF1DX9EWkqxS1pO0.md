@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: DOU
 
-170 songs - 8 hr 15 min
+171 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aman Aman](https://open.spotify.com/track/3dI2caeCgFZkI0z86jxgGh) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Aman Aman](https://open.spotify.com/album/2DIFHpkBiMguUMUiqNyLQH) | 3:18 | 2024-10-24 |  |
 | [Ankara Ayazı](https://open.spotify.com/track/5no6olRh1NCwdZJIIMId2R) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f), [Zibo](https://open.spotify.com/artist/5N6mauDodGl3hh9xzm7Zwj) | [Ankara Ayazı](https://open.spotify.com/album/0U31turfAphETTOc8k3nQN) | 3:20 | 2024-06-20 |  |
 | [ANLATAMADIM](https://open.spotify.com/track/6wZYEFvxTXs4hdAxwbBrWh) | [Mâi](https://open.spotify.com/artist/3d4FAb7KcuSi6WrVYuIDbk) | [ANLATAMADIM](https://open.spotify.com/album/0XkW2QOD2Mb0aJLx5R2U8V) | 3:06 | 2024-09-19 | 2024-11-15 |
-| [Anlaşılır Tabii](https://open.spotify.com/track/4iHS5earH363cx54IhEExy) | [Merve Çalkan](https://open.spotify.com/artist/40nToqTbZUUXhFhx4zkbD3) | [Anlaşılır Tabii](https://open.spotify.com/album/6M3nG1jRfGDuTWGNeavdOo) | 3:54 | 2024-11-28 |  |
+| [Anlaşılır Tabii](https://open.spotify.com/track/4iHS5earH363cx54IhEExy) | [Merve Çalkan](https://open.spotify.com/artist/40nToqTbZUUXhFhx4zkbD3) | [Anlaşılır Tabii](https://open.spotify.com/album/6M3nG1jRfGDuTWGNeavdOo) | 3:54 | 2024-11-28 | 2024-12-25 |
 | [Arabesk Parçalar](https://open.spotify.com/track/7vQqKSxS9Ja02vsUXxPMIL) | [Cem Pilevneli](https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB) | [Arabesk Parçalar](https://open.spotify.com/album/7nDBTGFcpgBJ7pO2oEk96m) | 3:16 | 2024-11-28 |  |
 | [Asi](https://open.spotify.com/track/2JreBBfR668uVO5ZvOeKjT) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Asi](https://open.spotify.com/album/0yoxluWtV2dTiJ1zUch5k5) | 2:44 | 2024-06-20 | 2024-09-06 |
 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 | 2024-07-04 |  |
@@ -119,6 +119,7 @@
 | [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 | 2024-06-20 |  |
 | [SENİN OLSUN](https://open.spotify.com/track/6HjKzIcneM1tVlpQlKulkq) | [Alaca](https://open.spotify.com/artist/67MoCLjdlVakijtIPLmkfB) | [SENİN OLSUN](https://open.spotify.com/album/326BUEFl106rDVFFTxnHyF) | 2:51 | 2024-07-12 | 2024-08-04 |
 | [Sesim Kulaklıklarında](https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Sesim Kulaklıklarında](https://open.spotify.com/album/4pkJ2OaDoyocWq68fnQ8up) | 3:22 | 2024-06-20 | 2024-08-13 |
+| [Sevgilim Beni Affet](https://open.spotify.com/track/3E3ausTrcU9zkSxYYD3dim) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Sevgilim Beni Affet](https://open.spotify.com/album/2HVcIH8PqjlmKZSQWTYsPO) | 3:46 | 2024-12-19 |  |
 | [Sevmeyi Bilmeliydik](https://open.spotify.com/track/0Lxmwww1gG4okcAZtVirjd) | [Hagüra](https://open.spotify.com/artist/63FsIdN7zwPwQGJb8wzifr) | [Sevmeyi Bilmeliydik](https://open.spotify.com/album/3WAgKTf44grcCd8umaC5nv) | 2:01 | 2024-10-10 | 2024-11-29 |
 | [Sevmişsin Gibi](https://open.spotify.com/track/4tEXZEWitoIMQJZAiBxbrk) | [Berkay Akman](https://open.spotify.com/artist/7Fi8SvzJZ6iFOyWvoS7DK1) | [Sevmişsin Gibi](https://open.spotify.com/album/7dkMzxKMKcuvGVkTbhOXWW) | 3:05 | 2024-09-05 | 2024-11-29 |
 | [Sil Numaramı](https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Sil Numaramı](https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM) | 2:31 | 2024-06-20 |  |

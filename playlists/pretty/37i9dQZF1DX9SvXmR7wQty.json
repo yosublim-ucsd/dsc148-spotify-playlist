@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: White-B",
-  "num_followers": 43113,
+  "num_followers": 43112,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -671,42 +671,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "\u00c9videmment",
-        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "\u00c9videmment",
-      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "Dans ma bulle",
-        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 152679,
-      "name": "Dans ma bulle",
-      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "PROSECCO",
         "url": "https://open.spotify.com/album/6EqYEiZynSrDXKfPzpjBwQ"
       },
@@ -727,6 +691,42 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "Dans ma bulle",
+        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 152679,
+      "name": "Dans ma bulle",
+      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "\u00c9videmment",
+        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "\u00c9videmment",
+      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "MON ANN\u00c9E",
         "url": "https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi"
       },
@@ -743,22 +743,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "STACKS",
-        "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
+        "name": "AMOR\u00c9",
+        "url": "https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW"
       },
       "artists": [
         {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
         },
         {
-          "name": "Zed",
-          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
         }
       ],
-      "duration_ms": 220160,
-      "name": "STACKS",
-      "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
+      "duration_ms": 144394,
+      "name": "AMOR\u00c9",
+      "url": "https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "STACKS",
+        "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "STACKS",
+      "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "Pygmalion",
         "url": "https://open.spotify.com/album/7IBIYHkyHgpQ8xXxx9sUiA"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 171038,
       "name": "Paparigo",
       "url": "https://open.spotify.com/track/1FHE8HWaTOW9vMXBuJOsS6"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "AMOR\u00c9",
-        "url": "https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW"
-      },
-      "artists": [
-        {
-          "name": "SAF",
-          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
-        },
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
-        }
-      ],
-      "duration_ms": 144394,
-      "name": "AMOR\u00c9",
-      "url": "https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -853,6 +853,46 @@
       "url": "https://open.spotify.com/track/5bNNfbBd4IWXxiuCa9Ahjs"
     },
     {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
+        "name": "Bienvenue dans High & Fines Herbes",
+        "url": "https://open.spotify.com/album/2wJ9ImpdqwVGngJDDx5VX8"
+      },
+      "artists": [
+        {
+          "name": "Caballero & JeanJass",
+          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "Kay The Prodigy",
+          "url": "https://open.spotify.com/artist/4ziOwyCpUFMlERkfyoEV6p"
+        },
+        {
+          "name": "Stony Stone",
+          "url": "https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR"
+        },
+        {
+          "name": "thaHomey",
+          "url": "https://open.spotify.com/artist/5N2P9zB8202SrtnWCjqe1j"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Bienvenue dans High & Fines Herbes",
+      "url": "https://open.spotify.com/track/3wV0qYUvnJWfL9a2CQJqD1"
+    },
+    {
       "added_at": "2024-12-13 05:00:20",
       "album": {
         "name": "Je me demande (feat. Louane)",
@@ -871,22 +911,6 @@
       "duration_ms": 195545,
       "name": "Je me demande (feat. Louane)",
       "url": "https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "BIG BOSS",
-        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 122023,
-      "name": "BIG BOSS",
-      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

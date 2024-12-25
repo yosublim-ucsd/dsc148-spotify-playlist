@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAC2Oq4iTArAYhGg6sGi4aR8",
+  "snapshot_id": "AAAAAAAAAABD9H2sRU8QxXLniSJ7v5Bn",
   "tracks": [
     {
       "added_at": "2024-12-20 05:00:00",
@@ -31,22 +31,18 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/68BaVKhNZdAclR23Vf7Voc"
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
       },
       "artists": [
         {
-          "name": "Dylan Owen",
-          "url": "https://open.spotify.com/artist/3tBtdC4EFE4bNqkt7JP0Co"
-        },
-        {
-          "name": "Abstract",
-          "url": "https://open.spotify.com/artist/7lkYBcrLM4JmVgeha1xNl6"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 172661,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/6Q8fll6fxtUrbC76iO7pim"
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -67,18 +63,22 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/68BaVKhNZdAclR23Vf7Voc"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Dylan Owen",
+          "url": "https://open.spotify.com/artist/3tBtdC4EFE4bNqkt7JP0Co"
+        },
+        {
+          "name": "Abstract",
+          "url": "https://open.spotify.com/artist/7lkYBcrLM4JmVgeha1xNl6"
         }
       ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+      "duration_ms": 172661,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/6Q8fll6fxtUrbC76iO7pim"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -223,34 +223,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Frozyn Reign 2",
-        "url": "https://open.spotify.com/album/5aA92FyDJgjWZV2PdLicM9"
-      },
-      "artists": [
-        {
-          "name": "The Incomplete Orchestra",
-          "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Lone Wolf",
-          "url": "https://open.spotify.com/artist/6Ayr8qiIKESvHLOyabjpxC"
-        },
-        {
-          "name": "P-Earl Gray",
-          "url": "https://open.spotify.com/artist/2dsnZO9L1FbXybl2xKnDDi"
-        }
-      ],
-      "duration_ms": 246377,
-      "name": "Chi Mi Na Morbheanna - Unison Graduation Mix",
-      "url": "https://open.spotify.com/track/49FbmTNqvepS3Fcl63FXyC"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "Viking Juice (The Butcher Mix)",
         "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
       },
@@ -319,22 +291,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 135653,
-      "name": "Empty Out Your Pockets",
-      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "Chest Pain (I Love)",
         "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
       },
@@ -347,6 +303,22 @@
       "duration_ms": 202000,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Empty Out Your Pockets",
+      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -399,18 +371,34 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Unreal Unearth: Unending",
-        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
+        "name": "EL CL\u00faB",
+        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 202937,
-      "name": "Hymn to Virgil",
-      "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 225247,
+      "name": "Too Deep for the Intro",
+      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
     },
     {
       "added_at": "2024-12-20 05:00:00",

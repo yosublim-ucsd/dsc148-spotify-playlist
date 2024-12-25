@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Welcome to the BTS's universe\. A.R.M.Y's World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,808,891 likes - 270 songs - 16 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,808,655 likes - 270 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Mr.FanTastiC",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u6253\u9996\u7344\u9580\u540c\u597d\u4f1a",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1090,6 +1090,24 @@
       "duration_ms": 221000,
       "name": "Danger Danger",
       "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
+    },
+    {
+      "album": {
+        "name": "Dansharhythm",
+        "url": "https://open.spotify.com/album/4xTFljDOdjSAGiDDU7uggg"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189459,
+      "name": "Dansharhythm",
+      "url": "https://open.spotify.com/track/0bnfOJO4mKt6aUbkbNKZmM"
     },
     {
       "album": {
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 247500,
       "name": "LEAVE IT ALL BEHIND",
       "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"

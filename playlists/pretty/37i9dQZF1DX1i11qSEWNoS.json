@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 601062,
+  "num_followers": 601147,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2024-12-16 13:03:18",
       "album": {
+        "name": "The Days (NOTION Remix)",
+        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "The Days - NOTION Remix",
+      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "added_at": "2024-12-16 13:03:18",
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 83754,
       "name": "Eu Sento Gabu!",
       "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
-    },
-    {
-      "added_at": "2024-12-16 13:03:18",
-      "album": {
-        "name": "The Days (NOTION Remix)",
-        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
-      },
-      "artists": [
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "The Days - NOTION Remix",
-      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
       "added_at": "2024-12-16 13:03:18",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-12-16 13:03:18",
       "album": {
+        "name": "Head n' Shoulders, pt.II",
+        "url": "https://open.spotify.com/album/3GDJwHLrsp3XxytW5BEWGW"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 135746,
+      "name": "Head n' Shoulders, pt.II",
+      "url": "https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa"
+    },
+    {
+      "added_at": "2024-12-16 13:03:18",
+      "album": {
         "name": "Faster n Harder",
         "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 145946,
       "name": "Couldn't Care Less (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
-    },
-    {
-      "added_at": "2024-12-16 13:03:18",
-      "album": {
-        "name": "Head n' Shoulders, pt.II",
-        "url": "https://open.spotify.com/album/3GDJwHLrsp3XxytW5BEWGW"
-      },
-      "artists": [
-        {
-          "name": "Yc",
-          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
-        },
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 135746,
-      "name": "Head n' Shoulders, pt.II",
-      "url": "https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa"
     },
     {
       "added_at": "2024-12-16 13:03:18",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-12-16 13:03:18",
       "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+    },
+    {
+      "added_at": "2024-12-16 13:03:18",
+      "album": {
         "name": "N\u00dcCHTERN",
         "url": "https://open.spotify.com/album/7xKFVx6gSDKbJSfR9bPe3X"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 195125,
       "name": "N\u00dcCHTERN",
       "url": "https://open.spotify.com/track/1uUo1d1amOQEfjOWirEw5Q"
-    },
-    {
-      "added_at": "2024-12-16 13:03:18",
-      "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
     },
     {
       "added_at": "2024-12-16 13:03:18",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-12-16 13:03:18",
       "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
-    },
-    {
-      "added_at": "2024-12-16 13:03:18",
-      "album": {
         "name": "Abenteuerland",
         "url": "https://open.spotify.com/album/3quzSBWWSsSon0G4MZE29v"
       },
@@ -1139,26 +1123,6 @@
     {
       "added_at": "2024-12-16 13:03:18",
       "album": {
-        "name": "Wilmersdorfs Kind",
-        "url": "https://open.spotify.com/album/1qGEpCF1NA9ToIocKI4xVK"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
-        }
-      ],
-      "duration_ms": 155722,
-      "name": "IMMER (MIT MAKKO)",
-      "url": "https://open.spotify.com/track/0UZOCEkRQ7kBNFH4NZgmHq"
-    },
-    {
-      "added_at": "2024-12-16 13:03:18",
-      "album": {
         "name": "EWIGKEIT (REMIX)",
         "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
@@ -1179,6 +1143,42 @@
       "duration_ms": 137647,
       "name": "EWIGKEIT - REMIX",
       "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
+    },
+    {
+      "added_at": "2024-12-16 13:03:18",
+      "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2024-12-16 13:03:18",
+      "album": {
+        "name": "Wilmersdorfs Kind",
+        "url": "https://open.spotify.com/album/1qGEpCF1NA9ToIocKI4xVK"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "duration_ms": 155722,
+      "name": "IMMER (MIT MAKKO)",
+      "url": "https://open.spotify.com/track/0UZOCEkRQ7kBNFH4NZgmHq"
     },
     {
       "added_at": "2024-12-16 13:03:18",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-12-16 13:03:18",
       "album": {
+        "name": "100 Push Ups",
+        "url": "https://open.spotify.com/album/7GZmX5gl1AwdWqzGbI4Q6Z"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "100 Push Ups",
+      "url": "https://open.spotify.com/track/5OJYxgz6ORI1EhSZzv8aUC"
+    },
+    {
+      "added_at": "2024-12-16 13:03:18",
+      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
-    },
-    {
-      "added_at": "2024-12-16 13:03:18",
-      "album": {
-        "name": "100 Push Ups",
-        "url": "https://open.spotify.com/album/7GZmX5gl1AwdWqzGbI4Q6Z"
-      },
-      "artists": [
-        {
-          "name": "THIZZY52",
-          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "100 Push Ups",
-      "url": "https://open.spotify.com/track/5OJYxgz6ORI1EhSZzv8aUC"
     },
     {
       "added_at": "2024-12-16 13:03:18",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-12-16 13:03:18",
       "album": {
-        "name": "Outfit Check",
-        "url": "https://open.spotify.com/album/7tSU9aKCTXrPUneRbk75tq"
+        "name": "Leben am Limit",
+        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
       },
       "artists": [
         {
-          "name": "Ritter Lean",
-          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+          "name": "SXTN",
+          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
         }
       ],
-      "duration_ms": 143416,
-      "name": "Outfit Check",
-      "url": "https://open.spotify.com/track/1SM6ss2QblSsTBJAyczfDN"
+      "duration_ms": 224186,
+      "name": "Von Party zu Party",
+      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
     },
     {
       "added_at": "2024-12-16 13:03:18",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-12-16 13:03:18",
       "album": {
-        "name": "Leben am Limit",
-        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
+        "name": "Outfit Check",
+        "url": "https://open.spotify.com/album/7tSU9aKCTXrPUneRbk75tq"
       },
       "artists": [
         {
-          "name": "SXTN",
-          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
         }
       ],
-      "duration_ms": 224186,
-      "name": "Von Party zu Party",
-      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
+      "duration_ms": 143416,
+      "name": "Outfit Check",
+      "url": "https://open.spotify.com/track/1SM6ss2QblSsTBJAyczfDN"
     },
     {
       "added_at": "2024-12-16 13:03:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dancing Mood
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,292 likes - 89 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,297 likes - 89 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 55 | [Si no Regreso](https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Si no Regreso](https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY) | 2:58 |
 | 56 | [Vamos Fugir](https://open.spotify.com/track/2Y7nKdgpv2qgn54SOceCaw) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Vamos Fugir](https://open.spotify.com/album/3sPkAX1L9eprN5JP2EZvbS) | 3:47 |
 | 57 | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk), [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd) | 5:12 |
-| 58 | [Young Veterans](https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Natty Congo Crew](https://open.spotify.com/artist/0eDwZ8EuFO0B8yMNmHHfkw) | [Young Veterans](https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K) | 4:06 |
-| 59 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 |
-| 60 | [Hombres De Hierro](https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hombres De Hierro](https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC) | 4:39 |
-| 61 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 |
+| 58 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 |
+| 59 | [Hombres De Hierro](https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hombres De Hierro](https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC) | 4:39 |
+| 60 | [Young Veterans](https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Natty Congo Crew](https://open.spotify.com/artist/0eDwZ8EuFO0B8yMNmHHfkw) | [Young Veterans](https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K) | 4:06 |
+| 61 | [No Mires Atras](https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 4:20 |
 | 62 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
-| 63 | [No Mires Atras](https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 4:20 |
+| 63 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 |
 | 64 | [Lo De Siempre](https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 3:22 |
 | 65 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
 | 66 | [Ruta](https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Dalasio](https://open.spotify.com/artist/2C1xJBfgKnVe1xMyUD6yAb) | [Ruta](https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji) | 3:45 |

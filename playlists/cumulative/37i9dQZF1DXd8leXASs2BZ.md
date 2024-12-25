@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: BIG FAF
+> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Eric.B.Jr
 
-778 songs - 1 day 11 hr 56 min
+779 songs - 1 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Almost 20](https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:22 | 2024-03-05 | 2024-06-05 |
 | [Always be killing it](https://open.spotify.com/track/3C8EOKedfzDXH1diDbBUU1) | [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH), [SXICIDE RYUSEI](https://open.spotify.com/artist/2R9foVRopS1uc8SlRYbCaI) | [Dream pool](https://open.spotify.com/album/6SVF66US4aiLfcgC5IGquX) | 3:34 | 2024-04-16 | 2024-04-19 |
 | [Ame\_No\_SeiDe](https://open.spotify.com/track/1duz43rjQWLoUh4LVMF8vZ) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Ame\_No\_SeiDe](https://open.spotify.com/album/4gRKzZqf1GF6zxztAew9AX) | 2:44 | 2024-10-15 | 2024-12-11 |
+| [Angel Goat](https://open.spotify.com/track/7h9w3SPJRla3neypj8GrzQ) | [Eric.B.Jr](https://open.spotify.com/artist/5iiCEORKky6Ecc38uEUXX0) | [Angel Goat](https://open.spotify.com/album/0r0dKMz4PA0BJoZbyRsKL4) | 3:26 | 2024-12-24 |  |
 | [Anokoro \(feat\. Amo\)](https://open.spotify.com/track/51xJNAeCMtGGqQMYFms8JR) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2), [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [Anokoro \(feat\. Amo\)](https://open.spotify.com/album/7BUJUCGHUSylffzSKiEkyo) | 3:45 | 2024-12-10 |  |
 | [Anthem](https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES DELUXE](https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ) | 2:50 | 2023-12-07 | 2024-05-29 |
 | [AP](https://open.spotify.com/track/5Uq2Sl7iRceUDkVObQQcCc) | [Granzotto Kris](https://open.spotify.com/artist/5SiluWKCDSSK540EQp4iI3) | [AP](https://open.spotify.com/album/0dYyVvUgzs1v38uXhZhWEY) | 2:51 | 2024-01-25 | 2024-02-21 |
@@ -611,7 +612,7 @@
 | [Street Pain](https://open.spotify.com/track/2BKUAY6dFSTtKxtGHcKYhW) | [storm](https://open.spotify.com/artist/0ZNbi5CMdUDlRo9DMorCD5) | [Street Pain](https://open.spotify.com/album/2FsTiVt9KQYJUotP2VawoV) | 2:34 | 2024-11-06 | 2024-11-27 |
 | [Struggle](https://open.spotify.com/track/2uorqw0spilyM6eFRq0RFE) | [HOWL](https://open.spotify.com/artist/2r3dR8TwsBkYYUfNomo7um) | [VS ME](https://open.spotify.com/album/3NJj1qqpb7E9n1r04OAr9k) | 2:48 | 2024-01-30 | 2024-02-28 |
 | [Struggle](https://open.spotify.com/track/6Sz1KD1qr9fPc87o7VlzeU) | [HOWL](https://open.spotify.com/artist/2r3dR8TwsBkYYUfNomo7um) | [VS ME](https://open.spotify.com/album/6QMPdzLL2CyKHVoFzRPVLD) | 2:48 | 2024-01-30 | 2024-02-01 |
-| [Studio Neet](https://open.spotify.com/track/3WRv6d1IlanzVQPu8xMwEP) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W) | [Studio Neet](https://open.spotify.com/album/5xrajBttxesT7X06gAWxMP) | 2:29 | 2024-08-28 |  |
+| [Studio Neet](https://open.spotify.com/track/3WRv6d1IlanzVQPu8xMwEP) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W) | [Studio Neet](https://open.spotify.com/album/5xrajBttxesT7X06gAWxMP) | 2:29 | 2024-08-28 | 2024-12-25 |
 | [Succes](https://open.spotify.com/track/47lGTqSRbIXJuVzFPfl5Sd) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Local Life](https://open.spotify.com/album/5QReLSHX2gBdrMnVztz7f4) | 2:15 | 2024-03-21 | 2024-04-19 |
 | [Succes](https://open.spotify.com/track/69cy9YJ1PP6iAK5QTvgFRt) | [Nero](https://open.spotify.com/artist/6YU46EAAs1wUPfSPVXu5ZA), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Local Life](https://open.spotify.com/album/4560Qtdvr2QLUZPhnbsCUy) | 2:15 | 2024-04-16 | 2024-06-12 |
 | [summer clouds](https://open.spotify.com/track/3AerkVgVqgoKMz5z13kxPD) | [SCAR\-FACE](https://open.spotify.com/artist/5QAk6haiGEN53kHBo9pMSU) | [summer clouds](https://open.spotify.com/album/1DUFIDCjQcAxPV2dYTkHdy) | 2:44 | 2024-02-08 | 2024-04-19 |

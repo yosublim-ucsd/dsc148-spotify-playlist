@@ -1,6 +1,6 @@
 {
   "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Cover: Kendrick Lamar",
-  "num_followers": 208827,
+  "num_followers": 208824,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
@@ -695,30 +695,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "Lo Que Tiene",
-        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Lo Que Tiene",
-      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "Lo Que Tiene",
+        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Lo Que Tiene",
+      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "Glockoma 2 (Deluxe)",
         "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 140106,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "Noid",
-        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 284363,
-      "name": "Noid",
-      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "gen z luv",
         "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 153266,
       "name": "gen z luv",
       "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "Noid",
+        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "Parking Lot",
         "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
       },
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "All My Life (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1251,6 +1231,26 @@
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "Bolide Noir",
-        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
+        "name": "Survivor\u2019s Remorse",
+        "url": "https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 126315,
-      "name": "Billion Streams Freestyle",
-      "url": "https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp"
+      "duration_ms": 156645,
+      "name": "Survivor\u2019s Remorse",
+      "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "Survivor\u2019s Remorse",
-        "url": "https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W"
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 156645,
-      "name": "Survivor\u2019s Remorse",
-      "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
+      "duration_ms": 126315,
+      "name": "Billion Streams Freestyle",
+      "url": "https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
+        "name": "Sleazy Flow (Remix)",
+        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161355,
+      "name": "Sleazy Flow (with Lil Baby) - Remix",
+      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
         "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
       },
@@ -1919,26 +1939,6 @@
       "duration_ms": 176034,
       "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
-        "name": "Sleazy Flow (Remix)",
-        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161355,
-      "name": "Sleazy Flow (with Lil Baby) - Remix",
-      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
     },
     {
       "added_at": "2024-12-19 11:22:19",
@@ -2235,26 +2235,6 @@
     {
       "added_at": "2024-12-19 11:22:19",
       "album": {
-        "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
-        "url": "https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
-      "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
-    },
-    {
-      "added_at": "2024-12-19 11:22:19",
-      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -2275,6 +2255,26 @@
       "duration_ms": 242453,
       "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
+    },
+    {
+      "added_at": "2024-12-19 11:22:19",
+      "album": {
+        "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
     },
     {
       "added_at": "2024-12-19 11:22:19",

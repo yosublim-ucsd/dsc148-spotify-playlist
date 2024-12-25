@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 280192,
+  "num_followers": 280247,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,38 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Frente A Frente",
+        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Por Debajo De La Mesa",
+        "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
+      },
+      "artists": [
+        {
+          "name": "Serena Mendes",
+          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
+        }
+      ],
+      "duration_ms": 179838,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -791,38 +823,6 @@
       "duration_ms": 120061,
       "name": "Quiero Conocerte",
       "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Por Debajo De La Mesa",
-        "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
-      },
-      "artists": [
-        {
-          "name": "Serena Mendes",
-          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
-        }
-      ],
-      "duration_ms": 179838,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Frente A Frente",
-        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Cita Con Luis Arcaraz",
-        "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 145750,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Cita Con Luis Arcaraz",
+        "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Vamos a la Cumbancha",
+        "url": "https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb"
+      },
+      "artists": [
+        {
+          "name": "El Negro Peregrino Y Su Trio",
+          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Mexican Music: Trios",
         "url": "https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 158026,
       "name": "Empiezo a Extra\u00f1arte",
       "url": "https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Vamos a la Cumbancha",
-        "url": "https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb"
-      },
-      "artists": [
-        {
-          "name": "El Negro Peregrino Y Su Trio",
-          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Antolog\u00eda. . .Hermanas Aguila",
+        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
+      },
+      "artists": [
+        {
+          "name": "Hermanas Aguila",
+          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Se\u00f1ora tentaci\u00f3n",
+      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Lo Mejor de los Mejores - Tr\u00edos del Mundo",
         "url": "https://open.spotify.com/album/3kFUfESqhs3NcDF48dBTga"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Antolog\u00eda. . .Hermanas Aguila",
-        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
       "artists": [
         {
-          "name": "Hermanas Aguila",
-          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Se\u00f1ora tentaci\u00f3n",
-      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
         "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 153053,
-      "name": "Canci\u00f3n del alma",
-      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Voy A Apagar La Luz",
         "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 153053,
+      "name": "Canci\u00f3n del alma",
+      "url": "https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "20 \u00c9xitos de los Mejores Tr\u00edos de Am\u00e9rica",
         "url": "https://open.spotify.com/album/3nKVToGPx8VDSdPBUAcfDE"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 154120,
       "name": "Perla Negra",
       "url": "https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1367,38 +1383,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
-        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
-      },
-      "artists": [
-        {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
-        }
-      ],
-      "duration_ms": 159440,
-      "name": "Tus Promesas de Amor",
-      "url": "https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
+        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
+      },
+      "artists": [
+        {
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+        }
+      ],
+      "duration_ms": 159440,
+      "name": "Tus Promesas de Amor",
+      "url": "https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1459,38 +1459,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "100th Birthday Celebration",
-        "url": "https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "T\u00fa me acostumbraste",
-      "url": "https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "XEW La Voz de America Latina",
-        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
-      },
-      "artists": [
-        {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1515,6 +1483,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "100th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "T\u00fa me acostumbraste",
+      "url": "https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
         "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 151266,
       "name": "Ya T\u00fa Ver\u00e1s",
       "url": "https://open.spotify.com/track/2KE723Cj7xEvFe9qXgX8qu"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "XEW La Voz de America Latina",
+        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1575,6 +1575,30 @@
       "duration_ms": 150146,
       "name": "Un Dia",
       "url": "https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 188963,
+      "name": "Esta Melodia",
+      "url": "https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1655,30 +1679,6 @@
       "duration_ms": 158534,
       "name": "En Nosotros",
       "url": "https://open.spotify.com/track/3v6tJYI8YRNmA0j8HLixAE"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 188963,
-      "name": "Esta Melodia",
-      "url": "https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX"
     },
     {
       "added_at": "2024-07-11 15:48:05",

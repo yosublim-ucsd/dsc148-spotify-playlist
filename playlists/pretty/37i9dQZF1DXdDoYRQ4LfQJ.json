@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Gabito Ballesteros & the hottest corridos in the U.S.",
-  "num_followers": 285032,
+  "num_followers": 285243,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,18 @@
     {
       "added_at": "2024-12-20 05:20:55",
       "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 150528,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO"
     },
     {
       "added_at": "2024-12-20 05:20:55",
@@ -691,18 +687,22 @@
     {
       "added_at": "2024-12-20 05:20:55",
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO"
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
     },
     {
       "added_at": "2024-12-20 05:20:55",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-12-20 05:20:55",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Se Volvieron Locos",
+      "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
+    },
+    {
+      "added_at": "2024-12-20 05:20:55",
+      "album": {
         "name": "Tirando la H",
         "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 158626,
       "name": "Por Clave Caiman",
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
-    },
-    {
-      "added_at": "2024-12-20 05:20:55",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Se Volvieron Locos",
-      "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
     },
     {
       "added_at": "2024-12-20 05:20:55",
@@ -1879,22 +1879,22 @@
     {
       "added_at": "2024-12-20 05:20:55",
       "album": {
-        "name": "Vivo a Mi Modo",
-        "url": "https://open.spotify.com/album/7xYLrO5jFTLofRjpRgG3vl"
+        "name": "La Belikiza",
+        "url": "https://open.spotify.com/album/7HOUdywGr2S6abfhiUxopa"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         },
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 144062,
-      "name": "Vivo a Mi Modo",
-      "url": "https://open.spotify.com/track/7aEy3Bm9PCsH9obDPkCGaN"
+      "duration_ms": 181331,
+      "name": "La Belikiza",
+      "url": "https://open.spotify.com/track/7gJnQLfoixzf5ODwLdIhoj"
     }
   ],
   "unique_name": "La Privada",

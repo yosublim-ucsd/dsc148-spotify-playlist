@@ -4,7 +4,7 @@
 
 > This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-81 songs - 5 hr 10 min
+83 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Hechizo](https://open.spotify.com/track/3BrrnpQ2p1WeXmtNYs5b0D) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:28 | 2023-03-10 |  |
 | [Hice Bien Quererte \(Lambada\) \- Versión Corta](https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 4:02 | 2023-03-10 |  |
 | [Huelo a Soledad](https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Huelo a Soledad](https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe) | 4:18 | 2023-03-10 |  |
-| [La Araña](https://open.spotify.com/track/6d058SNQUhMHZ8wIqre8zH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:11 | 2024-11-24 |  |
+| [La Araña](https://open.spotify.com/track/6d058SNQUhMHZ8wIqre8zH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:11 | 2024-11-24 | 2024-12-25 |
 | [La Cárcel del Amor](https://open.spotify.com/track/0Z7ZdI3JNqqVJBYz0xFQoF) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 4:22 | 2023-03-10 | 2024-04-26 |
 | [La Cárcel del Amor](https://open.spotify.com/track/6tF9tY9Ywd4WeCUK3Xja2W) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mis Favoritas](https://open.spotify.com/album/4mwUQaf9Q8TX3KMvN1VJRF) | 4:22 | 2024-05-19 |  |
 | [La Despedida](https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 2:54 | 2023-11-10 |  |
@@ -53,6 +53,7 @@
 | [Ni un Roce \(Nem um Toque\)](https://open.spotify.com/track/0h9tN3D3jMLv4P9xwcUwDG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 4:30 | 2023-03-10 |  |
 | [No a Pedir Perdón](https://open.spotify.com/track/7jhGpbLaAo99bQbEW1zhhM) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Soy Como Soy](https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV) | 3:49 | 2023-03-10 |  |
 | [No Entiendo](https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:43 | 2023-03-10 | 2024-11-24 |
+| [No Entiendo](https://open.spotify.com/track/1TCjgVOmX3zV0nuRQtSoPm) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:44 | 2024-12-25 |  |
 | [No Me Amenaces](https://open.spotify.com/track/5GAnjZFN208ILOkdC3yKiT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Renacer Homenaje a Lucha Villa](https://open.spotify.com/album/7jBHBCemZ9lvUwNu7KCNGO) | 2:48 | 2024-11-24 |  |
 | [No Me Digas \- En Vivo](https://open.spotify.com/track/5qtEihIGUr0HmIcE4I5aL5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [No Me Digas \(En Vivo\)](https://open.spotify.com/album/6NMQo0oesPRr3kDik5wdIH) | 4:24 | 2024-03-09 |  |
 | [No Sabes](https://open.spotify.com/track/0FGGnLhLnAAHuLTAG0ZowO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Vivencias](https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J) | 3:51 | 2024-11-24 | 2024-12-19 |
@@ -65,12 +66,13 @@
 | [Pecado Original](https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:26 | 2023-03-10 |  |
 | [Popurrí Ranchero \- En Vivo](https://open.spotify.com/track/0RIYRFQyrM4rCV0PKYCeAH) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel En La Plaza De Toros México](https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy) | 8:28 | 2024-11-24 |  |
 | [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:24 | 2023-03-10 | 2024-12-19 |
-| [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/0aqUzB00ONkLsVdjESxIsQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:24 | 2024-01-13 |  |
+| [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/0aqUzB00ONkLsVdjESxIsQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:24 | 2024-01-13 | 2024-12-25 |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 | 2023-03-10 |  |
 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 | 2023-03-10 |  |
 | [Qué Manera de Perder](https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:28 | 2023-03-10 | 2024-11-24 |
 | [Reconciliación](https://open.spotify.com/track/20RbGTXTv6bPLAg1YJslvK) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:14 | 2024-11-24 | 2024-12-19 |
 | [Siete Veces, Siete Más](https://open.spotify.com/track/51ZsxJ6EKQnPjs7HB4OHLL) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Dos Amores, un Amante](https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R) | 2:48 | 2024-11-24 |  |
+| [Simplemente Amigos](https://open.spotify.com/track/3hNhYIAFtqVrVRhaj6Ppmy) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Amores](https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU) | 3:46 | 2024-12-25 |  |
 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 | 2023-03-10 | 2023-06-09 |
 | [Simplemente Amigos](https://open.spotify.com/track/5qGx6HUkOxs0NGvPzn9qrz) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I) | 3:47 | 2023-06-08 | 2024-11-24 |
 | [Simón Blanco](https://open.spotify.com/track/5G8yVINWuWHKdzWnFeOFDJ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 3:10 | 2024-11-24 | 2024-11-27 |

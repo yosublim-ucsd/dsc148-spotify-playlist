@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,506 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,547 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 32 | [Yo No Fui](https://open.spotify.com/track/6DHJHTkZ0kveYy5L41Us7Y) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Corazón Loco](https://open.spotify.com/album/08XD8IgAqvepttmUV4B1FE) | 1:53 |
 | 33 | [Al Claro de Luna](https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY) | [Rafael Vázquez](https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd) | [Al Claro de Luna](https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl) | 1:51 |
 | 34 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
-| 35 | [El Relojito](https://open.spotify.com/track/5UNHoCA1Dq0M8cMAd5k3Bx) | [Hermanas Navarro](https://open.spotify.com/artist/6zF0GiajmfWSejD6nmZ16o) | [Enlaces Hermanas Navarro y Andy Russell](https://open.spotify.com/album/18IOQIjI0rPJhnZcIStz8D) | 2:17 |
-| 36 | [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 |
+| 35 | [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 |
+| 36 | [El Relojito](https://open.spotify.com/track/5UNHoCA1Dq0M8cMAd5k3Bx) | [Hermanas Navarro](https://open.spotify.com/artist/6zF0GiajmfWSejD6nmZ16o) | [Enlaces Hermanas Navarro y Andy Russell](https://open.spotify.com/album/18IOQIjI0rPJhnZcIStz8D) | 2:17 |
 | 37 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 |
 | 38 | [Fiebre](https://open.spotify.com/track/23MPu8Zp0HPhSVtNSTixMc) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:47 |
 | 39 | [La Perla](https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Exitos De: Los Juniors y Su Cantante Arturo](https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI) | 2:59 |
-| 40 | [Twist para Mr\. Antony](https://open.spotify.com/track/4h7EghGuBHrnhWyzIFBnZj) | [Tony's Twist Team](https://open.spotify.com/artist/17iTxUwaNzaenRncjHmNPR) | [Los Originales](https://open.spotify.com/album/11NFoS5dchhn7DIYrEuZTT) | 2:17 |
-| 41 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
+| 40 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
+| 41 | [Twist para Mr\. Antony](https://open.spotify.com/track/4h7EghGuBHrnhWyzIFBnZj) | [Tony's Twist Team](https://open.spotify.com/artist/17iTxUwaNzaenRncjHmNPR) | [Los Originales](https://open.spotify.com/album/11NFoS5dchhn7DIYrEuZTT) | 2:17 |
 | 42 | [Aladino](https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:56 |
 | 43 | [Brebaje De Amor](https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:18 |
 | 44 | [Hava Naguila](https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:06 |

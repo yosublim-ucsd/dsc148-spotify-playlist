@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 244453,
       "name": "angel down",
       "url": "https://open.spotify.com/track/6kYH6A4SZbhVt6IAJ51r25"
@@ -5952,7 +5952,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 129173,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
@@ -22232,7 +22232,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -25082,7 +25082,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -37948,7 +37948,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -38838,6 +38838,24 @@
       "duration_ms": 141538,
       "name": "Soji",
       "url": "https://open.spotify.com/track/0NfwbGetneplv71YArQEfI"
+    },
+    {
+      "album": {
+        "name": "sola luna",
+        "url": "https://open.spotify.com/album/0NSBDkMKjyLI4N2KGzfQHJ"
+      },
+      "artists": [
+        {
+          "name": "i am samara",
+          "url": "https://open.spotify.com/artist/5WQ98WtKu2aXh8rpv5Cr89"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107049,
+      "name": "sola luna",
+      "url": "https://open.spotify.com/track/02XwYfZ5tcmW5ZrgE9b8Qg"
     },
     {
       "album": {

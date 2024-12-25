@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Chase Matthew
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,702 likes - 140 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,685 likes - 140 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 76 | [Hunnids In A Honky Tonk \(feat\. Paul Wall\)](https://open.spotify.com/track/0mGVfytxzgPXgGJf7RknpU) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Hunnids In A Honky Tonk \(feat\. Paul Wall\)](https://open.spotify.com/album/3BW2kxCEMimQumskwX0Q9b) | 3:17 |
 | 77 | [Living Fast](https://open.spotify.com/track/7fuO3mniCpm9g3LjOxjuRn) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Living Fast](https://open.spotify.com/album/3bokND5ICwjoHUtsonPu4v) | 3:04 |
 | 78 | [LIKE A COWBOY](https://open.spotify.com/track/6phGbOOctxoxviraYh93rY) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [LIKE A COWBOY](https://open.spotify.com/album/234akgdWij2RVq479NpxDI) | 2:12 |
-| 79 | [Lock N Key](https://open.spotify.com/track/6EMXQhhesKZHcR044i5sD2) | [Anella](https://open.spotify.com/artist/6R7tmfQRRfndnDIWXVJ4lZ) | [Season 1: I Love You](https://open.spotify.com/album/6CNLb0lw0fxb8sOw8a7LXt) | 2:09 |
+| 79 | [Lock N Key](https://open.spotify.com/track/6EMXQhhesKZHcR044i5sD2) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 1: I Love You](https://open.spotify.com/album/6CNLb0lw0fxb8sOw8a7LXt) | 2:09 |
 | 80 | [Cowboy Cry](https://open.spotify.com/track/7bDf4FJfRCTXPnOqxWu5xG) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Cowboy Cry + Me & This Bottle](https://open.spotify.com/album/4U2eiBxJifBFuArPwPWpA0) | 2:11 |
 | 81 | [Gone By Tomorrow](https://open.spotify.com/track/6k0QbvWT5KjAHMZmmsP0BL) | [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS), [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Gone By Tomorrow](https://open.spotify.com/album/6NaRxbJBzWAMtBT0swika5) | 2:27 |
 | 82 | [Rodeo](https://open.spotify.com/track/1vatH00GQmecBevlKY5ztN) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Rodeo](https://open.spotify.com/album/7onB4ESplhXRNbxMJrg1z1) | 2:25 |
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 125 | [Country Club](https://open.spotify.com/track/7AEw4J42zlyufYBfi64YgP) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Country Club](https://open.spotify.com/album/1SPUlFiGVdkObmhRJ8sjkS) | 2:20 |
 | 126 | [Silence](https://open.spotify.com/track/6FVUNi2FViKoBECQJG1qLJ) | [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN) | [Silence](https://open.spotify.com/album/5jMXH85Eu6SApd6ohbKs2B) | 2:28 |
 | 127 | [Hate Me More](https://open.spotify.com/track/3eR9esizpZyvy4NBAiViZ6) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Hate Me More](https://open.spotify.com/album/75zEUdUGdIoRQDU5MXnzcj) | 2:40 |
-| 128 | [Tennessee Love Song](https://open.spotify.com/track/33LmQ3haOKfbw0FSdbS1dg) | [Anella](https://open.spotify.com/artist/6R7tmfQRRfndnDIWXVJ4lZ) | [Tennessee Love Song](https://open.spotify.com/album/2pWBzztGG1t2ZHs3aeqwS2) | 1:47 |
+| 128 | [Tennessee Love Song](https://open.spotify.com/track/33LmQ3haOKfbw0FSdbS1dg) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Tennessee Love Song](https://open.spotify.com/album/2pWBzztGG1t2ZHs3aeqwS2) | 1:47 |
 | 129 | [A Sinner and A Saint](https://open.spotify.com/track/5uxc8WInrKasHQAZCZwTjG) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [A Sinner and A Saint](https://open.spotify.com/album/6kIKa6DGOj391Vj6KCD156) | 2:39 |
 | 130 | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/28YeYqCPDyhmJ76h5OE139) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/3t85iYWW2ZcXFvTJwW02nr) | 2:57 |
 | 131 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 |

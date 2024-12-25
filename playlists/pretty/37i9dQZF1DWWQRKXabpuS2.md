@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. غلاف: نوال الكويتية
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,914 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,927 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mani Thak](https://open.spotify.com/track/0n0W88jb6L7vedbnWWoUtY) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Mani Thak](https://open.spotify.com/album/04Lz0wSYNkg0C5pDC1EVtK) | 3:23 |
-| 2 | [Gedart Tnaam](https://open.spotify.com/track/1NpgxL5cAHN0r1qB3XMoko) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Ana W Ozoof](https://open.spotify.com/album/5AT8gA59kXquMpj87alv8f) | 3:19 |
+| 2 | [Gedart Tnaam](https://open.spotify.com/track/1NpgxL5cAHN0r1qB3XMoko) | [Nawal](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Ana W Ozoof](https://open.spotify.com/album/5AT8gA59kXquMpj87alv8f) | 3:19 |
 | 3 | [Ana Zeena](https://open.spotify.com/track/0B7B7m6EPOS4V5g4xgupB1) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Ana Zeena](https://open.spotify.com/album/7BK0fnpPXcpNctOOclNosy) | 3:43 |
 | 4 | [Hawa Al Tayef](https://open.spotify.com/track/4Tso1qrYRD1aJVzmNh3Uq8) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Hawa Al Tayef](https://open.spotify.com/album/6VuBX8RJdyLbXFvLnI4tQL) | 4:05 |
 | 5 | [Baad El Ahyan](https://open.spotify.com/track/236Rsa1TC6X2HDUkCkv3vH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Baad El Ahyan](https://open.spotify.com/album/5YSBcsruTgThOJajX9qsXV) | 4:47 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 29 | [واجد عليه](https://open.spotify.com/track/2uHZNRMwq1eQALyhc2ByTg) | [همس فكري](https://open.spotify.com/artist/17fC5wDuPN7ooXSpUD6Smy) | [واجد عليه](https://open.spotify.com/album/2w8AATKmjxIPolueq4fgV5) | 3:03 |
 | 30 | [Dayem Tgheeb](https://open.spotify.com/track/4ezd2h4szdmgk2AARaFoao) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Dayem Tgheeb](https://open.spotify.com/album/7k4EUOs6pI01PzD8gcRgtA) | 2:37 |
 | 31 | [Anazer Al Shobak](https://open.spotify.com/track/2TknqlPsUyLXkljtqw3LYW) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Anazer Al Shobak](https://open.spotify.com/album/62v0FmhF6h77bAoQUBrMmP) | 4:18 |
-| 32 | [Al Aalam Ant](https://open.spotify.com/track/4aUODuciPbGIodFqOmY0Gs) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Aalam Ant](https://open.spotify.com/album/2Wp5D6EUFjUmW2HNqnGJv3) | 6:42 |
+| 32 | [Al Aalam Ant](https://open.spotify.com/track/4aUODuciPbGIodFqOmY0Gs) | [Nawal](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Aalam Ant](https://open.spotify.com/album/2Wp5D6EUFjUmW2HNqnGJv3) | 6:42 |
 | 33 | [Ekhtisar](https://open.spotify.com/track/1Av47fzk2dSeJJGrcyodMN) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ekhtisar](https://open.spotify.com/album/4VsKu058hl6R9XH7ZsocV3) | 5:13 |
 | 34 | [Habiba](https://open.spotify.com/track/1meqGwp4PGEVXceQ8t1AaG) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Habiba](https://open.spotify.com/album/1yf8ufzFwMlECaZMydhmZu) | 3:34 |
 | 35 | [Ham We Inzaah](https://open.spotify.com/track/64J16v8vzKE5TIniAZVIx0) | [مطرف المطرف](https://open.spotify.com/artist/5aXMgkXcyM23iEx7ZyzNh9) | [Ham We Inzaah](https://open.spotify.com/album/6g227LC1R1wY1PGRPRsPzv) | 4:36 |

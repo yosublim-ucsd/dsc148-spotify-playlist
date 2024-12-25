@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71837,
+  "num_followers": 71836,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADtP0TA5m2kqC3NaS6S1Ehg",
+  "snapshot_id": "Z2ioAAAAAACMnVMqL/yD010EU/4LBieA",
   "tracks": [
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ups & Downs",
         "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 182192,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here We Go (Hey Boy, Hey Girl)",
+        "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Here We Go (Hey Boy, Hey Girl)",
+      "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Why Do I Call",
         "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 202968,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here We Go (Hey Boy, Hey Girl)",
-        "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Here We Go (Hey Boy, Hey Girl)",
-      "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
     },
     {
       "added_at": null,

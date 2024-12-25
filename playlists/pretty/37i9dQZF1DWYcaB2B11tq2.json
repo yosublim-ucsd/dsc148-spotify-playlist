@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcos Witt",
-  "num_followers": 440881,
+  "num_followers": 441025,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,26 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+        "name": "Uniendo Cielo Y Tierra",
+        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
       "artists": [
         {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
         }
       ],
-      "duration_ms": 211995,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
+      "duration_ms": 601586,
+      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
+      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -551,26 +559,18 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Uniendo Cielo Y Tierra",
-        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
       },
       "artists": [
         {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
-        },
-        {
-          "name": "Lucas Conslie",
-          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 601586,
-      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
-      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
+      "duration_ms": 211995,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/6O8ZMuA6u7fcmLkAydmlmP"
-      },
-      "artists": [
-        {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
-        }
-      ],
-      "duration_ms": 248424,
-      "name": "No Hay Condenaci\u00f3n",
-      "url": "https://open.spotify.com/track/3ynl2B7FLTTFEz8o6ilNlR"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Ante Tu Altar (Tour Edition) [Live]",
         "url": "https://open.spotify.com/album/6laEQlL6119G9GUAjdnXIc"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 497127,
       "name": "\u00bfQui\u00e9n Podr\u00e1? - Live",
       "url": "https://open.spotify.com/track/6NU3tnaJXjFxY9ZB4JRmvq"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/6O8ZMuA6u7fcmLkAydmlmP"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 248424,
+      "name": "No Hay Condenaci\u00f3n",
+      "url": "https://open.spotify.com/track/3ynl2B7FLTTFEz8o6ilNlR"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "La Bater\u00eda",
-        "url": "https://open.spotify.com/album/6G8BppUXH9y4TKv7fi39iM"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        },
-        {
-          "name": "Nxtwave",
-          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
-        }
-      ],
-      "duration_ms": 175942,
-      "name": "La Bater\u00eda",
-      "url": "https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Vives en M\u00ed",
         "url": "https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 248651,
       "name": "Vives en M\u00ed",
       "url": "https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "La Bater\u00eda",
+        "url": "https://open.spotify.com/album/6G8BppUXH9y4TKv7fi39iM"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Nxtwave",
+          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
+        }
+      ],
+      "duration_ms": 175942,
+      "name": "La Bater\u00eda",
+      "url": "https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Vivir",
+        "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/41o3xnnu3AzHurKJ2q8ICn"
+        }
+      ],
+      "duration_ms": 285288,
+      "name": "Yo Tengo un Nuevo Amor",
+      "url": "https://open.spotify.com/track/6sbYCeaRR96YVxQCdG10qd"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "S\u00f3lo a Ti Jes\u00fas",
         "url": "https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Vivir",
-        "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/41o3xnnu3AzHurKJ2q8ICn"
-        }
-      ],
-      "duration_ms": 285288,
-      "name": "Yo Tengo un Nuevo Amor",
-      "url": "https://open.spotify.com/track/6sbYCeaRR96YVxQCdG10qd"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Raised to Deliver (Live)",
         "url": "https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j"
       },
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "El Milagro",
-        "url": "https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM"
+        "name": "S\u00edgueme",
+        "url": "https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k"
       },
       "artists": [
         {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 234475,
-      "name": "El Milagro",
-      "url": "https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e"
+      "duration_ms": 333360,
+      "name": "Yo Confio",
+      "url": "https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "El Milagro",
+        "url": "https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 234475,
+      "name": "El Milagro",
+      "url": "https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Me enamor\u00e9",
         "url": "https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 246015,
       "name": "Me enamor\u00e9",
       "url": "https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "S\u00edgueme",
-        "url": "https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k"
-      },
-      "artists": [
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 333360,
-      "name": "Yo Confio",
-      "url": "https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1703,22 +1703,6 @@
       "duration_ms": 336900,
       "name": "Ante Ti",
       "url": "https://open.spotify.com/track/4VPQcpABzjTFFQvypXA1fg"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Si Tu Presencia Conmigo No Va",
-        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
-      },
-      "artists": [
-        {
-          "name": "Oasis Ministry",
-          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
-        }
-      ],
-      "duration_ms": 288183,
-      "name": "Si Tu Presencia Conmigo No Va",
-      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Si Tu Presencia Conmigo No Va",
+        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "duration_ms": 288183,
+      "name": "Si Tu Presencia Conmigo No Va",
+      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Tu Luz",
         "url": "https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad"
       },
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Coleccion De Oro",
+        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Creyendo En Ti",
+      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "#DesdeCasa - Parte B",
         "url": "https://open.spotify.com/album/0CgtYj03PrOBNkZrdKPSal"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 202000,
       "name": "Latido",
       "url": "https://open.spotify.com/track/0LbNO9UA0I8EDHLwIZ3dXa"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Coleccion De Oro",
-        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Creyendo En Ti",
-      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
     },
     {
       "added_at": "2024-12-11 11:03:37",

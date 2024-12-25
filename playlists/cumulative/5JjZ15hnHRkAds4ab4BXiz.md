@@ -4,7 +4,7 @@
 
 > 
 
-466 songs - 1 day 5 hr 53 min
+467 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Haiku](https://open.spotify.com/track/3xfVTbyfrJwPN9bqlXipmw) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:02 | 2024-05-22 |  |
 | [Hand in Glove \- 2011 Remaster](https://open.spotify.com/track/2JZu2ny6Et9wFic99sMF7x) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:22 | 2024-04-09 |  |
 | [Happy Ending](https://open.spotify.com/track/1OXGJ7jRok4c3KBnIYkuwH) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 2:52 | 2024-05-11 |  |
+| [Happy Hour](https://open.spotify.com/track/051GBUYL8OPi6QZOu1hTDH) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The Last King Of Pop](https://open.spotify.com/album/6KAJNoi7chqjEHaIe1Q8cS) | 2:21 | 2024-12-24 |  |
 | [Hard To Explain](https://open.spotify.com/track/0OM9ri37LIbPc9hffwsyb1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:44 | 2024-06-16 |  |
 | [Hawaii \- Juicebox B\-Side](https://open.spotify.com/track/6s9oj6aPupVSA1CSaaVZZL) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 3:52 | 2024-06-29 |  |
 | [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 | 2023-11-12 |  |

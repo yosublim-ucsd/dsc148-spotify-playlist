@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🖤 meget fancy fredag, <a href="spotify:artist:0PCCGZ0wGLizHt2KZ7hhA2">Artemas</a> 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,817 likes - 59 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,812 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

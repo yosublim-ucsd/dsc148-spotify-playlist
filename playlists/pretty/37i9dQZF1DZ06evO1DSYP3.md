@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,498 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,500 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 39 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
 | 40 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
 | 41 | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD) | [Darrell Medellin](https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4) | 2:22 |
-| 42 | [Bounce](https://open.spotify.com/track/6fzADIXo9q8wnHoIMWKqUl) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [BONA FIDE](https://open.spotify.com/album/1wHjsPMfZOAPdIVejEjmxF) | 3:19 |
-| 43 | [Light This Bitch Up](https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jay Anthony](https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 4:03 |
+| 42 | [Light This Bitch Up](https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jay Anthony](https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 4:03 |
+| 43 | [Bounce](https://open.spotify.com/track/6fzADIXo9q8wnHoIMWKqUl) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [BONA FIDE](https://open.spotify.com/album/1wHjsPMfZOAPdIVejEjmxF) | 3:19 |
 | 44 | [Luh U](https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Bosko](https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:02 |
 | 45 | [Hotel Lobby](https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF) | [Dezzy Hollow](https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Caught In The Funk](https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8) | 2:00 |
 | 46 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 |
 | 47 | [Mad](https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:38 |
 | 48 | [House](https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:24 |
 | 49 | [U TELL ME \(Feat\. P\-Lo\)](https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [POP OFF](https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV) | 2:23 |
-| 50 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 |
-| 51 | [Lightswitch](https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:38 |
+| 50 | [Lightswitch](https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:38 |
+| 51 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 |
 
-Snapshot ID: `Z2dWgAAAAABHOOrNTuSYM/kP65t1Zoxn`
+Snapshot ID: `Z2ioAAAAAAA8X0MTiZz9eSacNJcokn6C`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> MOIO <3
+> Ally Evenson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,948 likes - 150 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,951 likes - 150 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 149 | [if u want](https://open.spotify.com/track/569FvGfRTQHIU9N9PWJP4b) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:50 |
 | 150 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 |
 
-Snapshot ID: `Z2nQaAAAAACAMEXv5VFrEB6eO/VVGrcW`
+Snapshot ID: `Z2q4FgAAAABz8BbCzWyBaLXrGsgG3HKH`

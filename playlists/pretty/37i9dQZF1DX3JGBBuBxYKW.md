@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,342 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,421 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 25 | [POR TI](https://open.spotify.com/track/6I1hlGt5m9PP1WLITfUwSG) | [Karla Melo](https://open.spotify.com/artist/61gIbdm4Yrxnomgkr9SrDw) | [POR TI](https://open.spotify.com/album/4or3HMLEPoR58uKAekYbOj) | 3:02 |
 | 26 | [Tomate el Palo \(feat\. Leo García\)](https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:25 |
 | 27 | [Me Vas a Extrañar](https://open.spotify.com/track/3KOxcKaiZSFYIcHnr8PIKB) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 3:48 |
-| 28 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
+| 28 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 |
 | 29 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 |
 | 30 | [Te Espero o Te Olvido](https://open.spotify.com/track/4mI7wKFQxQaKvyJxackUql) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia), [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Te Espero o Te Olvido](https://open.spotify.com/album/1SyPNdVXSBuIIZ7jrWCsl2) | 3:05 |
 | 31 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 33 | [La Mejor Versión de Mi](https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [La Mejor Versión de Mi](https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5) | 4:05 |
 | 34 | [El Primero](https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [El Primero](https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm) | 2:31 |
 | 35 | [Metrosexual](https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:16 |
-| 36 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 |
+| 36 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
 | 37 | [No Te Creas Tan Importante](https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 4:10 |
 | 38 | [Bien Warrior \(feat\. DJ Krass\)](https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [DJ Krass](https://open.spotify.com/artist/0Ft52aTdmeD5N2ncuniI0d) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:42 |
 | 39 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 59 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 |
 | 60 | [No Te Vayas Corazon](https://open.spotify.com/track/3v0sMPPtovPNwDpAtLpfhf) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Nº 1](https://open.spotify.com/album/6d3DZcUcdsMgFIyGB91FN5) | 3:14 |
 | 61 | [Lo Que Me Hizo Usted](https://open.spotify.com/track/7gKptykHNsZC1MHIF7wOJv) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Lo Que Me Hizo Usted](https://open.spotify.com/album/2sxMuWDDyA00O2X2HJ2HT5) | 3:58 |
-| 62 | [Sigo Aquí](https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Sigo Aquí](https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX) | 4:00 |
-| 63 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
+| 62 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
+| 63 | [Sigo Aquí](https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Sigo Aquí](https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX) | 4:00 |
 | 64 | [Perdoname](https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Perdoname](https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI) | 3:37 |
 | 65 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
 

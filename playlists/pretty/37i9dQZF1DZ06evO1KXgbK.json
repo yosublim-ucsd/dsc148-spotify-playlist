@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 250003,
+  "num_followers": 250009,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAACu3bUwsdJp9fKAwovFeATD",
+  "snapshot_id": "Z2ioAAAAAACklbaOb6QE6hjR+WA3f6YD",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/3N6fadaHlhGxflLKYSDSoU"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/6o6STE55cbhH4BuM2EJRL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": null,
@@ -495,6 +495,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete Trio Collection (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/07JRXyOwo8fk5mKuBwpJMa"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 139706,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/6QGsG9uBrJi1EiYGFPOWlM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp"
       },
@@ -531,30 +555,6 @@
       "duration_ms": 206306,
       "name": "Rockin' Years (with Ricky Van Shelton)",
       "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Trio Collection (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/07JRXyOwo8fk5mKuBwpJMa"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 139706,
-      "name": "Mr. Sandman",
-      "url": "https://open.spotify.com/track/6QGsG9uBrJi1EiYGFPOWlM"
     },
     {
       "added_at": null,

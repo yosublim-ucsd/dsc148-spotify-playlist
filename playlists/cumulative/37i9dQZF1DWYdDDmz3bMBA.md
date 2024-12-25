@@ -4,7 +4,7 @@
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-34 songs - 1 day 5 hr 3 min
+34 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,8 @@
 | [1701: The Doula part 1](https://open.spotify.com/episode/2Fpu1lFKkeJL4IZHMelaQG) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 27:21 | 2024-10-03 |  |
 | [1704: Hockey Dad Poses as Delta Force Agent to Scam Parents part 1](https://open.spotify.com/episode/0sWz317aIGbSt7tTqDRLAl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 33:09 | 2024-10-03 |  |
 | [1801: Who's Afraid of LaDonna Humphrey part 1](https://open.spotify.com/episode/7sb1mbmRUeoT2yXRHb2UKt) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 39:56 | 2024-10-03 |  |
-| [1905: LaDonna's Surrogates part 1](https://open.spotify.com/episode/7wzQMxsDvuwpWw1XCh4UNl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 25:00 | 2024-11-13 |  |
-| [1909: The Woman Who Almost Stole Graceland](https://open.spotify.com/episode/2iRAeN9QsvamYhfRG50LZd) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 43:06 | 2024-12-09 |  |
+| [1905: LaDonna's Surrogates part 1](https://open.spotify.com/episode/7wzQMxsDvuwpWw1XCh4UNl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 25:30 | 2024-11-13 |  |
+| [1909: The Woman Who Almost Stole Graceland](https://open.spotify.com/episode/2iRAeN9QsvamYhfRG50LZd) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 43:36 | 2024-12-09 |  |
 | [Are NBA Fans Too Eager To "Blow It Up"?](https://open.spotify.com/episode/2W5DI2EkNhApyJN1o18sJs) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 52:11 | 2024-10-03 |  |
 | [Being a Swiftie: Right or Wrong?](https://open.spotify.com/episode/6mN7QxeUT0UPQURmox9Zrz) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 40:25 | 2024-11-13 |  |
 | [Black People Love Conspiracy Theories ft\. Langston Kerman & David Gborie](https://open.spotify.com/episode/4fo5EbeBW4HLc6HgFVw3C5) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 52:14 | 2024-10-03 |  |

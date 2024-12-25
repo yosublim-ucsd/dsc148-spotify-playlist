@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: HNTR",
-  "num_followers": 250498,
+  "num_followers": 250535,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "girl$ (Layton Giordani Remix)",
-        "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 184477,
-      "name": "girl$ - Layton Giordani Remix",
-      "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Hey Boy Hey Girl (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
       },
@@ -1499,22 +1479,22 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+        "name": "girl$ (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+      "duration_ms": 184477,
+      "name": "girl$ - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1535,6 +1515,26 @@
       "duration_ms": 222923,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/1dMbPk2FHJ1idGBBOEU8wh"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 206869,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5e5sLyUNCoSnJo1dv8ltbJ"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/22GBiZ8ccOeY4Oeit6AgxO"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "XYSM",
-          "url": "https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2"
-        }
-      ],
-      "duration_ms": 120759,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/22GBiZ8ccOeY4Oeit6AgxO"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "XYSM",
+          "url": "https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2"
+        }
+      ],
+      "duration_ms": 120759,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX"
     },
     {
       "added_at": "2024-12-13 05:00:16",
@@ -2403,26 +2403,6 @@
     {
       "added_at": "2024-12-13 05:00:16",
       "album": {
-        "name": "New Bottega",
-        "url": "https://open.spotify.com/album/405q3ZXJJum0c6ojdu6s2U"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        },
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 188915,
-      "name": "New Bottega",
-      "url": "https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz"
-    },
-    {
-      "added_at": "2024-12-13 05:00:16",
-      "album": {
         "name": "MASK OFF",
         "url": "https://open.spotify.com/album/3lCaRV6wRlnqeT1KJUfM2W"
       },
@@ -2439,6 +2419,26 @@
       "duration_ms": 129616,
       "name": "MASK OFF",
       "url": "https://open.spotify.com/track/33Ik4MjhfHmHsWg26HcsC1"
+    },
+    {
+      "added_at": "2024-12-13 05:00:16",
+      "album": {
+        "name": "New Bottega",
+        "url": "https://open.spotify.com/album/405q3ZXJJum0c6ojdu6s2U"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "New Bottega",
+      "url": "https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz"
     },
     {
       "added_at": "2024-12-13 05:00:16",

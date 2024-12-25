@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1513861,
+  "num_followers": 1513890,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Algo Parecido",
-        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Algo Parecido",
-      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "VI",
         "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 241400,
       "name": "Por Onde Voc\u00ea Anda?",
       "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Algo Parecido",
+        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Algo Parecido",
+      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -855,26 +855,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Deixe Me Ir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
       },
       "artists": [
         {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 213191,
-      "name": "Deixe Me Ir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
+      "duration_ms": 151458,
+      "name": "ciumeira",
+      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -895,22 +887,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 151458,
-      "name": "ciumeira",
-      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Aluga-se",
         "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 125955,
       "name": "Aluga-se",
       "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Deixe Me Ir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+        }
+      ],
+      "duration_ms": 213191,
+      "name": "Deixe Me Ir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1367,6 +1367,34 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Dizeres",
+        "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 257644,
+      "name": "Dizeres",
+      "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Peu Canta Ivete",
         "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
       },
@@ -1415,34 +1443,6 @@
       "duration_ms": 245195,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Dizeres",
-        "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        }
-      ],
-      "duration_ms": 257644,
-      "name": "Dizeres",
-      "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 231616,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Novo Ciclo",
         "url": "https://open.spotify.com/album/3Uayj41Ce88zsnjXajnGG2"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 228470,
       "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 231616,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2MOI0fpiNZhgJUJk4QvUT0"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 148669,
-      "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "O Sol",
         "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 209000,
       "name": "O Sol",
       "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2MOI0fpiNZhgJUJk4QvUT0"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 148669,
+      "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
     }
   ],
   "unique_name": "Desplugado",

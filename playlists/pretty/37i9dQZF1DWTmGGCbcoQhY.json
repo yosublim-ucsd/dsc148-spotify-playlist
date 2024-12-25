@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1339962,
+  "num_followers": 1340200,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Si Te Hubieras Quedado",
-        "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Ley Siete de Enrike Fortunato",
-          "url": "https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI"
-        }
-      ],
-      "duration_ms": 278931,
-      "name": "Si Te Hubieras Quedado",
-      "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Toquin en Am\u00e9rica",
         "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 207728,
       "name": "Caricias - Acar\u00edciame",
       "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Si Te Hubieras Quedado",
+        "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Ley Siete de Enrike Fortunato",
+          "url": "https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI"
+        }
+      ],
+      "duration_ms": 278931,
+      "name": "Si Te Hubieras Quedado",
+      "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+        "name": "Dejame Pensar",
+        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
       },
       "artists": [
         {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
         }
       ],
-      "duration_ms": 236518,
-      "name": "El Angel Del Amor",
-      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
+      "duration_ms": 277455,
+      "name": "Dejame Pensar",
+      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Dejame Pensar",
-        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
       },
       "artists": [
         {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 277455,
-      "name": "Dejame Pensar",
-      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
+      "duration_ms": 236518,
+      "name": "El Angel Del Amor",
+      "url": "https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Lo Har\u00e9 por Ti",
-        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "Lo Har\u00e9 por Ti",
-      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Para Qu\u00e9 Llorar",
         "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 193013,
       "name": "La Inconforme",
       "url": "https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Lo Har\u00e9 por Ti",
+        "url": "https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "Lo Har\u00e9 por Ti",
+      "url": "https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Ya No Me Perteneces",
-        "url": "https://open.spotify.com/album/4MIY2d9KNaW3IZxQ5eVFZ2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        },
-        {
-          "name": "Black Power",
-          "url": "https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O"
-        }
-      ],
-      "duration_ms": 269063,
-      "name": "Ya No Me Perteneces",
-      "url": "https://open.spotify.com/track/48L8HvDBfUHndCSewBMT2L"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Recuerdos Andinos",
         "url": "https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 193375,
       "name": "El Ritmo Mamalon",
       "url": "https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Ya No Me Perteneces",
+        "url": "https://open.spotify.com/album/4MIY2d9KNaW3IZxQ5eVFZ2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        },
+        {
+          "name": "Black Power",
+          "url": "https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O"
+        }
+      ],
+      "duration_ms": 269063,
+      "name": "Ya No Me Perteneces",
+      "url": "https://open.spotify.com/track/48L8HvDBfUHndCSewBMT2L"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Talentos Ocultos, Vol. 1",
-        "url": "https://open.spotify.com/album/4DPoeHldPyrqyhlVHdC4K4"
-      },
-      "artists": [
-        {
-          "name": "Sonideros de MEX USA",
-          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
-        }
-      ],
-      "duration_ms": 177005,
-      "name": "Arpas Weperas",
-      "url": "https://open.spotify.com/track/4sNGkzWTct1A1YuyDFYArl"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Espacial",
         "url": "https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 215000,
       "name": "Espacial",
       "url": "https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Talentos Ocultos, Vol. 1",
+        "url": "https://open.spotify.com/album/4DPoeHldPyrqyhlVHdC4K4"
+      },
+      "artists": [
+        {
+          "name": "Sonideros de MEX USA",
+          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
+        }
+      ],
+      "duration_ms": 177005,
+      "name": "Arpas Weperas",
+      "url": "https://open.spotify.com/track/4sNGkzWTct1A1YuyDFYArl"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Cumbia de las Flores",
-      "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 254240,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Cumbia de las Flores",
+      "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213744,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2024-07-04 23:21:37",
       "album": {
-        "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
-        "url": "https://open.spotify.com/album/33Y9PpG0mFkNPo5sn3PZgf"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Epcm",
-          "url": "https://open.spotify.com/artist/54JRdEn6iibgAV3WHt37VJ"
-        }
-      ],
-      "duration_ms": 364277,
-      "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
-      "url": "https://open.spotify.com/track/1bAKqVOcR0VmoGaQwPnzCa"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
         "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
         "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
@@ -1999,6 +1999,22 @@
       "duration_ms": 232493,
       "name": "Amor Sin Primavera",
       "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
+    },
+    {
+      "added_at": "2024-07-04 23:21:37",
+      "album": {
+        "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
+        "url": "https://open.spotify.com/album/33Y9PpG0mFkNPo5sn3PZgf"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Epcm",
+          "url": "https://open.spotify.com/artist/54JRdEn6iibgAV3WHt37VJ"
+        }
+      ],
+      "duration_ms": 364277,
+      "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
+      "url": "https://open.spotify.com/track/1bAKqVOcR0VmoGaQwPnzCa"
     },
     {
       "added_at": "2024-07-04 23:21:37",
@@ -2047,22 +2063,6 @@
       "duration_ms": 193366,
       "name": "Ea Ea La Cumbia Buena",
       "url": "https://open.spotify.com/track/0IbvznAfkM5itFW2fX6NdY"
-    },
-    {
-      "added_at": "2024-07-04 23:21:37",
-      "album": {
-        "name": "Cumbia Pa' seguir Bailando",
-        "url": "https://open.spotify.com/album/0XgaEEDzNf5VjXlaSV1eHK"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Poblanas",
-          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
-        }
-      ],
-      "duration_ms": 289802,
-      "name": "Las Amo a Las Dos",
-      "url": "https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634"
     }
   ],
   "unique_name": "Cumbia Sonidera",

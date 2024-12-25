@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 5434,
+  "num_followers": 5442,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAA6n6NKg713VZJUlk5CLXx8",
+  "snapshot_id": "Z2ioAAAAAABaKPp+l5h4ChB7uS6y2i4w",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 272385,
+      "name": "Blame It On Eve",
+      "url": "https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm A Woman",
         "url": "https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 210800,
       "name": "Should Have Come Home",
       "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 272385,
-      "name": "Blame It On Eve",
-      "url": "https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 285690,
       "name": "Great Rain",
       "url": "https://open.spotify.com/track/06KVyBpihkWpiiMpu8SJGY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 319458,
       "name": "Promised Myself",
       "url": "https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 257365,
-      "name": "No Heart At All",
-      "url": "https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs"
+      "duration_ms": 227343,
+      "name": "Give God The Blues",
+      "url": "https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stone by Stone",
+        "url": "https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl"
+      },
+      "artists": [
+        {
+          "name": "Ian Siegal",
+          "url": "https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 268512,
+      "name": "Hand In Hand",
+      "url": "https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
@@ -831,22 +851,6 @@
       "duration_ms": 224325,
       "name": "Is There Anybody Up There?",
       "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 227343,
-      "name": "Give God The Blues",
-      "url": "https://open.spotify.com/track/5xUCFRjM0Z9TJt0s1ttakb"
     }
   ],
   "unique_name": "This Is Shemekia Copeland",

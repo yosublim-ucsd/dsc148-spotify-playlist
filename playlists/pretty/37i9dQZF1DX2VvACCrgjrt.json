@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
-  "num_followers": 451544,
+  "num_followers": 451572,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -809,10 +809,10 @@
       "url": "https://open.spotify.com/track/5xYr6yjWhR8XCjETGryIiI"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+        "name": "BAD OMENS",
+        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
+      "duration_ms": 147625,
+      "name": "BAD OMENS",
+      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -941,10 +941,10 @@
       "url": "https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "BAD OMENS",
-        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 147625,
-      "name": "BAD OMENS",
-      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1701,26 +1701,6 @@
       "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Consume It",
@@ -1739,6 +1719,22 @@
       "duration_ms": 183979,
       "name": "Consume It",
       "url": "https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa"
+    },
+    {
+      "added_at": "2024-08-30 20:19:56",
+      "album": {
+        "name": "CAN'T GET ENOUGH",
+        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "CANT GET ENOUGH",
+      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1761,20 +1757,44 @@
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
     },
     {
-      "added_at": "2024-08-30 20:19:56",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "CAN'T GET ENOUGH",
-        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
       "artists": [
         {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 169846,
-      "name": "CANT GET ENOUGH",
-      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Get Hype",
+        "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
+      },
+      "artists": [
+        {
+          "name": "Rob Vice",
+          "url": "https://open.spotify.com/artist/5tNZTnlOQlotUEmpag5hcv"
+        },
+        {
+          "name": "MNRVA",
+          "url": "https://open.spotify.com/artist/6OtfcWbHjh6ad25qN4MBt1"
+        }
+      ],
+      "duration_ms": 155437,
+      "name": "Get Hype",
+      "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1817,26 +1837,6 @@
       "url": "https://open.spotify.com/track/0zaa2DnLFJHgP6YmtKAh0K"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Get Hype",
-        "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
-      },
-      "artists": [
-        {
-          "name": "Rob Vice",
-          "url": "https://open.spotify.com/artist/5tNZTnlOQlotUEmpag5hcv"
-        },
-        {
-          "name": "MNRVA",
-          "url": "https://open.spotify.com/artist/6OtfcWbHjh6ad25qN4MBt1"
-        }
-      ],
-      "duration_ms": 155437,
-      "name": "Get Hype",
-      "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Look At Me",
@@ -1869,6 +1869,22 @@
       "url": "https://open.spotify.com/track/4KqaqznKWEHQPed6LHSvP8"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "The Blur",
+        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "The Blur",
+      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
+    },
+    {
       "added_at": "2024-11-30 00:47:45",
       "album": {
         "name": "LOST CONTROL",
@@ -1893,20 +1909,20 @@
       "url": "https://open.spotify.com/track/40HmXWOyB7r2FcTZw4Z9fg"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "The Blur",
-        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
+        "name": "Feel (Real Love)",
+        "url": "https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt"
       },
       "artists": [
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
         }
       ],
-      "duration_ms": 173333,
-      "name": "The Blur",
-      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
+      "duration_ms": 161503,
+      "name": "Feel (Real Love)",
+      "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1923,22 +1939,6 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Feel (Real Love)",
-        "url": "https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt"
-      },
-      "artists": [
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 161503,
-      "name": "Feel (Real Love)",
-      "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
     },
     {
       "added_at": "2024-08-16 14:00:00",
@@ -2021,6 +2021,22 @@
       "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "AUTOMATIC",
+        "url": "https://open.spotify.com/album/7xCjJcGKQkpZuwEP0svxQw"
+      },
+      "artists": [
+        {
+          "name": "Typo",
+          "url": "https://open.spotify.com/artist/0aUArZHfdqnFPj0ASdHAoa"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "AUTOMATIC",
+      "url": "https://open.spotify.com/track/1geATcpIabznNvS0GSTFEm"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Mysterious World",
@@ -2045,22 +2061,6 @@
       "url": "https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "AUTOMATIC",
-        "url": "https://open.spotify.com/album/7xCjJcGKQkpZuwEP0svxQw"
-      },
-      "artists": [
-        {
-          "name": "Typo",
-          "url": "https://open.spotify.com/artist/0aUArZHfdqnFPj0ASdHAoa"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "AUTOMATIC",
-      "url": "https://open.spotify.com/track/1geATcpIabznNvS0GSTFEm"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Take Me Home",
@@ -2075,26 +2075,6 @@
       "duration_ms": 203760,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "A Prayer",
-        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "A Prayer",
-      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2119,6 +2099,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "A Prayer",
+        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "A Prayer",
+      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "FIRST ENCOUNTER",
         "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
       },
@@ -2131,6 +2131,22 @@
       "duration_ms": 150639,
       "name": "What She Said",
       "url": "https://open.spotify.com/track/6oCpeIsU0vHpu2cIx2B1it"
+    },
+    {
+      "added_at": "2024-06-28 14:01:45",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2177,20 +2193,20 @@
       "url": "https://open.spotify.com/track/3wzq3bEn6b3KiBDREjencM"
     },
     {
-      "added_at": "2024-06-28 14:01:45",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
+        "name": "Oldskool",
+        "url": "https://open.spotify.com/album/1z8f4TO7hSS6ZIVzQR3QZ3"
       },
       "artists": [
         {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
         }
       ],
-      "duration_ms": 172246,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
+      "duration_ms": 181874,
+      "name": "Oldskool",
+      "url": "https://open.spotify.com/track/2eEhqIjo81t9CrLFbvSOhK"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2207,22 +2223,6 @@
       "duration_ms": 172878,
       "name": "NPC",
       "url": "https://open.spotify.com/track/49AyVq86hvLmS2oljUiVDo"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Oldskool",
-        "url": "https://open.spotify.com/album/1z8f4TO7hSS6ZIVzQR3QZ3"
-      },
-      "artists": [
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Oldskool",
-      "url": "https://open.spotify.com/track/2eEhqIjo81t9CrLFbvSOhK"
     },
     {
       "added_at": "2024-06-24 15:40:12",
@@ -2245,22 +2245,6 @@
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
-      },
-      "artists": [
-        {
-          "name": "Blue Man",
-          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
-        }
-      ],
-      "duration_ms": 183307,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "In My Mind",
@@ -2275,6 +2259,42 @@
       "duration_ms": 189214,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "duration_ms": 183307,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2329,24 +2349,40 @@
       "url": "https://open.spotify.com/track/5MwRdodoq0DF1soaDBA4ZG"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "BAD",
-        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+        "name": "SOOTHSAYER (Jon Casey Remix)",
+        "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
       },
       "artists": [
         {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
         },
         {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         }
       ],
-      "duration_ms": 173571,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+      "duration_ms": 191250,
+      "name": "SOOTHSAYER (Jon Casey Remix)",
+      "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "THE VIBE",
+        "url": "https://open.spotify.com/album/6hyrYszbG7L821jwIw8CLK"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 157086,
+      "name": "THE VIBE",
+      "url": "https://open.spotify.com/track/2QS2ALpoBU65F4Du9umVXf"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2371,26 +2407,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "SOOTHSAYER (Jon Casey Remix)",
-        "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "SOOTHSAYER (Jon Casey Remix)",
-      "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Badman Calling (feat. XO Man)",
         "url": "https://open.spotify.com/album/6BFUj811bQcvESYVevPKPy"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 162519,
       "name": "Badman Calling (feat. XO Man)",
       "url": "https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "The Sound Of House",
-        "url": "https://open.spotify.com/album/1QmtTqMYdMIGegxlOYprUI"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        }
-      ],
-      "duration_ms": 154615,
-      "name": "The Sound Of House",
-      "url": "https://open.spotify.com/track/5BqlPcXL7312zS0r6nr1nZ"
     }
   ],
   "unique_name": "Nasty Bits",

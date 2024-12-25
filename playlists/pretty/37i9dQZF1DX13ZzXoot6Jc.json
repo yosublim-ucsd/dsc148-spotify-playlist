@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Thomas Rhett",
-  "num_followers": 452845,
+  "num_followers": 452830,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-12-20 05:00:23",
       "album": {
+        "name": "Ain't Doin' Jack",
+        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Ain't Doin' Jack",
+      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
+    },
+    {
+      "added_at": "2024-12-20 05:00:23",
+      "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:23",
-      "album": {
-        "name": "Ain't Doin' Jack",
-        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "Ain't Doin' Jack",
-      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
     },
     {
       "added_at": "2024-12-20 05:00:23",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-12-20 05:00:23",
       "album": {
-        "name": "hummingbird",
-        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 188039,
-      "name": "truck on fire",
-      "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
-    },
-    {
-      "added_at": "2024-12-20 05:00:23",
-      "album": {
         "name": "Mamaw's House",
         "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 187269,
       "name": "Mamaw's House",
       "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
+    },
+    {
+      "added_at": "2024-12-20 05:00:23",
+      "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 188039,
+      "name": "truck on fire",
+      "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
     },
     {
       "added_at": "2024-12-20 05:00:23",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-12-20 05:00:23",
       "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "How Do I Do This",
-      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
-    },
-    {
-      "added_at": "2024-12-20 05:00:23",
-      "album": {
         "name": "The Devil I've Seen",
         "url": "https://open.spotify.com/album/1KAXeCYFOrQwZzQlpf0dnI"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 203550,
       "name": "The Devil I've Seen",
       "url": "https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2"
+    },
+    {
+      "added_at": "2024-12-20 05:00:23",
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "How Do I Do This",
+      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
     },
     {
       "added_at": "2024-12-20 05:00:23",

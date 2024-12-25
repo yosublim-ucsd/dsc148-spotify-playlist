@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 677255,
+  "num_followers": 677286,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABp/KHFjGE+DovwktE/sueM",
+  "snapshot_id": "Z2ioAAAAAAD0D5yU4rX9pQ9JocjQTdei",
   "tracks": [
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 281112,
-      "name": "Bitter - Narration By Cardi B",
-      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/6oRrfGcUeAwfX1lTdxZFFj"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 219200,
       "name": "I Like It - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/6WK7h2WfMmnX7zOZnfzoYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 281112,
+      "name": "Bitter - Narration By Cardi B",
+      "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. La Adictiva, Justin Quiles y Calle 24 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,114 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,126 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 17 | [Mi Versión De Ti](https://open.spotify.com/track/66tvAhNMsIrbIFos4P3VaN) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Mi Versión De Ti](https://open.spotify.com/album/4NasJuZLUWaOJqpYlxqhXS) | 2:59 |
 | 18 | [RAYBEN CAP 8: "NIÑA BUENA"](https://open.spotify.com/track/2Ez8Ql5U4IPMecqM8Iyu69) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [RAYBEN CAP 8: "NIÑA BUENA"](https://open.spotify.com/album/1erlRqM18ITnueaegtkRLQ) | 2:43 |
 | 19 | [Todo a Medias](https://open.spotify.com/track/7Eu7cRCgD324SIodueViFT) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Todo a Medias](https://open.spotify.com/album/5flIDDgA7oEvnq2uF9o0yx) | 2:47 |
-| 20 | [Capuccino](https://open.spotify.com/track/378H7UrRynW8WnLPKGeeL8) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Capuccino](https://open.spotify.com/album/6SvKDk59wgaSM9tVWVA6n3) | 4:43 |
+| 20 | [Capuccino](https://open.spotify.com/track/378H7UrRynW8WnLPKGeeL8) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [BEJO](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Capuccino](https://open.spotify.com/album/6SvKDk59wgaSM9tVWVA6n3) | 4:43 |
 | 21 | [Todo Se Complica](https://open.spotify.com/track/7jnHpfMqY9XO4jtWqTIxEU) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Toda Época Tiene Su Encanto](https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt) | 2:48 |
 | 22 | [Me trae loco](https://open.spotify.com/track/61RA6u9ooSW5Wpm5kdQQ0f) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cranesito y Robotín](https://open.spotify.com/album/3WGFe29ltEHQfEkXCRORXD) | 2:22 |
 | 23 | [BSG1: Flow de los 2000's \(ft\. B.Smile\)](https://open.spotify.com/track/5audKLsqbxvpjzK3HOeJhq) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [B.Smile](https://open.spotify.com/artist/2UuSCvvWnSxWzj1BrjTRlo) | [BSG1: Flow de los 2000's \(ft\. B.Smile\)](https://open.spotify.com/album/0m8CBzKQR1vUokNQBFSpSE) | 2:12 |

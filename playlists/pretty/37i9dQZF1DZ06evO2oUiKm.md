@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,628 likes - 46 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,650 likes - 46 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 29 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy) | 3:12 |
 | 30 | [Our Prayer](https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Joaquina Kalukango](https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb), [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Kevyn Morrow](https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:38 |
 | 31 | [Jump](https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [STEP \(Music From and Inspired by the Motion Picture\)](https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG) | 5:59 |
-| 32 | [I Don't Know How to Love Him](https://open.spotify.com/track/1lB6WL4R8gbWs1g5V9ag7D) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/7HhCsLQC5UkAvUodmxza8m) | 4:19 |
-| 33 | [Nobody](https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Forbidden](https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR) | 3:52 |
+| 32 | [Nobody](https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Forbidden](https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR) | 3:52 |
+| 33 | [I Don't Know How to Love Him](https://open.spotify.com/track/1lB6WL4R8gbWs1g5V9ag7D) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/7HhCsLQC5UkAvUodmxza8m) | 4:19 |
 | 34 | [Big Dog](https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI) | [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 2:42 |
 | 35 | [Bridge Over Troubled Water](https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA) | [Alison Jiear](https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Inspirational](https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ) | 6:00 |
 | 36 | [I Can't Wish Much More](https://open.spotify.com/track/3eZPkYLBP4R1MLY0m5jG31) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Cinderella Rock \(Studio Cast Soundtrack\)](https://open.spotify.com/album/6yn7txW90bI4ne4bq43rPM) | 4:16 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 45 | [At All](https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 4:56 |
 | 46 | [You're Not Alone](https://open.spotify.com/track/4ZbjHd0YJJCjT5Koi5Ubwq) | [Oliver Tompsett](https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:36 |
 
-Snapshot ID: `Z2dWgAAAAADwkS+1JX3EJNH0zIf6VZS1`
+Snapshot ID: `Z2ioAAAAAADqrv9xgA844zJK6t1W2/XW`

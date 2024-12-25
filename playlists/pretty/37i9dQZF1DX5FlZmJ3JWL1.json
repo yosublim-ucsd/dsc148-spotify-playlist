@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 771493,
+  "num_followers": 771501,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
+    },
+    {
+      "added_at": "2024-12-16 13:10:15",
+      "album": {
         "name": "Dunes",
         "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA"
+        "name": "BASS DOWN LOW",
+        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
         }
       ],
-      "duration_ms": 137595,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
+      "duration_ms": 166124,
+      "name": "BASS DOWN LOW",
+      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
     },
     {
       "added_at": "2024-12-16 13:10:15",
@@ -963,22 +979,6 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
-        "name": "BASS DOWN LOW",
-        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
-      },
-      "artists": [
-        {
-          "name": "Lupage",
-          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
-        }
-      ],
-      "duration_ms": 166124,
-      "name": "BASS DOWN LOW",
-      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
-    },
-    {
-      "added_at": "2024-12-16 13:10:15",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
       },
@@ -995,30 +995,6 @@
       "duration_ms": 151858,
       "name": "Together",
       "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
-    },
-    {
-      "added_at": "2024-12-16 13:10:15",
-      "album": {
-        "name": "Bittersweet Goodbye",
-        "url": "https://open.spotify.com/album/1KZIiURBJs63wz3uuCapCu"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Robin White",
-          "url": "https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA"
-        }
-      ],
-      "duration_ms": 160471,
-      "name": "Bittersweet Goodbye",
-      "url": "https://open.spotify.com/track/61H6DK37r2uyNryJAqUAXf"
     },
     {
       "added_at": "2024-12-16 13:10:15",
@@ -1047,26 +1023,42 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/1KZIiURBJs63wz3uuCapCu"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
         },
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
         },
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+          "name": "Robin White",
+          "url": "https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA"
         }
       ],
-      "duration_ms": 135428,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
+      "duration_ms": 160471,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/61H6DK37r2uyNryJAqUAXf"
+    },
+    {
+      "added_at": "2024-12-16 13:10:15",
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 159562,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k"
     }
   ],
   "unique_name": "Fit Beats ",

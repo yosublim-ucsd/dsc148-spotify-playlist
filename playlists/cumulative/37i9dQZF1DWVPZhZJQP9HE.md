@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-613 songs - 1 day 12 hr 8 min
+614 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Kadavul Thandha Azhagiyae](https://open.spotify.com/track/0iXBFNZwScIvOg1RRrpaoF) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 3:22 | 2022-07-27 | 2022-11-22 |
 | [Kadha Sollava](https://open.spotify.com/track/1zAobZROnbDbk2MMAWawlv) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kadha Sollava](https://open.spotify.com/album/3HwA1iOHHKW55oDd6ns9Qt) | 2:48 | 2023-01-24 | 2023-05-14 |
 | [Kadha Sollava](https://open.spotify.com/track/48OzFwA6DSCqMRijia83fZ) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kadha Sollava](https://open.spotify.com/album/68elX72BSUN5eH5SWrH1XE) | 2:48 | 2023-01-24 | 2023-08-03 |
+| [Kadhal AI](https://open.spotify.com/track/0JTvL42E0RkcFN29Sybgl5) | [Guru B](https://open.spotify.com/artist/42J6TeraKObd9lXzqbH7sp), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Pravin Mani](https://open.spotify.com/artist/2ccgDZHHVlcOssv1y8AkOc) | [Kadhal AI](https://open.spotify.com/album/5uygOxwin4fXQgKuC9jNjT) | 3:32 | 2024-12-24 |  |
 | [Kadhal Alaiye](https://open.spotify.com/track/3zVaTgEzpYZnYUrYT5TGPC) | [Guru Prasath](https://open.spotify.com/artist/6N0b4qpUvm8OcghNE1OtSd), [Prasanna Adhisesha](https://open.spotify.com/artist/2RI0JvkmtOl5Se3SVrWYfn), [Christopher Stanley](https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X), [Sowmya](https://open.spotify.com/artist/4TgdGWqMfO5fl1GE89uD4K) | [Kadhal Alaiye](https://open.spotify.com/album/1ilP7gB9SYitSuKnbcl7Du) | 3:19 | 2023-01-13 | 2023-04-01 |
 | [Kadhal Chedi](https://open.spotify.com/track/2RkzxdwBSOWo5fKTkIDghj) | [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7) | [Kadhal Chedi](https://open.spotify.com/album/6OAeOR3T8QJMhmISwGv6Mr) | 3:29 | 2022-07-26 | 2023-02-07 |
 | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/track/3NPTh47MYRAQuX6ydBgEBd) | [Shameshan Mani Maran](https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM), [Yuwaji](https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/album/1eVn8feu0kQOjOLA7x20gO) | 3:44 | 2023-09-06 | 2023-09-27 |

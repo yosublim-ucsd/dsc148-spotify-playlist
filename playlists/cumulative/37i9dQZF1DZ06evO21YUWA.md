@@ -4,7 +4,7 @@
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-127 songs - 9 hr 57 min
+128 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Stream With Bright Fish \- 2005 Digital Remaster](https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:56 | 2022-05-29 |  |
 | [A Walk in the Park with Nancy \(In Memory\)](https://open.spotify.com/track/3wXHjZOHKXnzKYvJPyq2Vu) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 5:57 | 2022-07-18 | 2022-08-25 |
 | [Above Chiangmai \- Remastered 2004](https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 2:55 | 2022-10-12 |  |
+| [Adult](https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 3:03 | 2024-12-25 |  |
 | [Adult](https://open.spotify.com/track/28yHFFhnxKIxiHuIo9IV7y) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 3:03 | 2022-05-29 | 2022-10-28 |
 | [Afar](https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 2:34 | 2022-05-29 | 2023-02-10 |
 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 | 2023-02-09 |  |
@@ -32,7 +33,7 @@
 | [Arriving](https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:25 | 2022-10-27 | 2024-11-20 |
 | [As Long as I Can Hold My Breath \- By Night](https://open.spotify.com/track/6ScM7dC3yQRmcoxhI7MPyq) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:09:28 | 2022-05-29 | 2022-10-13 |
 | [Avenue of Shapes](https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:27 | 2022-09-01 |  |
-| [Avenue of Trees](https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:16 | 2023-01-04 |  |
+| [Avenue of Trees](https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:16 | 2023-01-04 | 2024-12-25 |
 | [Balthus Bemused By Color](https://open.spotify.com/track/4uBVCPfbPFKQmy0kEQgJMT) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE) | 5:16 | 2022-06-04 | 2022-10-08 |
 | [Beau, As In Beaumont](https://open.spotify.com/track/03zhFeVXRdiugsURvkKmih) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Another Flower](https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv) | 3:27 | 2022-10-13 | 2022-10-19 |
 | [Bell Tower](https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [La Bella Vista](https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL) | 2:00 | 2023-02-10 | 2024-11-12 |

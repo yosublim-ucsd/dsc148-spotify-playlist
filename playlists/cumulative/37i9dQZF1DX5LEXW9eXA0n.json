@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: HYNN(\ubc15\ud61c\uc6d0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Hui(\ud6c4\uc774)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 201946,
       "name": "Barely had a drink",
       "url": "https://open.spotify.com/track/4cTLRCZpY6ZxwTBetjl2Qe"
@@ -15989,6 +15989,24 @@
     },
     {
       "album": {
+        "name": "Over U, Goodbye (Seeun x J)",
+        "url": "https://open.spotify.com/album/1nxjZwlxvQ8reEI844D2bm"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181021,
+      "name": "Over U, Goodbye (Seeun x J)",
+      "url": "https://open.spotify.com/track/0dzvx0egKD128Icnaz2YeR"
+    },
+    {
+      "album": {
         "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
       },
@@ -18256,6 +18274,24 @@
       "duration_ms": 198146,
       "name": "Spring has come (with Yang Da-Il)",
       "url": "https://open.spotify.com/track/6nAvfX95tDniO0CvctHnIf"
+    },
+    {
+      "album": {
+        "name": "WHU IS KEVIN",
+        "url": "https://open.spotify.com/album/0IdOSBdbj09E9sKRX6xtBE"
+      },
+      "artists": [
+        {
+          "name": "Hui",
+          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Spring in the Winter",
+      "url": "https://open.spotify.com/track/7AFWpkq7hR4EEfMdyyA9Eq"
     },
     {
       "album": {
@@ -23733,6 +23769,24 @@
     },
     {
       "album": {
+        "name": "With the flick of a hand",
+        "url": "https://open.spotify.com/album/5izKM0JcEfQ2iS8NAw64Ig"
+      },
+      "artists": [
+        {
+          "name": "LEE SOLOMON",
+          "url": "https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "You who never cried before",
+      "url": "https://open.spotify.com/track/76pn4VPYjjfSnQqGXhfJEN"
+    },
+    {
+      "album": {
         "name": "You will shine",
         "url": "https://open.spotify.com/album/74hfH7A2FyGp7R5SR0m0wG"
       },
@@ -23748,7 +23802,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 244386,
       "name": "You will shine",
       "url": "https://open.spotify.com/track/2QnzKVxbZSiunJYCmHvt5G"
@@ -24182,7 +24236,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 226232,
       "name": "\uadf8\ub0e5 \ub9c8\uc168\uc5b4 (feat. \ud3f4\ub9bc)",
       "url": "https://open.spotify.com/track/2hSxexUGqLZeudsgkz40He"

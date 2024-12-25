@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Silent Rooms",
+        "url": "https://open.spotify.com/album/7tuLWi8OBxW7nrYiKSl8oc"
+      },
+      "artists": [
+        {
+          "name": "Ben Thal",
+          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234799,
+      "name": "The Quiet Between Us",
+      "url": "https://open.spotify.com/track/5IgCdFscdQEWarHWqPNAEj"
+    },
+    {
+      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },

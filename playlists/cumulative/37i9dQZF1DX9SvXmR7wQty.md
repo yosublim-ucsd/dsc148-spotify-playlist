@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: White\-B
 
-3,015 songs - 6 day 16 hr 19 min
+3,016 songs - 6 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,9 +282,10 @@
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-01-20 | 2023-02-04 |
 | [Bicycle](https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle](https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC) | 2:52 | 2022-10-21 | 2022-11-05 |
 | [Bicycle \(Rework\)](https://open.spotify.com/track/0IrnXvUh1uDvsNIWajE8Su) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle \(Rework\)](https://open.spotify.com/album/3p9Jejp6QR3IlOEHIxdyYK) | 3:05 | 2023-01-06 | 2023-01-21 |
+| [Bienvenue dans High & Fines Herbes](https://open.spotify.com/track/3wV0qYUvnJWfL9a2CQJqD1) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Kay The Prodigy](https://open.spotify.com/artist/4ziOwyCpUFMlERkfyoEV6p), [Stony Stone](https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR), [thaHomey](https://open.spotify.com/artist/5N2P9zB8202SrtnWCjqe1j) | [Bienvenue dans High & Fines Herbes](https://open.spotify.com/album/2wJ9ImpdqwVGngJDDx5VX8) | 3:28 | 2024-12-20 |  |
 | [Big AK](https://open.spotify.com/track/2hADPyFVEeSQcKPP9BSI9q) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Big AK](https://open.spotify.com/album/4NLnvzkJvogzebsHJELswl) | 1:37 | 2023-07-07 | 2023-07-15 |
 | [Big Bang](https://open.spotify.com/track/5zyBcDmNjybiqWFyzCJXkZ) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Big Bang](https://open.spotify.com/album/39xP7d2eHjiZrrSNYyzhvp) | 2:45 | 2024-11-22 | 2024-11-30 |
-| [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 | 2024-10-11 |  |
+| [BIG BOSS](https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BIG BOSS](https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN) | 2:02 | 2024-10-11 | 2024-12-25 |
 | [Big boy](https://open.spotify.com/track/3evB6yurMLTf8UnKV3QrXX) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Big boy](https://open.spotify.com/album/1UvtLl4a9eOFUKcE6fhXw7) | 2:29 | 2022-09-30 | 2022-10-15 |
 | [Big Day](https://open.spotify.com/track/4nltl0ZfRm7L6YrNduGARB) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Big Day](https://open.spotify.com/album/3C8wMCFoToMmA4tFFd04tG) | 2:53 | 2024-02-16 | 2024-03-02 |
 | [Big Pharma](https://open.spotify.com/track/2HhKYAgFjRf63cXqSMMr5w) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Prinzly](https://open.spotify.com/artist/6CecCbMlZKpr8sovW5ucq1) | [Club des Coeurs Solitaires](https://open.spotify.com/album/1D3Pv7udHK5UQ8OTj748qo) | 4:35 | 2023-11-24 | 2023-12-16 |

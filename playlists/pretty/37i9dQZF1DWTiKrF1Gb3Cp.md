@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,641 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,701 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 19 | [ME ACTIVO](https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:55 |
 | 20 | [MONEY EDITION](https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MONEY EDITION](https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i) | 2:38 |
 | 21 | [Por Si Se Les Olvidaba](https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Por Si Se Les Olvidaba](https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck) | 2:40 |
-| 22 | [El Plumas](https://open.spotify.com/track/2eXZHfhHse8aPv5G6pIL7t) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [El Plumas](https://open.spotify.com/album/6zPgYlO6CbiU3WgfBFPVRu) | 2:41 |
-| 23 | [MR\. OCTOBER](https://open.spotify.com/track/1ODFVLQszq0hCOdZtqV5wq) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:09 |
+| 22 | [MR\. OCTOBER](https://open.spotify.com/track/1ODFVLQszq0hCOdZtqV5wq) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:09 |
+| 23 | [El Plumas](https://open.spotify.com/track/2eXZHfhHse8aPv5G6pIL7t) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [El Plumas](https://open.spotify.com/album/6zPgYlO6CbiU3WgfBFPVRu) | 2:41 |
 | 24 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
 | 25 | [Don Dimadon](https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe) | [Remp](https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Don Dimadon](https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA) | 3:04 |
 | 26 | [DELTAS](https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DELTAS](https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf) | 2:22 |

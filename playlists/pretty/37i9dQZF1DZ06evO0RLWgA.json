@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 49494,
+  "num_followers": 49505,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAAEfr6GRonktS/W6fab5X6Y",
+  "snapshot_id": "Z2ioAAAAAACKUyFnVcTyE4G3DxSYLu4h",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 123800,
-      "name": "Think Twice Before You Go",
-      "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 205400,
       "name": "It Serve You Right To Suffer - The Avener Rework",
       "url": "https://open.spotify.com/track/35mKWzraWktvQcTGfuAHbV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 123800,
+      "name": "Think Twice Before You Go",
+      "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Cuttin' Out (feat. Canned Heat)",
-      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 167335,
       "name": "Drug Store Woman",
       "url": "https://open.spotify.com/track/6S75o3nKlPCfpdAFx0Rseo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Cuttin' Out (feat. Canned Heat)",
+      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
     },
     {
       "added_at": null,

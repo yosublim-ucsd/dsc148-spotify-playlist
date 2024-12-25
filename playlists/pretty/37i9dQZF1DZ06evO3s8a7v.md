@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,635 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,651 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 15 | [Nunca Soltamos](https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Nunca Soltamos](https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E) | 3:18 |
 | 16 | [Lado Triste \- Remix](https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Lado Triste \(Remix\)](https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN) | 2:47 |
 | 17 | [SI PUDIERA](https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:51 |
-| 18 | [MAL DE AMOR](https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [MAL DE AMOR](https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk) | 3:41 |
-| 19 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
+| 18 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
+| 19 | [MAL DE AMOR](https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [MAL DE AMOR](https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk) | 3:41 |
 | 20 | [Entre La Tierra y El Cielo](https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Entre La Tierra y El Cielo](https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T) | 4:13 |
 | 21 | [EL PROCESO](https://open.spotify.com/track/08wWsajr5heXuF9vFYX92f) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:36 |
 | 22 | [LUNAR](https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [LUNAR](https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 49 | [Universo Paralelo \(Vivo en Buenos Aires\) \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 4:32 |
 | 50 | [Ta Pa Estar](https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:30 |
 
-Snapshot ID: `Z2dWgAAAAAB2rXN+v8K/jyP1YLuy+4bN`
+Snapshot ID: `Z2ioAAAAAACK2f8UXm87TQQMoJ4DNdSo`

@@ -10294,28 +10294,6 @@
     {
       "album": {
         "name": "Mismatched: Season 2 (Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
-      },
-      "artists": [
-        {
-          "name": "Taaruk Raina",
-          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
-        },
-        {
-          "name": "Mismatched",
-          "url": "https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF"
-        }
-      ],
-      "date_added": "2022-11-16",
-      "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
-      "duration_ms": 197763,
-      "name": "Kho Gaye",
-      "url": "https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC"
-    },
-    {
-      "album": {
-        "name": "Mismatched: Season 2 (Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/2bJRbj971pXenefii5i3mY"
       },
       "artists": [
@@ -10334,6 +10312,28 @@
       "duration_ms": 197763,
       "name": "Kho Gaye",
       "url": "https://open.spotify.com/track/5iaKalECn9aYPfh9w07yOX"
+    },
+    {
+      "album": {
+        "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
+      },
+      "artists": [
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        },
+        {
+          "name": "Mismatched - Cast",
+          "url": "https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197763,
+      "name": "Kho Gaye",
+      "url": "https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC"
     },
     {
       "album": {
@@ -13502,7 +13502,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 216054,
       "name": "Mere Mehboob",
       "url": "https://open.spotify.com/track/5ZjWYv5kOH1ywFmv5JjPNd"
@@ -13626,7 +13626,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -14050,7 +14050,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 171935,
       "name": "Morni",
       "url": "https://open.spotify.com/track/2MBe8VKDScndeSr5dToLBU"

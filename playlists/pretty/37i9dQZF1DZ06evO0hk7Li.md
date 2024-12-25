@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,461 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,466 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 |
 | 50 | [NI\*\*AS NEED JESUS](https://open.spotify.com/track/4UY0cvACvAfZryubsiNXTS) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Ivory Nwigwe](https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ) | [HOOD HYMNS](https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA) | 1:51 |
 
-Snapshot ID: `Z2dWgAAAAACAq3pb4InEIDnJFfT1h+KG`
+Snapshot ID: `Z2ioAAAAAADPQeyBNjfBQM78PRHSL8Se`

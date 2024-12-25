@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: pH-1) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 219250,
+  "num_followers": 219284,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "Organic2",
-        "url": "https://open.spotify.com/album/4do2LvREDAeSafUqlFjNOn"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "AURORA (feat. Crush)",
-      "url": "https://open.spotify.com/track/40tciWf8SD8zLL8lRsHNjx"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "FIVE SENSES",
         "url": "https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 195080,
       "name": "Complex (Feat. ZICO)",
       "url": "https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "Organic2",
+        "url": "https://open.spotify.com/album/4do2LvREDAeSafUqlFjNOn"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "AURORA (feat. Crush)",
+      "url": "https://open.spotify.com/track/40tciWf8SD8zLL8lRsHNjx"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -811,26 +811,22 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+        "name": "365&7",
+        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 276152,
-      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
-      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+      "duration_ms": 169133,
+      "name": "365&7 (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -851,22 +847,26 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "365&7",
-        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         },
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 169133,
-      "name": "365&7 (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+      "duration_ms": 276152,
+      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
+      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
-        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "\uc720\ub77c(youra)",
-          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
-        }
-      ],
-      "duration_ms": 189157,
-      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
+        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "\uc720\ub77c(youra)",
+          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
+        }
+      ],
+      "duration_ms": 189157,
+      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "11:59 (feat. Goopy)",
-        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
-      },
-      "artists": [
-        {
-          "name": "JEY",
-          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
-        },
-        {
-          "name": "Goopy",
-          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "11:59 (feat. Goopy)",
-      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "BM 3rd Digital Single 'LOWKEY'",
         "url": "https://open.spotify.com/album/72WefbbOeBJl4rsDAh2ZAe"
       },
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "11:59 (feat. Goopy)",
+        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
+      },
+      "artists": [
+        {
+          "name": "JEY",
+          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
+        },
+        {
+          "name": "Goopy",
+          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "11:59 (feat. Goopy)",
+      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "Super Freak",
+        "url": "https://open.spotify.com/album/3fHIbiwsluDRAfoebJralo"
+      },
+      "artists": [
+        {
+          "name": "200 (Eback)",
+          "url": "https://open.spotify.com/artist/0fXWfP9K7O3T7z2uC1CzSc"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Super Freak",
+      "url": "https://open.spotify.com/track/6c31ORfUpeHQF7df1AZV0X"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
         "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 261120,
       "name": "BYE BYE BYE (feat. Sion)",
       "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "Super Freak",
-        "url": "https://open.spotify.com/album/3fHIbiwsluDRAfoebJralo"
-      },
-      "artists": [
-        {
-          "name": "200 (Eback)",
-          "url": "https://open.spotify.com/artist/0fXWfP9K7O3T7z2uC1CzSc"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Super Freak",
-      "url": "https://open.spotify.com/track/6c31ORfUpeHQF7df1AZV0X"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/32OwwlVs8Sy7sUDJuoh7jx"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "duration_ms": 174166,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/1UXlVn3DAvh0yzn3CxqVlV"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 231613,
       "name": "LATELY (Feat. Hoody)",
       "url": "https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
-        "name": "Trauma",
-        "url": "https://open.spotify.com/album/32OwwlVs8Sy7sUDJuoh7jx"
-      },
-      "artists": [
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        }
-      ],
-      "duration_ms": 174166,
-      "name": "Trauma",
-      "url": "https://open.spotify.com/track/1UXlVn3DAvh0yzn3CxqVlV"
     },
     {
       "added_at": "2024-12-24 01:03:39",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2024-12-24 01:03:39",
       "album": {
-        "name": "Beginning",
-        "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
-      },
-      "artists": [
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        },
-        {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        }
-      ],
-      "duration_ms": 172956,
-      "name": "Dessert shop (Feat. h3hyeon)",
-      "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
-    },
-    {
-      "added_at": "2024-12-24 01:03:39",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 154173,
       "name": "Make Love (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG"
+    },
+    {
+      "added_at": "2024-12-24 01:03:39",
+      "album": {
+        "name": "Beginning",
+        "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
+      },
+      "artists": [
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "duration_ms": 172956,
+      "name": "Dessert shop (Feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
     },
     {
       "added_at": "2024-12-24 01:03:39",

@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-158 songs - 10 hr 41 min
+159 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2023-12-12 | 2024-01-31 |
 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 | 2024-01-23 |  |
 | [illumination](https://open.spotify.com/track/0uqKMcnIFBGD2h0FAqsVf9) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [illumination](https://open.spotify.com/album/516cSsK1gUdpPRmNzh8zPe) | 3:26 | 2024-12-10 |  |
-| [Image Word \- New Recording Ver.](https://open.spotify.com/track/6TmzSGN9QZjtGFD0lHgH1i) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Image Word \(New Recording Ver.\)](https://open.spotify.com/album/5iOMMgOubOCQVhOBoXUuWj) | 4:46 | 2023-12-12 |  |
+| [Image Word \- New Recording Ver.](https://open.spotify.com/track/6TmzSGN9QZjtGFD0lHgH1i) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Image Word \(New Recording Ver.\)](https://open.spotify.com/album/5iOMMgOubOCQVhOBoXUuWj) | 4:46 | 2023-12-12 | 2024-12-25 |
 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2024-12-03 |  |
 | [Kaihyou](https://open.spotify.com/track/6apFysy7yb3sbnVdtR68yA) | [Natsunose](https://open.spotify.com/artist/0wjfRLmHq20y874POC5pXC) | [Kaihyou](https://open.spotify.com/album/6UQRkpePvNR3YVmZrJ0tvp) | 2:18 | 2023-12-12 | 2024-04-19 |
 | [kani](https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [kani](https://open.spotify.com/album/45Y1Qc7rbtc6dYevjRTg28) | 1:49 | 2023-12-19 | 2024-12-13 |
@@ -102,6 +102,7 @@
 | [Winter Beat](https://open.spotify.com/track/7mjamiJ2zplbZQ2ymbn5T7) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 4:11 | 2023-12-12 | 2024-01-31 |
 | [Winter Candle](https://open.spotify.com/track/4msb9K8jtCWI8MJgnyt3ro) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Winter Candle](https://open.spotify.com/album/3Ll0Gxx43IIuBwhJuAH5Du) | 4:04 | 2023-12-12 | 2024-01-24 |
 | [Winter Land](https://open.spotify.com/track/2gYrufmaPpk9M3kR1uctuK) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Winter Land](https://open.spotify.com/album/7CupjRrWsAHmvvz4Fowsm6) | 3:20 | 2024-01-16 | 2024-11-13 |
+| [Winter Love...](https://open.spotify.com/track/1lkVi97uiZjUi04HPqu3Wc) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [Winter Love...](https://open.spotify.com/album/2UqirrlCBYWpEhsiv2P0p5) | 3:37 | 2024-12-17 |  |
 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 | 2023-12-12 |  |
 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 | 2023-12-12 |  |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2023-12-12 |  |

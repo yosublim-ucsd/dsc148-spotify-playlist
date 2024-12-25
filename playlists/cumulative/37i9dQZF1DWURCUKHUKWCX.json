@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/1Y9mn9slMJf0N35vPweEc0"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/1KOxdPguXunJrrBFWgqR3i"
+    },
+    {
+      "album": {
         "name": "Globes",
         "url": "https://open.spotify.com/album/3fMs5z9oLrJ2unce2K05Xt"
       },
@@ -3143,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "SCORPIO \u201cThe Mysterious\u201d",
+        "url": "https://open.spotify.com/album/3hzc1uMqhq3HwYaQAY4hBb"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194881,
+      "name": "SCORPIO \u201cThe Mysterious\u201d",
+      "url": "https://open.spotify.com/track/5C5QA7wrrJguvgycFvTTia"
+    },
+    {
+      "album": {
         "name": "Siciliana (from \"The Tree of Life\", Arr. for Piano from Antiche Danze, Suite No. 3 by Ottorino Respighi)",
         "url": "https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah"
       },
@@ -3228,6 +3264,28 @@
       "duration_ms": 254173,
       "name": "Some",
       "url": "https://open.spotify.com/track/28gRlopNz7IIWwiH32poAb"
+    },
+    {
+      "album": {
+        "name": "Ravel: Sonatine, M. 40: I. Mod\u00e9r\u00e9",
+        "url": "https://open.spotify.com/album/1rCB2MRut3uRPnOBEVyTVE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280333,
+      "name": "Sonatine, M. 40: I. Mod\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/4BkANQwjj7buotJeAXS0c7"
     },
     {
       "album": {
@@ -3863,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "Stellar",
+        "url": "https://open.spotify.com/album/7GgKzRZKi9JFcD9EMG1IwT"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179211,
+      "name": "Wilderness House",
+      "url": "https://open.spotify.com/track/5SkfuTaEb1bRH9rNlBuKZG"
+    },
+    {
+      "album": {
         "name": "Wintergreen",
         "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
       },
@@ -3914,6 +3990,32 @@
       "duration_ms": 186331,
       "name": "\u00e6fre",
       "url": "https://open.spotify.com/track/2irbT1BSYaIEF44PlyKaoM"
+    },
+    {
+      "album": {
+        "name": "\u00c9tude No. 8: Through the Window (C.B. Rework)",
+        "url": "https://open.spotify.com/album/6vFC1wTArDQF6MQJke7cEH"
+      },
+      "artists": [
+        {
+          "name": "Marie Awadis",
+          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        },
+        {
+          "name": "Christian Badzura",
+          "url": "https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289013,
+      "name": "\u00c9tude No. 8: Through the Window (C.B. Rework)",
+      "url": "https://open.spotify.com/track/7hx4S1uSWXIs1eA84Ae9fy"
     },
     {
       "album": {

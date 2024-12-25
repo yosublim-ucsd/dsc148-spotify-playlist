@@ -1,6 +1,6 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 898665,
+  "num_followers": 898627,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
         "name": "The Hardest Part (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 176048,
       "name": "The Hardest Part (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
+        "name": "Love Back",
+        "url": "https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 185850,
+      "name": "Love Back",
+      "url": "https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
         "name": "Peru (R3HAB Remix)",
         "url": "https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Love Back",
-        "url": "https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 185850,
-      "name": "Love Back",
-      "url": "https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -1479,26 +1479,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "UNHEALTHY (Deluxe)",
-        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "YOU & I (feat. Khalid)",
-      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1523,6 +1503,26 @@
       "duration_ms": 170457,
       "name": "Chasing Stars (feat. James Bay)",
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "UNHEALTHY (Deluxe)",
+        "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "YOU & I (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
@@ -1883,18 +1867,18 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "SunKissing",
-        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 177253,
-      "name": "SunKissing",
-      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -1911,6 +1895,22 @@
       "duration_ms": 182066,
       "name": "Don't",
       "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "SunKissing",
+        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "SunKissing",
+      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2005,6 +2005,22 @@
       "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"
     },
     {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
+    },
+    {
       "added_at": "2024-09-20 14:05:11",
       "album": {
         "name": "Plus & Minus",
@@ -2023,22 +2039,6 @@
       "duration_ms": 188264,
       "name": "Plus & Minus",
       "url": "https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "killer",
-        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "killer",
-      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Happy For You",
         "url": "https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 226402,
       "name": "Happy For You",
       "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "killer",
+        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 176876,
+      "name": "killer",
+      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "JESS",
-        "url": "https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2irLZwJgLkQZRdXnUoILhq"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Sway My Way (with Amy Shark)",
         "url": "https://open.spotify.com/album/39k6qmMELqRXZTAKzcyBwe"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 136842,
       "name": "Sway My Way (with Amy Shark)",
       "url": "https://open.spotify.com/track/4KGNI037I8ZA6n3h6LYuey"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "JESS",
+        "url": "https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2irLZwJgLkQZRdXnUoILhq"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2411,38 +2411,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "MANIAC (feat. Windser)",
         "url": "https://open.spotify.com/album/7KjUZhvlYVBcSxUR8bqR91"
       },
@@ -2459,6 +2427,22 @@
       "duration_ms": 180902,
       "name": "MANIAC (feat. Windser)",
       "url": "https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2495,18 +2479,18 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "You Signed Up For This",
-        "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Elvis Song",
-      "url": "https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N"
+      "duration_ms": 180977,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2523,6 +2507,22 @@
       "duration_ms": 175222,
       "name": "barcelona",
       "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "You Signed Up For This",
+        "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Elvis Song",
+      "url": "https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N"
     },
     {
       "added_at": "2024-08-12 14:52:05",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2024-08-12 14:52:05",
       "album": {
-        "name": "Dancing With Your Shadows",
-        "url": "https://open.spotify.com/album/5KnSxd3ZZy1mx3zo2Utu4R"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 177569,
-      "name": "Dancing With Your Shadows",
-      "url": "https://open.spotify.com/track/1gOXJCXmQ7lVDdjxyHqfF4"
-    },
-    {
-      "added_at": "2024-08-12 14:52:05",
-      "album": {
         "name": "Nonetheless",
         "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 292964,
       "name": "New London boy",
       "url": "https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt"
+    },
+    {
+      "added_at": "2024-08-12 14:52:05",
+      "album": {
+        "name": "Dancing With Your Shadows",
+        "url": "https://open.spotify.com/album/5KnSxd3ZZy1mx3zo2Utu4R"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 177569,
+      "name": "Dancing With Your Shadows",
+      "url": "https://open.spotify.com/track/1gOXJCXmQ7lVDdjxyHqfF4"
     }
   ],
   "unique_name": "Work From Home",

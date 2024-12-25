@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Lyn Lapid
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,636 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,078 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:25 |
 | 2 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
 | 3 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
-| 4 | [Winter Song \[Feat\. Ariana DeBose\]](https://open.spotify.com/track/2cADPODt1SJSbRo41q0MJq) | [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs) | [SLEIGH](https://open.spotify.com/album/6hy6zpx7aPAYxpe5YrUths) | 4:12 |
-| 5 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx) | 3:55 |
-| 6 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 |
-| 7 | [O Holy Night](https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 5:20 |
+| 4 | [O Holy Night](https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 5:20 |
+| 5 | [Winter Song \[Feat\. Ariana DeBose\]](https://open.spotify.com/track/2cADPODt1SJSbRo41q0MJq) | [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs) | [SLEIGH](https://open.spotify.com/album/6hy6zpx7aPAYxpe5YrUths) | 4:12 |
+| 6 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx) | 3:55 |
+| 7 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 |
 | 8 | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL) | 3:20 |
 | 9 | [White Christmas](https://open.spotify.com/track/4j5ybw5yYBVKnyN9Ei0DF8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:05 |
 | 10 | [The Cozy Song](https://open.spotify.com/track/4ZoAJjwZBTbBoF9kdNW3mg) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 2:17 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 84 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 85 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 
-Snapshot ID: `Z17pxAAAAAAFX+bhN4f0jiXGc8hJ+0gN`
+Snapshot ID: `Z2o0ugAAAABGYo5ydbOTmUg1ArGW7qoe`

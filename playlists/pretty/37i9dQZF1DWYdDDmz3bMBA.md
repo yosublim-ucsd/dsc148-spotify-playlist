@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,264 likes - 34 songs - 1 day 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,263 likes - 34 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Situationships ft\. Average Fashion Blogger \(Courtney Parchman!!\)](https://open.spotify.com/episode/2IXAw0vsAMZq86KPU75KI7) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 46:40 |
 | 2 | [EARLY NBA All Star Selections](https://open.spotify.com/episode/1dOjPLfdlN7M2hP8FkFZsw) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 1:13:55 |
-| 3 | [1909: The Woman Who Almost Stole Graceland](https://open.spotify.com/episode/2iRAeN9QsvamYhfRG50LZd) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 43:06 |
+| 3 | [1909: The Woman Who Almost Stole Graceland](https://open.spotify.com/episode/2iRAeN9QsvamYhfRG50LZd) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 43:36 |
 | 4 | [This is the last episode](https://open.spotify.com/episode/5S1vj9DxAcilZKw0hbzkzu) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 1:22:02 |
 | 5 | [Holiday Foods FT\. Toya Coleman](https://open.spotify.com/episode/3iTTW3moIDcERkPZqCSUIl) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 52:02 |
-| 6 | [1905: LaDonna's Surrogates part 1](https://open.spotify.com/episode/7wzQMxsDvuwpWw1XCh4UNl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 25:00 |
+| 6 | [1905: LaDonna's Surrogates part 1](https://open.spotify.com/episode/7wzQMxsDvuwpWw1XCh4UNl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 25:30 |
 | 7 | [Being a Swiftie: Right or Wrong?](https://open.spotify.com/episode/6mN7QxeUT0UPQURmox9Zrz) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 40:25 |
 | 8 | [Love Is Blind SZN 7 FT\. Garrick Bernard](https://open.spotify.com/episode/7a8Kx5gvf0xNq1uRKLq4m8) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 1:13:02 |
 | 9 | [NBA Contenders or Pretenders](https://open.spotify.com/episode/6FRtTHMIQOEyTBE4d3DkkX) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 1:08:04 |

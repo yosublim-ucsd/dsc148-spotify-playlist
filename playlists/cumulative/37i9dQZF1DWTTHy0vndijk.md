@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: HYOJUNG\(효정\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: DREAMCATCHER\(드림캐쳐\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-459 songs - 1 day 1 hr 17 min
+461 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Fool](https://open.spotify.com/track/21C7B7PWYDW00czamOjleO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:53 | 2021-11-29 | 2022-04-20 |
 | [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-05-10 |  |
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2021-11-29 | 2022-06-25 |
+| [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 | 2024-12-24 |  |
 | [frozen](https://open.spotify.com/track/5zNzvVBEuk8EEQslNTe42B) | [LOONA/yyxy](https://open.spotify.com/artist/5JPKwLsHGaPIlxqHiF29e4) | [beauty&thebeat](https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1) | 3:27 | 2021-11-29 | 2022-07-26 |
 | [FUN!](https://open.spotify.com/track/2yEjyto6ztOMGffProMlgX) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/242r7I1BKR3nyDKwieT43f) | 3:03 | 2022-03-29 | 2022-04-21 |
 | [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 | 2022-07-28 | 2023-06-20 |
@@ -165,7 +166,7 @@
 | [Honest](https://open.spotify.com/track/1A9GiSTO5a6katWKUJfV4t) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:15 | 2021-11-29 | 2022-07-25 |
 | [Honey](https://open.spotify.com/track/4TIMaSCS24ZRLdSGoyK8jx) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:41 | 2021-11-29 | 2022-06-20 |
 | [Honey or Spice](https://open.spotify.com/track/1HHUeCHpCsZc64LNHzKPNA) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Honey or Spice](https://open.spotify.com/album/6hitia8vt8qpcodlQ17S0G) | 3:02 | 2023-10-11 | 2023-11-07 |
-| [Hot December](https://open.spotify.com/track/1cUtKpkuZFgrjIYNrs98u9) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Hot December](https://open.spotify.com/album/66n3HeqKGthEETsuBIK6dO) | 3:21 | 2024-12-18 |  |
+| [Hot December](https://open.spotify.com/track/1cUtKpkuZFgrjIYNrs98u9) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Hot December](https://open.spotify.com/album/66n3HeqKGthEETsuBIK6dO) | 3:21 | 2024-12-18 | 2024-12-25 |
 | [How Come](https://open.spotify.com/track/7uGuwtEGapMzkiRRl4O32a) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [How Come](https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi) | 3:37 | 2022-06-09 | 2022-07-15 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-24 |  |
 | [Hug Me](https://open.spotify.com/track/1RU6HeXx1pN7poHSKoKTvm) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz8](https://open.spotify.com/album/4WkapgTIqmLu5HUF75X6Y8) | 3:44 | 2022-01-04 | 2022-06-16 |
@@ -256,6 +257,7 @@
 | [Mr\. Potter](https://open.spotify.com/track/4qp44Z9rNQr9XTx3KloFdj) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [Spell](https://open.spotify.com/album/3eLPEBnU6FVXtgUgoPp11P) | 3:33 | 2021-11-29 | 2022-06-29 |
 | [Muah!](https://open.spotify.com/track/1h3IbJchqaJwWaz4v5WGDB) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 1st Single Album 'Boing Boing'](https://open.spotify.com/album/6UiJaslCrwAe9nlcJozPla) | 3:02 | 2022-03-29 | 2022-07-18 |
 | [mumumumuch](https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:29 | 2021-11-29 | 2023-03-30 |
+| [My Christmas Sweet Love](https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:45 | 2024-12-24 |  |
 | [My Dear](https://open.spotify.com/track/6s25gIYsBc8oF0VQFK7wzt) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:34 | 2022-04-04 | 2022-04-14 |
 | [My My](https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:54 | 2021-11-29 | 2022-06-12 |
 | [My World](https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 1:47 | 2024-03-27 |  |
@@ -432,7 +434,7 @@
 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 | 2022-07-28 | 2024-04-19 |
 | [What is Love?](https://open.spotify.com/track/5m95gCTAiHshTaajznt5fA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:28 | 2021-11-29 | 2022-07-29 |
 | [When We Were Us \(Beautiful Days\)](https://open.spotify.com/track/5MehjK6vlW3nE268Ys0dxv) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 6th Mini Album \[Once upon a time\]](https://open.spotify.com/album/5FH6bvjJY0GCZwMgNvarAR) | 3:53 | 2021-11-29 | 2022-07-21 |
-| [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 | 2024-12-10 |  |
+| [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 | 2024-12-10 | 2024-12-25 |
 | [Whoo](https://open.spotify.com/track/26b32VMw5DcaCZhwMZzjep) | [RAINBOW](https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y) | [Prism](https://open.spotify.com/album/0fg7lYqzREtvKqU1mzmqUp) | 3:05 | 2022-01-04 | 2022-04-17 |
 | [Why Not?](https://open.spotify.com/track/227y7s5IZ5TWN17Pkte5tc) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/0AfLJ1yEWYlFPabxu1kmht) | 3:25 | 2021-11-29 | 2022-07-10 |
 | [Why Not?](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:25 | 2022-07-28 | 2022-12-24 |

@@ -962,7 +962,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 180880,
       "name": "2s n 3s",
       "url": "https://open.spotify.com/track/5Wzc4Qh6nBoWZz2TjRIHYG"
@@ -5872,7 +5872,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -6738,6 +6738,32 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
+        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
     },
     {
       "album": {
@@ -8855,6 +8881,28 @@
     },
     {
       "album": {
+        "name": "Burning Down (with Joe Jonas)",
+        "url": "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179437,
+      "name": "Burning Down (with Joe Jonas)",
+      "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
+    },
+    {
+      "album": {
         "name": "BURR",
         "url": "https://open.spotify.com/album/07b2ukrOeBHxOZmbGwZcNc"
       },
@@ -10456,6 +10504,24 @@
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
+    },
+    {
+      "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
       "album": {
@@ -12864,7 +12930,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 587364,
       "name": "Dancing Through Life",
       "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
@@ -13146,7 +13212,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 208476,
       "name": "Days On End",
       "url": "https://open.spotify.com/track/0jCeblxsZemjNoHAvYD5iU"
@@ -14767,6 +14833,24 @@
     },
     {
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/7qbKTfezFBs265qBgpGleg"
+      },
+      "artists": [
+        {
+          "name": "Derik Fein",
+          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200446,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw"
+    },
+    {
+      "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
@@ -15126,6 +15210,24 @@
       "duration_ms": 190782,
       "name": "Double Life - From \"Despicable Me 4\"",
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "album": {
+        "name": "Wait Til I Get My Money Up",
+        "url": "https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158872,
+      "name": "Doublewide",
+      "url": "https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV"
     },
     {
       "album": {
@@ -17618,7 +17720,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 184960,
       "name": "Fantastic (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu"
@@ -20289,6 +20391,32 @@
     },
     {
       "album": {
+        "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
+        "url": "https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
+      "url": "https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag"
+    },
+    {
+      "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
       },
@@ -20430,7 +20558,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 184693,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/14B0uhjPvP2pJHm7HfbTAr"
@@ -20528,7 +20656,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 130612,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/2F28o4Yl4RH6FvCdSOe0qN"
@@ -26079,6 +26207,24 @@
     },
     {
       "album": {
+        "name": "I Got A New One",
+        "url": "https://open.spotify.com/album/1pzzR7iluYWZd8l0SA1922"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Nichols",
+          "url": "https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145788,
+      "name": "I Got A New One",
+      "url": "https://open.spotify.com/track/3YQzOzUKb2hcx64XQhmct5"
+    },
+    {
+      "album": {
         "name": "I Got Summer On My Mind",
         "url": "https://open.spotify.com/album/1aBTzwMCesh4ERMJOfQvjX"
       },
@@ -29690,7 +29836,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 147080,
       "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
       "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
@@ -30874,7 +31020,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 164234,
       "name": "KONGOLESE SOUS BBL",
       "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
@@ -36565,6 +36711,24 @@
     },
     {
       "album": {
+        "name": "MERRY NOTHIN",
+        "url": "https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "MERRY NOTHIN",
+      "url": "https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2"
+    },
+    {
+      "album": {
         "name": "Messed Up Kid (Live)",
         "url": "https://open.spotify.com/album/1ISDcvKgH5RHJhEXA4oit1"
       },
@@ -39032,7 +39196,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 217693,
       "name": "NANANI NANANA",
       "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
@@ -40328,7 +40492,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
@@ -43521,6 +43685,24 @@
     },
     {
       "album": {
+        "name": "Peace with Pain",
+        "url": "https://open.spotify.com/album/2N4Nxmkr3jORP44i5lZEiQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Conner",
+          "url": "https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180535,
+      "name": "Peace with Pain",
+      "url": "https://open.spotify.com/track/3bPVSzCzxrMxheZEhq62Cp"
+    },
+    {
+      "album": {
         "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
       },
@@ -43562,6 +43744,24 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
+        "name": "Peggy",
+        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159336,
+      "name": "Peggy",
+      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
     },
     {
       "album": {
@@ -52686,7 +52886,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 155773,
       "name": "Spin The Wheel (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/3r1Fg9teKc6ZkZVtjJwCtV"
@@ -53469,6 +53669,32 @@
     },
     {
       "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188534,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
+    },
+    {
+      "album": {
         "name": "The Book of Eli",
         "url": "https://open.spotify.com/album/2JR2pvofQhv2ZEjocuH76a"
       },
@@ -53794,6 +54020,28 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
     },
     {
       "album": {
@@ -57306,7 +57554,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 192000,
       "name": "The Line (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM"
@@ -59604,6 +59852,24 @@
       "duration_ms": 198041,
       "name": "Toxic Pony",
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "album": {

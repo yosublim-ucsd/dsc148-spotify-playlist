@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWXVWOhZAgm.md) - [plain]
 
 > Music From "Violet Evergarden"! 音楽で辿る「ヴァイオレット・エヴァーガーデン」の世界! ©暁佳奈・京都アニメーション／ヴァイオレット・エヴァーガーデン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,633 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,669 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

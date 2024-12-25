@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 329742,
+  "num_followers": 329809,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-03-22 16:20:43",
       "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/3J7BL97p8taetIOLtaXyI6"
+      },
+      "artists": [
+        {
+          "name": "Conquering Lion",
+          "url": "https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ"
+    },
+    {
+      "added_at": "2024-03-22 16:20:43",
+      "album": {
         "name": "It's a Jazz Thing / It's a Big up Thing (Remixes)",
         "url": "https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 360012,
       "name": "It's a Jazz Thing - Utah Jazz Remix",
       "url": "https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH"
-    },
-    {
-      "added_at": "2024-03-22 16:20:43",
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/3J7BL97p8taetIOLtaXyI6"
-      },
-      "artists": [
-        {
-          "name": "Conquering Lion",
-          "url": "https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ"
     },
     {
       "added_at": "2024-03-22 16:20:43",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-03-22 16:20:43",
       "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+        "name": "UTAH SAINTS",
+        "url": "https://open.spotify.com/album/5PuJ1ocyfvAmgVEazfKoqZ"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "Utah Saints",
+          "url": "https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH"
         }
       ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+      "duration_ms": 355880,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/1ufw4MHpNrimD5e6pna6JA"
     }
   ],
   "unique_name": "Rave Classics",

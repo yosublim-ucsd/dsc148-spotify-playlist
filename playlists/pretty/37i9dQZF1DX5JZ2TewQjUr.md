@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Jasmine Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,794 likes - 119 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,795 likes - 119 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 32 | [Feels like back in 2018](https://open.spotify.com/track/393U6czC5kq6BC5e6z2Eua) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [Bye.](https://open.spotify.com/album/3O8g3PI0mEjHD6ByNMVsx4) | 2:16 |
 | 33 | [Santa why are you so late?](https://open.spotify.com/track/2NzSFSItoBGq8uhFlAIR7S) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Santa why are you so late?](https://open.spotify.com/album/3Ge8P2TnWLIuCcLqYOltMv) | 2:36 |
 | 34 | [Streets of Helsinki](https://open.spotify.com/track/5Nuje8nvNyMTr1rV73ZmtY) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [Streets of Helsinki](https://open.spotify.com/album/7wocbT7ZB498TXgICEPrjQ) | 4:01 |
-| 35 | [BLANKHEADS \(脆\)](https://open.spotify.com/track/2ipsCE60B1lxbkz6Qty66g) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [BLANKHEADS \(脆\)](https://open.spotify.com/album/46jhy8Ce6OjdLClJUxqfzy) | 2:27 |
+| 35 | [threads \[脆\]](https://open.spotify.com/track/2ipsCE60B1lxbkz6Qty66g) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [threads \[脆\]](https://open.spotify.com/album/46jhy8Ce6OjdLClJUxqfzy) | 2:27 |
 | 36 | [California Trash](https://open.spotify.com/track/61LhSOCYMNEGedpacz61X2) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [California Trash](https://open.spotify.com/album/5J0aVIgfEX4tScTFLU46kV) | 3:25 |
 | 37 | [Want To Know \(想知\)](https://open.spotify.com/track/26xR4i74nsWZekrv0of2mA) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [Want To Know \(想知\)](https://open.spotify.com/album/0CIjLe4pQLhvI54GHrDznu) | 3:19 |
 | 38 | [綠島炸雞脾 Green Island Fried Chicken Leg \- Live at NTK](https://open.spotify.com/track/165o8sxURI9AvNtW23WUUp) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [牛頭角現場 Live at Ngau Tau Kok](https://open.spotify.com/album/2jgYOrxoPHh668hMB41gup) | 5:16 |

@@ -1,6 +1,6 @@
 {
   "description": "Latin music bangers for your gaming session! Bad Bunny on cover",
-  "num_followers": 609446,
+  "num_followers": 609463,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
@@ -71,34 +71,18 @@
     {
       "added_at": "2024-12-19 10:05:22",
       "album": {
-        "name": "Come Play (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 161666,
-      "name": "Come Play (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
       "added_at": "2024-12-19 10:05:22",
@@ -139,18 +123,34 @@
     {
       "added_at": "2024-12-19 10:05:22",
       "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+        "name": "Come Play (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+      "duration_ms": 161666,
+      "name": "Come Play (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
     },
     {
       "added_at": "2024-12-19 10:05:22",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-12-19 10:05:22",
       "album": {
-        "name": "Yandel 150",
-        "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
-    },
-    {
-      "added_at": "2024-12-19 10:05:22",
-      "album": {
         "name": "La Jumpa",
         "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 255693,
       "name": "La Jumpa",
       "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
+    },
+    {
+      "added_at": "2024-12-19 10:05:22",
+      "album": {
+        "name": "Yandel 150",
+        "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
     },
     {
       "added_at": "2024-12-19 10:05:22",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-12-19 10:05:22",
       "album": {
-        "name": "Trending",
-        "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p"
-    },
-    {
-      "added_at": "2024-12-19 10:05:22",
-      "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 199148,
       "name": "Mas Rica Que Ayer",
       "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
+    },
+    {
+      "added_at": "2024-12-19 10:05:22",
+      "album": {
+        "name": "Trending",
+        "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p"
     },
     {
       "added_at": "2024-12-19 10:05:22",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2024-12-19 10:05:22",
       "album": {
-        "name": "Como Pacman",
-        "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 148152,
-      "name": "Como Pacman",
-      "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
-    },
-    {
-      "added_at": "2024-12-19 10:05:22",
-      "album": {
         "name": "Famouz",
         "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 198613,
       "name": "Imaginaste",
       "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
+    },
+    {
+      "added_at": "2024-12-19 10:05:22",
+      "album": {
+        "name": "Como Pacman",
+        "url": "https://open.spotify.com/album/3xCmWwmcrk7U0PiS7iG9Ny"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 148152,
+      "name": "Como Pacman",
+      "url": "https://open.spotify.com/track/2TV1EuYnG5XqEyQSd1EB9X"
     },
     {
       "added_at": "2024-12-19 10:05:22",
@@ -2055,22 +2055,22 @@
     {
       "added_at": "2024-12-19 10:05:22",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
+        "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
+        "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
       },
       "artists": [
         {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Edu Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 153684,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P"
+      "duration_ms": 223019,
+      "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
+      "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
     },
     {
       "added_at": "2024-12-19 10:05:22",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2024-12-19 10:05:22",
       "album": {
-        "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
-        "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 223019,
-      "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
-      "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
-    },
-    {
-      "added_at": "2024-12-19 10:05:22",
-      "album": {
         "name": "EL AFTER DEL AFTER",
         "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 225920,
       "name": "LUGARES QUE LLEGO",
       "url": "https://open.spotify.com/track/79s2n0evTdub5GPj7noqfK"
+    },
+    {
+      "added_at": "2024-12-19 10:05:22",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Edu Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P"
     },
     {
       "added_at": "2024-12-19 10:05:22",
@@ -2883,6 +2883,22 @@
     {
       "added_at": "2024-12-19 10:05:22",
       "album": {
+        "name": "VITALICIO",
+        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "VITALICIO",
+      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
+    },
+    {
+      "added_at": "2024-12-19 10:05:22",
+      "album": {
         "name": "Te Lo Doy",
         "url": "https://open.spotify.com/album/2doLJ1ZXVCzZTWpBY2X4as"
       },
@@ -2903,22 +2919,6 @@
       "duration_ms": 216280,
       "name": "Te Lo Doy",
       "url": "https://open.spotify.com/track/1JKivZOBdmCbKgdu6P76E2"
-    },
-    {
-      "added_at": "2024-12-19 10:05:22",
-      "album": {
-        "name": "VITALICIO",
-        "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "VITALICIO",
-      "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
     },
     {
       "added_at": "2024-12-19 10:05:22",
@@ -3139,6 +3139,26 @@
     {
       "added_at": "2024-12-19 10:05:22",
       "album": {
+        "name": "ULALA (OOH LA LA)",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 188009,
+      "name": "ULALA (OOH LA LA)",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
+    },
+    {
+      "added_at": "2024-12-19 10:05:22",
+      "album": {
         "name": "2024",
         "url": "https://open.spotify.com/album/6CNjfS2dgmIIzqM4knWvNl"
       },
@@ -3163,26 +3183,6 @@
       "duration_ms": 160399,
       "name": "2024",
       "url": "https://open.spotify.com/track/0ycjYQkQ7lJpZf47BEiDLx"
-    },
-    {
-      "added_at": "2024-12-19 10:05:22",
-      "album": {
-        "name": "ULALA (OOH LA LA)",
-        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 188009,
-      "name": "ULALA (OOH LA LA)",
-      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
     },
     {
       "added_at": "2024-12-19 10:05:22",

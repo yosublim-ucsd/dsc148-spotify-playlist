@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。Cover: MFS
+> Spotifyが注目するニューカマー・プレイリスト。Cover: フジタ カコ
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,685 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,690 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 |
-| 2 | [ongakunankakikanakuteiiyouni](https://open.spotify.com/track/2miGY2WqbYUEx8y0QnwJIP) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [ongakunankakikanakuteiiyouni](https://open.spotify.com/album/3NwELJfso6WcGaje3gIXjf) | 3:15 |
+| 1 | [matadokokade](https://open.spotify.com/track/6sNk0VZa78oZk6jTiJJiuF) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [netemosametemo](https://open.spotify.com/album/3ZtEKkkYYFwYHzxVQm5QH4) | 3:26 |
+| 2 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 |
 | 3 | [ACTOR](https://open.spotify.com/track/7DU9Ttw5ugUKXo8LqwO6M6) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ACTOR](https://open.spotify.com/album/2F3rLv6zsQBB9ZZjb3d6YD) | 2:56 |
 | 4 | [誰もが死にたがる夜に](https://open.spotify.com/track/3xgZ4xrHhC3BgbdWQWxsl8) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [誰もが死にたがる夜に](https://open.spotify.com/album/3EgWzD4xSYfUTcXY7K3K2k) | 4:13 |
 | 5 | [革命](https://open.spotify.com/track/48pPtNdzDKIvTuGGS66o21) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [変身のレシピ](https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Somebody, Somewhere](https://open.spotify.com/track/1UZ39vzyFxP0ESVubuq8mG) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [The Way I See You](https://open.spotify.com/album/6Ye2HzPp6DhXo6kYPcS5XQ) | 3:18 |
 | 60 | [夏よ](https://open.spotify.com/track/7IFsYuLbVwgnz0567conyw) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [夏よ](https://open.spotify.com/album/5Z2I4wSUZqzPinSUZWP5ph) | 4:59 |
 
-Snapshot ID: `Z2Sa+gAAAACfzeBYela73irpMY4UcNZw`
+Snapshot ID: `Z2rMkQAAAACF1KNAz4RnTdbPO0DmlMQe`

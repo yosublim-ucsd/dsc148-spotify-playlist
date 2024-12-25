@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 344392,
+  "num_followers": 344439,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,26 @@
     {
       "added_at": "2024-12-23 13:38:49",
       "album": {
-        "name": "Gjeilo: Winter Light",
-        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
+        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
       "artists": [
         {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
         },
         {
-          "name": "Roberto Sorrentino",
-          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+          "name": "Michael Rische",
+          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
+        },
+        {
+          "name": "Kammersymphonie Leipzig",
+          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
         }
       ],
-      "duration_ms": 170080,
-      "name": "Winter Light",
-      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
+      "duration_ms": 198333,
+      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
+      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2024-12-23 13:38:49",
@@ -535,6 +539,26 @@
     {
       "added_at": "2024-12-23 13:38:49",
       "album": {
+        "name": "Gjeilo: Winter Light",
+        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "Winter Light",
+      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
+    },
+    {
+      "added_at": "2024-12-23 13:38:49",
+      "album": {
         "name": "Lavender Fields",
         "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
       },
@@ -547,30 +571,6 @@
       "duration_ms": 216920,
       "name": "Lavender Fields",
       "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
-    },
-    {
-      "added_at": "2024-12-23 13:38:49",
-      "album": {
-        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
-        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Michael Rische",
-          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
-        },
-        {
-          "name": "Kammersymphonie Leipzig",
-          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
-      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2024-12-23 13:38:49",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-12-23 13:38:49",
       "album": {
+        "name": "Debussy: Suite bergamasque: III. Clair de lune",
+        "url": "https://open.spotify.com/album/3yGx9HJkwOT8ptSYmmmlld"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Andrew von Oeyen",
+          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
+        }
+      ],
+      "duration_ms": 302986,
+      "name": "Debussy: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/4DhPRzkpdXYExzwUrV6t3i"
+    },
+    {
+      "added_at": "2024-12-23 13:38:49",
+      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 180066,
       "name": "Valse lente, Op. 33 (arr. for orchestra)",
       "url": "https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39"
-    },
-    {
-      "added_at": "2024-12-23 13:38:49",
-      "album": {
-        "name": "Debussy: Suite bergamasque: III. Clair de lune",
-        "url": "https://open.spotify.com/album/3yGx9HJkwOT8ptSYmmmlld"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Andrew von Oeyen",
-          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
-        }
-      ],
-      "duration_ms": 302986,
-      "name": "Debussy: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
-      "url": "https://open.spotify.com/track/4DhPRzkpdXYExzwUrV6t3i"
     },
     {
       "added_at": "2024-12-23 13:38:49",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2024-12-23 13:38:49",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
-    },
-    {
-      "added_at": "2024-12-23 13:38:49",
-      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 261213,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
       "url": "https://open.spotify.com/track/5Olix25Y5aNqIWGDrrB0Pb"
+    },
+    {
+      "added_at": "2024-12-23 13:38:49",
+      "album": {
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2024-12-23 13:38:49",
@@ -2015,30 +2015,6 @@
     {
       "added_at": "2024-12-23 13:38:49",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
-      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
-    },
-    {
-      "added_at": "2024-12-23 13:38:49",
-      "album": {
         "name": "Klassieke Muziek voor Zondagochtend",
         "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
       },
@@ -2055,26 +2031,6 @@
       "duration_ms": 96786,
       "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
       "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
-    },
-    {
-      "added_at": "2024-12-23 13:38:49",
-      "album": {
-        "name": "Ravel: Pavane pour une infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/4Z4eadBSahvMdFEaZKqwss"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Hayato Sumino",
-          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
-        }
-      ],
-      "duration_ms": 366400,
-      "name": "Ravel: Pavane pour une infante d\u00e9funte",
-      "url": "https://open.spotify.com/track/2s5bkvRCBhv0sR8PGXGZMX"
     },
     {
       "added_at": "2024-12-23 13:38:49",
@@ -2099,26 +2055,62 @@
     {
       "added_at": "2024-12-23 13:38:49",
       "album": {
-        "name": "Telemann Edition, Vol. 1",
-        "url": "https://open.spotify.com/album/5cEqeaVOOShRNlsEe4ubLC"
+        "name": "Ravel: Pavane pour une infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/4Z4eadBSahvMdFEaZKqwss"
       },
       "artists": [
         {
-          "name": "Georg Philipp Telemann",
-          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Collegium Instrumentale Brugense",
-          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
-        },
-        {
-          "name": "Patrick Peire",
-          "url": "https://open.spotify.com/artist/6tgPsm4ixxtFd7drCb8irg"
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
         }
       ],
-      "duration_ms": 120813,
-      "name": "Overture-Suite in G Major, TWV 55:G10: \"Burlesque de Quixotte\": IV. Ses soupirs amoureux apr\u00e8s la princesse Dulcin\u00e9e",
-      "url": "https://open.spotify.com/track/5p2665rdi1sFIoCY5BFTy0"
+      "duration_ms": 366400,
+      "name": "Ravel: Pavane pour une infante d\u00e9funte",
+      "url": "https://open.spotify.com/track/2s5bkvRCBhv0sR8PGXGZMX"
+    },
+    {
+      "added_at": "2024-12-23 13:38:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 233642,
+      "name": "Plus t\u00f4t (String Quartet Version) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw"
+    },
+    {
+      "added_at": "2024-12-23 13:38:49",
+      "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
+      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
     }
   ],
   "unique_name": "Classical Focus",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 
 > Get your bassface on with these classic Dubstep tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,450 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,505 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 15 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 16 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/1B7w5yG3cOgP7G3VgVUHKD) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat](https://open.spotify.com/album/5D3UJO1mvuPvYRlvYnCFku) | 3:57 |
 | 17 | [Perfect Stranger \(feat\. Magnetic Man\)](https://open.spotify.com/track/6ZqBQWfrmYqk5F9yi9S36O) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:13 |
-| 18 | [Midnight Request Line](https://open.spotify.com/track/6saiu3uHwIpzPl8GKtRRNR) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skream! \(Expanded Edition\)](https://open.spotify.com/album/1nWIYpBIbSn759fhDYPvrx) | 3:59 |
-| 19 | [Hyph Mngo](https://open.spotify.com/track/2BTjb4H2FLh2e5zx3nI6Ul) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Hyph Mngo / Wet Look](https://open.spotify.com/album/693G06k5b2GoKDHXGTzWPb) | 5:38 |
+| 18 | [Hyph Mngo](https://open.spotify.com/track/2BTjb4H2FLh2e5zx3nI6Ul) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Hyph Mngo / Wet Look](https://open.spotify.com/album/693G06k5b2GoKDHXGTzWPb) | 5:38 |
+| 19 | [Midnight Request Line](https://open.spotify.com/track/6saiu3uHwIpzPl8GKtRRNR) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skream! \(Expanded Edition\)](https://open.spotify.com/album/1nWIYpBIbSn759fhDYPvrx) | 3:59 |
 | 20 | [Innocence](https://open.spotify.com/track/5ABDsQEkVZ1ECGPGQl6Yfr) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality](https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97) | 5:08 |
 | 21 | [Skeng](https://open.spotify.com/track/3gxYWXhsiy9Yy3FBiOxoxN) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [London Zoo](https://open.spotify.com/album/0Au4HNwGtEi5iOFprP0027) | 4:39 |
 | 22 | [Centipede](https://open.spotify.com/track/0u2AIKDVafHwCFQ9LDnqxH) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Rage Valley](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X) | 4:06 |
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 27 | [Jah War \- Loefah Remix](https://open.spotify.com/track/0LF5bGyZAitur0ZfwGcReK) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Loefah](https://open.spotify.com/artist/1ICQEDALtLouPV8yEaJXVb) | [Jah War](https://open.spotify.com/album/1K2poYLeajU5ffVMYw41oY) | 3:43 |
 | 28 | [Rutten](https://open.spotify.com/track/28T5MOMLbQ1MMmJAbrrxWr) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skream! \(Expanded Edition\)](https://open.spotify.com/album/1nWIYpBIbSn759fhDYPvrx) | 6:31 |
 | 29 | [Cockney Thug](https://open.spotify.com/track/5hHSZZuCCuBlY5eZoNubHq) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Babylon, Vol\. 1](https://open.spotify.com/album/2CNQ67P0mbL0ZECsESspO3) | 4:06 |
-| 30 | [26 Basslines](https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:01 |
-| 31 | [Anti War Dub](https://open.spotify.com/track/4gVyYO3lwkhhjQXp4oabwy) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu), [Spen G](https://open.spotify.com/artist/7Dm8mz047buRUFGEYEresl) | [Anti War Dub](https://open.spotify.com/album/4bpw1AG984v2R9UIawkRj6) | 6:22 |
+| 30 | [Forefather](https://open.spotify.com/track/0UZvF6KJhjpUawO1ifNvF4) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Chapter II \(Deluxe\)](https://open.spotify.com/album/1IMBoaFPmzHBHQjR8vVO2v) | 3:59 |
+| 31 | [Midnight \- Bassnectar Remix](https://open.spotify.com/track/6FOW4afZzzl8eqNKnvNTsV) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Midnight](https://open.spotify.com/album/78FzmtmPS5byGfw6tsz8QM) | 3:39 |
 | 32 | [Japan \- Original Mix](https://open.spotify.com/track/7b4n7QwjEo69szisxNK4By) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC) | [Beg To Differ](https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT) | 4:08 |
-| 33 | [Midnight \- Bassnectar Remix](https://open.spotify.com/track/6FOW4afZzzl8eqNKnvNTsV) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Midnight](https://open.spotify.com/album/78FzmtmPS5byGfw6tsz8QM) | 3:39 |
+| 33 | [Anti War Dub](https://open.spotify.com/track/4gVyYO3lwkhhjQXp4oabwy) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu), [Spen G](https://open.spotify.com/artist/7Dm8mz047buRUFGEYEresl) | [Anti War Dub](https://open.spotify.com/album/4bpw1AG984v2R9UIawkRj6) | 6:22 |
 | 34 | [Stone Cold](https://open.spotify.com/track/0pmWk0ydV1DiN1XGNMFlw8) | [Groove Chronicles \(Noodles\)](https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on) | [Stonecold / Hold On](https://open.spotify.com/album/1Jx6rUWeiMeIodcvTI76RN) | 5:37 |
 | 35 | [The Knowledge](https://open.spotify.com/track/1BjCQM4rGB8muspU65nK72) | [Toasty](https://open.spotify.com/artist/5xD3piymhCUyYezMeJX2h5) | [The Knowledge](https://open.spotify.com/album/7osClkZir38QpfXpEB570p) | 5:06 |
 | 36 | [Tortured](https://open.spotify.com/track/2J9k8u0qfqUJtLeqTfkxfF) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Tortured / Shattered](https://open.spotify.com/album/191Vujdxp5qZwTStz0gqZl) | 4:38 |
-| 37 | [Forefather](https://open.spotify.com/track/0UZvF6KJhjpUawO1ifNvF4) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Chapter II \(Deluxe\)](https://open.spotify.com/album/1IMBoaFPmzHBHQjR8vVO2v) | 3:59 |
+| 37 | [26 Basslines](https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:01 |
 | 38 | [Roll with the Punches](https://open.spotify.com/track/1DxvkBAExfcsgq8H916RUL) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Roll with the Punches / Die Brücke](https://open.spotify.com/album/7KG7KAgw46V8TGZIbI91TZ) | 6:44 |
-| 39 | [Qawwali](https://open.spotify.com/track/36tSNnMctCGaxQp0JVGBLC) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [Qawwali](https://open.spotify.com/album/5ebXFw9kL2g9sWbdDk0dKc) | 5:19 |
-| 40 | [Slasherr](https://open.spotify.com/track/52SPa846gRMhjujh054UFr) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [Triadzz / Slasherr](https://open.spotify.com/album/1OKId2zwMoVaZzngQHVyyb) | 3:38 |
+| 39 | [Slasherr](https://open.spotify.com/track/52SPa846gRMhjujh054UFr) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [Triadzz / Slasherr](https://open.spotify.com/album/1OKId2zwMoVaZzngQHVyyb) | 3:38 |
+| 40 | [Qawwali](https://open.spotify.com/track/36tSNnMctCGaxQp0JVGBLC) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [Qawwali](https://open.spotify.com/album/5ebXFw9kL2g9sWbdDk0dKc) | 5:19 |
 
 Snapshot ID: `Z1rrUgAAAACTWds/PnLii+j8TsE3lj53`

@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Post Malone",
-  "num_followers": 65603,
+  "num_followers": 65609,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 72976,
+      "name": "Sam",
+      "url": "https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 203689,
       "name": "Up All Night (with The Lumineers & Noah Kahan)",
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 72976,
-      "name": "Sam",
-      "url": "https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "As It Ever Was, So It Will Be Again",
         "url": "https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 229133,
       "name": "Long White Veil",
       "url": "https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "What Kind of Song",
-        "url": "https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "What Kind of Song",
-      "url": "https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "Working On My Tan",
         "url": "https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 184985,
       "name": "Going to Water",
       "url": "https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "What Kind of Song",
+        "url": "https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "What Kind of Song",
+      "url": "https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
+        "name": "Our Time In The Sun",
+        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "duration_ms": 180475,
+      "name": "Our Time In The Sun",
+      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
         "name": "Come Morning",
         "url": "https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2024-12-13 05:00:20",
       "album": {
-        "name": "Our Time In The Sun",
-        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
-      },
-      "artists": [
-        {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
-        }
-      ],
-      "duration_ms": 180475,
-      "name": "Our Time In The Sun",
-      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
         "name": "Against The Grain",
         "url": "https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y"
       },
@@ -1635,6 +1635,22 @@
       "duration_ms": 195500,
       "name": "Against The Grain",
       "url": "https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7"
+    },
+    {
+      "added_at": "2024-12-13 05:00:20",
+      "album": {
+        "name": "Mountain Road",
+        "url": "https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 215661,
+      "name": "Mountain Road",
+      "url": "https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi"
     },
     {
       "added_at": "2024-12-13 05:00:20",
@@ -1671,22 +1687,6 @@
       "duration_ms": 253754,
       "name": "Say When",
       "url": "https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr"
-    },
-    {
-      "added_at": "2024-12-13 05:00:20",
-      "album": {
-        "name": "Mountain Road",
-        "url": "https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 215661,
-      "name": "Mountain Road",
-      "url": "https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi"
     }
   ],
   "unique_name": "Renegades",

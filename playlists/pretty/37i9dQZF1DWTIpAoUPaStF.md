@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,306 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,307 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 47 | [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 |
 | 48 | [ocean eyes](https://open.spotify.com/track/1DSASw2UZSNl5r9pgxc6KW) | [Fiona Floyd](https://open.spotify.com/artist/1Tp7LWhw2Ug8UgAIRN7o2I) | [ocean eyes](https://open.spotify.com/album/5ZZ3UBXTwMM1gg19stt35n) | 2:27 |
 | 49 | [Like a Song](https://open.spotify.com/track/3lIxP6Gt1QgNFFLAqnnDXp) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Like a Song](https://open.spotify.com/album/7ME05eOFVBnMfhjf0PjzRz) | 3:04 |
-| 50 | [Hard To Tell You](https://open.spotify.com/track/1QJQIDeX1bH0VxLGzUKTKK) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Radiate Like This](https://open.spotify.com/album/480jVncbNknTjPUAvxp8or) | 5:00 |
+| 50 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 |
 
 Snapshot ID: `Zo9ewwAAAAC9WBcaspPL/E24jr5BQT67`

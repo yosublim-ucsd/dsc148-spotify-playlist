@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-591 songs - 1 day 12 hr 35 min
+593 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 | 2023-06-23 |  |
 | [Kenangan Manis](https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk The Talk](https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU) | 3:27 | 2021-03-27\* | 2021-06-24 |
 | [Kepada Noor](https://open.spotify.com/track/1rvMhV6FQggO28NYyxfV0G) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Tanpa Aku](https://open.spotify.com/album/1KpqsIwGr9EutOjnJl4HaH) | 4:09 | 2023-06-24 | 2023-06-26 |
-| [Keras Kepala](https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 4:56 | 2024-08-04 |  |
+| [Keras Kepala](https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 4:56 | 2024-08-04 | 2024-12-25 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-14 | 2023-10-23 |
 | [Kini Mereka Tahu](https://open.spotify.com/track/0UFYW8XaNvO6K8yZLMHPkB) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 4:44 | 2024-07-13 |  |
 | [Kisah Sempurna](https://open.spotify.com/track/6fX8WwxAQ6rCPIC7lMgztu) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:36 | 2023-01-24 | 2023-06-11 |
@@ -401,8 +401,9 @@
 | [Putus Atau Terus](https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Putus Atau Terus](https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW) | 4:08 | 2021-03-27\* | 2021-06-28 |
 | [Putus Atau Terus](https://open.spotify.com/track/7MaE3QJQArKzaRZGi8DHfP) | [Judika](https://open.spotify.com/artist/3HSmFRCVuZh2skqMDhsI8y) | [Putus Atau Terus](https://open.spotify.com/album/7fYzATEorF2nTcMKuE4crs) | 4:08 | 2021-06-28 | 2021-07-05 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-09-05 |
-| [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 | 2023-09-17 |  |
+| [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 | 2023-09-17 | 2024-12-25 |
 | [Rahasia Hati](https://open.spotify.com/track/6zrnrcry6OHVFo3EDt6PYa) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/2nFXZYwcFX49uehczLGoFM) | 4:10 | 2024-09-29 |  |
+| [Rahasia Hati \- Remastered 2023](https://open.spotify.com/track/2ZzsUu74KQFwnkBIOryp0d) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Perjalanan 1999 \- 2003 \(Remastered 2023\)](https://open.spotify.com/album/4QCGE9az4wKzhytBcgoZbm) | 3:10 | 2024-12-24 |  |
 | [Rahmatun Lil’Alameen](https://open.spotify.com/track/4gcQ4sBOIX8s510XrNZQUA) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil’Alameen](https://open.spotify.com/album/0XDt4wF7I0dpj6ii47DQoF) | 3:50 | 2023-02-27 | 2023-05-10 |
 | [Rainbow](https://open.spotify.com/track/2TyDgN8q5NgOuiR8yYyBYj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:51 | 2021-05-12 | 2021-05-17 |
 | [Rapsodi](https://open.spotify.com/track/0WwLkbYBjwPYoEKegzOYVu) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Rapsodi](https://open.spotify.com/album/02ECGWaPjemLbarmHlPoge) | 3:58 | 2021-06-27 | 2022-01-15 |
@@ -425,7 +426,7 @@
 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-29 | 2021-07-30 |
 | [Rose \- English Version](https://open.spotify.com/track/2shyarF21wZvWew00TdaP3) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-28 | 2021-08-21 |
 | [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 | 2021-03-27\* |  |
-| [Rumah Singgah](https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:06 | 2024-07-27 | 2024-12-22 |
+| [Rumah Singgah](https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:06 | 2024-07-27 |  |
 | [Rumah Singgah](https://open.spotify.com/track/3w75Uvn1cojNlBhQoxpVP3) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o) | 4:06 | 2022-08-28 | 2023-02-04 |
 | [Rumah Singgah](https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:06 | 2023-02-03 | 2023-09-10 |
 | [Rumah Singgah](https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/7gVYaMTDC2GCbpswDSHWVT) | 4:06 | 2022-05-13 | 2022-08-29 |
@@ -524,7 +525,7 @@
 | [Tampar](https://open.spotify.com/track/1csKczcJqOSdK8JriLMpDW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:22 | 2024-06-29 |  |
 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 | 2022-11-19 | 2024-06-30 |
 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 | 2024-10-10 | 2024-10-19 |
-| [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 | 2024-10-17 |  |
+| [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 | 2024-10-17 | 2024-12-25 |
 | [Tanpa Pesan Terakhir](https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:49 | 2023-10-22 | 2024-07-03 |
 | [Tanpa Rasa Bersalah](https://open.spotify.com/track/1FSEm5Uc8TqFy0UZkMuEMZ) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:38 | 2023-10-01 | 2023-12-03 |
 | [Tanpa Rasa Bersalah](https://open.spotify.com/track/4Trhv4MBai2ay6vF5ovC7g) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:38 | 2023-12-02 | 2024-03-06 |
@@ -541,6 +542,7 @@
 | [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2022-11-12 | 2023-10-01 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-06 | 2022-05-16 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-20 | 2021-12-04 |
+| [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-24 |  |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2022-11-01 |
 | [The Happiest Girl](https://open.spotify.com/track/7AdGloF1UHKe1vAZPbqIXH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:42 | 2022-09-17 | 2022-09-23 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2024-03-15 | 2024-12-12 |

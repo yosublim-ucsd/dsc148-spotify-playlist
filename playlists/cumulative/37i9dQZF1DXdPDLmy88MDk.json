@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Liszt: 3 Liebestr\u00e4ume, S. 541/3: No. 3, O lieb, so lang du lieben kannst (Arr. for Harp by Nora von Marschall)",
+        "url": "https://open.spotify.com/album/1NoXqEH1tDoXByWr3qxCxM"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Nora von Marschall",
+          "url": "https://open.spotify.com/artist/5By8kJBrn6lYKCVKHJSyts"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310344,
+      "name": "3 Liebestr\u00e4ume, S. 541/3: No. 3, O lieb, so lang du lieben kannst (Arr. for Harp by Nora von Marschall)",
+      "url": "https://open.spotify.com/track/4IsoCqXixbkRFLnIv0K2WY"
+    },
+    {
+      "album": {
         "name": "Citizen",
         "url": "https://open.spotify.com/album/6CynnUMIeho0HuHG8EFDKE"
       },
@@ -460,6 +482,32 @@
       "duration_ms": 251173,
       "name": "Bylur",
       "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
+    },
+    {
+      "album": {
+        "name": "Kreisler: Caprice viennois, Op. 2 (Arr. Fougeray for Violin and Guitar)",
+        "url": "https://open.spotify.com/album/2yHZciyRknuNoEkY1zovFs"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kreisler",
+          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100826,
+      "name": "Caprice viennois, Op. 2 (Arr. Fougeray for Violin and Guitar): II. Andante con moto",
+      "url": "https://open.spotify.com/track/29djfJX2smSZgYLEPbpiWC"
     },
     {
       "album": {
@@ -2229,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Ocean Sonata For Harp",
+        "url": "https://open.spotify.com/album/6fCXKF0TxDdjQJjPNvpbw0"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119446,
+      "name": "Ocean Sonata For Harp",
+      "url": "https://open.spotify.com/track/2BtNSFBVrY9QTSPwGCFJ7N"
+    },
+    {
+      "album": {
         "name": "Maidentrip (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/3ZwIOjwb1XpsUonQtYCDgk"
       },
@@ -3422,6 +3488,24 @@
       "duration_ms": 223880,
       "name": "the color of the sky - solo piano",
       "url": "https://open.spotify.com/track/06UlQEupfklesVD0OB2N87"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Earth (Geophony)",
+        "url": "https://open.spotify.com/album/3nKt5NFrSQiMuVF6XLp6ja"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219494,
+      "name": "The Poetry of Earth (Geophony) - Edit",
+      "url": "https://open.spotify.com/track/3dQ6KNl8to4bxJTEeAy63u"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 
 > This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,948 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,965 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 44 | [Art Star](https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:00 |
 | 45 | [Isis](https://open.spotify.com/track/6EMJFayg2XYkd03FTLiGXi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 4:00 |
 | 46 | [Shame And Fortune](https://open.spotify.com/track/1G2x0lf3WVY5B1Gut38pSe) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:31 |
-| 47 | [Faces](https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 3:32 |
+| 47 | [10 x 10](https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:44 |
 | 48 | [Miles Away](https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:20 |
-| 49 | [10 x 10](https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:44 |
+| 49 | [Faces](https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 3:32 |
 | 50 | [Rockers To Swallow](https://open.spotify.com/track/2UiapyNBxFVssobcZVuQuL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:10 |
 | 51 | [Our Time](https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 3:23 |
 
-Snapshot ID: `Z2dWgAAAAACrzuELRAZn01h/ehHTVCy5`
+Snapshot ID: `Z2ioAAAAAAC6W2ujts7mAlxi2N21Qthu`

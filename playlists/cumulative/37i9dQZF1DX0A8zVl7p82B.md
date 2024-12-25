@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-277 songs - 15 hr 16 min
+280 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/6p16ZgLXSyzefwUSFTZfeE) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/album/0v0EbtrOnYKhIW1AUY7t2q) | 3:51 | 2021-12-24 | 2022-07-29 |
 | [Christmas Isn't Christmas](https://open.spotify.com/track/6DeGFcrDiYDuyV7e7KnqPd) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Christmas Isn't Christmas](https://open.spotify.com/album/2Gc07PitsdDbsHxFcyX4mG) | 3:15 | 2021-12-24 | 2022-11-12 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-24 | 2022-10-26 |
+| [Christmas Love](https://open.spotify.com/track/6kc4TYfDwwxd5ihBAxVF9L) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 3:06 | 2024-12-24 |  |
 | [Christmas Magic](https://open.spotify.com/track/0w8ZIZZKew8iWefjNlTfnF) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Christmas Magic](https://open.spotify.com/album/3XuJwiCfSfXzbgKBh93BGJ) | 3:24 | 2024-12-06 |  |
 | [Christmas the Whole Year Round](https://open.spotify.com/track/065CI94mu3IZwqPU4BX4Cb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Christmas the Whole Year Round](https://open.spotify.com/album/637asSTw4aLXrTD4ZLHSMV) | 2:59 | 2021-12-24 |  |
 | [Christmas the Whole Year Round](https://open.spotify.com/track/7vSeyFV11gbIMDYzsN18Nu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Christmas the Whole Year Round](https://open.spotify.com/album/7fcezr1c3mi45pst3hfJad) | 2:59 | 2021-12-24 | 2022-07-29 |
@@ -186,6 +187,7 @@
 | [Oh Santa!](https://open.spotify.com/track/04t8HpnAGcLaWnBwzVR7H1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 3:31 | 2022-12-16 | 2023-11-18 |
 | [Oh Santa! \(feat\. Ariana Grande & Jennifer Hudson\)](https://open.spotify.com/track/1Ri9P0ZPrqr6h0REDRdJBd) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Oh Santa! \(feat\. Ariana Grande & Jennifer Hudson\)](https://open.spotify.com/album/2g0Ha2fsHrVBueqWdBGUpB) | 3:20 | 2021-12-24 |  |
 | [Oh Santa! \(feat\. Ariana Grande & Jennifer Hudson\)](https://open.spotify.com/track/2VkuxjlbnbaBiWYpdBGVol) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Mariah Carey's Magical Christmas Special \(Apple TV+ Original Soundtrack\)](https://open.spotify.com/album/5VfesyhwiNgpEEPXlO5c84) | 3:20 | 2022-10-25 | 2022-12-17 |
+| [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:25 | 2024-12-24 |  |
 | [One I've Been Missing](https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [One I've Been Missing](https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg) | 3:12 | 2021-12-24 | 2022-07-29 |
 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 | 2021-12-24 |  |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-12-24 |  |
@@ -211,6 +213,7 @@
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/1f2lkuLldqRzvaFjJdjGXX) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 3:24 | 2021-12-24 | 2022-10-26 |
 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/6QlbzyzeY8DUrEYYVw92eT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/3IHHgu4yckplK0XcoJampX) | 3:24 | 2021-12-24 | 2022-07-29 |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 | 2022-11-11 |  |
+| [Santa Claus Is Coming To Town](https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii) | 1:59 | 2024-12-24 |  |
 | [santa doesn’t know you like i do](https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj) | 3:09 | 2023-12-22 |  |
 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 | 2023-11-17 | 2024-04-19 |
 | [Santa For Someone](https://open.spotify.com/track/41131KEQzYOtJiYxOcXyxp) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Gift Of Love](https://open.spotify.com/album/45O6APAhmBxi7A60Df0h9W) | 3:23 | 2024-10-18 |  |

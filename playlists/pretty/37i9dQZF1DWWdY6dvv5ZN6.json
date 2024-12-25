@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 4654,
+  "num_followers": 4659,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Stop This World",
-        "url": "https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Stop This World",
-      "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "That's It!",
         "url": "https://open.spotify.com/album/3rAVWhYGTctgroOsCv0YBe"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Casa Guilhermina",
-        "url": "https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu"
+        "name": "Stop This World",
+        "url": "https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf"
       },
       "artists": [
         {
-          "name": "Ana Moura",
-          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
         }
       ],
-      "duration_ms": 177633,
-      "name": "Andorinhas",
-      "url": "https://open.spotify.com/track/7uVSiur2qbRT0py1aeJuC8"
+      "duration_ms": 229133,
+      "name": "Stop This World",
+      "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1171,6 +1155,22 @@
       "duration_ms": 206800,
       "name": "Omission",
       "url": "https://open.spotify.com/track/4BNDJ8JLYVc5nkoaIeogna"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Casa Guilhermina",
+        "url": "https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu"
+      },
+      "artists": [
+        {
+          "name": "Ana Moura",
+          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Andorinhas",
+      "url": "https://open.spotify.com/track/7uVSiur2qbRT0py1aeJuC8"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Laid Black",
-        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        }
-      ],
-      "duration_ms": 355986,
-      "name": "7-T's",
-      "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Clap!",
         "url": "https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 198866,
       "name": "In Heaven",
       "url": "https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Laid Black",
+        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
+      },
+      "artists": [
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "duration_ms": 355986,
+      "name": "7-T's",
+      "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Another Land",
-        "url": "https://open.spotify.com/album/7m0f9210yYIhCKDTf9FwnS"
-      },
-      "artists": [
-        {
-          "name": "Dave Holland",
-          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
-        }
-      ],
-      "duration_ms": 558720,
-      "name": "Another Land",
-      "url": "https://open.spotify.com/track/4hXCLt55j8I2NGm9nhhglr"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Chimborazo",
         "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Reasons Why",
-        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
+        "name": "Another Land",
+        "url": "https://open.spotify.com/album/7m0f9210yYIhCKDTf9FwnS"
       },
       "artists": [
         {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
         }
       ],
-      "duration_ms": 272177,
-      "name": "Feel This Way Too",
-      "url": "https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd"
+      "duration_ms": 558720,
+      "name": "Another Land",
+      "url": "https://open.spotify.com/track/4hXCLt55j8I2NGm9nhhglr"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1419,6 +1403,22 @@
       "duration_ms": 277283,
       "name": "why my love?",
       "url": "https://open.spotify.com/track/4qKQGEus6IEWqZYSqqhBqZ"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Reasons Why",
+        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 272177,
+      "name": "Feel This Way Too",
+      "url": "https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "The Many Moods Of Oliver Jones",
-        "url": "https://open.spotify.com/album/5wN6mff2fgZ4AJx6lsi7FM"
-      },
-      "artists": [
-        {
-          "name": "Oliver Jones",
-          "url": "https://open.spotify.com/artist/72RwX1W0nXbZKYr8687l0X"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "Lovely Lauren",
-      "url": "https://open.spotify.com/track/4WTDKckbqd2Zw9TKnNf2lU"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 244216,
       "name": "Burdens Down",
       "url": "https://open.spotify.com/track/0vEnFmphA8EoNwZDKlog5T"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "The Many Moods Of Oliver Jones",
+        "url": "https://open.spotify.com/album/5wN6mff2fgZ4AJx6lsi7FM"
+      },
+      "artists": [
+        {
+          "name": "Oliver Jones",
+          "url": "https://open.spotify.com/artist/72RwX1W0nXbZKYr8687l0X"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "Lovely Lauren",
+      "url": "https://open.spotify.com/track/4WTDKckbqd2Zw9TKnNf2lU"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "RW:AK",
-        "url": "https://open.spotify.com/album/5qITLQJh31disNrMxaVnp5"
-      },
-      "artists": [
-        {
-          "name": "Hologramme",
-          "url": "https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN"
-        }
-      ],
-      "duration_ms": 292542,
-      "name": "RW:AK",
-      "url": "https://open.spotify.com/track/0waM1hDqSzRyOtSv5wFWue"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Train Coming",
         "url": "https://open.spotify.com/album/74X9PXhDtKBmJO0aaO0oMG"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 244404,
       "name": "Train Coming",
       "url": "https://open.spotify.com/track/0yaFx1VHsMM4qNRg3Sv21t"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "RW:AK",
+        "url": "https://open.spotify.com/album/5qITLQJh31disNrMxaVnp5"
+      },
+      "artists": [
+        {
+          "name": "Hologramme",
+          "url": "https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN"
+        }
+      ],
+      "duration_ms": 292542,
+      "name": "RW:AK",
+      "url": "https://open.spotify.com/track/0waM1hDqSzRyOtSv5wFWue"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Map Vini (Kilo jam)",
-        "url": "https://open.spotify.com/album/2HroQM9InYhueZjC3Jnivf"
-      },
-      "artists": [
-        {
-          "name": "Marvin Caleb",
-          "url": "https://open.spotify.com/artist/3vR1xfC7leN8JqtN7eFqlF"
-        }
-      ],
-      "duration_ms": 160344,
-      "name": "Map Vini (Kilo jam)",
-      "url": "https://open.spotify.com/track/23VB836x5wXVQRXKmLt86J"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Hagata",
         "url": "https://open.spotify.com/album/7rFuvWny73XPHtJ5qaglW8"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 228813,
       "name": "Gotoku Lemon",
       "url": "https://open.spotify.com/track/0zPOoBRC5tnMSUIajc0z54"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Map Vini (Kilo jam)",
+        "url": "https://open.spotify.com/album/2HroQM9InYhueZjC3Jnivf"
+      },
+      "artists": [
+        {
+          "name": "Marvin Caleb",
+          "url": "https://open.spotify.com/artist/3vR1xfC7leN8JqtN7eFqlF"
+        }
+      ],
+      "duration_ms": 160344,
+      "name": "Map Vini (Kilo jam)",
+      "url": "https://open.spotify.com/track/23VB836x5wXVQRXKmLt86J"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/1kDGXvAOgTeao16BFyYwm9"
-      },
-      "artists": [
-        {
-          "name": "Little Magic Sam",
-          "url": "https://open.spotify.com/artist/7dpdHV7UXA4uvsVivR2HfU"
-        }
-      ],
-      "duration_ms": 208522,
-      "name": "Big Bad Wolf",
-      "url": "https://open.spotify.com/track/24gsxG89W5JkgZQFh4B1mM"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Know the Shades",
         "url": "https://open.spotify.com/album/6GEdiD8MsFcVr62uH2jXSi"
       },
@@ -2423,6 +2407,38 @@
       "duration_ms": 127031,
       "name": "Still Ppl",
       "url": "https://open.spotify.com/track/7cbsd3eAZOLGpT0YBQNavl"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/1kDGXvAOgTeao16BFyYwm9"
+      },
+      "artists": [
+        {
+          "name": "Little Magic Sam",
+          "url": "https://open.spotify.com/artist/7dpdHV7UXA4uvsVivR2HfU"
+        }
+      ],
+      "duration_ms": 208522,
+      "name": "Big Bad Wolf",
+      "url": "https://open.spotify.com/track/24gsxG89W5JkgZQFh4B1mM"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Creatures of the Late Afternoon",
+        "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 144760,
+      "name": "1000 Towns",
+      "url": "https://open.spotify.com/track/1CVqnk1ilxgitab7JONA81"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2447,22 +2463,6 @@
       "duration_ms": 251153,
       "name": "Inward, Curve",
       "url": "https://open.spotify.com/track/5bMpTLFznBHWKFf5e9vFMt"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Creatures of the Late Afternoon",
-        "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "1000 Towns",
-      "url": "https://open.spotify.com/track/1CVqnk1ilxgitab7JONA81"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2627,22 +2627,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 241395,
-      "name": "Higher Self",
-      "url": "https://open.spotify.com/track/7IMH2ITlILmprZFaHrUbVt"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "CHANTE'S GROOVE",
         "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
       },
@@ -2655,6 +2639,22 @@
       "duration_ms": 230649,
       "name": "HANGING WITH YOU",
       "url": "https://open.spotify.com/track/5kWQ5PENkfsF4C2MEFmiY7"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 241395,
+      "name": "Higher Self",
+      "url": "https://open.spotify.com/track/7IMH2ITlILmprZFaHrUbVt"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2675,6 +2675,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/7yKyv622MMKCYo9YJZSK8R"
+      },
+      "artists": [
+        {
+          "name": "Lowdown Brass Band",
+          "url": "https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u"
+        }
+      ],
+      "duration_ms": 216072,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/0SIM57FWfQF56r4K1WwWDD"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Bridge",
         "url": "https://open.spotify.com/album/5ggnDDpZa11EvVrt2oB3Bi"
       },
@@ -2691,22 +2707,6 @@
       "duration_ms": 233583,
       "name": "Dingi Do",
       "url": "https://open.spotify.com/track/72sN8axRC8SS0hDYY7QnnJ"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Activate",
-        "url": "https://open.spotify.com/album/7yKyv622MMKCYo9YJZSK8R"
-      },
-      "artists": [
-        {
-          "name": "Lowdown Brass Band",
-          "url": "https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u"
-        }
-      ],
-      "duration_ms": 216072,
-      "name": "Activate",
-      "url": "https://open.spotify.com/track/0SIM57FWfQF56r4K1WwWDD"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2747,18 +2747,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "HaricoT VerT (Radio Edit)",
-        "url": "https://open.spotify.com/album/4JaprUth0bRNOf6A48E0iA"
+        "name": "ACTE III",
+        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
       },
       "artists": [
         {
-          "name": "Jowee Omicil",
-          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+          "name": "Simon Leoza",
+          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
         }
       ],
-      "duration_ms": 182000,
-      "name": "HaricoT VerT",
-      "url": "https://open.spotify.com/track/2XQ1smWrmlLwKxmQfl1NP2"
+      "duration_ms": 105893,
+      "name": "III {dolce}",
+      "url": "https://open.spotify.com/track/2Rgc2E61hEVJ2YEAbzFMgL"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2779,18 +2779,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "ACTE III",
-        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
+        "name": "HaricoT VerT (Radio Edit)",
+        "url": "https://open.spotify.com/album/4JaprUth0bRNOf6A48E0iA"
       },
       "artists": [
         {
-          "name": "Simon Leoza",
-          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
         }
       ],
-      "duration_ms": 105893,
-      "name": "III {dolce}",
-      "url": "https://open.spotify.com/track/2Rgc2E61hEVJ2YEAbzFMgL"
+      "duration_ms": 182000,
+      "name": "HaricoT VerT",
+      "url": "https://open.spotify.com/track/2XQ1smWrmlLwKxmQfl1NP2"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2883,6 +2883,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Love Will Be Reborn (Deluxe)",
         "url": "https://open.spotify.com/album/27vXJV6El2FMUGMGeRWTHp"
       },
@@ -2899,18 +2915,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+        "name": "Latiendo la tierra",
+        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "No\u00e9 Lira",
+          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
         }
       ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+      "duration_ms": 263000,
+      "name": "R\u00edndete",
+      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2931,22 +2947,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Kindred",
-        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
-      },
-      "artists": [
-        {
-          "name": "Doxas Brothers",
-          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
-        }
-      ],
-      "duration_ms": 353002,
-      "name": "Two's a Crowd",
-      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Root in Tandem",
         "url": "https://open.spotify.com/album/6oru4puvNWMC1y7ld5qVqZ"
       },
@@ -2963,18 +2963,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Latiendo la tierra",
-        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
       },
       "artists": [
         {
-          "name": "No\u00e9 Lira",
-          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
+          "name": "Doxas Brothers",
+          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
         }
       ],
-      "duration_ms": 263000,
-      "name": "R\u00edndete",
-      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
+      "duration_ms": 353002,
+      "name": "Two's a Crowd",
+      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3043,22 +3043,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Coubli",
-        "url": "https://open.spotify.com/album/2TNL4KZztaUQ6qqxt1khB9"
+        "name": "Steppin' Out!",
+        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
       },
       "artists": [
         {
-          "name": "Donald Dogbo",
-          "url": "https://open.spotify.com/artist/6yaw7dNoMEZNXdcdjBzmiK"
-        },
-        {
-          "name": "Noel Mpiaza",
-          "url": "https://open.spotify.com/artist/7gphGsqZmLr2ddNS7hdZHd"
+          "name": "Mariel Bildsten",
+          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
         }
       ],
-      "duration_ms": 226560,
-      "name": "Na Zamba",
-      "url": "https://open.spotify.com/track/0KK3Rrwke8oAQP8lWPTrv1"
+      "duration_ms": 171824,
+      "name": "Downtown Uproar",
+      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3079,18 +3075,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Steppin' Out!",
-        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
+        "name": "Coubli",
+        "url": "https://open.spotify.com/album/2TNL4KZztaUQ6qqxt1khB9"
       },
       "artists": [
         {
-          "name": "Mariel Bildsten",
-          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
+          "name": "Donald Dogbo",
+          "url": "https://open.spotify.com/artist/6yaw7dNoMEZNXdcdjBzmiK"
+        },
+        {
+          "name": "Noel Mpiaza",
+          "url": "https://open.spotify.com/artist/7gphGsqZmLr2ddNS7hdZHd"
         }
       ],
-      "duration_ms": 171824,
-      "name": "Downtown Uproar",
-      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
+      "duration_ms": 226560,
+      "name": "Na Zamba",
+      "url": "https://open.spotify.com/track/0KK3Rrwke8oAQP8lWPTrv1"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3123,6 +3123,22 @@
       "duration_ms": 216533,
       "name": "L\u00f3t B\u00f3",
       "url": "https://open.spotify.com/track/7HBQHG3g9hbJEaIbuonDXj"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Memory Blues",
+        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
+      },
+      "artists": [
+        {
+          "name": "Endrick & the Sandwiches",
+          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Memory Blues",
+      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3163,18 +3179,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Memory Blues",
-        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
+        "name": "Nou La",
+        "url": "https://open.spotify.com/album/1X4uiKHEUWzqbAd6kg9As9"
       },
       "artists": [
         {
-          "name": "Endrick & the Sandwiches",
-          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
+          "name": "Rara Soley",
+          "url": "https://open.spotify.com/artist/6Q22qyiwJzmynZxkjXur1b"
         }
       ],
-      "duration_ms": 214903,
-      "name": "Memory Blues",
-      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
+      "duration_ms": 222648,
+      "name": "Tanboum Sa La",
+      "url": "https://open.spotify.com/track/399kaQPiQ5Z1iKSqHQNCmM"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3191,22 +3207,6 @@
       "duration_ms": 444706,
       "name": "Promesse de souvenirs",
       "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Nou La",
-        "url": "https://open.spotify.com/album/1X4uiKHEUWzqbAd6kg9As9"
-      },
-      "artists": [
-        {
-          "name": "Rara Soley",
-          "url": "https://open.spotify.com/artist/6Q22qyiwJzmynZxkjXur1b"
-        }
-      ],
-      "duration_ms": 222648,
-      "name": "Tanboum Sa La",
-      "url": "https://open.spotify.com/track/399kaQPiQ5Z1iKSqHQNCmM"
     },
     {
       "added_at": "2024-06-28 14:45:02",

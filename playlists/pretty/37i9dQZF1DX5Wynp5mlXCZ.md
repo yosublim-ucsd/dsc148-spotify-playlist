@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Jerry Heil
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,601 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,602 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 63 | [Золото](https://open.spotify.com/track/7hfy7FKJ4YukP5QHWa8rPG) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Золото](https://open.spotify.com/album/2Sj5shmODB688jVan9pQMq) | 2:45 |
 | 64 | [ЖАЛІ](https://open.spotify.com/track/1Dv2mryPZodUxYKUua5Q6o) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [ЖАЛІ](https://open.spotify.com/album/0x7CE5PgEBn7Br8x8eOvWv) | 2:14 |
 | 65 | [ШІ](https://open.spotify.com/track/0bBg8IU53bQwAkEdd7gWO4) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [ШІ](https://open.spotify.com/album/4DTse4GsSMsafSyX1EHjZj) | 2:51 |
-| 66 | [Що ти наробила](https://open.spotify.com/track/09wwxRJurrzTPZDoomn6bB) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Лірика](https://open.spotify.com/album/3HuR9wpNnz0Xu17RXm5OuD) | 2:50 |
-| 67 | [Тихий дощ](https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Тихий дощ](https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci) | 2:26 |
+| 66 | [Тихий дощ](https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Тихий дощ](https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci) | 2:26 |
+| 67 | [Що ти наробила](https://open.spotify.com/track/09wwxRJurrzTPZDoomn6bB) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Лірика](https://open.spotify.com/album/3HuR9wpNnz0Xu17RXm5OuD) | 2:50 |
 | 68 | [Каланхое](https://open.spotify.com/track/4YgV3rfa56cZaxJm3zsyB2) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [Pozdniakov](https://open.spotify.com/artist/69c9d1s70PiMSiJPMrLxpa) | [Каланхое](https://open.spotify.com/album/1nq5GccsxAwC7OB3dEHgxx) | 3:06 |
 | 69 | [Лілії](https://open.spotify.com/track/7u7rNKlamHbQtheoIWHaHx) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Лілії](https://open.spotify.com/album/7iPyDgnEhfCliTHyIsaOwW) | 2:41 |
 | 70 | [На самоті](https://open.spotify.com/track/63tLykrWEz9LzOCBeYKFhS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [На самоті](https://open.spotify.com/album/5Uy1181hlFhtb2NRAiF3Ge) | 2:11 |

@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-837 songs - 1 day 18 hr 8 min
+838 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-16 | 2024-08-09 |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-28 | 2024-12-06 |
 | [Länge Leve Vi](https://open.spotify.com/track/6Pqrm55DFjQZQi8jC2yBVa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Länge Leve Vi](https://open.spotify.com/album/41ZBBb4dGrgz1mc3O4BegY) | 2:41 | 2022-02-03 | 2022-02-18 |
+| [Längesen](https://open.spotify.com/track/40yRQySDfSc5I6SoZzRLxZ) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Längesen](https://open.spotify.com/album/0Fo160cTKdluGDAueV4aAy) | 2:39 | 2024-12-24 |  |
 | [Längesen \- Epilog](https://open.spotify.com/track/2pcc6gSKnjdRrzuXvo0Bzz) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Vart trött sen 98](https://open.spotify.com/album/3rjXf1oKR0Gfj383FwercY) | 4:26 | 2023-09-14 | 2023-10-18 |
 | [Lät dig gå](https://open.spotify.com/track/1g40cny7c9aWjsdlzZYcxE) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [SAD ROMANCE PT.1](https://open.spotify.com/album/2GJqKh5nAW3FuRJouYilKU) | 3:15 | 2024-07-04 | 2024-09-13 |
 | [Lättdistraherad](https://open.spotify.com/track/6CXc1Q9IBBxfOQVQCYBMhk) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Lättdistraherad](https://open.spotify.com/album/6JSgAWoN9pLS9Jn6O4NiXX) | 3:01 | 2022-11-10 | 2022-12-09 |
@@ -810,7 +811,7 @@
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-13 | 2023-12-09 |
 | [What's the Point](https://open.spotify.com/track/1Cuthw0weFlC2xFEq0Pdlc) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [What's the Point](https://open.spotify.com/album/3hx0O19NU7TD8eAzg48v34) | 3:41 | 2022-11-17 | 2023-03-25 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-18 | 2024-08-16 |
-| [When Good Ain’t Good](https://open.spotify.com/track/6RRRPPrWxVFhYIjgNlLYee) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [When Good Ain’t Good](https://open.spotify.com/album/7uaN2OVRN4ly3Ekxvy6NW8) | 3:20 | 2024-12-12 |  |
+| [When Good Ain’t Good](https://open.spotify.com/track/6RRRPPrWxVFhYIjgNlLYee) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [When Good Ain’t Good](https://open.spotify.com/album/7uaN2OVRN4ly3Ekxvy6NW8) | 3:20 | 2024-12-12 | 2024-12-25 |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2021-12-30 | 2022-02-04 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-03-31 | 2022-05-05 |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-12-16 | 2022-05-14 |

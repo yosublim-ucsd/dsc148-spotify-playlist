@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating 20 years of <a href="https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=Bcz\-5Qg9RJSvtysyXHAJxw">Zamajobe's</a> phenomenal "Ndawo Yami".
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,404 likes - 60 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,504 likes - 60 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 23 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
 | 24 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
 | 25 | [Lwandle](https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Ibutho](https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2) | 5:11 |
-| 26 | [Indigo Girl](https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [In The Meantime](https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ) | 3:00 |
-| 27 | [Umqombothi](https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [Best Of](https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd) | 4:56 |
+| 26 | [Umqombothi](https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [Best Of](https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd) | 4:56 |
+| 27 | [Indigo Girl](https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [In The Meantime](https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ) | 3:00 |
 | 28 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
 | 29 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
 | 30 | [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 49 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
 | 50 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 51 | [Tot Die Son Uitkom](https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 4:56 |
-| 52 | [Thula Mama](https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM) | [Sibongile Khumalo](https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI) | [Ancient Evening](https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT) | 4:06 |
+| 52 | [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 |
 | 53 | [Ndiredi](https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Grand Masters](https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj) | 4:56 |
 | 54 | [Magesh](https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 4:29 |
-| 55 | [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 |
+| 55 | [Thula Mama](https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM) | [Sibongile Khumalo](https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI) | [Ancient Evening](https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT) | 4:06 |
 | 56 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
 | 57 | [Pot Belly](https://open.spotify.com/track/3mYsWA2ClF84ZLroBpreo1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Ma'cheri](https://open.spotify.com/album/19n9b6PD8x6clAdrqEXaWe) | 4:11 |
 | 58 | [Roba Letheka](https://open.spotify.com/track/5Y3V1EP3PhEuriQnsloibv) | [Ishmael](https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08) | [Roba Letheka](https://open.spotify.com/album/6rIrhFTuKliZLJEubiBkre) | 5:39 |

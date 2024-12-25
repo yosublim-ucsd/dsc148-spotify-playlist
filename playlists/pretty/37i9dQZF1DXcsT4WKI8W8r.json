@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 317906,
+  "num_followers": 317901,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 245629,
-      "name": "I know it won't work",
-      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 245629,
+      "name": "I know it won't work",
+      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 249866,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Working Class Dog",
-        "url": "https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D"
-      },
-      "artists": [
-        {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 175466,
       "name": "hate u love u",
       "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
+      },
+      "artists": [
+        {
+          "name": "Joel Adams",
+          "url": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
-      },
-      "artists": [
-        {
-          "name": "Joel Adams",
-          "url": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 234106,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Homesick (with Sam Fender)",
         "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 193377,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Eleven",
-        "url": "https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Eleven",
-      "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Carla",
-        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
-      },
-      "artists": [
-        {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "B-A-B-Y",
-      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx"
       },
@@ -2271,18 +2255,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2"
+        "name": "Carla",
+        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
         }
       ],
-      "duration_ms": 157220,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74"
+      "duration_ms": 177000,
+      "name": "B-A-B-Y",
+      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2315,6 +2299,22 @@
       "duration_ms": 154817,
       "name": "The Bakery",
       "url": "https://open.spotify.com/track/5xlntPcXIDzcpHZjpQKcU2"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 157220,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74"
     },
     {
       "added_at": "2024-04-05 00:00:00",

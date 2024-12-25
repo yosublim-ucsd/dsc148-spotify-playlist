@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Laufey",
-  "num_followers": 70455,
+  "num_followers": 70458,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Live Friday The 13th",
         "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 379013,
       "name": "She Will Be Loved - Live",
       "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "mine (Live From The Belasco)",
-        "url": "https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 202338,
-      "name": "mine - Live From The Belasco",
-      "url": "https://open.spotify.com/track/4fsliuqbTlP2eHebr8ntJW"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "New Rules (Live)",
         "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "mine (Live From The Belasco)",
+        "url": "https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 202338,
+      "name": "mine - Live From The Belasco",
+      "url": "https://open.spotify.com/track/4fsliuqbTlP2eHebr8ntJW"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Whitney Houston Live: Her Greatest Performances",
         "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 226226,
       "name": "My Love Is Your Love - Live from Late Show with David Letterman",
       "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Spiceworld (25th Anniversary)",
-        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Stop - Live In Madrid, Spain / 1998",
-      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1603,6 +1587,22 @@
       "duration_ms": 262173,
       "name": "Alone - Live",
       "url": "https://open.spotify.com/track/4gLEaNDI7wk8SJNqyprEAd"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Stop - Live In Madrid, Spain / 1998",
+      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
     },
     {
       "added_at": "2024-10-18 19:54:54",

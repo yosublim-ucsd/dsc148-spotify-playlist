@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 533303,
+  "num_followers": 533272,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
         "name": "Writing of Blues and Yellows (Deluxe Version)",
         "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 195200,
       "name": "Autumn Town Leaves",
       "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "Right Back to It",
-      "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Changes All The Time",
-        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 279429,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
       },
       "artists": [
         {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 203986,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 208271,
       "name": "toothache",
       "url": "https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
         "name": "The Commons",
         "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+        "name": "Lovers to Strangers",
+        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+      "duration_ms": 174086,
+      "name": "Lovers to Strangers",
+      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1209,22 +1225,6 @@
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
     },
     {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
-        "name": "Lovers to Strangers",
-        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 174086,
-      "name": "Lovers to Strangers",
-      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
-    },
-    {
       "added_at": "2024-10-17 23:41:05",
       "album": {
         "name": "Crown",
@@ -1239,22 +1239,6 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
-        "name": "Like I Used To",
-        "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
         "name": "Never, No Not Once",
         "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 298864,
       "name": "Never, No Not Once",
       "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Is It?",
+        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 315040,
+      "name": "Days Of Lantana",
+      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Is It?",
-        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 315040,
-      "name": "Days Of Lantana",
-      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "God Save The Animals",
         "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 415969,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 170315,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/6tDTR7BdMt8sRUgKTRDDvj"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 415969,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Laugh Track",
-        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 269440,
-      "name": "Deep End (Paul's in Pieces)",
-      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Heaven in the Right Light",
         "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 220955,
       "name": "Heaven in the Right Light",
       "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 269440,
+      "name": "Deep End (Paul's in Pieces)",
+      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
     },
     {
       "added_at": "2024-10-03 23:15:00",

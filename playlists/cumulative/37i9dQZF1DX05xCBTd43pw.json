@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Chlorine",
+        "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
+      },
+      "artists": [
+        {
+          "name": "Sivilian",
+          "url": "https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180590,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
+    },
+    {
+      "album": {
         "name": "Coastline",
         "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
       },
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 182408,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"

@@ -198,10 +198,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 188 | [Coda](https://open.spotify.com/track/1Nk4O287pOo9TUYQicHw0v) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:22 |
 | 189 | [Change Your Mind](https://open.spotify.com/track/5kytpT5jLg0DNCmYKrtcuA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 5:31 |
 | 190 | [At Sunset Sunrise Blooms](https://open.spotify.com/track/2MgE9yGRVvHbH7RXAqfPI7) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 5:53 |
-| 191 | [Follows You Around](https://open.spotify.com/track/0DzNcnjXJhbh54bcJKNmld) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:48 |
-| 192 | [Pretty Words](https://open.spotify.com/track/3A6rIUd9uq9ZaEaHkXF7wK) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:38 |
-| 193 | [Bounty](https://open.spotify.com/track/2LtHvG5lx91a1b5Aoo57LB) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 1:52 |
-| 194 | [Elements](https://open.spotify.com/track/6MRMSQYiPPeFJWEXKH136g) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Jigsaw](https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy) | 3:40 |
+| 191 | [Pretty Words](https://open.spotify.com/track/3A6rIUd9uq9ZaEaHkXF7wK) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [No Summer](https://open.spotify.com/album/7L8R8rNEPbdgW4IT2MlBJR) | 3:38 |
+| 192 | [Follows You Around](https://open.spotify.com/track/0DzNcnjXJhbh54bcJKNmld) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 3:48 |
+| 193 | [Elements](https://open.spotify.com/track/6MRMSQYiPPeFJWEXKH136g) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Jigsaw](https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy) | 3:40 |
+| 194 | [Bounty](https://open.spotify.com/track/2LtHvG5lx91a1b5Aoo57LB) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 1:52 |
 | 195 | [ibrokethecode](https://open.spotify.com/track/4xRrD5boVo7KkzJYnrRfxy) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Rage And Purity](https://open.spotify.com/album/4hTyOxDLEtlhgans5HvLyP) | 3:31 |
 | 196 | [Lake City](https://open.spotify.com/track/17ei6zcl7nYlpiYXkVZaFt) | [Tangerine](https://open.spotify.com/artist/0H626IQejaQUX7Baiy9e62) | [White Dove](https://open.spotify.com/album/2LGHjFv7KrNlbxARw8gpSR) | 4:04 |
 | 197 | [Right Here](https://open.spotify.com/track/2jHhED4R4Kwqdu1Ya9xeRW) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:03 |
@@ -226,8 +226,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 216 | [Run](https://open.spotify.com/track/6myniiyBGUHWAOaX5EZsMv) | [EPONINE](https://open.spotify.com/artist/7tk9eplTvEzG2Dsg0MUq8I) | [Run](https://open.spotify.com/album/5wovmSS3zYbMi1MgnXqHbq) | 3:26 |
 | 217 | [Temptation](https://open.spotify.com/track/2GU4Z4apsGkS3YRUewQYU6) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 5:29 |
 | 218 | [West Side Love](https://open.spotify.com/track/2NJPwg17EXbo8inxwwHMgl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 4:26 |
-| 219 | [Beach Bum Palace](https://open.spotify.com/track/16aXAgdJ1gYnX4PB60h9KZ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:28 |
-| 220 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
+| 219 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
+| 220 | [Beach Bum Palace](https://open.spotify.com/track/16aXAgdJ1gYnX4PB60h9KZ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:28 |
 | 221 | [Facade](https://open.spotify.com/track/3SyN9yQx2FHkKJd9hEG9X8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 2:02 |
 | 222 | [Sleeping Through It All](https://open.spotify.com/track/570t0wn5CYRqsMVh2dk8fn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 1:58 |
 | 223 | [Heaven](https://open.spotify.com/track/26EFvel8n1Ky0uba3Ll67H) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:38 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 234 | [What'll I Do](https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 1:12 |
 | 235 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Abk8SgAAAAAeeDLLbV3sWKLBeRTSofYC`
+Snapshot ID: `AblB4AAAAACW5HuXhz1IrPPuOIKTr5oR`

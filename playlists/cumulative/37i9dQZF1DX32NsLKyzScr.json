@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 151961,
       "name": "A Bar Song (Tipsy) [Remix]",
       "url": "https://open.spotify.com/track/0baUuonAecT31Sju50YgOB"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 177524,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -2576,6 +2576,28 @@
       "duration_ms": 230571,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
+    },
+    {
+      "album": {
+        "name": "Body Talk (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132017,
+      "name": "Body Talk (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf"
     },
     {
       "album": {
@@ -5173,6 +5195,28 @@
     },
     {
       "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221448,
+      "name": "Dirty Cash (Money Talks)",
+      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
+    },
+    {
+      "album": {
         "name": "Disco Shepards",
         "url": "https://open.spotify.com/album/26xu8P015SWx9RIVyWLNdW"
       },
@@ -5214,7 +5258,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 164914,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
@@ -5526,7 +5570,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 156567,
       "name": "Don't Stop (The Music)",
       "url": "https://open.spotify.com/track/6x0eMOT5uyCgtmOxzWVATc"
@@ -6647,6 +6691,28 @@
     },
     {
       "album": {
+        "name": "Eusexua (Anyma Remix)",
+        "url": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198808,
+      "name": "Eusexua - Anyma Remix",
+      "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
+    },
+    {
+      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -7336,7 +7402,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
@@ -7876,6 +7942,24 @@
       "duration_ms": 138620,
       "name": "Forget You (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/7gJynFtygTiif6xdoipmUm"
+    },
+    {
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
     },
     {
       "album": {
@@ -8836,7 +8920,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 169846,
       "name": "Grindhouse",
       "url": "https://open.spotify.com/track/7ewecejRd83t9kq8gJEuPS"
@@ -11098,6 +11182,24 @@
       "duration_ms": 204598,
       "name": "Ininna Tora",
       "url": "https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE"
+    },
+    {
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231591,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "album": {
@@ -14585,6 +14687,32 @@
     },
     {
       "album": {
+        "name": "Next To Me",
+        "url": "https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Gaby Gerlis",
+          "url": "https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Next To Me",
+      "url": "https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO"
+    },
+    {
+      "album": {
         "name": "Night And Day",
         "url": "https://open.spotify.com/album/2MZpo7DJrHp20PwvwwRmYF"
       },
@@ -15163,6 +15291,24 @@
     },
     {
       "album": {
+        "name": "NOW IT'S GONE",
+        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143184,
+      "name": "NOW IT'S GONE",
+      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
+    },
+    {
+      "album": {
         "name": "Nuclear Lethargy",
         "url": "https://open.spotify.com/album/1IrOPaGt16r7H2TYbVH83c"
       },
@@ -15288,6 +15434,28 @@
       "duration_ms": 253440,
       "name": "OCB",
       "url": "https://open.spotify.com/track/4fs4MJMbe10cgpF0cvTtb8"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
     },
     {
       "album": {
@@ -15556,7 +15724,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 160529,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
@@ -17108,7 +17276,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 166569,
       "name": "Rainfall (Praise You)",
       "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
@@ -17280,7 +17448,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 241793,
       "name": "Ray Of Solar",
       "url": "https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"
@@ -18786,7 +18954,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 213230,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6"
@@ -19026,6 +19194,28 @@
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+    },
+    {
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "album": {
@@ -21948,7 +22138,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 175327,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/5tkVC8EcUXEZNwmD45e7tq"
@@ -22316,6 +22506,28 @@
       "duration_ms": 194571,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/00JoqMc5KZFLpdrtymo6f0"
+    },
+    {
+      "album": {
+        "name": "The Days (NOTION Remix)",
+        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233229,
+      "name": "The Days - NOTION Remix",
+      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
       "album": {
@@ -23272,7 +23484,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 152222,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9"
@@ -24714,7 +24926,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 213582,
       "name": "When I Push - Edit",
       "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
@@ -25678,6 +25890,28 @@
       "duration_ms": 153569,
       "name": "YES B!TCH (feat. Rome Fortune)",
       "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173549,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK"
     },
     {
       "album": {

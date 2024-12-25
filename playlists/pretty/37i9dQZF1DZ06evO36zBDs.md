@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,529 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,530 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 | 15 | [秋のグラディエント](https://open.spotify.com/track/456cTdcgwfzcrK17CfLkai) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [秋のグラディエント](https://open.spotify.com/album/51aHYrPJAQ5wu3zyKoRBmJ) | 3:59 |
 | 16 | [Blue Canvas](https://open.spotify.com/track/1tFRgAu3lDcldqS6Xx5WQj) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Blue Canvas](https://open.spotify.com/album/7GS0RipKu1bMAMMul4Q9mY) | 3:47 |
 | 17 | [Masquerade](https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG) | 3:57 |
-| 18 | [reunion](https://open.spotify.com/track/3wvJE9X8azs237ZMPKsz33) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:50 |
-| 19 | [ふぉりら](https://open.spotify.com/track/10Oq2X4RVbAn4ZHOsVi7yn) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ふぉりら](https://open.spotify.com/album/1HExkowmkR1bvHMvrP4AcJ) | 3:44 |
-| 20 | [secret base 〜君がくれたもの〜](https://open.spotify.com/track/1jdLeQ1vyU9POww0oY8Smy) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS －夏のうた－](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 4:58 |
+| 18 | [ふぉりら](https://open.spotify.com/track/10Oq2X4RVbAn4ZHOsVi7yn) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ふぉりら](https://open.spotify.com/album/1HExkowmkR1bvHMvrP4AcJ) | 3:44 |
+| 19 | [secret base 〜君がくれたもの〜](https://open.spotify.com/track/1jdLeQ1vyU9POww0oY8Smy) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS －夏のうた－](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 4:58 |
+| 20 | [reunion](https://open.spotify.com/track/3wvJE9X8azs237ZMPKsz33) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:50 |
 | 21 | [アリシア](https://open.spotify.com/track/48bApuUSPxV0TY1CeBXFfe) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 3:51 |
 | 22 | [木枯しに抱かれて](https://open.spotify.com/track/3z9LoNHZWQXNFeTrIRCkaq) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [木枯しに抱かれて](https://open.spotify.com/album/3rF3uWuFZyiwUMhMpQKYDZ) | 3:45 |
 | 23 | [border](https://open.spotify.com/track/1ZVZKOmy9RS4GhJ5Epj5MN) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 〜SINGLE BEST 1st〜](https://open.spotify.com/album/4QRz46oz5smqLdihwyl2bX) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 | 49 | [コネクト \-ゲームインスト\-](https://open.spotify.com/track/6O7dVp1w20oN5dUjGVytoQ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:34 |
 | 50 | [シニカルサスペンス](https://open.spotify.com/track/4vn1bXoRyMZwqO4B9ihOTn) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:12 |
 
-Snapshot ID: `Z2dWgAAAAAAPeDtYyTrtiP21Qu6IVQlV`
+Snapshot ID: `Z2ioAAAAAAAe6ttirbH1IHB/b4JPe4DB`

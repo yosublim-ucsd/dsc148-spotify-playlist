@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 782 likes - 253 songs - 13 hr 32 min
+[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 783 likes - 278 songs - 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,5 +261,30 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 251 | [Angel Of Wrath \- Lute Exorcist Leader Song](https://open.spotify.com/track/3EOiDVx6xr9XCqy77bjNzg) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Angel Of Wrath \(Lute Exorcist Leader Song\)](https://open.spotify.com/album/4Q5oXfpUJwMm1llyY5btdd) | 2:57 |
 | 252 | [Hell's Greatest Mom \- Lilith, Rosie & Carmilla Version](https://open.spotify.com/track/5Br9fRLfhtrM0QEzvomJwS) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Hell's Greatest Mom \(Lilith, Rosie & Carmilla Version\)](https://open.spotify.com/album/7zPTqqZhparwpPcDtFXCcf) | 2:16 |
 | 253 | [What a Hellhole \- Sinner Adam Song](https://open.spotify.com/track/4IZnhuNYLbLpn7jxo10uF8) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO), [EggOnYourLeg](https://open.spotify.com/artist/1JINyD79RTJCCR1kf8WKen) | [What a Hellhole \(Sinner Adam Song\)](https://open.spotify.com/album/2Dk8I86os3rOvKRyZTuuaf) | 2:52 |
+| 254 | [Puro the Black Goo](https://open.spotify.com/track/2Fcj8MCckSuyqAVrMHWNSQ) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:58 |
+| 255 | [Black Goo Zone](https://open.spotify.com/track/0pxSg6zPFFeMNgQS3z1VeL) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:51 |
+| 256 | [Finale](https://open.spotify.com/track/08M5GWFHliLgeaoF473xl4) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:31 |
+| 257 | [Laboratory](https://open.spotify.com/track/7h25e8n5b1qCCDGgE5OfZy) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 2:08 |
+| 258 | [Crystal Zone](https://open.spotify.com/track/6NYHkQY73FZVMSvrwyk0JZ) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:53 |
+| 259 | [The Library](https://open.spotify.com/track/5kl9IJlQuFjoaxsmNFy2NW) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:36 |
+| 260 | [Puro's Home](https://open.spotify.com/track/172R0wRMnR0DDXYO6NNE16) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:53 |
+| 261 | [The Shark](https://open.spotify.com/track/1lm54EgMfCwFKATamXEcDh) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:36 |
+| 262 | [Crystal Dragon](https://open.spotify.com/track/0Wp7IQgeel1KOOBF1KHLbb) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:00 |
+| 263 | [White Goo Jungle](https://open.spotify.com/track/1UZhtfHDCyes8L8rQ6JoJx) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:22 |
+| 264 | [The Squid Dog](https://open.spotify.com/track/5gNnMZJRHIUo0ww4yD6P06) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:36 |
+| 265 | [Vent Pipe](https://open.spotify.com/track/5wTZuPHVfLv4tvRVfzgNs9) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 3:05 |
+| 266 | [Outside of the Tower](https://open.spotify.com/track/7l4yvxMDqbxzukX6HpJVmf) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:42 |
+| 267 | [Cruel Truth](https://open.spotify.com/track/1PVGtOCWV76Kqw8uIbArGp) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:57 |
+| 268 | [Lion Chase](https://open.spotify.com/track/50u7TEWP1pOa9MtNPKfybg) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:51 |
+| 269 | [Scarlet Crystal Mine](https://open.spotify.com/track/4LVg0DxN1rLXQ3Eun0n4gj) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:42 |
+| 270 | [The White Knight](https://open.spotify.com/track/0OyTaQP0R5UqZundziYuPg) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:19 |
+| 271 | [Cat Chase](https://open.spotify.com/track/042ImWHeDEIWwx9ZEBQSF6) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:19 |
+| 272 | [Gas Room](https://open.spotify.com/track/0fu0mSr6Da9I8DZljOZ46B) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:45 |
+| 273 | [The White Tail Chase A](https://open.spotify.com/track/6fUDwkHtunhIY0JYZhawAG) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:51 |
+| 274 | [The White Tail Chase B](https://open.spotify.com/track/0VkUv3qXipRUWpbYJyBoB0) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:51 |
+| 275 | [Vent Pipe Cheetar Chase](https://open.spotify.com/track/3K8dvEFJaXkG7mMd9a5HPy) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:08 |
+| 276 | [The Bad End](https://open.spotify.com/track/2t9WfgABrzFz8mf1mneGaq) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:11 |
+| 277 | [Birthday Song](https://open.spotify.com/track/4D9ySWAIUxMWdWeNmsLuva) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:18 |
+| 278 | [Puro Dance](https://open.spotify.com/track/17lvuXGfdOBXEact6fPlPQ) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:10 |
 
-Snapshot ID: `AAABMuwYVqYb94GYbJD+anvaMByNXgVT`
+Snapshot ID: `AAABSyHgCKoIKWl/VFnWnTUk1NYCyFvi`

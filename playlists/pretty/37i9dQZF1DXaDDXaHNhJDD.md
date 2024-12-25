@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Our editor’s picks for best Malayalam songs of the year \#SpotifyWrapped Cover : Manjummel Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,756 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,847 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 261 songs - 15 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 261 songs - 15 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 140 | [So Many Girls \(feat\. Wale, Tyga & Roscoe Dash\)](https://open.spotify.com/track/754Nn1HILpvQccXy2uvgZf) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 3:29 |
 | 141 | [Checking For You](https://open.spotify.com/track/19Qduas1mZwiAr4yUuBZXC) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:34 |
 | 142 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
-| 143 | [Blood, Sweat, Tears](https://open.spotify.com/track/4EpDZxSApKaod3PVqT5ben) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:23 |
-| 144 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 143 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
+| 144 | [Blood, Sweat, Tears](https://open.spotify.com/track/4EpDZxSApKaod3PVqT5ben) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 4:23 |
 | 145 | [Secrets](https://open.spotify.com/track/5pAaXHSlxNLfS6RQBrpjm5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Secrets](https://open.spotify.com/album/3ETzU5ugHCLSTN2xCgfoBK) | 3:46 |
 | 146 | [Brown Skin Girl \(feat\. Sean Paul\)](https://open.spotify.com/track/037FXn5nBi0wMkAue12Jke) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Graffiti \(Expanded Edition\)](https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D) | 4:13 |
 | 147 | [Blow It All](https://open.spotify.com/track/3A88PZgZXXeacwWhwwtZdR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 2:58 |
@@ -193,8 +193,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 183 | [Live by the Gun \(feat\. Akon\)](https://open.spotify.com/track/0CxCpL8uCAwThYevFxv6bb) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:42 |
 | 184 | [On The Side](https://open.spotify.com/track/0vlKJXqCvW05Hb2efMix80) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:03 |
 | 185 | [Your Sister](https://open.spotify.com/track/4VYEAooWTvX0wNhOn2M0TF) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:30 |
-| 186 | [What Happens Here](https://open.spotify.com/track/17tuHcxhRbZADp4kU7Lrfs) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 |
-| 187 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 186 | [DRIP](https://open.spotify.com/track/0tm9DIEzTP7VAUEpblQYxb) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/3fkWEBS1wlYc6mXv76PiUC) | 2:22 |
+| 187 | [What Happens Here](https://open.spotify.com/track/17tuHcxhRbZADp4kU7Lrfs) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 |
 | 188 | [Lullaby](https://open.spotify.com/track/1EIhpG65DWoQDPSxwGu311) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:46 |
 | 189 | [Shinin'](https://open.spotify.com/track/5B5an7jeVLFK4yQsuiF7bT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:35 |
 | 190 | [Priceless \(feat\. Birdman\)](https://open.spotify.com/track/5tZVtpHvB1JecqHLP6XuR3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:52 |
@@ -254,8 +254,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 244 | [Hustle \(feat\. Turf Talk & R\. City\)](https://open.spotify.com/track/2Ciludxr3qvZ0Qo1FeDfXF) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Turf Talk](https://open.spotify.com/artist/4KaPpMa2dJyBtUS2UoJTyM) | [The Ball Street Journal \(Explicit Version\)](https://open.spotify.com/album/0BQ8wXGS0WNrNiTEQpJDwv) | 4:17 |
 | 245 | [Sex in the Bathroom \[Ph Electro Remix\]](https://open.spotify.com/track/2BE8RCIL9G9XvW81tnqLlY) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [PH Electro](https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV) | [Swagg \(Remix Edition\)](https://open.spotify.com/album/2N5vfKSQ6dvGGl9hB0Fpnc) | 3:35 |
 | 246 | [Everything Reminds Me Of You](https://open.spotify.com/track/4gM4RFCxPbBnkOsbrhqzxV) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:51 |
-| 247 | [L.A\. Love \(La La\)](https://open.spotify.com/track/518UEkLkoqUipreT1FySZI) | [Universales](https://open.spotify.com/artist/07zqSxVJNb2W8jIt5UAZJc) | [L.A\. Love \(La La\) \[Tribute to Fergie\]](https://open.spotify.com/album/7ooCz1DPsgDUBsnJPH1vcl) | 3:11 |
-| 248 | [I WOKE UP](https://open.spotify.com/track/6mqevjxkKFzckFuiNDE4GQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:28 |
+| 247 | [I WOKE UP](https://open.spotify.com/track/6mqevjxkKFzckFuiNDE4GQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:28 |
+| 248 | [L.A\. Love \(La La\)](https://open.spotify.com/track/518UEkLkoqUipreT1FySZI) | [Universales](https://open.spotify.com/artist/07zqSxVJNb2W8jIt5UAZJc) | [L.A\. Love \(La La\) \[Tribute to Fergie\]](https://open.spotify.com/album/7ooCz1DPsgDUBsnJPH1vcl) | 3:11 |
 | 249 | [No Boys Allowed](https://open.spotify.com/track/3852HBM5GEmZ9NNvmWXZoe) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [No Boys Allowed](https://open.spotify.com/album/1X35eDky87vE6mOd6mrRBS) | 2:58 |
 | 250 | [My Life](https://open.spotify.com/track/7qSR0OfFtYNqsw3buCdhDK) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Matisse](https://open.spotify.com/artist/3sR1FocH7EzvytEiUNm3RH), [Sadko](https://open.spotify.com/artist/2o38eZ4qE1VkB3iu46wYih) | [Swagg](https://open.spotify.com/album/5Cj30m57HKgUcLejhNruHj) | 4:09 |
 | 251 | [Stadium](https://open.spotify.com/track/7CVQNMKzfWgKtawyUr0b6W) | [The Melisizwe Brothers](https://open.spotify.com/artist/2CbEuEC9M3rUxpzYV3pZ8O) | [Stadium](https://open.spotify.com/album/1gTLQYbs9p41kfvNE9zdvk) | 3:27 |
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 260 | [Sunshine \(feat\. JRDN\)](https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Kardi Gras Vol\. 1: The Clash](https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5) | 3:46 |
 | 261 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Abk8NgAAAAAXosrX1RXc+Ox4A4Ck1/4h`
+Snapshot ID: `AblB1gAAAABKlwEbBR105j5FMwEaxiLl`

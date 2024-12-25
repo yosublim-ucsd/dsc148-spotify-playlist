@@ -4,7 +4,7 @@
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 5 min
+84 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [La Fea](https://open.spotify.com/track/70sOEZiQQI6Ml0TFefmAle) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Fea](https://open.spotify.com/album/7la4CbuvW3PdDFhRtALq6f) | 4:05 | 2024-12-15 |  |
 | [La Pareja Ideal \- Live](https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \(Live\)](https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F) | 4:09 | 2024-09-21 |  |
 | [La Pareja Ideal \- Live](https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \- Live](https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR) | 4:09 | 2024-01-29 | 2024-09-21 |
-| [La Super Del Barril](https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [La Super Del Barril](https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo) | 3:17 | 2024-01-29 |  |
+| [La Super Del Barril](https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [La Super Del Barril](https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo) | 3:17 | 2024-01-29 | 2024-12-25 |
 | [Luna](https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:34 | 2024-01-29 |  |
 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 | 2024-01-29 |  |
 | [Me Vuelve Loco](https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd) | 3:52 | 2024-09-20 |  |
@@ -69,6 +69,7 @@
 | [Nunca Se Imaginó](https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:38 | 2024-01-29 |  |
 | [Perfecta](https://open.spotify.com/track/0sh8CBGWBvJyNmWBRhZ8dU) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 3:34 | 2024-09-20 |  |
 | [Perfecta](https://open.spotify.com/track/2pxz6kTVvEUdMwwoeMs70P) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 3:34 | 2024-01-29 | 2024-09-20 |
+| [Promesa Cumplida](https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 5:38 | 2024-12-25 |  |
 | [Que Chulada De Silueta](https://open.spotify.com/track/3gT9spfnbi6P8jbx7RsOQV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/7gpdMTJfi6DTyrnXSIxFGf) | 3:13 | 2024-08-16 | 2024-09-01 |
 | [Que Lloro](https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Que Lloro](https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8) | 4:19 | 2024-01-29 |  |
 | [Que Te Vaya Bien](https://open.spotify.com/track/0ac4sEU1SGqi5wbdrbLA4a) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/3CR0d75jbVjA69ssyD2U9G) | 3:58 | 2024-08-22 |  |

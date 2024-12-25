@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。Cover: MFS
+> Spotifyが注目するニューカマー・プレイリスト。Cover: フジタ カコ
 
-1,728 songs - 4 day 8 hr 14 min
+1,729 songs - 4 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Make a Move](https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Make a Move](https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7) | 2:37 | 2024-10-17 |  |
 | [MakeUWantMe](https://open.spotify.com/track/4yaidbHbdh7lBewqqmKMh3) | [yuzuna](https://open.spotify.com/artist/6mvgiewb7uH8l4qlSuFIgh) | [MakeUWantMe](https://open.spotify.com/album/0sO8q6nHsBm0QSXF5i8gWj) | 3:27 | 2022-06-07 | 2022-06-29 |
 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 | 2023-02-01 | 2023-02-22 |
+| [matadokokade](https://open.spotify.com/track/6sNk0VZa78oZk6jTiJJiuF) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [netemosametemo](https://open.spotify.com/album/3ZtEKkkYYFwYHzxVQm5QH4) | 3:26 | 2024-12-24 |  |
 | [Match Pomp](https://open.spotify.com/track/1s27XQgfXccu3SwpsU3ZBP) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [HUMANIAC](https://open.spotify.com/album/5wYKiUTV4VrL30c638WAME) | 3:11 | 2023-11-14 | 2023-12-20 |
 | [Maybe I should die with you](https://open.spotify.com/track/1SUUK6C8DAteFfcOygsdJo) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3) | 5:35 | 2023-11-21 | 2023-12-13 |
 | [Maybe I should die with you](https://open.spotify.com/track/33W1lz1ejtTU4NOfoesFp2) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/6LblXqNqBXHUMUTLzmhX7C) | 5:35 | 2023-11-21 | 2023-11-23 |
@@ -650,7 +651,7 @@
 | [Omocha Teikoku](https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Omocha Teikoku](https://open.spotify.com/album/43wX4DrD0IYYtMhlfiYevx) | 3:02 | 2023-02-14 | 2023-03-29 |
 | [Once Upon a Night](https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Once Upon a Night](https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe) | 3:45 | 2024-07-23 | 2024-09-25 |
 | [One Summer's Day](https://open.spotify.com/track/0IUFZInFlcfSbVGM97LWLT) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [One Summer's Day](https://open.spotify.com/album/1wuimhObm670hxGPsDSQyb) | 3:48 | 2023-07-18 | 2023-08-30 |
-| [ongakunankakikanakuteiiyouni](https://open.spotify.com/track/2miGY2WqbYUEx8y0QnwJIP) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [ongakunankakikanakuteiiyouni](https://open.spotify.com/album/3NwELJfso6WcGaje3gIXjf) | 3:15 | 2024-12-10 |  |
+| [ongakunankakikanakuteiiyouni](https://open.spotify.com/track/2miGY2WqbYUEx8y0QnwJIP) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [ongakunankakikanakuteiiyouni](https://open.spotify.com/album/3NwELJfso6WcGaje3gIXjf) | 3:15 | 2024-12-10 | 2024-12-25 |
 | [Only Lonely Dance](https://open.spotify.com/track/0FNBV4YHTdrKuXkFJ3sRS8) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Only Lonely Dance](https://open.spotify.com/album/1dHHjhCI1Xmqm1VC35fF0i) | 3:26 | 2024-07-23 | 2024-08-07 |
 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 | 2023-11-28 | 2024-06-12 |
 | [or.or.](https://open.spotify.com/track/6E6EqZBia9Ug3dgrg7vkkw) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [or.or.](https://open.spotify.com/album/3VkjctQEPVVJvBVCcfxwGU) | 3:35 | 2023-06-27 | 2023-08-09 |

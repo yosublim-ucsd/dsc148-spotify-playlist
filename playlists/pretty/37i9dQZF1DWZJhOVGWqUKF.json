@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Barns Courtney",
-  "num_followers": 340262,
+  "num_followers": 340259,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "No Name",
-        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
+        "name": "HURT (feat. The Warning)",
+        "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 191746,
-      "name": "That's How I'm Feeling",
-      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+      "duration_ms": 213924,
+      "name": "HURT (feat. The Warning)",
+      "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -431,6 +435,22 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "That's How I'm Feeling",
+      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
         "name": "+Matter",
         "url": "https://open.spotify.com/album/4nLDWr5orZvPtYwF0yrstO"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 232964,
       "name": "+Matter",
       "url": "https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
-        "name": "HURT (feat. The Warning)",
-        "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 213924,
-      "name": "HURT (feat. The Warning)",
-      "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Forever Cold",
-        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 283714,
-      "name": "Forever Cold",
-      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
         "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
         "url": "https://open.spotify.com/album/6zpeDG4ssHfSC3p9PqUHcv"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 210600,
       "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
       "url": "https://open.spotify.com/track/4ddvYUYsefYyjGoajARAJm"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "Forever Cold",
+        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 283714,
+      "name": "Forever Cold",
+      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
+        "name": "KILLING ME",
+        "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "duration_ms": 223375,
+      "name": "KILLING ME",
+      "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
         "name": "Searching for Tomorrow",
         "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "KILLING ME",
-        "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
+        "name": "DEADBEAT!",
+        "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
       },
       "artists": [
         {
-          "name": "TSS",
-          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
         }
       ],
-      "duration_ms": 223375,
-      "name": "KILLING ME",
-      "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
+      "duration_ms": 146677,
+      "name": "SLEEP WHEN I'M DEAD",
+      "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -879,22 +895,6 @@
       "duration_ms": 186000,
       "name": "7 Minutes in Hell",
       "url": "https://open.spotify.com/track/0n59ZBDoWijyJezvnA13cl"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
-        "name": "DEADBEAT!",
-        "url": "https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 146677,
-      "name": "SLEEP WHEN I'M DEAD",
-      "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Dogs Of War",
-        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Dogs Of War",
-      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
+        "name": "Dogs Of War",
+        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 219346,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
+      "duration_ms": 244466,
+      "name": "Dogs Of War",
+      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1151,6 +1135,22 @@
       "duration_ms": 175000,
       "name": "Angry Cry",
       "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 219346,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Wake Up The Wicked (Deluxe Version)",
-        "url": "https://open.spotify.com/album/41XrkRQLSBThNGddZTKxiN"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 195655,
-      "name": "We Don't Wanna Be No Saints",
-      "url": "https://open.spotify.com/track/3B8gzxlo7uZUFMl3tO5HOo"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 159155,
       "name": "Disease",
       "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "Wake Up The Wicked (Deluxe Version)",
+        "url": "https://open.spotify.com/album/41XrkRQLSBThNGddZTKxiN"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 195655,
+      "name": "We Don't Wanna Be No Saints",
+      "url": "https://open.spotify.com/track/3B8gzxlo7uZUFMl3tO5HOo"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "GALORE",
-        "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
+        "name": "Out Of Style",
+        "url": "https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1"
       },
       "artists": [
         {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         }
       ],
-      "duration_ms": 191666,
-      "name": "Fuse",
-      "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
+      "duration_ms": 205897,
+      "name": "Out Of Style",
+      "url": "https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Out Of Style",
-        "url": "https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1"
+        "name": "GALORE",
+        "url": "https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP"
       },
       "artists": [
         {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        },
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
         }
       ],
-      "duration_ms": 205897,
-      "name": "Out Of Style",
-      "url": "https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k"
+      "duration_ms": 191666,
+      "name": "Fuse",
+      "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "Listen Up",
-        "url": "https://open.spotify.com/album/1fegkigvCLmcXA3jUVn1VT"
-      },
-      "artists": [
-        {
-          "name": "Welshly Arms",
-          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
-        }
-      ],
-      "duration_ms": 183078,
-      "name": "Listen Up",
-      "url": "https://open.spotify.com/track/4IIdwu2qr7CZZsImuArXGx"
-    },
-    {
-      "added_at": "2024-12-19 23:00:41",
-      "album": {
         "name": "American Horse (feat. John Cooper of Skillet and Ayron Jones)",
         "url": "https://open.spotify.com/album/4XSZtfqgfpWiqmfEc7lOtE"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 223992,
       "name": "American Horse (feat. John Cooper of Skillet and Ayron Jones)",
       "url": "https://open.spotify.com/track/30Qr90fqL0EvHCqc0pJz7H"
+    },
+    {
+      "added_at": "2024-12-19 23:00:41",
+      "album": {
+        "name": "Listen Up",
+        "url": "https://open.spotify.com/album/1fegkigvCLmcXA3jUVn1VT"
+      },
+      "artists": [
+        {
+          "name": "Welshly Arms",
+          "url": "https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B"
+        }
+      ],
+      "duration_ms": 183078,
+      "name": "Listen Up",
+      "url": "https://open.spotify.com/track/4IIdwu2qr7CZZsImuArXGx"
     },
     {
       "added_at": "2024-12-19 23:00:41",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-12-19 23:00:41",
       "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/59C8gUScKsa2e1ZdROyYYa"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
         }
       ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
+      "duration_ms": 220285,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/07lDQBet0tjH77t5T1YtGH"
     }
   ],
   "unique_name": "Rock Rotation",

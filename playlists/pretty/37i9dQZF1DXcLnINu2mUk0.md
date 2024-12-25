@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto:  Kappa Jotta, Bispo
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,427 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,438 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 63 | [Contigo](https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Contigo](https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb) | 3:28 |
 | 64 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 65 | [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 |
-| 66 | [NADA É COMO ANTES](https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [NADA É COMO ANTES](https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv) | 3:05 |
-| 67 | [Priceless](https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0) | [Priceless](https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb) | 3:32 |
+| 66 | [Priceless](https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0) | [Priceless](https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb) | 3:32 |
+| 67 | [NADA É COMO ANTES](https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [NADA É COMO ANTES](https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv) | 3:05 |
 | 68 | [Falei](https://open.spotify.com/track/5Zy619AgIQPLjSRYg3jTxb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn), [Dj Verigal](https://open.spotify.com/artist/2LcsmbSSktQ6RYj5VvUQfO), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI), [Kastro Songz](https://open.spotify.com/artist/55B8Gbt3M3EMDbn7gQa3Mr) | [Falei](https://open.spotify.com/album/5YN1UrwqwBwsarG7Y7WUv4) | 2:57 |
 | 69 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 70 | [Mais Que Ouro](https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Mais Que Ouro](https://open.spotify.com/album/2k5Ldk223sveMZ4I6TzuSK) | 2:08 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 72 | [Povo](https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Povo](https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D) | 3:30 |
 | 73 | [longe.com](https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [longe.com](https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA) | 3:17 |
 | 74 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
-| 75 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
+| 75 | [Convite](https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Par Perfeito](https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP) | 2:33 |
 
 Snapshot ID: `Z2V5XwAAAADWWdrX1osLUwjYb0iXku33`

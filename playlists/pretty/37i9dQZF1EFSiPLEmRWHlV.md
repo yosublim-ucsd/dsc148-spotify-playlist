@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257 likes - 129 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 258 likes - 129 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 48 | [Chale \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xY4usHueVpDIWU8P9FnkV) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Chale \(feat\. Clementine Douglas\)](https://open.spotify.com/album/35UOwSRKvYnxQ6ikvHoQJb) | 2:39 |
 | 49 | [Imagine](https://open.spotify.com/track/6IxivWtrcSIjjmEFd4J7Cg) | [Next Habit](https://open.spotify.com/artist/2PPJ3ccorfps8VfCL6i8Rl) | [Imagine](https://open.spotify.com/album/78GyAR4aTtck5cVxlPkaCI) | 3:17 |
 | 50 | [Free \(with Alesso and Clementine Douglas\)](https://open.spotify.com/track/27f6xryEX9cpY0v1mbU83W) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 3:18 |
-| 51 | [Caught In Your Rhythm](https://open.spotify.com/track/2UjMBCiA9gdDoSguLxrbBP) | [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Caught In Your Rhythm](https://open.spotify.com/album/5DksuDz9GUGMV5vOmMBo7U) | 3:11 |
-| 52 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 |
+| 51 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 |
+| 52 | [Caught In Your Rhythm](https://open.spotify.com/track/2UjMBCiA9gdDoSguLxrbBP) | [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Caught In Your Rhythm](https://open.spotify.com/album/5DksuDz9GUGMV5vOmMBo7U) | 3:11 |
 | 53 | [Stay With Me](https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:22 |
 | 54 | [No One Else](https://open.spotify.com/track/2gWRWycfoK1CMbOWKy0bp2) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 4:13 |
 | 55 | [1000 Miles](https://open.spotify.com/track/74NPJ5FDyMzvKi063Zxd5I) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [A View of U](https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481) | 5:41 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 128 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 129 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `Abk8NgAAAACI4BQyYWauY5sORSyJKMas`
+Snapshot ID: `AblB/gAAAABxm8ZzheNR3UnCUocmpYwe`

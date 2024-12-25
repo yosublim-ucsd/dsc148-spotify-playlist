@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 161080,
+  "num_followers": 161094,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "Lo Lo",
+        "url": "https://open.spotify.com/album/2Xg0bqkRobrhZupao0rYp0"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 192034,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/5eNxYmQ2QsFGBYJom4AAiJ"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
         "url": "https://open.spotify.com/album/5gKmNjiXT4IFO5ZLYXJB75"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 171372,
       "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
       "url": "https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
-        "name": "Lo Lo",
-        "url": "https://open.spotify.com/album/2Xg0bqkRobrhZupao0rYp0"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 192034,
-      "name": "Lo Lo",
-      "url": "https://open.spotify.com/track/5eNxYmQ2QsFGBYJom4AAiJ"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "Geeked Up (feat. Tayylor Made)",
+        "url": "https://open.spotify.com/album/210Qa4bQUZbdp5eap1EgqA"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Tayylor Made",
+          "url": "https://open.spotify.com/artist/57Py1vm6mJqT1bfG7pZM7S"
+        }
+      ],
+      "duration_ms": 182079,
+      "name": "Geeked Up (feat. Tayylor Made)",
+      "url": "https://open.spotify.com/track/0fzOjto8tbCRRu8lbI8tll"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -995,22 +1015,18 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
-        "name": "Geeked Up (feat. Tayylor Made)",
-        "url": "https://open.spotify.com/album/210Qa4bQUZbdp5eap1EgqA"
+        "name": "Spire",
+        "url": "https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x"
       },
       "artists": [
         {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Tayylor Made",
-          "url": "https://open.spotify.com/artist/57Py1vm6mJqT1bfG7pZM7S"
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
         }
       ],
-      "duration_ms": 182079,
-      "name": "Geeked Up (feat. Tayylor Made)",
-      "url": "https://open.spotify.com/track/0fzOjto8tbCRRu8lbI8tll"
+      "duration_ms": 252342,
+      "name": "Spire",
+      "url": "https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -1035,22 +1051,6 @@
       "duration_ms": 190344,
       "name": "Dubplate SZN",
       "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
-        "name": "Spire",
-        "url": "https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x"
-      },
-      "artists": [
-        {
-          "name": "S.P.Y",
-          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
-        }
-      ],
-      "duration_ms": 252342,
-      "name": "Spire",
-      "url": "https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "Maw",
+        "url": "https://open.spotify.com/album/4vD6xOvf61P2WMwbUHHe55"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "duration_ms": 263314,
+      "name": "Maw",
+      "url": "https://open.spotify.com/track/3mLCnXMikt5NFbHUBRza4O"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "Polygon (Circadian Remix)",
         "url": "https://open.spotify.com/album/3vDKBvfbL1AXuFt3utoNjm"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 199090,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/212snhBRVS4zmxEILBd7K1"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
-        "name": "Maw",
-        "url": "https://open.spotify.com/album/4vD6xOvf61P2WMwbUHHe55"
-      },
-      "artists": [
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 263314,
-      "name": "Maw",
-      "url": "https://open.spotify.com/track/3mLCnXMikt5NFbHUBRza4O"
     },
     {
       "added_at": "2024-12-13 09:50:31",

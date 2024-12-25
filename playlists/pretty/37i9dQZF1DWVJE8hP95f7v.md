@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Lino Krizz
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,999 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,007 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 49 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 |
 | 50 | [Dance Baby](https://open.spotify.com/track/6AUlBVrlbfMLa4X7e3bsNp) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Déjà Vu](https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ) | 3:41 |
 | 51 | [Minha Intuição](https://open.spotify.com/track/4ItJzRdEq5EcvaLKKT8BZc) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [Egydiio](https://open.spotify.com/artist/7Aa7LmhirLwWYgRSNgBbYh) | [Minha Intuição](https://open.spotify.com/album/6xoZ7lXF0gZRbfxD602lHP) | 2:09 |
-| 52 | [Amor Distante \- Rap Mix](https://open.spotify.com/track/6EVjdyR5MzER5Tbvo59AXy) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 4:01 |
+| 52 | [Amor Distante \- Rap Mix](https://open.spotify.com/track/6EVjdyR5MzER5Tbvo59AXy) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 4:01 |
 | 53 | [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 |
 | 54 | [Há Festa \- Corpos Celestes, Edit](https://open.spotify.com/track/0csSS1qy9v6e0At6HbzVam) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Há Festa \(Corpos Celestes\)](https://open.spotify.com/album/205beuIUDhxhyMkPpw1Sno) | 4:05 |
 | 55 | [Sá Menina](https://open.spotify.com/track/6TZDYwfSPFSxTEThMI41AZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Tom](https://open.spotify.com/album/7hKgpy2F02FNid1YXH4TM6) | 4:13 |

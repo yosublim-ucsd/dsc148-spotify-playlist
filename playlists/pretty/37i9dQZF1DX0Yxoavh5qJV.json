@@ -1,60 +1,28 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 6831697,
+  "num_followers": 6873702,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2jubgAAAAAFV/TQ7HrXoBsas6NWa7uw",
+  "snapshot_id": "Z2o/3wAAAAAMmPUiEJZXJSoAP6F9zemH",
   "tracks": [
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
       "artists": [
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T"
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -75,34 +43,34 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 132800,
-      "name": "Winter Wonderland - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -123,6 +91,54 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 320760,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
         "name": "Run Rudolph Run - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
       },
@@ -139,6 +155,22 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
         "name": "A Christmas Gift For You From Phil Spector",
         "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
       },
@@ -151,6 +183,22 @@
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 153099,
+      "name": "A Nonsense Christmas",
+      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -183,38 +231,6 @@
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
-        "name": "These are Special Times",
-        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 320760,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
-        "name": "fruitcake",
-        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 153099,
-      "name": "A Nonsense Christmas",
-      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -339,18 +355,18 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -367,6 +383,22 @@
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -403,26 +435,6 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Fairytale of New York (feat. Kirsty MacColl) [Edit]",
-        "url": "https://open.spotify.com/album/5Rxp9oBKNjn0m24SjWIkUW"
-      },
-      "artists": [
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        },
-        {
-          "name": "Kirsty MacColl",
-          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
-        }
-      ],
-      "duration_ms": 275896,
-      "name": "Fairytale of New York (feat. Kirsty MacColl) - Edit",
-      "url": "https://open.spotify.com/track/4soJpnUFA0SPs7XTi6QIVp"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
         "name": "A Very Laufey Holiday",
         "url": "https://open.spotify.com/album/3yAHCdy8s77OpoBvVY9EJp"
       },
@@ -435,6 +447,22 @@
       "duration_ms": 182040,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/4jHl6jgzZOnS4nGamPZ1Uk"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -479,22 +507,6 @@
     {
       "added_at": "2024-12-06 05:40:39",
       "album": {
-        "name": "Do They Know It\u2019s Christmas?",
-        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
-      },
-      "artists": [
-        {
-          "name": "Band Aid",
-          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Do They Know It's Christmas? - 1984 Version",
-      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
         "name": "A Pentatonix Christmas Deluxe",
         "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
       },
@@ -527,6 +539,26 @@
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
+    },
+    {
+      "added_at": "2024-12-06 05:40:39",
+      "album": {
+        "name": "Fairytale of New York (feat. Kirsty MacColl) [Edit]",
+        "url": "https://open.spotify.com/album/5Rxp9oBKNjn0m24SjWIkUW"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "duration_ms": 275896,
+      "name": "Fairytale of New York (feat. Kirsty MacColl) - Edit",
+      "url": "https://open.spotify.com/track/4soJpnUFA0SPs7XTi6QIVp"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -579,22 +611,6 @@
       "duration_ms": 166386,
       "name": "Christmas Time Is Here - Vocal",
       "url": "https://open.spotify.com/track/06Pfxmp9TtC2H00apclouT"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS"
     },
     {
       "added_at": "2024-12-06 05:40:39",
@@ -735,22 +751,6 @@
       "duration_ms": 177480,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
-    },
-    {
-      "added_at": "2024-12-06 05:40:39",
-      "album": {
-        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
-        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
-      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
       "added_at": "2024-12-06 05:40:39",

@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-133 songs - 7 hr 2 min
+134 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [PINK YOUR MOMENT](https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [PINK YOUR MOMENT](https://open.spotify.com/album/0XJXxqADyzn0ed4QbTvsBD) | 2:57 | 2023-05-05 |  |
 | [POLAROID](https://open.spotify.com/track/1XCoTc12Trl56sgCPP4R8M) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 3:38 | 2022-05-22 |  |
 | [POP/STARS](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [POP/STARS](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) | 3:11 | 2022-05-22 |  |
+| [Pray \- Acoustic Version](https://open.spotify.com/track/7eYd3EsCSSPmigEGKMruWQ) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Pray \(20th Anniversary of the Korean Wave Part 4\) \[Acoustic Version\]](https://open.spotify.com/album/6pyqBCzz76f4XP91oWmIis) | 4:15 | 2024-12-24 |  |
 | [Psycho](https://open.spotify.com/track/57LioO1gSll1wvPDAjiET3) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:35 | 2022-05-22 |  |
 | [Put It Straight](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:56 | 2022-05-22 |  |
 | [Put It Straight \- Nightmare Version](https://open.spotify.com/track/3VqP1DVYFoS6sLhPbEtifi) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < Box of Pandora > Pt\. 1](https://open.spotify.com/album/75ii7SGF9jbD1ireJ0CeNI) | 4:16 | 2022-07-04 | 2024-04-19 |

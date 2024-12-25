@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Taking it down a notch and keeping the vibes on ice...
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,447 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,463 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 52 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 |
 | 53 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 |
 | 54 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 |
-| 55 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
-| 56 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 |
+| 55 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 |
+| 56 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
 | 57 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
 | 58 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 |
 | 59 | [Puppy](https://open.spotify.com/track/0yKTlrVWVszD7PftN5SEhH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 3:55 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 77 | [Show You \(Truck Song\)](https://open.spotify.com/track/5fPo8kJRHPUoa9JD1WWqwT) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Show You \(Truck Song\)](https://open.spotify.com/album/2xVVvxrck67p3TY2Vu5sqW) | 3:11 |
 | 78 | [Other Sides Of The Moon](https://open.spotify.com/track/6nNBUO6bIMUdjAzq50ithk) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Other Sides Of The Moon](https://open.spotify.com/album/5wxu92j7UL9J9EM6CGVqia) | 3:48 |
 | 79 | [Atmosphere](https://open.spotify.com/track/6asVcOKj9xQqhONhBRsZ3W) | [Isaac Butler](https://open.spotify.com/artist/6WNQZiST6bmusWFp51hV7p) | [Atmosphere](https://open.spotify.com/album/78LxMpyTgDj2IEDGGAfkau) | 3:19 |
-| 80 | [First Time](https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [First Time](https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6) | 2:33 |
+| 80 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
 
 Snapshot ID: `Z0Bx+gAAAADjiHUaosA/gCOziCH/484z`

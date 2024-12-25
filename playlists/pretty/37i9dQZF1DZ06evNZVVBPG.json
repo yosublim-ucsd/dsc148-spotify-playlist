@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2551081,
+  "num_followers": 2551819,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAABTVVxkm40AuDdMzWjKUEwD",
+  "snapshot_id": "Z2ioAAAAAACGkerffRAFSm1h5l0u9Ity",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295066,
-      "name": "Art Deco",
-      "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 295066,
+      "name": "Art Deco",
+      "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF"
     },
     {
       "added_at": null,

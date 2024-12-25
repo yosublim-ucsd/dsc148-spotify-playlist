@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 652962,
+  "num_followers": 653060,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAA4LrVVkSxEvq775526Z9S5",
+  "snapshot_id": "Z2ioAAAAAAAG+R92xZ0TGPcPAYum0Vox",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Hard Livin'",
-      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
     },
     {
       "added_at": null,

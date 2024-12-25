@@ -4,7 +4,7 @@
 
 > 
 
-817 songs - 1 day 17 hr 46 min
+819 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [No Long Talk](https://open.spotify.com/track/6CfrYuD3YRDYdYvH9jNtXY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 2:29 | 2023-07-20 |  |
 | [No More \(feat\. Travis Scott, Kodak Black & 21 Savage\)](https://open.spotify.com/track/42k9e2hgl98IdgkXLg4pxs) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 4:25 | 2022-12-23 |  |
 | [No Negotiations](https://open.spotify.com/track/3sOQ1DCLQNHd3ULxZJiEMg) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Me Now](https://open.spotify.com/album/48xbdZgpEOSbBVJRoM1GBG) | 1:50 | 2022-10-18 |  |
+| [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2024-12-24 |  |
 | [No Regrets \(feat\. Don Toliver\)](https://open.spotify.com/track/1lO9CZo6eDrOy0S7khgryG) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:20 | 2023-11-04 |  |
 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 | 2022-10-07 |  |
 | [No Rest](https://open.spotify.com/track/3wEtRQY0YnKT9pkMDkpTeG) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets III](https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji) | 2:34 | 2022-11-18 |  |
@@ -741,6 +742,7 @@
 | [TIL FURTHER NOTICE \(feat\. James Blake & 21 Savage\)](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-07-28 |  |
 | [Time \(feat\. Meek Mill\)](https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:02 | 2023-03-23 |  |
 | [Time Today](https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:16 | 2024-04-13 |  |
+| [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-12-24 |  |
 | [Tip Toe \(Bonus\)](https://open.spotify.com/track/6SqFS3M0CYhAGwgNIUN0kt) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 3:01 | 2022-10-07 |  |
 | [Titanium](https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Titanium & Mercury](https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5) | 2:07 | 2023-07-09 |  |
 | [TO THE GRAVE](https://open.spotify.com/track/12Qfni7HZUowpG6NNtM10g) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [TO THE GRAVE](https://open.spotify.com/album/3oftYhgmFsRf56Ivz1CbVV) | 3:36 | 2024-06-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 303815,
+  "num_followers": 303916,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAB2QMSRrdY2ALSQ2SeyjHO+",
+  "snapshot_id": "Z2ioAAAAAAD5pvbZW7Y0fn8b0QAuwmnr",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Cheat On Me (feat. Dave)",
-      "url": "https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/4DdaGKeVkjQbPHzpoHGafk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Cheat On Me (feat. Dave)",
+      "url": "https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE AND COMPROMISE",
-        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Simmer (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afrikan Sauce",
         "url": "https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 194526,
       "name": "Afrikan Star",
       "url": "https://open.spotify.com/track/57ZphidHkoCJY20u4QSIZA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200501,
+      "name": "Pree Me",
+      "url": "https://open.spotify.com/track/1h1oC8n5nh3IKxCmpUtw85"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COMING HOME",
         "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 195875,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2cJq3u0BRlsGFOYqP9KidJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200501,
-      "name": "Pree Me",
-      "url": "https://open.spotify.com/track/1h1oC8n5nh3IKxCmpUtw85"
     },
     {
       "added_at": null,

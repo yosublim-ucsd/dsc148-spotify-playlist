@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,584 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,589 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res) | 2:45 |
 | 50 | [YUSO \(feat\. Lil Wayne & Saweetie\)](https://open.spotify.com/track/38Vjqr7xTeIzDpclKOkzli) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Missed Calls](https://open.spotify.com/album/3xqJtp0XRdgFuvipOOCKX9) | 2:53 |
 
-Snapshot ID: `Z2dWgAAAAADkrj0msC1BOL1qQYOAa3ft`
+Snapshot ID: `Z2ioAAAAAABGa4VN5TG8PT/s2B5zNTNr`

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Bassi Maestro in cover per i 30 anni della sua carriera \ud83e\udee1",
-  "num_followers": 44368,
+  "num_followers": 44379,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
-        "url": "https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW"
-      },
-      "artists": [
-        {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
-        },
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        }
-      ],
-      "duration_ms": 141090,
-      "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "GRAN TORINO (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/4mvXxyQrvPrh5Ym8DBvAAY"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 237241,
       "name": "GRAN TORINO (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/5XgHAgZ2grYFvHjLQdhiVk"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
+        "url": "https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW"
+      },
+      "artists": [
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "duration_ms": 141090,
+      "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
+        "name": "Non Dormire",
+        "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Verano Zombie",
+      "url": "https://open.spotify.com/track/64lAuSz0vPFFK4IAFlENnU"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
         "name": "Faccio Quello Che Voglio",
         "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
       },
@@ -543,26 +563,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Notte Blu",
-      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "CVLT",
         "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
       },
@@ -583,22 +583,22 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Non Dormire",
-        "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
       "artists": [
         {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         },
         {
-          "name": "Gemello",
-          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Verano Zombie",
-      "url": "https://open.spotify.com/track/64lAuSz0vPFFK4IAFlENnU"
+      "duration_ms": 224000,
+      "name": "Notte Blu",
+      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -643,18 +643,26 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
       "artists": [
         {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+        },
+        {
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
         }
       ],
-      "duration_ms": 194322,
-      "name": "Vida loca - Remix 2k4",
-      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
+      "duration_ms": 258665,
+      "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
+      "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -675,6 +683,58 @@
       "duration_ms": 166208,
       "name": "MALEDETTI",
       "url": "https://open.spotify.com/track/4Niczbt1B1FtLb8wibdbR5"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 194322,
+      "name": "Vida loca - Remix 2k4",
+      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Da 1k In Su (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -703,62 +763,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/2og9O9TKaWIct797CPHsg0"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "Blocknotes",
-        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
-      },
-      "artists": [
-        {
-          "name": "Stokka & Madbuddy",
-          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Quando un giorno tornerai",
-      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Gemello",
-          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
-        },
-        {
-          "name": "Metal Carter",
-          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
-      "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -783,22 +787,34 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+        "name": "Verano Zombie",
+        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         }
       ],
-      "duration_ms": 205186,
-      "name": "Da 1k In Su (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
+      "duration_ms": 163626,
+      "name": "Quelle Notti",
+      "url": "https://open.spotify.com/track/4xXwGmvUUT69n1xoaKxucB"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Blocknotes",
+        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
+      },
+      "artists": [
+        {
+          "name": "Stokka & Madbuddy",
+          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Quando un giorno tornerai",
+      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -851,38 +867,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Il Tempo Vola 2002-2020",
-        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Bugiardo",
-      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "Verano Zombie",
-        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Quelle Notti",
-      "url": "https://open.spotify.com/track/4xXwGmvUUT69n1xoaKxucB"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 233786,
       "name": "Bolo By Night",
       "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Il Tempo Vola 2002-2020",
+        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Bugiardo",
+      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -971,6 +971,34 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
+        "name": "CRISTI E DIAVOLI",
+        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
+      },
+      "artists": [
+        {
+          "name": "Lovegang126",
+          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Drone126",
+          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
+        }
+      ],
+      "duration_ms": 168546,
+      "name": "Tinta unita (feat. Danno)",
+      "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
       },
@@ -1007,34 +1035,6 @@
       "duration_ms": 176470,
       "name": "Quadrato (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "CRISTI E DIAVOLI",
-        "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
-      },
-      "artists": [
-        {
-          "name": "Lovegang126",
-          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Drone126",
-          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
-        }
-      ],
-      "duration_ms": 168546,
-      "name": "Tinta unita (feat. Danno)",
-      "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Big Joe",
-          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
-        }
-      ],
-      "duration_ms": 148334,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "Wa Zina (feat. Willie Peyote)",
         "url": "https://open.spotify.com/album/07xgfzoSPQg8XNSs6ua3W8"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 287400,
       "name": "Wa Zina (feat. Willie Peyote)",
       "url": "https://open.spotify.com/track/5CSmXf8CqvbgE3fLqh1oH9"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        }
+      ],
+      "duration_ms": 148334,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa (Remastered 2021)",
-        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "Aspettando Il Sole - Remastered 2021",
-      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "Adversus",
         "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Neffa E I Messaggeri Della Dopa (Remastered 2021)",
+        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
+        }
+      ],
+      "duration_ms": 311960,
+      "name": "Aspettando Il Sole - Remastered 2021",
+      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "MUSICA ETERNA",
-        "url": "https://open.spotify.com/album/5ritGnvfEDvOGq3Tu3aadT"
+        "name": "Chico Pisco",
+        "url": "https://open.spotify.com/album/1jrbZu9ir8N5jydnX9hURa"
       },
       "artists": [
         {
-          "name": "Grido",
-          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
-        },
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 203181,
-      "name": "MUSICA ETERNA",
-      "url": "https://open.spotify.com/track/00pexE2KgswYccTNhXuVR2"
+      "duration_ms": 222186,
+      "name": "L'Incognita",
+      "url": "https://open.spotify.com/track/36pzqH7yKnD8re2r17CUwF"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Chico Pisco",
-        "url": "https://open.spotify.com/album/1jrbZu9ir8N5jydnX9hURa"
+        "name": "MUSICA ETERNA",
+        "url": "https://open.spotify.com/album/5ritGnvfEDvOGq3Tu3aadT"
       },
       "artists": [
         {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+          "name": "Grido",
+          "url": "https://open.spotify.com/artist/1JJHJjfuaPy3SMPnUHWedm"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
         }
       ],
-      "duration_ms": 222186,
-      "name": "L'Incognita",
-      "url": "https://open.spotify.com/track/36pzqH7yKnD8re2r17CUwF"
+      "duration_ms": 203181,
+      "name": "MUSICA ETERNA",
+      "url": "https://open.spotify.com/track/00pexE2KgswYccTNhXuVR2"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
+        "name": "John princekin 2",
+        "url": "https://open.spotify.com/album/3zA5Vhu1GyGr4vaUFCyHHk"
+      },
+      "artists": [
+        {
+          "name": "XVI Religion",
+          "url": "https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT"
+        }
+      ],
+      "duration_ms": 357262,
+      "name": "Una svastica sul sole",
+      "url": "https://open.spotify.com/track/5TQMUq5aXtKJ1irNQob9jQ"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
         "name": "Gotico Romanzo",
         "url": "https://open.spotify.com/album/3DS8jzLQI1pkMOqLRg1fNT"
       },
@@ -2355,22 +2371,6 @@
       "duration_ms": 131054,
       "name": "Calici di gemme",
       "url": "https://open.spotify.com/track/5ExnPohf7VvltswNWXH9iD"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "John princekin 2",
-        "url": "https://open.spotify.com/album/3zA5Vhu1GyGr4vaUFCyHHk"
-      },
-      "artists": [
-        {
-          "name": "XVI Religion",
-          "url": "https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT"
-        }
-      ],
-      "duration_ms": 357262,
-      "name": "Una svastica sul sole",
-      "url": "https://open.spotify.com/track/5TQMUq5aXtKJ1irNQob9jQ"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Generazione Di Sconvolti",
-        "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
-      },
-      "artists": [
-        {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Ne Parlero' Con Te",
-      "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "Amore puro",
         "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 204081,
       "name": "Amore puro",
       "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Generazione Di Sconvolti",
+        "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
+      },
+      "artists": [
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Ne Parlero' Con Te",
+      "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -2779,30 +2779,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Neurodeliri 2024",
-        "url": "https://open.spotify.com/album/68oOfd51ZVekGtvxR17RnZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Maury B",
-          "url": "https://open.spotify.com/artist/5oII0N8HcXbQ7T9WWJKIcm"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Neurodeliri 2024",
-      "url": "https://open.spotify.com/track/2GbXcZNDy5naiSe5OTN3Cb"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "Malastrada",
         "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
       },
@@ -2839,6 +2815,30 @@
       "duration_ms": 168607,
       "name": "METRONOMO",
       "url": "https://open.spotify.com/track/60KMbrrUJx9Azph2keQ3b2"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Neurodeliri 2024",
+        "url": "https://open.spotify.com/album/68oOfd51ZVekGtvxR17RnZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Maury B",
+          "url": "https://open.spotify.com/artist/5oII0N8HcXbQ7T9WWJKIcm"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Neurodeliri 2024",
+      "url": "https://open.spotify.com/track/2GbXcZNDy5naiSe5OTN3Cb"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -2903,6 +2903,46 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
+        "name": "Perfect Days",
+        "url": "https://open.spotify.com/album/6JNqm2o3YaGMfWmwGzCkuA"
+      },
+      "artists": [
+        {
+          "name": "Rak",
+          "url": "https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Perfect Days",
+      "url": "https://open.spotify.com/track/6Gma5OTVHAbNHmRe95O3xI"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Io Speriamo Che Me La Cavo",
+        "url": "https://open.spotify.com/album/3bJ5kqq2Oc2K0aVUVISywk"
+      },
+      "artists": [
+        {
+          "name": "Warez",
+          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        },
+        {
+          "name": "LDO",
+          "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
+        }
+      ],
+      "duration_ms": 142213,
+      "name": "Io Speriamo Che Me La Cavo",
+      "url": "https://open.spotify.com/track/1E23vbu76A76cc3EwNOEyI"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
         "name": "Deep Challenger (Reloaded Version)",
         "url": "https://open.spotify.com/album/577TJqF08tPT4SiHV3w7FQ"
       },
@@ -2959,46 +2999,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Perfect Days",
-        "url": "https://open.spotify.com/album/6JNqm2o3YaGMfWmwGzCkuA"
-      },
-      "artists": [
-        {
-          "name": "Rak",
-          "url": "https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Perfect Days",
-      "url": "https://open.spotify.com/track/6Gma5OTVHAbNHmRe95O3xI"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "Io Speriamo Che Me La Cavo",
-        "url": "https://open.spotify.com/album/3bJ5kqq2Oc2K0aVUVISywk"
-      },
-      "artists": [
-        {
-          "name": "Warez",
-          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
-        },
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "LDO",
-          "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
-        }
-      ],
-      "duration_ms": 142213,
-      "name": "Io Speriamo Che Me La Cavo",
-      "url": "https://open.spotify.com/track/1E23vbu76A76cc3EwNOEyI"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "A Fuoco Lento",
         "url": "https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05"
       },
@@ -3019,22 +3019,6 @@
       "duration_ms": 96000,
       "name": "A Fuoco Lento",
       "url": "https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "KKOLORS",
-        "url": "https://open.spotify.com/album/4fdwRNE30xoa08hPT0o3A7"
-      },
-      "artists": [
-        {
-          "name": "Kkrisna",
-          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
-        }
-      ],
-      "duration_ms": 63076,
-      "name": "AMETISTA",
-      "url": "https://open.spotify.com/track/3P6tMHsD6GEuoFvLwKeM7t"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -3063,26 +3047,18 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/66RJpmsJezgMhz1MegmyZe"
+        "name": "KKOLORS",
+        "url": "https://open.spotify.com/album/4fdwRNE30xoa08hPT0o3A7"
       },
       "artists": [
         {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        },
-        {
-          "name": "Dj Tsura",
-          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
+          "name": "Kkrisna",
+          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2BedkqoRhSUlK5XObeEAVZ"
+      "duration_ms": 63076,
+      "name": "AMETISTA",
+      "url": "https://open.spotify.com/track/3P6tMHsD6GEuoFvLwKeM7t"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -3175,6 +3151,30 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/66RJpmsJezgMhz1MegmyZe"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Dj Tsura",
+          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2BedkqoRhSUlK5XObeEAVZ"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
         "name": "Cronico",
         "url": "https://open.spotify.com/album/4qQXDWpqF08XvDG0SN6UxW"
       },
@@ -3191,34 +3191,6 @@
       "duration_ms": 203750,
       "name": "Cronico",
       "url": "https://open.spotify.com/track/3htVVMLpPeiYQ9C4YNpW5O"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "Young Veterans - Terzo Occhio - EP",
-        "url": "https://open.spotify.com/album/1QqaaVKakZw3Wn23YCs8mo"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Dafa",
-          "url": "https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Bront",
-          "url": "https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Tutto Deve Cambiare",
-      "url": "https://open.spotify.com/track/1YyxgxwPoPZuS98zd2p0Ew"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -3243,6 +3215,26 @@
       "duration_ms": 202000,
       "name": "Santi e Hoes (feat. Kilo KG) - Remix",
       "url": "https://open.spotify.com/track/6dDA0WGSLEx3mg1pYd0vn2"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Milano Monster",
+        "url": "https://open.spotify.com/album/2anO1UBugnkwHURnxQKt20"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "Lexotan",
+          "url": "https://open.spotify.com/artist/7cm5iwu932G8LwzcTM0afg"
+        }
+      ],
+      "duration_ms": 185522,
+      "name": "Milano Monster",
+      "url": "https://open.spotify.com/track/1YeQkvyy0mnETxy1eQTEUe"
     }
   ],
   "unique_name": "Radici Hip-Hop",

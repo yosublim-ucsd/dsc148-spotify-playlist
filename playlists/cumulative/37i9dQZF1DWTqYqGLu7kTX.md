@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-236 songs - 11 hr 44 min
+237 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [MTCD](https://open.spotify.com/track/02PIqG8MByA1eaLsdsWvE6) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Japjeet Sandhu](https://open.spotify.com/artist/38hUZEN7hCJfaZRMQgg0Hd) | [MTCD](https://open.spotify.com/album/2fxtRrHh3XGrK2ImBzkfoq) | 2:36 | 2024-11-13 | 2024-12-04 |
 | [Muhammad Ali](https://open.spotify.com/track/7nqrM3YD2EfjtaGPvd1dE3) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Muhammad Ali](https://open.spotify.com/album/7mAfZEurqdGBfykp7RvbdP) | 2:18 | 2024-07-26 | 2024-08-24 |
 | [Munde Desi](https://open.spotify.com/track/04Y40castrKPhpKehco0E7) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Welcome To The Revolution](https://open.spotify.com/album/0N0Nl1ZBWIRataqQ4Wtae3) | 2:52 | 2023-07-25 | 2023-10-13 |
-| [MUNDE HOOD DE](https://open.spotify.com/track/0ZHTAMmcduDQMvri24XPnu) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:45 | 2024-11-16 |  |
+| [MUNDE HOOD DE](https://open.spotify.com/track/0ZHTAMmcduDQMvri24XPnu) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:45 | 2024-11-16 | 2024-12-25 |
 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 | 2024-02-13 |  |
 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 | 2024-05-16 |  |
 | [My Boyz](https://open.spotify.com/track/3CRjjTpw9dpg3P84SHmszK) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Desi Ma](https://open.spotify.com/artist/4Xxi26Q3J73FVmLpBtLnH0), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 3:17 | 2024-03-26 | 2024-08-10 |
@@ -224,6 +224,7 @@
 | [Taur](https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Sidhuan De Munde](https://open.spotify.com/album/3oTPgv4PbK4loiyz4yT2pZ) | 2:48 | 2023-03-18 | 2024-08-27 |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-04-11 |  |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-03-18 | 2024-04-06 |
+| [The Singh Anthem](https://open.spotify.com/track/3jf41pbEadrfqfbf58LdDo) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Warriors Honour](https://open.spotify.com/album/5iNzw2rmrjRPgoB4p9CbgN) | 3:44 | 2024-12-24 |  |
 | [These Days \(feat\. Bohemia\)](https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:29 | 2023-03-18 | 2024-11-12 |
 | [They Know](https://open.spotify.com/track/5aNAawi2jFEe0qGPJSogRp) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:24 | 2023-03-18 |  |
 | [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 | 2024-09-20 | 2024-10-11 |

@@ -4308,7 +4308,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 167179,
       "name": "Balkan Disco",
       "url": "https://open.spotify.com/track/04ALITuonvdzyRx626yYpu"
@@ -29269,6 +29269,24 @@
     },
     {
       "album": {
+        "name": "Petheno",
+        "url": "https://open.spotify.com/album/12HrnnfJLlsjtOKt7YcD5V"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Petheno",
+      "url": "https://open.spotify.com/track/5mIZDaHvWBSSFCOdQrlhEd"
+    },
+    {
+      "album": {
         "name": "Arte Povera",
         "url": "https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU"
       },
@@ -33082,7 +33100,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 208000,
       "name": "Signal",
       "url": "https://open.spotify.com/track/3J7shJ3xgZu1qCHl7vkczn"
@@ -37892,7 +37910,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 193409,
       "name": "True North 4",
       "url": "https://open.spotify.com/track/2Bv6Yq1LxQgd9T35ovMGyW"

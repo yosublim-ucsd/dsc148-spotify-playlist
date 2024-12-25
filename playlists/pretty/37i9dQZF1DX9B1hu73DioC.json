@@ -1,6 +1,6 @@
 {
   "description": "put it on and let it play. ",
-  "num_followers": 841193,
+  "num_followers": 841270,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
         "name": "neo roneo",
         "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 166705,
       "name": "neo roneo",
       "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
-      },
-      "artists": [
-        {
-          "name": "okaywill",
-          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
-        }
-      ],
-      "duration_ms": 119016,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb"
+      },
+      "artists": [
+        {
+          "name": "okaywill",
+          "url": "https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L"
+        }
+      ],
+      "duration_ms": 119016,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
-        "name": "Dream Girl",
-        "url": "https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 227792,
-      "name": "El Camino High",
-      "url": "https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
         "name": "Is It Magic?",
         "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 227792,
+      "name": "El Camino High",
+      "url": "https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Floated By",
+      "url": "https://open.spotify.com/track/556jf0hyPQuLNHuNWo12I5"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
         "name": "Leaveyourlove (with MARO)",
         "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 214446,
       "name": "Leaveyourlove (with MARO)",
       "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Floated By",
-      "url": "https://open.spotify.com/track/556jf0hyPQuLNHuNWo12I5"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
         "name": "Riverside",
         "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 283066,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
-        "name": "BLUEBERRY",
-        "url": "https://open.spotify.com/album/4YBz6DeSzUCaQucSUTuW77"
-      },
-      "artists": [
-        {
-          "name": "NOT THE TWOS",
-          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "BLUEBERRY",
-      "url": "https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
         "name": "coogie",
         "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
-        "name": "RUFF RIDE",
-        "url": "https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2"
+        "name": "BLUEBERRY",
+        "url": "https://open.spotify.com/album/4YBz6DeSzUCaQucSUTuW77"
       },
       "artists": [
         {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-        },
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+          "name": "NOT THE TWOS",
+          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
         }
       ],
-      "duration_ms": 156839,
-      "name": "RUFF RIDE",
-      "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
+      "duration_ms": 189000,
+      "name": "BLUEBERRY",
+      "url": "https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -1255,6 +1235,26 @@
       "duration_ms": 195506,
       "name": "Dope Sick",
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
+        "name": "RUFF RIDE",
+        "url": "https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 156839,
+      "name": "RUFF RIDE",
+      "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -1287,22 +1287,6 @@
       "duration_ms": 183320,
       "name": "Good Stuff",
       "url": "https://open.spotify.com/track/15uPQvxN5wjdpO8THuhuNP"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/5xTqXvl7kekwLUaoZ0f3V1"
-      },
-      "artists": [
-        {
-          "name": "NOT THE TWOS",
-          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/2TZo3UoRcB3F9CjeglnvS0"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/5xTqXvl7kekwLUaoZ0f3V1"
+      },
+      "artists": [
+        {
+          "name": "NOT THE TWOS",
+          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/2TZo3UoRcB3F9CjeglnvS0"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
         "name": "every day is a game",
         "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
       },
@@ -1387,26 +1387,6 @@
       "duration_ms": 249687,
       "name": "every day is a game",
       "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
-        "name": "BUG",
-        "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
-      },
-      "artists": [
-        {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "My Day Off",
-      "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -1431,18 +1411,22 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
-        "name": "Since Winona",
-        "url": "https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK"
+        "name": "BUG",
+        "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
       },
       "artists": [
         {
-          "name": "Alex Banin",
-          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 213231,
-      "name": "IN FEAR, ETC.",
-      "url": "https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO"
+      "duration_ms": 182426,
+      "name": "My Day Off",
+      "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -1459,6 +1443,22 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
+        "name": "Since Winona",
+        "url": "https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK"
+      },
+      "artists": [
+        {
+          "name": "Alex Banin",
+          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
+        }
+      ],
+      "duration_ms": 213231,
+      "name": "IN FEAR, ETC.",
+      "url": "https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
-        "name": "I Can\u2019t Even Cry",
-        "url": "https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 221771,
-      "name": "I Can\u2019t Even Cry",
-      "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
+        "name": "I Can\u2019t Even Cry",
+        "url": "https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb"
       },
       "artists": [
         {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb"
+      "duration_ms": 221771,
+      "name": "I Can\u2019t Even Cry",
+      "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
     },
     {
       "added_at": "2024-12-17 18:48:49",
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
         "name": "Wah!!!",
         "url": "https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-12-17 18:48:49",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/6CTw5u8BXTze72mbMcah1s"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 208654,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/1d8i5NnfgZFK7mPwkKCWte"
-    },
-    {
-      "added_at": "2024-12-17 18:48:49",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 210329,
       "name": "Lately",
       "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
+    },
+    {
+      "added_at": "2024-12-17 18:48:49",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/6CTw5u8BXTze72mbMcah1s"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 208654,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/1d8i5NnfgZFK7mPwkKCWte"
     },
     {
       "added_at": "2024-12-17 18:48:49",

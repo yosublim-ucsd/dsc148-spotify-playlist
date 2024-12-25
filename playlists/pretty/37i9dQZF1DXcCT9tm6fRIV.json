@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 243436,
+  "num_followers": 243469,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Tango Collection",
-        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
-      },
-      "artists": [
-        {
-          "name": "Juan D'Arienzo",
-          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
-        }
-      ],
-      "duration_ms": 140503,
-      "name": "Valsecito Criollo",
-      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Milonga de mis amores",
         "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 142133,
       "name": "Milonga de mis amores - Estilo Pedro Laurenz",
       "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Tango Collection",
+        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
+      },
+      "artists": [
+        {
+          "name": "Juan D'Arienzo",
+          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
+        }
+      ],
+      "duration_ms": 140503,
+      "name": "Valsecito Criollo",
+      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "A Pedido",
+        "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
+      },
+      "artists": [
+        {
+          "name": "Horacio Molina",
+          "url": "https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Flor de lino - Live",
+      "url": "https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Astor Piazzolla/ Roberto Goyeneche",
         "url": "https://open.spotify.com/album/5kDCvZPwvMMLZvHmGWo8dr"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "A Pedido",
-        "url": "https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9"
-      },
-      "artists": [
-        {
-          "name": "Horacio Molina",
-          "url": "https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Flor de lino - Live",
-      "url": "https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Oro y Plata",
         "url": "https://open.spotify.com/album/623Oxctqg8OdleVcaW9sxV"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Por una Cabeza",
-      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Manzi, caminos de barro y pampa",
         "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 216465,
       "name": "Romance de barrio",
       "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Por una Cabeza",
+      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -635,30 +635,6 @@
       "duration_ms": 177446,
       "name": "Volvio Una Noche",
       "url": "https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        },
-        {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
-        },
-        {
-          "name": "Manu Sacco",
-          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
-        }
-      ],
-      "duration_ms": 202240,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -755,6 +731,30 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        },
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        },
+        {
+          "name": "Manu Sacco",
+          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
+        }
+      ],
+      "duration_ms": 202240,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Anibal Troilo - Cancion desesperada",
-        "url": "https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW"
-      },
-      "artists": [
-        {
-          "name": "An\u00edbal Troilo",
-          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Adios Pampa mia",
-      "url": "https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Pasional",
         "url": "https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc"
       },
@@ -823,22 +807,6 @@
       "duration_ms": 208285,
       "name": "Pasional",
       "url": "https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Un Gui\u00f1o",
-        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Un Gui\u00f1o",
-      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -859,6 +827,38 @@
       "duration_ms": 221500,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Anibal Troilo - Cancion desesperada",
+        "url": "https://open.spotify.com/album/77OkvaAB1cjgOtxqf3oQIW"
+      },
+      "artists": [
+        {
+          "name": "An\u00edbal Troilo",
+          "url": "https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Adios Pampa mia",
+      "url": "https://open.spotify.com/track/4mHp0whXyf80glskjIXqMK"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Un Gui\u00f1o",
+        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Un Gui\u00f1o",
+      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Rescatados",
+        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Muchacha (ojos de papel)",
         "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 198944,
       "name": "Muchacha (ojos de papel)",
       "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Rescatados",
-        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
-      },
-      "artists": [
-        {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
-        }
-      ],
-      "duration_ms": 177977,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Todo Es Amor",
         "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 253573,
       "name": "Todo Es Amor",
       "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
-        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 133760,
-      "name": "Si Tu Quisieras",
-      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Osvaldo Pugliese con Alberto Moran y Roberto Chanel",
         "url": "https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 154573,
       "name": "Cafetin",
       "url": "https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
+        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Si Tu Quisieras",
+      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
     },
     {
       "added_at": "2024-08-02 03:00:00",

@@ -12781,6 +12781,24 @@
     },
     {
       "album": {
+        "name": "\u5922\u9b58",
+        "url": "https://open.spotify.com/album/5nYqCffTqtNdIVhmD14SFM"
+      },
+      "artists": [
+        {
+          "name": "HowZ",
+          "url": "https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE"
+        }
+      ],
+      "date_added": "2024-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "\u5922\u9b58",
+      "url": "https://open.spotify.com/track/4pNaHi7WELI9Rh4xEbkTHy"
+    },
+    {
+      "album": {
         "name": "\u5927\u53d4",
         "url": "https://open.spotify.com/album/2lo7kQXIoivefI2kd7bnvr"
       },

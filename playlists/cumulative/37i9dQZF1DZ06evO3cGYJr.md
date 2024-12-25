@@ -4,13 +4,14 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 22 min
+50 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1DK \- VIP](https://open.spotify.com/track/7yfSOtlbjbS2FYLu8oELVD) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [1DK \(VIP\)](https://open.spotify.com/album/7EpNxupjnO9Dl9kFF7PSm8) | 3:00 | 2024-12-14 |  |
 | [Alright](https://open.spotify.com/track/5YIVy6HdCamdQkzTPhRrQj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:06 | 2024-12-14 |  |
 | [An Introduction](https://open.spotify.com/track/3NXSkfqQ6ASC588TuWkqTe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:54 | 2024-12-14 |  |
+| [better than i was](https://open.spotify.com/track/0JQkCncxcmSROtUx48oEPb) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [better than i was](https://open.spotify.com/album/35FKhwMBDOty1ocIqwfU1y) | 3:24 | 2024-12-25 |  |
 | [bewildered](https://open.spotify.com/track/20cfcU6zgYlTmnZIaCt9y4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [bewildered](https://open.spotify.com/album/5PwallTBqFYwPL2INf0LxT) | 2:52 | 2024-12-14 |  |
 | [break my brain \(for science\)](https://open.spotify.com/track/1lEyzwdUO7phPaC8gMdCOZ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [break my brain \(for science\)](https://open.spotify.com/album/7HvzNVA3Q8YcBmxFL61iSj) | 1:25 | 2024-12-14 |  |
 | [BREATHE](https://open.spotify.com/track/2oLM1BNSlLBcNbGUgezNvh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/4917GZU57YmatuEbuvZRcW) | 4:56 | 2024-12-14 |  |

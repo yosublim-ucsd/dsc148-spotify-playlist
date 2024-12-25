@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-131 songs - 6 hr 18 min
+132 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Que Sacrificio](https://open.spotify.com/track/3g8CL3kQy1YYtTbjTKTt2H) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:27 | 2022-06-01 | 2023-11-11 |
 | [Que Se Me Acabe La Vida](https://open.spotify.com/track/6NIxBWXh77mqaWxZftExcv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Me Recordaras](https://open.spotify.com/album/5Q1NInyNiy2h5OaQYDOFgJ) | 3:30 | 2024-02-06 | 2024-03-02 |
 | [Quiero Volver](https://open.spotify.com/track/5kEubr1l8cqzEtSauan45U) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mis Favoritas](https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi) | 2:45 | 2024-07-27 | 2024-12-11 |
-| [Quiero Volver](https://open.spotify.com/track/7vBRSk7UkuFjLjVVMsoHZx) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:47 | 2022-06-01 |  |
+| [Quiero Volver](https://open.spotify.com/track/7vBRSk7UkuFjLjVVMsoHZx) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:47 | 2022-06-01 | 2024-12-25 |
+| [Quiero Volver](https://open.spotify.com/track/48gGONL6yRaf8NrT9R8DV7) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:49 | 2024-12-25 |  |
 | [Qué Bonito Amor](https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:38 | 2022-06-01 |  |
 | [Si la Ven por Ahí](https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:50 | 2022-06-01 |  |
 | [Si Tu No Estas](https://open.spotify.com/track/1FAdX0a1ImX72Jjo3t5ybO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj) | 3:30 | 2023-11-10 | 2024-12-01 |

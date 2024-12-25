@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,284 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,349 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 35 | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj) | 2:54 |
 | 36 | [No More Love](https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:10 |
 | 37 | [Don't Know \(GloRidaz Bonus\)](https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 2:32 |
-| 38 | [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/track/3sQinkjMM30VKi3xMdHtA9) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/album/3h6UsC0h6zJXxNITr2OFqV) | 3:42 |
-| 39 | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3) | 2:20 |
+| 38 | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3) | 2:20 |
+| 39 | [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/track/3sQinkjMM30VKi3xMdHtA9) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/album/3h6UsC0h6zJXxNITr2OFqV) | 3:42 |
 | 40 | [Nut Quick](https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:38 |
 | 41 | [JUST SAY THAT \(feat\. GLORILLA\)](https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 3:35 |
 | 42 | [Ex’s \(Phatnall Remix\) \(with Lil Durk\)](https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Anyways, Life’s Great…Bonus Edition](https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf) | 3:17 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 48 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 |
 | 49 | [Outside](https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:08 |
 
-Snapshot ID: `Z2dWgAAAAAAPKecyx5Vn0Lnxmw1wTLqa`
+Snapshot ID: `Z2ioAAAAAACaH5PY+zwv299GOJ+mccAa`

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 115766,
+  "num_followers": 115779,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAACd8cOxYsIOw7jqRMwRaC7V",
+  "snapshot_id": "Z2ioAAAAAAABnjL8MAi/IX5m6k6W2Lu+",
   "tracks": [
     {
       "added_at": null,
@@ -939,30 +939,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "CPX Ta Tega",
-        "url": "https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG"
+        "name": "A Quadrilha",
+        "url": "https://open.spotify.com/album/2RJTHg5adV55Bb6Zjo67PL"
       },
       "artists": [
         {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "GringoBeats808",
+          "url": "https://open.spotify.com/artist/5H2zqAv4kVidX9S98sanYa"
+        },
+        {
+          "name": "Boladin 211",
+          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
+        },
+        {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
         }
       ],
-      "duration_ms": 142666,
-      "name": "CPX Ta Tega",
-      "url": "https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox"
+      "duration_ms": 296000,
+      "name": "A Quadrilha",
+      "url": "https://open.spotify.com/track/1FDz1IpAT8ZrVgR39q8cJk"
     },
     {
       "added_at": null,
@@ -991,6 +1007,34 @@
       "duration_ms": 229830,
       "name": "Pesad\u00e3o",
       "url": "https://open.spotify.com/track/5X4PNc9g7KIQSRk4crioOO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CPX Ta Tega",
+        "url": "https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "CPX Ta Tega",
+      "url": "https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox"
     },
     {
       "added_at": null,
@@ -1067,30 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 142564,
-      "name": "Metflix - Remix",
-      "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -1115,46 +1135,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Quadrilha",
-        "url": "https://open.spotify.com/album/2RJTHg5adV55Bb6Zjo67PL"
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
       "artists": [
         {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        },
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "GringoBeats808",
-          "url": "https://open.spotify.com/artist/5H2zqAv4kVidX9S98sanYa"
-        },
-        {
-          "name": "Boladin 211",
-          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 296000,
-      "name": "A Quadrilha",
-      "url": "https://open.spotify.com/track/1FDz1IpAT8ZrVgR39q8cJk"
+      "duration_ms": 142564,
+      "name": "Metflix - Remix",
+      "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
     },
     {
       "added_at": null,

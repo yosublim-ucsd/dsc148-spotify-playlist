@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa Fanni T\u00e4hti.",
-  "num_followers": 24290,
+  "num_followers": 24289,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-12-20 08:27:54",
       "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
-    },
-    {
-      "added_at": "2024-12-20 08:27:54",
-      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 132911,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen"
+    },
+    {
+      "added_at": "2024-12-20 08:27:54",
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "added_at": "2024-12-20 08:27:54",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-12-20 08:27:54",
       "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+    },
+    {
+      "added_at": "2024-12-20 08:27:54",
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 182505,
       "name": "T\u00e4s m\u00e4 oon",
       "url": "https://open.spotify.com/track/5tfW3t4zAZoeftsKQI0jD0"
-    },
-    {
-      "added_at": "2024-12-20 08:27:54",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "added_at": "2024-12-20 08:27:54",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-12-20 08:27:54",
       "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 170021,
+      "name": "Ne oli v\u00e4\u00e4r\u00e4s (feat. Turisti)",
+      "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
+    },
+    {
+      "added_at": "2024-12-20 08:27:54",
+      "album": {
         "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 176034,
       "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
-    },
-    {
-      "added_at": "2024-12-20 08:27:54",
-      "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap"
-      },
-      "artists": [
-        {
-          "name": "Sliki",
-          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 170021,
-      "name": "Ne oli v\u00e4\u00e4r\u00e4s (feat. Turisti)",
-      "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
     },
     {
       "added_at": "2024-12-20 08:27:54",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-12-20 08:27:54",
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
-    },
-    {
-      "added_at": "2024-12-20 08:27:54",
-      "album": {
         "name": "Cats on the Ceiling",
         "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 213080,
       "name": "Cats on the Ceiling",
       "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
+    },
+    {
+      "added_at": "2024-12-20 08:27:54",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
     },
     {
       "added_at": "2024-12-20 08:27:54",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-12-20 08:27:54",
       "album": {
-        "name": "Another Life (Marcus & Martinus vs VIZE)",
-        "url": "https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY"
-      },
-      "artists": [
-        {
-          "name": "Marcus & Martinus",
-          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "Another Life (Marcus & Martinus vs VIZE)",
-      "url": "https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9"
-    },
-    {
-      "added_at": "2024-12-20 08:27:54",
-      "album": {
         "name": "Xmas Time (with Kehlani)",
         "url": "https://open.spotify.com/album/6EMvsRRCz0RPTY2KvCUVbL"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 203984,
       "name": "Xmas Time (with Kehlani)",
       "url": "https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5"
+    },
+    {
+      "added_at": "2024-12-20 08:27:54",
+      "album": {
+        "name": "Another Life (Marcus & Martinus vs VIZE)",
+        "url": "https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "Another Life (Marcus & Martinus vs VIZE)",
+      "url": "https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9"
     },
     {
       "added_at": "2024-12-20 08:27:54",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-12-20 08:27:54",
       "album": {
-        "name": "I Never Loved You",
-        "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 249530,
-      "name": "I Never Loved You",
-      "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
-    },
-    {
-      "added_at": "2024-12-20 08:27:54",
-      "album": {
         "name": "Kaikki p\u00e4\u00e4ttyy kyyneliin",
         "url": "https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 275493,
       "name": "Kaikki p\u00e4\u00e4ttyy kyyneliin",
       "url": "https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa"
+    },
+    {
+      "added_at": "2024-12-20 08:27:54",
+      "album": {
+        "name": "I Never Loved You",
+        "url": "https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 249530,
+      "name": "I Never Loved You",
+      "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
     },
     {
       "added_at": "2024-12-20 08:27:54",

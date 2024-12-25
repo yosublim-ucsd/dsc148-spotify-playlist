@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-376 songs - 1 day 12 hr 35 min
+377 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Como Será O Amanhã](https://open.spotify.com/track/6pn1RvIvRxkRbnNXQuXvBJ) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Como Será O Amanhã](https://open.spotify.com/album/7GEV5TiNIQoN9aKNKR8OjB) | 3:16 | 2023-06-23 | 2023-08-21 |
 | [Comprou](https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Comprou](https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7) | 4:42 | 2024-09-06 |  |
 | [Conquistando o Impossível](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Conquistando O Impossível](https://open.spotify.com/album/1oqWPqtbHvtiP4o8EmxQ9y) | 4:28 | 2023-02-17 | 2023-10-21 |
-| [Cordeiro que Venceu \- Ao Vivo](https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Cordeiro que Venceu \(Ao Vivo\)](https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2) | 6:50 | 2023-09-01 |  |
+| [Cordeiro que Venceu \- Ao Vivo](https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Cordeiro que Venceu \(Ao Vivo\)](https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2) | 6:50 | 2023-09-01 | 2024-12-25 |
 | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/track/3yMXARmXJgM6c0sYrtLJDk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/album/02EClmGIfQz1LDlAw8XEER) | 4:49 | 2023-01-14 | 2023-01-21 |
 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2022-09-09 | 2023-01-14 |
 | [Cuida De Mim](https://open.spotify.com/track/2vMdTPntkHh37YcrTLulXL) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cuida De Mim](https://open.spotify.com/album/3ZmrAlZNemvgYoOoPe1DoY) | 3:37 | 2023-10-20 | 2023-11-23 |
@@ -118,6 +118,7 @@
 | [Estremece a Terra](https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [ASSIM SEJA](https://open.spotify.com/album/7Bel1Ka4jSYFXlckOLJFsu) | 6:02 | 2023-08-18 | 2024-08-17 |
 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 | 2022-09-09 |  |
 | [Eu Quero Queimar Por Ti \- Ao Vivo](https://open.spotify.com/track/19VfFIRBEKEb5Z2jOHGl5P) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Eu Quero Queimar Por Ti \(Ao Vivo\)](https://open.spotify.com/album/7I1ZGfiZpluq1ngwZT3IxZ) | 5:59 | 2023-10-20 | 2023-11-18 |
+| [Eu Quero Ver Sua Face \- Ao Vivo](https://open.spotify.com/track/7cQpuMnZPyIlgCrLV4LCJl) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Canções Para o Meu Amado \(Ao Vivo\)](https://open.spotify.com/album/0lIpLdE40y1HAGGYhF5LTi) | 8:57 | 2024-12-20 |  |
 | [Eu Sei](https://open.spotify.com/track/0IQPqr6gEgoG5Oe6c5vYDI) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ) | [Eu Sei](https://open.spotify.com/album/6fPFKEvTXKwlFcf8x2JbWB) | 9:05 | 2023-02-17 | 2023-03-04 |
 | [Eu Te Agradeço \(feat\. Israel Salazar\) \- Ao Vivo](https://open.spotify.com/track/0qdMGjFLPHsPq973VKV6Xr) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 5:32 | 2023-07-14 | 2024-04-20 |
 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 | 2022-10-14 | 2024-04-20 |

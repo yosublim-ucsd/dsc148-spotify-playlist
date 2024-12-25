@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-25",
-  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u8a69\u7fbd \u00d7 CENT",
+  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u82b1\u8b5c",
   "name": "Teen Culture",
   "tracks": [
     {
@@ -1526,6 +1526,24 @@
       "duration_ms": 214871,
       "name": "Curse of Love",
       "url": "https://open.spotify.com/track/7ALNs2wG7YBMIqou85P22G"
+    },
+    {
+      "album": {
+        "name": "DALMATIAN",
+        "url": "https://open.spotify.com/album/736N8pHiehLrYOfJMSshMZ"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245300,
+      "name": "DALMATIAN",
+      "url": "https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK"
     },
     {
       "album": {
@@ -7126,7 +7144,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 168613,
       "name": "Tiny Step",
       "url": "https://open.spotify.com/track/1PQ6fTLRdhoAgSsg7EumU4"
@@ -9476,7 +9494,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 212386,
       "name": "\u30aa\u30ec\u30f3\u30b8\u30e6\u30fc\u30b9",
       "url": "https://open.spotify.com/track/0tyWACXs21qrDmFCCuVlmp"
@@ -11668,6 +11686,24 @@
       "duration_ms": 145145,
       "name": "\u4eca\u65e5\u304f\u3089\u3044\u306f\u3044\u3044\u5b50\u3067\u3044\u3088\u3046\u3088",
       "url": "https://open.spotify.com/track/2yBDb6rcghZVi5vmKknh5I"
+    },
+    {
+      "album": {
+        "name": "\u5bd3\u8a71",
+        "url": "https://open.spotify.com/album/4dD0hnVXxV4nJ0aZO23Wrb"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261833,
+      "name": "\u4ee3\u66ff\u5b09\u3005",
+      "url": "https://open.spotify.com/track/4ieJKUj64aZwXGFgeJ7x7P"
     },
     {
       "album": {

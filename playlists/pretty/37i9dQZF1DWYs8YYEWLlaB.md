@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: Gökhan Türkmen
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,509 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,757 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 18 | [Aradan Çok Yıllar Geçti](https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Aradan Çok Yıllar Geçti](https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc) | 2:50 |
 | 19 | [Düşüşlerim Fazla](https://open.spotify.com/track/3AaGQ8lTi31RBk9WMDfPX5) | [ZEDİ](https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8) | [Düşüşlerim Fazla](https://open.spotify.com/album/3wvLRWKTy8exkhC81GjyNV) | 2:19 |
 | 20 | [Tırnağın Kırılmasın](https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Tırnağın Kırılmasın](https://open.spotify.com/album/3X5k2n8X0KaJF2GBFfvVBl) | 3:35 |
-| 21 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 |
-| 22 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 |
+| 21 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 |
+| 22 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 |
 | 23 | [Naçar](https://open.spotify.com/track/6Abw6zEw0EbfFC6OJob4Ph) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Naçar](https://open.spotify.com/album/7mtF9hykx8GZYLolBvHvMr) | 3:20 |
 | 24 | [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 |
 | 25 | [I WANNA DANCE](https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ) | [I WANNA DANCE](https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d) | 1:50 |

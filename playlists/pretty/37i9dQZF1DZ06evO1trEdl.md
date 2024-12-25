@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,226 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,227 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 31 | [Without You](https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:04 |
 | 32 | [Sugar On Sunday](https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Sunday Music](https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl) | 3:22 |
 | 33 | [La chanson poupulaire](https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
-| 34 | [Giving Up, Giving In](https://open.spotify.com/track/4Aj2Midm2Nyhb9C68ba95c) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 6:07 |
-| 35 | [Gee Baby \(I'm Sorry\)](https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Gee Baby \(I'm Sorry\) / Do What You're Supposed to Do](https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT) | 2:04 |
-| 36 | [Rosegarden](https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:44 |
+| 34 | [Gee Baby \(I'm Sorry\)](https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Gee Baby \(I'm Sorry\) / Do What You're Supposed to Do](https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT) | 2:04 |
+| 35 | [Giving Up, Giving In](https://open.spotify.com/track/4Aj2Midm2Nyhb9C68ba95c) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 6:07 |
+| 36 | [Contact](https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 |
 | 37 | [Lonelier Are Fools](https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
-| 38 | [Contact](https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 |
+| 38 | [Rosegarden](https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:44 |
 | 39 | [No, No Not Again](https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [60's Girl Groups](https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP) | 2:45 |
-| 40 | [End Titles](https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:17 |
+| 40 | [There's So Much Love All Around Me](https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Uplifting Soul Classics](https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd) | 2:39 |
 | 41 | [Distant Lover](https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
-| 42 | [Together](https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:37 |
-| 43 | [I Do Take You](https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:16 |
-| 44 | [There's So Much Love All Around Me](https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Uplifting Soul Classics](https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd) | 2:39 |
-| 45 | [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 |
-| 46 | [Look in My Eyes](https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:37 |
+| 42 | [I Do Take You](https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:16 |
+| 43 | [Together](https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:37 |
+| 44 | [End Titles](https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:17 |
+| 45 | [Look in My Eyes](https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:37 |
+| 46 | [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 |
 | 47 | [Loving Cup](https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:07 |
 | 48 | [Take Me Away](https://open.spotify.com/track/1xtB5sLhD3Mx1jwyMWofkI) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Legends \(Rerecorded\)](https://open.spotify.com/album/37ravYOYK1h0h1cGM8LWWp) | 4:29 |
-| 49 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 |
-| 50 | [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 |
+| 49 | [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 |
+| 50 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 |
 
-Snapshot ID: `Z2dWgAAAAABToZg70GzJSsRNXIbAHFoD`
+Snapshot ID: `Z2ioAAAAAAAuFThEGl47Kj09ioFlxN0o`

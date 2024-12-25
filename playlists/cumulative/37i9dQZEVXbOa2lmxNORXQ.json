@@ -4211,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190826,
+      "name": "COMPETENCIA",
+      "url": "https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1"
+    },
+    {
+      "album": {
         "name": "Completa",
         "url": "https://open.spotify.com/album/28Fuo7FjZGGQo4W45IvJA4"
       },
@@ -4412,7 +4430,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 226461,
       "name": "Coqueta - Remix",
       "url": "https://open.spotify.com/track/6rq3raDazN9D0XUCudW1Nx"
@@ -10257,6 +10275,28 @@
     },
     {
       "album": {
+        "name": "IA",
+        "url": "https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "IA",
+      "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
+    },
+    {
+      "album": {
         "name": "\u00bfA D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
       },
@@ -13034,7 +13074,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 158515,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3"
@@ -17516,7 +17556,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 185834,
       "name": "Pero Te Quiero",
       "url": "https://open.spotify.com/track/2BPqm5yVZhXpQmZhoAw6Ql"
@@ -18620,7 +18660,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"

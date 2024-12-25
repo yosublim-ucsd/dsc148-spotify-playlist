@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 421081,
+  "num_followers": 421166,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -215,30 +215,6 @@
     {
       "added_at": "2024-11-21 16:42:58",
       "album": {
-        "name": "Born To Love Ya",
-        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Born To Love Ya",
-      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
-    },
-    {
-      "added_at": "2024-11-21 16:42:58",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6"
       },
@@ -259,6 +235,30 @@
       "duration_ms": 159577,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx"
+    },
+    {
+      "added_at": "2024-11-21 16:42:58",
+      "album": {
+        "name": "Born To Love Ya",
+        "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Born To Love Ya",
+      "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
     },
     {
       "added_at": "2024-11-21 16:42:58",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-11-21 16:42:58",
       "album": {
-        "name": "I Was Made",
-        "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "Le Pedre",
-          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
-        }
-      ],
-      "duration_ms": 155399,
-      "name": "I Was Made",
-      "url": "https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK"
-    },
-    {
-      "added_at": "2024-11-21 16:42:58",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 213946,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
+    },
+    {
+      "added_at": "2024-11-21 16:42:58",
+      "album": {
+        "name": "I Was Made",
+        "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Le Pedre",
+          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
+        }
+      ],
+      "duration_ms": 155399,
+      "name": "I Was Made",
+      "url": "https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK"
     },
     {
       "added_at": "2024-11-21 16:42:58",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-11-21 16:42:58",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "True",
-      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
-    },
-    {
-      "added_at": "2024-11-21 16:42:58",
-      "album": {
         "name": "Money Sucks, Friends Rule",
         "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 212773,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
+    },
+    {
+      "added_at": "2024-11-21 16:42:58",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 125806,
+      "name": "True",
+      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
     },
     {
       "added_at": "2024-11-21 16:42:58",

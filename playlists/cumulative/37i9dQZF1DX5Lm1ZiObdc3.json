@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "270\u00b0",
+        "url": "https://open.spotify.com/album/4dQfNBWNAVNdpKHt62dttq"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180669,
+      "name": "SAGITTARIUS \"The Optimist\"",
+      "url": "https://open.spotify.com/track/3Jiec1qjtSXiY1Q2Hku7NV"
+    },
+    {
+      "album": {
         "name": "Under the Stars",
         "url": "https://open.spotify.com/album/21lNww10aD2NEIr6mR7JyJ"
       },
@@ -2200,6 +2218,24 @@
       "duration_ms": 237960,
       "name": "Widmung, Op. 25 No. 1",
       "url": "https://open.spotify.com/track/2rbB9tFpJdjAkO9XHf0AJZ"
+    },
+    {
+      "album": {
+        "name": "\u00c9tudes M\u00e9lodiques",
+        "url": "https://open.spotify.com/album/4KKe8rGFDtCL8Jy4tA7Dl5"
+      },
+      "artists": [
+        {
+          "name": "Marie Awadis",
+          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374493,
+      "name": "\u00c9tude No. 12: Unveiled",
+      "url": "https://open.spotify.com/track/7hiOEDPwMUjMbvfuQF9dOY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Lm1ZiObdc3"

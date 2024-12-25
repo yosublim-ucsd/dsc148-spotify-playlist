@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 407 songs - 21 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 407 songs - 21 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 132 | [The Crew Song](https://open.spotify.com/track/06otCdjIpLWYGC2mD67KfN) | [John Mcmartin](https://open.spotify.com/artist/6lpPLbDpXX20IEZyluDqxY) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:28 |
 | 133 | [The Gypsy in Me](https://open.spotify.com/track/0ij6wB42Kc0Qd9TejMKt4m) | [Adam Godley](https://open.spotify.com/artist/1PDFmDvH5SrJ6R0eHJlrk4), [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 3:43 |
 | 134 | [Prelude To Worship](https://open.spotify.com/track/0feKWwmnnz08DBXAr4th6Y) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Sounds of Revival II: Deeper](https://open.spotify.com/album/7F9tndM6oerE0sO04qBdRf) | 3:28 |
-| 135 | [Everything I Do Gohn Be Funky \(From Now On\)](https://open.spotify.com/track/5bSOwxh6Wyy8vNqV8eQulw) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [The EP Collection](https://open.spotify.com/album/2B0VEEXn3AjLRqf9EToJO4) | 3:10 |
-| 136 | [Le Noël des petits Santons \- Remasterisé en 2018](https://open.spotify.com/track/4WwozU71N41RbmZkLESU5m) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [C'est la belle nuit de Noël \(Remasterisé en 2018\)](https://open.spotify.com/album/2w76BNDmiXLnfYbsDjEbJe) | 3:11 |
+| 135 | [Le Noël des petits Santons \- Remasterisé en 2018](https://open.spotify.com/track/4WwozU71N41RbmZkLESU5m) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [C'est la belle nuit de Noël \(Remasterisé en 2018\)](https://open.spotify.com/album/2w76BNDmiXLnfYbsDjEbJe) | 3:11 |
+| 136 | [Everything I Do Gohn Be Funky \(From Now On\)](https://open.spotify.com/track/5bSOwxh6Wyy8vNqV8eQulw) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [The EP Collection](https://open.spotify.com/album/2B0VEEXn3AjLRqf9EToJO4) | 3:10 |
 | 137 | [Medley: Paris Montage](https://open.spotify.com/track/6zuTkdDp2dGPMYbGDzf4xP) | [The Warner Bros\. Studio Orchestra](https://open.spotify.com/artist/5gtpUC889sWVXQUobHFyrA) | [Casablanca: The Original Motion Picture Soundtrack](https://open.spotify.com/album/5J1e8ut0CkdBw50CGR4M40) | 3:48 |
 | 138 | [Another Op'nin', Another Show](https://open.spotify.com/track/1LKxdZoS53CmGsDnBEhONM) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 6:16 |
 | 139 | [Weren't We Fools](https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 |
@@ -239,8 +239,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 229 | [I'm gettin' myself ready for you](https://open.spotify.com/track/3ks8teAYHndHIccgy0T2PV) | [Blanche Calloway And Her Orchestra](https://open.spotify.com/artist/3CxyR0I8HEgLlqFS7oR3zg), [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway, The first woman to lead an all male orchestra](https://open.spotify.com/album/4fBJ7BFYPLFmcPYj0F2rRT) | 3:07 |
 | 230 | [Another Spring, Another Love](https://open.spotify.com/track/7H0w7bTQtVGyyNtwuGtLg7) | [Marlene Dietrich](https://open.spotify.com/artist/3UuPzfQMdGK40O8Rj9jqVM) | [Marlene Dietrich \(Deluxe Edition\)](https://open.spotify.com/album/3GOd8BP1DNu1BbnPm8EDyQ) | 2:22 |
 | 231 | [Thank You so Much, Mrs\. Lowsborough\-Goodbye](https://open.spotify.com/track/1UcNcfaDiPbm05TGKoSfTt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 2:31 |
-| 232 | [Fresh As A Daisy](https://open.spotify.com/track/70lTL8pZLu3TLaNa4IVrRv) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Complete Glenn Miller and His Orchestra](https://open.spotify.com/album/58rMb0yOYCIqwoDjdhwGlK) | 2:45 |
-| 233 | [The Dance Sequence](https://open.spotify.com/track/3qBqSqRi3X90EEatwo3tTb) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 4:55 |
+| 232 | [The Dance Sequence](https://open.spotify.com/track/3qBqSqRi3X90EEatwo3tTb) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 4:55 |
+| 233 | [Fresh As A Daisy](https://open.spotify.com/track/70lTL8pZLu3TLaNa4IVrRv) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Complete Glenn Miller and His Orchestra](https://open.spotify.com/album/58rMb0yOYCIqwoDjdhwGlK) | 2:45 |
 | 234 | [Arlena & Patrick](https://open.spotify.com/track/5QQCrmZFBF2d65z0bsFjNk) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:32 |
 | 235 | [The Grotto](https://open.spotify.com/track/4q98RXShlnhFhtWt0YTJm1) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:05 |
 | 236 | [Daphne's Island](https://open.spotify.com/track/1bxZb008tPXsmrVn5dcAxP) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:09 |
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 406 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 407 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Abk8QAAAAACQhQeW4ZCm27TnffphI5f+`
+Snapshot ID: `AblB4AAAAACZo0wmGSglszBjICASprbx`

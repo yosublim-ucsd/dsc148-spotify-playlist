@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,884 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,909 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 51 | [Si Me Matan](https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N) | 4:10 |
 | 52 | [No Hay Problema](https://open.spotify.com/track/7kVJhAryCRy7BieEHqy1rL) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 6:12 |
 | 53 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 |
-| 54 | [Calaveritas](https://open.spotify.com/track/1rfOVVrDPHouBZhiTL3kzs) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Celso Piña Arvizu](https://open.spotify.com/artist/4UKzuqzO8CEbT4LueIsdIF) | [Calaveritas](https://open.spotify.com/album/5RL8kn7xV8ivinDYDra4Uh) | 4:20 |
-| 55 | [Café](https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Echando pa'lante](https://open.spotify.com/album/3vA5NsIAd6UKzU4f1ooAzr) | 6:32 |
-| 56 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 |
+| 54 | [Café](https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Echando pa'lante](https://open.spotify.com/album/3vA5NsIAd6UKzU4f1ooAzr) | 6:32 |
+| 55 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 |
+| 56 | [Calaveritas](https://open.spotify.com/track/1rfOVVrDPHouBZhiTL3kzs) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Celso Piña Arvizu](https://open.spotify.com/artist/4UKzuqzO8CEbT4LueIsdIF) | [Calaveritas](https://open.spotify.com/album/5RL8kn7xV8ivinDYDra4Uh) | 4:20 |
 | 57 | [Cumbia Con Arpa](https://open.spotify.com/track/1glosma3WgTE0YL7RDSCX5) | [Hugo Blanco y su Conjunto](https://open.spotify.com/artist/6nLEavXaOuT9ZMtOirWlQz) | [Colección de Éxitos, Vol\. 6](https://open.spotify.com/album/4gT6tpDNm1j7R8h3ckJktV) | 3:09 |
 | 58 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 |
 | 59 | [Un Derecho de Nacimiento](https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 5:21 |

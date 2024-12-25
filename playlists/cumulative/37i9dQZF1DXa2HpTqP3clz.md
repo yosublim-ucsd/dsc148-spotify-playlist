@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Dolly Parton & Family
 
-620 songs - 1 day 12 hr 49 min
+621 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Gold](https://open.spotify.com/track/3D23C3KmddyUFBswvf5c1w) | [Sharell Bryant](https://open.spotify.com/artist/4yAeOCzeSufeXn1Vccgi7P) | [Turn Me into a Diamond](https://open.spotify.com/album/7iQuTXRuydq7MTpT5VY8zQ) | 4:09 | 2022-03-25 | 2022-04-26 |
 | [Gone Gone Gone](https://open.spotify.com/track/6BlreBdQpQrOvpjjqqXcB4) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Gone Gone Gone](https://open.spotify.com/album/4fQG4zoMshyxV2VDwvzs1T) | 4:24 | 2021-12-17 | 2022-07-29 |
 | [Gone Gone Gone](https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 4:24 | 2022-10-14 | 2023-03-16 |
-| [Goodbye](https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM) | [Authentic Unlimited](https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO) | [So Much For Forever](https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB) | 3:28 | 2024-10-04 |  |
+| [Goodbye](https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM) | [Authentic Unlimited](https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO) | [So Much For Forever](https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB) | 3:28 | 2024-10-04 | 2024-12-25 |
 | [Granny's Got a Garden \- For G'maw Jan](https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:30 | 2022-08-26 | 2024-04-27 |
 | [Grassy Cove](https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5) | [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Happy Valley](https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV) | 3:38 | 2024-08-09 |  |
 | [Graveyard Fields](https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p) | [Appalachian Road Show](https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM) | [Jubilation](https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh) | 2:59 | 2023-10-27 | 2024-05-11 |
@@ -476,6 +476,7 @@
 | [Smokin' Strings \(feat\. Billy Strings\)](https://open.spotify.com/track/14vh1j0LpAbxUgj3WBuGQd) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/34eGLPiujwVWqOY4y7ywMU) | 7:09 | 2021-12-17 | 2022-07-29 |
 | [Smoky Mountain DNA](https://open.spotify.com/track/7bSeYYLEHb7zu2YQSRKqz5) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR) | [Smoky Mountain DNA](https://open.spotify.com/album/2pYVKXNEnJBaBqZjfqFU6Z) | 1:59 | 2024-11-15 |  |
 | [Smoky Mountain Girl](https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Jubilee](https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN) | 3:45 | 2023-08-25 | 2024-04-19 |
+| [Smoky Mountain Girl](https://open.spotify.com/track/0np7pLWzNJcW06dIil3fWp) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Jubilee](https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n) | 3:45 | 2024-11-29 |  |
 | [Snake Charmer](https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [Snake Charmer](https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc) | 2:59 | 2023-08-18 | 2024-12-22 |
 | [Something You Didn't Count On](https://open.spotify.com/track/5NzonieLQTc1e7rVkC8TkX) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Something You Didn't Count On](https://open.spotify.com/album/3LWFw8G4gG0YXEedvEB2km) | 2:53 | 2021-12-17 | 2022-07-15 |
 | [Something You Didn’t Count On](https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Something You Didn't Count On](https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd) | 2:53 | 2022-05-27 | 2024-11-16 |

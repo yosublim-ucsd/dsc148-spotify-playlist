@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Ojete Calor.
 
-129 songs - 6 hr 19 min
+130 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [ARTIFICIAL](https://open.spotify.com/track/5V6pQMM8bgFnocNxK5zPoI) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [METALLIX](https://open.spotify.com/album/72wMkN2RP0FGtmsgJ874xH) | 2:26 | 2024-11-05 | 2024-12-05 |
 | [ASTUTA](https://open.spotify.com/track/6mNlvsPSYm8xQ24fORjpyN) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ASTUTA](https://open.spotify.com/album/0GKzP509sadnEWkbzSnrKm) | 2:50 | 2024-12-04 |  |
 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 | 2024-06-05 |  |
-| [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 | 2024-08-06 |  |
+| [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 | 2024-08-06 | 2024-12-25 |
 | [Backstage](https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [No hay nada más de vampiro que tener unos primos en Portugal](https://open.spotify.com/album/2GeDiM6fRg4HAr7ipdtrLq) | 2:42 | 2024-09-03 |  |
 | [BOMBEROS](https://open.spotify.com/track/2KON1eH3Qh32FpuSm901K2) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [BOMBEROS](https://open.spotify.com/album/3lS6litcoyERbZEcK4gv0O) | 2:20 | 2024-10-01 | 2024-11-06 |
 | [CamGirl >.< !!!](https://open.spotify.com/track/1YjC6CQDXwFGKUxXbIlYvf) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [CamGirl >.< !!!](https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO) | 2:35 | 2024-07-02 |  |
@@ -44,6 +44,7 @@
 | [CULPA MÍA](https://open.spotify.com/track/3uMbgrHyfc40oN5pJISXzr) | [Elliott Vell](https://open.spotify.com/artist/0d4UVDQCabLBc2ezvAvYzA) | [CULPA MÍA](https://open.spotify.com/album/5toRg2jz8bjlggQt8M7Klc) | 2:47 | 2024-12-04 | 2024-12-18 |
 | [Culpable O No \(Miénteme Como Siempre\)](https://open.spotify.com/track/4GoHPcy4Nre6w9KjE1t2Zc) | [Rocío Saiz](https://open.spotify.com/artist/6J7Piqvg9Y5aIOFq6DuJtm) | [Culpable o No \(Miénteme Como Siempre\)](https://open.spotify.com/album/6rpnaDugPy1wKi2LeUKcQh) | 3:18 | 2024-07-02 | 2024-10-02 |
 | [Cárcel \(Adicción\)](https://open.spotify.com/track/189Lgn7hI1tDTdH0SwcI9Y) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Cárcel \(Adicción\)](https://open.spotify.com/album/0vPp9Mds32HMsBfOA2fzRi) | 3:06 | 2024-11-05 | 2024-12-05 |
+| [De Resaca](https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [De Resaca](https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO) | 2:38 | 2024-12-04 |  |
 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 | 2024-06-05 | 2024-07-25 |
 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 | 2024-06-05 |  |
 | [Disfraz de tigre](https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Animalitos](https://open.spotify.com/album/5JBrDB9iD7huWT5y6LCFPC) | 3:45 | 2024-07-03 | 2024-11-06 |

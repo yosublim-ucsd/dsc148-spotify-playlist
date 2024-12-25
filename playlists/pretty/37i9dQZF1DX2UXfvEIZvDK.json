@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 771626,
+  "num_followers": 772347,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Unintended",
-      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 330986,
       "name": "Bandito",
       "url": "https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Unintended",
+      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 281373,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/3t4p9vIhemAhCMr6hfL2pa"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Everything We Need",
-        "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Everything We Need",
-      "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "A Symptom Of Being Human (Live)",
         "url": "https://open.spotify.com/album/68MJEv5noaG9yRUhIg5zKn"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 248454,
       "name": "A Symptom Of Being Human",
       "url": "https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "Everything We Need",
+        "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Everything We Need",
+      "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
     },
     {
       "added_at": "2024-12-02 16:32:42",

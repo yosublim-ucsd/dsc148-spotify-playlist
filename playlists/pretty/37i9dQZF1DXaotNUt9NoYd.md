@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,459 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,467 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 63 | [Blue Aurora](https://open.spotify.com/track/32VnVQtjXPZfUSp5kHtMbz) | [The Art of Quiet Living](https://open.spotify.com/artist/0qpdyOYWA6WGS0DgWAhC5y) | [Piano Soundscapes & Nature Sounds for Meditation, Relaxation, Massage & Sleep](https://open.spotify.com/album/4ZxoQmUBik7bA5zSA5Qruf) | 3:19 |
 | 64 | [Om Asatoma \(Yoga Mantra\) \[feat\. Deva Premal & Miten\]](https://open.spotify.com/track/40391iHE1dYzQmOby5SFf7) | [The Yoga Mantra and Chant Music Project](https://open.spotify.com/artist/0zjett5LduAKxk0NfLC3NZ) | [Yoga Music Mantras & Chants](https://open.spotify.com/album/55qbMjcJd92Po54nkLmukm) | 7:16 |
 | 65 | [Mantra Stress Killer \- Indian Relaxing Chant, Bells and Flutes for Stress Relief](https://open.spotify.com/track/36uM3lN9QEt40k2gElDV3X) | [TCO](https://open.spotify.com/artist/43l4vCSiImV9sIB8mEoB5j) | [Indian Healing Music \(1 Hour Relaxing Indian Music for Yoga and Meditation Performed on Indian Flutes, Tablas, Sitar, Drums and Chants\)](https://open.spotify.com/album/5iAMQTamIMMWUIVRraiDzy) | 4:42 |
-| 66 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 |
+| 66 | [Samadhi](https://open.spotify.com/track/1WJdUxC0wACrNH5IlqfL2f) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Meditation Spa](https://open.spotify.com/album/6C6ZOAschwGsGWhFYH8Xwe) | 3:52 |
 | 67 | [Zen Garden](https://open.spotify.com/track/1m9lSJzYaZWGrdtLil18hN) | [Wellness](https://open.spotify.com/artist/1EbHNLhZfVqNhmthBWUdLg) | [Relaxing Spa Sounds](https://open.spotify.com/album/0N6rcJzbzNXIUvGPQMxm2u) | 4:55 |
-| 68 | [Samadhi](https://open.spotify.com/track/1WJdUxC0wACrNH5IlqfL2f) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Meditation Spa](https://open.spotify.com/album/6C6ZOAschwGsGWhFYH8Xwe) | 3:52 |
+| 68 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 |
 | 69 | [Deep Meditation](https://open.spotify.com/track/2EwfFUQNTUsf8nqJHUiBcM) | [Dharma Frequency](https://open.spotify.com/artist/3TTdwdIf7UUyeTnG9QWXfI) | [Yoga Retreat](https://open.spotify.com/album/0eAjruWl2AJFaEGFSZ9IR8) | 2:38 |
 | 70 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |
 | 71 | [Inner Meditation](https://open.spotify.com/track/3R1wr152E0xa8J2vRbIQx2) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Indian Instrumental Music](https://open.spotify.com/album/0liKecmul9RBtdG3HQGSpv) | 3:39 |
-| 72 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
-| 73 | [Ayurveda](https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l) | [Ayurveda](https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:01 |
+| 72 | [Ayurveda](https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l) | [Ayurveda](https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:01 |
+| 73 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
 | 74 | [Reiki Bansuri: Recommended Music](https://open.spotify.com/track/0b7JB89DUAE4PLoqqQIHEZ) | [Bansuri Flute Collection](https://open.spotify.com/artist/3gOXobsj4Ad7IuEzxe9qVk) | [Reiki Bansuri: Recommended Music for Reiki Treatments and Meditation, Healing Flutes for Massage and Calm Nature for Harmonious and Balanced Life](https://open.spotify.com/album/1xE7uD9HrzurXb3H8D7BQJ) | 4:05 |
 | 75 | [Dhyāna](https://open.spotify.com/track/4OGE31bP3woVbTTkelXBES) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 4:22 |
 

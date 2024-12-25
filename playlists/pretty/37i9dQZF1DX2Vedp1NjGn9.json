@@ -1,6 +1,6 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 128402,
+  "num_followers": 128437,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
-        "name": "Blood Pressures",
-        "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Future Starts Slow",
-      "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
         "name": "Portamento",
         "url": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 269081,
       "name": "Days",
       "url": "https://open.spotify.com/track/5g7uidL6cVNS7GxcCAXa19"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
+        "name": "Blood Pressures",
+        "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Future Starts Slow",
+      "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
     },
     {
       "added_at": "2024-03-18 13:18:53",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 192789,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
         "name": "SBTRKT",
         "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 201000,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
     },
     {
       "added_at": "2024-03-18 13:18:53",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
-        "name": "SBTRKT",
-        "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1PpfOKfKJR5gVfz7yejNB7"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
         "name": "Suego Faults",
         "url": "https://open.spotify.com/album/23pM83jp9nl1325SiAmCwk"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 172960,
       "name": "Abducted",
       "url": "https://open.spotify.com/track/0OLyp6n6yMwIzzlubXDrsK"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
+        "name": "SBTRKT",
+        "url": "https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1PpfOKfKJR5gVfz7yejNB7"
     },
     {
       "added_at": "2024-03-18 13:18:53",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/4fN0dQGDaV4Hg7Gd7mBOE0"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
         "name": "You Are All I See",
         "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 321453,
       "name": "Hanging On",
       "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/4fN0dQGDaV4Hg7Gd7mBOE0"
     },
     {
       "added_at": "2024-03-18 13:18:53",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
         "name": "W H O K I L L",
         "url": "https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/4d12AjSPP8IQZK1CamEwqp"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi"
     },
     {
       "added_at": "2024-03-18 13:18:53",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
+        "name": "On the Water",
+        "url": "https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH"
+      "duration_ms": 246426,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f"
     },
     {
       "added_at": "2024-03-18 13:18:53",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
-        "name": "On the Water",
-        "url": "https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu"
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 246426,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f"
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH"
     },
     {
       "added_at": "2024-03-18 13:18:53",

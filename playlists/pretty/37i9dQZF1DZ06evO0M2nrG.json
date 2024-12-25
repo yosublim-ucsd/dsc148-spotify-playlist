@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 67487,
+  "num_followers": 67498,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAACqNCWGLbLtVx0zoPKdor34",
+  "snapshot_id": "Z2ioAAAAAACq5IcuVmeVaX7+dzXlFJS1",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUKHA",
+        "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 172239,
+      "name": "MEDICINA NATURAL",
+      "url": "https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cali Buenaventura",
         "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
       },
@@ -355,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bolerito",
-        "url": "https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 167710,
-      "name": "Bolerito",
-      "url": "https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -387,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUKHA",
-        "url": "https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk"
+        "name": "Bolerito",
+        "url": "https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL"
       },
       "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 172239,
-      "name": "MEDICINA NATURAL",
-      "url": "https://open.spotify.com/track/2fQiFdjuOTVORwaDsmZxL1"
+      "duration_ms": 167710,
+      "name": "Bolerito",
+      "url": "https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 192469,
-      "name": "La Rutina",
-      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALIDOSA",
         "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 174263,
       "name": "Cha Cha - Bandera Blanca",
       "url": "https://open.spotify.com/track/6TnIcW5IzJFr9lqvHmZWDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 192469,
+      "name": "La Rutina",
+      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
       "duration_ms": 169207,
       "name": "El Que Ama Sufre",
       "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo Hasta El Final",
-        "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
-      },
-      "artists": [
-        {
-          "name": "Gian Marco",
-          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Contigo Hasta El Final",
-      "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
     },
     {
       "added_at": null,
@@ -691,6 +671,26 @@
       "duration_ms": 204533,
       "name": "Le Hace Falta Un Beso (feat. Mike Bah\u00eda) - Versi\u00f3n Reggaeton",
       "url": "https://open.spotify.com/track/2jec7cCgz0dWzLwJd9jWh2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo Hasta El Final",
+        "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
+      },
+      "artists": [
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Contigo Hasta El Final",
+      "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jame",
         "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 189679,
       "name": "D\u00e9jame",
       "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": null,

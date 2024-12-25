@@ -4,7 +4,7 @@
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 林家謙 \(Terence Lam\)
 
-1,345 songs - 3 day 6 hr 12 min
+1,346 songs - 3 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,6 +670,7 @@
 | [夜访古城堡](https://open.spotify.com/track/53iHNVNmeDxAoWiQqesW3i) | [Raylee Forest](https://open.spotify.com/artist/0sjPDzNZVEwTlpzLfoJjRc) | [夜访古城堡](https://open.spotify.com/album/2DVtHZRfx0tRnxVINaq7VS) | 3:14 | 2024-08-08 | 2024-08-23 |
 | [夢](https://open.spotify.com/track/7L8iXPtQCb7ELLff9Az4bY) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [夢](https://open.spotify.com/album/1olxR5StgQ10ZMv1cnX46k) | 3:54 | 2024-06-27 | 2024-07-19 |
 | [夢遊先生](https://open.spotify.com/track/6XelgVgjGvtBj3veeVB4kE) | [henÿ](https://open.spotify.com/artist/2clqUAXoPrcbfpnd3h7B7a), [YOSHI](https://open.spotify.com/artist/27bCtUwrBetAOyAqxEtjgi) | [夢遊先生](https://open.spotify.com/album/6kHOV5qkjvRH2bS6BBUqqw) | 3:40 | 2024-11-07 | 2024-11-29 |
+| [夢魘](https://open.spotify.com/track/4pNaHi7WELI9Rh4xEbkTHy) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [夢魘](https://open.spotify.com/album/5nYqCffTqtNdIVhmD14SFM) | 3:09 | 2024-12-19 |  |
 | [大叔](https://open.spotify.com/track/5uR3qrJyx61WHwB1r90fiB) | [Alan Kuo](https://open.spotify.com/artist/3LyN3dzJjv35T1XcDysnZG), [竇智孔](https://open.spotify.com/artist/0ovewqNmkiEZaXqDawcZPM), [Hot Fire](https://open.spotify.com/artist/00M9uvTOj4Kzr7Gh19Stux) | [大叔](https://open.spotify.com/album/2lo7kQXIoivefI2kd7bnvr) | 3:33 | 2024-08-15 | 2024-09-06 |
 | [大富翁](https://open.spotify.com/track/5RMRbhHBFZ1Ys0DDnyy3JD) | [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [大富翁](https://open.spotify.com/album/1MF3GhjFalaF5AEATxQfQ2) | 2:52 | 2024-12-12 |  |
 | [大舌頭](https://open.spotify.com/track/5mPYxP2cSh6tE5vMn5C1Qh) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb), [Lambert凌](https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC) | [大舌頭](https://open.spotify.com/album/4rQGP8ka5aLh0TCs7iLWi6) | 2:53 | 2024-08-29 | 2024-09-06 |

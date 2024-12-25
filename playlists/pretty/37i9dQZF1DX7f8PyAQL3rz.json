@@ -1,6 +1,6 @@
 {
   "description": "chefin rei da tropa do mais novo ataca no funk",
-  "num_followers": 1403737,
+  "num_followers": 1403880,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
+        "name": "A Dan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 243498,
+      "name": "A Dan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
         "name": "M\u00eddia",
         "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 233181,
       "name": "M\u00eddia",
       "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
-        "name": "A Dan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "A Dan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
     },
     {
       "added_at": "2024-12-20 03:03:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,725 likes - 44 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,729 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,19 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 28 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 |
 | 29 | [No Nicky No](https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 2:17 |
 | 30 | [FBLA](https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:39 |
-| 31 | [Dislocated](https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:19 |
+| 31 | [Mercy](https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 5:49 |
 | 32 | [Unwound](https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 4:12 |
 | 33 | [Taken](https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 1:53 |
 | 34 | [Repetition](https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 2:59 |
-| 35 | [Mercy](https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 5:49 |
+| 35 | [E.T.I.](https://open.spotify.com/track/5bSAktMI7dZ91EIPrAQn9j) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 3:41 |
 | 36 | [Throwing Punches](https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:44 |
-| 37 | [Reprise](https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 1:41 |
+| 37 | [Dislocated](https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:19 |
 | 38 | [Sinatra](https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 4:23 |
 | 39 | [More Bad News](https://open.spotify.com/track/2bYkJghT6Cz5ZMBkcBpABA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 1:24 |
-| 40 | [NYC Tough Guy](https://open.spotify.com/track/69hbQdjcPhITOxVBuIApkL) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:34 |
+| 40 | [Reprise](https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 1:41 |
 | 41 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
-| 42 | [E.T.I.](https://open.spotify.com/track/5bSAktMI7dZ91EIPrAQn9j) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 3:41 |
-| 43 | [Tell Me Again](https://open.spotify.com/track/5e5X4a7JK1wUVivxxMZB0G) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:43 |
-| 44 | [Big Shot](https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:43 |
+| 42 | [I'm Only Sleeping](https://open.spotify.com/track/1ikveMBbbi2DVWbfKdsxWz) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 3:09 |
+| 43 | [Big Shot](https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:43 |
 
-Snapshot ID: `Z2dWgAAAAABvi/C/IGqrm2BwLyEo4qaQ`
+Snapshot ID: `Z2ioAAAAAACoCZf71CmnZ/Pp7LIqZ6Gg`

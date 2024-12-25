@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,731 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,773 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 42 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 43 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 44 | [All for You](https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [All for You](https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb) | 3:57 |
-| 45 | [When You Touch The Sky](https://open.spotify.com/track/0bxlJWWvXMV83KNgb543uQ) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [When You Touch The Sky](https://open.spotify.com/album/3g37CMgco7Cock6BsoSAJO) | 2:59 |
-| 46 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 |
+| 45 | [Late December](https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Late December](https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8) | 2:59 |
+| 46 | [When You Touch The Sky](https://open.spotify.com/track/0bxlJWWvXMV83KNgb543uQ) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [When You Touch The Sky](https://open.spotify.com/album/3g37CMgco7Cock6BsoSAJO) | 2:59 |
 | 47 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 |
-| 48 | [Late December](https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [Late December](https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8) | 2:59 |
+| 48 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 |
 | 49 | [The State of the World](https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The State of the World](https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39) | 4:18 |
 | 50 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
 | 51 | [Doves](https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Doves](https://open.spotify.com/album/1jZSsjU84SBeiLlk7iQs65) | 4:11 |

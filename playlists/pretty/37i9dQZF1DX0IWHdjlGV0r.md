@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,135 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,142 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 46 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 |
 | 47 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 |
 | 48 | [Forte](https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Nonostante Tutto](https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ) | 3:27 |
-| 49 | [MEZZE VERITÀ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 |
-| 50 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 |
+| 49 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 |
+| 50 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 | 51 | [Torna Da Me](https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:00 |
-| 52 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
+| 52 | [MEZZE VERITÀ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 |
 | 53 | [Altamente Mia](https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Altamente Mia](https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A) | 2:52 |
 | 54 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 |
 | 55 | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/track/2QieMRkH51KbJw4ZauGJfY) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/album/257g998F1JZB1zxKp0CPNd) | 3:06 |

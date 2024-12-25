@@ -2,13 +2,13 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With glitterpop!, Joshua Lanuarii, STYXVII and more
+> With Joshua Lanuarii, glitterpop!, STYXVII and more
 
-70 songs - 2 hr 47 min
+71 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7teen](https://open.spotify.com/track/1jfjlQPrVQhNEFXlQLelLE) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [NO NICE THINGS](https://open.spotify.com/album/4Ke9hTIEJjucuy4kaWy3P1) | 2:59 | 2024-12-23 | 2024-12-24 |
+| [7teen](https://open.spotify.com/track/1jfjlQPrVQhNEFXlQLelLE) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [NO NICE THINGS](https://open.spotify.com/album/4Ke9hTIEJjucuy4kaWy3P1) | 2:59 | 2024-12-23 |  |
 | [adhd music for FURRIES!!!](https://open.spotify.com/track/1VZAXgKpDuJoMVcWHvp1HM) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [adhd music for FURRIES!!!](https://open.spotify.com/album/0XfTGfD8AAHNlb8SMQ7iuf) | 3:12 | 2024-12-14 |  |
 | [against my shell](https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [against my shell](https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z) | 2:34 | 2024-12-14 |  |
 | [all my frens r rainbowz, but i'm still DEAD INSIDE!!!](https://open.spotify.com/track/7seEwSO5nqdoCdLnKsqy4g) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [all my frens r rainbowz, but i'm still DEAD INSIDE!!!](https://open.spotify.com/album/0Y6EF8DEimN2pfHQjs9sLb) | 2:20 | 2024-12-14 |  |
@@ -16,6 +16,7 @@
 | [Anymore](https://open.spotify.com/track/6pfSkblIvBclJXPvFcwNaf) | [MADAME SCARLETT](https://open.spotify.com/artist/4mg8GHGlnYZLHI57YAPU1P), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ANYMORE](https://open.spotify.com/album/7zB4u0DjsIia8iT1Or7FXF) | 2:12 | 2024-12-14 |  |
 | [BE KIND 2 YOURSELF](https://open.spotify.com/track/6Y9wr8rgb66dz6QAjMjPwM) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 3:03 | 2024-12-14 |  |
 | [BEAR YOUR FANGS](https://open.spotify.com/track/31bqp8q08EOV62NXr7bQSa) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [BEAR YOUR FANGS](https://open.spotify.com/album/0cKHSmukSYFb9O29FHcHDj) | 3:01 | 2024-12-14 |  |
+| [BEES IN MY HEAD \(adhd\)](https://open.spotify.com/track/3tfCCnSLYlVVcjVbdYerf3) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [BEES IN MY HEAD \(adhd\)](https://open.spotify.com/album/2VSJV60EheoNXoe5qfTUso) | 1:24 | 2024-12-25 |  |
 | [Bite](https://open.spotify.com/track/0dl4v6E1Afw5K41K2PukJA) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv), [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [Bite](https://open.spotify.com/album/5f3L1abNkfjlFBw3zv8ncu) | 4:25 | 2024-12-22 | 2024-12-23 |
 | [blending in](https://open.spotify.com/track/5egVnvG8bUNzDl6knzzjUY) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [blending in](https://open.spotify.com/album/7DAUGgCvjKpw6dxMqHIXxv) | 1:09 | 2024-12-20 | 2024-12-21 |
 | [c.e.d\. \(manic\)](https://open.spotify.com/track/0Vji7774dqXL6TihvdLEEx) | [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [c.e.d\. \(manic\)](https://open.spotify.com/album/665k9OEF40QZt98Y2c2Z3a) | 1:38 | 2024-12-17 | 2024-12-20 |
@@ -48,9 +49,9 @@
 | [measuring cup!](https://open.spotify.com/track/7HDqKQ6OReu83T28EqZ0OP) | [little purr man](https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn) | [measuring cup!](https://open.spotify.com/album/11xRzmkHSSvqXv7lr06hLy) | 1:06 | 2024-12-14 |  |
 | [MURDER EVERY 1 U KNOW! \- SALVIA'S VERSION](https://open.spotify.com/track/6iCNGXd4dIkVj7oofcRomz) | [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [MURDER EVERY 1 U KNOW! \(SALVIA'S VERSION\)](https://open.spotify.com/album/1CDHqGeMoQ4sKJWBeWwVAV) | 2:07 | 2024-12-14 | 2024-12-21 |
 | [My Best Friend](https://open.spotify.com/track/1Jm8NcQznEVoaJKTo55lWu) | [Blurain](https://open.spotify.com/artist/1qoYHtGe1GYUzFpoRIse8y), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [What Life Really Means](https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv) | 4:32 | 2024-12-14 |  |
-| [my skin is dry](https://open.spotify.com/track/7IBxObNV3PLW9PXHMOWKxb) | [little purr man](https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn) | [my skin is dry](https://open.spotify.com/album/7J0uQhcb9b9lzEk7aOdLzv) | 1:18 | 2024-12-17 |  |
+| [my skin is dry](https://open.spotify.com/track/7IBxObNV3PLW9PXHMOWKxb) | [little purr man](https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn) | [my skin is dry](https://open.spotify.com/album/7J0uQhcb9b9lzEk7aOdLzv) | 1:18 | 2024-12-17 | 2024-12-25 |
 | [my teeth will free you](https://open.spotify.com/track/5cCxIwMcjhYVWHGu5RLn5G) | [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [my teeth will free you](https://open.spotify.com/album/2WZ83RZZpwYfz1JFWYOGKd) | 3:02 | 2024-12-15 | 2024-12-22 |
-| [no inbetween](https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no inbetween](https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp) | 1:51 | 2024-12-14 |  |
+| [no inbetween](https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no inbetween](https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp) | 1:51 | 2024-12-14 | 2024-12-25 |
 | [no response](https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no response](https://open.spotify.com/album/3cgXBePYbhtd8qlpFGTGMm) | 2:01 | 2024-12-14 |  |
 | [NYA NYA DANCE](https://open.spotify.com/track/5tKj1qinFKbvRIzRmgK5fG) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40), [R00SEVELT](https://open.spotify.com/artist/2nNGFqHyJ0DpWpeN9D4yns), [jammies](https://open.spotify.com/artist/3CzrUsrqxA97pyVVGrRyAX) | [NYA NYA DANCE](https://open.spotify.com/album/69NebO2NdKaiwvmXAA8xbF) | 2:06 | 2024-12-16 | 2024-12-22 |
 | [one touch](https://open.spotify.com/track/5acV2YistDobtrwjN9Q7MY) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [one touch](https://open.spotify.com/album/2Jo2CqIHzBePJCkeDmJDOI) | 1:37 | 2024-12-14 |  |

@@ -2,9 +2,9 @@
 
 ### [Teen Culture](https://open.spotify.com/playlist/37i9dQZF1DX8XStIuaEA9J)
 
-> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 詩羽 × CENT
+> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 花譜
 
-782 songs - 1 day 20 hr 58 min
+784 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [CuL](https://open.spotify.com/track/2cjH580euB0t1OVp1HGUra) | [浜野はるき](https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp) | [CuL](https://open.spotify.com/album/2HF0txxgAQfDfKnMppYqdF) | 2:37 | 2024-11-05 |  |
 | [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-23 | 2023-12-20 |
 | [Curse of Love](https://open.spotify.com/track/7ALNs2wG7YBMIqou85P22G) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [Curse of Love](https://open.spotify.com/album/2gLxAX6QIAsanB9HUcEh2z) | 3:34 | 2024-02-06 | 2024-02-21 |
+| [DALMATIAN](https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DALMATIAN](https://open.spotify.com/album/736N8pHiehLrYOfJMSshMZ) | 4:05 | 2024-12-24 |  |
 | [DANCELIXIR](https://open.spotify.com/track/5wZiqGMAbx6prjliENRYmb) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [DANCELIXIR](https://open.spotify.com/album/4xB7elCmGdQG1Srf9srUgz) | 2:58 | 2024-08-27 | 2024-10-16 |
 | [DANCING IN THE ROOM](https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [DANCING IN THE ROOM](https://open.spotify.com/album/6DmyL9pVA56Ssp5AxGrNrI) | 3:54 | 2024-02-06 | 2024-02-14 |
 | [Dancing on the Mirror](https://open.spotify.com/track/7ytRkrwlXnqFDNTeyMvFtD) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Dancing on the Mirror](https://open.spotify.com/album/6p94bt5BJ7gGhv2JM07teB) | 3:29 | 2024-07-30 | 2024-09-04 |
@@ -375,7 +376,7 @@
 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-16 | 2024-05-22 |
 | [THOUSAND LIGHTS](https://open.spotify.com/track/3rgJNEZzpKgkD8ZsVRtHs9) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [THOUSAND LIGHTS](https://open.spotify.com/album/6P1Dki5g316HmEPFqLAwGI) | 3:18 | 2024-02-06 | 2024-02-14 |
 | [Tiger \- KINISHY ver from Audition "No No Girls"](https://open.spotify.com/track/1lZfQuXhvQ5qo495DTlCAt) | [No No Girls](https://open.spotify.com/artist/7shRpTjDUCt71UN0aNjurm) | [Tiger](https://open.spotify.com/album/3h9d2oKvlUvvJab3Xw4VUO) | 3:28 | 2024-12-17 |  |
-| [Tiny Step](https://open.spotify.com/track/1PQ6fTLRdhoAgSsg7EumU4) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Welcome Strangers \~2nd IS:SUE\~](https://open.spotify.com/album/7qTmSOrp5KxbYaAb8g5F20) | 2:48 | 2024-11-12 |  |
+| [Tiny Step](https://open.spotify.com/track/1PQ6fTLRdhoAgSsg7EumU4) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Welcome Strangers \~2nd IS:SUE\~](https://open.spotify.com/album/7qTmSOrp5KxbYaAb8g5F20) | 2:48 | 2024-11-12 | 2024-12-25 |
 | [TOKYO JOURNEY](https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [TOKYO JOURNEY](https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs) | 4:18 | 2023-11-29 | 2023-12-16 |
 | [Tomorrow](https://open.spotify.com/track/0kbLm2sZjZlQWHuvxvNLBv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Tomorrow](https://open.spotify.com/album/2XfrP5N3VPcaCUeJT4qzhk) | 2:58 | 2024-11-19 | 2024-12-04 |
 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-01-25 | 2024-02-07 |
@@ -498,7 +499,7 @@
 | [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-06 | 2024-09-25 |
 | [エヴォリューション](https://open.spotify.com/track/2l6SJgROFpqSHPw7yZuE7i) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [エヴォリューション](https://open.spotify.com/album/7rfDn22mEaa7n5pIDhB98n) | 2:50 | 2024-04-30 | 2024-05-22 |
 | [エール](https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [エール](https://open.spotify.com/album/0022F7J96TQCIISAtDgdxC) | 3:23 | 2024-02-06 | 2024-02-08 |
-| [オレンジユース](https://open.spotify.com/track/0tyWACXs21qrDmFCCuVlmp) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [オレンジユース](https://open.spotify.com/album/3dB38r28Uyoi5ykhYFI0X7) | 3:32 | 2024-11-12 |  |
+| [オレンジユース](https://open.spotify.com/track/0tyWACXs21qrDmFCCuVlmp) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [オレンジユース](https://open.spotify.com/album/3dB38r28Uyoi5ykhYFI0X7) | 3:32 | 2024-11-12 | 2024-12-25 |
 | [カミサマキドリ feat\. Takuya Yamanaka \- from THE ORAL CIGARETTES](https://open.spotify.com/track/6JjhSZPjSrY1DmpltRHXkb) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Takuya Yamanaka](https://open.spotify.com/artist/3qH6madqYWx3wuUUDv5EMC) | [HERO](https://open.spotify.com/album/0SD61FTKmzJoNMjFGANQaB) | 3:11 | 2024-01-18 | 2024-01-26 |
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-25 | 2024-10-02 |
 | [キミのいないクリスマスイヴ](https://open.spotify.com/track/2aZtHtD2JIwDi2SPcyC8VG) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k) | [キミのいないクリスマスイヴ](https://open.spotify.com/album/13hMLAwxFSt79mpkRc1kBi) | 3:34 | 2023-12-12 | 2023-12-14 |
@@ -613,6 +614,7 @@
 | [人と人と人と人](https://open.spotify.com/track/2vw78LB4r9DMmJ4SIOOi6R) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [人と人と人と人](https://open.spotify.com/album/2Mvt762rR987s4YJxFk3TE) | 3:10 | 2024-11-05 | 2024-11-13 |
 | [今夜は君と](https://open.spotify.com/track/6z4Oq9jjl5OWnCR0xOBBpH) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [今夜は君と](https://open.spotify.com/album/1dJxHRe7ns4gLo3FrllMzy) | 3:52 | 2024-11-05 | 2024-12-04 |
 | [今日くらいはいい子でいようよ](https://open.spotify.com/track/2yBDb6rcghZVi5vmKknh5I) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [今日くらいはいい子でいようよ](https://open.spotify.com/album/6rbLCikhRD7IxY2lC1lhBi) | 2:25 | 2024-04-23 | 2024-05-01 |
+| [代替嬉々](https://open.spotify.com/track/4ieJKUj64aZwXGFgeJ7x7P) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [寓話](https://open.spotify.com/album/4dD0hnVXxV4nJ0aZO23Wrb) | 4:21 | 2024-12-24 |  |
 | [仲間](https://open.spotify.com/track/0tb1goN5JzATGVZ0Ta0EtQ) | [Skypeace](https://open.spotify.com/artist/67B3zxnhGAjiz0OVdPidXk) | [FEVER](https://open.spotify.com/album/57RZKuKx20oy4NxqV8FpPA) | 3:18 | 2024-01-23 | 2024-02-01 |
 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 | 2024-04-30 | 2024-06-19 |
 | [会えないのに](https://open.spotify.com/track/6LTMjAkawUQOBGRlj22r0R) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 8](https://open.spotify.com/album/629Tqastk0qbtWCp8IAYCO) | 5:07 | 2024-04-09 | 2024-04-17 |

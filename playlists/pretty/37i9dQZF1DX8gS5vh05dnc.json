@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129709,
+  "num_followers": 129710,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Buttons",
         "url": "https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 127342,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -850,10 +850,6 @@
         {
           "name": "Khalid",
           "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
       "duration_ms": 177066,
@@ -1011,22 +1007,6 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
         "name": "Adicto (feat. Marc Anthony)",
         "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
       },
@@ -1043,6 +1023,22 @@
       "duration_ms": 209191,
       "name": "Adicto (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1215,6 +1211,22 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/2sFIcASZWGhP0KyMPWemSE"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Feliz Navidad - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4uqRDeCgXPLQFYqA5uf5Tr"
+    },
+    {
+      "added_at": "2024-12-23 01:22:54",
+      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -1247,18 +1259,18 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+        "name": "Mixer",
+        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+      "duration_ms": 192823,
+      "name": "Mixer",
+      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1279,18 +1291,18 @@
     {
       "added_at": "2024-12-23 01:22:54",
       "album": {
-        "name": "Mixer",
-        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 192823,
-      "name": "Mixer",
-      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2024-12-23 01:22:54",
@@ -1307,26 +1319,6 @@
       "duration_ms": 204376,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
-    },
-    {
-      "added_at": "2024-12-23 01:22:54",
-      "album": {
-        "name": "Fuzzy Feeling",
-        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 176208,
-      "name": "Fuzzy Feeling",
-      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

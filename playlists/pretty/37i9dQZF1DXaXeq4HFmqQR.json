@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nFoto: KUINA",
-  "num_followers": 13865,
+  "num_followers": 13868,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-11-06 03:00:00",
       "album": {
+        "name": "MI ULTIMO DESEO",
+        "url": "https://open.spotify.com/album/6VCLRqpks5Uh7t2inj2hx5"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "MI ULTIMO DESEO",
+      "url": "https://open.spotify.com/track/3eG7VpFX2UjkSFCpWP4Zu9"
+    },
+    {
+      "added_at": "2024-11-06 03:00:00",
+      "album": {
         "name": "El Ultimo",
         "url": "https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 182388,
       "name": "El Ultimo",
       "url": "https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f"
-    },
-    {
-      "added_at": "2024-11-06 03:00:00",
-      "album": {
-        "name": "MI ULTIMO DESEO",
-        "url": "https://open.spotify.com/album/6VCLRqpks5Uh7t2inj2hx5"
-      },
-      "artists": [
-        {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "MI ULTIMO DESEO",
-      "url": "https://open.spotify.com/track/3eG7VpFX2UjkSFCpWP4Zu9"
     },
     {
       "added_at": "2024-11-06 03:00:00",

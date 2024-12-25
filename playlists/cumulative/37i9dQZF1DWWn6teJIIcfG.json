@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 313200,
       "name": "Grande valse brillante, Op. 34 No. 2",
       "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
@@ -3592,6 +3592,28 @@
       "duration_ms": 156233,
       "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
+    },
+    {
+      "album": {
+        "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
     },
     {
       "album": {
@@ -6045,6 +6067,32 @@
     },
     {
       "album": {
+        "name": "Shostakovich: Jazz Suite No. 2, Op. 50b: Waltz",
+        "url": "https://open.spotify.com/album/7ClRCdCmBj55itFhTa8LhA"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Edgar Moreau",
+          "url": "https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0"
+        },
+        {
+          "name": "David Kadouch",
+          "url": "https://open.spotify.com/artist/6pkRjdkwMEEJTILeBF45OC"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205813,
+      "name": "Shostakovich: Jazz Suite No. 2, Op. 50b: Waltz (Transcr. Kadouch & Moreau for Cello and Piano)",
+      "url": "https://open.spotify.com/track/44h6maG4IObZJtcWffAQtk"
+    },
+    {
+      "album": {
         "name": "Clair De Lune - Classical Favourites for Relaxing and Dreaming",
         "url": "https://open.spotify.com/album/5whDhKLvjPuuPLZExFVw5R"
       },
@@ -7746,7 +7794,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 294848,
       "name": "V\u00e5ren",
       "url": "https://open.spotify.com/track/3oBshZ7DMS9sAgja2M1JVV"

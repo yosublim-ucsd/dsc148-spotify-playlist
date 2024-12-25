@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > Presenting the biggest tracks from the class of 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,020 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,023 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

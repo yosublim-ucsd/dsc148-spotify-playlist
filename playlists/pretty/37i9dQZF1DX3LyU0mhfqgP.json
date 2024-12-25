@@ -1,28 +1,44 @@
 {
-  "description": "Listen to our pick of the hottest songs from LGBTQIA+ artists in 2024\nCover: Gloria Groove",
-  "num_followers": 1080231,
+  "description": "Listen to our pick of the hottest songs from LGBTQIA+ artists in 2024\nCover: Karin Ann",
+  "num_followers": 1080201,
   "original_name": "Best of GLOW Global 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z10Q3QAAAADJUKrFjdRZN87E/CJWA7hO",
+  "snapshot_id": "Z2o/3gAAAAANbToPeRCTTf8Qml7Dx4WS",
   "tracks": [
     {
       "added_at": "2024-12-14 05:00:13",
       "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+        "name": "through the telescope",
+        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
         }
       ],
-      "duration_ms": 168805,
-      "name": "Nosso Primeiro Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
+      "duration_ms": 174733,
+      "name": "false gold",
+      "url": "https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN"
+    },
+    {
+      "added_at": "2024-12-14 05:00:13",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
       "added_at": "2024-12-14 05:00:13",
@@ -51,18 +67,18 @@
     {
       "added_at": "2024-12-14 05:00:13",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
       "added_at": "2024-12-14 05:00:13",
@@ -79,22 +95,6 @@
       "duration_ms": 150000,
       "name": "JOYRIDE",
       "url": "https://open.spotify.com/track/2cSstpKlitPixk8j1hl8E6"
-    },
-    {
-      "added_at": "2024-12-14 05:00:13",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
       "added_at": "2024-12-14 05:00:13",
@@ -131,18 +131,18 @@
     {
       "added_at": "2024-12-14 05:00:13",
       "album": {
-        "name": "through the telescope",
-        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
       },
       "artists": [
         {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 174733,
-      "name": "false gold",
-      "url": "https://open.spotify.com/track/7x8Rc57lsKSov5ROVU2ULN"
+      "duration_ms": 168805,
+      "name": "Nosso Primeiro Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
     },
     {
       "added_at": "2024-12-14 05:00:13",

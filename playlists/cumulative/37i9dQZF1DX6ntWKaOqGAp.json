@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: Saucy Dog",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: PEOPLE 1",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -3261,6 +3261,24 @@
     },
     {
       "album": {
+        "name": "DALMATIAN",
+        "url": "https://open.spotify.com/album/736N8pHiehLrYOfJMSshMZ"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245300,
+      "name": "DALMATIAN",
+      "url": "https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK"
+    },
+    {
+      "album": {
         "name": "Dancer in the Dark",
         "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
       },
@@ -3312,6 +3330,24 @@
       "duration_ms": 234840,
       "name": "DANCING IN THE ROOM",
       "url": "https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx"
+    },
+    {
+      "album": {
+        "name": "Dang Ding Dong",
+        "url": "https://open.spotify.com/album/0nA4dFHf0P7awjGxTOLc6L"
+      },
+      "artists": [
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182172,
+      "name": "Dang Ding Dong",
+      "url": "https://open.spotify.com/track/2rWY7c74VbicKCKBldOdqt"
     },
     {
       "album": {
@@ -4312,7 +4348,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 216706,
       "name": "escape",
       "url": "https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW"
@@ -16830,7 +16866,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 196977,
       "name": "VINCENT",
       "url": "https://open.spotify.com/track/7zyTpB0EFIg3NaiZ6R3wCP"
@@ -17908,6 +17944,28 @@
       "duration_ms": 216553,
       "name": "Zakkou pt.2",
       "url": "https://open.spotify.com/track/4OgVsCeGytlrOThG3srn0M"
+    },
+    {
+      "album": {
+        "name": "Zan\u201c\u8b9a\u201d",
+        "url": "https://open.spotify.com/album/0LDIKGg05W5vXotyHy6iiy"
+      },
+      "artists": [
+        {
+          "name": "the telephones",
+          "url": "https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ"
+        },
+        {
+          "name": "PA PUN BAND",
+          "url": "https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193342,
+      "name": "Zan\u201c\u8b9a\u201d",
+      "url": "https://open.spotify.com/track/7v0mO9hTJzhWMrYcMnZt03"
     },
     {
       "album": {
@@ -25200,7 +25258,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 225781,
       "name": "\u30e1\u30ea\u30d0",
       "url": "https://open.spotify.com/track/3UjEmhRZ0fGOrEFYQAQXsd"

@@ -4,7 +4,7 @@
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-117 songs - 6 hr 7 min
+118 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Sambalamento](https://open.spotify.com/track/4fJrqBOXrJ9QwaqJ9UsptN) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Plays and Sings Bossa Nova](https://open.spotify.com/album/44zM914NmvslUJaJW2msNc) | 2:19 | 2024-03-19 |  |
 | [Sambalamento](https://open.spotify.com/track/0utN2UcAocw2Ewk6lzMRpx) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Oscar Castro\-Neves](https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9) | [Composer Of Black Orpheus Plays And Sings Bossa Nova](https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ) | 2:19 | 2023-05-03 | 2024-04-19 |
 | [Saudade Vem Correndo](https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:39 | 2023-05-03 |  |
-| [Sorriu Para Mim](https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [20 Grandes Sucessos De Joao Gilberto](https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h) | 3:04 | 2024-03-19 |  |
+| [Sorriu Para Mim](https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [20 Grandes Sucessos De Joao Gilberto](https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h) | 3:04 | 2024-03-19 | 2024-12-25 |
 | [Sorriu Para Mim](https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova For Beginners](https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX) | 3:08 | 2023-05-03 | 2024-04-19 |
 | [Só Danço Samba](https://open.spotify.com/track/3oAUlcseAPHcBVJ6nHWbJv) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 3:45 | 2024-03-19 |  |
 | [Só Danço Samba](https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:36 | 2023-05-03 | 2024-04-19 |
@@ -112,6 +112,7 @@
 | [The Red Blouse](https://open.spotify.com/track/4wBdGRxCaWFtqei59k5InB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 5:09 | 2023-05-03 |  |
 | [Tim\-Tim\-Por\-Tim\-Tim](https://open.spotify.com/track/36acg8RK9hFvlgqIMfv8vv) | [Os Cariocas](https://open.spotify.com/artist/1FbL4RGqW5gvZ2kZNGdfpA) | [Pure Bossa Nova](https://open.spotify.com/album/52G6kzmnMumKmdJuL0Tim5) | 2:23 | 2023-05-03 | 2023-08-25 |
 | [Tin Tin Por Tin Tin](https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 3:40 | 2023-05-03 |  |
+| [Triste](https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 2:39 | 2024-07-08 |  |
 | [Triste](https://open.spotify.com/track/0PHGV9pWYv91WCeCXhdWye) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:42 | 2023-05-03 | 2024-04-19 |
 | [Tristeza](https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Poeta e o Violão](https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF) | 4:06 | 2023-05-03 |  |
 | [Unhappy Remark \(Palpite Infeliz\)](https://open.spotify.com/track/0dfj6j9cYQYGmZej4WvMHL) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/0u32q4Evsx4fHtpkUUwodh) | 3:55 | 2023-06-20 |  |

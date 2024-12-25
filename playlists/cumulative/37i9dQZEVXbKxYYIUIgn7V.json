@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "100 Push Ups",
+        "url": "https://open.spotify.com/album/7GZmX5gl1AwdWqzGbI4Q6Z"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153826,
+      "name": "100 Push Ups",
+      "url": "https://open.spotify.com/track/5OJYxgz6ORI1EhSZzv8aUC"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/6II0CjU8B2JyEgWBBVvtjN"
       },
@@ -3461,6 +3479,28 @@
     },
     {
       "album": {
+        "name": "Butcher",
+        "url": "https://open.spotify.com/album/71Xdk4hTiAbzeCMfm4oo6X"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167842,
+      "name": "Butcher",
+      "url": "https://open.spotify.com/track/0uSHA5dbsCRMmzbidwhKwl"
+    },
+    {
+      "album": {
         "name": "Buurman Uit Berlijn",
         "url": "https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE"
       },
@@ -4014,6 +4054,24 @@
       "duration_ms": 128575,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C"
+    },
+    {
+      "album": {
+        "name": "Chill Guy Freestyle",
+        "url": "https://open.spotify.com/album/1BwkYaoBG1cXfq0Aj2lpdU"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Chill Guy Freestyle",
+      "url": "https://open.spotify.com/track/54okB8LVgim8FftzpuUgXV"
     },
     {
       "album": {
@@ -4574,7 +4632,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 188809,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/62u7Qqim2hVpu1tlDK2Q9R"
@@ -7153,6 +7211,36 @@
     },
     {
       "album": {
+        "name": "Froh & Munter",
+        "url": "https://open.spotify.com/album/4ycQwVkPiqJhiV7MW75JxK"
+      },
+      "artists": [
+        {
+          "name": "NOISETIME",
+          "url": "https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC"
+        },
+        {
+          "name": "Blaze U",
+          "url": "https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1"
+        },
+        {
+          "name": "ANVEE",
+          "url": "https://open.spotify.com/artist/1G8RTaCyfbl9e4EasQL6gw"
+        },
+        {
+          "name": "Mr. Stache",
+          "url": "https://open.spotify.com/artist/5i7BsmQL2Fz3lTlABOKcsC"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Froh & Munter",
+      "url": "https://open.spotify.com/track/01kCcRPtwCkiBvNvAeEcT2"
+    },
+    {
+      "album": {
         "name": "FTW",
         "url": "https://open.spotify.com/album/6QUMgubCKyt9VbL36GKueb"
       },
@@ -8549,6 +8637,28 @@
     },
     {
       "album": {
+        "name": "Head n' Shoulders, pt.II",
+        "url": "https://open.spotify.com/album/3GDJwHLrsp3XxytW5BEWGW"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135746,
+      "name": "Head n' Shoulders, pt.II",
+      "url": "https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa"
+    },
+    {
+      "album": {
         "name": "Speak for Yourself",
         "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
       },
@@ -8560,7 +8670,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -10402,7 +10512,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 187403,
       "name": "il filo rosso",
       "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
@@ -12467,6 +12577,28 @@
     },
     {
       "album": {
+        "name": "Like A Boss",
+        "url": "https://open.spotify.com/album/4AQXRW8Hwrs9h9XyVOfyHD"
+      },
+      "artists": [
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167636,
+      "name": "Like A Boss",
+      "url": "https://open.spotify.com/track/11S4IH19vfC8TRKBWo9CVW"
+    },
+    {
+      "album": {
         "name": "Like A Prayer (From \"Deadpool & Wolverine Trailer\")",
         "url": "https://open.spotify.com/album/6hNRyrlAwZsAqaNwQUXmPJ"
       },
@@ -12496,7 +12628,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 152893,
       "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
@@ -13186,7 +13318,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -13216,7 +13348,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -13824,7 +13956,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 235395,
       "name": "MAYBE.",
       "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
@@ -14500,7 +14632,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 166090,
       "name": "money",
       "url": "https://open.spotify.com/track/0M02KarGlX2UACt6BJQb8S"
@@ -16647,6 +16779,24 @@
     },
     {
       "album": {
+        "name": "Peggy",
+        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159336,
+      "name": "Peggy",
+      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
+    },
+    {
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -18102,7 +18252,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 144113,
       "name": "Rock",
       "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
@@ -18298,7 +18448,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 156800,
       "name": "S&S",
       "url": "https://open.spotify.com/track/1GgETB3Ixe8suRgOG5BmFT"
@@ -18532,6 +18682,28 @@
       "duration_ms": 144216,
       "name": "Savrsena",
       "url": "https://open.spotify.com/track/1ARiryFxa2RrMyYFZUtuHt"
+    },
+    {
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "album": {
@@ -18920,7 +19092,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 157664,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn"
@@ -20145,6 +20317,32 @@
     },
     {
       "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188534,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -21154,7 +21352,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -22901,6 +23099,24 @@
     },
     {
       "album": {
+        "name": "Walzer",
+        "url": "https://open.spotify.com/album/4TZczY6TXXS0lDd7DX0WPv"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201325,
+      "name": "Walzer",
+      "url": "https://open.spotify.com/track/1We3jgIztlD2Tkb0yOoX4b"
+    },
+    {
+      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -22934,7 +23150,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 153882,
       "name": "Was erlebt - KomaCasper Remix",
       "url": "https://open.spotify.com/track/5AyO3iIWYUcGcuM3wR7vb0"
@@ -24038,6 +24254,32 @@
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
+    },
+    {
+      "album": {
+        "name": "You Can Do Anything (MTG DA SIA) (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/7gSBUvyOmm3Ek89IwPEZyX"
+      },
+      "artists": [
+        {
+          "name": "DJ Lucas Beat",
+          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121772,
+      "name": "You Can Do Anything (MTG DA SIA) (with Jason Derulo)",
+      "url": "https://open.spotify.com/track/6Aa9YyvEYFUaMRFc9obYjP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,615 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,632 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 36 | [Switch Lanes](https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:41 |
 | 37 | [Blessed \(with Tyga\)](https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:25 |
 | 38 | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL) | 2:43 |
-| 39 | [Mmphh](https://open.spotify.com/track/6bdz8PY44T1qIVIcU6s6qd) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 2:47 |
-| 40 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 |
+| 39 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 |
+| 40 | [Mmphh](https://open.spotify.com/track/6bdz8PY44T1qIVIcU6s6qd) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 2:47 |
 | 41 | [Girl You Loud](https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:33 |
 | 42 | [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 |
 | 43 | [Haute \(feat\. J Balvin & Chris Brown\)](https://open.spotify.com/track/1jlnBQGP2DtSEhMgQaz7a7) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:40 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 50 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 |
 | 51 | [Touch It \- Remix](https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Touch It \(Remix\)](https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu) | 3:01 |
 
-Snapshot ID: `Z2dWgAAAAACjiDIpBwyJHQuWPp5bMLt7`
+Snapshot ID: `Z2ioAAAAAACGmcx3uOt00dLBjjEVOh65`

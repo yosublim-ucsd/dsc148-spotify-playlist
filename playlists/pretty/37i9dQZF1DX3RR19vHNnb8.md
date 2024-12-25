@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,181 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,201 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 43 | [Homecoming](https://open.spotify.com/track/0nqRxAaO2AzoEQABbDh6n6) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V) | [The Prophecy](https://open.spotify.com/album/6RlIFWszpqQnDTiBW9ZmTQ) | 3:27 |
 | 44 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 |
 | 45 | [Ojugom Isi](https://open.spotify.com/track/2bi2kMSivzY1iGdUsbErkj) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ojugom Isi](https://open.spotify.com/album/0bWTQDEfuuz46C7kcSCS2T) | 2:41 |
-| 46 | [I Don't Wanna Die](https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [444](https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A) | 2:00 |
-| 47 | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/track/3yKdCKXvbFl9LUaWYAeAVP) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/album/50jqztfxHsS64KZk0UXXvR) | 2:45 |
+| 46 | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/track/3yKdCKXvbFl9LUaWYAeAVP) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/album/50jqztfxHsS64KZk0UXXvR) | 2:45 |
+| 47 | [I Don't Wanna Die](https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [444](https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A) | 2:00 |
 | 48 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
-| 49 | [south](https://open.spotify.com/track/1S5cdblExndcN7a22BcTYS) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [south](https://open.spotify.com/album/1J4CZxaEi6ZcbfTD98Yvnd) | 3:09 |
-| 50 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |
+| 49 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |
+| 50 | [south](https://open.spotify.com/track/1S5cdblExndcN7a22BcTYS) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [south](https://open.spotify.com/album/1J4CZxaEi6ZcbfTD98Yvnd) | 3:09 |
 
 Snapshot ID: `Zz980QAAAAAQtev4KLQJ1o24DQSzXPkk`

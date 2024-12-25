@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Febem, Sain
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,080 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,173 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 57 | [DESMISTIFICAR](https://open.spotify.com/track/5OxUASSdA0TF2rkkEKAz03) | [OLÍMPICO](https://open.spotify.com/artist/2uRliL49x0oLPfVR5lZ2Zy), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [FORA DO TEMPO](https://open.spotify.com/album/6yAPrBAqLkGl9zsG2fRI78) | 2:06 |
 | 58 | [Real Underground](https://open.spotify.com/track/40zHJef3CuJyYcc6ACcI6Z) | [Lado Sujo](https://open.spotify.com/artist/7GCPBbONfiLuUo6VCFYACs), [Kamikaze do Gueto](https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo) | [Real Underground](https://open.spotify.com/album/0w8KCWycXmFr22XSTMmhwN) | 2:38 |
 | 59 | [Ainda](https://open.spotify.com/track/2KShWiTs3wfS7HecyXmUyI) | [Dave Natu](https://open.spotify.com/artist/5O8hHOA4QkxeEt5qMCesBR), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Ainda](https://open.spotify.com/album/42RBo8lloiWZc3YfzjVwDO) | 1:59 |
-| 60 | [Anos Dourados do Blues](https://open.spotify.com/track/6JkidEArRc9jjElEVjqzgL) | [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Bvga Beats](https://open.spotify.com/artist/3oieThVKTaeSiRY5kh2Iq9), [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k) | [Me Disseram Que Eu Não Podia](https://open.spotify.com/album/1bdASmiUSIBhHaTsf1WEOI) | 2:30 |
+| 60 | [Anos Dourados do Blues](https://open.spotify.com/track/6JkidEArRc9jjElEVjqzgL) | [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Bvga Beats](https://open.spotify.com/artist/3oieThVKTaeSiRY5kh2Iq9), [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k) | [Me Disseram Que Eu Não Podia](https://open.spotify.com/album/1bdASmiUSIBhHaTsf1WEOI) | 2:30 |
 | 61 | [Lugar de Fala I verso 01](https://open.spotify.com/track/0VTQpGxq8WpKyLe777Ijxf) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp) | [Lugar de Fala I verso 01](https://open.spotify.com/album/4PvHihY9VToqEfCwng5bFh) | 1:27 |
 | 62 | [Quantos São?](https://open.spotify.com/track/7yICWklR1S4NldM1y1m1cO) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Quantos São?](https://open.spotify.com/album/317P1ydLQMI6g8JcGT1IHa) | 3:00 |
 | 63 | [Leve](https://open.spotify.com/track/0sJajRKdkcXAPVXfLpD2Ek) | [Ordem Natural](https://open.spotify.com/artist/40p1IdVbcMmTQZZIu6FVkZ) | [Leve](https://open.spotify.com/album/4QTN4fieAEaUkblduPjgSI) | 2:31 |

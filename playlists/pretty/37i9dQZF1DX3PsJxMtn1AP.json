@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of the latest mesmerizing tunes...",
-  "num_followers": 75153,
+  "num_followers": 75156,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2mRrwAAAAD8wjEmVbp3pDwH0SDagCTq",
+  "snapshot_id": "Z2slNAAAAAAsk/FeO3d+BRIam/bkgzwr",
   "tracks": [
     {
       "added_at": "2024-12-23 16:37:03",
@@ -133,6 +133,42 @@
       "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
     },
     {
+      "added_at": "2024-12-24 21:18:44",
+      "album": {
+        "name": "Baggy$$",
+        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 184253,
+      "name": "I Don\u2019t Wanna",
+      "url": "https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb"
+    },
+    {
+      "added_at": "2024-12-24 21:18:44",
+      "album": {
+        "name": "3AM (LA LA LA)",
+        "url": "https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "duration_ms": 251537,
+      "name": "REAL MOVE TOUCH",
+      "url": "https://open.spotify.com/track/3PISUiCZILLzJJSp3c3GhE"
+    },
+    {
       "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Diamond Jubilee",
@@ -195,22 +231,6 @@
       "duration_ms": 204615,
       "name": "Gold Filigree",
       "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
-    },
-    {
-      "added_at": "2024-10-24 20:20:58",
-      "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 198463,
-      "name": "Already Yours",
-      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -303,22 +323,6 @@
       "duration_ms": 225490,
       "name": "Ataque de P\u00e1nico",
       "url": "https://open.spotify.com/track/3qoUZtR9H0TSdbqoeUsfs4"
-    },
-    {
-      "added_at": "2024-10-24 20:31:52",
-      "album": {
-        "name": "Indoor Sport",
-        "url": "https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 187010,
-      "name": "Indoor Sport",
-      "url": "https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk"
     },
     {
       "added_at": "2024-10-24 20:20:58",

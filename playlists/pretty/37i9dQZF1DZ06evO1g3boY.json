@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 171700,
+  "num_followers": 171701,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAA6kYaeAv5AQ1DO4cGAPuVH",
+  "snapshot_id": "Z2ioAAAAAADA70WZWTAv60tQGL5C9nf8",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emicidio",
-        "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Cohen",
-          "url": "https://open.spotify.com/artist/6YANUKWAHOVnWhG0wnvm2M"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Eu Gosto Dela",
-      "url": "https://open.spotify.com/track/5yqbISO0lUFwY3wdrLgiR0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
         "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 188518,
       "name": "DESCOBRIDOR",
       "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emicidio",
+        "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Cohen",
+          "url": "https://open.spotify.com/artist/6YANUKWAHOVnWhG0wnvm2M"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Eu Gosto Dela",
+      "url": "https://open.spotify.com/track/5yqbISO0lUFwY3wdrLgiR0"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Gosto de Sol",
-        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 194183,
-      "name": "Deixa acontecer",
-      "url": "https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Identidade Preta",
         "url": "https://open.spotify.com/album/5Wtbc24c9VciTVTlEwTKWT"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 195130,
       "name": "Identidade Preta",
       "url": "https://open.spotify.com/track/5D3rKwPcJ6ZbeNY2Ppi3S2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Gosto de Sol",
+        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 194183,
+      "name": "Deixa acontecer",
+      "url": "https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S"
     },
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Essa \u00c9 a Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 237108,
+      "name": "Seu Jogo",
+      "url": "https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quintal dos Prettos (Ao Vivo)",
         "url": "https://open.spotify.com/album/159BRsin1LHfEaJAcvcLnc"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 277480,
       "name": "Oy\u00e1 - Sorriso Negro - Ao Vivo",
       "url": "https://open.spotify.com/track/7rrlAo0OyWwpaRbDDSe9BB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Essa \u00c9 a Nossa M\u00fasica",
-        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
-      },
-      "artists": [
-        {
-          "name": "Ponto De Equil\u00edbrio",
-          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 237108,
-      "name": "Seu Jogo",
-      "url": "https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI"
     },
     {
       "added_at": null,
@@ -623,30 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 246904,
-      "name": "NUNCA TENHA MEDO RMX - Ao Vivo",
-      "url": "https://open.spotify.com/track/3CSNLfuxKXmJDlw916US3j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 249373,
       "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 246904,
+      "name": "NUNCA TENHA MEDO RMX - Ao Vivo",
+      "url": "https://open.spotify.com/track/3CSNLfuxKXmJDlw916US3j"
     },
     {
       "added_at": null,
@@ -727,30 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "Vida Loka I - Live",
-      "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobe junto",
         "url": "https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 205440,
       "name": "Sobe junto",
       "url": "https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "Vida Loka I - Live",
+      "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        }
-      ],
-      "duration_ms": 127053,
-      "name": "Cap\u00edtulo 4, Vers\u00edculo 3 - Live",
-      "url": "https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 298226,
       "name": "M\u00e3e",
       "url": "https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        }
+      ],
+      "duration_ms": 127053,
+      "name": "Cap\u00edtulo 4, Vers\u00edculo 3 - Live",
+      "url": "https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC"
     },
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "9nha / Eu Gosto Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -919,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "9nha / Eu Gosto Dela - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 209480,
       "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Ooorra - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
     },
     {
       "added_at": null,
@@ -991,6 +975,22 @@
       "duration_ms": 246320,
       "name": "Oi Compadre - Ao Vivo",
       "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Ooorra - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
     },
     {
       "added_at": null,

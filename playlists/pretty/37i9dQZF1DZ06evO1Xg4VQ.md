@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,713 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,717 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 14 | [Si Volviera A Nacer](https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:44 |
 | 15 | [Paloma Negra](https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 4:31 |
 | 16 | [El Yerbero Moderno \(feat\. Lila Downs\)](https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:00 |
-| 17 | [Calaveras](https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Marcha de la Vida](https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD) | 4:29 |
-| 18 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
+| 17 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
+| 18 | [Calaveras](https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Marcha de la Vida](https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD) | 4:29 |
 | 19 | [El Listón de Tu Pelo](https://open.spotify.com/track/1TCjQdcUcBPl7YXHCYh8WP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl) | 3:34 |
 | 20 | [Mexicana \(feat\. Lila Downs\)](https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mexicana \(feat\. Lila Downs\)](https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU) | 3:19 |
 | 21 | [No Me Amenaces \(feat\. Lila Downs\)](https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr), [Mariachi Reyna De Los Angeles](https://open.spotify.com/artist/650nqeGBxByQo7gS6jNwDy), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pa' que Sientas Lo Que Siento](https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 49 | [Son del Chile Frito](https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:35 |
 | 50 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 |
 
-Snapshot ID: `Z2dWgAAAAAD5wfue+obeVSjc3xLh6Cz6`
+Snapshot ID: `Z2ioAAAAAACdW0wcsJkK3agL/6pd4tHY`

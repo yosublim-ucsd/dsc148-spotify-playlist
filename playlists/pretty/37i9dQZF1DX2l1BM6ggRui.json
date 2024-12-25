@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6702,
+  "num_followers": 6699,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 195786,
-      "name": "Long Chat (#\u2665)",
-      "url": "https://open.spotify.com/track/1l4aQeJKuPVUVtMVZw1fTf"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Cherry Pink",
         "url": "https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 195786,
+      "name": "Long Chat (#\u2665)",
+      "url": "https://open.spotify.com/track/1l4aQeJKuPVUVtMVZw1fTf"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "LUMOS",
         "url": "https://open.spotify.com/album/0o8HKVMLiAoBkJnlSl4YHO"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 157666,
       "name": "LUMOS",
       "url": "https://open.spotify.com/track/0Qrn3Cy33RjElWdqp7u3sr"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/0ph7K6mRDo0bzD7KngJq3i"
+      },
+      "artists": [
+        {
+          "name": "KIM SEON HO",
+          "url": "https://open.spotify.com/artist/5w5CmXkCojaeNaZeJ4Nt5t"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2VxF5wUA8u0wOUD9hnN65W"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -811,18 +827,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/0ph7K6mRDo0bzD7KngJq3i"
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
       "artists": [
         {
-          "name": "KIM SEON HO",
-          "url": "https://open.spotify.com/artist/5w5CmXkCojaeNaZeJ4Nt5t"
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 212013,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2VxF5wUA8u0wOUD9hnN65W"
+      "duration_ms": 171967,
+      "name": "SKIP (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -879,30 +899,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Once In a Summer",
-        "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Ashley Alisha",
-          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
-        },
-        {
-          "name": "Kelsey Kuan",
-          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
-      "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "For you, my sunshine",
         "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
       },
@@ -923,22 +919,26 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+        "name": "Once In a Summer",
+        "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
       },
       "artists": [
         {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
         },
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
         }
       ],
-      "duration_ms": 171967,
-      "name": "SKIP (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
+      "duration_ms": 200973,
+      "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
     },
     {
       "added_at": "2024-11-06 07:05:36",

@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 173983,
+  "num_followers": 173988,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAACL014PbQwJ64TTiuN5z3NP",
+  "snapshot_id": "Z2ioAAAAAABJAuO4kBUqBepv0uru77Xv",
   "tracks": [
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic",
-        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 199405,
-      "name": "If These Sheets Were States",
-      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
+      "duration_ms": 193151,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 193151,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
+      "duration_ms": 199405,
+      "name": "If These Sheets Were States",
+      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
     },
     {
       "added_at": null,

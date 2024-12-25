@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 31390,
+  "num_followers": 31399,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gaslini",
+          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Cio che e' scritto nel vento",
+      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Porta Pia",
         "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 231920,
       "name": "Vola lontano",
       "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gaslini",
-          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Cio che e' scritto nel vento",
-      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Opera prima (Including Ice One Remix)",
-        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
-      },
-      "artists": [
-        {
-          "name": "Loop Therapy",
-          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 278773,
-      "name": "Musica e fumo (featuring Colle Der Fomento)",
-      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Opera prima (Including Ice One Remix)",
+        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
+      },
+      "artists": [
+        {
+          "name": "Loop Therapy",
+          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 278773,
+      "name": "Musica e fumo (featuring Colle Der Fomento)",
+      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 241966,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Senza Fine",
-        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
-      },
-      "artists": [
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
-        }
-      ],
-      "duration_ms": 137613,
-      "name": "Napule \u00c8",
-      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Desertico",
         "url": "https://open.spotify.com/album/7HQw3tDo1g6tyTLQdjIPQt"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 353310,
       "name": "Desertico",
       "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Senza Fine",
+        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
+      },
+      "artists": [
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 137613,
+      "name": "Napule \u00c8",
+      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Stefano Di Battista",
+        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
+      },
+      "artists": [
+        {
+          "name": "Stefano Di Battista",
+          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
+        }
+      ],
+      "duration_ms": 310480,
+      "name": "Anastasia",
+      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Over and again",
         "url": "https://open.spotify.com/album/09hQ2xW97PIaEotvrgGfCH"
       },
@@ -1815,18 +1831,18 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Stefano Di Battista",
-        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
       },
       "artists": [
         {
-          "name": "Stefano Di Battista",
-          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
         }
       ],
-      "duration_ms": 310480,
-      "name": "Anastasia",
-      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
+      "duration_ms": 289634,
+      "name": "Transe Napolitaine",
+      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1859,18 +1875,30 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+        "name": "Ten Stops",
+        "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
       },
       "artists": [
         {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+          "name": "Simone Locarni",
+          "url": "https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5"
+        },
+        {
+          "name": "Andrea Dulbecco",
+          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Riccardo Fioravanti",
+          "url": "https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf"
         }
       ],
-      "duration_ms": 289634,
-      "name": "Transe Napolitaine",
-      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
+      "duration_ms": 344596,
+      "name": "Ten Stops",
+      "url": "https://open.spotify.com/track/0hlprOV51kOSzcJm2c2KOR"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1907,34 +1935,6 @@
       "duration_ms": 370080,
       "name": "Traspare",
       "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Ten Stops",
-        "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
-      },
-      "artists": [
-        {
-          "name": "Simone Locarni",
-          "url": "https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5"
-        },
-        {
-          "name": "Andrea Dulbecco",
-          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
-        },
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        },
-        {
-          "name": "Riccardo Fioravanti",
-          "url": "https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf"
-        }
-      ],
-      "duration_ms": 344596,
-      "name": "Ten Stops",
-      "url": "https://open.spotify.com/track/0hlprOV51kOSzcJm2c2KOR"
     },
     {
       "added_at": "2024-12-05 23:01:00",

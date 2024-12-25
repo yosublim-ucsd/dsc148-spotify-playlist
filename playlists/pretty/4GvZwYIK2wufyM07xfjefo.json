@@ -6,8 +6,116 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAELztXwUMmPGcrpl/CCM/0DaRQ5rVi",
+  "snapshot_id": "AAAEPnnmYCcvU9w6H1VuIQz1J0xDi3XR",
   "tracks": [
+    {
+      "added_at": "2024-12-24 06:47:28",
+      "album": {
+        "name": "\u2200ng\u2203l f\u2200ll",
+        "url": "https://open.spotify.com/album/4q1WB3VN9xtyZ5ZH9AhBS9"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30b0",
+          "url": "https://open.spotify.com/artist/4Z7sHZkUEVKoRvDPWPFbKe"
+        }
+      ],
+      "duration_ms": 227727,
+      "name": "\u305d\u3063\u3061\u306b\u3044\u304b\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/0hJYzpU0p0KCE3cL2lIxh4"
+    },
+    {
+      "added_at": "2024-12-24 06:47:49",
+      "album": {
+        "name": "AYAFUYA",
+        "url": "https://open.spotify.com/album/2PNOI2IEILddT9tKNRaUyD"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u3086\u308d",
+          "url": "https://open.spotify.com/artist/460r2Oaa2Sp7EKP0nds0Ow"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "AYAFUYA (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6ivCFoZC0sYamNU62PkTGo"
+    },
+    {
+      "added_at": "2024-12-24 06:48:02",
+      "album": {
+        "name": "\u30a8\u30f3\u30d7\u30c6\u30a3\u30fb\u30b0\u30e9\u30b9",
+        "url": "https://open.spotify.com/album/3b1A4XHiFa7xgGlYSo1jOd"
+      },
+      "artists": [
+        {
+          "name": "manika",
+          "url": "https://open.spotify.com/artist/6MSuLdFLJP3xe4WsYVHRdy"
+        },
+        {
+          "name": "\u9326",
+          "url": "https://open.spotify.com/artist/1N9Blca28xu05WclOgklN4"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "\u30a8\u30f3\u30d7\u30c6\u30a3\u30fb\u30b0\u30e9\u30b9 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/219VglrPlMnqJgoGQwofKm"
+    },
+    {
+      "added_at": "2024-12-24 06:48:14",
+      "album": {
+        "name": "Tic-tick Rin&Len cover.",
+        "url": "https://open.spotify.com/album/0LwE3UxiX8sQRshghQytM2"
+      },
+      "artists": [
+        {
+          "name": "yamichrome",
+          "url": "https://open.spotify.com/artist/56btWLEbaEfENYnHHcXN4m"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Tic-tick Rin&Len cover. (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/2MYyHCpo2Wth3Z1e1l69KV"
+    },
+    {
+      "added_at": "2024-12-24 06:48:26",
+      "album": {
+        "name": "\u546a\u3044\u305f\u304f\u306a\u3044\u306e\u306b",
+        "url": "https://open.spotify.com/album/7pAVXS12t5dPBPesaNiaqs"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3044\u3061",
+          "url": "https://open.spotify.com/artist/1Lxn9Isei7h9w0CmtRawki"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 233271,
+      "name": "\u546a\u3044\u305f\u304f\u306a\u3044\u306e\u306b (feat. \u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/49mdAmi03Er2g3oUPj0oQf"
+    },
     {
       "added_at": "2024-12-10 07:28:07",
       "album": {
@@ -647,106 +755,6 @@
       "duration_ms": 241874,
       "name": "Fate (Type.B)",
       "url": "https://open.spotify.com/track/1EN1RkRTRi7YrNWySqK0TG"
-    },
-    {
-      "added_at": "2024-10-08 08:11:08",
-      "album": {
-        "name": "\u751f\u304d\u3068\u3057\u751f\u3051\u308b",
-        "url": "https://open.spotify.com/album/42bTB6ehWLpwsxIZN2T0hQ"
-      },
-      "artists": [
-        {
-          "name": "nogumi",
-          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
-        },
-        {
-          "name": "\u6b4c\u611b\u30e6\u30ad",
-          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
-        }
-      ],
-      "duration_ms": 306666,
-      "name": "\u751f\u304d\u3068\u3057\u751f\u3051\u308b (feat. \u6b4c\u611b\u30e6\u30ad)",
-      "url": "https://open.spotify.com/track/53nw5jjSZmqVsEAQsqzU3L"
-    },
-    {
-      "added_at": "2024-10-08 08:11:20",
-      "album": {
-        "name": "Ya no me Importa (Version Mariachi)",
-        "url": "https://open.spotify.com/album/5Glv4xFjsq3nGF8KYkCqJd"
-      },
-      "artists": [
-        {
-          "name": "AlexTrip Sands",
-          "url": "https://open.spotify.com/artist/5MKEh6IaFZK3knCjCok3rI"
-        },
-        {
-          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
-          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
-        }
-      ],
-      "duration_ms": 328421,
-      "name": "Ya no me Importa (Version Mariachi) (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
-      "url": "https://open.spotify.com/track/6dzTmofkiTJ4KNEzMn5he7"
-    },
-    {
-      "added_at": "2024-10-08 08:11:58",
-      "album": {
-        "name": "\u306a\u3093\u306b\u3082\u3084\u308a\u305f\u304f\u306a\u3044",
-        "url": "https://open.spotify.com/album/7gKy2XBxA0lUXl9ghTCaRq"
-      },
-      "artists": [
-        {
-          "name": "\u30ca\u30b5\u30ac\u30b7",
-          "url": "https://open.spotify.com/artist/3hDoRBltrVcdAX4SDpZ9of"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "\u306a\u3093\u306b\u3082\u3084\u308a\u305f\u304f\u306a\u3044 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/7uyjt6dTTrvFK2i61N4MhZ"
-    },
-    {
-      "added_at": "2024-10-08 08:12:12",
-      "album": {
-        "name": "\u30b9\u30ce\u30a6\u30ea\u30d5\u30ec\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/2AwXK3MTIBhhW90E2LgGBU"
-      },
-      "artists": [
-        {
-          "name": "\u3054\u3081\u3093\u306a\u3055\u3044\u304c\u8a00\u3048\u306a\u304f\u3066",
-          "url": "https://open.spotify.com/artist/3L0Tv3JqnHftZVEAq2P3xv"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "\u30b9\u30ce\u30a6\u30ea\u30d5\u30ec\u30a4\u30f3 (feat. \u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/1Zhv9o0juG3gypbvxaxg9K"
-    },
-    {
-      "added_at": "2024-10-08 08:12:22",
-      "album": {
-        "name": "\u6e29\u5ea6",
-        "url": "https://open.spotify.com/album/6386Ig4riy8ElU1IJsbugH"
-      },
-      "artists": [
-        {
-          "name": "cat nap",
-          "url": "https://open.spotify.com/artist/5kcEo2AxXur3mNk3c1R7N7"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "\u6e29\u5ea6 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/2c4Wb7JepvfTtorex199Tw"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,471 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,525 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [Heisenbern](https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:07 |
 | 50 | [Llegue Pa Hacer Billetes](https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Oregel](https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO) | [Llegue Pa Hacer Billetes](https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt) | 3:31 |
 
-Snapshot ID: `Z2dWgAAAAABcM0Rqd3tPbyWU0J7oiiSh`
+Snapshot ID: `Z2ioAAAAAAA5BaZ5MWbjKj+fkmgtyMEB`

@@ -1,12 +1,12 @@
 {
-  "description": "Afro sounds crossing borders. Cover: Burna Boy",
-  "num_followers": 701629,
+  "description": "Afro sounds crossing borders. Cover: Tyla, Tems and Arya Starr",
+  "num_followers": 702051,
   "original_name": "Big Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2T59AAAAABiRQcq78tQLttj8UJewhnx",
+  "snapshot_id": "Z2srQAAAAAD7+MH1nFDdDJvfyHkfAZmV",
   "tracks": [
     {
       "added_at": "2024-12-20 05:00:36",
@@ -63,6 +63,62 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 199452,
+      "name": "Get it Right (feat. Asake)",
+      "url": "https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
       "added_at": "2024-12-20 05:00:36",
@@ -611,26 +667,6 @@
     {
       "added_at": "2024-12-20 05:00:36",
       "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
         "name": "alone (Remix)",
         "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
       },
@@ -827,26 +863,6 @@
       "duration_ms": 174743,
       "name": "Happiness (feat. Asake & Gunna)",
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 199452,
-      "name": "Get it Right (feat. Asake)",
-      "url": "https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz"
     },
     {
       "added_at": "2024-12-20 05:00:36",
@@ -1767,22 +1783,6 @@
       "duration_ms": 149677,
       "name": "Last Heartbreak Song (feat. Giveon)",
       "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
       "added_at": "2024-12-20 05:00:36",

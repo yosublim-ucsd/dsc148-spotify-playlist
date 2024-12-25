@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Shaboozey",
-  "num_followers": 272673,
+  "num_followers": 272819,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -1307,22 +1307,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
+        "name": "Out of Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+      "duration_ms": 208266,
+      "name": "Out of Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Out of Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Out of Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
     },
     {
       "added_at": "2024-10-25 04:00:00",

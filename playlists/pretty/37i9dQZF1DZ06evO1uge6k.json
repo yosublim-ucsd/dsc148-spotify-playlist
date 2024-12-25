@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 249741,
+  "num_followers": 249780,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAADLc1RYvBc4h7PezRdZCH3z",
+  "snapshot_id": "Z2ioAAAAAADx4ioEIacwA6V9Ht4nQGgl",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
+      "duration_ms": 261453,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 261453,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/6Ji3KNo9YKDqcHLarM5DIi"
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
     },
     {
       "added_at": null,

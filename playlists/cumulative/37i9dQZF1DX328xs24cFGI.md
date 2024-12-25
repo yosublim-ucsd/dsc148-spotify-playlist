@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-370 songs - 23 hr 48 min
+371 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Say It All 2](https://open.spotify.com/track/4eVvOOMDDk7Axq3hK8AlGp) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:37 | 2023-10-24 | 2023-11-02 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-02-09 | 2024-04-19 |
 | [Shiritai](https://open.spotify.com/track/04iVugMr9elupIsmDVwaDq) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [Shiritai](https://open.spotify.com/album/5oxdlAISKzaDASZT2UFojf) | 3:07 | 2023-11-28 | 2023-12-27 |
-| [Sign](https://open.spotify.com/track/5ZLkGLEYYDlgcDXK6A2vYO) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [I LOVE U](https://open.spotify.com/album/2OtlpZtn5TlOk35j4iNY9v) | 5:21 | 2024-10-15 |  |
+| [Sign](https://open.spotify.com/track/5ZLkGLEYYDlgcDXK6A2vYO) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [I LOVE U](https://open.spotify.com/album/2OtlpZtn5TlOk35j4iNY9v) | 5:21 | 2024-10-15 | 2024-12-25 |
 | [something about kiss](https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [something about kiss](https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0) | 4:09 | 2023-08-10 | 2023-10-06 |
 | [Soranji](https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 5:43 | 2023-08-08 |  |
 | [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 | 2023-05-10 |  |
@@ -183,6 +183,7 @@
 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 | 2023-12-26 | 2024-04-19 |
 | [しわあわせ](https://open.spotify.com/track/2F1Zfnh89pO7urUL7KoVfn) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [しわあわせ](https://open.spotify.com/album/0SoKJtlMONWEI19IZ2QAzr) | 4:38 | 2023-05-25 | 2023-06-02 |
 | [ずっと](https://open.spotify.com/track/1mQTJB6OXyW857irRIB2LT) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ずっと](https://open.spotify.com/album/00mBa138ng1LRxnnRVX0yU) | 2:52 | 2024-11-26 |  |
+| [ずっと前から君に恋してる](https://open.spotify.com/track/3yU9LJ8C3szUxYxoXZixBJ) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [ずっと前から君に恋してる](https://open.spotify.com/album/062n4VMq8mOi5SHYHL34CX) | 4:08 | 2024-12-24 |  |
 | [そっけない](https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 6:32 | 2024-04-16 |  |
 | [それはまるで映画みたいな恋だった。](https://open.spotify.com/track/2ZYJWl6MQtmDovp1LGRwPe) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [それはまるで映画みたいな恋だった。](https://open.spotify.com/album/42UJvpF23bGWbAY1xPSYEJ) | 4:01 | 2023-02-21 | 2023-03-15 |
 | [それを愛と呼ぶなら](https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [それを愛と呼ぶなら](https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs) | 4:54 | 2023-11-01 | 2024-01-24 |

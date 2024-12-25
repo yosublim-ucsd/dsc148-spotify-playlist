@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 11968,
+  "num_followers": 11990,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAAvW2BiXegkOqx5lCMYqvJF",
+  "snapshot_id": "Z2ioAAAAAACVq9+axAZeb1kShBFjWhxX",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 248066,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/2DsQ4PopTlUlheqyPgPwQz"
+      "duration_ms": 111266,
+      "name": "Row",
+      "url": "https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 111266,
-      "name": "Row",
-      "url": "https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp"
+      "duration_ms": 248066,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/2DsQ4PopTlUlheqyPgPwQz"
     },
     {
       "added_at": null,

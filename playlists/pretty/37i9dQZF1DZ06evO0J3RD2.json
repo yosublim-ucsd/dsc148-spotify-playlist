@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 8019,
+  "num_followers": 8025,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2dWgAAAAAB2H4OY7Hck+3kM7XwJLkE+",
+  "snapshot_id": "Z2ioAAAAAADHYEW+16bRVf85/cLjApfC",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 164084,
-      "name": "Hatchet",
-      "url": "https://open.spotify.com/track/6jGPtSuSPFODlN1a7TQuqT"
+      "duration_ms": 237541,
+      "name": "Losing Fight",
+      "url": "https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 237541,
-      "name": "Losing Fight",
-      "url": "https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL"
+      "duration_ms": 164084,
+      "name": "Hatchet",
+      "url": "https://open.spotify.com/track/6jGPtSuSPFODlN1a7TQuqT"
     },
     {
       "added_at": null,

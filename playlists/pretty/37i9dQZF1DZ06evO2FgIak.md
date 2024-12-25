@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,129 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,133 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 29 | [Baby Please Don't Go \- Live](https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Live At The Checkerboard Lounge](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW) | 11:00 |
 | 30 | [Sugar Sweet \- 1955 Single Version](https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hoochie Coochie Man: Complete Chess Masters \(Vol\. 2: 1952\-1958\)](https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo) | 2:29 |
 | 31 | [Caldonia \(feat\. Muddy Waters\) \- Concert Version](https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 6:08 |
-| 32 | [My Babe](https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:56 |
-| 33 | [Mad Love \(I Want You To Love Me\) \- Single Version](https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:03 |
-| 34 | [Mean Old Frisco Blues](https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx) | 3:45 |
+| 32 | [Mean Old Frisco Blues](https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx) | 3:45 |
+| 33 | [My Babe](https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:56 |
+| 34 | [Mad Love \(I Want You To Love Me\) \- Single Version](https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:03 |
 | 35 | [Ring Up \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/2k0UVEOVlCMv3p9MX2jOtv) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 4:19 |
 | 36 | [Mannish Boy \(feat\. Muddy Waters\) \- Concert Version](https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 6:40 |
 | 37 | [The Red Rooster](https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 7:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Walkin' Blues](https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:58 |
 | 50 | [Key To The Highway](https://open.spotify.com/track/4GtWHmkHwW32qmmhmhCKwn) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The London Muddy Waters Sessions](https://open.spotify.com/album/3TkwYJJO9Q6aE4pNcEF1NC) | 2:27 |
 
-Snapshot ID: `Z2dWgAAAAABHTfMCU7vBR/QkyPjPSeir`
+Snapshot ID: `Z2ioAAAAAAD1EfuLtuPhoeKIxyYB4PGs`

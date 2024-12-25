@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 275326,
       "name": "H\u00e4nderna Mot Himlen - Acoustic",
       "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
@@ -2748,6 +2748,24 @@
       "duration_ms": 209840,
       "name": "\u00c4ngel",
       "url": "https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ"
+    },
+    {
+      "album": {
+        "name": "\u00c4nnu mer",
+        "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184482,
+      "name": "\u00c4nnu mer",
+      "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4Umko6nOmN7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,852 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,958 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 41 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
 | 42 | [Intifada](https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 2:55 |
 | 43 | [Matinfa](https://open.spotify.com/track/3oUudjdOdEJI8JRCIPV3qj) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/0z8AQ0l95AM4DzQDBJLTzX) | 5:54 |
-| 44 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
+| 44 | [Taguebarbt](https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw) | [Gaada Diwane De Béchar](https://open.spotify.com/artist/52QoFZylWvNG3obRJxiPPF) | [Sortie D'usine](https://open.spotify.com/album/2LhXFW8YOMLKzjxaDN11Cr) | 4:10 |
 | 45 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
-| 46 | [Taguebarbt](https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw) | [Gaada Diwane De Béchar](https://open.spotify.com/artist/52QoFZylWvNG3obRJxiPPF) | [Sortie D'usine](https://open.spotify.com/album/2LhXFW8YOMLKzjxaDN11Cr) | 4:10 |
+| 46 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
 | 47 | [Bonheur](https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Samba](https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN) | 5:38 |
 | 48 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
 | 49 | [Ghlana](https://open.spotify.com/track/3PD3dEs0ZADzjDi71v67dY) | [Noura Mint Seymali](https://open.spotify.com/artist/2HnmTIZBaC6upua76nuGIY) | [Arbina](https://open.spotify.com/album/6JBjWrsydl3DkCJDA6Q8JU) | 3:44 |

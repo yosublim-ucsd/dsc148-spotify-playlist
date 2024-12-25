@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 161086,
       "name": "088",
       "url": "https://open.spotify.com/track/2keBOP6Rp3PfbLXrFjNDKq"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -3348,7 +3348,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
@@ -3538,6 +3538,24 @@
       "duration_ms": 120165,
       "name": "DICE AND ROLL",
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
+    },
+    {
+      "album": {
+        "name": "did i tell u that i miss u",
+        "url": "https://open.spotify.com/album/5mw5lqpHiII2dtNFjWfKTd"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115921,
+      "name": "did i tell u that i miss u",
+      "url": "https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt"
     },
     {
       "album": {
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 225773,
       "name": "Dishay",
       "url": "https://open.spotify.com/track/7KfZK2T5QFwPbTxIvFYbb1"
@@ -3872,6 +3890,24 @@
       "duration_ms": 182221,
       "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
       "url": "https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d"
+    },
+    {
+      "album": {
+        "name": "Doldum",
+        "url": "https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "Doldum",
+      "url": "https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd"
     },
     {
       "album": {
@@ -4304,7 +4340,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 126000,
       "name": "EBATI PICHA",
       "url": "https://open.spotify.com/track/6DT28qnXNfyOqoVxWcjXbX"
@@ -7518,7 +7554,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 181346,
       "name": "Italy Forma",
       "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"
@@ -9050,7 +9086,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -9094,7 +9130,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -9124,7 +9160,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -9486,6 +9522,54 @@
       "duration_ms": 144437,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5yksNLORrfAe65mqKZ52rS"
+    },
+    {
+      "album": {
+        "name": "MATUSHKA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/16u88ddNavJq817UsoJvui"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        },
+        {
+          "name": "FUNK DEMON",
+          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/0C3D5rWlsc3u3ElG5ev0xS"
+    },
+    {
+      "album": {
+        "name": "Mazalyak",
+        "url": "https://open.spotify.com/album/3O5pvkZ7Jrlqz1UN9qain9"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        },
+        {
+          "name": "Monkey",
+          "url": "https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Mazalyak",
+      "url": "https://open.spotify.com/track/542H35VsHuyhN1mBzDpAaT"
     },
     {
       "album": {
@@ -9922,7 +10006,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 96254,
       "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
       "url": "https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr"
@@ -11757,6 +11841,24 @@
     },
     {
       "album": {
+        "name": "Peggy",
+        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159336,
+      "name": "Peggy",
+      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
+    },
+    {
+      "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
       },
@@ -12030,6 +12132,24 @@
       "duration_ms": 122187,
       "name": "Pop like this Pt. 2 - Slowed",
       "url": "https://open.spotify.com/track/2JH5P7TPQAlKDvBZAkMXDp"
+    },
+    {
+      "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "PORNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "album": {
@@ -12862,7 +12982,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 144113,
       "name": "Rock",
       "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
@@ -13008,7 +13128,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 174545,
       "name": "S nervite sam zle",
       "url": "https://open.spotify.com/track/143eOEF8oFU1SQXiSZ25kS"
@@ -14991,6 +15111,28 @@
     },
     {
       "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+    },
+    {
+      "album": {
         "name": "LP1",
         "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
@@ -15068,7 +15210,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 224293,
       "name": "Sucker (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T"
@@ -15120,7 +15262,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 224293,
       "name": "Sucker - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2aF78CWbNOyppg49sCZ4Cm"
@@ -15832,7 +15974,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -15956,6 +16098,28 @@
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
+        "name": "The Days (NOTION Remix)",
+        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233229,
+      "name": "The Days - NOTION Remix",
+      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
       "album": {
@@ -16086,7 +16250,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 192000,
       "name": "The Line (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM"
@@ -16804,6 +16968,24 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "album": {
@@ -18696,6 +18878,28 @@
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/1EXcVTWW9vciHp4hzQHqAG"
+    },
+    {
+      "album": {
+        "name": "You Can't Stop The Movement",
+        "url": "https://open.spotify.com/album/7axSOVM8XiPrr2qGqBMLCV"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Laren",
+          "url": "https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294321,
+      "name": "You Make Me Horny",
+      "url": "https://open.spotify.com/track/3aTOR9GP22TN2YVvmKbk8e"
     },
     {
       "album": {
@@ -20685,6 +20889,42 @@
     },
     {
       "album": {
+        "name": "\u0426\u0432\u0435\u0442\u043e\u0432\u0435\u0442\u0435 \u043d\u0430 \u0442\u044a\u0433\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/49FuLlbNIdWBYEi8FZ4zG5"
+      },
+      "artists": [
+        {
+          "name": "Papi Hans",
+          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232692,
+      "name": "\u041f\u0430\u0440\u043a\u0438\u043d\u0433\u0430",
+      "url": "https://open.spotify.com/track/55U6KZ9TwBMGG8e1tjZDFX"
+    },
+    {
+      "album": {
+        "name": "\u0426\u0432\u0435\u0442\u043e\u0432\u0435\u0442\u0435 \u043d\u0430 \u0442\u044a\u0433\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/49FuLlbNIdWBYEi8FZ4zG5"
+      },
+      "artists": [
+        {
+          "name": "Papi Hans",
+          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "\u041f\u0435\u0441\u0435\u043d \u0437\u0430 \u043d\u0435\u044f",
+      "url": "https://open.spotify.com/track/5qvzY1RanglcqST8eEHQF4"
+    },
+    {
+      "album": {
         "name": "\u041f\u0435\u0441\u0435\u043d \u0437\u0430 \u043d\u0435\u044f",
         "url": "https://open.spotify.com/album/3pTB8G6o5ol8X9xsjSOvtI"
       },
@@ -20776,6 +21016,28 @@
       "duration_ms": 220400,
       "name": "\u041f\u0443\u0448\u0438, \u043f\u0443\u0448\u0438",
       "url": "https://open.spotify.com/track/0336cbGmNVwmytwQh0zNeB"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0410\u041c\u0410",
+        "url": "https://open.spotify.com/album/52jSJj0HUMBd0JsV0oB3OR"
+      },
+      "artists": [
+        {
+          "name": "Alexcheto",
+          "url": "https://open.spotify.com/artist/1vh6Wi0BVXjvzLScgcSgB4"
+        },
+        {
+          "name": "Noa",
+          "url": "https://open.spotify.com/artist/6Bn6cdU0wfrrGqiJQ6mgXs"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156367,
+      "name": "\u0421\u0410\u041c\u0410",
+      "url": "https://open.spotify.com/track/1uYCC3Jsee15WgmZhiTLin"
     },
     {
       "album": {
@@ -21342,7 +21604,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 194749,
       "name": "\u0424\u0435\u0442\u0438\u0448",
       "url": "https://open.spotify.com/track/11AQyUsUat4hGf3Ecefdls"

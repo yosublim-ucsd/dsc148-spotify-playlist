@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,806 likes - 118 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,108 likes - 118 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

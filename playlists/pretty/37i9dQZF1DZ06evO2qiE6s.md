@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,820 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,857 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 28 | [Good Mornin' Life](https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 8 \(1957\-1958\)](https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK) | 2:16 |
 | 29 | [It Looks Like Love](https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:20 |
 | 30 | [I Wish You Love](https://open.spotify.com/track/5t784eXSTD20yOLmNcEkAC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 2:27 |
-| 31 | [In Napoli](https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:56 |
-| 32 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:02 |
-| 33 | [Fugue For Tinhorns](https://open.spotify.com/track/25AH3SYPABuo5xXNs1qiRn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Reprise Rarities \(Vol\. 5\)](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 1:30 |
+| 31 | [Fugue For Tinhorns](https://open.spotify.com/track/25AH3SYPABuo5xXNs1qiRn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Reprise Rarities \(Vol\. 5\)](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 1:30 |
+| 32 | [In Napoli](https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:56 |
+| 33 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:02 |
 | 34 | [I Have But One Heart \('O Marenariello\)](https://open.spotify.com/track/4B2PkwShniUthCG4UiAYtd) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 3:05 |
 | 35 | [My Rifle, My Pony And Me \- Remastered](https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK) | 2:48 |
 | 36 | [Promise Her Anything \- 1998 Digital Remaster](https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [Luna Mezzo Mare](https://open.spotify.com/track/0VEu9WixScy7tAe5nvPQRv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 2 \(1950\-1951\)](https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv) | 2:08 |
 | 50 | [All In A Night's Work](https://open.spotify.com/track/6o04w9JEOuexVW0LuIs8xK) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 11 \(1960\-1961\)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 2:39 |
 
-Snapshot ID: `Z2dWgAAAAAA+Tp5p0hQjLjmC/0jF1Q71`
+Snapshot ID: `Z2ioAAAAAAB5N0NqVvS1MGL/bUYtjuWo`

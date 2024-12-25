@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031 likes - 26 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,033 likes - 26 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 |
 | 2 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
 | 3 | [ORAL HEX \(spell on you\)](https://open.spotify.com/track/6SpUnFjNfyFgyLRm65b2G6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [ORAL HEX \(spell on you\)](https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1) | 3:14 |
-| 4 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 |
-| 5 | [FEAST](https://open.spotify.com/track/0DOLtp6s57C6m9XoWYXGOP) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST](https://open.spotify.com/album/5vK9jIuOLfuQGyVo6HFisg) | 2:05 |
+| 4 | [FEAST](https://open.spotify.com/track/0DOLtp6s57C6m9XoWYXGOP) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST](https://open.spotify.com/album/5vK9jIuOLfuQGyVo6HFisg) | 2:05 |
+| 5 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 |
 | 6 | [The Things I Do For Love](https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp) | 2:40 |
 | 7 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 | 8 | [Personal Pornstar](https://open.spotify.com/track/5Vog7jNSAPcmcxqaxaLcQ0) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344) | 2:49 |
 | 9 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 |
-| 10 | [Mozart](https://open.spotify.com/track/3MMDi1qBwOB8Zq6l5Hbhdh) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Mozart](https://open.spotify.com/album/4dWzLbeZF84liXgNUEJiRn) | 1:37 |
-| 11 | [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 |
+| 10 | [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 |
+| 11 | [Mozart](https://open.spotify.com/track/3MMDi1qBwOB8Zq6l5Hbhdh) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Mozart](https://open.spotify.com/album/4dWzLbeZF84liXgNUEJiRn) | 1:37 |
 | 12 | [Grim Reaper](https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y) | 2:50 |
 | 13 | [End Of The World](https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy) | 2:38 |
 | 14 | [Popsicle](https://open.spotify.com/track/2R54H7AJlO38QH8ygNDWi1) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/3BB3XKlsGSIfPC1Kw9fSRH) | 1:50 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 25 | [Moonwater](https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Moonwater](https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv) | 1:52 |
 | 26 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `Z2dWgAAAAAD9QFPdyG02ANzugRVJDLva`
+Snapshot ID: `Z2ioAAAAAABuP+1iWyaNK3J63gICx18b`

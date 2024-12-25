@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Machine Head
 
-978 songs - 2 day 23 hr 49 min
+979 songs - 2 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-10-07 |  |
 | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:14 | 2022-07-08 | 2024-04-19 |
 | [Die by the Blade](https://open.spotify.com/track/7G0n4t8Ul5r0BpS2lw5hYT) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Die by the Blade](https://open.spotify.com/album/3cWywjglsOprND0106Mv1s) | 3:14 | 2021-12-17 | 2022-07-29 |
+| [Die Mutter des Teufels](https://open.spotify.com/track/4rdjw1qztPtCieFGG6irHw) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Die Mutter des Teufels](https://open.spotify.com/album/6S5Dbr7I0A435KF9BqzBN0) | 2:59 | 2024-11-22 |  |
 | [Digital Bullets \(feat\. Chris Motionless\)](https://open.spotify.com/track/1a7hFfEXGJKSKSFKDoufPi) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [The Call of the Void](https://open.spotify.com/album/6v472xKTGoBedRClrXfY45) | 3:58 | 2023-07-17 |  |
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2022-07-13 | 2023-03-11 |
 | [Disruptor](https://open.spotify.com/track/3NGhrDLVlVVB3fQuz447ZB) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Disruptor](https://open.spotify.com/album/3OnY2TmDRbFwKbAG49xe0s) | 3:45 | 2021-12-17 | 2022-04-21 |
@@ -422,7 +423,7 @@
 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 | 2022-03-22 |  |
 | [Immortal Rites](https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo) | [Morbid Angel](https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw) | [Altars of Madness](https://open.spotify.com/album/2vWHACnDiSnFM52octEvY0) | 4:03 | 2022-08-19 | 2024-03-09 |
 | [Immortally Insane](https://open.spotify.com/track/2tbdpZIOkV8kK0pZDBxXRQ) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \- 20th Anniversary Deluxe Edition](https://open.spotify.com/album/2nhNrmeayyt111lqj6Om4L) | 5:11 | 2021-12-17 | 2022-08-14 |
-| [In Black and White \- New Version 2021](https://open.spotify.com/track/0pT7kpkT3rBpZkXfwP6YYB) | [Kalidia](https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA) | [Lies' Device \(New Version 2021\)](https://open.spotify.com/album/3tVQsBnb2stVCvWzM7aXgB) | 4:09 | 2021-12-17 |  |
+| [In Black and White \- New Version 2021](https://open.spotify.com/track/0pT7kpkT3rBpZkXfwP6YYB) | [Kalidia](https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA) | [Lies' Device \(New Version 2021\)](https://open.spotify.com/album/3tVQsBnb2stVCvWzM7aXgB) | 4:09 | 2021-12-17 | 2024-12-25 |
 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 | 2024-08-23 |  |
 | [In Extremis](https://open.spotify.com/track/5Hq0ORq01GmoS2HDYbxSZR) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [In Extremis](https://open.spotify.com/album/1aKyeErEZECLxc0TC1zeAu) | 4:41 | 2022-07-08 | 2022-08-03 |
 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 | 2024-11-04 |  |

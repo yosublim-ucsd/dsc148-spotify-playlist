@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,616 likes - 67 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,784 likes - 67 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Prayer](https://open.spotify.com/track/6PJRw5icjh5FnFd7jNUmbG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [These Are Special Times](https://open.spotify.com/album/0LvrjOn7CrNSs0jVUvrgVy) | 4:28 |
-| 2 | [Amazing Grace \(arr\. Mercurio\)](https://open.spotify.com/track/1OWoYQ9tGoufbJGY0YOdAI) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Believe \(Deluxe\)](https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr) | 3:56 |
-| 3 | [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/track/7BsPghb8l6oQq0tXzFfTNV) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/album/2bZ93x1Mm5INldKT3aLPk8) | 3:58 |
+| 2 | [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/track/7BsPghb8l6oQq0tXzFfTNV) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/album/2bZ93x1Mm5INldKT3aLPk8) | 3:58 |
+| 3 | [Amazing Grace \(arr\. Mercurio\)](https://open.spotify.com/track/1OWoYQ9tGoufbJGY0YOdAI) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Believe \(Deluxe\)](https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr) | 3:56 |
 | 4 | [Time To Say Goodbye](https://open.spotify.com/track/3p02ss31ywBaZcqh7Vq9sx) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Diva: The Singles Collection](https://open.spotify.com/album/5WlVnriYOxYo6Q7PpM7yEQ) | 4:06 |
 | 5 | [Da Stanotte in Poi \(From This Moment On\) \- Christmas version](https://open.spotify.com/track/5evg7Ca0uMSwgL3FcKl60O) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Duets \(30th Anniversary / Deluxe\)](https://open.spotify.com/album/3UEzA6DDImhecCAzqNyQ01) | 3:55 |
 | 6 | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 66 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 67 | [These Are Special Times](https://open.spotify.com/track/7nmumY8ELmqBhXPCF9IBBc) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/2PG4FagRQNckeShV5upT71) | 4:08 |
 
-Snapshot ID: `Z1hWegAAAABE9lLhdP7+HTPBJdK74HU5`
+Snapshot ID: `Z2p/tAAAAADmHwM+aDe4wYDFRgcNvelX`

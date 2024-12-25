@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > Hyperpopemocoretrap 100pre sad t odio bye 👾 evilgiane y Rojuu en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,927 likes - 101 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,933 likes - 101 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 91 | [TOI ENOJÁ](https://open.spotify.com/track/3qWonv5MJrhaZ7OryBKlsx) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [TOI ENOJÁ](https://open.spotify.com/album/7gkwzOgW29DYVw2qTXASEv) | 2:25 |
 | 92 | [TAZO](https://open.spotify.com/track/7mbGXSKti66O72vr3ECvoc) | [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf), [Holly Allen](https://open.spotify.com/artist/31NYwZRmYDCteQABDRrhkg) | [TAZO](https://open.spotify.com/album/0vpc4GNMxhq0Dd0LaOSMp1) | 3:22 |
 | 93 | [california!](https://open.spotify.com/track/4cymj6iG0VAzzoZBUbIhvd) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [california!](https://open.spotify.com/album/44LGphprBSGJPMSkkZA9Re) | 1:12 |
-| 94 | [PTM!](https://open.spotify.com/track/1NPge2BaiMMROKIrbwKymv) | [VeucroX](https://open.spotify.com/artist/5KafVAd0EHiaK92pAIppyi), [Rxbbits](https://open.spotify.com/artist/5p1JkHpfEjrAJiQ9o0PzEt), [Kimaklon](https://open.spotify.com/artist/5zHtglZuQyseycRnMcAkZu) | [PTM!](https://open.spotify.com/album/4N07Kl61kXHxYolBuFabWz) | 1:54 |
+| 94 | [PTM!](https://open.spotify.com/track/1NPge2BaiMMROKIrbwKymv) | [VeucroX](https://open.spotify.com/artist/3qYrxg3wFgDILjOouwzZj4), [Rxbbits](https://open.spotify.com/artist/5p1JkHpfEjrAJiQ9o0PzEt), [Kimaklon](https://open.spotify.com/artist/5zHtglZuQyseycRnMcAkZu) | [PTM!](https://open.spotify.com/album/4N07Kl61kXHxYolBuFabWz) | 1:54 |
 | 95 | [DOSMILVEINTITRÉS](https://open.spotify.com/track/44xarQZB0N7Hvl2sWSG4O1) | [Nevo Angel](https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw) | [DOSMILVEINTITRÉS](https://open.spotify.com/album/6IKC0lA0KmFNjNPZVnn67J) | 3:24 |
 | 96 | [A La Verga Jajajajj](https://open.spotify.com/track/2FmwONf4l0wngRrEirgYCb) | [Tenshi](https://open.spotify.com/artist/2uQeXX2ga2kvnHeP81aI2Y) | [A La Verga Jajajajj](https://open.spotify.com/album/1AKX5E6tnjw1GZ7LFGlm7K) | 1:48 |
 | 97 | [Fornai](https://open.spotify.com/track/4mlo0r8ezrsCqE44BrCoeW) | [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8), [Jaicy Lokote](https://open.spotify.com/artist/0Hk6wEj5wSBQW4f3oL0sG7) | [Fornai](https://open.spotify.com/album/3znn0BpEmIgP2LTkJmB6CV) | 2:48 |

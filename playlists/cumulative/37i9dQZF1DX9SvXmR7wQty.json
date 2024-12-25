@@ -5489,6 +5489,48 @@
     },
     {
       "album": {
+        "name": "Bienvenue dans High & Fines Herbes",
+        "url": "https://open.spotify.com/album/2wJ9ImpdqwVGngJDDx5VX8"
+      },
+      "artists": [
+        {
+          "name": "Caballero & JeanJass",
+          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "Kay The Prodigy",
+          "url": "https://open.spotify.com/artist/4ziOwyCpUFMlERkfyoEV6p"
+        },
+        {
+          "name": "Stony Stone",
+          "url": "https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR"
+        },
+        {
+          "name": "thaHomey",
+          "url": "https://open.spotify.com/artist/5N2P9zB8202SrtnWCjqe1j"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Bienvenue dans High & Fines Herbes",
+      "url": "https://open.spotify.com/track/3wV0qYUvnJWfL9a2CQJqD1"
+    },
+    {
+      "album": {
         "name": "Big AK",
         "url": "https://open.spotify.com/album/4NLnvzkJvogzebsHJELswl"
       },
@@ -5536,7 +5578,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-25",
       "duration_ms": 122023,
       "name": "BIG BOSS",
       "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"

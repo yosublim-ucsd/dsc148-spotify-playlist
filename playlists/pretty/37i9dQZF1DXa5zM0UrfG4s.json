@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 112528,
+  "num_followers": 112531,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Ja likav\u00e4l",
+        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 161917,
+      "name": "Ja likav\u00e4l",
+      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Helg",
         "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 171008,
       "name": "Helg",
       "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Ja likav\u00e4l",
-        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 161917,
-      "name": "Ja likav\u00e4l",
-      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "FREDAG",
         "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "B\u00e6st I Test",
         "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Vakker og vill",
         "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
-        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 167229,
-      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
-      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -587,34 +571,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "En g\u00e5ng till",
-        "url": "https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy"
+        "name": "Jag \u00e4r taggad",
+        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 163346,
-      "name": "En g\u00e5ng till",
-      "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Hald deg fast",
-        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Hald deg fast",
-      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
+      "duration_ms": 136814,
+      "name": "Jag \u00e4r taggad",
+      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -635,18 +603,50 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Jag \u00e4r taggad",
-        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
+        "name": "Hald deg fast",
+        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 136814,
-      "name": "Jag \u00e4r taggad",
-      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+      "duration_ms": 201178,
+      "name": "Hald deg fast",
+      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
+        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 167229,
+      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
+      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "En g\u00e5ng till",
+        "url": "https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "En g\u00e5ng till",
+      "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 167980,
-      "name": "Zetor\u2019n",
-      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "N\u00e5 er det helg",
         "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 183958,
       "name": "N\u00e5 er det helg",
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 167980,
+      "name": "Zetor\u2019n",
+      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
     },
     {
       "added_at": "2024-10-31 23:00:00",

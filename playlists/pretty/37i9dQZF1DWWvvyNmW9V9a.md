@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > nice catch, cheer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,138,224 likes - 96 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,138,009 likes - 96 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

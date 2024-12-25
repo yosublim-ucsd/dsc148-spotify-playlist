@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,547 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,602 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 16 | [Fará Outra Vez](https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [One Vision](https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o) | 4:17 |
 | 17 | [O Dom da Vida](https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG) | [Fabi Oliveira](https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp), [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [O Dom da Vida](https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG) | 3:48 |
 | 18 | [Primeiro Amor](https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 4:00 |
-| 19 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
+| 19 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
 | 20 | [Eu Sou De Jesus](https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 3:32 |
-| 21 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
+| 21 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 22 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
 | 23 | [Porque Ele Vive](https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares](https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT) | 3:51 |
 | 24 | [Tudo Posso](https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Lucas Augusto](https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR) | [Tudo Posso](https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ) | 6:37 |

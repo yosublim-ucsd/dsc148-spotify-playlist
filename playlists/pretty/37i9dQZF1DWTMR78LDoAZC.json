@@ -1,6 +1,6 @@
 {
   "description": "Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.",
-  "num_followers": 177868,
+  "num_followers": 177907,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Faith Healer",
-      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Your Mother's Name",
         "url": "https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 231659,
       "name": "Your Mother's Name",
       "url": "https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "So Clear",
-        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 212064,
-      "name": "So Clear",
-      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
-    },
-    {
       "added_at": "2024-06-21 15:51:27",
       "album": {
         "name": "Real Power",
@@ -951,6 +935,22 @@
       "duration_ms": 197277,
       "name": "Crazy Again",
       "url": "https://open.spotify.com/track/49eDe6Sk39RHcMtrtol9IC"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "So Clear",
+        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 212064,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
     },
     {
       "added_at": "2024-06-21 15:51:27",

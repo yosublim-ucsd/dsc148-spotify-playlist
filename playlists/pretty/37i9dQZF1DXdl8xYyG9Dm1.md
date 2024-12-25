@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Olamide
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,314 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,416 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 53 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
 | 54 | [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 |
 | 55 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 |
-| 56 | [VIOLATION](https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [VIOLATION](https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd) | 2:28 |
-| 57 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
+| 56 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |
+| 57 | [VIOLATION](https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [VIOLATION](https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd) | 2:28 |
 | 58 | [Haibo Freestyle](https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Haibo Freestyle](https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb) | 2:25 |
-| 59 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 |
-| 60 | [No Love In Lagos](https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3) | 3:09 |
+| 59 | [No Love In Lagos](https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3) | 3:09 |
+| 60 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 |
 | 61 | [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 |
 | 62 | [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 |
 | 63 | [coMPRess](https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [coMPRess](https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK) | 3:14 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 66 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |
 | 67 | [Believer](https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK) | [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Believer](https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf) | 3:50 |
 | 68 | [Kiki](https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Glody Kasongo](https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i) | [Kiki](https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9) | 2:54 |
-| 69 | [PULL UP \(WHERE THE MUD BE\)](https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [ROLE MODEL \(DELUXE VERSION\)](https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1) | 2:34 |
-| 70 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 |
+| 69 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 |
+| 70 | [PULL UP \(WHERE THE MUD BE\)](https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [ROLE MODEL \(DELUXE VERSION\)](https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1) | 2:34 |
 
 Snapshot ID: `Zz/JvAAAAAAyfFsJo4mYadW65RhlyTq3`

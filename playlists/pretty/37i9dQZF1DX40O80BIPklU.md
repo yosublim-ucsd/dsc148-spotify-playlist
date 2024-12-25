@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Gera MX en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,058 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,069 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 48 | [Un Pelito y Un Tamal](https://open.spotify.com/track/3EPHagMulVWYwuefchltK6) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [dj spizike](https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm) | [Un Pelito y Un Tamal](https://open.spotify.com/album/69d8lxsfANufzR41UZThPM) | 2:06 |
 | 49 | [No Nos Tumban Ni a Palo](https://open.spotify.com/track/4K4LwRM1Oy66LLj6ZpjrtD) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [No Nos Tumban Ni a Palo](https://open.spotify.com/album/3064D8LmPSoj1vSOmpfGVw) | 3:11 |
 | 50 | [Tatequieto](https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Ily Wonder](https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI) | [Tatequieto](https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0) | 2:32 |
-| 51 | [Capuccino](https://open.spotify.com/track/378H7UrRynW8WnLPKGeeL8) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Capuccino](https://open.spotify.com/album/6SvKDk59wgaSM9tVWVA6n3) | 4:43 |
+| 51 | [Capuccino](https://open.spotify.com/track/378H7UrRynW8WnLPKGeeL8) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [BEJO](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Capuccino](https://open.spotify.com/album/6SvKDk59wgaSM9tVWVA6n3) | 4:43 |
 | 52 | [buen día portación de rostro](https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [buen día portación de rostro](https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz) | 3:24 |
 | 53 | [Le decían que no podía](https://open.spotify.com/track/1H74BSIoJD0Usb5Boyocsl) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Le decían que no podía](https://open.spotify.com/album/78PzqEJVrRaKmjHoXdOHdv) | 3:04 |
 | 54 | [Edad media](https://open.spotify.com/track/4MAcdiljJGgdhmMeRFQxi3) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [Edad media](https://open.spotify.com/album/3Sp4IY5jqLvmfPW5W5E7nC) | 3:17 |

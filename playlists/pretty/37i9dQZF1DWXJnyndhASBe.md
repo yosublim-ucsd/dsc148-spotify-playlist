@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Otsochodzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,017 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,065 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 25 | [Zoë Kravitz](https://open.spotify.com/track/7ESbIvVF79d0A9P6DOEzC7) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Lucassi](https://open.spotify.com/artist/34Atpk8kle8mndOUwKblhK) | [Zoë Kravitz](https://open.spotify.com/album/4RW4IEsKGrOvjdJh9EwSEX) | 2:49 |
 | 26 | [CALVIN KELER \(OUTRO\)](https://open.spotify.com/track/7CjWRY97NCvY2U9QP4PeWT) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO) | [CALVIN KELER \(OUTRO\)](https://open.spotify.com/album/0d0azA3hRD4UNo4qc49QBQ) | 4:26 |
 | 27 | [hellstar](https://open.spotify.com/track/7HDeP774T5HQlHISFg4v5O) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [hellstar](https://open.spotify.com/album/5v6HNBzISkweTBWw6nHdvz) | 2:08 |
-| 28 | [Wady](https://open.spotify.com/track/5eSTrrtre6XKmEdK3dxZwK) | [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni), [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [Wady](https://open.spotify.com/album/5uP8KJmgdceE6rhk9s6ish) | 2:18 |
+| 28 | [Wady](https://open.spotify.com/track/5eSTrrtre6XKmEdK3dxZwK) | [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni), [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [NBALVCKY](https://open.spotify.com/artist/5jdPPKSFmxmRLFubteqYV1) | [Wady](https://open.spotify.com/album/5uP8KJmgdceE6rhk9s6ish) | 2:18 |
 | 29 | [młody gandolfini](https://open.spotify.com/track/3tf8gSdD6Ch9Rz4H2uJKOO) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [młody gandolfini](https://open.spotify.com/album/3hzZqUcymHfXpnuo9Czhig) | 2:32 |
 | 30 | [PINEZKA](https://open.spotify.com/track/4brp8oXYkKJtkJWYuUaZ5T) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [PATOPOP \(Vol\. 2\)](https://open.spotify.com/album/1Y50YsFpTHTjqFNHpZKZuH) | 3:33 |
 | 31 | [911](https://open.spotify.com/track/0spb4Kfcsn8t37E1Qv7f3m) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [OG ENZO](https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi) | [911](https://open.spotify.com/album/0tbekMBVgamh1qFEoZJuio) | 2:29 |

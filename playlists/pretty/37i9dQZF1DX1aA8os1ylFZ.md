@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,034 likes - 88 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,033 likes - 88 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 65 | [Major Minor](https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA) | [Donna Lugassy](https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm) | [Major Minor](https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT) | 2:29 |
 | 66 | [Spinn On You](https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Spinn On You](https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w) | 2:20 |
 | 67 | [10%](https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [10%](https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW) | 2:51 |
-| 68 | [Relax your mind](https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Relax your mind](https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt) | 3:31 |
-| 69 | [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 |
-| 70 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 |
-| 71 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
+| 68 | [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 |
+| 69 | [Relax your mind](https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Relax your mind](https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt) | 3:31 |
+| 70 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
+| 71 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 |
 | 72 | [ANTICIPATE](https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Cait Harris](https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0) | [ANTICIPATE](https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK) | 2:32 |
 | 73 | [Make You Remember Me](https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Make You Remember Me](https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz) | 2:25 |
-| 74 | [Tell Me](https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ) | [Eloy](https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV) | [Tell Me](https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3) | 2:49 |
-| 75 | [City's Burning](https://open.spotify.com/track/1rgz9BcN7gaURoxJn74sz6) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [City's Burning](https://open.spotify.com/album/3ZK9PCRfpfu1225qjQbred) | 4:14 |
-| 76 | [Players Voicemail](https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Players Voicemail](https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs) | 2:52 |
-| 77 | [Aphrodite](https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Aphrodite](https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK) | 3:12 |
+| 74 | [City's Burning](https://open.spotify.com/track/1rgz9BcN7gaURoxJn74sz6) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [City's Burning](https://open.spotify.com/album/3ZK9PCRfpfu1225qjQbred) | 4:14 |
+| 75 | [Aphrodite](https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Aphrodite](https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK) | 3:12 |
+| 76 | [Tell Me](https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ) | [Eloy](https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV) | [Tell Me](https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3) | 2:49 |
+| 77 | [Players Voicemail](https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Players Voicemail](https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs) | 2:52 |
 | 78 | [Say You Do](https://open.spotify.com/track/2sC5Cdda0VyNHJGhGKey0L) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [EightyThrilla](https://open.spotify.com/artist/11K0tW3obVss3xQmgAxXvF) | [Say You Do](https://open.spotify.com/album/0WDr2AfJ9DWLVXUQmZnui4) | 3:09 |
 | 79 | [Regrets](https://open.spotify.com/track/5lRyRnZUIwVfEgzOyeT7ZV) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [TWENTYFiVE SOUNDSYSTEM](https://open.spotify.com/artist/6TeDTJbTwET9KRACfHnjc7) | [Regrets](https://open.spotify.com/album/19FBgiQpcYHjboNHmQMy5P) | 2:57 |
 | 80 | [So Fresh So Clean](https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Baby Boy 2](https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7) | 2:15 |

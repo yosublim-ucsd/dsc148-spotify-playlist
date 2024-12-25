@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > This Christmas, Matt & Bowen are our main pop girls 🆘
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,245 likes - 106 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,244 likes - 106 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

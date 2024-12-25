@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,733 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,745 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 19 | [Nunca Me Olvides](https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:01 |
 | 20 | [Fecha](https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:08 |
 | 21 | [Dembow y Reggaeton](https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DEMBO$$](https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV) | 4:08 |
-| 22 | [REGGAETON MALANDRO](https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [ELYTE](https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea) | 2:55 |
-| 23 | [XQ Te Pones Así](https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:38 |
+| 22 | [XQ Te Pones Así](https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:38 |
+| 23 | [REGGAETON MALANDRO](https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [ELYTE](https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea) | 2:55 |
 | 24 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
 | 25 | [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 |
 | 26 | [RD 2 \(feat\. Alejandro Armes & DJ Nelson\)](https://open.spotify.com/track/163giDjTwAwnIb9ME3zZl4) | [Soyneel](https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [RD 2 \(feat\. Alejandro Armes & DJ Nelson\)](https://open.spotify.com/album/5QhzMGj6w23BP4CU8asn8Q) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [La Calle Me Lo Pidio](https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 3:05 |
 | 50 | [Cuanto Vale](https://open.spotify.com/track/3WHnnU4jaCPfzywrqSF5kl) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Cuanto Vale](https://open.spotify.com/album/0xh0WBa0N4bQsbowMvDCIH) | 2:45 |
 
-Snapshot ID: `Z2dWgAAAAAC8JVkl8SA/ygKUU5Xecvfs`
+Snapshot ID: `Z2ioAAAAAAAd0YkbXu2E6z5/53j3L7M1`
