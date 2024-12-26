@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,069 likes - 70 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,074 likes - 70 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 40 | [Raving Lunatic](https://open.spotify.com/track/6BKdI34pLES1vjKmX9qpww) | [Furious Frank](https://open.spotify.com/artist/00MTkgmKzIAaseVdO9L5KV) | [Raving Lunatic](https://open.spotify.com/album/1dvcNt0BDVL9nDDWSzTFxR) | 6:16 |
 | 41 | [Apocalypse \(At The Acropolis\)](https://open.spotify.com/track/2CrbolEly0DzmItzb4MzC6) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Apocalypse](https://open.spotify.com/album/1oIGm9rbYTD1F6PTBtXfag) | 5:10 |
 | 42 | [House Machine](https://open.spotify.com/track/38HiQInPRDWa8A4Hzu8zBL) | [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [House Machine](https://open.spotify.com/album/544zQeqftN4ziAbroQGeJO) | 5:45 |
-| 43 | [For Them You’re Just a Freak !](https://open.spotify.com/track/7piprkw4dQLSqdkjk7QEni) | [Julie Desire](https://open.spotify.com/artist/0WQb50e2zuihinbclTjv0I) | [For Them You’re Just a Freak !](https://open.spotify.com/album/1G34J3u4po2ry9CVEkSKw2) | 6:02 |
+| 43 | [For Them You’re Just a Freak !](https://open.spotify.com/track/7piprkw4dQLSqdkjk7QEni) | [Julie Desire](https://open.spotify.com/artist/4URDuGpoA5UfmXrlrDeEfE) | [For Them You’re Just a Freak !](https://open.spotify.com/album/1G34J3u4po2ry9CVEkSKw2) | 6:02 |
 | 44 | [Feel the Bass](https://open.spotify.com/track/3LFfAEbZnbSraMAT1K2opv) | [Clint](https://open.spotify.com/artist/3SUXHChvS0yDwYxSOwKltb) | [Feel the Bass](https://open.spotify.com/album/7wYklleP16TKUxOf3gPZYG) | 6:04 |
 | 45 | [365 \- 131bpm's Remix](https://open.spotify.com/track/5YDTp31EBoetdT40d9rDHz) | [131bpm](https://open.spotify.com/artist/3RYtFUGt7gnNuYeDu83zw6) | [365 \(131bpm's Remix\)](https://open.spotify.com/album/1gxumry2j97QKW2i7RuEQa) | 5:12 |
 | 46 | [Balance](https://open.spotify.com/track/4I6BPvIYDp2laxOwArEy5L) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [JS05](https://open.spotify.com/album/3UipUsvsC4iM6vlFbJ43Vh) | 6:15 |

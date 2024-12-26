@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Velveteers
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,640 likes - 124 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,645 likes - 124 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

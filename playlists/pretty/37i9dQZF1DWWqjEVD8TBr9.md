@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,409,344 likes - 212 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,409,700 likes - 212 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Walkin On Water](https://open.spotify.com/track/4YPF8kjq2Q9hVzOwBjM2vg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:28 |
-| 2 | [Walkin On Water \(Sleigh Ver.\)](https://open.spotify.com/track/6rqGIYO69ODExagzUlFwfJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [RESTART](https://open.spotify.com/artist/5xhH3u3nhlDfHq2mkqvR1B), [채강해](https://open.spotify.com/artist/7cU2XIlbuNfe2a7fM488ZI) | [Walkin On Water \(Remixes\)](https://open.spotify.com/album/4qQODn0BzLIHJXOqwNKgoR) | 2:35 |
+| 2 | [Walkin On Water \(Sleigh Ver.\)](https://open.spotify.com/track/6rqGIYO69ODExagzUlFwfJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Walkin On Water \(Remixes\)](https://open.spotify.com/album/4qQODn0BzLIHJXOqwNKgoR) | 2:35 |
 | 3 | [Bounce Back](https://open.spotify.com/track/18sepgfG5z7htRLPeFk6RA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 3:03 |
 | 4 | [U](https://open.spotify.com/track/2i8ccVGWNGHuJ13Yh997ni) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:43 |
 | 5 | [Walkin On Water \(HIP Version\)](https://open.spotify.com/track/3ZZ6o9wK1Rzz521MJfI5ul) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:55 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 11 | [ULTRA \(Changbin\)](https://open.spotify.com/track/5LiRLjFqwPNR8WBmlsbQW6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:27 |
 | 12 | [Hold my hand \(HAN\)](https://open.spotify.com/track/0Ohk9Dc52UeGMoX67Mzj1T) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:59 |
 | 13 | [As we are \(Seungmin\)](https://open.spotify.com/track/7qBtrHeh3R41pfe9t0j5ZP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 3:33 |
-| 14 | [Walkin On Water \(Sway Ver.\)](https://open.spotify.com/track/5In0bQkcXOCBGk27SptFwY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Daniel Obi Klein for ILLSONIQUE](https://open.spotify.com/artist/0tbhiArws08sbzrpm0guLu) | [Walkin On Water \(Remixes\)](https://open.spotify.com/album/4qQODn0BzLIHJXOqwNKgoR) | 2:24 |
+| 14 | [Walkin On Water \(Sway Ver.\)](https://open.spotify.com/track/5In0bQkcXOCBGk27SptFwY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Walkin On Water \(Remixes\)](https://open.spotify.com/album/4qQODn0BzLIHJXOqwNKgoR) | 2:24 |
 | 15 | [GIANT](https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:54 |
 | 16 | [Chk Chk Boom \-Japanese ver.\-](https://open.spotify.com/track/43RLe6WDgwld9uEAXSvVUW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:29 |
 | 17 | [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 |

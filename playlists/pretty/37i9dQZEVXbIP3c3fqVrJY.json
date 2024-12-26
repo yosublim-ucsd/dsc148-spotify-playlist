@@ -1,51 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 69130,
+  "num_followers": 69133,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lv4hSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lv9yyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
-      "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -61,7 +25,39 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 62893,
+      "name": "Pujdem spolu do Betl\u00e9ma",
+      "url": "https://open.spotify.com/track/0vFuvf86DBX86mgp4ATufb"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "V\u00e1noce Na M\u00edru",
         "url": "https://open.spotify.com/album/1J0lFn8ciKpxY4MRbt20Fd"
@@ -77,59 +73,39 @@
       "url": "https://open.spotify.com/track/3j30Y6jVypcZxFiWATyZ4Y"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
       },
       "artists": [
         {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "STEIN27",
-          "url": "https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb"
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
         }
       ],
-      "duration_ms": 193548,
-      "name": "V\u00edtej mezi n\u00e1ma (feat. STEIN27)",
-      "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
+      "duration_ms": 112560,
+      "name": "Nesem V\u00e1m noviny",
+      "url": "https://open.spotify.com/track/3FBDn9uYUpCAS8svJwJ7ux"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
       },
       "artists": [
         {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
         }
       ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+      "duration_ms": 112466,
+      "name": "Vesel\u00e9 v\u00e1no\u010dn\u00ed hody",
+      "url": "https://open.spotify.com/track/4AwUg33u6NXXBsCNqNIqgd"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "Dobr\u00fd \u010casy",
         "url": "https://open.spotify.com/album/4qbUWnbj76iuu7ginVhEX6"
@@ -145,23 +121,55 @@
       "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 84666,
+      "name": "\u0160t\u011bdrej ve\u010der nastal",
+      "url": "https://open.spotify.com/track/7z2e3rmY8LUyxfFPHfSSE7"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 76466,
+      "name": "P\u00e1sli ovce Vala\u0161i",
+      "url": "https://open.spotify.com/track/2qFoxTnOhhUd7qZVTpJScD"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "V\u00e1no\u010dn\u00ed (feat. Teri Blitzen)",
         "url": "https://open.spotify.com/album/7LwJDJYDDYkcoyu7SuWjVp"
@@ -181,7 +189,23 @@
       "url": "https://open.spotify.com/track/2eDK36OyLEXUYP0DxlTLIE"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 88026,
+      "name": "Narodil se Kristus P\u00e1n",
+      "url": "https://open.spotify.com/track/4q0vnoWFd16SMvlGMPB6Yy"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "Halyw\u016fd",
         "url": "https://open.spotify.com/album/6fOPFcFKTDYOhXKwfSQgAe"
@@ -201,43 +225,119 @@
       "url": "https://open.spotify.com/track/1qrpm14LqMOlDIV21wQ8aZ"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
         }
       ],
-      "duration_ms": 166299,
-      "name": "Syndrom",
-      "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
+      "duration_ms": 81400,
+      "name": "Veselte se, radujte se",
+      "url": "https://open.spotify.com/track/1bcxeg3NTdtwFojVxdY1x0"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        },
-        {
-          "name": "Saul",
-          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
         }
       ],
-      "duration_ms": 183428,
-      "name": "C\u00edgo a k\u00e1va (feat. Saul)",
-      "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
+      "duration_ms": 71933,
+      "name": "Poj\u010fte chlapci k n\u00e1m",
+      "url": "https://open.spotify.com/track/2nZqVGyZ6zUp1Msmx9mvaj"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 71333,
+      "name": "Sly\u0161eli jsme v Betl\u00e9m\u011b",
+      "url": "https://open.spotify.com/track/3XWxNH35PZZtJBbfrXOhYH"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 73466,
+      "name": "J\u00e1 bych r\u00e1d k Betl\u00e9mu",
+      "url": "https://open.spotify.com/track/5u9SlTV7leZFNpE7ukfE6F"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 61066,
+      "name": "Cht\u00edc, aby spal",
+      "url": "https://open.spotify.com/track/5x9P8DDEFwHuzK7fAm0h6U"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "Mili\u00f3\u00f3\u00f3ny P\u0159\u00e1n\u00ed",
         "url": "https://open.spotify.com/album/3RfV4hfOoLDbO9vckUrg0M"
@@ -257,23 +357,219 @@
       "url": "https://open.spotify.com/track/6cHIlTBxzGoCivKNUs8fwD"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+      "duration_ms": 54400,
+      "name": "Sly\u0161te, sly\u0161te pastu\u0161kov\u00e9",
+      "url": "https://open.spotify.com/track/5p44K6jIoiL7xK3ahR7Oxh"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "Bieber Fever Tour Life",
+        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
+      "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 91760,
+      "name": "\u0160t\u011bst\u00ed, zdrav\u00ed, pokoj svat\u00fd",
+      "url": "https://open.spotify.com/track/2nq6GJy3gcTr80orToMBiS"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "J\u00e1 mal\u00fd p\u0159ich\u00e1z\u00edm",
+      "url": "https://open.spotify.com/track/5RIy2pviY0FkZZ1aBTLz0z"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 129199,
+      "name": "Aj, dnes v Betl\u00e9m\u011b",
+      "url": "https://open.spotify.com/track/4TjJKRHSQSoYd5I2YZpYKB"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 67666,
+      "name": "Dej b\u016fh \u0161t\u011bst\u00ed",
+      "url": "https://open.spotify.com/track/3NzOcWuLEr8Rt8V3DDkK5d"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 48266,
+      "name": "Jak jsi kr\u00e1sn\u00e9 nevi\u0148\u00e1tko",
+      "url": "https://open.spotify.com/track/0U1bWpYC5uiUDX9ALasOvA"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "Sliby Se Maj Plnit O V\u00e1noc\u00edch (20 Let)",
+        "url": "https://open.spotify.com/album/4n0Y3AciirHfoyIEDvfvGn"
+      },
+      "artists": [
+        {
+          "name": "Janek Ledecky",
+          "url": "https://open.spotify.com/artist/79bOGlqgcX5k0XF1giVvNO"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Ryba Ryb\u011b",
+      "url": "https://open.spotify.com/track/7zTFcEEtyeKxvRUrPIHT49"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 2 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/6pJJc0ncQiyyAIZEuagpjI"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 62800,
+      "name": "Tich\u00e1 noc",
+      "url": "https://open.spotify.com/track/2Zrn9F2CHBmKNSoCtdekZ7"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 109133,
+      "name": "Tich\u00e1 noc",
+      "url": "https://open.spotify.com/track/77FRF06OSL3tj2CDRwtpuu"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "And\u011bl v blb\u00fdm v\u011bku (Best of 2008-2019)",
+        "url": "https://open.spotify.com/album/6HlmH2pBYZ86NhT9ylWJng"
+      },
+      "artists": [
+        {
+          "name": "XINDL X",
+          "url": "https://open.spotify.com/artist/2pQJyBmoLjRouM3bg8doKu"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "\u0160t\u011bdr\u00fd ve\u010der nastal",
+      "url": "https://open.spotify.com/track/2emR8Zt7u8o8RWn7Z7dyzg"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "Ve jm\u00e9nu l\u00e1sky",
+        "url": "https://open.spotify.com/album/5WOTZy9wjUpyFonboSxRUZ"
+      },
+      "artists": [
+        {
+          "name": "Iveta Barto\u0161ov\u00e1",
+          "url": "https://open.spotify.com/artist/2jrhHIIt3pMkts71ja2vp3"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "T\u0159i o\u0159\u00ed\u0161ky",
+      "url": "https://open.spotify.com/track/1R8epzsY34G3grJaSToxa2"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 120333,
+      "name": "Radostn\u011b budem zp\u00edvat",
+      "url": "https://open.spotify.com/track/0aeqKS6ZINIFIreJUv6Dw2"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
@@ -293,7 +589,71 @@
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 82813,
+      "name": "Posp\u011b\u0161te sem pachol\u00e1tka",
+      "url": "https://open.spotify.com/track/5RExY3uGYNGHgqpn0v2Ela"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 69933,
+      "name": "K Je\u017e\u00ed\u0161kovi do Betl\u00e9ma",
+      "url": "https://open.spotify.com/track/2qsM1KHWQHBUEQlk6fOxdA"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 59120,
+      "name": "Sem, past\u00fd\u0159i",
+      "url": "https://open.spotify.com/track/2hmfRUoGzhr40f8F4bormJ"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 112440,
+      "name": "Kyrie Eleiston",
+      "url": "https://open.spotify.com/track/14AeIDBDV16Xlw8S8pqlwm"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -309,135 +669,7 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Sliby Se Maj Plnit O V\u00e1noc\u00edch (20 Let)",
-        "url": "https://open.spotify.com/album/4n0Y3AciirHfoyIEDvfvGn"
-      },
-      "artists": [
-        {
-          "name": "Janek Ledecky",
-          "url": "https://open.spotify.com/artist/79bOGlqgcX5k0XF1giVvNO"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Ryba Ryb\u011b",
-      "url": "https://open.spotify.com/track/7zTFcEEtyeKxvRUrPIHT49"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "And\u011bl v blb\u00fdm v\u011bku (Best of 2008-2019)",
-        "url": "https://open.spotify.com/album/6HlmH2pBYZ86NhT9ylWJng"
-      },
-      "artists": [
-        {
-          "name": "XINDL X",
-          "url": "https://open.spotify.com/artist/2pQJyBmoLjRouM3bg8doKu"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "\u0160t\u011bdr\u00fd ve\u010der nastal",
-      "url": "https://open.spotify.com/track/2emR8Zt7u8o8RWn7Z7dyzg"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
-        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
-      },
-      "artists": [
-        {
-          "name": "D\u011btsk\u00fd sbor Camerata",
-          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
-        }
-      ],
-      "duration_ms": 62893,
-      "name": "Pujdem spolu do Betl\u00e9ma",
-      "url": "https://open.spotify.com/track/0vFuvf86DBX86mgp4ATufb"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Ve jm\u00e9nu l\u00e1sky",
-        "url": "https://open.spotify.com/album/5WOTZy9wjUpyFonboSxRUZ"
-      },
-      "artists": [
-        {
-          "name": "Iveta Barto\u0161ov\u00e1",
-          "url": "https://open.spotify.com/artist/2jrhHIIt3pMkts71ja2vp3"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "T\u0159i o\u0159\u00ed\u0161ky",
-      "url": "https://open.spotify.com/track/1R8epzsY34G3grJaSToxa2"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "Hudba Nen\u00ed Zl\u00e1",
         "url": "https://open.spotify.com/album/0X7fKhehlFhOnTMwKE9DNH"
@@ -453,395 +685,7 @@
       "url": "https://open.spotify.com/track/3zKimXqpNYHep3ma88JWmM"
     },
     {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "+-=\u00f7\u00d7 (Tour Collection)",
-        "url": "https://open.spotify.com/album/3mJm77zryIt06nbQV7DjuY"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/0hz5PNF2wejwUKCMpesQWt"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "SATIVA",
-        "url": "https://open.spotify.com/album/0zXz8LnmVqVblWqt9qlM6K"
-      },
-      "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Pro \u0161t\u011bst\u00ed",
-      "url": "https://open.spotify.com/track/0fGiTi5MT5MN2UgHYj9YK2"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "B. Swanson Quartet",
-          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
-      "url": "https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Origin\u00e1l",
-        "url": "https://open.spotify.com/album/4DZq7L8crhVRWMnVpTeA2C"
-      },
-      "artists": [
-        {
-          "name": "Marek Ztracen\u00fd",
-          "url": "https://open.spotify.com/artist/7s4NiavZ071gzNghPJVmUu"
-        },
-        {
-          "name": "Hana Zagorov\u00e1",
-          "url": "https://open.spotify.com/artist/4cFceELvzYd8CJBtN6WCBV"
-        }
-      ],
-      "duration_ms": 190109,
-      "name": "V\u00e1noce jako d\u0159\u00edv",
-      "url": "https://open.spotify.com/track/3CpohZA83EHkZESssbvvMe"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "GLOBAL",
-        "url": "https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "duration_ms": 153070,
-      "name": "GHETTO ROMANTIKA",
-      "url": "https://open.spotify.com/track/5uyUYBf12MoDctqYKEUFti"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Planeta jm\u00e9nem stres",
-        "url": "https://open.spotify.com/album/5fTW9efdCtxCLOSWO70iLe"
-      },
-      "artists": [
-        {
-          "name": "Marek Ztracen\u00fd",
-          "url": "https://open.spotify.com/artist/7s4NiavZ071gzNghPJVmUu"
-        }
-      ],
-      "duration_ms": 226236,
-      "name": "Sta\u010d\u00ed v\u011b\u0159it",
-      "url": "https://open.spotify.com/track/3zUALUQ4uP0OzNFccxnF79"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Ohnivej kruh",
-      "url": "https://open.spotify.com/track/63t5KcNc6sOvyo0leRzueh"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Bieber Fever",
-        "url": "https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Ohe\u0148",
-        "url": "https://open.spotify.com/album/7dvAvBah5aRvnkgN0tejxw"
-      },
-      "artists": [
-        {
-          "name": "Lucie Vondr\u00e1\u010dkov\u00e1",
-          "url": "https://open.spotify.com/artist/7Fh934KVdTC7ekW6Rqangw"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "V\u00e1noce B\u00edl\u00fd",
-      "url": "https://open.spotify.com/track/2LeecYxU4wxv7RCFr8aE9q"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Roleplay",
-      "url": "https://open.spotify.com/track/7jAC1Ifo1Qpsf8pKW02ata"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "P\u00e1tky",
-      "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Stastne a Vesele - Ep",
-        "url": "https://open.spotify.com/album/3QkddsMvsuqwseqzkeTICG"
-      },
-      "artists": [
-        {
-          "name": "Dominika Mirgova",
-          "url": "https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt"
-        }
-      ],
-      "duration_ms": 208468,
-      "name": "Stastne a vesele - Original Verzia",
-      "url": "https://open.spotify.com/track/6DVTBu9IYryPTncQvOATKK"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 121526,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "P\u0159evle\u010den\u00e1 \u017e\u00edze\u0148",
-      "url": "https://open.spotify.com/track/71oYEUUlOT1ANUqHei1dKO"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Merry Christmas Everyone",
-        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
-      },
-      "artists": [
-        {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Merry Christmas Everyone",
-      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
-      "album": {
-        "name": "Pr\u00e1v\u011b te\u010f",
-        "url": "https://open.spotify.com/album/7CbnHITnajL25NiiQuRf39"
-      },
-      "artists": [
-        {
-          "name": "Janek Ledecky",
-          "url": "https://open.spotify.com/artist/79bOGlqgcX5k0XF1giVvNO"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "Sliby se maj plnit o V\u00e1noc\u00edch",
-      "url": "https://open.spotify.com/track/6NrF748CUGYJ7wS7GXUL7r"
-    },
-    {
-      "added_at": "2024-12-24 12:30:49",
+      "added_at": "2024-12-25 12:32:44",
       "album": {
         "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
         "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
@@ -852,9 +696,137 @@
           "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
         }
       ],
-      "duration_ms": 112560,
-      "name": "Nesem V\u00e1m noviny",
-      "url": "https://open.spotify.com/track/3FBDn9uYUpCAS8svJwJ7ux"
+      "duration_ms": 66600,
+      "name": "Hle, hle, tamhle v Betl\u00e9m\u011b",
+      "url": "https://open.spotify.com/track/7LIm0wqXegQZzuLuwixpmV"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 41333,
+      "name": "Rychle brat\u0159i",
+      "url": "https://open.spotify.com/track/1pRDocmSBFxMcmtu1wOnkf"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 108266,
+      "name": "Ejhle, chasa na\u0161e",
+      "url": "https://open.spotify.com/track/1OdKm5kAQI5a2Phm8BJlfl"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 34000,
+      "name": "Hore, hore, pastu\u0161kov\u00e9",
+      "url": "https://open.spotify.com/track/0T2EZNoaHffzs0Us4wvaiT"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "duration_ms": 119426,
+      "name": "V\u00e1no\u010dn\u00ed ukol\u00e9bavka",
+      "url": "https://open.spotify.com/track/3AqGkZtGXFbTboBXu0bmj4"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "added_at": "2024-12-25 12:32:44",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     }
   ],
   "unique_name": "Top 50 - Czech Republic",

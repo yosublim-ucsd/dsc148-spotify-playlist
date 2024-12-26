@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! El Mimoso Luis Antonio Lopez en portada.
 
-434 songs - 22 hr 54 min
+435 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [El Candidato](https://open.spotify.com/track/1iq2sO3eDU2l8Eca9HKDSW) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Candidato](https://open.spotify.com/album/4kfjtm9i1lYuIcVnGSdvgI) | 3:00 | 2024-10-18 | 2024-12-21 |
 | [El Chapo Isidro \- En Vivo](https://open.spotify.com/track/30xHQaGO1aJQefZKkyAq4H) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Corridos Arriesgados y De Respeto \(En Vivo\)](https://open.spotify.com/album/52SZy21R2MoUiDwwCUjOe9) | 2:49 | 2023-12-01 | 2023-12-16 |
 | [El Chulo](https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Chulo](https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj) | 2:26 | 2024-05-10 | 2024-09-14 |
+| [El Coco Rayado](https://open.spotify.com/track/06FfQhR5Q3VWoyE34ZMFCt) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Coco Rayado](https://open.spotify.com/album/1VyUGxzyLiOQ7uoeQv5cXv) | 2:55 | 2024-12-20 |  |
 | [El Corrido Del Patrón](https://open.spotify.com/track/581dTkoHjZUBktHq7A2v9A) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Corrido Del Patrón](https://open.spotify.com/album/0KZtrqij3mujx0275PTHjE) | 2:38 | 2024-09-20 | 2024-11-20 |
 | [El De Cameron](https://open.spotify.com/track/3I0ZTy6xk4DZFQI7Ns48ax) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [El De Cameron](https://open.spotify.com/album/6yN9Ni8rU1sIZSZQmXf82Q) | 3:46 | 2024-04-12 | 2024-05-18 |
 | [El De Los Collares](https://open.spotify.com/track/0eomXwhvCUSFUtgrGzSLSX) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY), [Los Luna Oficial](https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC) | [El De Los Collares](https://open.spotify.com/album/0uf8gfJPV37b5LZaQtoQpi) | 2:30 | 2023-01-27 | 2023-05-07 |
@@ -424,7 +425,7 @@
 | [Ya Lo Sé \- Banda](https://open.spotify.com/track/6XcCOSfmtOH7DkRCfWQWxW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ya Lo Sé \(Banda\)](https://open.spotify.com/album/1HkmNyWvsyWZEtlBCL9fhN) | 3:22 | 2024-11-15 |  |
 | [Ya No Estoy Solo](https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Ya No Estoy Solo](https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji) | 2:58 | 2024-02-16 | 2024-05-11 |
 | [Ya No Estés Chingando](https://open.spotify.com/track/6cWW02JMQj4Ey06QtkRsDs) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Ya No Estés Chingando](https://open.spotify.com/album/1RD6tsQ8Hf4eg6HwcfsZZC) | 3:24 | 2022-09-23 | 2022-10-25 |
-| [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 | 2023-06-09 |  |
+| [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 | 2023-06-09 | 2024-12-26 |
 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 | 2022-01-28 |  |
 | [Ya Solo Eres Mi Ex](https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Ya Solo Eres Mi Ex](https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr) | 3:42 | 2022-07-15 | 2023-01-21 |
 | [Ya Solo Eres Mi Ex](https://open.spotify.com/track/0QBinvGHLoIFTICmySWvXG) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Ya Solo Eres Mi Ex](https://open.spotify.com/album/31bK55fwF0HGd1z0CTbj46) | 3:42 | 2022-01-28 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Fisz Emade Tworzywo",
-  "num_followers": 18251,
+  "num_followers": 18254,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "chinatown freestyle",
+        "url": "https://open.spotify.com/album/1UFIobJ5xMic8meVvWFXV5"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 188047,
+      "name": "chinatown freestyle",
+      "url": "https://open.spotify.com/track/1S5eTODjX6u2rkB7o48IiO"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/2gcn8DaDw53YnwCdUYzDfF"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 158181,
       "name": "Borgin & Burkes",
       "url": "https://open.spotify.com/track/0bIsmPt3AQ20TvlJ0sejMx"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "chinatown freestyle",
-        "url": "https://open.spotify.com/album/1UFIobJ5xMic8meVvWFXV5"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 188047,
-      "name": "chinatown freestyle",
-      "url": "https://open.spotify.com/track/1S5eTODjX6u2rkB7o48IiO"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "Jak Wiatr",
+        "url": "https://open.spotify.com/album/5cN3vJHGTPewbKmv528jR6"
+      },
+      "artists": [
+        {
+          "name": "Matis",
+          "url": "https://open.spotify.com/artist/7qQkuQHrvcfSoMkx0pkHoF"
+        },
+        {
+          "name": "BRK",
+          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+        }
+      ],
+      "duration_ms": 181160,
+      "name": "Jak Wiatr",
+      "url": "https://open.spotify.com/track/2OrxshZKgNCFlQkCP6sYth"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "Wolno\u015b\u0107",
         "url": "https://open.spotify.com/album/78lcrv7stQ9SHPlQOb4SHy"
       },
@@ -1735,26 +1755,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Park 2",
-        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
-      },
-      "artists": [
-        {
-          "name": "\u0141uuki",
-          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
-        },
-        {
-          "name": "Bazgrov",
-          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
-        }
-      ],
-      "duration_ms": 168291,
-      "name": "Park 2",
-      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "pe\u0142ne serca puste drogi",
         "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
       },
@@ -1771,6 +1771,26 @@
       "duration_ms": 143999,
       "name": "Godzina Premium",
       "url": "https://open.spotify.com/track/4ns67OWKavFQ1pjvRvvKrw"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
+        "name": "Park 2",
+        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
+      },
+      "artists": [
+        {
+          "name": "\u0141uuki",
+          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
+        },
+        {
+          "name": "Bazgrov",
+          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
+        }
+      ],
+      "duration_ms": 168291,
+      "name": "Park 2",
+      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
     },
     {
       "added_at": "2024-12-13 10:17:03",
@@ -1827,26 +1847,6 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
-        "name": "Jak Wiatr",
-        "url": "https://open.spotify.com/album/5cN3vJHGTPewbKmv528jR6"
-      },
-      "artists": [
-        {
-          "name": "Matis",
-          "url": "https://open.spotify.com/artist/7qQkuQHrvcfSoMkx0pkHoF"
-        },
-        {
-          "name": "BRK",
-          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
-        }
-      ],
-      "duration_ms": 181160,
-      "name": "Jak Wiatr",
-      "url": "https://open.spotify.com/track/2OrxshZKgNCFlQkCP6sYth"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
         "name": "ROCZNICA FREESTYLE",
         "url": "https://open.spotify.com/album/2G844lsIXRM5bSIRVD4BZW"
       },
@@ -1883,6 +1883,30 @@
     {
       "added_at": "2024-12-13 10:17:03",
       "album": {
+        "name": "Z\u0142ota Rybka EP",
+        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
+      },
+      "artists": [
+        {
+          "name": "3BRAT",
+          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        },
+        {
+          "name": "HAZE1",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Balaclava",
+      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
+    },
+    {
+      "added_at": "2024-12-13 10:17:03",
+      "album": {
         "name": "BEKS",
         "url": "https://open.spotify.com/album/10NJfNoqVkLcCL1iMsiD9u"
       },
@@ -1911,30 +1935,6 @@
       "duration_ms": 223000,
       "name": "Dymi dym (AC75)",
       "url": "https://open.spotify.com/track/5oi7LJwb0XLef91t51i1dH"
-    },
-    {
-      "added_at": "2024-12-13 10:17:03",
-      "album": {
-        "name": "Z\u0142ota Rybka EP",
-        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
-      },
-      "artists": [
-        {
-          "name": "3BRAT",
-          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
-        },
-        {
-          "name": "Bruno",
-          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
-        },
-        {
-          "name": "HAZE1",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Balaclava",
-      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
     },
     {
       "added_at": "2024-12-13 10:17:03",

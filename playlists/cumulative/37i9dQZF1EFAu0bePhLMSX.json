@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Make A Scene",
+        "url": "https://open.spotify.com/album/1jQybCwS6LWLljw1KBSZl2"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208300,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/30xj5RtKB9yFLQMqjSpWs2"
+    },
+    {
+      "album": {
         "name": "Make a Scene",
         "url": "https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p"
       },
@@ -356,7 +374,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 208960,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/5lmD16muawJeLxpEPCEre9"
@@ -1010,6 +1028,24 @@
     {
       "album": {
         "name": "Make A Scene",
+        "url": "https://open.spotify.com/album/1jQybCwS6LWLljw1KBSZl2"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205583,
+      "name": "Heartbreak (Make Me a Dancer)",
+      "url": "https://open.spotify.com/track/6EPzEyUDdQfeaObbIvAlbT"
+    },
+    {
+      "album": {
+        "name": "Make A Scene",
         "url": "https://open.spotify.com/album/78y25UZcWa7BugXNRVuXDl"
       },
       "artists": [
@@ -1042,7 +1078,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 206306,
       "name": "Heartbreak - Make Me A Dancer",
       "url": "https://open.spotify.com/track/1P5sTy1U94jdzcLgeWlIgf"

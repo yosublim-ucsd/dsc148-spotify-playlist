@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain](/playlists/plain/37i9dQZF1DWX2Ln16qIxDF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX2Ln16qIxDF)
 
-### [El Top 2024](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
+### [Top Verano 2025](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
 > Lo más pegado, lo más suaaave, o Luck Ra & Elvis Crespo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,219 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,480 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [Necesito](https://open.spotify.com/track/2gsYr7u3RcoYd4kUDXKmQd) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [AMOR FUGAZ](https://open.spotify.com/album/5pvGimlCebJeLTwOxjHEXR) | 2:40 |
 | 100 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 |
 
-Snapshot ID: `Z2TdsgAAAAComso1Jn3UxqWsUhqhlKVh`
+Snapshot ID: `Z2yCIAAAAAA4POkB9SKGQ/ZCOSaan42g`

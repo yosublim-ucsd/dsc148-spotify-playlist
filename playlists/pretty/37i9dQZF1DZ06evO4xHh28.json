@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 581842,
+  "num_followers": 581918,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ioAAAAAAClpeSzqBSYiOUV3OiPqhzD",
+  "snapshot_id": "Z2n5gAAAAAB/TO2Dnuv+lU8/SrHcJTa9",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "All the Angels - Live Demo",
-      "url": "https://open.spotify.com/track/0nF9vweVf1fe2L2piR1P0F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number Four",
         "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 188906,
       "name": "Kiss the Ring",
       "url": "https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "All the Angels - Live Demo",
+      "url": "https://open.spotify.com/track/0nF9vweVf1fe2L2piR1P0F"
     },
     {
       "added_at": null,

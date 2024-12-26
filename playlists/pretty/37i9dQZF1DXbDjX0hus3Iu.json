@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 511669,
+  "num_followers": 511725,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Brickyard Road",
-        "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
-      },
-      "artists": [
-        {
-          "name": "Johnny Van Zant",
-          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
-        }
-      ],
-      "duration_ms": 308800,
-      "name": "Party in the Parking Lot",
-      "url": "https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Dark Side of the Mule (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 223760,
       "name": "Bad Little Doggie",
       "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Brickyard Road",
+        "url": "https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER"
+      },
+      "artists": [
+        {
+          "name": "Johnny Van Zant",
+          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
+        }
+      ],
+      "duration_ms": 308800,
+      "name": "Party in the Parking Lot",
+      "url": "https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Southern Rock Gold",
-        "url": "https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN"
-      },
-      "artists": [
-        {
-          "name": "Still Water",
-          "url": "https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9"
-        }
-      ],
-      "duration_ms": 256880,
-      "name": "Mind Bender",
-      "url": "https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "The Deep End Vol. 1",
         "url": "https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 467800,
       "name": "Soulshine",
       "url": "https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Southern Rock Gold",
+        "url": "https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN"
+      },
+      "artists": [
+        {
+          "name": "Still Water",
+          "url": "https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9"
+        }
+      ],
+      "duration_ms": 256880,
+      "name": "Mind Bender",
+      "url": "https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC"
     },
     {
       "added_at": "2024-07-05 17:03:45",

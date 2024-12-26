@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u7aaa\u7530 \u3072\u304b\u308a",
-  "num_followers": 40779,
+  "num_followers": 40796,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-12-24 15:00:33",
       "album": {
+        "name": "CROSSING",
+        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 270806,
+      "name": "Crossing",
+      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
+    },
+    {
+      "added_at": "2024-12-24 15:00:33",
+      "album": {
         "name": "New World feat.ELAIZA",
         "url": "https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 228966,
       "name": "New World feat.ELAIZA",
       "url": "https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX"
-    },
-    {
-      "added_at": "2024-12-24 15:00:33",
-      "album": {
-        "name": "CROSSING",
-        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 270806,
-      "name": "Crossing",
-      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
     },
     {
       "added_at": "2024-12-24 15:00:33",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-12-24 15:00:33",
       "album": {
-        "name": "Across the Reef",
-        "url": "https://open.spotify.com/album/3XGJntNmVI8Y3lu2ofkSxV"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 284109,
-      "name": "Across the Reef",
-      "url": "https://open.spotify.com/track/1aroWD5P3fcCMETRdik29l"
-    },
-    {
-      "added_at": "2024-12-24 15:00:33",
-      "album": {
         "name": "Exotic Rose",
         "url": "https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 290341,
       "name": "Exotic Rose",
       "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
+    },
+    {
+      "added_at": "2024-12-24 15:00:33",
+      "album": {
+        "name": "Across the Reef",
+        "url": "https://open.spotify.com/album/3XGJntNmVI8Y3lu2ofkSxV"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 284109,
+      "name": "Across the Reef",
+      "url": "https://open.spotify.com/track/1aroWD5P3fcCMETRdik29l"
     },
     {
       "added_at": "2024-12-24 15:00:33",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-12-24 15:00:33",
       "album": {
-        "name": "Waterfilm",
-        "url": "https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 257221,
-      "name": "Waterfilm",
-      "url": "https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH"
-    },
-    {
-      "added_at": "2024-12-24 15:00:33",
-      "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2024-12-24 15:00:33",
       "album": {
+        "name": "Waterfilm",
+        "url": "https://open.spotify.com/album/0fur4DVWgZwn44dDy9ZpFs"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 257221,
+      "name": "Waterfilm",
+      "url": "https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH"
+    },
+    {
+      "added_at": "2024-12-24 15:00:33",
+      "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
       },
@@ -595,38 +595,6 @@
     {
       "added_at": "2024-12-24 15:00:33",
       "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 173662,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI"
-    },
-    {
-      "added_at": "2024-12-24 15:00:33",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "duration_ms": 264029,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3"
-    },
-    {
-      "added_at": "2024-12-24 15:00:33",
-      "album": {
         "name": "LINK",
         "url": "https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA"
       },
@@ -643,6 +611,22 @@
       "duration_ms": 182120,
       "name": "Emotional",
       "url": "https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi"
+    },
+    {
+      "added_at": "2024-12-24 15:00:33",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 264029,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3"
     },
     {
       "added_at": "2024-12-24 15:00:33",
@@ -683,22 +667,6 @@
     {
       "added_at": "2024-12-24 15:00:33",
       "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 240315,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
-    },
-    {
-      "added_at": "2024-12-24 15:00:33",
-      "album": {
         "name": "AUTHENTIC",
         "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
       },
@@ -711,22 +679,6 @@
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
-    },
-    {
-      "added_at": "2024-12-24 15:00:33",
-      "album": {
-        "name": "Straying In Alpacas",
-        "url": "https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u5ddd\u7a7a",
-          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
-        }
-      ],
-      "duration_ms": 358520,
-      "name": "Straying In Alpacas",
-      "url": "https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2"
     },
     {
       "added_at": "2024-12-24 15:00:33",
@@ -747,6 +699,38 @@
       "duration_ms": 244029,
       "name": "All in your palms",
       "url": "https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8"
+    },
+    {
+      "added_at": "2024-12-24 15:00:33",
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 173662,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI"
+    },
+    {
+      "added_at": "2024-12-24 15:00:33",
+      "album": {
+        "name": "Straying In Alpacas",
+        "url": "https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+        }
+      ],
+      "duration_ms": 358520,
+      "name": "Straying In Alpacas",
+      "url": "https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2"
     },
     {
       "added_at": "2024-12-24 15:00:33",
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-12-24 15:00:33",
       "album": {
+        "name": "LOST AND FOUND",
+        "url": "https://open.spotify.com/album/6gAE7QWM0Ry10n1qoMrgvz"
+      },
+      "artists": [
+        {
+          "name": "Ryoko Moriyama",
+          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+        }
+      ],
+      "duration_ms": 451506,
+      "name": "LOST AND FOUND",
+      "url": "https://open.spotify.com/track/6XFmI9JrepfB54inQuA5c1"
+    },
+    {
+      "added_at": "2024-12-24 15:00:33",
+      "album": {
         "name": "Night Flight",
         "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-12-24 15:00:33",
       "album": {
-        "name": "LOST AND FOUND",
-        "url": "https://open.spotify.com/album/6gAE7QWM0Ry10n1qoMrgvz"
-      },
-      "artists": [
-        {
-          "name": "Ryoko Moriyama",
-          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
-        }
-      ],
-      "duration_ms": 451506,
-      "name": "LOST AND FOUND",
-      "url": "https://open.spotify.com/track/6XFmI9JrepfB54inQuA5c1"
-    },
-    {
-      "added_at": "2024-12-24 15:00:33",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg"
       },
@@ -851,26 +835,6 @@
       "duration_ms": 266066,
       "name": "To S.",
       "url": "https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c"
-    },
-    {
-      "added_at": "2024-12-24 15:00:33",
-      "album": {
-        "name": "Don't let me down / \u4eca\u591c\u306f\u30d6\u30ae\u30fc\u30fb\u30d0\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3djgKDFOpfICX31bkOZ9uN"
-      },
-      "artists": [
-        {
-          "name": "Wa Yo Set",
-          "url": "https://open.spotify.com/artist/1H0RbzDqHyLsIWxIsh86Fs"
-        },
-        {
-          "name": "Ozawa Kenji",
-          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
-        }
-      ],
-      "duration_ms": 256273,
-      "name": "\u4eca\u591c\u306f\u30d6\u30ae\u30fc\u30fb\u30d0\u30c3\u30af",
-      "url": "https://open.spotify.com/track/5FGYRvymVBG0Fbhje3unXJ"
     },
     {
       "added_at": "2024-12-24 15:00:33",
@@ -895,6 +859,22 @@
     {
       "added_at": "2024-12-24 15:00:33",
       "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 240315,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
+    },
+    {
+      "added_at": "2024-12-24 15:00:33",
+      "album": {
         "name": "HAGAKURE",
         "url": "https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC"
       },
@@ -911,6 +891,22 @@
       "duration_ms": 221494,
       "name": "HAGAKURE",
       "url": "https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv"
+    },
+    {
+      "added_at": "2024-12-24 15:00:33",
+      "album": {
+        "name": "Don't let me down / \u4eca\u591c\u306f\u30d6\u30ae\u30fc\u30fb\u30d0\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3djgKDFOpfICX31bkOZ9uN"
+      },
+      "artists": [
+        {
+          "name": "Wa Yo Set",
+          "url": "https://open.spotify.com/artist/1H0RbzDqHyLsIWxIsh86Fs"
+        }
+      ],
+      "duration_ms": 256273,
+      "name": "\u4eca\u591c\u306f\u30d6\u30ae\u30fc\u30fb\u30d0\u30c3\u30af",
+      "url": "https://open.spotify.com/track/5FGYRvymVBG0Fbhje3unXJ"
     },
     {
       "added_at": "2024-12-24 15:00:33",

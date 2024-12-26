@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 971813,
+  "num_followers": 971914,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-12-20 14:15:22",
       "album": {
-        "name": "Don't Stop Me Now",
-        "url": "https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 344369,
-      "name": "Don't Stop Me Now",
-      "url": "https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1"
-    },
-    {
-      "added_at": "2024-12-20 14:15:22",
-      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 339013,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
+    },
+    {
+      "added_at": "2024-12-20 14:15:22",
+      "album": {
+        "name": "Don't Stop Me Now",
+        "url": "https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 344369,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1"
     },
     {
       "added_at": "2024-12-20 14:15:22",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-12-20 14:15:22",
       "album": {
-        "name": "All we ever wanted",
-        "url": "https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2"
-      },
-      "artists": [
-        {
-          "name": "MVCA",
-          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
-        },
-        {
-          "name": "SCHWARZ",
-          "url": "https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All we ever wanted",
-      "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
-    },
-    {
-      "added_at": "2024-12-20 14:15:22",
-      "album": {
         "name": "Slipstream (feat. Julia Church)",
         "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 252073,
       "name": "Slipstream (feat. Julia Church)",
       "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
+    },
+    {
+      "added_at": "2024-12-20 14:15:22",
+      "album": {
+        "name": "All we ever wanted",
+        "url": "https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2"
+      },
+      "artists": [
+        {
+          "name": "MVCA",
+          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
+        },
+        {
+          "name": "SCHWARZ",
+          "url": "https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All we ever wanted",
+      "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
     },
     {
       "added_at": "2024-12-20 14:15:22",

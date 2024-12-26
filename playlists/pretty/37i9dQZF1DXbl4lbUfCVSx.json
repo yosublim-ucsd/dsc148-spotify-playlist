@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 33326,
+  "num_followers": 33340,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 372484,
-      "name": "Incroyable",
-      "url": "https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/7hypMwbH1ShLUjoCFMBGLE"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 243000,
       "name": "PJDK",
       "url": "https://open.spotify.com/track/30lBJyMxLOJ3rcFwuC9p3d"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 372484,
+      "name": "Incroyable",
+      "url": "https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
-        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
-      },
-      "artists": [
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Yel\u00e9 (feat. Ms. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Kilot",
         "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "artists": [
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Yel\u00e9 (feat. Ms. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK"
     },
     {
       "added_at": "2024-10-25 04:00:00",

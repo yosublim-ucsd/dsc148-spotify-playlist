@@ -6081,6 +6081,24 @@
     },
     {
       "album": {
+        "name": "samurai champloo music record impression",
+        "url": "https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS"
+      },
+      "artists": [
+        {
+          "name": "Force Of Nature",
+          "url": "https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235900,
+      "name": "just forget",
+      "url": "https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA"
+    },
+    {
+      "album": {
         "name": "JUST KEEP IT",
         "url": "https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM"
       },
@@ -11160,7 +11178,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 120000,
       "name": "Sequences",
       "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"

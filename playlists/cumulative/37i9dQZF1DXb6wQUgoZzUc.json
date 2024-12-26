@@ -11749,6 +11749,28 @@
     },
     {
       "album": {
+        "name": "Papi Arca",
+        "url": "https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209010,
+      "name": "\u00c9xito",
+      "url": "https://open.spotify.com/track/1OJhf9KF9m5YuLTqUvaVs9"
+    },
+    {
+      "album": {
         "name": "\u00d1ero Session 11",
         "url": "https://open.spotify.com/album/18UE8orLDwFNWcTo4n8UAr"
       },
@@ -11786,7 +11808,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 169056,
       "name": "\u00d1ero Session 13",
       "url": "https://open.spotify.com/track/71fQ9SYkunt7NbfMEL2AcR"

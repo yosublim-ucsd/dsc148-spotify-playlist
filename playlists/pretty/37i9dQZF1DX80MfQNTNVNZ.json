@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 195503,
+  "num_followers": 195556,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "VISION",
         "url": "https://open.spotify.com/album/7vUfDXmaVb6u4sDIzyyFB5"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 289626,
       "name": "Strange Things",
       "url": "https://open.spotify.com/track/3bWpfAjDh9Rpszf8AkaN0w"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "My Baby Just Cares For Me (HONNE Remix)",
-        "url": "https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 231273,
-      "name": "My Baby Just Cares For Me - HONNE Remix",
-      "url": "https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
         "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "My Baby Just Cares For Me (HONNE Remix)",
+        "url": "https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 231273,
+      "name": "My Baby Just Cares For Me - HONNE Remix",
+      "url": "https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m"
     }
   ],
   "unique_name": "aloe",

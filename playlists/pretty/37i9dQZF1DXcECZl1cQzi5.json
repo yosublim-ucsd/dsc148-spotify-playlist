@@ -1,6 +1,6 @@
 {
   "description": "Waves and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
-  "num_followers": 43065,
+  "num_followers": 43092,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Soulful Serenity",
-        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
-      },
-      "artists": [
-        {
-          "name": "Neoterikoi",
-          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
-        }
-      ],
-      "duration_ms": 184251,
-      "name": "Soulful Serenity",
-      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 175000,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Soulful Serenity",
+        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
+      },
+      "artists": [
+        {
+          "name": "Neoterikoi",
+          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
+        }
+      ],
+      "duration_ms": 184251,
+      "name": "Soulful Serenity",
+      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Slow Sea",
-        "url": "https://open.spotify.com/album/2KQRG2roWetHxnt5sypG9l"
-      },
-      "artists": [
-        {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
-        }
-      ],
-      "duration_ms": 170041,
-      "name": "Slow Sea",
-      "url": "https://open.spotify.com/track/4cwcbLh8ajzGlrwxkK1a1c"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Devotions",
         "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 176666,
       "name": "Devotions",
       "url": "https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Slow Sea",
+        "url": "https://open.spotify.com/album/2KQRG2roWetHxnt5sypG9l"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "duration_ms": 170041,
+      "name": "Slow Sea",
+      "url": "https://open.spotify.com/track/4cwcbLh8ajzGlrwxkK1a1c"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Pukaki Passion",
-        "url": "https://open.spotify.com/album/2iXVcEH9ABo2oIZelDAbnj"
-      },
-      "artists": [
-        {
-          "name": "Greet The Day",
-          "url": "https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R"
-        }
-      ],
-      "duration_ms": 189628,
-      "name": "Pukaki Passion",
-      "url": "https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Frihet Natur",
         "url": "https://open.spotify.com/album/36Ur6FxNtvITUMwNvwlqkV"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 178750,
       "name": "Frihet Natur",
       "url": "https://open.spotify.com/track/2bobfsUclg5AgoTDIGn5DD"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Pukaki Passion",
+        "url": "https://open.spotify.com/album/2iXVcEH9ABo2oIZelDAbnj"
+      },
+      "artists": [
+        {
+          "name": "Greet The Day",
+          "url": "https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R"
+        }
+      ],
+      "duration_ms": 189628,
+      "name": "Pukaki Passion",
+      "url": "https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Summer Hibernation",
-        "url": "https://open.spotify.com/album/1fEc95TyHR3Krn0hmigMmf"
-      },
-      "artists": [
-        {
-          "name": "Matt Tondut",
-          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
-        }
-      ],
-      "duration_ms": 186408,
-      "name": "Summer Hibernation",
-      "url": "https://open.spotify.com/track/69xIKC9AS1D5BXBXIun0Rb"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Ocean Mindfulness",
         "url": "https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 207914,
       "name": "Ocean Mindfulness",
       "url": "https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Summer Hibernation",
+        "url": "https://open.spotify.com/album/1fEc95TyHR3Krn0hmigMmf"
+      },
+      "artists": [
+        {
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
+        }
+      ],
+      "duration_ms": 186408,
+      "name": "Summer Hibernation",
+      "url": "https://open.spotify.com/track/69xIKC9AS1D5BXBXIun0Rb"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Ocean Swell",
-        "url": "https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT"
-      },
-      "artists": [
-        {
-          "name": "Aysun",
-          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Ocean Swell",
-      "url": "https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "The Tower of Embellion",
         "url": "https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 137020,
       "name": "A Lake Almost Still",
       "url": "https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Ocean Swell",
+        "url": "https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT"
+      },
+      "artists": [
+        {
+          "name": "Aysun",
+          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Ocean Swell",
+      "url": "https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Coastal Tranquility",
-        "url": "https://open.spotify.com/album/1xjCmvhbhG8Ab3KSCjMx9t"
-      },
-      "artists": [
-        {
-          "name": "Ahti Aeo",
-          "url": "https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO"
-        }
-      ],
-      "duration_ms": 158701,
-      "name": "Coastal Tranquility",
-      "url": "https://open.spotify.com/track/4PLK0wbHcaSK9jlw0ZLeHo"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Reaching Waves",
         "url": "https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Tr\u00e4umend (Sound Bath)",
-        "url": "https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS"
+        "name": "Coastal Tranquility",
+        "url": "https://open.spotify.com/album/1xjCmvhbhG8Ab3KSCjMx9t"
       },
       "artists": [
         {
-          "name": "Kaspar Hahn",
-          "url": "https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX"
+          "name": "Ahti Aeo",
+          "url": "https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO"
         }
       ],
-      "duration_ms": 137810,
-      "name": "Tr\u00e4umend (Sound Bath)",
-      "url": "https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo"
+      "duration_ms": 158701,
+      "name": "Coastal Tranquility",
+      "url": "https://open.spotify.com/track/4PLK0wbHcaSK9jlw0ZLeHo"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
+        "name": "Tr\u00e4umend (Sound Bath)",
+        "url": "https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS"
+      },
+      "artists": [
+        {
+          "name": "Kaspar Hahn",
+          "url": "https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX"
+        }
+      ],
+      "duration_ms": 137810,
+      "name": "Tr\u00e4umend (Sound Bath)",
+      "url": "https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
         "name": "Indigo Glow",
         "url": "https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 152000,
       "name": "Indigo Glow",
       "url": "https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
-        "name": "Ocean Dreaming",
-        "url": "https://open.spotify.com/album/37kg8PQ3t5MY09QWHPRCU8"
-      },
-      "artists": [
-        {
-          "name": "Semaphore",
-          "url": "https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV"
-        }
-      ],
-      "duration_ms": 171807,
-      "name": "Ocean Dreaming",
-      "url": "https://open.spotify.com/track/5N4BF0Id1qiEiMGuCaaqg6"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
+        "name": "Ocean Dreaming",
+        "url": "https://open.spotify.com/album/37kg8PQ3t5MY09QWHPRCU8"
+      },
+      "artists": [
+        {
+          "name": "Semaphore",
+          "url": "https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "Ocean Dreaming",
+      "url": "https://open.spotify.com/track/5N4BF0Id1qiEiMGuCaaqg6"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
         "name": "Zen (Sound Bath)",
         "url": "https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Foreign Land",
-        "url": "https://open.spotify.com/album/4AxKVGRba3nKOqr16uORwl"
-      },
-      "artists": [
-        {
-          "name": "Bonum Somno",
-          "url": "https://open.spotify.com/artist/0kERbf96dBhKRnHrbQi9Vt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Foreign Land",
-      "url": "https://open.spotify.com/track/2dYvErG4zo7PfQ86YyruEr"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Lumen At The Beach",
         "url": "https://open.spotify.com/album/1hpj4CvS7jBcV1LDcUwUjL"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 181750,
       "name": "Lumen At The Beach",
       "url": "https://open.spotify.com/track/5wvyUoWHUim7nBqYfqhOfp"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Foreign Land",
+        "url": "https://open.spotify.com/album/4AxKVGRba3nKOqr16uORwl"
+      },
+      "artists": [
+        {
+          "name": "Bonum Somno",
+          "url": "https://open.spotify.com/artist/0kERbf96dBhKRnHrbQi9Vt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Foreign Land",
+      "url": "https://open.spotify.com/track/2dYvErG4zo7PfQ86YyruEr"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Kallisto Thalassa",
-        "url": "https://open.spotify.com/album/5IzeqmJIDEBtqBnvDlet7j"
-      },
-      "artists": [
-        {
-          "name": "Airin",
-          "url": "https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Kallisto Thalassa",
-      "url": "https://open.spotify.com/track/0cYX4SJ08CQtEJd63j0PiF"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3cYUV1rWeNkGCvBI3Mlz1m"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Atomos Atmos",
-        "url": "https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc"
+        "name": "Kallisto Thalassa",
+        "url": "https://open.spotify.com/album/5IzeqmJIDEBtqBnvDlet7j"
       },
       "artists": [
         {
-          "name": "Claudette Bernard",
-          "url": "https://open.spotify.com/artist/4EWNPU1XQV8ckiiJjERuf9"
+          "name": "Airin",
+          "url": "https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ"
         }
       ],
-      "duration_ms": 224500,
-      "name": "Atomos Atmos",
-      "url": "https://open.spotify.com/track/1PinJYwTcizpP5mTW4qIRX"
+      "duration_ms": 195750,
+      "name": "Kallisto Thalassa",
+      "url": "https://open.spotify.com/track/0cYX4SJ08CQtEJd63j0PiF"
     },
     {
       "added_at": "2024-11-22 15:17:37",
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
+        "name": "Atomos Atmos",
+        "url": "https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc"
+      },
+      "artists": [
+        {
+          "name": "Claudette Bernard",
+          "url": "https://open.spotify.com/artist/4EWNPU1XQV8ckiiJjERuf9"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Atomos Atmos",
+      "url": "https://open.spotify.com/track/1PinJYwTcizpP5mTW4qIRX"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
         "name": "Embedded Waves",
         "url": "https://open.spotify.com/album/1BBvbqT9A4Ftkk8td956tO"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-11-22 15:17:37",
       "album": {
-        "name": "Oceanos Alpha",
-        "url": "https://open.spotify.com/album/3Eb7Mfz5OTLzBu4PWKnbY0"
-      },
-      "artists": [
-        {
-          "name": "Mission Venus",
-          "url": "https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB"
-        }
-      ],
-      "duration_ms": 193890,
-      "name": "Oceanos - Alpha 65Hz - 72Hz",
-      "url": "https://open.spotify.com/track/0JkHZdKIt2VXwiP5IHkaZn"
-    },
-    {
-      "added_at": "2024-11-22 15:17:37",
-      "album": {
         "name": "Slowing down with the Waves",
         "url": "https://open.spotify.com/album/7CDYHzDA8UwQbmqXiXZKwO"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 167619,
       "name": "Slowing down with the Waves",
       "url": "https://open.spotify.com/track/1hO3Xxm95UQffwh50jQ5Yg"
+    },
+    {
+      "added_at": "2024-11-22 15:17:37",
+      "album": {
+        "name": "Oceanos Alpha",
+        "url": "https://open.spotify.com/album/3Eb7Mfz5OTLzBu4PWKnbY0"
+      },
+      "artists": [
+        {
+          "name": "Mission Venus",
+          "url": "https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB"
+        }
+      ],
+      "duration_ms": 193890,
+      "name": "Oceanos - Alpha 65Hz - 72Hz",
+      "url": "https://open.spotify.com/track/0JkHZdKIt2VXwiP5IHkaZn"
     },
     {
       "added_at": "2024-11-22 15:17:37",

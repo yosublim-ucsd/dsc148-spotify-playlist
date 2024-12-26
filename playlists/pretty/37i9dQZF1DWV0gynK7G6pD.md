@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Tony Ann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,212 likes - 41 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,284 likes - 41 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

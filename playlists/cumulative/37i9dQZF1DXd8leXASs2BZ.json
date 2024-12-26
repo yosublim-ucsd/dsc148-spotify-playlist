@@ -1087,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/2MuyNjWV4SDFCudotZyNnW"
+      },
+      "artists": [
+        {
+          "name": "Godzilla East",
+          "url": "https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5"
+        },
+        {
+          "name": "Rommy Montana",
+          "url": "https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/3KJ8iXIr2eUztbfNtk1Zg4"
+    },
+    {
+      "album": {
         "name": "ISSUES DELUXE",
         "url": "https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ"
       },
@@ -3236,7 +3258,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 179614,
       "name": "Demon",
       "url": "https://open.spotify.com/track/6a61ntKhW22DUQq8JxiEi8"
@@ -5550,7 +5572,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 179555,
       "name": "Go",
       "url": "https://open.spotify.com/track/4DvVZ6f8ETjA6URCYR6gyn"
@@ -8143,6 +8165,32 @@
     },
     {
       "album": {
+        "name": "Lonely Laundry",
+        "url": "https://open.spotify.com/album/32XCg6BkA85yLPrG8HFsqN"
+      },
+      "artists": [
+        {
+          "name": "Luka Hatakeyama",
+          "url": "https://open.spotify.com/artist/3Dy7ny7F6m4XF5WJgLkWSy"
+        },
+        {
+          "name": "Kotaro Takaki",
+          "url": "https://open.spotify.com/artist/3HufT5Dj9H5YGsy6reFzjg"
+        },
+        {
+          "name": "ZETTON",
+          "url": "https://open.spotify.com/artist/2ANelKZy7C4j2ZYy1cEbPW"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124584,
+      "name": "Lonely Laundry",
+      "url": "https://open.spotify.com/track/5bEVCJbPAly69l9JygMTDW"
+    },
+    {
+      "album": {
         "name": "RaVe",
         "url": "https://open.spotify.com/album/2Vm8vsLbny90a0LorH4jJX"
       },
@@ -8642,7 +8690,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 168965,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/7441JF50KgvQtA3RBjesDd"
@@ -8832,7 +8880,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 221217,
       "name": "My Life Is Don't Care",
       "url": "https://open.spotify.com/track/2cwjRiWg5w7P0WciTLKnts"
@@ -15148,6 +15196,24 @@
       "duration_ms": 97500,
       "name": "\u30a4\u30a4\u611f\u3058!",
       "url": "https://open.spotify.com/track/5YjLKMHjH9h5bdMwlAIINF"
+    },
+    {
+      "album": {
+        "name": "AF1",
+        "url": "https://open.spotify.com/album/5DSAE3rGpXrledDdT8vJ3M"
+      },
+      "artists": [
+        {
+          "name": "B.I.G. JOHN",
+          "url": "https://open.spotify.com/artist/4SVn9Ac8FQ52jXaxWK9cEX"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161320,
+      "name": "\u30a4\u30a8\u30b9",
+      "url": "https://open.spotify.com/track/7IQD9GKyrWOsuYFN8ALm0P"
     },
     {
       "album": {

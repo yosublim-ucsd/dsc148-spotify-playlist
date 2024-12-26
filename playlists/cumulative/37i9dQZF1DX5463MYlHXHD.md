@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-306 songs - 17 hr 16 min
+307 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Chica Al Día](https://open.spotify.com/track/236BYNXyKgMPBxNBBrmS0I) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Chica al Dia](https://open.spotify.com/album/0y958ifynTLgfj59s1arzx) | 3:51 | 2024-05-31 | 2024-07-04 |
 | [Chocolate](https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Chocolate](https://open.spotify.com/album/57pKlw31D8Y0bAQAmcZDy8) | 2:37 | 2023-05-26 | 2024-10-26 |
 | [Codigo](https://open.spotify.com/track/2sor9DBSVbqrKwNqCdPFD5) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM), [Tu Fazo](https://open.spotify.com/artist/6h8CUG3qZ99mucXhdMgPfg) | [Codigo](https://open.spotify.com/album/1FSitwun1kcM4zkzK2Mb2E) | 2:35 | 2024-04-26 | 2024-08-22 |
-| [Como te voy a olvidar](https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Volando Alto](https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k) | 4:10 | 2024-04-19 |  |
+| [Como te voy a olvidar](https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Volando Alto](https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k) | 4:10 | 2024-04-19 | 2024-12-26 |
 | [Como una Pelota](https://open.spotify.com/track/0sbJx6LrsIRWpPbqfVp1vh) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Pase y Vea, Acá Suena la Cumbia](https://open.spotify.com/album/2kVdbCTuYRnERlfy6D6PLm) | 2:47 | 2023-05-26 | 2023-07-15 |
 | [Con Tu Amiga](https://open.spotify.com/track/0YEEjKSnpzboTA5kKhIaF0) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Con Tu Amiga](https://open.spotify.com/album/4aM90yXOD78LBDhF0jDpE9) | 3:01 | 2023-09-07 | 2024-10-11 |
 | [Corazón de Madre \(Destapate Una Cerveza\)](https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 3:53 | 2023-05-26 | 2024-10-26 |
@@ -291,6 +291,7 @@
 | [Una Vela](https://open.spotify.com/track/10f7PQtaXpUuM9QqExvkCG) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [Los gedientos del rock](https://open.spotify.com/artist/3FCxp8Oq0BRVvdnIEUIo0S) | [Una Vela](https://open.spotify.com/album/2TclDmUh8qqD6xUFjj7hly) | 2:01 | 2024-09-27 | 2024-10-16 |
 | [Una Vela](https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Una Vela](https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1) | 2:04 | 2023-05-26 | 2023-09-08 |
 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 | 2023-05-26 | 2024-04-19 |
+| [Una Wacha Piola \- REMIX](https://open.spotify.com/track/76GhnOdyvGQdD00x1qKasL) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Una Wacha Piola \(REMIX\)](https://open.spotify.com/album/66oj0a0F2sSc3mnHJfnEZW) | 3:19 | 2024-12-20 |  |
 | [Vamos A Amanecer \- Remix](https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [Vamos A Amanecer \(Remix\)](https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs) | 2:53 | 2023-05-26 |  |
 | [Vamos A Bailar](https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Corriendo La Coneja](https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m) | 4:27 | 2023-05-26 | 2024-04-19 |
 | [VAS A VOLVER](https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [VAS A VOLVER](https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9) | 2:24 | 2024-01-12 | 2024-10-26 |

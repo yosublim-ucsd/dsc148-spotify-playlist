@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-108 songs - 6 hr 6 min
+109 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [File It Under Sick and Wrong \- Demo](https://open.spotify.com/track/30miSJsqmdmIPxG5s8hvgb) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:21 | 2024-09-29 |  |
 | [For the Good Times](https://open.spotify.com/track/1XuwkiH87JdwKw3UlJY07E) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [For the Good Times](https://open.spotify.com/album/2YOYGLsiPp5ktNAjV0uR5A) | 3:47 | 2024-09-29 |  |
 | [Forever In Your Love](https://open.spotify.com/track/2w1LDmKTm5O5Kczjrf7W9i) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:15 | 2024-09-29 |  |
-| [From the Bottle to the Bottom](https://open.spotify.com/track/3HnSXVKXrQR3fToU2ZowEk) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:57 | 2024-09-29 |  |
+| [From the Bottle to the Bottom](https://open.spotify.com/track/3HnSXVKXrQR3fToU2ZowEk) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:57 | 2024-09-29 | 2024-12-26 |
+| [From the Bottle to the Bottom](https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 2:58 | 2024-12-25 |  |
 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 | 2024-09-29 |  |
 | [Golden Idol](https://open.spotify.com/track/2c665yi9hjsQdBOOpm1Iod) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:20 | 2024-09-29 |  |
 | [Good for Nothing Blues \- Demo](https://open.spotify.com/track/3TfF9u88vRLdwc5vlHBlNr) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:14 | 2024-09-29 |  |

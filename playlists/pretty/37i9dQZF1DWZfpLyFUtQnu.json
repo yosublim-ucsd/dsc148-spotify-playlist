@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 95123,
+  "num_followers": 95175,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "On n\u2019enferme pas les oiseaux",
-        "url": "https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pravi",
-          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Voil\u00e0",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Mistral gagnant",
         "url": "https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 165933,
       "name": "Mistral gagnant",
       "url": "https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "On n\u2019enferme pas les oiseaux",
+        "url": "https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Voil\u00e0",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Joe Dassin",
-        "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Et si tu n'existais pas",
-      "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 238653,
       "name": "Popcorn Sal\u00e9",
       "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Joe Dassin",
+        "url": "https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Et si tu n'existais pas",
+      "url": "https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Jamais Content",
+        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All\u00f4 maman bobo",
+      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 201280,
       "name": "Sad & Slow (avec Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Jamais Content",
-        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All\u00f4 maman bobo",
-      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Best Of & Variations",
-        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        },
-        {
-          "name": "Jeanne Moreau",
-          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Le tourbillon de la vie",
-      "url": "https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Le coeur grenadine",
         "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 264720,
       "name": "Immortels",
       "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Best Of & Variations",
+        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        },
+        {
+          "name": "Jeanne Moreau",
+          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Le tourbillon de la vie",
+      "url": "https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
-      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Jours Heureux",
         "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 265226,
       "name": "Quand tu danses",
       "url": "https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
+      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Histoires vraies",
-        "url": "https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp"
-      },
-      "artists": [
-        {
-          "name": "chien noir",
-          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "Histoire vraie",
-      "url": "https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Singles Collection (2001 - 2021)",
         "url": "https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 294826,
       "name": "Le grand secret (feat. Melissa Auf der Maur) - Les pianos voix",
       "url": "https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Histoires vraies",
+        "url": "https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp"
+      },
+      "artists": [
+        {
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Histoire vraie",
+      "url": "https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g"
     },
     {
       "added_at": "2024-10-03 14:22:43",

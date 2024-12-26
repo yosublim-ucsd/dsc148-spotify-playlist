@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "catechi$m",
+        "url": "https://open.spotify.com/album/0x2tHBi5jTBlckRjG5z7iS"
+      },
+      "artists": [
+        {
+          "name": "BLOODCAT",
+          "url": "https://open.spotify.com/artist/4iswXMyuYxtx6AEzeuX3Bu"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122644,
+      "name": "cherry pie",
+      "url": "https://open.spotify.com/track/7G28NehEkO0462ZLbTqBfR"
+    },
+    {
+      "album": {
         "name": "Memory Lane 2",
         "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
       },

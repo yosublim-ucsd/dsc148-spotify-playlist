@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 186363,
       "name": "7DIGITS",
       "url": "https://open.spotify.com/track/1dmBllk5d0c85H7IlfzTCA"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 173917,
       "name": "Bbejbb",
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
@@ -6206,7 +6206,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -8010,7 +8010,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -8426,7 +8426,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -12969,6 +12969,24 @@
     },
     {
       "album": {
+        "name": "A Pentatonix Christmas",
+        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
+    },
+    {
+      "album": {
         "name": "DRIPOLAR",
         "url": "https://open.spotify.com/album/68XHBxFOiLzQGWtJL5mDUY"
       },
@@ -14964,7 +14982,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 109959,
       "name": "I Got It (feat. Shimmi)",
       "url": "https://open.spotify.com/track/5dRUmsrpjsyN2ta9CP28RL"
@@ -16232,7 +16250,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -19125,6 +19143,28 @@
     },
     {
       "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM"
+    },
+    {
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -21781,6 +21821,28 @@
     },
     {
       "album": {
+        "name": "Mili\u00f3\u00f3\u00f3ny P\u0159\u00e1n\u00ed",
+        "url": "https://open.spotify.com/album/3RfV4hfOoLDbO9vckUrg0M"
+      },
+      "artists": [
+        {
+          "name": "Chinaski",
+          "url": "https://open.spotify.com/artist/5zAfxm1qJy2tnVNhRcKbGo"
+        },
+        {
+          "name": "Katarina Knechtova",
+          "url": "https://open.spotify.com/artist/0z3P3pZfNH9PP0pMwVkSwh"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Mili\u00f3\u00f3\u00f3ny P\u0159\u00e1n\u00ed",
+      "url": "https://open.spotify.com/track/6cHIlTBxzGoCivKNUs8fwD"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
       },
@@ -23745,6 +23807,24 @@
     },
     {
       "album": {
+        "name": "Tesime sa na Jeziska (New Edition + Bonus)",
+        "url": "https://open.spotify.com/album/0QDQCPXUaq76CruIvNZPVk"
+      },
+      "artists": [
+        {
+          "name": "Miro Jaros",
+          "url": "https://open.spotify.com/artist/3aVv8IZcgWybOL6NbkCy3z"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208560,
+      "name": "Nech uz nasnezi (Perinbaba)",
+      "url": "https://open.spotify.com/track/0xT6EKFomOifTWFTBPr8zj"
+    },
+    {
+      "album": {
         "name": "LOCKDOWN MUSIC",
         "url": "https://open.spotify.com/album/6tnmmNrOSQv5h6qhTlZLfi"
       },
@@ -24136,7 +24216,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -26878,7 +26958,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 216363,
       "name": "Painkillers",
       "url": "https://open.spotify.com/track/3QCRSIRZyCM2JjR4DTiwzF"
@@ -27920,7 +28000,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 252520,
       "name": "Podme bratia do Betlehema",
       "url": "https://open.spotify.com/track/33rWjlS98fiXLIqHu0EKQU"
@@ -31194,7 +31274,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -31242,6 +31322,28 @@
       "duration_ms": 190243,
       "name": "Sangria",
       "url": "https://open.spotify.com/track/705U2GkmMiEPrqRWMPmabr"
+    },
+    {
+      "album": {
+        "name": "Heavenly Eartha",
+        "url": "https://open.spotify.com/album/6gOVmmV26wBBgxUtbF8YZd"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        },
+        {
+          "name": "Henri Ren\u00e9 and His Orchestra",
+          "url": "https://open.spotify.com/artist/0oK8UXKZbQezeRhE0KeBAV"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
+      "url": "https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO"
     },
     {
       "album": {
@@ -35148,7 +35250,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 166299,
       "name": "Syndrom",
       "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
@@ -36018,7 +36120,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -36562,7 +36664,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -39079,6 +39181,24 @@
     },
     {
       "album": {
+        "name": "Keby som bola princezn\u00e1 Arabela",
+        "url": "https://open.spotify.com/album/37ByAmJKDDx9eMaNOAbAA3"
+      },
+      "artists": [
+        {
+          "name": "Darina Rolincov\u00e1",
+          "url": "https://open.spotify.com/artist/2vPsYuWFFe7mm37Qfypnk7"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269453,
+      "name": "Vtedy s\u00fa Vianoce",
+      "url": "https://open.spotify.com/track/2eRYzjxSpJD8cYb3Pcf2Rf"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -39328,7 +39448,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 161053,
       "name": "V\u00e1noce, V\u00e1noce P\u0159ich\u00e1zej\u00ed",
       "url": "https://open.spotify.com/track/0D3nsVGMB9wZJi8eh84Qnu"
@@ -39357,6 +39477,28 @@
     },
     {
       "album": {
+        "name": "V\u00e1no\u010dn\u00ed (feat. Teri Blitzen)",
+        "url": "https://open.spotify.com/album/7LwJDJYDDYkcoyu7SuWjVp"
+      },
+      "artists": [
+        {
+          "name": "Johny Machette",
+          "url": "https://open.spotify.com/artist/2QZ60HlYJrsRqUACECzJ87"
+        },
+        {
+          "name": "Teri Blitzen",
+          "url": "https://open.spotify.com/artist/4IkxApSUvBr5Uq9GnpIu88"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221054,
+      "name": "V\u00e1no\u010dn\u00ed (feat. Teri Blitzen)",
+      "url": "https://open.spotify.com/track/2eDK36OyLEXUYP0DxlTLIE"
+    },
+    {
+      "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
       },
@@ -39372,7 +39514,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 193548,
       "name": "V\u00edtej mezi n\u00e1ma (feat. STEIN27)",
       "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
@@ -40452,7 +40594,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -41944,7 +42086,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 215213,
       "name": "Zvonky \u0160t\u011bst\u00ed",
       "url": "https://open.spotify.com/track/7m3RFdvEMjDiSJbIUld06r"

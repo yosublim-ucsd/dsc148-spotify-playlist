@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 246239,
+  "num_followers": 246260,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ioAAAAAABfovCqKVusbuX+wLDGQriI",
+  "snapshot_id": "Z2n5gAAAAAA6GAK6EKRJCVZtB7PZyJ62",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 148274,
-      "name": "Boots Don't",
-      "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets (30th Anniversary / Deluxe)",
         "url": "https://open.spotify.com/album/2U6VdsYvEXG7lj1SUseql8"
       },
@@ -419,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
-        "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
       "artists": [
         {
@@ -428,13 +408,13 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         },
         {
-          "name": "Real Hypha",
-          "url": "https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC"
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
-      "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
+      "duration_ms": 148274,
+      "name": "Boots Don't",
+      "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
     },
     {
       "added_at": null,
@@ -451,6 +431,26 @@
       "duration_ms": 248213,
       "name": "When You Kiss Me - Red Version",
       "url": "https://open.spotify.com/track/7b8mI7YNGUfckTtyzoe1Zm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
+        "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Real Hypha",
+          "url": "https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
+      "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
     },
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serving Country",
-        "url": "https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY"
+        "name": "Up! (Red and Blue Versions)",
+        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
       },
       "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 203723,
-      "name": "White Claw (with Shania Twain)",
-      "url": "https://open.spotify.com/track/6kTrNSRH9qE3g4eiJslGL5"
+      "duration_ms": 199466,
+      "name": "It Only Hurts When I'm Breathing - Red Version",
+      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
     },
     {
       "added_at": null,
@@ -695,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Blue Versions)",
-        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
+        "name": "Serving Country",
+        "url": "https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY"
       },
       "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 199466,
-      "name": "It Only Hurts When I'm Breathing - Red Version",
-      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
+      "duration_ms": 203723,
+      "name": "White Claw (with Shania Twain)",
+      "url": "https://open.spotify.com/track/6kTrNSRH9qE3g4eiJslGL5"
     },
     {
       "added_at": null,

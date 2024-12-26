@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 246734,
       "name": "A 200",
       "url": "https://open.spotify.com/track/4fk9Ufhqn1jllnTSddki62"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -6240,7 +6240,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 158241,
       "name": "Cuero Caro",
       "url": "https://open.spotify.com/track/7axxLnHLlcHeXkc4Si82zN"
@@ -9737,6 +9737,24 @@
     },
     {
       "album": {
+        "name": "Grandes Exitos De Merengue Para Navidades",
+        "url": "https://open.spotify.com/album/4d1gYZCrN6xeDDQ7lBIlb3"
+      },
+      "artists": [
+        {
+          "name": "Merenguemania",
+          "url": "https://open.spotify.com/artist/5t2XaS1HqFGtRqLmKJM9ob"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "El Vecino",
+      "url": "https://open.spotify.com/track/6rR6wuQH6gvBzEVRlQ83eY"
+    },
+    {
+      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -10545,6 +10563,24 @@
     },
     {
       "album": {
+        "name": "Merengue Hits Para Bailar",
+        "url": "https://open.spotify.com/album/1dj7KKXLEMwUuJGGahD20Y"
+      },
+      "artists": [
+        {
+          "name": "Merengues",
+          "url": "https://open.spotify.com/artist/6rCXzTpqFJtMQmivedjalK"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253400,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/7EBb3G5P8LpkjCXVEhNFTC"
+    },
+    {
+      "album": {
         "name": "Esta Si",
         "url": "https://open.spotify.com/album/5aDc8yNNHhhab8EyeNLGej"
       },
@@ -10740,7 +10776,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH"
@@ -15952,7 +15988,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 171826,
       "name": "LA PRIMERA VEZ (feat. NTG)",
       "url": "https://open.spotify.com/track/1nlE7HodTsB0IHA3HkR6gd"
@@ -16444,7 +16480,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -17134,7 +17170,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 98399,
       "name": "LO MALO MALO MALO",
       "url": "https://open.spotify.com/track/7mkAnbBANmsJtLs06lUDJt"
@@ -18778,7 +18814,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 154625,
       "name": "Mariah",
       "url": "https://open.spotify.com/track/2HLoGzR53TE34XT63uS6Fe"
@@ -23643,6 +23679,24 @@
     },
     {
       "album": {
+        "name": "Pero Dime",
+        "url": "https://open.spotify.com/album/4fA3kV7anxoTyggHcR3HPM"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245620,
+      "name": "Pero Dime",
+      "url": "https://open.spotify.com/track/4L2LYBPs8jkXrcIxfRMhJm"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -26888,7 +26942,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -27724,7 +27778,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
@@ -29678,7 +29732,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 230076,
       "name": "Sobrio - En Vivo",
       "url": "https://open.spotify.com/track/3OT8mMdzOWB0MVPHKOgww0"

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-771 songs - 1 day 10 hr 46 min
+772 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Jet Stream](https://open.spotify.com/track/2sIVqfcDOisETTaV6Bbrs2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Jet Stream](https://open.spotify.com/album/0k2iMwFXahyiZMSwmdjmRj) | 2:46 | 2023-05-18 | 2023-05-20 |
 | [JUNK STORY](https://open.spotify.com/track/3EioC8UfNqsaHgVKTktNUE) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [JUNK STORY](https://open.spotify.com/album/0MtEmJKf6IBPaCjafWEeDr) | 2:07 | 2021-12-23 | 2022-07-27 |
 | [just forget](https://open.spotify.com/track/2ff0Hy1uymLoiiHD1nmeOB) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/42blSc4ZKA1Ber7ZbYDYuB) | 3:55 | 2024-01-09 | 2024-04-19 |
+| [just forget](https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS) | 3:55 | 2024-12-14 |  |
 | [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 | 2022-10-29 |
 | [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 | 2022-10-29 | 2024-04-19 |
 | [K Bye](https://open.spotify.com/track/7K6TygqDoUz9TqhVzZWxVj) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [K Bye](https://open.spotify.com/album/5BevqJGwWGDUtatocaA6Ef) | 3:18 | 2021-12-23 | 2022-02-10 |
@@ -588,7 +589,7 @@
 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 | 2022-11-10 |  |
 | [Sector z](https://open.spotify.com/track/4mTFQFFS6bmrtsedqMMGrR) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Kief Tape, Vol\. 1](https://open.spotify.com/album/2am4WMyfxP3HDGRxhB9WjP) | 2:35 | 2022-01-06 | 2022-07-20 |
 | [Sepia Drop](https://open.spotify.com/track/2LQ1CYH5NfUPz5usHviuxB) | [mic.b a.k.a 73Pike Set](https://open.spotify.com/artist/52thcpFLoyqpsYH62cs6QT) | [Moon Trail](https://open.spotify.com/album/0TxbsET65pJcL3G1hkgUZX) | 4:40 | 2021-12-23 | 2022-07-28 |
-| [Sequences](https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sequences](https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok) | 2:00 | 2021-12-23 |  |
+| [Sequences](https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sequences](https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok) | 2:00 | 2021-12-23 | 2024-12-26 |
 | [Setting Sun](https://open.spotify.com/track/4qFXWrzya3SLfYniBZJj2F) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Setting Sun](https://open.spotify.com/album/7ifpKetERJMrVeQNg4UNBn) | 1:49 | 2023-04-27 | 2023-05-19 |
 | [Shibuya](https://open.spotify.com/track/1MYFWxUBgTrvelKo50aLoy) | [LoFi\-α](https://open.spotify.com/artist/6igBdPOHIXA2Mb6rV7G2f9) | [Beautiful Journey vol.1](https://open.spotify.com/album/3wXUBuBz7Rnw8IZj3rZOkd) | 2:06 | 2021-12-23 | 2022-07-06 |
 | [ShitaMachi MAGIC](https://open.spotify.com/track/5RkXH059wZhIhLhfXGFPy1) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [ShitaMachi MAGIC](https://open.spotify.com/album/1jrrEx5B1jCvGSWzuSs0G0) | 2:58 | 2021-12-23 | 2022-07-28 |

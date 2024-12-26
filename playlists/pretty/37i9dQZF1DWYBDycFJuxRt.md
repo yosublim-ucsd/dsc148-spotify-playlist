@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Yo\-Sea \*👉 <a href="https://spice.eplus.jp/articles/334201">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Yo\-Sea \*👉 <a href="https://spice.eplus.jp/articles/334362">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,213 likes - 72 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,236 likes - 72 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 71 | [私がいなくなった日](https://open.spotify.com/track/7GwSZtQY0RPbdenHCbGjjP) | [TOA](https://open.spotify.com/artist/1JdzLoPdn7OJsbSdleKuIi) | [私がいなくなった日](https://open.spotify.com/album/4b3vlNphDfxaLtz3CCH4eU) | 3:41 |
 | 72 | [純文学](https://open.spotify.com/track/2nV3H9LFeB3JTR02zkGNL9) | [Lenn](https://open.spotify.com/artist/1Jx4EJKqMd16x4e8quEwIz) | [純文学](https://open.spotify.com/album/0fM8qruWqWw9HlfZsPt90m) | 4:53 |
 
-Snapshot ID: `Z2tpcgAAAAA79WhilZVEcAfuwWvqthQl`
+Snapshot ID: `Z2wB1AAAAAA/JsmioOBTd5dS/7zGSFSN`

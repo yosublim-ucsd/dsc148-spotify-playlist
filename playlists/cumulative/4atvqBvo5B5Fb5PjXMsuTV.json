@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Dec 04:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Dec 19:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -14625,6 +14625,28 @@
     },
     {
       "album": {
+        "name": "Cynthoni Of Flames",
+        "url": "https://open.spotify.com/album/7j3RoKMC5vsg0sUBGeWDVZ"
+      },
+      "artists": [
+        {
+          "name": "Cynthoni",
+          "url": "https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6"
+        },
+        {
+          "name": "Sewerslvt",
+          "url": "https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 557647,
+      "name": "Cynthoni Of Flames",
+      "url": "https://open.spotify.com/track/0dUUliAEzw1EhwE7dbDPk1"
+    },
+    {
+      "album": {
         "name": "D&T",
         "url": "https://open.spotify.com/album/1ETTf1vpOHFWzW2kROFZhV"
       },
@@ -15272,6 +15294,24 @@
       "duration_ms": 187195,
       "name": "Darling, The Planets",
       "url": "https://open.spotify.com/track/1Gn6yw9hDNoXKYaF2rNjF0"
+    },
+    {
+      "album": {
+        "name": "Date Night",
+        "url": "https://open.spotify.com/album/5zs6aBpK8WYukn8GJAZVLn"
+      },
+      "artists": [
+        {
+          "name": "Lil Shine",
+          "url": "https://open.spotify.com/artist/6SmUCZMpJG06ZhIqMOJKCn"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157599,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/2mJd5j7c5Jc58R6YIBCEPe"
     },
     {
       "album": {
@@ -33885,6 +33925,24 @@
     },
     {
       "album": {
+        "name": "Jitnunkebi (Winter's Song)",
+        "url": "https://open.spotify.com/album/0z1ASNgc6V1lyYrQ8z3Lr8"
+      },
+      "artists": [
+        {
+          "name": "Asian Glow",
+          "url": "https://open.spotify.com/artist/74om4qLxb9MIsubhtvxQQJ"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430101,
+      "name": "Jitnunkebi (Winter's Song)",
+      "url": "https://open.spotify.com/track/66AGzpId4asIo8irfw0WAY"
+    },
+    {
+      "album": {
         "name": "JJ",
         "url": "https://open.spotify.com/album/3z9oyjyM2uGQeEgaxo0V9s"
       },
@@ -45256,7 +45314,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 186251,
       "name": "not/lost",
       "url": "https://open.spotify.com/track/5EVqaXDACZZPYPbNwZOJA8"
@@ -48472,7 +48530,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 250360,
       "name": "Piano At Parties",
       "url": "https://open.spotify.com/track/0ZRYMH2HDVEcliWjvYuXRq"
@@ -52594,7 +52652,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 249000,
       "name": "River",
       "url": "https://open.spotify.com/track/4FhqI1mZkKpdAGtCiLIKHh"

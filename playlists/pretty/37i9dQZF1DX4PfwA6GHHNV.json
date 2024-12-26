@@ -11,6 +11,30 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Ela Quer Fumar",
+      "url": "https://open.spotify.com/track/2cYM45KrFyawEUL9uGfuXN"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "Bem-Vindo Ao Meu Mundo",
         "url": "https://open.spotify.com/album/0PeQXhEAlEwBgDAYDfNcVE"
       },
@@ -47,30 +71,6 @@
       "duration_ms": 265344,
       "name": "Gingado",
       "url": "https://open.spotify.com/track/7opo4ooKxfnEXMDzvs8EtJ"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Ela Quer Fumar",
-      "url": "https://open.spotify.com/track/2cYM45KrFyawEUL9uGfuXN"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -823,26 +823,26 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "B\u00f3ra",
-        "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
+        "name": "Pu'ce",
+        "url": "https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C"
       },
       "artists": [
-        {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
-        },
         {
           "name": "El Coffee",
           "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
         },
         {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 235800,
-      "name": "B\u00f3ra",
-      "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+      "duration_ms": 165309,
+      "name": "Pu'ce",
+      "url": "https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -867,26 +867,46 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "Pu'ce",
-        "url": "https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C"
+        "name": "B\u00f3ra",
+        "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
       "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        },
         {
           "name": "El Coffee",
           "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
         },
         {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
         }
       ],
-      "duration_ms": 165309,
-      "name": "Pu'ce",
-      "url": "https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD"
+      "duration_ms": 235800,
+      "name": "B\u00f3ra",
+      "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
+        "name": "ACREDITOU?",
+        "url": "https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7"
+      },
+      "artists": [
+        {
+          "name": "TchutchuB",
+          "url": "https://open.spotify.com/artist/7dvAqBiD4MYy8Ge70I4Of1"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "ACREDITOU?",
+      "url": "https://open.spotify.com/track/3qN6QPVtmGleYVmvZBR3t7"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -975,26 +995,6 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
         "name": "Anel da Pandora",
         "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
@@ -1015,26 +1015,22 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "A\u00ed \u00e9 Bom Demais",
-        "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
       },
       "artists": [
         {
-          "name": "Garius",
-          "url": "https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA"
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
         },
         {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Deagaene",
-          "url": "https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq"
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
         }
       ],
-      "duration_ms": 197667,
-      "name": "A\u00ed \u00e9 Bom Demais",
-      "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -1059,22 +1055,26 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "ACREDITOU?",
-        "url": "https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7"
+        "name": "A\u00ed \u00e9 Bom Demais",
+        "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
       "artists": [
         {
-          "name": "TchutchuB",
-          "url": "https://open.spotify.com/artist/7dvAqBiD4MYy8Ge70I4Of1"
+          "name": "Garius",
+          "url": "https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA"
         },
         {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Deagaene",
+          "url": "https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq"
         }
       ],
-      "duration_ms": 195918,
-      "name": "ACREDITOU?",
-      "url": "https://open.spotify.com/track/3qN6QPVtmGleYVmvZBR3t7"
+      "duration_ms": 197667,
+      "name": "A\u00ed \u00e9 Bom Demais",
+      "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
     },
     {
       "added_at": "2024-12-13 16:52:11",

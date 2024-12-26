@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2170828,
+  "num_followers": 2170764,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Seeds (Acoustic Version)",
-        "url": "https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy"
-      },
-      "artists": [
-        {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
-        },
-        {
-          "name": "Carsen Gray",
-          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
-        }
-      ],
-      "duration_ms": 274808,
-      "name": "Seeds (feat. Carsen Gray) - Acoustic Version",
-      "url": "https://open.spotify.com/track/3PT90fscllcTN8qiY2gsO0"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Man Overboard",
         "url": "https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z"
       },
@@ -943,18 +923,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Sail on the Water",
-        "url": "https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5"
+        "name": "Seeds (Acoustic Version)",
+        "url": "https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy"
       },
       "artists": [
         {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        },
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
         }
       ],
-      "duration_ms": 261140,
-      "name": "Sail on the Water",
-      "url": "https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD"
+      "duration_ms": 274808,
+      "name": "Seeds (feat. Carsen Gray) - Acoustic Version",
+      "url": "https://open.spotify.com/track/3PT90fscllcTN8qiY2gsO0"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -971,6 +955,22 @@
       "duration_ms": 146884,
       "name": "Saint Monica - Undone",
       "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Sail on the Water",
+        "url": "https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 261140,
+      "name": "Sail on the Water",
+      "url": "https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Whippoorwill",
-        "url": "https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 278848,
-      "name": "Whippoorwill",
-      "url": "https://open.spotify.com/track/1n0UUVUi4OzfjJEtuBKWfL"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/0DiF82zYoCeSsbB0b87Ra9"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 196083,
       "name": "Brave",
       "url": "https://open.spotify.com/track/2rD0cCKHYENel8ydSu6niR"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Whippoorwill",
+        "url": "https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 278848,
+      "name": "Whippoorwill",
+      "url": "https://open.spotify.com/track/1n0UUVUi4OzfjJEtuBKWfL"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Eyes Wide Open (From \"North Star\")",
+        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Eyes Wide Open - From \"North Star\"",
+      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Our Endless Numbered Days",
         "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Eyes Wide Open (From \"North Star\")",
-        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Eyes Wide Open - From \"North Star\"",
-      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "At Swim",
         "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
       },
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Tourism",
+        "url": "https://open.spotify.com/album/7G07UTNS6qqiu7c5cz7jcj"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Forget Myself",
+      "url": "https://open.spotify.com/track/75zcToiQTLgeIr0dGiRJXE"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Top to Toe",
         "url": "https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1"
       },
@@ -1635,22 +1655,6 @@
       "duration_ms": 241240,
       "name": "Great Divide",
       "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Resilient",
-        "url": "https://open.spotify.com/album/3EaJWoy52v2Rxu79L2GAin"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 250438,
-      "name": "Resilient",
-      "url": "https://open.spotify.com/track/6A90L2keyWNwlH21dqM8bA"
     }
   ],
   "unique_name": "Afternoon Acoustic",

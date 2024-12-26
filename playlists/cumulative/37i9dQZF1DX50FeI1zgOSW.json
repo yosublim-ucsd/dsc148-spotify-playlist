@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Aiyaiyo (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/38wMfEJRXG5GwolTwhGqu7"
+      },
+      "artists": [
+        {
+          "name": "Samuel Nicholas",
+          "url": "https://open.spotify.com/artist/4HzOMT90RRZ7p1SzMtqVCr"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165593,
+      "name": "Aiyaiyo - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/2JgWN3U4p9UjgQTOBMtZPx"
+    },
+    {
+      "album": {
         "name": "Alaadhi",
         "url": "https://open.spotify.com/album/1IJSPPFMH04JPB3vBHI92E"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 265183,
       "name": "Alaadhi",
       "url": "https://open.spotify.com/track/4UVekDlBRIP1On3kkJiah5"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 201254,
       "name": "Irave",
       "url": "https://open.spotify.com/track/3pDGt2dpOJJhW9QMSYHK2f"
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 212000,
       "name": "Morattu School - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1IPTaRV1I8lAY5QoduIE4K"
@@ -4788,7 +4806,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 176000,
       "name": "Naai La Gandam (Original Soundtrack)",
       "url": "https://open.spotify.com/track/2rmeIf9AYftwtJH3Zpglox"
@@ -5986,7 +6004,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 207425,
       "name": "Pasumayile",
       "url": "https://open.spotify.com/track/6Udk6PfmbOo2s4rwgM9bvF"
@@ -7498,7 +7516,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 192197,
       "name": "The Woahhh Song",
       "url": "https://open.spotify.com/track/5ns1dASf7sRmTAPeMluUfi"
@@ -7868,7 +7886,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 247031,
       "name": "Toronto Ponnu",
       "url": "https://open.spotify.com/track/3HrJDBYIIbkXROmZ9YqV3B"
@@ -8148,7 +8166,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 183000,
       "name": "Usuru Motham",
       "url": "https://open.spotify.com/track/4MbDnGT1Ukl3UAb0Z9Zxsv"
@@ -8712,7 +8730,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 128000,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/2VxxQVa3U732LlzN0dn3FF"
@@ -8884,7 +8902,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 155453,
       "name": "Vizhiyile",
       "url": "https://open.spotify.com/track/5glMjCxpAqUmVTrMLyHt44"
@@ -9228,7 +9246,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 135000,
       "name": "Zudari",
       "url": "https://open.spotify.com/track/00Pq6beAl0vQaxBEKGR4Q5"

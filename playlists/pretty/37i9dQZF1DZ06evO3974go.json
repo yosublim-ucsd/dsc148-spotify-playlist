@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19655,
+  "num_followers": 19661,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ioAAAAAABgf479f3PcAU1q6Zfb9bg0",
+  "snapshot_id": "Z2n5gAAAAABa5CBgMe36ImGR56EQUl7a",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Room (feat. Rich Homie Quan) - Single",
-        "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
       },
       "artists": [
         {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "Tony Michael",
-          "url": "https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 197720,
-      "name": "Private Room",
-      "url": "https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE"
+      "duration_ms": 240133,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
     },
     {
       "added_at": null,
@@ -511,22 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
+        "name": "Private Room (feat. Rich Homie Quan) - Single",
+        "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "Tony Michael",
+          "url": "https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8"
         },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
+      "duration_ms": 197720,
+      "name": "Private Room",
+      "url": "https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE"
     },
     {
       "added_at": null,

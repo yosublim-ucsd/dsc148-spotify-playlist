@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 240200,
       "name": "\u30ec\u30d7\u30ea\u30ab",
       "url": "https://open.spotify.com/track/0XBq9Gk2ikiyDWJOuwNiP3"
@@ -2286,6 +2286,24 @@
       "duration_ms": 296906,
       "name": "\u8a00\u8449\u306b\u3067\u304d\u306a\u3044",
       "url": "https://open.spotify.com/track/08bJMeQRwtpLnrMF1ScLvn"
+    },
+    {
+      "album": {
+        "name": "Driving in the silence",
+        "url": "https://open.spotify.com/album/5KKm1v4tLs6WzwdgAaCg5h"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312262,
+      "name": "\u8a93\u3044",
+      "url": "https://open.spotify.com/track/44N6CSy6kr1dSWP6a7QVZ5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Beyond titles, beyond genre. Cover: Fred again..",
-  "num_followers": 204475,
+  "num_followers": 204468,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Z2nWFwAAAACfFyRZCt2kiND3Uc7ODNkz",
   "tracks": [
+    {
+      "added_at": "2024-12-23 21:28:55",
+      "album": {
+        "name": "Acts of Faith",
+        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
+    },
     {
       "added_at": "2024-12-13 00:00:35",
       "album": {

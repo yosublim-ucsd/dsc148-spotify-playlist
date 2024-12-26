@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 360015,
+  "num_followers": 359978,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -999,18 +999,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+        "name": "Soffa fr\u00e5n IKEA",
+        "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
         }
       ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+      "duration_ms": 149499,
+      "name": "Soffa fr\u00e5n IKEA",
+      "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Soffa fr\u00e5n IKEA",
-        "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 149499,
-      "name": "Soffa fr\u00e5n IKEA",
-      "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
       "added_at": "2024-06-13 22:00:00",

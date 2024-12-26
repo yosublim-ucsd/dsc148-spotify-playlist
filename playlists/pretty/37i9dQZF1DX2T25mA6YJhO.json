@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os Bravos.",
-  "num_followers": 23318,
+  "num_followers": 23320,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Te vi en el concierto",
-        "url": "https://open.spotify.com/album/2Aagt3zBoR5sNhY8Tysml5"
+        "name": "Pelo De Foca",
+        "url": "https://open.spotify.com/album/1x3ua8H7j6q4lQMf5porQw"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        },
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Te vi en el concierto",
-      "url": "https://open.spotify.com/track/4hKLszgJbdLdIKvWq6kCFM"
+      "duration_ms": 212798,
+      "name": "Pelo De Foca",
+      "url": "https://open.spotify.com/track/3TnX1o4P2mCyM0to89CXkY"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -535,18 +531,22 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Pelo De Foca",
-        "url": "https://open.spotify.com/album/1x3ua8H7j6q4lQMf5porQw"
+        "name": "Te vi en el concierto",
+        "url": "https://open.spotify.com/album/2Aagt3zBoR5sNhY8Tysml5"
       },
       "artists": [
         {
-          "name": "Ultraligera",
-          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        },
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
         }
       ],
-      "duration_ms": 212798,
-      "name": "Pelo De Foca",
-      "url": "https://open.spotify.com/track/3TnX1o4P2mCyM0to89CXkY"
+      "duration_ms": 161200,
+      "name": "Te vi en el concierto",
+      "url": "https://open.spotify.com/track/4hKLszgJbdLdIKvWq6kCFM"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -619,6 +619,26 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
+        "name": "Perd\u00ed los Galeones",
+        "url": "https://open.spotify.com/album/7miU2Pq1UdOCofZdftORYV"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        },
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "Perd\u00ed los Galeones",
+      "url": "https://open.spotify.com/track/2ZNQgbErHYNYUvMKyDAWyS"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
         "name": "DIRECTOS AL INFIERNO",
         "url": "https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP"
       },
@@ -631,6 +651,26 @@
       "duration_ms": 122115,
       "name": "Historia Triste",
       "url": "https://open.spotify.com/track/2mis3ZNjBoMXR7DCejSSZC"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "\u00a1Viva!",
+        "url": "https://open.spotify.com/album/0dV4jCRJfsqoB8f2FcGqti"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        },
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "\u00a1Viva!",
+      "url": "https://open.spotify.com/track/0EdGdYvp8HaQOVoacOQnMS"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -655,46 +695,6 @@
       "duration_ms": 180386,
       "name": "La matanza de Texas",
       "url": "https://open.spotify.com/track/4SgXWK4j9rKd1gVk1Ul0WY"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
-        "name": "Perd\u00ed los Galeones",
-        "url": "https://open.spotify.com/album/7miU2Pq1UdOCofZdftORYV"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        },
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "Perd\u00ed los Galeones",
-      "url": "https://open.spotify.com/track/2ZNQgbErHYNYUvMKyDAWyS"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
-        "name": "\u00a1Viva!",
-        "url": "https://open.spotify.com/album/0dV4jCRJfsqoB8f2FcGqti"
-      },
-      "artists": [
-        {
-          "name": "Los Punsetes",
-          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
-        },
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 154773,
-      "name": "\u00a1Viva!",
-      "url": "https://open.spotify.com/track/0EdGdYvp8HaQOVoacOQnMS"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Si se muere tu perro",
-        "url": "https://open.spotify.com/album/7DVoODiQPhkWYpcNhA9M37"
+        "name": "De aqu\u00ed a un mes",
+        "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
       },
       "artists": [
         {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+          "name": "Error 97",
+          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
         }
       ],
-      "duration_ms": 234819,
-      "name": "Si se muere tu perro",
-      "url": "https://open.spotify.com/track/2oFveyq4ZI1qyG69qqOsVk"
+      "duration_ms": 141023,
+      "name": "De aqu\u00ed a un mes",
+      "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "De aqu\u00ed a un mes",
-        "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
+        "name": "Si se muere tu perro",
+        "url": "https://open.spotify.com/album/7DVoODiQPhkWYpcNhA9M37"
       },
       "artists": [
         {
-          "name": "Error 97",
-          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
         }
       ],
-      "duration_ms": 141023,
-      "name": "De aqu\u00ed a un mes",
-      "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
+      "duration_ms": 234819,
+      "name": "Si se muere tu perro",
+      "url": "https://open.spotify.com/track/2oFveyq4ZI1qyG69qqOsVk"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "ULTRASUR",
-        "url": "https://open.spotify.com/album/1lAD75rGpcUWpxti7DLLb6"
+        "name": "yo s\u00ed te quer\u00eda",
+        "url": "https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa"
       },
       "artists": [
         {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
         }
       ],
-      "duration_ms": 139923,
-      "name": "ULTRASUR",
-      "url": "https://open.spotify.com/track/0D8xJEP5Ajwgu5SOUGhayy"
+      "duration_ms": 152282,
+      "name": "yo s\u00ed te quer\u00eda",
+      "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "yo s\u00ed te quer\u00eda",
-        "url": "https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa"
+        "name": "4 Impulsos M\u00e1s",
+        "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
       },
       "artists": [
         {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+          "name": "Erin Memento",
+          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
         }
       ],
-      "duration_ms": 152282,
-      "name": "yo s\u00ed te quer\u00eda",
-      "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
+      "duration_ms": 207124,
+      "name": "4 Impulsos M\u00e1s",
+      "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "4 Impulsos M\u00e1s",
-        "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
-      },
-      "artists": [
-        {
-          "name": "Erin Memento",
-          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
-        }
-      ],
-      "duration_ms": 207124,
-      "name": "4 Impulsos M\u00e1s",
-      "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "Viaje De Estudios (Un Tributo a Lori Meyers)",
         "url": "https://open.spotify.com/album/2wh1jeycGNNM0DyF5vmhke"
       },
@@ -1179,6 +1163,38 @@
       "duration_ms": 188682,
       "name": "Viaje De Estudios - Un Tributo a Lori Meyers",
       "url": "https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "ULTRASUR",
+        "url": "https://open.spotify.com/album/1lAD75rGpcUWpxti7DLLb6"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "duration_ms": 139923,
+      "name": "ULTRASUR",
+      "url": "https://open.spotify.com/track/0D8xJEP5Ajwgu5SOUGhayy"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "ojal\u00e1",
+      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1215,34 +1231,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
+        "name": "Romance Extremo",
+        "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
       },
       "artists": [
         {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
         }
       ],
-      "duration_ms": 193621,
-      "name": "ojal\u00e1",
-      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
-        "name": "saliendo bien",
-        "url": "https://open.spotify.com/album/5XRLXNQdiD5MEw6MFBVEZP"
-      },
-      "artists": [
-        {
-          "name": "Supermeganada",
-          "url": "https://open.spotify.com/artist/6gBHyKU7JcOeeIEh90Yvh0"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "saliendo bien",
-      "url": "https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB"
+      "duration_ms": 144179,
+      "name": "Romance Extremo",
+      "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Ni un paso atr\u00e1s",
-        "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
+        "name": "saliendo bien",
+        "url": "https://open.spotify.com/album/5XRLXNQdiD5MEw6MFBVEZP"
       },
       "artists": [
         {
-          "name": "Pinpilinpussies",
-          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
+          "name": "Supermeganada",
+          "url": "https://open.spotify.com/artist/6gBHyKU7JcOeeIEh90Yvh0"
         }
       ],
-      "duration_ms": 163405,
-      "name": "En tu portal",
-      "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
+      "duration_ms": 184500,
+      "name": "saliendo bien",
+      "url": "https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Romance Extremo",
-        "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
+        "name": "Ni un paso atr\u00e1s",
+        "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
       },
       "artists": [
         {
-          "name": "Casero",
-          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+          "name": "Pinpilinpussies",
+          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
         }
       ],
-      "duration_ms": 144179,
-      "name": "Romance Extremo",
-      "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
+      "duration_ms": 163405,
+      "name": "En tu portal",
+      "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Ganas de verte",
-        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
+        "name": "F\u00fatbol",
+        "url": "https://open.spotify.com/album/0pCijFVzEi6Ke9fOdFrRro"
       },
       "artists": [
         {
           "name": "Pagafantas",
           "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
-        },
-        {
-          "name": "Luc\u00eda Moreno",
-          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
         }
       ],
-      "duration_ms": 174613,
-      "name": "Ganas de verte",
-      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+      "duration_ms": 271750,
+      "name": "F\u00fatbol",
+      "url": "https://open.spotify.com/track/7vWEC8Wf5qHwUDEx7GM6ct"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1431,18 +1427,22 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "F\u00fatbol",
-        "url": "https://open.spotify.com/album/0pCijFVzEi6Ke9fOdFrRro"
+        "name": "Ganas de verte",
+        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
       "artists": [
         {
           "name": "Pagafantas",
           "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        },
+        {
+          "name": "Luc\u00eda Moreno",
+          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
         }
       ],
-      "duration_ms": 271750,
-      "name": "F\u00fatbol",
-      "url": "https://open.spotify.com/track/7vWEC8Wf5qHwUDEx7GM6ct"
+      "duration_ms": 174613,
+      "name": "Ganas de verte",
+      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Lo de siempre",
-        "url": "https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac"
-      },
-      "artists": [
-        {
-          "name": "Go Cactus",
-          "url": "https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE"
-        }
-      ],
-      "duration_ms": 211087,
-      "name": "Lo de siempre",
-      "url": "https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "Vacaciones Permanentes",
         "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 188525,
       "name": "Vampiros",
       "url": "https://open.spotify.com/track/5SqHFepXDGG1IHvlkhQc8q"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Lo de siempre",
+        "url": "https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac"
+      },
+      "artists": [
+        {
+          "name": "Go Cactus",
+          "url": "https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE"
+        }
+      ],
+      "duration_ms": 211087,
+      "name": "Lo de siempre",
+      "url": "https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB"
     },
     {
       "added_at": "2024-12-19 23:00:46",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-12-19 23:00:46",
       "album": {
-        "name": "Sangre Azul",
-        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
-      },
-      "artists": [
-        {
-          "name": "LA \u00c9LITE",
-          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
-        }
-      ],
-      "duration_ms": 144664,
-      "name": "Sangre Azul",
-      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
-    },
-    {
-      "added_at": "2024-12-19 23:00:46",
-      "album": {
         "name": "Baimen gabe",
         "url": "https://open.spotify.com/album/4jCQjqccsVPOiB4fLR7pRG"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 311266,
       "name": "Baimen gabe",
       "url": "https://open.spotify.com/track/6SlETYurMXL5J0bovKg5Q8"
+    },
+    {
+      "added_at": "2024-12-19 23:00:46",
+      "album": {
+        "name": "Sangre Azul",
+        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
+      },
+      "artists": [
+        {
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
+        }
+      ],
+      "duration_ms": 144664,
+      "name": "Sangre Azul",
+      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
     },
     {
       "added_at": "2024-12-19 23:00:46",

@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: フジタ カコ
 
-1,729 songs - 4 day 8 hr 18 min
+1,731 songs - 4 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 | 2023-07-11 | 2023-09-20 |
 | [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 | 2023-07-11 | 2023-07-13 |
 | [BRAND NEW MEMORY](https://open.spotify.com/track/4GNnCJe90wEbBrGwTAJkhm) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [BRAND NEW MEMORY](https://open.spotify.com/album/6KzMPmEpiXOiTDWrtDencR) | 4:19 | 2023-04-04 | 2023-05-24 |
+| [Break・Song](https://open.spotify.com/track/7D2hirXHmlESjgBh2UF80A) | [JIJIM](https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA) | [Break・Song](https://open.spotify.com/album/3Ci1MyOX5zeBIAKKW7NNNX) | 4:54 | 2024-12-25 |  |
 | [Breath](https://open.spotify.com/track/6yZ8jfLRNv4LT9eH4tkDqo) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Breath](https://open.spotify.com/album/3vhP0VsvbiEWQIicYU6S8Z) | 2:44 | 2023-03-07 | 2023-04-07 |
 | [Broke Boy Rich](https://open.spotify.com/track/0dSbZGtxtsbvB6SQNafgmG) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Broke Boy Rich](https://open.spotify.com/album/28FUxgcSQ8dtx1tSf1ZEPS) | 2:16 | 2024-10-23 | 2024-12-11 |
 | [Broken Song](https://open.spotify.com/track/1G6A1ymQOop6o0V0imT2Gl) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Tough Love Therapy](https://open.spotify.com/album/0WAe0aNKZkj8QW8QY77d4k) | 3:33 | 2023-06-27 | 2023-08-23 |
@@ -205,7 +206,7 @@
 | [curtain](https://open.spotify.com/track/4j8eZkDhi4ppiNhSkIR4Up) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [curtain](https://open.spotify.com/album/5X3NbcqfS8gwMPf5YXjvjW) | 2:43 | 2022-09-20 | 2022-10-26 |
 | [d.s.m \- Studio Live Session](https://open.spotify.com/track/1383Xfuq08qSbx4zMJPFRd) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun Studio Live Session](https://open.spotify.com/album/5LlCwmuxbZODLBZqviAlOM) | 3:11 | 2022-04-05 | 2022-04-22 |
 | [Dadaism](https://open.spotify.com/track/2CrIYfWLOTdNFsOR7QfGE2) | [ARAWA](https://open.spotify.com/artist/3jIaFeZJTaWRt0pSOnK5Gm) | [Dadaism](https://open.spotify.com/album/7szLNdzqs579yj4qZE0iaS) | 3:42 | 2022-03-22 | 2022-05-11 |
-| [Daisy rainy](https://open.spotify.com/track/6eI2dBJDms9srJfLsso596) | [JIJIM](https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA) | [Daisy rainy](https://open.spotify.com/album/5de91J89nV8M2SBpQbaUPa) | 4:25 | 2024-11-19 |  |
+| [Daisy rainy](https://open.spotify.com/track/6eI2dBJDms9srJfLsso596) | [JIJIM](https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA) | [Daisy rainy](https://open.spotify.com/album/5de91J89nV8M2SBpQbaUPa) | 4:25 | 2024-11-19 | 2024-12-26 |
 | [Dame Sengen](https://open.spotify.com/track/6jSRiSqC4enItld9Atti6h) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Dame Sengen](https://open.spotify.com/album/364xT6oAdsUCr5KXOg2ZYI) | 2:40 | 2024-02-06 | 2024-02-21 |
 | [dance](https://open.spotify.com/track/4vURlCR65nymieanZFI26k) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [dance](https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5) | 3:19 | 2022-08-25 | 2022-09-21 |
 | [Dance Alone](https://open.spotify.com/track/2kpZkWCfmuSvn8CZYGvNkO) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Dance Alone](https://open.spotify.com/album/2grXUKK5gDiBlcWcpbKm6Y) | 4:56 | 2022-09-13 | 2022-10-12 |
@@ -506,7 +507,7 @@
 | [lien](https://open.spotify.com/track/4G1cGMc2EtRGwzDXHwJPnL) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [round trip](https://open.spotify.com/album/7vBnslfLvLLfDFG0awdRDF) | 3:29 | 2022-12-13 | 2022-12-15 |
 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 | 2023-02-01 | 2023-03-22 |
 | [Light](https://open.spotify.com/track/66WTU7QWjgvq0MCrRKKPcj) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Give Me All of Your Life](https://open.spotify.com/album/6whddh4xySGYuZRYbndVOJ) | 3:49 | 2024-02-13 | 2024-04-10 |
-| [Light](https://open.spotify.com/track/303gTSriG9PPpO8K2GRAsj) | [Sori Sawada](https://open.spotify.com/artist/2DVBuwrrWkKGMcohF3wVnF) | [\(Not\) Right](https://open.spotify.com/album/2FqZZgv5NjekUggMgkZxj9) | 5:12 | 2024-12-10 |  |
+| [Light](https://open.spotify.com/track/303gTSriG9PPpO8K2GRAsj) | [Sori Sawada](https://open.spotify.com/artist/2DVBuwrrWkKGMcohF3wVnF) | [\(Not\) Right](https://open.spotify.com/album/2FqZZgv5NjekUggMgkZxj9) | 5:12 | 2024-12-10 | 2024-12-26 |
 | [Light\(n\)ing](https://open.spotify.com/track/4AolTQz0nbPeFKLrWP3OAR) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Light\(n\)ing](https://open.spotify.com/album/2d9QtkSDbgZLy8p4EThXFL) | 3:33 | 2024-02-20 | 2024-04-03 |
 | [Light\(n\)ing](https://open.spotify.com/track/6KBkIxXzV6cv3ANyq4KFBS) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Light\(n\)ing](https://open.spotify.com/album/3weisOmHMVWetDBg79mlzx) | 3:33 | 2024-02-20 | 2024-02-22 |
 | [Lighter](https://open.spotify.com/track/495KMn84VgvD8HGx7nnxIa) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [After Dark](https://open.spotify.com/album/5OsGUY6X5Yb3pN8cKjwSnA) | 3:29 | 2024-12-03 | 2024-12-18 |
@@ -772,6 +773,7 @@
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-03 | 2023-09-27 |
 | [SCREAM](https://open.spotify.com/track/0yteWxWQzaM451Ux377Wi3) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Don't waste my YOUTH](https://open.spotify.com/album/2jkooZsqJqcaFOFalXDWqX) | 3:38 | 2023-08-22 | 2023-08-24 |
 | [SCREAM](https://open.spotify.com/track/5rmUnvLLqhUfE9IpQajosI) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Don't waste my YOUTH](https://open.spotify.com/album/6vIG6mIgQ1ZwWlvVHEE5Aj) | 3:38 | 2023-08-22 | 2023-09-06 |
+| [SCREW IN MY HEAD](https://open.spotify.com/track/1WbLLiggPFFS1eniBZGLdK) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0) | [SCREW IN MY HEAD](https://open.spotify.com/album/0G7UzUBmgZ2iLSPzs4lAru) | 3:24 | 2024-12-25 |  |
 | [Sea U Again](https://open.spotify.com/track/2bazWE21cNpkuXekVJwHZ4) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Sea U Again](https://open.spotify.com/album/58YIbdLfmGbVlzhAR4tjOD) | 4:05 | 2024-02-06 | 2024-02-14 |
 | [Seishin Rock](https://open.spotify.com/track/5oeOH2PtEyy43MvchoWx34) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Seishin Rock](https://open.spotify.com/album/4HxqIkte7i4FzBusMxYykW) | 2:53 | 2023-12-12 | 2024-01-11 |
 | [Senpai](https://open.spotify.com/track/1141uIU9WDqLCjbIbet1eu) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [Senpai](https://open.spotify.com/album/3a9z2tnR8VQlJ3jYhHRLUg) | 3:21 | 2023-08-29 | 2023-09-27 |

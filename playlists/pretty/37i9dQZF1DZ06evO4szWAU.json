@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 76874,
+  "num_followers": 76902,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ioAAAAAADF8K6YzfDnx+mh+FhApnx2",
+  "snapshot_id": "Z2n5gAAAAADc3hyY9H6/TOz4LaeyM7I9",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Del Solar De Los Aburridos",
-        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 388160,
-      "name": "Te Est\u00e1n Buscando",
-      "url": "https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Top Secrets",
         "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 353773,
       "name": "Asia",
       "url": "https://open.spotify.com/track/3CfIDPm4i05VYkF0SvEWdb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Del Solar De Los Aburridos",
+        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 388160,
+      "name": "Te Est\u00e1n Buscando",
+      "url": "https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac"
     },
     {
       "added_at": null,

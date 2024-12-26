@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 334419,
+  "num_followers": 334460,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "number one girl",
-        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
         }
       ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+      "duration_ms": 226706,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
       },
       "artists": [
         {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 226706,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "ADHD",
-        "url": "https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 228860,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
         "name": "Worlds Collide (Inspired by Arcane League of Legends)",
         "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 182173,
       "name": "Worlds Collide (Inspired by Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 228860,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Ta druga",
-        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 225550,
-      "name": "Komary",
-      "url": "https://open.spotify.com/track/2Lgcr4Xgw8S93tapMBIXze"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
         "name": "Still In Love",
         "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 161164,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
+        "name": "Ta druga",
+        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 225550,
+      "name": "Komary",
+      "url": "https://open.spotify.com/track/2Lgcr4Xgw8S93tapMBIXze"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE"
-      },
-      "artists": [
-        {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
-        }
-      ],
-      "duration_ms": 215581,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
         "name": "nie p\u0142acz dziewczyno",
         "url": "https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "To nie najlepszy czas dla wra\u017cliwych ludzi",
-        "url": "https://open.spotify.com/album/4DX4IM3HoMQUFKDre6OiEV"
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE"
       },
       "artists": [
         {
-          "name": "Patrick the Pan",
-          "url": "https://open.spotify.com/artist/7vYfq6OMlGDw1IpTxar2h2"
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
         }
       ],
-      "duration_ms": 198518,
-      "name": "Nie chc\u0119 by\u0107 w Twoim \u017cyciu przejazdem",
-      "url": "https://open.spotify.com/track/4AHXoE1MS8jTZMeW57000F"
+      "duration_ms": 215581,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -927,6 +911,22 @@
       "duration_ms": 337952,
       "name": "Czu\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
+        "name": "To nie najlepszy czas dla wra\u017cliwych ludzi",
+        "url": "https://open.spotify.com/album/4DX4IM3HoMQUFKDre6OiEV"
+      },
+      "artists": [
+        {
+          "name": "Patrick the Pan",
+          "url": "https://open.spotify.com/artist/7vYfq6OMlGDw1IpTxar2h2"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "Nie chc\u0119 by\u0107 w Twoim \u017cyciu przejazdem",
+      "url": "https://open.spotify.com/track/4AHXoE1MS8jTZMeW57000F"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
+        "name": "Najbardziej lubi\u0119 ten moment",
+        "url": "https://open.spotify.com/album/4XTJXh61QUZlQZvi2c2nTz"
+      },
+      "artists": [
+        {
+          "name": "Natalia Grosiak",
+          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
+        }
+      ],
+      "duration_ms": 190762,
+      "name": "Najbardziej lubi\u0119 ten moment",
+      "url": "https://open.spotify.com/track/52wrgDTHHipuBOx6LGXbBC"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
         "name": "z papieru",
         "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
       },
@@ -991,26 +1007,6 @@
       "duration_ms": 190633,
       "name": "Zaspy",
       "url": "https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
-        "name": "Ta\u0144cz\u0119 do Ciebie",
-        "url": "https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L"
-      },
-      "artists": [
-        {
-          "name": "Kuba D\u0105browski",
-          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
-        },
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Ta\u0144cz\u0119 do Ciebie",
-      "url": "https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE"
     }
   ],
   "unique_name": "Zimowy chill",

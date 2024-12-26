@@ -2,7 +2,7 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie, e punk dall'Italia 🎸 GIIN in cover, e buon natale 🎄
+> Rock, indie, e punk dall'Italia 🎸 GIIN in cover
 
 1,241 songs - 2 day 21 hr 3 min
 
@@ -187,7 +187,7 @@
 | [Canzone 10](https://open.spotify.com/track/4kgotZC0lTFDC9VxshW705) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 10](https://open.spotify.com/album/0na7MpYLhqiienk3tW9uSg) | 4:18 | 2022-09-15 | 2023-01-27 |
 | [Canzone 7](https://open.spotify.com/track/71rPnASxvCbdfVyw7H7GZf) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 7](https://open.spotify.com/album/2AEHn0g8fL5e5ZzHzdZOtq) | 3:10 | 2022-09-01 | 2022-09-16 |
 | [Canzone 9](https://open.spotify.com/track/3Lkbk6U4UUyxdseqGmip1b) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Ologenesi](https://open.spotify.com/album/37CdwSrQ0Rexb7EVLfQppx) | 3:22 | 2022-10-06 | 2022-10-21 |
-| [Canzone Di Natale](https://open.spotify.com/track/0O6miCIqoviyvtvYIMvAr0) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Andate Tutti Affanculo](https://open.spotify.com/album/7pRRlzKW7dzUWzBDMuOqNz) | 6:54 | 2024-12-23 |  |
+| [Canzone Di Natale](https://open.spotify.com/track/0O6miCIqoviyvtvYIMvAr0) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Andate Tutti Affanculo](https://open.spotify.com/album/7pRRlzKW7dzUWzBDMuOqNz) | 6:54 | 2024-12-23 | 2024-12-26 |
 | [Caosmosi](https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb) | [Caosmosi](https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP) | 5:03 | 2024-03-14 | 2024-06-28 |
 | [Capannone](https://open.spotify.com/track/2O8iMn5Ix5QMk0eyMDfRFg) | [Lepre](https://open.spotify.com/artist/5Trjt6t3hTEwDuczYiwJEx) | [Capannone](https://open.spotify.com/album/4HZgJLtlm0AyCzcXhDwQkh) | 3:06 | 2023-01-12 | 2023-02-24 |
 | [Capelli scarmigliati](https://open.spotify.com/track/0HLhUam366SqCMjtrazrue) | [Maremarcio](https://open.spotify.com/artist/1HkEEypIQJePOJGOEEJFH9) | [Maremarcio/Alas Split](https://open.spotify.com/album/1byaT6ElGVwRZPAyn14GUS) | 2:24 | 2023-10-05 | 2023-11-03 |

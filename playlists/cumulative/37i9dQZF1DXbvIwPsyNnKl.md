@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Zae & Hev Abi
 
-210 songs - 11 hr 55 min
+211 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 |  |
 | [Bad Type](https://open.spotify.com/track/1Nf8lo7CKSJLGHi4uT8EvL) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Guns and Roses](https://open.spotify.com/album/5P3G3lpZQ5ZJvLEC4Gyodh) | 3:07 | 2023-12-06 | 2024-02-15 |
 | [BAI NA BAI](https://open.spotify.com/track/5OvRmSitjggIYxAcgWnImV) | [Jae Bourgeoisie](https://open.spotify.com/artist/7Mm8pIdZHREtl0HYRuD9Na), [Izey Bleu](https://open.spotify.com/artist/1rWxNB88AktiJTvy876e8t) | [BAI NA BAI](https://open.spotify.com/album/3GQhCfio9Aec4AwVTUMdjD) | 2:35 | 2023-11-08 | 2024-02-29 |
-| [Bakante](https://open.spotify.com/track/3M7hZf5sKm1RJD3UJx6TiT) | [Omar Baliw](https://open.spotify.com/artist/2gZrkTQmIZCDWQMMXjkC4K), [Rhyne](https://open.spotify.com/artist/50cO3P6YcYTVmheR2eETF4) | [Bakante](https://open.spotify.com/album/4O7iJCIn3PbzN04UrelxnO) | 4:04 | 2024-10-15 |  |
+| [Bakante](https://open.spotify.com/track/3M7hZf5sKm1RJD3UJx6TiT) | [Omar Baliw](https://open.spotify.com/artist/2gZrkTQmIZCDWQMMXjkC4K), [Rhyne](https://open.spotify.com/artist/50cO3P6YcYTVmheR2eETF4) | [Bakante](https://open.spotify.com/album/4O7iJCIn3PbzN04UrelxnO) | 4:04 | 2024-10-15 | 2024-12-26 |
 | [Balagbag](https://open.spotify.com/track/3s1BMSp0yxKDbTo6MDeueq) | [Don Pao](https://open.spotify.com/artist/7HnBKbjSa10sPCoX3HMp8Z), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Martial Lao](https://open.spotify.com/album/2NU7PW7QQdrrGDwDIUZxk6) | 4:47 | 2024-10-17 |  |
 | [Binibini](https://open.spotify.com/track/3xj36WMIDSWRxfbasS4Pi8) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Binibini](https://open.spotify.com/album/1VGIRVQeee7pUEoAVAmhUp) | 2:34 | 2024-06-12 | 2024-08-15 |
 | [BLING](https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [BLING](https://open.spotify.com/album/4BEXEaGEDL1nUQIR0a3tat) | 2:28 | 2023-12-13 | 2024-02-22 |
@@ -209,6 +209,7 @@
 | [Wag Ipagsabi](https://open.spotify.com/track/6XBz5vxIzEWFRLpxWYGEpV) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf), [Bert Symoun](https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz) | [Wag Ipagsabi](https://open.spotify.com/album/4LavLiKs6MNLNkYZK07zH3) | 3:28 | 2024-11-13 |  |
 | [Wag Na](https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Wag Na](https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57) | 4:26 | 2024-06-05 |  |
 | [Walang Alam](https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:05 | 2024-01-31 | 2024-10-03 |
+| [WANHANIDBANDZ](https://open.spotify.com/track/5kfXBSWbG5txcZbauyf9hV) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [WANHANIDBANDZ](https://open.spotify.com/album/0QyY6FO4EUclOTSLU9mr8q) | 1:43 | 2024-12-25 |  |
 | [We Made It](https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [We Made It](https://open.spotify.com/album/2vd0mHXPGNEfvYK9PY5U2H) | 3:58 | 2024-01-10 |  |
 | [WELCOME2DTQ](https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [WELCOME2DTQ](https://open.spotify.com/album/1coaR0jupZjPePYu3AkFQP) | 2:59 | 2023-09-20 | 2024-03-28 |
 | [Where Ya' From, Pt\. 3](https://open.spotify.com/track/5J6jcHB78I1lBK6CSN6ZkF) | [Tiny Montana](https://open.spotify.com/artist/6rGNCux8LjUx3OdwEPXx7E), [Lanzeta](https://open.spotify.com/artist/3KSsd7q2gnKFs74J4BEH6p), [Juanthugs](https://open.spotify.com/artist/7I2XVii6SUoqzzexBeJSv0), [Range](https://open.spotify.com/artist/5VzinqtVARXxCvxn0qjSdj), [Sinio](https://open.spotify.com/artist/6jMIvO5BgALaLasFxwNn3B), [Kris Delano](https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Where Ya' From, Pt\. 3](https://open.spotify.com/album/4TY4K3s9ow1Q6zEVsbfhvn) | 6:29 | 2024-04-17 | 2024-07-04 |

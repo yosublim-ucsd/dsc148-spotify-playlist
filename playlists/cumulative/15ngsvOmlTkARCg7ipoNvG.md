@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,850 songs - 1 day 13 hr 56 min
+1,851 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [Infinite Wonder \- Cello And Harp Version](https://open.spotify.com/track/2HQhqoPg65ubb2ofuOLiRx) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Infinite Wonder \(Cello And Harp Version\)](https://open.spotify.com/album/2vUUy2CIQ8ChW2eH1XDKcH) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Infinite Wonder \- Cello Version](https://open.spotify.com/track/7ofYGm8OHQV2p9q7ahta4q) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Infinite Wonder](https://open.spotify.com/album/60vs1IWDJGqYqg1LOVXQOk) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Inhale](https://open.spotify.com/track/14uLHjWmzVzUSWURCtXTWz) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Warmth](https://open.spotify.com/album/7kifavgLRswEIoUyTH8anB) | 1:36 | 2022-01-20 |  |
+| [Inner Beauty](https://open.spotify.com/track/1E5izEEAS6oUlCgfzmb22X) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Inner Beauty](https://open.spotify.com/album/4I1wUmNewc1odMxPdVL4RX) | 1:00 | 2024-12-25 |  |
 | [Inner Calm](https://open.spotify.com/track/6uB9jheZC26KDlCQbwysLS) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Inner Calm](https://open.spotify.com/album/33a53pbruzxsvVmDRrQb03) | 1:00 | 2024-04-02 |  |
 | [Inner Calm \- Cello Version](https://open.spotify.com/track/0tJ9vnNnVMXXxCaM7Khz7e) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Inner Calm \(Cello Version\)](https://open.spotify.com/album/564dOotdWcwQCB2G7C9UkK) | 1:00 | 2024-04-02 |  |
 | [Inner Frost](https://open.spotify.com/track/5CqSikTVudc3u3UQK00MC4) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Minor Trios](https://open.spotify.com/album/0VLF9xirOdJFjSVdZiQ4gt) | 1:02 | 2024-02-09 | 2024-02-13 |

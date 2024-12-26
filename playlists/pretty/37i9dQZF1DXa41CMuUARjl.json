@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Aphex Twin",
-  "num_followers": 506072,
+  "num_followers": 506136,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,30 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/5G6QBfcTbR4Jqs3zeacHLJ"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "Sickluv",
+          "url": "https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe"
+        },
+        {
+          "name": "Thabza De Soul",
+          "url": "https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/5wBTPxJisiSQz9vkneZSlr"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "FINALLY OUT",
         "url": "https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 152500,
       "name": "We Lose Track Of Time",
       "url": "https://open.spotify.com/track/3ZwuY3VtuUcv588svfPClC"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "What I Need",
-        "url": "https://open.spotify.com/album/5G6QBfcTbR4Jqs3zeacHLJ"
-      },
-      "artists": [
-        {
-          "name": "Naarly",
-          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
-        },
-        {
-          "name": "Sickluv",
-          "url": "https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe"
-        },
-        {
-          "name": "Thabza De Soul",
-          "url": "https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "What I Need",
-      "url": "https://open.spotify.com/track/5wBTPxJisiSQz9vkneZSlr"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "Raufaser",
+        "url": "https://open.spotify.com/album/2vmqZz8t3r0QI40zjmRI92"
+      },
+      "artists": [
+        {
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        }
+      ],
+      "duration_ms": 322186,
+      "name": "Raufaser",
+      "url": "https://open.spotify.com/track/1gWylQ4A5sVdMqIkONsSwu"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "Tides Around The Moon (The Magician Remix)",
         "url": "https://open.spotify.com/album/4ahxWLE71SiC6ca23zawoF"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Raufaser",
-        "url": "https://open.spotify.com/album/2vmqZz8t3r0QI40zjmRI92"
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
       },
       "artists": [
         {
-          "name": "Marc DePulse",
-          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
         }
       ],
-      "duration_ms": 322186,
-      "name": "Raufaser",
-      "url": "https://open.spotify.com/track/1gWylQ4A5sVdMqIkONsSwu"
+      "duration_ms": 251803,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -851,18 +867,22 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
+        "name": "Ce Soir On Danse",
+        "url": "https://open.spotify.com/album/6aKSQSUkyOjSkc6twb0EHp"
       },
       "artists": [
         {
-          "name": "Moojo",
-          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        },
+        {
+          "name": "Roller Funk",
+          "url": "https://open.spotify.com/artist/4D1to1Gw3tVIt4Wb1aBcn2"
         }
       ],
-      "duration_ms": 251803,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
+      "duration_ms": 250873,
+      "name": "Ce Soir On Danse",
+      "url": "https://open.spotify.com/track/2JAhXfMnqWkSl8FKpbXVc7"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -895,26 +915,6 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Ce Soir On Danse",
-        "url": "https://open.spotify.com/album/6aKSQSUkyOjSkc6twb0EHp"
-      },
-      "artists": [
-        {
-          "name": "Angelo Ferreri",
-          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
-        },
-        {
-          "name": "Roller Funk",
-          "url": "https://open.spotify.com/artist/4D1to1Gw3tVIt4Wb1aBcn2"
-        }
-      ],
-      "duration_ms": 250873,
-      "name": "Ce Soir On Danse",
-      "url": "https://open.spotify.com/track/2JAhXfMnqWkSl8FKpbXVc7"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
         "name": "Only Friends",
         "url": "https://open.spotify.com/album/77jeSWpHyaPeUHT5175Qfh"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 151875,
       "name": "Only Friends",
       "url": "https://open.spotify.com/track/5dLgvjpexLnUD5sSVagxhM"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/7v8QKFJ6Ryd8ez2AuGXmVH"
-      },
-      "artists": [
-        {
-          "name": "Tornado Club",
-          "url": "https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3"
-        }
-      ],
-      "duration_ms": 251966,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/7LWZ3GQkWxb7gnXAB80J06"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -983,6 +967,22 @@
       "duration_ms": 213062,
       "name": "So Right",
       "url": "https://open.spotify.com/track/63iPYTdJKfwTo2YDWKHOqr"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/7v8QKFJ6Ryd8ez2AuGXmVH"
+      },
+      "artists": [
+        {
+          "name": "Tornado Club",
+          "url": "https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3"
+        }
+      ],
+      "duration_ms": 251966,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/7LWZ3GQkWxb7gnXAB80J06"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "Love On My Mind",
+        "url": "https://open.spotify.com/album/1joYhhuvWklnJxHHYtoYUj"
+      },
+      "artists": [
+        {
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Love On My Mind",
+      "url": "https://open.spotify.com/track/7JPdEKrvfdEXzZ9ON7VKTf"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "6500 Kelvin",
         "url": "https://open.spotify.com/album/4kJcg7wY6Hj3tKVSmDDtEl"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 223484,
       "name": "6500 Kelvin",
       "url": "https://open.spotify.com/track/0w29J6RBXA8Pua5CKLFRVZ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Love On My Mind",
-        "url": "https://open.spotify.com/album/1joYhhuvWklnJxHHYtoYUj"
-      },
-      "artists": [
-        {
-          "name": "Effemar",
-          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Love On My Mind",
-      "url": "https://open.spotify.com/track/7JPdEKrvfdEXzZ9ON7VKTf"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
+        "name": "FUN (dj poolboi Remix)",
+        "url": "https://open.spotify.com/album/5awVXrtPyCaT5ljI7jJpoQ"
+      },
+      "artists": [
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        },
+        {
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "FUN - dj poolboi Remix",
+      "url": "https://open.spotify.com/track/5wXgHqf1NvTAIUbWNNznKP"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
         "name": "harvest sky (remixes)",
         "url": "https://open.spotify.com/album/47yNlgwMQWsAr1nDg1BW9n"
       },
@@ -1143,22 +1163,6 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Clutch",
-        "url": "https://open.spotify.com/album/0L4QQLvN4QE7qtsVeMFmR7"
-      },
-      "artists": [
-        {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
-        }
-      ],
-      "duration_ms": 322690,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/5NVSryWlbH5LEq77Ws1ktV"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
         "name": "Verknipt EP 001",
         "url": "https://open.spotify.com/album/2SnP1wPQGtnllRdJgYNDp4"
       },
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "FUN (dj poolboi Remix)",
-        "url": "https://open.spotify.com/album/5awVXrtPyCaT5ljI7jJpoQ"
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/0L4QQLvN4QE7qtsVeMFmR7"
       },
       "artists": [
         {
-          "name": "Ella Rosa",
-          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
-        },
-        {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
         }
       ],
-      "duration_ms": 191320,
-      "name": "FUN - dj poolboi Remix",
-      "url": "https://open.spotify.com/track/5wXgHqf1NvTAIUbWNNznKP"
+      "duration_ms": 322690,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/5NVSryWlbH5LEq77Ws1ktV"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Me Pide",
-        "url": "https://open.spotify.com/album/3B85ZivoIXn5enaExzExMt"
-      },
-      "artists": [
-        {
-          "name": "DJ Bondiola",
-          "url": "https://open.spotify.com/artist/7is4ba3OLZ4WxYGU0rLXAr"
-        }
-      ],
-      "duration_ms": 209496,
-      "name": "Me Pide",
-      "url": "https://open.spotify.com/track/51qy7qcn3QrVLh40TT71Yf"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/6is0tFVUQWZGIQk3M4Z34k"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 378293,
       "name": "Una M\u00e1s - Kolter Remix",
       "url": "https://open.spotify.com/track/0ueZ23dq0VKcBdc3FExOTk"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
+        "name": "Me Pide",
+        "url": "https://open.spotify.com/album/3B85ZivoIXn5enaExzExMt"
+      },
+      "artists": [
+        {
+          "name": "DJ Bondiola",
+          "url": "https://open.spotify.com/artist/7is4ba3OLZ4WxYGU0rLXAr"
+        }
+      ],
+      "duration_ms": 209496,
+      "name": "Me Pide",
+      "url": "https://open.spotify.com/track/51qy7qcn3QrVLh40TT71Yf"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -1323,46 +1323,6 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/7jLTIJO1MUv85vXaAo85i4"
-      },
-      "artists": [
-        {
-          "name": "Eli Fola",
-          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
-        },
-        {
-          "name": "BL SUEDE",
-          "url": "https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j"
-        }
-      ],
-      "duration_ms": 270323,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/1It5xdcNySs8S2moIBYSzm"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
-        "name": "Echo's Story: Y2K Video Game (Splice Demo)",
-        "url": "https://open.spotify.com/album/1GJxOp4DXwWOylN2waZFJO"
-      },
-      "artists": [
-        {
-          "name": "galen tipton",
-          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
-        },
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 98500,
-      "name": "Echo's Story: Y2K Video Game - Splice Demo",
-      "url": "https://open.spotify.com/track/3FvrBf7fV8FCQUZjoyHhOR"
-    },
-    {
-      "added_at": "2024-12-20 05:00:30",
-      "album": {
         "name": "Best I Can (Baltimore Underground Edit)",
         "url": "https://open.spotify.com/album/6nIkFcv9gEyzHTcfzkYpzS"
       },
@@ -1387,18 +1347,22 @@
     {
       "added_at": "2024-12-20 05:00:30",
       "album": {
-        "name": "I Can't Wait All Night (Running Touch Late Night Remix)",
-        "url": "https://open.spotify.com/album/3U4y76XR46GP11mfo7bNRw"
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/7jLTIJO1MUv85vXaAo85i4"
       },
       "artists": [
         {
-          "name": "Running Touch",
-          "url": "https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE"
+          "name": "Eli Fola",
+          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
+        },
+        {
+          "name": "BL SUEDE",
+          "url": "https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j"
         }
       ],
-      "duration_ms": 228913,
-      "name": "I Can't Wait All Night - Running Touch Late Night Remix",
-      "url": "https://open.spotify.com/track/4nCJt1D6koK8SRyGs1STjt"
+      "duration_ms": 270323,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/1It5xdcNySs8S2moIBYSzm"
     },
     {
       "added_at": "2024-12-20 05:00:30",
@@ -1415,6 +1379,42 @@
       "duration_ms": 222236,
       "name": "More Love",
       "url": "https://open.spotify.com/track/241G2oKRWIvcmvf75awESt"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
+        "name": "Echo's Story: Y2K Video Game (Splice Demo)",
+        "url": "https://open.spotify.com/album/1GJxOp4DXwWOylN2waZFJO"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        },
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 98500,
+      "name": "Echo's Story: Y2K Video Game - Splice Demo",
+      "url": "https://open.spotify.com/track/3FvrBf7fV8FCQUZjoyHhOR"
+    },
+    {
+      "added_at": "2024-12-20 05:00:30",
+      "album": {
+        "name": "I Can't Wait All Night (Running Touch Late Night Remix)",
+        "url": "https://open.spotify.com/album/3U4y76XR46GP11mfo7bNRw"
+      },
+      "artists": [
+        {
+          "name": "Running Touch",
+          "url": "https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE"
+        }
+      ],
+      "duration_ms": 228913,
+      "name": "I Can't Wait All Night - Running Touch Late Night Remix",
+      "url": "https://open.spotify.com/track/4nCJt1D6koK8SRyGs1STjt"
     },
     {
       "added_at": "2024-12-20 05:00:30",

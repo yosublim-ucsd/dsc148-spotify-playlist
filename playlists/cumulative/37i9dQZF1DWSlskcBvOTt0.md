@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-820 songs - 3 day 0 hr 15 min
+821 songs - 3 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Hey Hey \- Jack Back Remix](https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 2:29 | 2024-02-02 | 2024-11-09 |
 | [Hideaway](https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Tried](https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF) | 4:29 | 2024-05-10 | 2024-08-17 |
 | [Holding On](https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Holding On](https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI) | 3:58 | 2024-02-23 | 2024-07-16 |
+| [Holding You](https://open.spotify.com/track/69IGLjobHJWBQUotPlqcsx) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Holding You](https://open.spotify.com/album/6VBIkxNYQ3dW1o6KVJMI8v) | 5:28 | 2024-12-20 |  |
 | [Holmen](https://open.spotify.com/track/6BSe0z7siNCq6qbkPJm6CJ) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Holmen](https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh) | 4:25 | 2024-03-29 | 2024-07-14 |
 | [Home \- Boys Noize Remix](https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nobody Is Not Loved, Remixes, Pt\. 4](https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4) | 6:17 | 2022-07-08 | 2023-01-27 |
 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 | 2022-05-06 | 2024-03-27 |
@@ -664,7 +665,7 @@
 | [Slip Away](https://open.spotify.com/track/55Xs9bpmkFIAFKBW3YTMCK) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Samanta Liza](https://open.spotify.com/artist/3dPfCvrUYSBDoMo144M9QL) | [Slip Away](https://open.spotify.com/album/19PpxVPVE0lREqxG7oRPcS) | 4:35 | 2024-05-10 | 2024-05-19 |
 | [Snake Ritual](https://open.spotify.com/track/415zjCOKwFCZcQlvyHQkuj) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Snake Ritual](https://open.spotify.com/album/3gv7Ynk3r2HSlg94P6lvvY) | 7:36 | 2022-11-11 | 2022-12-13 |
 | [So Flute \- Simon Vuarambon Remix](https://open.spotify.com/track/0GhZtMF0Oub3yXyDRR5ib8) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n), [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj) | [So Flute \(Simon Vuarambon Remix\)](https://open.spotify.com/album/5ChTp4S0pWoOsU5ITa5AHt) | 7:46 | 2024-02-02 | 2024-05-26 |
-| [So Good](https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [So Good](https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI) | 5:44 | 2024-04-05 |  |
+| [So Good](https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [So Good](https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI) | 5:44 | 2024-04-05 | 2024-12-26 |
 | [So It Goes](https://open.spotify.com/track/5ClxAzprojFOLUBxLWRXn4) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy) | [Hoom Side of the Sun, Vol\. 03](https://open.spotify.com/album/5fygnw3bpNm9VC7G1X9ABe) | 7:05 | 2021-06-25 | 2022-07-24 |
 | [So...](https://open.spotify.com/track/08yr7AX1DLnfewURbJ8S3f) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [So..\. / Outlandos](https://open.spotify.com/album/4LdWDOzd1BAgwHlz2oOybp) | 4:03 | 2024-02-23 | 2024-06-17 |
 | [Sol](https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Sol](https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi) | 6:24 | 2021-05-07 | 2023-04-29 |

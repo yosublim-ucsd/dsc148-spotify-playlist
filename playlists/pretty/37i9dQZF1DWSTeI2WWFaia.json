@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Roc Marciano",
-  "num_followers": 1591494,
+  "num_followers": 1591487,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,26 @@
     {
       "added_at": "2024-12-20 04:00:16",
       "album": {
+        "name": "Hidden in Plain Sight",
+        "url": "https://open.spotify.com/album/48Y5EUlLMIw3Zt08fCP1HN"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "whothehelliscarlo",
+          "url": "https://open.spotify.com/artist/0Nijs9ipdrHUPc9OeM9vbl"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Dirty Dancing",
+      "url": "https://open.spotify.com/track/46WPyviv37r22gwCI6TE29"
+    },
+    {
+      "added_at": "2024-12-20 04:00:16",
+      "album": {
         "name": "DBZ",
         "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 196363,
       "name": "Dope Sellers",
       "url": "https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk"
-    },
-    {
-      "added_at": "2024-12-20 04:00:16",
-      "album": {
-        "name": "Hidden in Plain Sight",
-        "url": "https://open.spotify.com/album/48Y5EUlLMIw3Zt08fCP1HN"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "whothehelliscarlo",
-          "url": "https://open.spotify.com/artist/0Nijs9ipdrHUPc9OeM9vbl"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Dirty Dancing",
-      "url": "https://open.spotify.com/track/46WPyviv37r22gwCI6TE29"
     },
     {
       "added_at": "2024-12-20 04:00:16",

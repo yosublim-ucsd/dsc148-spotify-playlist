@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,710 songs - 4 day 21 hr 0 min
+1,711 songs - 4 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,7 +635,7 @@
 | [Hello Sun](https://open.spotify.com/track/0Q1Qacx7PAcTlVxeovkmJL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Lightning](https://open.spotify.com/album/64GKBx96A8r4lemjXrnR2o) | 3:35 | 2020-07-03 | 2022-04-21 |
 | [Her Theme](https://open.spotify.com/track/5Yrb9rFCDWnRSTxryTFS1n) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Her Theme](https://open.spotify.com/album/37t0eo2UQzsyTUPUDnQqJ4) | 4:06 | 2020-12-04 | 2022-02-18 |
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2021-11-12 | 2023-09-09 |
-| [Here Again](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Kazmyn](https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu) | [Here Again / Wild Again](https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd) | 3:47 | 2024-11-08 |  |
+| [Here Again](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Kazmyn](https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu) | [Here Again / Wild Again](https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd) | 3:47 | 2024-11-08 | 2024-12-26 |
 | [Here on My Own](https://open.spotify.com/track/3jbm6LQn2wgRPBAEFqU8Hu) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 5:50 | 2020-03-20 | 2021-02-19 |
 | [Here With U](https://open.spotify.com/track/0ybQSH5KtXbPTcH9JuXEfD) | [Michael Mason](https://open.spotify.com/artist/6FVCXAh2mxOgRQutgoHRPJ) | [Here With U](https://open.spotify.com/album/1aSZAELKMTTiOLrmdhIWfX) | 3:12 | 2020-05-20 | 2020-10-09 |
 | [Heroes \(we could be\) \- Amtrac Remix](https://open.spotify.com/track/7anJjQNSjKhPfkvRGBKiHJ) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Heroes \(we could be\) \[The Remixes\]](https://open.spotify.com/album/03cpWxb3t38YrVTxBI62og) | 5:08 | 2020-05-18 | 2020-07-03 |
@@ -1432,6 +1432,7 @@
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2022-07-01 | 2022-10-13 |
 | [Summer Love \- Jan Blomqvist Remix](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Summer Love \(Jan Blomqvist Remix\)](https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i) | 5:49 | 2023-09-22 | 2024-08-03 |
 | [Summertime](https://open.spotify.com/track/21CBWF1OV9OrAz9votwzVN) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [New Blood](https://open.spotify.com/album/1mYDKw3w4jPWautkQEs56K) | 3:42 | 2020-05-18 | 2020-07-03 |
+| [sun goes down](https://open.spotify.com/track/5v11oJ61beKkh7Ls2ukLPt) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [sun goes down](https://open.spotify.com/album/2Xcc4avjo74XPgl6B5mKkR) | 2:28 | 2024-12-20 |  |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-08-26 | 2022-09-10 |
 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 | 2022-08-26 | 2022-09-10 |
 | [Sunday Song](https://open.spotify.com/track/2P4wRFA7ftewX1JdN3On2K) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Sunday Song](https://open.spotify.com/album/74R8jlQqkBESah1EvRHjPy) | 4:29 | 2020-02-29\* | 2022-01-21 |

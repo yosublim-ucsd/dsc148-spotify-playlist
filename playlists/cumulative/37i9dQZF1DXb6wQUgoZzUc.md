@@ -4,7 +4,7 @@
 
 > Un perreito en la pared...
 
-510 songs - 1 day 4 hr 5 min
+511 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,8 +512,9 @@
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-03-08 | 2023-02-18 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-12-31 |  |
 | [Yoshi](https://open.spotify.com/track/2wHtUYtX0RReivbfA8jD5K) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:22 | 2023-11-17 | 2024-01-28 |
+| [Éxito](https://open.spotify.com/track/1OJhf9KF9m5YuLTqUvaVs9) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Papi Arca](https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN) | 3:29 | 2024-12-20 |  |
 | [Ñero Session 11](https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Ñero Session 11](https://open.spotify.com/album/18UE8orLDwFNWcTo4n8UAr) | 3:06 | 2024-04-12 | 2024-04-27 |
-| [Ñero Session 13](https://open.spotify.com/track/71fQ9SYkunt7NbfMEL2AcR) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Ñero Session 13](https://open.spotify.com/album/6XlYXCYcKST0zvDeaxjMeM) | 2:49 | 2024-08-23 |  |
+| [Ñero Session 13](https://open.spotify.com/track/71fQ9SYkunt7NbfMEL2AcR) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Ñero Session 13](https://open.spotify.com/album/6XlYXCYcKST0zvDeaxjMeM) | 2:49 | 2024-08-23 | 2024-12-26 |
 | [Ñero Session 23](https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Ñero Session 23](https://open.spotify.com/album/6qN493Dqvx508buRITESb6) | 2:44 | 2024-07-12 |  |
 | [Ñero Session 7](https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal) | [Ñero Session 7](https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB) | 3:03 | 2023-09-29 | 2023-11-18 |
 | [Ñero Session 9](https://open.spotify.com/track/25436Um1IRszqdgUJhbeEp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Ñero Session 9](https://open.spotify.com/album/3TSe0oswvNGwkq9N0qUt0L) | 2:31 | 2024-01-19 | 2024-02-24 |

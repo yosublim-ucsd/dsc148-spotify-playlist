@@ -1,6 +1,6 @@
 {
   "description": "Your chill anime soundtrack. Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 144051,
+  "num_followers": 144134,
   "original_name": "After School Vibes",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-12-03 00:48:38",
       "album": {
-        "name": "Howl's Moving Castle Theme",
-        "url": "https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw"
-      },
-      "artists": [
-        {
-          "name": "Kyle Landry",
-          "url": "https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59"
-        }
-      ],
-      "duration_ms": 350347,
-      "name": "Howl's Moving Castle Theme",
-      "url": "https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN"
-    },
-    {
-      "added_at": "2024-12-03 00:48:38",
-      "album": {
         "name": "TODAY IS ANOTHER DAY",
         "url": "https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 269803,
       "name": "DAN DAN \u5fc3\u9b45\u304b\u308c\u3066\u304f",
       "url": "https://open.spotify.com/track/0F1G4ssr0RMdm9h0GEbt40"
+    },
+    {
+      "added_at": "2024-12-03 00:48:38",
+      "album": {
+        "name": "Howl's Moving Castle Theme",
+        "url": "https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw"
+      },
+      "artists": [
+        {
+          "name": "Kyle Landry",
+          "url": "https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59"
+        }
+      ],
+      "duration_ms": 350347,
+      "name": "Howl's Moving Castle Theme",
+      "url": "https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN"
     }
   ],
   "unique_name": "After School Vibes",

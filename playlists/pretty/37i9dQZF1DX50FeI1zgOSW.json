@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sandhya Chari",
-  "num_followers": 13972,
+  "num_followers": 13976,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2j8xwAAAAAC7jH6BseCUzteuaOm0jyc",
+  "snapshot_id": "Z2ufGwAAAACEpdt+bud9SaQBbPOOUR6x",
   "tracks": [
     {
       "added_at": "2024-10-18 04:57:06",
@@ -41,40 +41,20 @@
       "url": "https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x"
     },
     {
-      "added_at": "2024-10-18 04:54:06",
+      "added_at": "2024-12-25 05:58:51",
       "album": {
-        "name": "Quarter Gaali",
-        "url": "https://open.spotify.com/album/5SnW2c83hJ1QMbV2Bu2fRi"
+        "name": "Aiyaiyo (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/38wMfEJRXG5GwolTwhGqu7"
       },
       "artists": [
         {
-          "name": "FSPROD Vinu",
-          "url": "https://open.spotify.com/artist/5yQd0LJ7Xwb31XIIAw354J"
+          "name": "Samuel Nicholas",
+          "url": "https://open.spotify.com/artist/4HzOMT90RRZ7p1SzMtqVCr"
         }
       ],
-      "duration_ms": 228885,
-      "name": "Quarter Gaali",
-      "url": "https://open.spotify.com/track/3jlVcnJ0bvhYw355UV9gVd"
-    },
-    {
-      "added_at": "2024-09-19 11:35:34",
-      "album": {
-        "name": "Thodarum Intha Payanam",
-        "url": "https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7"
-      },
-      "artists": [
-        {
-          "name": "Rama Priya Yegasivanathan",
-          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
-        },
-        {
-          "name": "Sahul",
-          "url": "https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO"
-        }
-      ],
-      "duration_ms": 280725,
-      "name": "Thodarum Intha Payanam",
-      "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
+      "duration_ms": 165593,
+      "name": "Aiyaiyo - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/2JgWN3U4p9UjgQTOBMtZPx"
     },
     {
       "added_at": "2024-12-23 05:34:44",
@@ -97,32 +77,104 @@
       "url": "https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3"
     },
     {
-      "added_at": "2024-11-21 13:15:52",
+      "added_at": "2024-09-19 11:35:34",
       "album": {
-        "name": "Alaadhi",
-        "url": "https://open.spotify.com/album/1IJSPPFMH04JPB3vBHI92E"
+        "name": "Thodarum Intha Payanam",
+        "url": "https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7"
       },
       "artists": [
         {
-          "name": "Shriram Sachi",
-          "url": "https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd"
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
         },
         {
-          "name": "Varuon Thushyanthan",
-          "url": "https://open.spotify.com/artist/40V6eANkXWAQtcxSVRjjWQ"
-        },
-        {
-          "name": "Megan Dhakshini",
-          "url": "https://open.spotify.com/artist/54eEBOKchW4drD36lOlIEp"
-        },
-        {
-          "name": "Sagishna Xavier",
-          "url": "https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex"
+          "name": "Sahul",
+          "url": "https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO"
         }
       ],
-      "duration_ms": 265183,
-      "name": "Alaadhi",
-      "url": "https://open.spotify.com/track/4UVekDlBRIP1On3kkJiah5"
+      "duration_ms": 280725,
+      "name": "Thodarum Intha Payanam",
+      "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
+    },
+    {
+      "added_at": "2024-12-19 11:22:09",
+      "album": {
+        "name": "Parakkiren Naan",
+        "url": "https://open.spotify.com/album/7jhdn9F7QtFXK8YVhQO7SN"
+      },
+      "artists": [
+        {
+          "name": "Roja Aditya",
+          "url": "https://open.spotify.com/artist/6g551keqGM5TQ6KOrvfSNQ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Parakkiren Naan",
+      "url": "https://open.spotify.com/track/5upbB3hM61InhJBHHpeT7N"
+    },
+    {
+      "added_at": "2024-11-25 06:30:12",
+      "album": {
+        "name": "Junjujukum Bojalo (Bb Vox)",
+        "url": "https://open.spotify.com/album/3ILj97p3SofQRgUDKbAw4y"
+      },
+      "artists": [
+        {
+          "name": "Orjunn",
+          "url": "https://open.spotify.com/artist/5aEyedq28oCJ3UEnBrhJUY"
+        }
+      ],
+      "duration_ms": 75200,
+      "name": "Junjujukum Bojalo - Bb Vox",
+      "url": "https://open.spotify.com/track/5EzdwQAb4mY3Lkm29lgHeT"
+    },
+    {
+      "added_at": "2024-11-25 06:20:32",
+      "album": {
+        "name": "Azhagana Kadhali",
+        "url": "https://open.spotify.com/album/6EUzqEp4WRA7rzZ3sGJrtI"
+      },
+      "artists": [
+        {
+          "name": "Vibin Kumar",
+          "url": "https://open.spotify.com/artist/742EmbLi9qjhahiOJWDPEz"
+        }
+      ],
+      "duration_ms": 246575,
+      "name": "Azhagana Kadhali",
+      "url": "https://open.spotify.com/track/2JFRYYfoUyvSt2Zkjft2jT"
+    },
+    {
+      "added_at": "2024-12-05 06:19:59",
+      "album": {
+        "name": "GIJILI",
+        "url": "https://open.spotify.com/album/3AUWM1TnIoxjEPYxTQmTOr"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        }
+      ],
+      "duration_ms": 195242,
+      "name": "GIJILI",
+      "url": "https://open.spotify.com/track/4kPn8DObatOIyMKQMwlyS3"
+    },
+    {
+      "added_at": "2024-10-18 04:54:06",
+      "album": {
+        "name": "Quarter Gaali",
+        "url": "https://open.spotify.com/album/5SnW2c83hJ1QMbV2Bu2fRi"
+      },
+      "artists": [
+        {
+          "name": "FSPROD Vinu",
+          "url": "https://open.spotify.com/artist/5yQd0LJ7Xwb31XIIAw354J"
+        }
+      ],
+      "duration_ms": 228885,
+      "name": "Quarter Gaali",
+      "url": "https://open.spotify.com/track/3jlVcnJ0bvhYw355UV9gVd"
     },
     {
       "added_at": "2024-12-19 11:21:15",
@@ -181,22 +233,6 @@
       "url": "https://open.spotify.com/track/7bv1X4yQzzJVFo9gcbbFvf"
     },
     {
-      "added_at": "2024-11-25 06:20:32",
-      "album": {
-        "name": "Azhagana Kadhali",
-        "url": "https://open.spotify.com/album/6EUzqEp4WRA7rzZ3sGJrtI"
-      },
-      "artists": [
-        {
-          "name": "Vibin Kumar",
-          "url": "https://open.spotify.com/artist/742EmbLi9qjhahiOJWDPEz"
-        }
-      ],
-      "duration_ms": 246575,
-      "name": "Azhagana Kadhali",
-      "url": "https://open.spotify.com/track/2JFRYYfoUyvSt2Zkjft2jT"
-    },
-    {
       "added_at": "2024-11-20 05:23:16",
       "album": {
         "name": "Olti Vudu",
@@ -215,54 +251,6 @@
       "duration_ms": 160874,
       "name": "Olti Vudu",
       "url": "https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh"
-    },
-    {
-      "added_at": "2024-12-19 11:22:09",
-      "album": {
-        "name": "Parakkiren Naan",
-        "url": "https://open.spotify.com/album/7jhdn9F7QtFXK8YVhQO7SN"
-      },
-      "artists": [
-        {
-          "name": "Roja Aditya",
-          "url": "https://open.spotify.com/artist/6g551keqGM5TQ6KOrvfSNQ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Parakkiren Naan",
-      "url": "https://open.spotify.com/track/5upbB3hM61InhJBHHpeT7N"
-    },
-    {
-      "added_at": "2024-12-05 06:19:59",
-      "album": {
-        "name": "GIJILI",
-        "url": "https://open.spotify.com/album/3AUWM1TnIoxjEPYxTQmTOr"
-      },
-      "artists": [
-        {
-          "name": "ADY KRIZ",
-          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
-        }
-      ],
-      "duration_ms": 195242,
-      "name": "GIJILI",
-      "url": "https://open.spotify.com/track/4kPn8DObatOIyMKQMwlyS3"
-    },
-    {
-      "added_at": "2024-11-25 06:30:12",
-      "album": {
-        "name": "Junjujukum Bojalo (Bb Vox)",
-        "url": "https://open.spotify.com/album/3ILj97p3SofQRgUDKbAw4y"
-      },
-      "artists": [
-        {
-          "name": "Orjunn",
-          "url": "https://open.spotify.com/artist/5aEyedq28oCJ3UEnBrhJUY"
-        }
-      ],
-      "duration_ms": 75200,
-      "name": "Junjujukum Bojalo - Bb Vox",
-      "url": "https://open.spotify.com/track/5EzdwQAb4mY3Lkm29lgHeT"
     },
     {
       "added_at": "2024-12-05 06:36:34",
@@ -469,26 +457,6 @@
       "url": "https://open.spotify.com/track/6raLTHOzFZxCubRSJtiKH9"
     },
     {
-      "added_at": "2024-12-13 11:21:28",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/5X5R50RKlsXPo3zKZnf1jz"
-      },
-      "artists": [
-        {
-          "name": "Mc Bhaashi",
-          "url": "https://open.spotify.com/artist/7lZin56OSjFKERgNRdQetu"
-        },
-        {
-          "name": "Kronixx Beatz",
-          "url": "https://open.spotify.com/artist/3g0ARpBNmP6uSSzPXuW2SJ"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/2VxxQVa3U732LlzN0dn3FF"
-    },
-    {
       "added_at": "2024-09-16 12:16:54",
       "album": {
         "name": "Toxic Kadhal",
@@ -553,22 +521,6 @@
       "url": "https://open.spotify.com/track/4avs3tmaqjboKR4QiEF02Y"
     },
     {
-      "added_at": "2024-12-16 12:35:52",
-      "album": {
-        "name": "Naai La Gandam (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/174jBUDT9rsOT8OEFVAdz8"
-      },
-      "artists": [
-        {
-          "name": "Srikanth KVB",
-          "url": "https://open.spotify.com/artist/6W4s4ZE6Rxg7N8Tyj0vJtT"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Naai La Gandam (Original Soundtrack)",
-      "url": "https://open.spotify.com/track/2rmeIf9AYftwtJH3Zpglox"
-    },
-    {
       "added_at": "2024-10-18 05:10:41",
       "album": {
         "name": "Oru Vazhip Paatha",
@@ -595,42 +547,6 @@
       "duration_ms": 193500,
       "name": "Oru Vazhip Paatha",
       "url": "https://open.spotify.com/track/5KNWO4AbtG5LBKt03aXh3N"
-    },
-    {
-      "added_at": "2024-12-16 12:35:52",
-      "album": {
-        "name": "Irave",
-        "url": "https://open.spotify.com/album/1GaGloMbXbuLRvOHqcNbHR"
-      },
-      "artists": [
-        {
-          "name": "Azer farzy",
-          "url": "https://open.spotify.com/artist/1Ypyejd2CL9WwdQZaLIjeC"
-        }
-      ],
-      "duration_ms": 201254,
-      "name": "Irave",
-      "url": "https://open.spotify.com/track/3pDGt2dpOJJhW9QMSYHK2f"
-    },
-    {
-      "added_at": "2024-11-12 01:04:31",
-      "album": {
-        "name": "Toronto Ponnu",
-        "url": "https://open.spotify.com/album/27SM4A1kqDLmhorc3hBp4a"
-      },
-      "artists": [
-        {
-          "name": "Vidushaan",
-          "url": "https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB"
-        },
-        {
-          "name": "Darshikan",
-          "url": "https://open.spotify.com/artist/2QznH02fqwtDUfaLpCMd2R"
-        }
-      ],
-      "duration_ms": 247031,
-      "name": "Toronto Ponnu",
-      "url": "https://open.spotify.com/track/3HrJDBYIIbkXROmZ9YqV3B"
     },
     {
       "added_at": "2024-12-16 12:35:52",
@@ -669,42 +585,6 @@
       "url": "https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj"
     },
     {
-      "added_at": "2024-09-19 11:30:22",
-      "album": {
-        "name": "Morattu School (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/3YZA8jwPh9YHz8d6ycrIUz"
-      },
-      "artists": [
-        {
-          "name": "Madurai Souljour",
-          "url": "https://open.spotify.com/artist/2g5UezCgVx9a3h8Ub5io0F"
-        },
-        {
-          "name": "Syan Saheer",
-          "url": "https://open.spotify.com/artist/3HIsm0H9DN47NZpHzOx8n9"
-        },
-        {
-          "name": "Senthuzhan",
-          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
-        },
-        {
-          "name": "Nowsa G",
-          "url": "https://open.spotify.com/artist/6JnLqE6htWnUihm5sJaK71"
-        },
-        {
-          "name": "Robin",
-          "url": "https://open.spotify.com/artist/2CPmjbtBNgcIo0nBVQCqIg"
-        },
-        {
-          "name": "Kidakuzhi Mariyammal",
-          "url": "https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Morattu School - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/1IPTaRV1I8lAY5QoduIE4K"
-    },
-    {
       "added_at": "2024-10-04 05:12:27",
       "album": {
         "name": "Naan Vaanil Parappen",
@@ -739,34 +619,6 @@
       "duration_ms": 142169,
       "name": "BACHELOR PARTY",
       "url": "https://open.spotify.com/track/34wSQJTGR7iEU96azpgEz1"
-    },
-    {
-      "added_at": "2024-09-20 05:37:49",
-      "album": {
-        "name": "Zudari",
-        "url": "https://open.spotify.com/album/2TBvVsKCHcxXF7B5tX5SWl"
-      },
-      "artists": [
-        {
-          "name": "Praxxii",
-          "url": "https://open.spotify.com/artist/19qRy4jkw44VKBvTR69HKZ"
-        },
-        {
-          "name": "Vivian Leen",
-          "url": "https://open.spotify.com/artist/1tAENFBmt9JdOCZWs97hwg"
-        },
-        {
-          "name": "Rithwik",
-          "url": "https://open.spotify.com/artist/37DL49l1iS2lwGf386tFaW"
-        },
-        {
-          "name": "Namitha Pradeep",
-          "url": "https://open.spotify.com/artist/4oLnkWtKgITujp4j6wBAQ8"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Zudari",
-      "url": "https://open.spotify.com/track/00Pq6beAl0vQaxBEKGR4Q5"
     },
     {
       "added_at": "2024-10-18 05:21:36",
@@ -905,42 +757,6 @@
       "url": "https://open.spotify.com/track/2WDhkon2LhFpUPWvAwqpwL"
     },
     {
-      "added_at": "2024-11-04 04:20:24",
-      "album": {
-        "name": "Pasumayile",
-        "url": "https://open.spotify.com/album/2txonFEwdelXgauqdMreAd"
-      },
-      "artists": [
-        {
-          "name": "V. Kiran Varsith",
-          "url": "https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP"
-        },
-        {
-          "name": "jhon victor",
-          "url": "https://open.spotify.com/artist/0Xf0UjqV9arPtYk0iFxFpN"
-        }
-      ],
-      "duration_ms": 207425,
-      "name": "Pasumayile",
-      "url": "https://open.spotify.com/track/6Udk6PfmbOo2s4rwgM9bvF"
-    },
-    {
-      "added_at": "2024-09-20 05:42:15",
-      "album": {
-        "name": "Vizhiyile",
-        "url": "https://open.spotify.com/album/6ZDM2chU0tslYpH7W8qpjk"
-      },
-      "artists": [
-        {
-          "name": "Rudhraa Boi",
-          "url": "https://open.spotify.com/artist/2IsbOR37f9yz5cAU1ZF3pd"
-        }
-      ],
-      "duration_ms": 155453,
-      "name": "Vizhiyile",
-      "url": "https://open.spotify.com/track/5glMjCxpAqUmVTrMLyHt44"
-    },
-    {
       "added_at": "2024-10-04 05:12:27",
       "album": {
         "name": "Nee",
@@ -975,22 +791,6 @@
       "duration_ms": 227200,
       "name": "Arakkiye",
       "url": "https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk"
-    },
-    {
-      "added_at": "2024-09-30 07:50:04",
-      "album": {
-        "name": "Usuru Motham",
-        "url": "https://open.spotify.com/album/271FpH1atiqoGg53OaQTbe"
-      },
-      "artists": [
-        {
-          "name": "Sanathan Shree Krishnan",
-          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Usuru Motham",
-      "url": "https://open.spotify.com/track/4MbDnGT1Ukl3UAb0Z9Zxsv"
     },
     {
       "added_at": "2024-08-28 07:37:29",
@@ -1043,22 +843,6 @@
       "duration_ms": 249653,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/0Gw4zIJJpCzAJSwsMpcuVJ"
-    },
-    {
-      "added_at": "2024-09-13 05:21:10",
-      "album": {
-        "name": "The Woahhh Song",
-        "url": "https://open.spotify.com/album/6kz9WebGEgaqWSCjQ76y18"
-      },
-      "artists": [
-        {
-          "name": "Jaison Siva",
-          "url": "https://open.spotify.com/artist/20en5q74NI07Cj4nqYcREN"
-        }
-      ],
-      "duration_ms": 192197,
-      "name": "The Woahhh Song",
-      "url": "https://open.spotify.com/track/5ns1dASf7sRmTAPeMluUfi"
     },
     {
       "added_at": "2024-09-09 05:49:12",

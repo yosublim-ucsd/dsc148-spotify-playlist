@@ -1,6 +1,6 @@
 {
   "description": "A sonic wonderland of the latest mesmerizing tunes...",
-  "num_followers": 75156,
+  "num_followers": 75162,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Z2slNAAAAAAsk/FeO3d+BRIam/bkgzwr",
   "tracks": [
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
+        "name": "Acts of Faith",
+        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
+    },
     {
       "added_at": "2024-12-23 16:37:03",
       "album": {

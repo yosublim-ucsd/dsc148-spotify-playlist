@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36868,
+  "num_followers": 36869,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Warrior",
-        "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 148720,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Russian Blue",
         "url": "https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 209070,
       "name": "Russian Blue",
       "url": "https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 148720,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "oxygen",
-        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 184192,
-      "name": "oxygen",
-      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 214404,
       "name": "Fcuk!",
       "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 184192,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -559,38 +559,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162929,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
@@ -611,6 +579,22 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162929,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 179617,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "As Long as You Stay Here",
-        "url": "https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 115920,
-      "name": "As Long as You Stay Here",
-      "url": "https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Can't Be Loved",
         "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+        "name": "As Long as You Stay Here",
+        "url": "https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
         }
       ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+      "duration_ms": 115920,
+      "name": "As Long as You Stay Here",
+      "url": "https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -707,6 +691,22 @@
       "duration_ms": 190621,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
+        "name": "Long Year",
+        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 196246,
+      "name": "Long Year",
+      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
         "name": "Bored Of The Circus",
         "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 182817,
       "name": "Ashes By The Morning",
       "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "Long Year",
-        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 196246,
-      "name": "Long Year",
-      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2024-12-20 07:32:03",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-12-20 07:32:03",
       "album": {
-        "name": "all night",
-        "url": "https://open.spotify.com/album/19WyumxNi7EgpvCspY2t0F"
-      },
-      "artists": [
-        {
-          "name": "outofhere",
-          "url": "https://open.spotify.com/artist/5Tfwoxw3tFQX7FWxTcX2Rf"
-        }
-      ],
-      "duration_ms": 129190,
-      "name": "all night",
-      "url": "https://open.spotify.com/track/1eCdTHsE0dek7lKGavN9Z9"
-    },
-    {
-      "added_at": "2024-12-20 07:32:03",
-      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 177299,
       "name": "Sauvage",
       "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
+    },
+    {
+      "added_at": "2024-12-20 07:32:03",
+      "album": {
+        "name": "all night",
+        "url": "https://open.spotify.com/album/19WyumxNi7EgpvCspY2t0F"
+      },
+      "artists": [
+        {
+          "name": "outofhere",
+          "url": "https://open.spotify.com/artist/5Tfwoxw3tFQX7FWxTcX2Rf"
+        }
+      ],
+      "duration_ms": 129190,
+      "name": "all night",
+      "url": "https://open.spotify.com/track/1eCdTHsE0dek7lKGavN9Z9"
     },
     {
       "added_at": "2024-12-20 07:32:03",

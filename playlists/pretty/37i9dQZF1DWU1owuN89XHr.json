@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 281811,
+  "num_followers": 281850,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Amo Esta Isla",
+        "url": "https://open.spotify.com/album/7jvAtbqVoxKAS9vR7vr4qG"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Yolanda",
+      "url": "https://open.spotify.com/track/2FtwxY4ZIzqkIX3EQn9sC4"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Sounds of Havana, Vol. 1",
         "url": "https://open.spotify.com/album/6LAgHUV1qLh2jQUyK3AGbU"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Amo Esta Isla",
-        "url": "https://open.spotify.com/album/7jvAtbqVoxKAS9vR7vr4qG"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Yolanda",
-      "url": "https://open.spotify.com/track/2FtwxY4ZIzqkIX3EQn9sC4"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "A mi lado",
         "url": "https://open.spotify.com/album/0rOqxGx0SPI8ZYnToq7HoE"
       },
@@ -1235,6 +1235,54 @@
       "duration_ms": 239717,
       "name": "A mi lado",
       "url": "https://open.spotify.com/track/6B1t254FqrOgPxmLTmRvxR"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0tveCb0Wi30pENdaIqM7Lj"
+      },
+      "artists": [
+        {
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Jur\u00e9",
+      "url": "https://open.spotify.com/track/5QnaXZj8VUrCHZ2NWuP4Y9"
+    },
+    {
+      "added_at": "2021-10-26 03:29:04",
+      "album": {
+        "name": "Vagamundo",
+        "url": "https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS"
+      },
+      "artists": [
+        {
+          "name": "Jorge Gamboa Patr\u00f3n",
+          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
+        }
+      ],
+      "duration_ms": 270453,
+      "name": "Sembrando Amor",
+      "url": "https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
     },
     {
       "added_at": "2022-01-11 03:05:13",
@@ -1259,54 +1307,6 @@
       "duration_ms": 280893,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0tveCb0Wi30pENdaIqM7Lj"
-      },
-      "artists": [
-        {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Jur\u00e9",
-      "url": "https://open.spotify.com/track/5QnaXZj8VUrCHZ2NWuP4Y9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
-    },
-    {
-      "added_at": "2021-10-26 03:29:04",
-      "album": {
-        "name": "Vagamundo",
-        "url": "https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS"
-      },
-      "artists": [
-        {
-          "name": "Jorge Gamboa Patr\u00f3n",
-          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
-        }
-      ],
-      "duration_ms": 270453,
-      "name": "Sembrando Amor",
-      "url": "https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1339,22 +1339,6 @@
       "duration_ms": 279440,
       "name": "Alfonsina y el Mar",
       "url": "https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "30 A\u00f1os",
-        "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Buscando un \u00c1ngel",
+      "url": "https://open.spotify.com/track/577tjKJ7OZ5Jh3RPXLAfvt"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "El Primer Amor",
         "url": "https://open.spotify.com/album/2Zh8iFi1H63FS7M9x6o7a2"
       },
@@ -1415,18 +1415,34 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
+        "name": "Quiero Cantar",
+        "url": "https://open.spotify.com/album/6FGLFDMuo03JjJ1OcViZRi"
       },
       "artists": [
         {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
         }
       ],
-      "duration_ms": 165160,
-      "name": "Buscando un \u00c1ngel",
-      "url": "https://open.spotify.com/track/577tjKJ7OZ5Jh3RPXLAfvt"
+      "duration_ms": 234040,
+      "name": "Tan Distintos (A Duo Con Edgar Oceransky)",
+      "url": "https://open.spotify.com/track/74F1KIP295hdmD2pAMySo9"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "30 A\u00f1os",
+        "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1447,22 +1463,6 @@
       "duration_ms": 285289,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Quiero Cantar",
-        "url": "https://open.spotify.com/album/6FGLFDMuo03JjJ1OcViZRi"
-      },
-      "artists": [
-        {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Tan Distintos (A Duo Con Edgar Oceransky)",
-      "url": "https://open.spotify.com/track/74F1KIP295hdmD2pAMySo9"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Los Grillos",
+      "url": "https://open.spotify.com/track/5tnqRDcrlgLphc0OE7k1gu"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "S\u00f3lo / Ni Tan S\u00f3lo 2",
         "url": "https://open.spotify.com/album/4nB4bxKtBnl30ZhYLs6o6T"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 266329,
       "name": "Ox\u00edgeno",
       "url": "https://open.spotify.com/track/4EKrkdIoEw7ki9VdODozi9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Los Grillos",
-      "url": "https://open.spotify.com/track/5tnqRDcrlgLphc0OE7k1gu"
     },
     {
       "added_at": "2021-07-29 16:46:05",

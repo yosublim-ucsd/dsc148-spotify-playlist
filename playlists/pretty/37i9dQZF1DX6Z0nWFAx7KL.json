@@ -1,6 +1,6 @@
 {
   "description": "easy and breezy",
-  "num_followers": 168307,
+  "num_followers": 168305,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Jazz Trumpet",
-        "url": "https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb"
-      },
-      "artists": [
-        {
-          "name": "SIQUE",
-          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
-        }
-      ],
-      "duration_ms": 120782,
-      "name": "Jazz Trumpet",
-      "url": "https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Wake Me Up",
         "url": "https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz"
       },
@@ -831,22 +815,18 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "That Kinda Love",
-        "url": "https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ"
+        "name": "Jazz Trumpet",
+        "url": "https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb"
       },
       "artists": [
         {
-          "name": "DJ Licious",
-          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
-        },
-        {
-          "name": "JIMINI",
-          "url": "https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn"
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
         }
       ],
-      "duration_ms": 164125,
-      "name": "That Kinda Love",
-      "url": "https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx"
+      "duration_ms": 120782,
+      "name": "Jazz Trumpet",
+      "url": "https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -871,34 +851,22 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi"
+        "name": "That Kinda Love",
+        "url": "https://open.spotify.com/album/7DzgRJKoXPUbkHsnxOnASQ"
       },
       "artists": [
         {
-          "name": "Safe Wave",
-          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
-        "name": "Nomads",
-        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
-      },
-      "artists": [
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        },
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "JIMINI",
+          "url": "https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn"
         }
       ],
-      "duration_ms": 229687,
-      "name": "Nomads",
-      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
+      "duration_ms": 164125,
+      "name": "That Kinda Love",
+      "url": "https://open.spotify.com/track/6xaKJufSjgKoYlJt2UNnLx"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -919,6 +887,38 @@
       "duration_ms": 269679,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "Nomads",
+      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi"
+      },
+      "artists": [
+        {
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 142909,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
         "name": "My Girl",
         "url": "https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu"
       },
@@ -1003,18 +1019,22 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
+        "name": "Calling Back",
+        "url": "https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm"
       },
       "artists": [
         {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        },
+        {
+          "name": "DAHR",
+          "url": "https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f"
         }
       ],
-      "duration_ms": 142909,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
+      "duration_ms": 305823,
+      "name": "Calling Back",
+      "url": "https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Not Your House",
-        "url": "https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Usually Quiet",
-          "url": "https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j"
-        }
-      ],
-      "duration_ms": 235918,
-      "name": "Not Your House",
-      "url": "https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
       },
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Calling Back",
-        "url": "https://open.spotify.com/album/6zN16gqm8p55JnQrMgQVkm"
+        "name": "Not Your House",
+        "url": "https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ"
       },
       "artists": [
         {
-          "name": "Mondingo",
-          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         },
         {
-          "name": "DAHR",
-          "url": "https://open.spotify.com/artist/1JNeB2VJpsZwlRHG06ph2f"
+          "name": "Usually Quiet",
+          "url": "https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j"
         }
       ],
-      "duration_ms": 305823,
-      "name": "Calling Back",
-      "url": "https://open.spotify.com/track/1a5C7KZkBcecZgo4tduyBt"
+      "duration_ms": 235918,
+      "name": "Not Your House",
+      "url": "https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy"
     },
     {
       "added_at": "2024-12-12 23:00:54",

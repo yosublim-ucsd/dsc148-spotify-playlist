@@ -5743,6 +5743,24 @@
     },
     {
       "album": {
+        "name": "Rel\u00edquias",
+        "url": "https://open.spotify.com/album/6eeqZFLbQeLvj3uyBokygQ"
+      },
+      "artists": [
+        {
+          "name": "Companhia do kaprixxo",
+          "url": "https://open.spotify.com/artist/7u4LPADrCy0Ok03X5bp9CA"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130351,
+      "name": "Baby Me Leva",
+      "url": "https://open.spotify.com/track/5uNVEe0mTmxb65YY1gtJXS"
+    },
+    {
+      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },
@@ -8858,6 +8876,32 @@
       "duration_ms": 104223,
       "name": "Bora Bill ( Speed Up )",
       "url": "https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL"
+    },
+    {
+      "album": {
+        "name": "Bota amor (Coloca Nela)",
+        "url": "https://open.spotify.com/album/4sxn5hMe4kdVGzqe72xLGt"
+      },
+      "artists": [
+        {
+          "name": "DJ GUSTAVO DA VS",
+          "url": "https://open.spotify.com/artist/0P9sGkINr33C0XNVNEIAIG"
+        },
+        {
+          "name": "MC CAROL 011",
+          "url": "https://open.spotify.com/artist/2nHLrRSXFJWJod42bGYxdP"
+        },
+        {
+          "name": "Mc Buret",
+          "url": "https://open.spotify.com/artist/2gcXNPBcTK2no0RRXNsFnu"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Bota amor (Coloca Nela)",
+      "url": "https://open.spotify.com/track/3zTluzNFjIXBeJiIXGoCOj"
     },
     {
       "album": {
@@ -27548,7 +27592,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 163846,
       "name": "Improv\u00e1vel",
       "url": "https://open.spotify.com/track/765bUCHNvQUnuEKPJBRYN3"
@@ -28564,6 +28608,24 @@
       "duration_ms": 442500,
       "name": "Jo\u00e3o 20 + Pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/2fbBspBFxHIKp6nv4D1A9i"
+    },
+    {
+      "album": {
+        "name": "Jo\u00e3o 20 + pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YYYzAuJS4VOHvSnPKJ3KA"
+      },
+      "artists": [
+        {
+          "name": "Vitor Santana",
+          "url": "https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289333,
+      "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2q6TyecFazAXXydaIZrjuz"
     },
     {
       "album": {
@@ -35746,7 +35808,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 227065,
       "name": "Million Years Ago",
       "url": "https://open.spotify.com/track/0ijHEBUBXIJPp5ubUkDLQi"
@@ -57268,7 +57330,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 173984,
       "name": "terminei recentemente",
       "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"

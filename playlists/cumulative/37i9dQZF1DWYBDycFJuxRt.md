@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Yo\-Sea \*👉 <a href="https://spice.eplus.jp/articles/334201">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Yo\-Sea \*👉 <a href="https://spice.eplus.jp/articles/334362">SPICE連動記事</a>をSPICEでチェック!
 
 9,015 songs - 23 day 7 hr 4 min
 

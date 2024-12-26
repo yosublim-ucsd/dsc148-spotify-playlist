@@ -4855,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "Romeo.",
+        "url": "https://open.spotify.com/album/2m9Lamm1w5pQU9pO3evOtZ"
+      },
+      "artists": [
+        {
+          "name": "GCFOREAL",
+          "url": "https://open.spotify.com/artist/7d85jErT1HPgYMQqMiwbDv"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144088,
+      "name": "Romeo.",
+      "url": "https://open.spotify.com/track/3aGf4j38Jqgg2kBpPkzr6Z"
+    },
+    {
+      "album": {
         "name": "YAKINE",
         "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
       },

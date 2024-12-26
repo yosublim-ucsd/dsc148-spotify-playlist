@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Alamat
 
-240 songs - 15 hr 5 min
+242 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1999](https://open.spotify.com/track/2VPFmPbdgKbU2FJ2caXMC5) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [1999](https://open.spotify.com/album/2CvhO76IfFWsRXyMjDoqj4) | 3:33 | 2024-09-06 | 2024-11-30 |
 | [7:07 \(Hay Buhay\)](https://open.spotify.com/track/5KesauCcOmAPJNUBPB3I3y) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [7:07 \(Hay Buhay\)](https://open.spotify.com/album/37Dhm53dSWWKUAO21BD2Mn) | 3:10 | 2024-07-02 | 2024-07-19 |
 | [A Tale of Us](https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O) | [Huni](https://open.spotify.com/artist/00ZKfj5ZkA4F4KvipCDZQc) | [A Tale of Us](https://open.spotify.com/album/0LEvapJu0hYIKtKo7Ak1JM) | 4:12 | 2024-07-02 | 2024-07-13 |
+| [Ako nalang](https://open.spotify.com/track/3Ujf4wZ44Yx4MAcnQnufUN) | [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Ako nalang](https://open.spotify.com/album/1VD9Ud7e7xPFmLUXucqLy8) | 3:41 | 2024-12-25 |  |
 | [Alipin](https://open.spotify.com/track/4M58QFY0zKnt2V2IPKsoy5) | [Khel Pangilinan](https://open.spotify.com/artist/39ZvrXAretQWcY8yDoWAtP) | [Alipin](https://open.spotify.com/album/4AD5QC9YS6u0flPv458gtE) | 3:55 | 2024-11-20 |  |
 | [Alitaptap](https://open.spotify.com/track/3M9ZlNsdyW7O5yWYYhkqip) | [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [Alitaptap](https://open.spotify.com/album/63v49wfOqvf4Z0NCMRtV1F) | 3:56 | 2024-07-11 | 2024-09-25 |
 | [all i do is cry](https://open.spotify.com/track/1C3Irw3T4piq1HTSSr5SIU) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears \(and then some\)](https://open.spotify.com/album/1yvLkOMPYN1Lngb8TJZBYY) | 4:40 | 2024-11-29 |  |
@@ -62,7 +63,7 @@
 | [FOOLISHLY](https://open.spotify.com/track/7Ei0sWKIjUA1Q5DlWAlhab) | [Lucas Miguel](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA), [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F) | [FOOLISHLY](https://open.spotify.com/album/7IawnKqyCJY4JXRp7PcQ0E) | 3:12 | 2024-07-02 | 2024-07-09 |
 | [Fruitcake \- From "Fruitcake"](https://open.spotify.com/track/6RMAZ62wCGBCoY7q86SkrH) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Fruitcake \(From "Fruitcake"\)](https://open.spotify.com/album/2Eb8N686jvzJXWjtF4kOZY) | 4:41 | 2024-07-02 | 2024-08-15 |
 | [Gabi](https://open.spotify.com/track/2WJv0Oat2e39R4iAWZVm0l) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2) | [Gabi](https://open.spotify.com/album/5MJpKfU02ZKk1pv1vCf2Rb) | 4:25 | 2024-08-14 | 2024-11-21 |
-| [Gabriel](https://open.spotify.com/track/2xc2MkE3KzL7Bp0tCglMYG) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Gabriel](https://open.spotify.com/album/7Cx9zjpHJnfuOqZ7e5afjh) | 2:48 | 2024-11-04 |  |
+| [Gabriel](https://open.spotify.com/track/2xc2MkE3KzL7Bp0tCglMYG) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Gabriel](https://open.spotify.com/album/7Cx9zjpHJnfuOqZ7e5afjh) | 2:48 | 2024-11-04 | 2024-12-26 |
 | [Ganda Gandahan](https://open.spotify.com/track/7z0v3qOhT5DxMJIDdOsDb3) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/1FmM5DN3H4TgA4c8gdEl7G) | 3:34 | 2024-11-13 |  |
 | [Ganda Gandahan](https://open.spotify.com/track/257uKMQiyZ4audCBnYOeHc) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/2ks1JP6W8xJugERaZa4vYU) | 3:36 | 2024-11-08 | 2024-11-14 |
 | [GG](https://open.spotify.com/track/5qi4ZF1dTd0xiZMza4F282) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [GG](https://open.spotify.com/album/4pJKueoWBiN6xMcIEYke3q) | 4:00 | 2024-10-18 |  |
@@ -111,6 +112,7 @@
 | [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 | 2024-09-25 |  |
 | [lanamantayo](https://open.spotify.com/track/2W7YhtNKlOluSN4rFjCs3L) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [lanamantayo](https://open.spotify.com/album/2RoMwtu2ESdIt1HYYAStGs) | 3:25 | 2024-07-02 | 2024-07-09 |
 | [Langit](https://open.spotify.com/track/0mwJVnMPx7dUODRpBfFLzi) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Langit](https://open.spotify.com/album/0TXzVqUogh7QWTFdg8NtIS) | 4:18 | 2024-07-02 | 2024-09-25 |
+| [Last Christmas](https://open.spotify.com/track/6Qup707RazMQCWMZ634P41) | [Bugoy Drilon](https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8) | [Last Christmas](https://open.spotify.com/album/6rHFVlylIzRnNgk042i8jT) | 2:26 | 2024-12-25 |  |
 | [Lia](https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Lia](https://open.spotify.com/album/4gptphn7spep2ULaykVZLp) | 4:20 | 2024-07-12 | 2024-11-09 |
 | [Ligaw Na Bullet](https://open.spotify.com/track/2BL9FaDzqMagOViRAKjJCY) | [Denise Laurel](https://open.spotify.com/artist/0t4whsA8hlWvd5heJSlKln), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Ligaw Na Bullet](https://open.spotify.com/album/3sY1lY0ihlyzHLYSqVbHMI) | 2:47 | 2024-11-08 |  |
 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 | 2024-07-02 | 2024-08-24 |
@@ -182,7 +184,7 @@
 | [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-24 | 2024-12-05 |
 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-08 | 2024-09-25 |
 | [Ready](https://open.spotify.com/track/4JZocgyzKHdRF0iSOcodJn) | [apl.de.ap](https://open.spotify.com/artist/6LB6kuJjrGvRzAkH6ddeWt), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Ready](https://open.spotify.com/album/1YoZaseeQUSZ16qgD8qAet) | 3:58 | 2024-07-02 | 2024-08-10 |
-| [Right Lover, Wrong Time \(feat\. Arthur Miguel\)](https://open.spotify.com/track/2NC87lvkLludWJpaiIv2XS) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Right Lover, Wrong Time \(feat\. Arthur Miguel\)](https://open.spotify.com/album/1sCj6QMPqkKGKcThjOB1D6) | 3:35 | 2024-10-03 |  |
+| [Right Lover, Wrong Time \(feat\. Arthur Miguel\)](https://open.spotify.com/track/2NC87lvkLludWJpaiIv2XS) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Right Lover, Wrong Time \(feat\. Arthur Miguel\)](https://open.spotify.com/album/1sCj6QMPqkKGKcThjOB1D6) | 3:35 | 2024-10-03 | 2024-12-26 |
 | [Room](https://open.spotify.com/track/3WJo7bV3Hi9BgwnVq13SK6) | [Stell](https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0) | [Room](https://open.spotify.com/album/3yyf40UEKCP9sZbAxYdGih) | 3:43 | 2024-07-02 | 2024-08-17 |
 | [Sa 'Yo Pa Rin Uuwi](https://open.spotify.com/track/1VwtA3bfxNEWjAlCSwXrA7) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Sa 'Yo Pa Rin Uuwi](https://open.spotify.com/album/05GMAbnmxdypLFhlnom1fd) | 3:40 | 2024-12-16 |  |
 | [Sabado Night](https://open.spotify.com/track/5RtqAvmQOp8gD6enenvW6Y) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Sabado Night](https://open.spotify.com/album/6A7IfJzNrlkXefG47fUNp6) | 3:00 | 2024-08-09 | 2024-11-09 |

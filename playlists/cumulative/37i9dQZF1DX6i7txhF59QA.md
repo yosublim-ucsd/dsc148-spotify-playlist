@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: MYTRO\(마이트로\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-931 songs - 2 day 5 hr 7 min
+932 songs - 2 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Crying and regretting](https://open.spotify.com/track/6zKqVHMRcewLI5wPS4SFA0) | [Maria](https://open.spotify.com/artist/3zX1qzXquYYO2AbRoBgHsa) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:35 | 2022-04-22 |  |
 | [Crying hill of Bakdaljae](https://open.spotify.com/track/0Owkf63icJvkT9CIXLNdXh) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 2:16 | 2022-04-22 | 2022-07-27 |
 | [Dad's romantic life](https://open.spotify.com/track/5F2W7RAe03OirKkXPvcRxo) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART8](https://open.spotify.com/album/5foFjCTKaWf5je3HLOvx8C) | 2:21 | 2022-04-22 | 2022-05-01 |
-| [Daejeon blues](https://open.spotify.com/track/5CLI1nNLHKe8DzkvYyMx23) | [Tae Yeon Kim](https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:13 | 2022-04-22 |  |
+| [Daejeon blues](https://open.spotify.com/track/5CLI1nNLHKe8DzkvYyMx23) | [Tae Yeon Kim](https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:13 | 2022-04-22 | 2024-12-26 |
 | [Daejeon's Blues](https://open.spotify.com/track/5lMItpvWtPLpoX9hWlNJmE) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 2:20 | 2022-04-22 | 2022-07-27 |
 | [Dalrae River](https://open.spotify.com/track/3BBImJ6rPQYbMo6V3C1mxV) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART10](https://open.spotify.com/album/5yzyorzCF8cBIhgXJZqXHN) | 3:28 | 2022-04-21 | 2022-06-20 |
 | [Damaged friendship](https://open.spotify.com/track/0EwJp4TBaRBGQpixTbLmtY) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART9](https://open.spotify.com/album/4CQykEkW6pgXHYCMbQfRCv) | 3:33 | 2022-04-22 | 2022-07-24 |
@@ -620,6 +620,7 @@
 | [Spark](https://open.spotify.com/track/2gmKdGU7ihqhsHokoTrwfm) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 2:11 | 2022-05-03 | 2022-05-24 |
 | [Spinning wheel](https://open.spotify.com/track/6JPp15R9D8ki6qT8SrkYrm) | [Hyeyeon Kang](https://open.spotify.com/artist/4hW9QstyUJL1ZcnxT248kN) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 2:51 | 2022-04-22 | 2024-12-25 |
 | [Spring](https://open.spotify.com/track/4m3e5ymvmme3pg9AcDKs3C) | [HONG JIN YOUNG](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Spring](https://open.spotify.com/album/1lsOEuIlmDfEm8WYkqFePD) | 3:25 | 2024-03-08 |  |
+| [Star Star](https://open.spotify.com/track/1VsJ7Bc2Q83Mhz4LyYMmbK) | [Park Seo Jin](https://open.spotify.com/artist/0mnHyTjHaxIAHVlAidU4tH) | ['It Turned out to be a Coma' Music Festival Winner's Benefit Song](https://open.spotify.com/album/44I1HV1oISN0sgjWy6Fol7) | 3:36 | 2024-12-23 |  |
 | [Starting point](https://open.spotify.com/track/36SFAX0GTnHuWazZsOS994) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 3:14 | 2022-04-22 | 2022-05-26 |
 | [Station](https://open.spotify.com/track/1VWetRsLz1Kk98P8nlSbyu) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART7](https://open.spotify.com/album/03aZK99AztPHiwh4XMta3i) | 2:24 | 2022-04-22 | 2022-07-29 |
 | [Still a dark night](https://open.spotify.com/track/2tszbnVVtgAaslE44rQHyf) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART31](https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX) | 2:59 | 2022-05-03 | 2022-06-23 |

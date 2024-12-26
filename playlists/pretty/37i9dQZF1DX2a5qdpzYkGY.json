@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12499,
+  "num_followers": 12501,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -165,22 +165,6 @@
       "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Ten-Day Interval",
-      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
-    },
-    {
       "added_at": "2024-08-29 04:26:03",
       "album": {
         "name": "Dream State",
@@ -199,6 +183,22 @@
       "duration_ms": 519603,
       "name": "Dream State",
       "url": "https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Ten-Day Interval",
+      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
       "added_at": "2024-04-18 20:16:24",
@@ -233,38 +233,6 @@
       "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 387666,
-      "name": "Constant Fear",
-      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
-    },
-    {
       "added_at": "2024-08-29 04:26:03",
       "album": {
         "name": "Soft Power",
@@ -283,6 +251,38 @@
       "duration_ms": 358826,
       "name": "Soft Power",
       "url": "https://open.spotify.com/track/3PPBJ6mj7Tzze05XGCCW07"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 387666,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
     },
     {
-      "added_at": "2022-05-17 23:06:45",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3"
-      },
-      "artists": [
-        {
-          "name": "slowave",
-          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
-        }
-      ],
-      "duration_ms": 199058,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
-    },
-    {
       "added_at": "2024-04-12 00:45:23",
       "album": {
         "name": "Something in the Room She Moves",
@@ -515,6 +499,22 @@
       "duration_ms": 188255,
       "name": "Materia",
       "url": "https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU"
+    },
+    {
+      "added_at": "2022-05-17 23:06:45",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3"
+      },
+      "artists": [
+        {
+          "name": "slowave",
+          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+        }
+      ],
+      "duration_ms": 199058,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
     },
     {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "The Dream of Delphi",
+        "url": "https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG"
+      },
+      "artists": [
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        }
+      ],
+      "duration_ms": 120840,
+      "name": "Breaking Up",
+      "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
+    },
+    {
       "added_at": "2024-10-24 20:55:02",
       "album": {
         "name": "Moon Kin",
@@ -711,22 +727,6 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "The Dream of Delphi",
-        "url": "https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG"
-      },
-      "artists": [
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
-        }
-      ],
-      "duration_ms": 120840,
-      "name": "Breaking Up",
-      "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Ugly Orange",
-        "url": "https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho"
-      },
-      "artists": [
-        {
-          "name": "yes/and",
-          "url": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"
-        }
-      ],
-      "duration_ms": 259724,
-      "name": "Ugly Orange",
-      "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
-    },
-    {
       "added_at": "2022-03-03 00:47:36",
       "album": {
         "name": "El Momento",
@@ -1143,6 +1127,22 @@
       "duration_ms": 199305,
       "name": "El Momento",
       "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Ugly Orange",
+        "url": "https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho"
+      },
+      "artists": [
+        {
+          "name": "yes/and",
+          "url": "https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98"
+        }
+      ],
+      "duration_ms": 259724,
+      "name": "Ugly Orange",
+      "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
     },
     {
       "added_at": "2024-04-12 00:45:23",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Logue",
+        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
+      },
+      "artists": [
+        {
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+        }
+      ],
+      "duration_ms": 234292,
+      "name": "Jinja Encounters",
+      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
+    },
+    {
       "added_at": "2024-04-23 00:31:13",
       "album": {
         "name": "Hell To The Liars (feat. NATURE)",
@@ -1263,22 +1279,6 @@
       "duration_ms": 571168,
       "name": "Hell To The Liars (feat. NATURE)",
       "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Logue",
-        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
-      },
-      "artists": [
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
-        }
-      ],
-      "duration_ms": 234292,
-      "name": "Jinja Encounters",
-      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
     },
     {
       "added_at": "2021-10-06 04:38:12",

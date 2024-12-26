@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18413,
+  "num_followers": 18415,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Live My Life",
-      "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 221693,
       "name": "Sexy 4 Eva",
       "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Wish You Hell - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 170360,
-      "name": "Wish You Hell",
-      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
+      "duration_ms": 182000,
+      "name": "Fuxk off",
+      "url": "https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG"
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
       },
       "artists": [
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Fuxk off",
-      "url": "https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu"
+      "duration_ms": 170360,
+      "name": "Wish You Hell",
+      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
     },
     {
       "added_at": "2024-10-08 11:00:53",

@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. <br/>Cover: Jan Roberts
 
-245 songs - 15 hr 6 min
+248 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Hopia](https://open.spotify.com/track/4nu366glQKT2HbdDhov3lE) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [afteryou.](https://open.spotify.com/album/4qPIKvJ3xiO7AyqPEFTlqc) | 4:42 | 2024-12-04 |  |
 | [Hoy!](https://open.spotify.com/track/7kTlnlBIKQvt2dQD1f58kE) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 4:21 | 2024-01-24 | 2024-04-11 |
 | [Hulaan](https://open.spotify.com/track/2i75Hz2OpChywxnUguC3Kw) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Hulaan](https://open.spotify.com/album/2jvtYVPReKC4CCQVNEYQOS) | 3:38 | 2024-01-31 | 2024-04-11 |
+| [Huling Liham](https://open.spotify.com/track/5lM05T9khhd1esKZNQ0u2p) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v), [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Huling Liham](https://open.spotify.com/album/6Ec7m4RcENPvxbvlgNQQtA) | 2:31 | 2024-12-25 |  |
 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/album/7GZBDFbz4L9aGnegmi8ZtF) | 3:18 | 2024-01-24 | 2024-04-19 |
 | [I Need You](https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL) | [Sam Mangubat](https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw) | [I Need You](https://open.spotify.com/album/3czIPEVrxzNqOsFcQYNAOf) | 3:09 | 2024-01-24 | 2024-02-22 |
 | [I'll Be Somebody You Want](https://open.spotify.com/track/7xCg44FlaaWMkyfAWhoSL1) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [I'll Be Somebody You Want](https://open.spotify.com/album/5J0PdxyEV1WClHdHpm2PEV) | 3:14 | 2024-07-03 | 2024-08-01 |
@@ -112,6 +113,7 @@
 | [Kulimlim](https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Kulimlim](https://open.spotify.com/album/6OhYBRH3PE4wH9t1Yfljpq) | 3:30 | 2024-10-23 |  |
 | [Kunan Mong Pic](https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Kunan Mong Pic](https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN) | 3:15 | 2024-05-24 | 2024-07-25 |
 | [Kung Uulitin](https://open.spotify.com/track/3pWGn9BsoCVXW9z3glZ9f4) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Kung Uulitin](https://open.spotify.com/album/1eGV9y6yf9hgW0QN1xRl0P) | 4:42 | 2024-02-07 | 2024-03-07 |
+| [Kupido Natin Manhid](https://open.spotify.com/track/3zwYgc3IW5Zw6cfuA0QE74) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [Kupido Natin Manhid](https://open.spotify.com/album/2hu0VoGTC0nUCGL3IkoYzz) | 3:14 | 2024-12-25 |  |
 | [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2024-01-24 | 2024-03-14 |
 | [Lahat Ng Bukas](https://open.spotify.com/track/3s39TR3Iarc2013cuvDGQ7) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v) | [Lahat Ng Bukas](https://open.spotify.com/album/7flIBguWZI3J5lURZT6Sbk) | 3:21 | 2024-02-14 | 2024-03-21 |
 | [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 | 2024-10-02 |  |
@@ -245,6 +247,7 @@
 | [Walang Alam](https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:05 | 2024-01-24 | 2024-08-29 |
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-08-07 |  |
 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 | 2024-01-24 | 2024-02-01 |
+| [WANHANIDBANDZ](https://open.spotify.com/track/5kfXBSWbG5txcZbauyf9hV) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [WANHANIDBANDZ](https://open.spotify.com/album/0QyY6FO4EUclOTSLU9mr8q) | 1:43 | 2024-12-25 |  |
 | [We Made It](https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [We Made It](https://open.spotify.com/album/2vd0mHXPGNEfvYK9PY5U2H) | 3:58 | 2024-01-24 | 2024-05-25 |
 | [Yakal](https://open.spotify.com/track/4JzqhgznaKNn1NK0qbE9Mp) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Yakal](https://open.spotify.com/album/6BkJQ8DocYPbJDSWZscCwv) | 3:33 | 2024-08-07 | 2024-09-05 |
 | [YIEE](https://open.spotify.com/track/3Jt1u39DvQbrXJ1FfARklr) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [YIEE](https://open.spotify.com/album/4SrvxGNf0rOViuxIdpfmBa) | 3:53 | 2024-10-02 |  |

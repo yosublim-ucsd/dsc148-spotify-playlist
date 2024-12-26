@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 121425,
+  "num_followers": 121474,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
-        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Castro",
-          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Con Tinta Roja",
-      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
         "name": "Me Emborrachar\u00e9",
         "url": "https://open.spotify.com/album/3wXwoHLYaapEjLT7xJvSgR"
       },
@@ -587,22 +571,18 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Julio Jaramillo",
-        "url": "https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9"
+        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
+        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
       },
       "artists": [
         {
-          "name": "Papaya Dada",
-          "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
-        },
-        {
-          "name": "Cumbia Club",
-          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
         }
       ],
-      "duration_ms": 143250,
-      "name": "Julio Jaramillo",
-      "url": "https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV"
+      "duration_ms": 178626,
+      "name": "Con Tinta Roja",
+      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -623,6 +603,26 @@
       "duration_ms": 262440,
       "name": "Me extra\u00f1ar\u00e1s",
       "url": "https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
+        "name": "Julio Jaramillo",
+        "url": "https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9"
+      },
+      "artists": [
+        {
+          "name": "Papaya Dada",
+          "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
+        },
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        }
+      ],
+      "duration_ms": 143250,
+      "name": "Julio Jaramillo",
+      "url": "https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV"
     },
     {
       "added_at": "2024-12-05 22:29:07",

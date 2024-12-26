@@ -1,6 +1,6 @@
 {
   "description": "chefin rei da tropa do mais novo ataca no funk",
-  "num_followers": 1403880,
+  "num_followers": 1403967,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -475,30 +475,6 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Acima De Mim S\u00f3 Deus",
-      "url": "https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto (feat. Veigh & Niink)",
       "url": "https://open.spotify.com/track/5Bp7TFENcgsdLCL8fMOSKs"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Acima De Mim S\u00f3 Deus",
+      "url": "https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB"
     },
     {
       "added_at": "2024-12-20 03:03:02",

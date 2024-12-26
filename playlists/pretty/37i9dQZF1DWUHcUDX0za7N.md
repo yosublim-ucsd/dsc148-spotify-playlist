@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Antiworld Gangsters
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,989 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,002 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 60 | [On Boiz](https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp) | [Ajé \(The Realest\)](https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy) | [On Boiz](https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm) | 2:23 |
 | 61 | [Influencer Girl](https://open.spotify.com/track/2OsCMidkvq6H6ckbfvSHTv) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [In Bils We Trust](https://open.spotify.com/album/3E7OKKaqJbcLpzHT8zVyDN) | 2:00 |
 | 62 | [BETELGEUSE](https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe), [Veelantyne](https://open.spotify.com/artist/4bRg2DHU6q0w50FUheWEnz), [s0ru](https://open.spotify.com/artist/3qBr0SHrFBc7FwOtCS1hyj), [Fred the Prod.](https://open.spotify.com/artist/1qp88C8AzFspKgERhcUlWA) | [BETELGEUSE](https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj) | 3:28 |
-| 63 | [System](https://open.spotify.com/track/1y6xfcsZVHcu29iv2WLSDw) | [TGUT](https://open.spotify.com/artist/623WZ64cXpmy7sYYz1BwOR), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [System](https://open.spotify.com/album/055nOXgofQYv5z4l1qsuX4) | 1:54 |
-| 64 | [One Night](https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Serenità](https://open.spotify.com/artist/4aExgMFrxhYAQPhzCf9VbQ) | [One Night](https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p) | 3:12 |
-| 65 | [Wake Up](https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn) | [Shoody B](https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Wake Up](https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh) | 3:03 |
+| 63 | [Wake Up](https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn) | [Shoody B](https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Wake Up](https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh) | 3:03 |
+| 64 | [System](https://open.spotify.com/track/1y6xfcsZVHcu29iv2WLSDw) | [TGUT](https://open.spotify.com/artist/623WZ64cXpmy7sYYz1BwOR), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [System](https://open.spotify.com/album/055nOXgofQYv5z4l1qsuX4) | 1:54 |
+| 65 | [One Night](https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Serenità](https://open.spotify.com/artist/4aExgMFrxhYAQPhzCf9VbQ) | [One Night](https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p) | 3:12 |
 | 66 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 |
 | 67 | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC) | 2:44 |
 | 68 | [Make It Out](https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O) | [Shegzy Marley](https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs), [Areezy](https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD) | [Make It Out](https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL) | 2:43 |

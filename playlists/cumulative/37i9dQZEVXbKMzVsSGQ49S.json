@@ -4866,7 +4866,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 129173,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
@@ -8006,7 +8006,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 190893,
       "name": "Dansa\u00f0u vindur",
       "url": "https://open.spotify.com/track/73ENMbFLYVEP9TWB0pUlaP"
@@ -9052,7 +9052,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -9494,7 +9494,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 189107,
       "name": "Draumaprins",
       "url": "https://open.spotify.com/track/0anpZWVGOxY1KTM0z5U8qS"
@@ -10852,7 +10852,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 138430,
       "name": "Elli Egils",
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
@@ -12454,7 +12454,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -14496,7 +14496,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 181695,
       "name": "Gemm\u00e9r Gemm\u00e9r",
       "url": "https://open.spotify.com/track/0q2TiBDwdGZ4B8g3M7dNuO"
@@ -15048,7 +15048,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 224072,
       "name": "Gle\u00f0i og fri\u00f0arj\u00f3l",
       "url": "https://open.spotify.com/track/7znHeSOkpkYNF3FhiHwFta"
@@ -15084,7 +15084,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 207029,
       "name": "Gle\u00f0ileg j\u00f3l (allir saman)",
       "url": "https://open.spotify.com/track/7pMiCG7s7FG4AAJAbIJQyv"
@@ -18520,7 +18520,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 124180,
       "name": "H\u00e1t\u00ed\u00f0 \u00ed b\u00e6",
       "url": "https://open.spotify.com/track/215PRYb4XK5OHe0lD7Hajj"
@@ -20982,7 +20982,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 162446,
       "name": "J\u00f3lin alls sta\u00f0ar",
       "url": "https://open.spotify.com/track/4AMkBUU7F6NXEbaWWVkiuP"
@@ -21000,7 +21000,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 117219,
       "name": "J\u00f3lin Eru A\u00f0 Koma",
       "url": "https://open.spotify.com/track/0ZXzxXSaoXlkwmVTTufTRV"
@@ -21040,6 +21040,28 @@
       "duration_ms": 172245,
       "name": "J\u00f3lin eru a\u00f0 koma",
       "url": "https://open.spotify.com/track/1EOM0Hs4xjlfybpdkJYlGJ"
+    },
+    {
+      "album": {
+        "name": "N\u00fa stendur miki\u00f0 til",
+        "url": "https://open.spotify.com/album/5fvBYDDFuMOfToaI1lqFnb"
+      },
+      "artists": [
+        {
+          "name": "Sigur\u00f0ur Gu\u00f0mundsson",
+          "url": "https://open.spotify.com/artist/0j0YjzQLf57Dc9tpehBDdU"
+        },
+        {
+          "name": "Memfismaf\u00edan",
+          "url": "https://open.spotify.com/artist/4WYUozUi0ap1WyOyIsOAJ7"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252818,
+      "name": "J\u00f3lin eru h\u00e9r",
+      "url": "https://open.spotify.com/track/1NGPB4mibApKm5ai7sz09B"
     },
     {
       "album": {
@@ -21180,7 +21202,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 138901,
       "name": "J\u00f3lin koma",
       "url": "https://open.spotify.com/track/6HMML1ao4RBNKBUYs0syYi"
@@ -22650,7 +22672,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 130392,
       "name": "Leikkona",
       "url": "https://open.spotify.com/track/3KF2ggQWnAJV5QyK0PbJu3"
@@ -30186,7 +30208,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 203254,
       "name": "PART\u00ddJ\u00d3L",
       "url": "https://open.spotify.com/track/0mnMSFmMdRHqwCs2XvBG7k"
@@ -31254,7 +31276,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 151034,
       "name": "prettyboi um j\u00f3lin",
       "url": "https://open.spotify.com/track/1b5uWFxqByS6LvcXIMQBrz"
@@ -44169,6 +44191,32 @@
     },
     {
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Ken Darby Singers",
+          "url": "https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi"
+        },
+        {
+          "name": "John Scott Trotter & His Orchestra",
+          "url": "https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "White Christmas - 1947 Version",
+      "url": "https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR"
+    },
+    {
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -45002,7 +45050,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 191564,
       "name": "Yfir fannhv\u00edta j\u00f6r\u00f0",
       "url": "https://open.spotify.com/track/4Xyt2dofqC23r6LCRlye7P"
@@ -46988,7 +47036,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 212989,
       "name": "\u00deegar J\u00f3lin Koma",
       "url": "https://open.spotify.com/track/2vHxw3Mne6cZqCbWxyXVit"
@@ -47350,7 +47398,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 212526,
       "name": "\u00de\u00fa Komst Me\u00f0 J\u00f3lin Til M\u00edn",
       "url": "https://open.spotify.com/track/4kOGrZrLC9Rw5lalje5azy"
@@ -47428,7 +47476,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 187306,
       "name": "\u00de\u00fa og \u00e9g",
       "url": "https://open.spotify.com/track/25jn8bLTAFYEHcOVNnxBrx"

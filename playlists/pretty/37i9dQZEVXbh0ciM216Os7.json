@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABD9H2sRU8QxXLniSJ7v5Bn",
+  "snapshot_id": "AAAAAAAAAAAuhRr5G6JvAg0mj9IpY4Vs",
   "tracks": [
     {
       "added_at": "2024-12-20 05:00:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "Una Velita",
         "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 163809,
       "name": "Una Velita",
       "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -107,6 +107,26 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
+        "name": "on it",
+        "url": "https://open.spotify.com/album/0ZrGT1ZgfGdb0rnOElztCx"
+      },
+      "artists": [
+        {
+          "name": "CPRCRN",
+          "url": "https://open.spotify.com/artist/3N7feSJ5L5LiXyBvcFVUPm"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 81104,
+      "name": "on it",
+      "url": "https://open.spotify.com/track/4rVk3Rax1Rswbzz2W8fqEv"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
         "name": "Melhores M\u00fasicas Internacionais 2024 e 2025",
         "url": "https://open.spotify.com/album/66qP8dk23TNyf7ZP8mmHyG"
       },
@@ -131,22 +151,26 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "on it",
-        "url": "https://open.spotify.com/album/0ZrGT1ZgfGdb0rnOElztCx"
+        "name": "Lift Me Up (feat. Moby)",
+        "url": "https://open.spotify.com/album/7m8lcfk9BYuSx2I4dqDfv7"
       },
       "artists": [
         {
-          "name": "CPRCRN",
-          "url": "https://open.spotify.com/artist/3N7feSJ5L5LiXyBvcFVUPm"
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 81104,
-      "name": "on it",
-      "url": "https://open.spotify.com/track/4rVk3Rax1Rswbzz2W8fqEv"
+      "duration_ms": 215652,
+      "name": "Lift Me Up (feat. Moby)",
+      "url": "https://open.spotify.com/track/1J74X8rQajxmXyJ1N6sF3P"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -199,30 +223,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Lift Me Up (feat. Moby)",
-        "url": "https://open.spotify.com/album/7m8lcfk9BYuSx2I4dqDfv7"
-      },
-      "artists": [
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        },
-        {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 215652,
-      "name": "Lift Me Up (feat. Moby)",
-      "url": "https://open.spotify.com/track/1J74X8rQajxmXyJ1N6sF3P"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "Viking Juice (The Butcher Mix)",
         "url": "https://open.spotify.com/album/03mFZMGI5fid2iXvdnqiNM"
       },
@@ -239,6 +239,34 @@
       "duration_ms": 193040,
       "name": "Viking Juice - The Butcher Mix",
       "url": "https://open.spotify.com/track/2ndjLJiYVXaqNUTSm8MuA0"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Frozyn Reign 2",
+        "url": "https://open.spotify.com/album/5aA92FyDJgjWZV2PdLicM9"
+      },
+      "artists": [
+        {
+          "name": "The Incomplete Orchestra",
+          "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Lone Wolf",
+          "url": "https://open.spotify.com/artist/6Ayr8qiIKESvHLOyabjpxC"
+        },
+        {
+          "name": "P-Earl Gray",
+          "url": "https://open.spotify.com/artist/2dsnZO9L1FbXybl2xKnDDi"
+        }
+      ],
+      "duration_ms": 246377,
+      "name": "Chi Mi Na Morbheanna - Unison Graduation Mix",
+      "url": "https://open.spotify.com/track/49FbmTNqvepS3Fcl63FXyC"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -291,22 +319,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Chest Pain (I Love)",
-        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -319,6 +331,22 @@
       "duration_ms": 135653,
       "name": "Empty Out Your Pockets",
       "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -371,22 +399,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "EL CL\u00faB",
-        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222568,
-      "name": "EL CL\u00faB",
-      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "Friday Night Lights",
         "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
       },
@@ -431,26 +443,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "Missionary",
-        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 163722,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "Maybe in Nirvana",
         "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
@@ -471,6 +463,26 @@
       "duration_ms": 175762,
       "name": "Hoe-nouns (feat. Thundercat & reggie)",
       "url": "https://open.spotify.com/track/3qLIji6UHZxgdifID1DGIZ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "Missionary",
+        "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 163722,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
     },
     {
       "added_at": "2024-12-20 05:00:00",
@@ -547,22 +559,6 @@
     {
       "added_at": "2024-12-20 05:00:00",
       "album": {
-        "name": "A Wonderful Holiday",
-        "url": "https://open.spotify.com/album/3X8ZzIzI0IdRQWmGv7h6uG"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Live In Love",
-      "url": "https://open.spotify.com/track/6ZBiQ0S0ZCHTOcflZAEfVd"
-    },
-    {
-      "added_at": "2024-12-20 05:00:00",
-      "album": {
         "name": "Triptyque : Balade astrale",
         "url": "https://open.spotify.com/album/39E2jV9jC2oDLitYuc7hgi"
       },
@@ -579,6 +575,22 @@
       "duration_ms": 203506,
       "name": "Benjamin B",
       "url": "https://open.spotify.com/track/2LbaDVLXucsYtUdPGWshfG"
+    },
+    {
+      "added_at": "2024-12-20 05:00:00",
+      "album": {
+        "name": "A Wonderful Holiday",
+        "url": "https://open.spotify.com/album/3X8ZzIzI0IdRQWmGv7h6uG"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 577118,
+      "name": "Holiday JamGoodTime",
+      "url": "https://open.spotify.com/track/2UJMvfQDL0jmCsBt2dIrxz"
     },
     {
       "added_at": "2024-12-20 05:00:00",

@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55866,
+      "name": "Psalm 150",
+      "url": "https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1"
+    },
+    {
+      "album": {
         "name": "Payable on Death (U.S. Version)",
         "url": "https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J"
       },

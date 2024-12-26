@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Ad\u00e1n Cruz en portada. ",
-  "num_followers": 16539,
+  "num_followers": 16544,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Un Desamor de Amor Propio",
-        "url": "https://open.spotify.com/album/3hFYMBH61deqvTu9isJzk2"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Un Desamor de Amor Propio",
-      "url": "https://open.spotify.com/track/6Ytc9zPWuy4jbwweovyFSq"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "bali .",
         "url": "https://open.spotify.com/album/2FN0ortSaO9f2WBZRYTT5x"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 132550,
       "name": "bali .",
       "url": "https://open.spotify.com/track/7slbwOTJmyABDs82VaURSC"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Un Desamor de Amor Propio",
+        "url": "https://open.spotify.com/album/3hFYMBH61deqvTu9isJzk2"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Un Desamor de Amor Propio",
+      "url": "https://open.spotify.com/track/6Ytc9zPWuy4jbwweovyFSq"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -547,30 +547,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Tatequieto",
-        "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
-      },
-      "artists": [
-        {
-          "name": "Juan Sinatra",
-          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
-        },
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "Ily Wonder",
-          "url": "https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI"
-        }
-      ],
-      "duration_ms": 152210,
-      "name": "Tatequieto",
-      "url": "https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "Atlanta",
         "url": "https://open.spotify.com/album/1M8RojczNaahkj0hIPgfzo"
       },
@@ -595,22 +571,26 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Cantinas Clandestinas",
-        "url": "https://open.spotify.com/album/08RNfijVdidvS4iL801z1e"
+        "name": "Tatequieto",
+        "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
       },
       "artists": [
         {
-          "name": "Seyer Black Art Gang",
-          "url": "https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG"
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
         },
         {
-          "name": "Pads Killah",
-          "url": "https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP"
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Ily Wonder",
+          "url": "https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI"
         }
       ],
-      "duration_ms": 243037,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t"
+      "duration_ms": 152210,
+      "name": "Tatequieto",
+      "url": "https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -643,6 +623,26 @@
       "duration_ms": 169756,
       "name": "Iluminado",
       "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Cantinas Clandestinas",
+        "url": "https://open.spotify.com/album/08RNfijVdidvS4iL801z1e"
+      },
+      "artists": [
+        {
+          "name": "Seyer Black Art Gang",
+          "url": "https://open.spotify.com/artist/0ajXUlyQnejinmO6xvBXtG"
+        },
+        {
+          "name": "Pads Killah",
+          "url": "https://open.spotify.com/artist/2GZ4RFJkhUfgZDSdDjbFDP"
+        }
+      ],
+      "duration_ms": 243037,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/18sOWAFBNwbZdVT9LUJK2t"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 185088,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/0kf1JB8AJNyML8HUB3fqKA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 211199,
       "name": "Til' I Die",
       "url": "https://open.spotify.com/track/3qIbuE2eWFz5TJaahCnWBd"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 185088,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
+        "name": "Grados Bajo Cero",
+        "url": "https://open.spotify.com/album/50pj6qEFTklii69YB0k2xU"
+      },
+      "artists": [
+        {
+          "name": "B.Costa",
+          "url": "https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i"
+        }
+      ],
+      "duration_ms": 179406,
+      "name": "inviernos",
+      "url": "https://open.spotify.com/track/5o1vK2BOk2h5SyT6c4pjMT"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
         "name": "CASI",
         "url": "https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 146666,
       "name": "CASI",
       "url": "https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Grados Bajo Cero",
-        "url": "https://open.spotify.com/album/50pj6qEFTklii69YB0k2xU"
-      },
-      "artists": [
-        {
-          "name": "B.Costa",
-          "url": "https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i"
-        }
-      ],
-      "duration_ms": 179406,
-      "name": "inviernos",
-      "url": "https://open.spotify.com/track/5o1vK2BOk2h5SyT6c4pjMT"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "ANOMAL\u00cdA",
-        "url": "https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy"
-      },
-      "artists": [
-        {
-          "name": "N4NO",
-          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
-        }
-      ],
-      "duration_ms": 210833,
-      "name": "LOOP \u221e",
-      "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "Tu No La Corrite",
         "url": "https://open.spotify.com/album/4k4CKCgs1SdrgFTOT07dke"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 196033,
       "name": "Tu No La Corrite",
       "url": "https://open.spotify.com/track/3nppZvNY6FE4HSA11LUfFV"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "ANOMAL\u00cdA",
+        "url": "https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy"
+      },
+      "artists": [
+        {
+          "name": "N4NO",
+          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
+        }
+      ],
+      "duration_ms": 210833,
+      "name": "LOOP \u221e",
+      "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Salmos",
-        "url": "https://open.spotify.com/album/6Rfot8iuv3rd9wpVvBkI32"
-      },
-      "artists": [
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        }
-      ],
-      "duration_ms": 215758,
-      "name": "Salmos",
-      "url": "https://open.spotify.com/track/3iVSrLMgMJRremITvXnmWz"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "Rapi\u00f1a",
         "url": "https://open.spotify.com/album/5rJFNfexwmZouC869LKmAK"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 145116,
       "name": "Matando Moscas",
       "url": "https://open.spotify.com/track/40Shb6T0pxEwWGJ6GDXR9z"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Salmos",
+        "url": "https://open.spotify.com/album/6Rfot8iuv3rd9wpVvBkI32"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        }
+      ],
+      "duration_ms": 215758,
+      "name": "Salmos",
+      "url": "https://open.spotify.com/track/3iVSrLMgMJRremITvXnmWz"
     },
     {
       "added_at": "2024-12-20 06:00:09",

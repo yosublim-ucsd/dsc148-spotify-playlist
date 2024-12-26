@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
-  "num_followers": 142574,
+  "num_followers": 142591,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Fica um Pouco Mais",
+        "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Fica um Pouco Mais",
+      "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Te procurando (Saturno)",
         "url": "https://open.spotify.com/album/356KtUTSYSU5khCZlEXWWb"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 169514,
       "name": "Te procurando (Saturno)",
       "url": "https://open.spotify.com/track/0d2hvijCjozSP5sZQtkFJg"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Fica um Pouco Mais",
-        "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Fica um Pouco Mais",
-      "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Bleeding Heart (Acoustic - Live At Opera de Arame)",
-        "url": "https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO"
-      },
-      "artists": [
-        {
-          "name": "ANGRA",
-          "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y"
-        }
-      ],
-      "duration_ms": 339626,
-      "name": "Bleeding Heart (Acoustic - Live At Opera de Arame)",
-      "url": "https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Polaroid Sonora",
         "url": "https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 256725,
       "name": "VOU ESTAR AQUI",
       "url": "https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Bleeding Heart (Acoustic - Live At Opera de Arame)",
+        "url": "https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO"
+      },
+      "artists": [
+        {
+          "name": "ANGRA",
+          "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y"
+        }
+      ],
+      "duration_ms": 339626,
+      "name": "Bleeding Heart (Acoustic - Live At Opera de Arame)",
+      "url": "https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Vida Real",
-        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
       },
       "artists": [
         {
-          "name": "Esteban Tavares",
-          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
         }
       ],
-      "duration_ms": 230565,
-      "name": "Vida Real",
-      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
+      "duration_ms": 216860,
+      "name": "Estive com Stevie",
+      "url": "https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -935,34 +935,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
+        "name": "Vida Real",
+        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
       "artists": [
         {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+          "name": "Esteban Tavares",
+          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
         }
       ],
-      "duration_ms": 216860,
-      "name": "Estive com Stevie",
-      "url": "https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Proposta",
-        "url": "https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle"
-      },
-      "artists": [
-        {
-          "name": "Davi Le\u00e3o",
-          "url": "https://open.spotify.com/artist/63PbB9qmaVblxOqBoOb2g7"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO"
+      "duration_ms": 230565,
+      "name": "Vida Real",
+      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 165489,
       "name": "Tudo Fica Bem - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle"
+      },
+      "artists": [
+        {
+          "name": "Davi Le\u00e3o",
+          "url": "https://open.spotify.com/artist/63PbB9qmaVblxOqBoOb2g7"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO"
     },
     {
       "added_at": "2024-10-18 03:00:00",

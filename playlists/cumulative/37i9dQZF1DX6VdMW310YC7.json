@@ -12754,7 +12754,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
@@ -28906,6 +28906,28 @@
       "duration_ms": 222426,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/21CBWF1OV9OrAz9votwzVN"
+    },
+    {
+      "album": {
+        "name": "sun goes down",
+        "url": "https://open.spotify.com/album/2Xcc4avjo74XPgl6B5mKkR"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148548,
+      "name": "sun goes down",
+      "url": "https://open.spotify.com/track/5v11oJ61beKkh7Ls2ukLPt"
     },
     {
       "album": {

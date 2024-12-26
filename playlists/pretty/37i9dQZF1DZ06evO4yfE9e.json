@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2ioAAAAAABuP+1iWyaNK3J63gICx18b",
+  "snapshot_id": "Z2n5gAAAAABITQWpajqYlyQGROKnRRNS",
   "tracks": [
     {
       "added_at": null,
@@ -455,26 +455,6 @@
       "duration_ms": 112566,
       "name": "Moonwater",
       "url": "https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wishin",
-        "url": "https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "Indigowavv",
-          "url": "https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Wishin",
-      "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
     }
   ],
   "unique_name": "This Is bludnymph",

@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Uriel VR en portada.
 
-495 songs - 1 day 2 hr 6 min
+496 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Se Ve el Brillo](https://open.spotify.com/track/516X09vL4YN6qYqpDrdgfj) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Se Ve el Brillo](https://open.spotify.com/album/4Ji6rmBKi9RmRJxzvTlo3Z) | 3:52 | 2022-07-01 | 2022-08-06 |
 | [Seca Tus Lagrimas](https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 1:56 | 2023-01-13 |  |
 | [Sembrando](https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:08 | 2022-07-01 | 2023-01-21 |
+| [Semáforo](https://open.spotify.com/track/1LJgko0zS6eulxrrpGOUxv) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Semáforo](https://open.spotify.com/album/4g2mcIpA1vYsbQnpBTc79W) | 3:09 | 2024-12-20 |  |
 | [Sencillito Y Serenito](https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Sencillito Y Serenito](https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l) | 2:57 | 2023-05-24 | 2023-06-08 |
 | [Sencillo Soy](https://open.spotify.com/track/2cVqu4Y1kveK3KuL1aXgNj) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Un Album Sencillo](https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH) | 2:52 | 2022-02-01 | 2023-07-01 |
 | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS) | 3:32 | 2023-01-27 | 2023-10-28 |
@@ -487,7 +488,7 @@
 | [Ya la Supe Hacer](https://open.spotify.com/track/01r4caKLqWwKBGlcjuzT9d) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya la Supe Hacer](https://open.spotify.com/album/4iUAJgOLrD9aiN4i1TB3ut) | 2:30 | 2024-06-28 | 2024-09-07 |
 | [Ya Me Está Pegando En Serio](https://open.spotify.com/track/0Q0oYoNHC5UVFpb66hRFkw) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ya Me Está Pegando En Serio](https://open.spotify.com/album/27WBG6Tq8pUcCZpM3uMu3g) | 3:33 | 2023-06-30 | 2023-07-15 |
 | [Ya me la sé](https://open.spotify.com/track/1kybe0vkhMzJ3lrpVnXqDi) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Ya me la sé](https://open.spotify.com/album/632xlhBw9VwPvgW7CFoTxp) | 1:57 | 2024-11-15 |  |
-| [Ya No Saben Igual](https://open.spotify.com/track/04So7ztX0zmpojweaXY0ss) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ya No Saben Igual](https://open.spotify.com/album/3os6HHMq9Nple7tvhWDFAn) | 2:52 | 2024-11-29 |  |
+| [Ya No Saben Igual](https://open.spotify.com/track/04So7ztX0zmpojweaXY0ss) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ya No Saben Igual](https://open.spotify.com/album/3os6HHMq9Nple7tvhWDFAn) | 2:52 | 2024-11-29 | 2024-12-26 |
 | [Ya Te Borre](https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [Ya Te Borre](https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p) | 3:25 | 2022-12-02 | 2023-01-13 |
 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 | 2021-12-27 |  |
 | [Ya Viví El Desamor](https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj) | [La Martita](https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz) | [Ya Viví El Desamor](https://open.spotify.com/album/54rgpyfRluG3hRXR7CQdPi) | 1:41 | 2022-04-01 | 2022-07-28 |

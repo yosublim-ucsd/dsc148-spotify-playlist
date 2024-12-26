@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,428 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,436 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 43 | [Back to Black](https://open.spotify.com/track/7qUU7gPJRgN3XkhrkdwCTg) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Discmorphia](https://open.spotify.com/album/1ba187ocIN64czJt2OD5li) | 3:39 |
 | 44 | [Kontula](https://open.spotify.com/track/4CGr7SVFInOu9u0JFKLQ8T) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [Playing Theremin](https://open.spotify.com/album/1JTgXVY0tfm78o1qTmBayS) | 2:48 |
 | 45 | [Lost in the Stars](https://open.spotify.com/track/1aieHIIr4qHQ2Rfk7g9ITv) | [Paul Tanner](https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23) | [Music for Heavenly Bodies](https://open.spotify.com/album/5ngZXMhfjJSzBb2VqJAQYE) | 2:23 |
-| 46 | [Nousta\-Needad \(Ascent\-Descent\)](https://open.spotify.com/track/38MgLHj3Z6gEu7XNObMvZx) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [American Contemporary Music Ensemble](https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO) | [Fantasias for Theremin and String Quartet](https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF) | 7:39 |
+| 46 | [Cantilena No\. 3 \(Arr\. for Theremin, Cello Quartet and Double Bass\)](https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Rebekka Markowski](https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc), [Roman Eyck](https://open.spotify.com/artist/7rZPR5skCsBsl5FaKqdX5s) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 3:10 |
 | 47 | [Waikiki Spleen](https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:19 |
 | 48 | [Theremin Concerto, Acht Jahreszeiten: VIII\. Mitternachtssonne \(8 Seasons: Midnight Sun\)](https://open.spotify.com/track/7JYmeyuFHxrjyhqEvcj7jr) | [Kalevi Aho](https://open.spotify.com/artist/2H8D4ju7R16n4IZD8TwUv9), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Lapin Kamariorkesteri](https://open.spotify.com/artist/58KjEYGktAvgFTcXJg4Rfm), [John Storgårds](https://open.spotify.com/artist/2TizFx4bl9T8efWXNuxWor) | [Aho: Theremin Concerto & Horn Concerto](https://open.spotify.com/album/7h7n0YHNk9vbzw8II0SaE3) | 7:10 |
 | 49 | [Celebrated Air](https://open.spotify.com/track/7gGiE9UeVzdyWBG27wBkHq) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Clara Rockmore's Lost Theremin Album](https://open.spotify.com/album/7FUnGjGbZPbAPAr5DhkalS) | 5:35 |

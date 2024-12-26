@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj?si=g4dREUaiRiqhyuk97lh8Eg>Uche Agu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,297 likes - 82 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,317 likes - 82 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 67 | [Love never fails](https://open.spotify.com/track/4vuamBZlYF93dz18OTQnXS) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [Love never fails](https://open.spotify.com/album/5ZCUIpuQwxjJNtbaDLERpd) | 3:04 |
 | 68 | [inflection: now i see II](https://open.spotify.com/track/52IN2GoNAoozDHwaOkEuP0) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Berita](https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ) | [inflection: now i see II](https://open.spotify.com/album/3yMjiNgMpcEZ8NFAJFb3SY) | 3:04 |
 | 69 | [Efik/Ibibio Worship Medley](https://open.spotify.com/track/72dzaetD3equAg7ppu2exs) | [Ity'Praise](https://open.spotify.com/artist/0ve30UDdU52RBVpghohzZE) | [Efik/Ibibio Worship Medley](https://open.spotify.com/album/61O4ZWOMzgWdGG9p4NBDBz) | 11:53 |
-| 70 | [Halle \(This Year\)](https://open.spotify.com/track/3PICul2w39XoeixiiUQ1Qw) | [Noble City](https://open.spotify.com/artist/2IZSVIW7JctOMEvfw8hbaY), [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [Cee Emtee](https://open.spotify.com/artist/12mhfZhybTbrNzyxpZmDjE) | [Halle \(This Year\)](https://open.spotify.com/album/6XauzYEe9XWUzstxryddzO) | 2:20 |
+| 70 | [Halle \(This Year\)](https://open.spotify.com/track/3PICul2w39XoeixiiUQ1Qw) | [Noble City](https://open.spotify.com/artist/2IZSVIW7JctOMEvfw8hbaY), [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR), [Cee Emtee](https://open.spotify.com/artist/12mhfZhybTbrNzyxpZmDjE), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e) | [Halle \(This Year\)](https://open.spotify.com/album/6XauzYEe9XWUzstxryddzO) | 2:20 |
 | 71 | [Winners \- Acoustic](https://open.spotify.com/track/1LZC0InnF1fcIU9jEtEIIy) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Winners \(Acoustic\)](https://open.spotify.com/album/13wnz7we2bMOlUZ0yBNeI3) | 1:40 |
 | 72 | [In Your Hands](https://open.spotify.com/track/5eprHro0hjcFn4xqmeWSVU) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Praise](https://open.spotify.com/album/72IRJbkNL1PAsKVX50S4QW) | 3:45 |
 | 73 | [Amazing God](https://open.spotify.com/track/1gKG1V3zHusf1t6qmuZWZL) | [Dr Joe Ebi](https://open.spotify.com/artist/5p5hQ6etqr9a2rLdSkjgO6) | [Amazing God](https://open.spotify.com/album/7M97wpMksYfphcEjCeBYtv) | 4:54 |

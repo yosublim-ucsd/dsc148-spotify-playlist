@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Antiworld Gangsters ",
-  "num_followers": 57989,
+  "num_followers": 58002,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-12-19 21:32:13",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh"
+      },
+      "artists": [
+        {
+          "name": "Shoody B",
+          "url": "https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 183248,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn"
+    },
+    {
+      "added_at": "2024-12-19 21:32:13",
+      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/055nOXgofQYv5z4l1qsuX4"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 192000,
       "name": "One Night",
       "url": "https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng"
-    },
-    {
-      "added_at": "2024-12-19 21:32:13",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh"
-      },
-      "artists": [
-        {
-          "name": "Shoody B",
-          "url": "https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 183248,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn"
     },
     {
       "added_at": "2024-12-19 21:32:13",

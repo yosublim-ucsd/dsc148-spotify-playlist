@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX2Ln16qIxDF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX2Ln16qIxDF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX2Ln16qIxDF)
 
-### [El Top 2024](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
+### [Top Verano 2025](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
 > Lo más pegado, lo más suaaave, o Luck Ra & Elvis Crespo.
 

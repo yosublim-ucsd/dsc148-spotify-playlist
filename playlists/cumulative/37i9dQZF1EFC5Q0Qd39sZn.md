@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-632 songs - 1 day 19 hr 46 min
+634 songs - 1 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [5 Minutes With God](https://open.spotify.com/track/1ze44zUyRnPSqgjJMIrGje) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/5o6uSZ10sJSUnn8WomuO3R) | 3:31 | 2023-12-30 |  |
 | [A Estrela Que Mais Brilhar](https://open.spotify.com/track/20d64OB5wgNTkb19x8PyWj) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:22 | 2023-12-30 |  |
 | [A Heart Can Only Be So Strong](https://open.spotify.com/track/0wkMXY8Q59u3QLGMLTYMwb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:00 | 2023-12-30 |  |
-| [A Hundred Oceans](https://open.spotify.com/track/6sZgfhFAGuAk7Nko7vywMV) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4lKLWohQZd8bl8NZ2N0CNT) | 4:08 | 2023-12-30 |  |
+| [A Hundred Oceans](https://open.spotify.com/track/3xitSIBFxesl3u1dXxWRkw) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4jbmIiX2zGMDOqYpVNsS5J) | 4:08 | 2024-12-25 |  |
+| [A Hundred Oceans](https://open.spotify.com/track/6sZgfhFAGuAk7Nko7vywMV) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4lKLWohQZd8bl8NZ2N0CNT) | 4:08 | 2023-12-30 | 2024-12-26 |
 | [A Time for Letting Go](https://open.spotify.com/track/2ASRpUOn5JYc8QN0PpdpsA) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:38 | 2023-12-30 |  |
 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 | 2023-12-30 |  |
 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 | 2023-12-30 |  |
@@ -615,7 +616,8 @@
 | [You Can't Break A Broken Heart](https://open.spotify.com/track/2k2McMgls2mmZBGLoAPbwJ) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [Don't Look Away \(Deluxe Edition\)](https://open.spotify.com/album/5xvXNSYrPSYxsS48C9N6iM) | 3:38 | 2023-12-30 |  |
 | [You Can't Fight Fate](https://open.spotify.com/track/0AHjC8WFFv0jsEqgiW03Ui) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:41 | 2023-12-30 |  |
 | [You Can't Lose Me](https://open.spotify.com/track/5BHDp0MlIMLiD9CXh8yhu0) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [02](https://open.spotify.com/album/7iVHDgfwwIh0dfRT8AqghK) | 3:40 | 2023-12-30 |  |
-| [You Didn't Have to Hurt Me](https://open.spotify.com/track/1z77YrxwQfYE9aW7e9qamI) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4lKLWohQZd8bl8NZ2N0CNT) | 4:04 | 2023-12-30 |  |
+| [You Didn't Have to Hurt Me](https://open.spotify.com/track/1z77YrxwQfYE9aW7e9qamI) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4lKLWohQZd8bl8NZ2N0CNT) | 4:04 | 2023-12-30 | 2024-12-26 |
+| [You Didn't Have to Hurt Me](https://open.spotify.com/track/3yWKP4fPa26IKOh4N3q2bP) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4jbmIiX2zGMDOqYpVNsS5J) | 4:04 | 2024-12-25 |  |
 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 | 2023-12-30 |  |
 | [You Got Me](https://open.spotify.com/track/4stNldZRtgwvHvb34INX5y) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [You Got Me](https://open.spotify.com/album/0vOZevXSlfFuRrC4LLW49W) | 3:47 | 2023-12-30 |  |
 | [You Haven't Seen the Last of Me](https://open.spotify.com/track/0YJ1lyjvpA0H2srpim3y9U) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Super Deluxe Edition\)](https://open.spotify.com/album/4tXGGRLZGSU9RwbemiixAz) | 3:32 | 2024-05-16 |  |

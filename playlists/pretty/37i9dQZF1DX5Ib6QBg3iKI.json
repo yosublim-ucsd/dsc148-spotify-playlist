@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 145313,
+  "num_followers": 145686,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Christmas & Chill",
-        "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Winter Things",
-      "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Worldmusic for Christmas",
         "url": "https://open.spotify.com/album/71j9nbHz1Ucdncs7Gtp7lh"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 241426,
       "name": "Mary's Boy Child / Oh My Lord",
       "url": "https://open.spotify.com/track/2qqZ5fOGuNvYVzgPFDLQ4l"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Christmas & Chill",
+        "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Winter Things",
+      "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "Sheezus",
         "url": "https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47"
       },
@@ -455,6 +471,22 @@
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/2InCKrQ5NeFtanOHA46WAz"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/7xCJ4D6ka7bXhGbL4NsEEi"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -491,38 +523,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Silent Night",
-        "url": "https://open.spotify.com/album/2InCKrQ5NeFtanOHA46WAz"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/7xCJ4D6ka7bXhGbL4NsEEi"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "The King of Soul",
         "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Christmas Party",
-        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 141240,
       "name": "Real Love - From the John Lewis Christmas Advert 2014",
       "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
         "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 181469,
       "name": "Love Is A Compass - Disney supporting Make-A-Wish",
       "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
-        "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 215058,
-      "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "For Those Who Can't Be Here",
         "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
       },
@@ -851,6 +831,26 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
+        "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 215058,
+      "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "This Christmas Day",
         "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 225040,
       "name": "This Christmas Day",
       "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "Gold Rush Kid (Christmas Edition)",
-        "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Come On Home For Christmas",
-      "url": "https://open.spotify.com/track/62FXKOa8jpLmvUiZ6O3uda"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -899,6 +883,22 @@
       "duration_ms": 176583,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Gold Rush Kid (Christmas Edition)",
+        "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Come On Home For Christmas",
+      "url": "https://open.spotify.com/track/62FXKOa8jpLmvUiZ6O3uda"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
-      "url": "https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "What I Want For Xmas",
         "url": "https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Those Red Lights",
-        "url": "https://open.spotify.com/album/0vnHqKCZTGzIhQ5V4gEMI6"
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Those Red Lights",
-      "url": "https://open.spotify.com/track/4Y7j3Gk2cJgX6CfubfaU2W"
+      "duration_ms": 215466,
+      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "url": "https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1111,6 +1095,22 @@
       "duration_ms": 179309,
       "name": "Make It Home",
       "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Those Red Lights",
+        "url": "https://open.spotify.com/album/0vnHqKCZTGzIhQ5V4gEMI6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Those Red Lights",
+      "url": "https://open.spotify.com/track/4Y7j3Gk2cJgX6CfubfaU2W"
     },
     {
       "added_at": "2024-12-13 09:34:44",

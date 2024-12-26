@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2024-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146881,
+      "name": "Nocturne Op. 9 No. 2",
+      "url": "https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv"
+    },
+    {
+      "album": {
         "name": "Ultimate Kenny G",
         "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
       },

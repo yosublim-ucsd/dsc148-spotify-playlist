@@ -4,7 +4,7 @@
 
 > 
 
-2,038 songs - 4 day 13 hr 20 min
+2,040 songs - 4 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Biblical Violence](https://open.spotify.com/track/3YmFlUmOV28Sf14lJp1QDF) | [Hella](https://open.spotify.com/artist/1n861RIk6CTAWncgHR9UHg) | [Hold Your Horse Is](https://open.spotify.com/album/2RHAyIlKGMvJ8cHlK4zpXw) | 3:03 | 2022-06-24 |  |
 | [Big Brother](https://open.spotify.com/track/7ePwxuaV9RXdoZyq9qti9X) | [Subhumans](https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK) | [The Day the Country Died](https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1) | 1:55 | 2021-08-05 |  |
 | [Big House](https://open.spotify.com/track/0xotalhUIMjIBPLI3NC3l8) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV) | 2:18 | 2024-03-08 |  |
+| [Bing Bong](https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong](https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu) | 2:03 | 2024-12-25 |  |
 | [Bipolar Disorder](https://open.spotify.com/track/1IiX9OzSR8Px5FVTnOocnx) | [Ame Gedeon](https://open.spotify.com/artist/6i0jPA1cNtyLlSIJBvalDB) | [A.T.E.S.A.](https://open.spotify.com/album/2dMzUjogFd346gwr3KznlX) | 3:36 | 2022-11-04 |  |
 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 | 2021-08-05 |  |
 | [Birthday Bitch](https://open.spotify.com/track/6oGC8yJo0FAd4L7Cqp4zJ8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Birthday Bitch](https://open.spotify.com/album/6ydhoN0onFh7MArs9PiGey) | 3:36 | 2021-08-05 |  |
@@ -1539,6 +1540,7 @@
 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 | 2022-09-08 |  |
 | [Scroll of Sorrow](https://open.spotify.com/track/6ztOsvtb6MjOYgOOnBmVfd) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0), [guayaba](https://open.spotify.com/artist/5kYSoXTfErwSZC3E7uw54d) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:05 | 2023-02-13 |  |
 | [Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy) | [SALEM](https://open.spotify.com/artist/09CJcG6ndtL82D8x9VxaeT) | [Fires In Heaven](https://open.spotify.com/album/1G9NXS6bwV9JHeaCNETAFI) | 3:07 | 2022-09-18 |  |
+| [Seasons](https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/6HQJWzhmmKLP9fKjM4jsyY) | 2:37 | 2024-12-25 |  |
 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 | 2022-02-04 |  |
 | [Secrets](https://open.spotify.com/track/7DQwrr8p8DUtmMdZQ1T5WT) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 4:14 | 2021-11-14 |  |
 | [Sedona](https://open.spotify.com/track/6lgA1MVkKnb8X77GC4vjJl) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:03 | 2022-04-03 |  |

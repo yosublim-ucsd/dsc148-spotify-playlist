@@ -1,6 +1,6 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 527232,
+  "num_followers": 527324,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 275409,
+      "name": "Four Hills",
+      "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
         "name": "Pure Love EP",
         "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
-        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 528959,
-      "name": "Chaos",
-      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Gratitude (Extended Mixes)",
         "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
+        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
         }
       ],
-      "duration_ms": 275409,
-      "name": "Four Hills",
-      "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
+      "duration_ms": 528959,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Tarcu",
         "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
       "artists": [
         {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
         }
       ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -575,6 +559,22 @@
       "duration_ms": 230400,
       "name": "Luna",
       "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
+        "name": "Lyra",
+        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 437891,
+      "name": "Lyra",
+      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 391577,
       "name": "Unfold Me",
       "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
-        "name": "Lyra",
-        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 437891,
-      "name": "Lyra",
-      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Planet F",
-        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 241769,
-      "name": "Planet F",
-      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "The Duty",
         "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 194610,
       "name": "The Duty",
       "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Planet F",
+        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 241769,
+      "name": "Planet F",
+      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm"
+      },
+      "artists": [
+        {
+          "name": "Hraach",
+          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
+        }
+      ],
+      "duration_ms": 445881,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
         "name": "House Of Lights EP",
         "url": "https://open.spotify.com/album/2LHoUIWO6Q8SgnbkjzqYVF"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 516000,
       "name": "House Of Lights",
       "url": "https://open.spotify.com/track/26jkWXrQRsWHKPxEX2Ahg3"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm"
-      },
-      "artists": [
-        {
-          "name": "Hraach",
-          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
-        }
-      ],
-      "duration_ms": 445881,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4"
     }
   ],
   "unique_name": "Beats to think to",

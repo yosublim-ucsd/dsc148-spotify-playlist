@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 434533,
+  "num_followers": 434557,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+        "name": "Smiling World",
+        "url": "https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS"
       },
       "artists": [
         {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+      "duration_ms": 126076,
+      "name": "Smiling World",
+      "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -219,22 +223,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Smiling World",
-        "url": "https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS"
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
       },
       "artists": [
         {
-          "name": "Mujo",
-          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
-        },
-        {
-          "name": "Hakone",
-          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
         }
       ],
-      "duration_ms": 126076,
-      "name": "Smiling World",
-      "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -855,6 +855,26 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
+        "name": "World's Famous",
+        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
+      },
+      "artists": [
+        {
+          "name": "DJ KOCO aka SHIMOKITA",
+          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
+        },
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+        }
+      ],
+      "duration_ms": 191747,
+      "name": "World's Famous",
+      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
         "name": "On My Way Home",
         "url": "https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 127595,
       "name": "afternoon shower",
       "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
-        "name": "World's Famous",
-        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
-      },
-      "artists": [
-        {
-          "name": "DJ KOCO aka SHIMOKITA",
-          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
-        },
-        {
-          "name": "45trio",
-          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
-        }
-      ],
-      "duration_ms": 191747,
-      "name": "World's Famous",
-      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+      },
+      "artists": [
+        {
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+        }
+      ],
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
         "name": "Entering the Golden Gai",
         "url": "https://open.spotify.com/album/79ZWhnZpiCFpL85460vemv"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "sophisticated silence",
-        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/242rTXP3MvqARFEyjEc7DU"
       },
       "artists": [
         {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
         }
       ],
-      "duration_ms": 155760,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
+      "duration_ms": 197446,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/3lwKN2RR2tqvqEVl4WoY5s"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -995,34 +1011,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Rush Hour",
-        "url": "https://open.spotify.com/album/242rTXP3MvqARFEyjEc7DU"
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
       },
       "artists": [
         {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
         }
       ],
-      "duration_ms": 197446,
-      "name": "Rush Hour",
-      "url": "https://open.spotify.com/track/3lwKN2RR2tqvqEVl4WoY5s"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
-      },
-      "artists": [
-        {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
-        }
-      ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1059,6 +1059,26 @@
       "duration_ms": 150857,
       "name": "Night Step",
       "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
+      },
+      "artists": [
+        {
+          "name": "Akio Watanabe",
+          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
+        },
+        {
+          "name": "AYG",
+          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1119,26 +1139,6 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
-      },
-      "artists": [
-        {
-          "name": "Akio Watanabe",
-          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
-        },
-        {
-          "name": "AYG",
-          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
         "name": "Come Check",
         "url": "https://open.spotify.com/album/1gV3dWkfZ5Zz5ZLP4g3DrJ"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 146411,
       "name": "Come Check",
       "url": "https://open.spotify.com/track/36Dswj5u2J8eNiwTI3JILf"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
-        "name": "oak",
-        "url": "https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg"
-      },
-      "artists": [
-        {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
-        }
-      ],
-      "duration_ms": 130920,
-      "name": "oak",
-      "url": "https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
+        "name": "oak",
+        "url": "https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 130920,
+      "name": "oak",
+      "url": "https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
         "name": "INNER CHILD",
         "url": "https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 176303,
       "name": "INNER CHILD",
       "url": "https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
-        "name": "Libration",
-        "url": "https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Libration",
-      "url": "https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "kokoro",
-        "url": "https://open.spotify.com/album/61O3OR2eHp9oJUbQGcZK0B"
+        "name": "Libration",
+        "url": "https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm"
       },
       "artists": [
         {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
         }
       ],
-      "duration_ms": 131520,
-      "name": "kokoro",
-      "url": "https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6"
+      "duration_ms": 184906,
+      "name": "Libration",
+      "url": "https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
+        "name": "SPICA",
+        "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "SPICA",
+      "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
         "name": "Cold Concrete",
         "url": "https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 191860,
       "name": "Cold Concrete",
       "url": "https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "kokoro",
+        "url": "https://open.spotify.com/album/61O3OR2eHp9oJUbQGcZK0B"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 131520,
+      "name": "kokoro",
+      "url": "https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1319,22 +1335,6 @@
       "duration_ms": 163875,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/3KW9TEb7G6BZu3XWVR8caI"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
-        "name": "SPICA",
-        "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
-      },
-      "artists": [
-        {
-          "name": "gummy3000",
-          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "SPICA",
-      "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Dissociation",
-        "url": "https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy"
-      },
-      "artists": [
-        {
-          "name": "Minthaze",
-          "url": "https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v"
-        }
-      ],
-      "duration_ms": 116959,
-      "name": "Cows In The Distance",
-      "url": "https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
         "name": "GeGe E.P.",
         "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 212307,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "Dissociation",
+        "url": "https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy"
+      },
+      "artists": [
+        {
+          "name": "Minthaze",
+          "url": "https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v"
+        }
+      ],
+      "duration_ms": 116959,
+      "name": "Cows In The Distance",
+      "url": "https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "The Way of the Rain",
-        "url": "https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "The Way of the Rain",
-      "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
         "name": "16FLIP -Atomosphere'22-",
         "url": "https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 45690,
       "name": "Beat Diary 917",
       "url": "https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+        "name": "The Way of the Rain",
+        "url": "https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u"
       },
       "artists": [
         {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
+      "duration_ms": 190285,
+      "name": "The Way of the Rain",
+      "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Organic Lo-fi Beats",
-        "url": "https://open.spotify.com/album/3GnW7ujq82WPxlwNHphRrJ"
-      },
-      "artists": [
-        {
-          "name": "COFFLENO",
-          "url": "https://open.spotify.com/artist/7kZkMzWv1hRkn17qIk9yOk"
-        }
-      ],
-      "duration_ms": 103436,
-      "name": "only you",
-      "url": "https://open.spotify.com/track/5h50BO3oUBoOh5HjG871S5"
-    },
-    {
-      "added_at": "2024-12-14 02:57:37",
-      "album": {
         "name": "say it all",
         "url": "https://open.spotify.com/album/6NAG1zrtwVkQKQgG34pf9Q"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 175714,
       "name": "say it all",
       "url": "https://open.spotify.com/track/0oyCGXicN0nEnckVP1ADOm"
+    },
+    {
+      "added_at": "2024-12-14 02:57:37",
+      "album": {
+        "name": "Organic Lo-fi Beats",
+        "url": "https://open.spotify.com/album/3GnW7ujq82WPxlwNHphRrJ"
+      },
+      "artists": [
+        {
+          "name": "COFFLENO",
+          "url": "https://open.spotify.com/artist/7kZkMzWv1hRkn17qIk9yOk"
+        }
+      ],
+      "duration_ms": 103436,
+      "name": "only you",
+      "url": "https://open.spotify.com/track/5h50BO3oUBoOh5HjG871S5"
     },
     {
       "added_at": "2024-12-14 02:57:37",
@@ -1755,26 +1755,18 @@
     {
       "added_at": "2024-12-14 02:57:37",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok"
+        "name": "samurai champloo music record impression",
+        "url": "https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS"
       },
       "artists": [
         {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
-        },
-        {
-          "name": "Shou",
-          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
-        },
-        {
-          "name": "Idyllic",
-          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
+          "name": "Force Of Nature",
+          "url": "https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Sequences",
-      "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
+      "duration_ms": 235900,
+      "name": "just forget",
+      "url": "https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

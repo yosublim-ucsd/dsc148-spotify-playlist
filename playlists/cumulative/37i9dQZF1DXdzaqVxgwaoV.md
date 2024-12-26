@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-311 songs - 18 hr 59 min
+312 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,13 +79,14 @@
 | [Dos Corazones](https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT) | [Franktony](https://open.spotify.com/artist/67IOCc98AI69iJ67L6eMO0) | [Frank Tony y sus Reales: el Pueblo te Aclama](https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal) | 3:03 | 2023-02-03 | 2024-09-02 |
 | [Dos Pasajes](https://open.spotify.com/track/471SfF1VL5AjkWXMzYXout) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:20 | 2023-02-03 | 2024-09-02 |
 | [Echao Pa' Lante](https://open.spotify.com/track/2r1LgLiB0HnrLUg7vBY0ZS) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 4:06 | 2024-11-01 |  |
-| [El Aguardientosky](https://open.spotify.com/track/0jusHNguMSIgQvIVhiMzr3) | [Joaquin Bedoya](https://open.spotify.com/artist/7tYPNVzVYQH46AKSnlDBM3) | [Éxitos Música Parrandera](https://open.spotify.com/album/7dRlwm5NsDXtaGPjbOaLEr) | 3:20 | 2024-11-01 |  |
+| [El Aguardientosky](https://open.spotify.com/track/0jusHNguMSIgQvIVhiMzr3) | [Joaquin Bedoya](https://open.spotify.com/artist/7tYPNVzVYQH46AKSnlDBM3) | [Éxitos Música Parrandera](https://open.spotify.com/album/7dRlwm5NsDXtaGPjbOaLEr) | 3:20 | 2024-11-01 | 2024-12-26 |
 | [El Arruinao](https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1) | [Gildardo Montoya](https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6) | [Super Buenonas de Parranda y el Gitano Groserón](https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl) | 2:42 | 2023-11-09 | 2024-04-07 |
 | [El Ausente](https://open.spotify.com/track/68yfAzPTHpRL4ewaKDnQWu) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [The Big Hits](https://open.spotify.com/album/3ghJ2s1MNl7Os42pPrVpLE) | 4:02 | 2024-09-01 | 2024-10-18 |
 | [El Ausente](https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:26 | 2023-11-09 | 2024-08-28 |
 | [El Ausente](https://open.spotify.com/track/1Xpom5cVSh2zyZxXmLpEJ0) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 3:26 | 2024-09-01 |  |
 | [El Año Viejo](https://open.spotify.com/track/6lXXaW5RkLN5Ids6lYdrA9) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 3:04 | 2024-11-01 |  |
 | [El Bailador](https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos \(Vol\. 1\)](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:54 | 2023-11-09 |  |
+| [El Caminante](https://open.spotify.com/track/3ICbwWXSapF9y73IMILFbx) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Colección Éxitos Joe Arroyo \(Vol\. 1\)](https://open.spotify.com/album/6ArGOcwwEJqFVCPK9f0uJe) | 3:19 | 2024-11-01 |  |
 | [El Camionero](https://open.spotify.com/track/2EfWBfYDonXIXrQWXwYA5O) | [El Gato Negro](https://open.spotify.com/artist/37WhXkqoj8aJT0GFsxRvoq) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/0dXOEFH4cnhtEJXDcsZ2rp) | 3:17 | 2023-02-03 | 2024-09-02 |
 | [El Cuartetazo](https://open.spotify.com/track/3bvtpzWXdVpU7EoVfoTlVt) | [Guayaba Orquesta](https://open.spotify.com/artist/0fX4OxM4PrXfSh2ic9Fd7N) | [Guayaba Orquesta Éxitos, Vol.1](https://open.spotify.com/album/31X8VuNVdSUA3iiffn35FN) | 2:42 | 2023-12-20 | 2024-07-12 |
 | [El Cuartetazo](https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6) | [50 Años De Fiesta](https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF) | 2:52 | 2023-12-20 |  |

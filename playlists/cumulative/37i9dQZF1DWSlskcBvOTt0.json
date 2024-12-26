@@ -6075,6 +6075,28 @@
     },
     {
       "album": {
+        "name": "Holding You",
+        "url": "https://open.spotify.com/album/6VBIkxNYQ3dW1o6KVJMI8v"
+      },
+      "artists": [
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Holding You",
+      "url": "https://open.spotify.com/track/69IGLjobHJWBQUotPlqcsx"
+    },
+    {
+      "album": {
         "name": "Holmen",
         "url": "https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh"
       },
@@ -14068,7 +14090,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 344738,
       "name": "So Good",
       "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"

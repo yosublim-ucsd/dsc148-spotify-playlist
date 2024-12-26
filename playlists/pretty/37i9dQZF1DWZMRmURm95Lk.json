@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Bassi Maestro in cover per i 30 anni della sua carriera \ud83e\udee1",
-  "num_followers": 44379,
+  "num_followers": 44390,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1523,34 +1523,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
-      },
-      "artists": [
-        {
-          "name": "Joelz",
-          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
-        },
-        {
-          "name": "Dave_Zeta",
-          "url": "https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        },
-        {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
-        }
-      ],
-      "duration_ms": 242758,
-      "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
-      "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "BASTA SESSION N\u00b01",
         "url": "https://open.spotify.com/album/3OmHIlmFZS8ntlMN3uUunp"
       },
@@ -1603,6 +1575,34 @@
       "duration_ms": 193122,
       "name": "Quante Notti (feat. Franco126)",
       "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
+      },
+      "artists": [
+        {
+          "name": "Joelz",
+          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
+        },
+        {
+          "name": "Dave_Zeta",
+          "url": "https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        }
+      ],
+      "duration_ms": 242758,
+      "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
+      "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -1695,30 +1695,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/70ml3DIL4N3NvNq79QjaGW"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Dj Yaner",
-          "url": "https://open.spotify.com/artist/10uJMU1ypILFqXbwIiB7ej"
-        },
-        {
-          "name": "Dope D.O.D.",
-          "url": "https://open.spotify.com/artist/64UHlFDUkT8Hx3RCtDUieN"
-        }
-      ],
-      "duration_ms": 174255,
-      "name": "Untouchable",
-      "url": "https://open.spotify.com/track/5skKdVpMpzkRON1bYpXRQj"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -1739,6 +1715,30 @@
       "duration_ms": 211930,
       "name": "Funema (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Untouchable",
+        "url": "https://open.spotify.com/album/70ml3DIL4N3NvNq79QjaGW"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Dj Yaner",
+          "url": "https://open.spotify.com/artist/10uJMU1ypILFqXbwIiB7ej"
+        },
+        {
+          "name": "Dope D.O.D.",
+          "url": "https://open.spotify.com/artist/64UHlFDUkT8Hx3RCtDUieN"
+        }
+      ],
+      "duration_ms": 174255,
+      "name": "Untouchable",
+      "url": "https://open.spotify.com/track/5skKdVpMpzkRON1bYpXRQj"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -1903,8 +1903,8 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Sembra scritto",
-        "url": "https://open.spotify.com/album/4Hm99WxUTNe9dHLumJUQQb"
+        "name": "Disertore",
+        "url": "https://open.spotify.com/album/04v0GY5PNVHIJjhmDTlNGW"
       },
       "artists": [
         {
@@ -1912,25 +1912,17 @@
           "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
         },
         {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
         },
         {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
-          "name": "DJ Bront",
-          "url": "https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv"
-        },
-        {
-          "name": "Dj Ghost aka Steeni",
-          "url": "https://open.spotify.com/artist/6ztRFZRLvogVldoYGP8PGO"
+          "name": "Dj Baro",
+          "url": "https://open.spotify.com/artist/5MwhzzkTUrx7HzFqreGMoj"
         }
       ],
-      "duration_ms": 249729,
-      "name": "Sembra scritto",
-      "url": "https://open.spotify.com/track/75ABtnZla7EfemFVkUr2BD"
+      "duration_ms": 201333,
+      "name": "Disertore",
+      "url": "https://open.spotify.com/track/1d3GzThn2EwfTO8LARoQzT"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -1975,6 +1967,22 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
         "name": "Formula (feat. Raige & Ensi)",
         "url": "https://open.spotify.com/album/6zyTM0pcUTapaLY9Hb3Au4"
       },
@@ -1999,24 +2007,8 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "Disertore",
-        "url": "https://open.spotify.com/album/04v0GY5PNVHIJjhmDTlNGW"
+        "name": "Sembra scritto",
+        "url": "https://open.spotify.com/album/4Hm99WxUTNe9dHLumJUQQb"
       },
       "artists": [
         {
@@ -2024,17 +2016,25 @@
           "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
         },
         {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
         },
         {
-          "name": "Dj Baro",
-          "url": "https://open.spotify.com/artist/5MwhzzkTUrx7HzFqreGMoj"
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "DJ Bront",
+          "url": "https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv"
+        },
+        {
+          "name": "Dj Ghost aka Steeni",
+          "url": "https://open.spotify.com/artist/6ztRFZRLvogVldoYGP8PGO"
         }
       ],
-      "duration_ms": 201333,
-      "name": "Disertore",
-      "url": "https://open.spotify.com/track/1d3GzThn2EwfTO8LARoQzT"
+      "duration_ms": 249729,
+      "name": "Sembra scritto",
+      "url": "https://open.spotify.com/track/75ABtnZla7EfemFVkUr2BD"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -2079,6 +2079,22 @@
       "duration_ms": 261810,
       "name": "Black Rain, pt. 2",
       "url": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Dovrei",
+      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -2139,22 +2155,6 @@
       "duration_ms": 248791,
       "name": "L'uomo dei sogni",
       "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Dovrei",
-      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Gotico Romanzo",
-        "url": "https://open.spotify.com/album/3DS8jzLQI1pkMOqLRg1fNT"
-      },
-      "artists": [
-        {
-          "name": "Pufuleti",
-          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
-        },
-        {
-          "name": "Fed Nance",
-          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
-        }
-      ],
-      "duration_ms": 131054,
-      "name": "Calici di gemme",
-      "url": "https://open.spotify.com/track/5ExnPohf7VvltswNWXH9iD"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "Beat Coin",
         "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 187415,
       "name": "Sembra un film",
       "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Gotico Romanzo",
+        "url": "https://open.spotify.com/album/3DS8jzLQI1pkMOqLRg1fNT"
+      },
+      "artists": [
+        {
+          "name": "Pufuleti",
+          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
+        },
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        }
+      ],
+      "duration_ms": 131054,
+      "name": "Calici di gemme",
+      "url": "https://open.spotify.com/track/5ExnPohf7VvltswNWXH9iD"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
+        "name": "Generazione Di Sconvolti",
+        "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
+      },
+      "artists": [
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Ne Parlero' Con Te",
+      "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
         "name": "Amore puro",
         "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
       },
@@ -2503,22 +2519,6 @@
       "duration_ms": 204081,
       "name": "Amore puro",
       "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
-        "name": "Generazione Di Sconvolti",
-        "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
-      },
-      "artists": [
-        {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Ne Parlero' Con Te",
-      "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Perfect Days",
-        "url": "https://open.spotify.com/album/6JNqm2o3YaGMfWmwGzCkuA"
-      },
-      "artists": [
-        {
-          "name": "Rak",
-          "url": "https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Perfect Days",
-      "url": "https://open.spotify.com/track/6Gma5OTVHAbNHmRe95O3xI"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "Io Speriamo Che Me La Cavo",
         "url": "https://open.spotify.com/album/3bJ5kqq2Oc2K0aVUVISywk"
       },
@@ -2939,6 +2923,22 @@
       "duration_ms": 142213,
       "name": "Io Speriamo Che Me La Cavo",
       "url": "https://open.spotify.com/track/1E23vbu76A76cc3EwNOEyI"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Perfect Days",
+        "url": "https://open.spotify.com/album/6JNqm2o3YaGMfWmwGzCkuA"
+      },
+      "artists": [
+        {
+          "name": "Rak",
+          "url": "https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Perfect Days",
+      "url": "https://open.spotify.com/track/6Gma5OTVHAbNHmRe95O3xI"
     },
     {
       "added_at": "2024-12-18 08:09:42",
@@ -3175,26 +3175,6 @@
     {
       "added_at": "2024-12-18 08:09:42",
       "album": {
-        "name": "Cronico",
-        "url": "https://open.spotify.com/album/4qQXDWpqF08XvDG0SN6UxW"
-      },
-      "artists": [
-        {
-          "name": "DFWU",
-          "url": "https://open.spotify.com/artist/5aRNA4nzvO7aEU1v73iOUV"
-        },
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "Cronico",
-      "url": "https://open.spotify.com/track/3htVVMLpPeiYQ9C4YNpW5O"
-    },
-    {
-      "added_at": "2024-12-18 08:09:42",
-      "album": {
         "name": "Santi e Hoes (feat. Kilo KG) [Remix]",
         "url": "https://open.spotify.com/album/2GF8AQdfch41NGftpfQ9DU"
       },
@@ -3215,6 +3195,26 @@
       "duration_ms": 202000,
       "name": "Santi e Hoes (feat. Kilo KG) - Remix",
       "url": "https://open.spotify.com/track/6dDA0WGSLEx3mg1pYd0vn2"
+    },
+    {
+      "added_at": "2024-12-18 08:09:42",
+      "album": {
+        "name": "Cronico",
+        "url": "https://open.spotify.com/album/4qQXDWpqF08XvDG0SN6UxW"
+      },
+      "artists": [
+        {
+          "name": "DFWU",
+          "url": "https://open.spotify.com/artist/5aRNA4nzvO7aEU1v73iOUV"
+        },
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "Cronico",
+      "url": "https://open.spotify.com/track/3htVVMLpPeiYQ9C4YNpW5O"
     },
     {
       "added_at": "2024-12-18 08:09:42",

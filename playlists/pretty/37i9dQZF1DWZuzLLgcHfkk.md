@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuzLLgcHfkk.md) - [plain]
 
 > Summer breeze, makes me feel fine...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,289 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

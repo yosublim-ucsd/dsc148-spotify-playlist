@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1927196,
+  "num_followers": 1927204,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Feel Like Going Home",
-        "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
+        "name": "Nobody Owns You",
+        "url": "https://open.spotify.com/album/2WPwjBRADu4edc5Xw4B6Vd"
       },
       "artists": [
         {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
         }
       ],
-      "duration_ms": 275054,
-      "name": "Feel Like Going Home",
-      "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
+      "duration_ms": 236040,
+      "name": "I Should've Danced More",
+      "url": "https://open.spotify.com/track/64ATnWMoANGIML1HeNWhMO"
     }
   ],
   "unique_name": "Happy Folk",

@@ -5636,7 +5636,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 135428,
       "name": "Dornwald",
       "url": "https://open.spotify.com/track/3hy2eKCa7q9hOOuelDO0yG"
@@ -9896,7 +9896,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 157533,
       "name": "i crash, u crash",
       "url": "https://open.spotify.com/track/5Kc7tvgQCCayTkJdVl8kS1"
@@ -10636,7 +10636,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 151665,
       "name": "Immer wenn ich fall - Remix",
       "url": "https://open.spotify.com/track/5fv6bRpeFoMUyMMUjtmhEc"
@@ -13318,7 +13318,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -13348,7 +13348,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -21587,6 +21587,24 @@
     },
     {
       "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332506,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
+    },
+    {
+      "album": {
         "name": "The Sound Of Silence",
         "url": "https://open.spotify.com/album/2mG2BCrq18dPuqyXluFAD5"
       },
@@ -23110,10 +23128,28 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/1We3jgIztlD2Tkb0yOoX4b"
+    },
+    {
+      "album": {
+        "name": "Walzer",
+        "url": "https://open.spotify.com/album/1uYi1qfEzRX7xMgaM88uNk"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201325,
+      "name": "Walzer",
+      "url": "https://open.spotify.com/track/6SowVm0zmhrJrbRgM4Rutz"
     },
     {
       "album": {

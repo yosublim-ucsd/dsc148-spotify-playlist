@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u043f\u0440\u043e\u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 34153,
+  "num_followers": 34173,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -395,18 +395,22 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
-        "name": "Lucerna",
-        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
+        "name": "\u0412\u0456\u0434\u043b\u044e\u0431\u0438\u043b\u043e\u0441\u044f",
+        "url": "https://open.spotify.com/album/7Drh1GDYNdKQKjahIjDwPw"
       },
       "artists": [
         {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+          "name": "Averin",
+          "url": "https://open.spotify.com/artist/5yDenXpJFxaiNa57V8Tvtx"
+        },
+        {
+          "name": "CHURSANOV",
+          "url": "https://open.spotify.com/artist/5UqC0WSLyRoS6xGD8NA55e"
         }
       ],
-      "duration_ms": 376000,
-      "name": "Lucerna",
-      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
+      "duration_ms": 153750,
+      "name": "\u0412\u0456\u0434\u043b\u044e\u0431\u0438\u043b\u043e\u0441\u044f",
+      "url": "https://open.spotify.com/track/34b1BsvwGHVsZ63g7MaKHF"
     },
     {
       "added_at": "2024-12-20 16:20:39",
@@ -427,22 +431,18 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
-        "name": "\u0412\u0456\u0434\u043b\u044e\u0431\u0438\u043b\u043e\u0441\u044f",
-        "url": "https://open.spotify.com/album/7Drh1GDYNdKQKjahIjDwPw"
+        "name": "Lucerna",
+        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
       },
       "artists": [
         {
-          "name": "Averin",
-          "url": "https://open.spotify.com/artist/5yDenXpJFxaiNa57V8Tvtx"
-        },
-        {
-          "name": "CHURSANOV",
-          "url": "https://open.spotify.com/artist/5UqC0WSLyRoS6xGD8NA55e"
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
         }
       ],
-      "duration_ms": 153750,
-      "name": "\u0412\u0456\u0434\u043b\u044e\u0431\u0438\u043b\u043e\u0441\u044f",
-      "url": "https://open.spotify.com/track/34b1BsvwGHVsZ63g7MaKHF"
+      "duration_ms": 376000,
+      "name": "Lucerna",
+      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
     },
     {
       "added_at": "2024-12-20 16:20:39",
@@ -699,38 +699,6 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
-        "name": "\u0421\u044e\u0434\u0438",
-        "url": "https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP"
-      },
-      "artists": [
-        {
-          "name": "MAYOROVA",
-          "url": "https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u0421\u044e\u0434\u0438",
-      "url": "https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO"
-    },
-    {
-      "added_at": "2024-12-20 16:20:39",
-      "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
-      },
-      "artists": [
-        {
-          "name": "Zea",
-          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
-        }
-      ],
-      "duration_ms": 191090,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
-    },
-    {
-      "added_at": "2024-12-20 16:20:39",
-      "album": {
         "name": "\u0412\u043e\u043b\u044f (full version)",
         "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
       },
@@ -747,6 +715,22 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
+        "name": "\u0421\u044e\u0434\u0438",
+        "url": "https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP"
+      },
+      "artists": [
+        {
+          "name": "MAYOROVA",
+          "url": "https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u0421\u044e\u0434\u0438",
+      "url": "https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO"
+    },
+    {
+      "added_at": "2024-12-20 16:20:39",
+      "album": {
         "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
         "url": "https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 223532,
       "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N"
+    },
+    {
+      "added_at": "2024-12-20 16:20:39",
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
+      },
+      "artists": [
+        {
+          "name": "Zea",
+          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
+        }
+      ],
+      "duration_ms": 191090,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
     },
     {
       "added_at": "2024-12-20 16:20:39",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
+        "name": "\u0411\u043e\u0441\u0456",
+        "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
+      },
+      "artists": [
+        {
+          "name": "STASYA",
+          "url": "https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "\u0411\u043e\u0441\u0456",
+      "url": "https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN"
+    },
+    {
+      "added_at": "2024-12-20 16:20:39",
+      "album": {
         "name": "\u041a\u0430\u0440\u043d\u0456\u0437\u0438",
         "url": "https://open.spotify.com/album/39oe0p8Azz1pwo1UoP6qTR"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 158918,
       "name": "\u0426\u0438\u043a\u043b\u043e\u043d",
       "url": "https://open.spotify.com/track/1c1T8pmwyN93ZRW4RTBHY3"
-    },
-    {
-      "added_at": "2024-12-20 16:20:39",
-      "album": {
-        "name": "\u0411\u043e\u0441\u0456",
-        "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
-      },
-      "artists": [
-        {
-          "name": "STASYA",
-          "url": "https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u0411\u043e\u0441\u0456",
-      "url": "https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN"
     },
     {
       "added_at": "2024-12-20 16:20:39",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
-      },
-      "artists": [
-        {
-          "name": "Spiv Brativ",
-          "url": "https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b"
-        }
-      ],
-      "duration_ms": 210248,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
-    },
-    {
-      "added_at": "2024-12-20 16:20:39",
-      "album": {
         "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
         "url": "https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 157928,
       "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
       "url": "https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k"
+    },
+    {
+      "added_at": "2024-12-20 16:20:39",
+      "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
+      },
+      "artists": [
+        {
+          "name": "Spiv Brativ",
+          "url": "https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b"
+        }
+      ],
+      "duration_ms": 210248,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
     },
     {
       "added_at": "2024-12-20 16:20:39",

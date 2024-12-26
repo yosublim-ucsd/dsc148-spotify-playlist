@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 537602,
+  "num_followers": 537942,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Por El Mundo",
-        "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Adoro (with Armando Manzanero) - Remasterizado",
-      "url": "https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 168720,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Por El Mundo",
+        "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Adoro (with Armando Manzanero) - Remasterizado",
+      "url": "https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Bronco Amigo",
-        "url": "https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK"
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
         }
       ],
-      "duration_ms": 227120,
-      "name": "Amigo Bronco - Remasterizado",
-      "url": "https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe"
+      "duration_ms": 217026,
+      "name": "Y T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -699,22 +699,6 @@
       "duration_ms": 200973,
       "name": "Nubes De Algod\u00f3n",
       "url": "https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "Y T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -747,6 +731,22 @@
       "duration_ms": 174293,
       "name": "Ni El Primero Ni El \u00daltimo",
       "url": "https://open.spotify.com/track/5s5K4wDAyhKr9KANDwt1xI"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/5SHCgn1IOthKEpBkLIrhOK"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Amigo Bronco - Remasterizado",
+      "url": "https://open.spotify.com/track/1m0k0m72IIC6eew8pPMXLe"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Ilusiones",
-        "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
-      },
-      "artists": [
-        {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Coraz\u00f3n M\u00e1gico",
-      "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Verano De Amor",
         "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 205346,
       "name": "Me Quede Llorando",
       "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Ilusiones",
+        "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
+      },
+      "artists": [
+        {
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Coraz\u00f3n M\u00e1gico",
+      "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Antolog\u00eda. . . Los Freddy's",
-        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "El primer tonto",
-      "url": "https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Solo Lo Nuestro",
         "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 171826,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Antolog\u00eda. . . Los Freddy's",
+        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "El primer tonto",
+      "url": "https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Vanidosa",
-        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
+        "name": "20 Aniversario",
+        "url": "https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi"
       },
       "artists": [
         {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Es Que Te Amo",
-      "url": "https://open.spotify.com/track/201DoWLysj5vR8va945CCW"
+      "duration_ms": 221773,
+      "name": "Dos Enamorados",
+      "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "20 Aniversario",
-        "url": "https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi"
+        "name": "Vanidosa",
+        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
       },
       "artists": [
         {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
         }
       ],
-      "duration_ms": 221773,
-      "name": "Dos Enamorados",
-      "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
+      "duration_ms": 184733,
+      "name": "Es Que Te Amo",
+      "url": "https://open.spotify.com/track/201DoWLysj5vR8va945CCW"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Muchacha Triste",
-      "url": "https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "El Golpe Traidor",
         "url": "https://open.spotify.com/album/33AtEHrFcAgqtcfL3vM6Vo"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 185026,
       "name": "El Golpe Traidor",
       "url": "https://open.spotify.com/track/6P1G57zOECV3NYGChOan7U"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX"
     },
     {
       "added_at": "2024-08-28 00:51:57",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-429 songs - 22 hr 56 min
+430 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,8 @@
 | [Table for Two](https://open.spotify.com/track/5EEZKDXjDdi9wwaFUXR3lx) | [Nate Cole](https://open.spotify.com/artist/6Z7MRcEkL4SJML0I7tLrfE) | [Bad Beat](https://open.spotify.com/album/3aD2Np1R8Q8bhfk4MiC6Ja) | 4:34 | 2024-07-24 |  |
 | [Take Me Back to Manhattan](https://open.spotify.com/track/0KZZDI2qERGz2b04xoqUHr) | [Eileen Rodgers](https://open.spotify.com/artist/5U6AFHwdlMoOHEPmRQxTsN), [Anything Goes Ensemble \(1962\)](https://open.spotify.com/artist/7cTGaIRvLkJRjBTG0LbwwC) | [Anything Goes \(Off\-Broadway Cast Recording \(1962\)\)](https://open.spotify.com/album/5Q95OYMeaGOkULW2mb2LZ9) | 3:04 | 2024-07-24 |  |
 | [Tante Saar](https://open.spotify.com/track/0ceYUvpmZeUmvmsI01SLQj) | [Manke Nelis](https://open.spotify.com/artist/7jGonUtfSFZgtQ6hKbqyBr) | [Blijven Lachen In Het Leven](https://open.spotify.com/album/4shLcC3AtPlGvEaeYvomzN) | 2:59 | 2024-07-24 |  |
-| [Te Llevo Dentro de Mi](https://open.spotify.com/track/1JobAOOEO2v6IqtcsIUDbS) | [Cuerdas y Metales](https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM) | [Canciones Inolvidables](https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u) | 4:02 | 2024-07-24 |  |
+| [Te Llevo Dentro de Mi](https://open.spotify.com/track/1JobAOOEO2v6IqtcsIUDbS) | [Cuerdas y Metales](https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM) | [Canciones Inolvidables](https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u) | 4:02 | 2024-07-24 | 2024-12-26 |
+| [Te Llevo Dentro de Mi](https://open.spotify.com/track/5PdaxrF8LR1KLs4MT5GYKg) | [Lucien Pariseau](https://open.spotify.com/artist/1QiyHkw4VkdN42qISodFy6) | [El Delfín Azul](https://open.spotify.com/album/0DsncygpQfNbp37aewDx4W) | 4:02 | 2024-12-25 |  |
 | [Thank You So Much Mrs\. Lowsborough\-Goodby](https://open.spotify.com/track/6TzgQd0cfn4OaNkJYtc0it) | [Ambrose](https://open.spotify.com/artist/0iKiwo4LTF4E2EsJwcNZyF) | [Tribute To Cole Porter](https://open.spotify.com/album/3wFy6UAW8UC5rfN9Lj9dpZ) | 3:16 | 2024-08-17 |  |
 | [Thank You so Much, Mrs\. Lowsborough\-Goodbye](https://open.spotify.com/track/1UcNcfaDiPbm05TGKoSfTt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 2:31 | 2024-07-24 |  |
 | [That Black and White Baby of Mine \- Live at Town Hall](https://open.spotify.com/track/0VayNVTOj2v6dQkWEF7IP2) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [At Town Hall \[Live\]](https://open.spotify.com/album/2dzKhZ26eFjALkUkzWAeQK) | 2:36 | 2024-07-24 |  |

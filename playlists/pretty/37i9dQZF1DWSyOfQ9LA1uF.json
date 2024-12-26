@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 75148,
+  "num_followers": 75154,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Do I Look Like a Slut?",
+        "url": "https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz"
+      },
+      "artists": [
+        {
+          "name": "Avenue D",
+          "url": "https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Do I Look Like a Slut - Original Mix",
+      "url": "https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "From Then Until Now",
         "url": "https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 351094,
       "name": "Let Me Back Up - Crookers Tetsujin Remix",
       "url": "https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Do I Look Like a Slut?",
-        "url": "https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz"
-      },
-      "artists": [
-        {
-          "name": "Avenue D",
-          "url": "https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Do I Look Like a Slut - Original Mix",
-      "url": "https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt"
     },
     {
       "added_at": "2024-08-08 18:53:25",

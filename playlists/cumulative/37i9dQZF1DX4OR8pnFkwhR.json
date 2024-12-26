@@ -2369,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Break\u30fbSong",
+        "url": "https://open.spotify.com/album/3Ci1MyOX5zeBIAKKW7NNNX"
+      },
+      "artists": [
+        {
+          "name": "JIJIM",
+          "url": "https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294001,
+      "name": "Break\u30fbSong",
+      "url": "https://open.spotify.com/track/7D2hirXHmlESjgBh2UF80A"
+    },
+    {
+      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/3vhP0VsvbiEWQIicYU6S8Z"
       },
@@ -3642,7 +3660,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 265354,
       "name": "Daisy rainy",
       "url": "https://open.spotify.com/track/6eI2dBJDms9srJfLsso596"
@@ -9260,7 +9278,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-26",
       "duration_ms": 312998,
       "name": "Light",
       "url": "https://open.spotify.com/track/303gTSriG9PPpO8K2GRAsj"
@@ -14222,6 +14240,24 @@
       "duration_ms": 218666,
       "name": "SCREAM",
       "url": "https://open.spotify.com/track/5rmUnvLLqhUfE9IpQajosI"
+    },
+    {
+      "album": {
+        "name": "SCREW IN MY HEAD",
+        "url": "https://open.spotify.com/album/0G7UzUBmgZ2iLSPzs4lAru"
+      },
+      "artists": [
+        {
+          "name": "\u3093\u30fb\u30d5\u30a7\u30cb",
+          "url": "https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204927,
+      "name": "SCREW IN MY HEAD",
+      "url": "https://open.spotify.com/track/1WbLLiggPFFS1eniBZGLdK"
     },
     {
       "album": {

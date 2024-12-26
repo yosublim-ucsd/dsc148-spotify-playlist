@@ -15151,6 +15151,24 @@
     },
     {
       "album": {
+        "name": "Inner Beauty",
+        "url": "https://open.spotify.com/album/4I1wUmNewc1odMxPdVL4RX"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60272,
+      "name": "Inner Beauty",
+      "url": "https://open.spotify.com/track/1E5izEEAS6oUlCgfzmb22X"
+    },
+    {
+      "album": {
         "name": "Inner Calm",
         "url": "https://open.spotify.com/album/33a53pbruzxsvVmDRrQb03"
       },
